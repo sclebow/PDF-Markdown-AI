@@ -7,66 +7,56 @@ import PyPDF2
 import openai
 import tkinter as tk
 from tkinter import filedialog
+from PIL import Image
+import base64
 
-# Define functions
-def split_pdf(pdf_file_path, chunk_size, max_num_chunks=-1):
+def convert_to_markdown(image_file_path, client):
     """
-    Splits a PDF file into smaller chunks based on the specified chunk size.
-    
-    Args:
-        pdf_file_path (str): The path to the PDF file to be split.
-        chunk_size (int): The number of pages in each chunk.
-    
-    Returns:
-        list: A list of paths to the split PDF files.
+    Converts a image file to markdown format using OpenAI's GPT model.
     """
-    # Create a PDF reader object
-    with open(pdf_file_path, 'rb') as f:
-        reader = PyPDF2.PdfReader(f)
-        total_pages = len(reader.pages)
-        
-        # Create a list to store the paths of the split files
-        split_files = []
+    # Read the image file
+    with open(image_file_path, 'rb') as f:
+        image_data = f.read()
 
-        # Specify a directory to save the split files
-        split_dir = os.path.dirname(pdf_file_path)
-        sub_dir = os.path.join(split_dir, "split_files")
-        
-        # Split the PDF into smaller chunks
-        if max_num_chunks > 0:
-            total_pages = min(total_pages, max_num_chunks * chunk_size)
-        for i in range(0, total_pages, chunk_size):
-            writer = PyPDF2.PdfWriter()
-            for j in range(i, min(i + chunk_size, total_pages)):
-                writer.add_page(reader.pages[j])
-            split_file_path = os.path.join(sub_dir, f"chunk_{i // chunk_size + 1}.pdf")
-            with open(split_file_path, 'wb') as output_pdf:
-                writer.write(output_pdf)
-            split_files.append(split_file_path)
+    # Encode the image data to base64
+    base64_image = base64.b64encode(image_data).decode('utf-8')
+
+    message_text = "Convert this image into markdown, including any tables.  Some of the data is in the wrong columns, please pay attention to blank entries, and arrows that indicate data is the same as the row above.  Provide a table with the data in the correct columns.  The image is a screenshot of a PDF file.  The image is in base64 format.  Please provide the markdown text only, without any additional text or formatting."
     
-    return split_files
-def convert_to_markdown(pdf_file_path):
-    """
-    Converts a PDF file to markdown format using OpenAI's GPT model.
-    """
-    # Read the PDF file
-    with open(pdf_file_path, 'rb') as f:
-        reader = PyPDF2.PdfReader(f)
-        text = ""
-        for page in reader.pages:
-            text += page.extract_text()
+    # Use OpenAI's GPT model to convert the image to markdown
+    response = client.responses.create(
+        model="gpt-4.1",
+        input=[
+            {
+                "role": "user",
+                "content": [
+                    { "type": "input_text", "text": message_text },
+                    {
+                        "type": "input_image",
+                        "image_url": f"data:image/jpeg;base64,{base64_image}",
+                    },
+                ],
+            }
+        ],
+    )    
+    # Save the full response to a log file
+    log_file_path = os.path.join(os.path.dirname(image_file_path), "conversion_log.txt")
+    with open(log_file_path, 'a') as log_file:
+        log_file.write(f"Image: {image_file_path}\n")
+        log_file.write(f"Response: {response}\n")
+        log_file.write("\n" + "="*50 + "\n\n")
     
-    # Use OpenAI's GPT model to convert the text to markdown
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "user", "content": f"Convert the following text to markdown:\n\n{text}"}
-        ]
-    )
+    # Extract the markdown text from the response
+    try:
+        markdown_text = response.content[0].text
+    except (AttributeError, IndexError) as e:
+        print(f"Error: Unable to extract markdown text from response: {e}")
+        # return None
     
-    markdown_text = response['choices'][0]['message']['content']
-    
+    markdown_text = response.output_text
+
     return markdown_text
+
 def save_markdown(markdown_text, output_path):
     """
     Saves the markdown text to a file.
@@ -78,27 +68,15 @@ def save_markdown(markdown_text, output_path):
     with open(output_path, 'w') as f:
         f.write(markdown_text)
 
-def prompt_user_for_file(root):
-    # Hide the root window
-    root.withdraw()
-    
-    # Show the file dialog and get the selected file path
-    pdf_file_path = filedialog.askopenfilename(
-        title="Select PDF File",
-        filetypes=[("PDF files", "*.pdf"), ("All files", "*.*")]
-    )
-    
-    # If user cancels the dialog
-    if not pdf_file_path:
-        print("No file selected. Exiting.")
-        return
-    
-    return pdf_file_path
+# Function to encode the image
+def encode_image(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode("utf-8")
 
-def prompt_user_for_directory(root):
+def prompt_user_for_directory(root, title="Select Directory"):
     # Use a file dialog to get the directory to save markdown files
     markdown_directory = filedialog.askdirectory(
-        title="Select Directory for Markdown Files"
+        title=title,
     )
     
     # If user cancels the dialog
@@ -107,104 +85,85 @@ def prompt_user_for_directory(root):
         return
     
     return markdown_directory
-def prompt_user_for_chunk_size(root):
-    # Create a simple dialog to get the chunk size
-    chunk_size = tk.simpledialog.askinteger(
-        "Chunk Size",
-        "Enter the number of pages per chunk:",
-        minvalue=1,
-        initialvalue=3
-    )
-    # If user cancels the dialog
-    if chunk_size is None:
-        print("No chunk size entered. Exiting.")
-        return
-    # If user enters an invalid chunk size
-    if chunk_size <= 0:
-        print("Invalid chunk size. Exiting.")
-        return
-    # Return the chunk size
-    # Show the root window again
-    root.deiconify()
-    # Destroy the root window
-    root.destroy()
-    # Return the chunk size
-    return chunk_size
+
+def calculate_patches(image_file_path):
+    """
+    Calculate the number of patches in the image file.
+    
+    Args:
+        image_file_path (str): The path to the image file.
+    
+    Returns:
+        int: The number of patches in the image.
+    """
+    # The number of patches is calculated based on the image size
+    # Each patch is 32x32 pixels
+    image = Image.open(image_file_path)
+    width, height = image.size
+    num_x_patches = (width + 32 - 1) // 32 # Ceiling division
+    num_y_patches = (height + 32 - 1) // 32 # Ceiling division
+    num_patches = num_x_patches * num_y_patches
+
+    return num_patches
 
 # Main function
 def main():
     # Create a root window
     root = tk.Tk()
     
-    # Prompt the user for the file path of the PDF file
-    pdf_file_path = prompt_user_for_file(root)
-    if not pdf_file_path:
+    # Prompt the user to provide OpenAI API key using Tkinter
+    openai_api_key = tk.simpledialog.askstring("OpenAI API Key", "Enter your OpenAI API key:")
+    if not openai_api_key:
+        print("No API key provided. Exiting.")
         return
-    
+
+    # Prompt the user for the file path of the image files
+    image_directory = prompt_user_for_directory(root, "Select Directory with Image Files")
+    if not image_directory:
+        return
+
     # Prompt the user for the directory to save the markdown files
-    markdown_directory = prompt_user_for_directory(root)
+    markdown_directory = prompt_user_for_directory(root, "Select Directory to Save Markdown Files")
     if not markdown_directory:
         return
 
-    # Prompt the user for the chunk size
-    chunk_size = prompt_user_for_chunk_size(root)
+    # Get the list of image files in the directory
+    image_files = [f for f in os.listdir(image_directory) if f.endswith(('.jpg', '.jpeg', '.png'))]
+    if not image_files:
+        print("No image files found in the selected directory.")
+        return
+        
+    client = openai.OpenAI(api_key=openai_api_key)
 
-    # Check if the file exists
-    if not os.path.exists(pdf_file_path):
-        print("The specified PDF file does not exist.")
-        return
-    # Check if the directory exists
-    if not os.path.exists(markdown_directory):
-        print("The specified directory does not exist.")
-        return
-    # Check if the file is a PDF
-    if not pdf_file_path.endswith('.pdf'):
-        print("The specified file is not a PDF file.")
-        return
-    # Check if the chunk size is valid
-    if chunk_size <= 0:
-        print("The chunk size must be a positive integer.")
-        return
-    # Check if the directory is writable
-    if not os.access(markdown_directory, os.W_OK):
-        print("The specified directory is not writable.")
-        return
-    # Check if the file is readable
-    if not os.access(pdf_file_path, os.R_OK):
-        print("The specified PDF file is not readable.")
-        return
-    # Check if the file is a valid PDF
-    try:
-        with open(pdf_file_path, 'rb') as f:
-            reader = PyPDF2.PdfReader(f)
-            if len(reader.pages) == 0:
-                print("The specified PDF file is empty.")
-                return
-    except PyPDF2.errors.PdfReadError:
-        print("The specified file is not a valid PDF file.")
-        return
+    # Loop through each image file and convert it to markdown
+    for image_file in image_files[:1]: # Limit to 1 file for testing
+        image_file_path = os.path.join(image_directory, image_file)
 
-    # Split the PDF file into smaller chunks
-    split_files = split_pdf(pdf_file_path, chunk_size, max_num_chunks=5)
+        # Calculate number of patches
+        num_patches = calculate_patches(image_file_path)
+        print(f"Number of patches in {image_file}: {num_patches}")
 
-    print(f"Split the PDF file into {len(split_files)} chunks.")
-    for i, split_file in enumerate(split_files[:5]):
-        print(f"Chunk {i + 1}: {split_file}")
-
-    # Convert each chunk into markdown format by sending the text to OpenAI's GPT model
-    for i, split_file in enumerate(split_files):
-        # Convert the chunk to markdown
-        markdown_text = convert_to_markdown(split_file)
+        # Confirm with the user before proceeding
+        proceed = tk.messagebox.askyesno("Proceed?", f"Do you want to convert {image_file} to markdown?\nNumber of patches: {num_patches}")
+        if not proceed:
+            print("Conversion cancelled by user.")
+            continue
+        
+        # Convert the image to markdown
+        markdown_text = convert_to_markdown(image_file_path, client)
         
         # Save the markdown text to a file
-        output_path = os.path.join(markdown_directory, f"chunk_{i + 1}.md")
-        save_markdown(markdown_text, output_path)
+        markdown_file_name = os.path.splitext(image_file)[0] + ".md"
+        markdown_file_path = os.path.join(markdown_directory, markdown_file_name)
+        save_markdown(markdown_text, markdown_file_path)
         
-        print(f"Converted {split_file} to {output_path}")
+        print(f"Converted {image_file} to {markdown_file_name}")
 
-    # Save the markdown files to the specified directory
 
     # Print a message indicating that the process is complete
+    print("All images converted to markdown successfully.")
+    # Close the root window
+    root.destroy()
 
 if __name__ == "__main__":
     main()
