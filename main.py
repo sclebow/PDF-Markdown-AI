@@ -135,8 +135,17 @@ def main():
     client = openai.OpenAI(api_key=openai_api_key)
 
     # Loop through each image file and convert it to markdown
-    for image_file in image_files[:1]: # Limit to 1 file for testing
+    # for image_file in image_files[:1]: # Limit to 1 file for testing
+    for image_file in image_files:
         image_file_path = os.path.join(image_directory, image_file)
+
+        # Check if the markdown file already exists
+        markdown_file_name = os.path.splitext(image_file)[0] + ".md"
+        markdown_file_path = os.path.join(markdown_directory, markdown_file_name)
+
+        if os.path.exists(markdown_file_path):
+            print(f"Markdown file {markdown_file_name} already exists. Skipping conversion.")
+            continue
 
         # Calculate number of patches
         num_patches = calculate_patches(image_file_path)
@@ -152,12 +161,9 @@ def main():
         markdown_text = convert_to_markdown(image_file_path, client)
         
         # Save the markdown text to a file
-        markdown_file_name = os.path.splitext(image_file)[0] + ".md"
-        markdown_file_path = os.path.join(markdown_directory, markdown_file_name)
         save_markdown(markdown_text, markdown_file_path)
         
         print(f"Converted {image_file} to {markdown_file_name}")
-
 
     # Print a message indicating that the process is complete
     print("All images converted to markdown successfully.")
