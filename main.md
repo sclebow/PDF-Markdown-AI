@@ -87,16 +87,23 @@ flowchart TD
     D -->|Directory selected| E[Prompt for markdown output directory]:::step
     E -->|No directory| Z3[Exit]:::exit
     E -->|Directory selected| F[List image files]:::step
+    F -->|No images| Z4[Exit]:::exit
+    F -->|Images found| G[Initialize OpenAI client]:::step
+    G --> H{For each image file}:::loop
 
     %% Styles
     classDef start fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff;
     classDef en fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff;
     classDef exit fill:#F44336,stroke:#333,stroke-width:2px,color:#fff;
     classDef step fill:#FFF9C4,stroke:#333,stroke-width:1px;
+    classDef skip fill:#BDBDBD,stroke:#333,stroke-width:1px;
+    classDef loop fill:#E1BEE7,stroke:#333,stroke-width:1px;
 
     class A start;
     class R en;
-    class Z1,Z2,Z3 exit;
+    class Z1,Z2,Z3,Z4 exit;
+    class I skip;
+    class H,O loop;
 ```
 
 ### Partial Diagram: Process Each Image File
