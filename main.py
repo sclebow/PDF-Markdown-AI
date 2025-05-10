@@ -8,6 +8,7 @@ import tkinter as tk
 from tkinter import filedialog
 from PIL import Image
 import base64
+import datetime
 
 def convert_to_markdown(image_file_path, client):
     """
@@ -20,20 +21,26 @@ def convert_to_markdown(image_file_path, client):
     # Encode the image data to base64
     base64_image = base64.b64encode(image_data).decode('utf-8')
 
-    message_1_text = """Convert this image into markdown, including any tables.  
-Some of the data is in the wrong columns, please pay attention to blank entries, 
-and arrows that indicate data is the same as the row above.  
-Provide a table with the data in the correct columns.  
-The image is a screenshot of a PDF file.  The image is in base64 format.  
-Please provide the markdown text only, without any additional text or formatting.  
-Please do not include any code blocks or HTML tags."""
+    message_1_text = """
+Convert this image into markdown, including any tables.
+Transcribe the table exactly as shown in the image. Do not guess, infer, or fill in missing data.
+If a cell is blank, unclear, or contains a symbol (like a dash or arrow), reproduce it exactly as shown.
+Some of the data in the image may be misaligned; please carefully match each value to its correct column, and pay special attention to blank entries.
+Do not invent, hallucinate, or use any information that is not visible in the image. Only use data that is clearly visible in the image.
+If you are unsure about a value, leave the cell blank or write 'unclear'.
+Provide the markdown text only, without any additional text or formatting.
+Do not include any code blocks or HTML tags."""
     
-    message_2_text = """Use the image to verify the data in the table.
-The image is a screenshot of a PDF file.  The image is in base64 format.  
-Please provide the markdown text only, without any additional text or formatting.  
-Please do not include any code blocks or HTML tags.  
-Please verify all numbers in the table are the same as the image."""
+    message_2_text = """
+Carefully verify that every value in the markdown table matches the image exactly.
+If any value is unclear, leave the cell blank or mark as 'unclear'. Do not guess, infer, or fill in missing data.
+Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
+Please provide the markdown text only, without any additional text or formatting.
+Please do not include any code blocks or HTML tags.
+"""
     
+    sent_timestamp = datetime.datetime.now().isoformat()
+
     # Use OpenAI's GPT model to convert the image to markdown
     response = client.responses.create(
         model="gpt-4.1",
@@ -57,20 +64,52 @@ Please verify all numbers in the table are the same as the image."""
         ],
     )
 
-    # Save the full response to a log file
+#     # Ask ChatGPT to verify the markdown by sending the markdown text back to it and asking it to check for errors
+
+#     message_3_text = """
+# Please verify the markdown text below for any errors or inaccuracies.
+# If you find any errors, please correct them.
+# If the markdown text is correct, please confirm that it is accurate.
+# Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
+# Please provide the markdown text only, without any additional text or formatting.
+# Do not include any code blocks or HTML tags.
+# """
+#     response = client.responses.create(
+#         model="gpt-4.1",
+#         input=[
+#             {
+#                 "role": "user",
+#                 "content": [
+#                     { "type": "input_text", "text": message_3_text },
+#                     { "type": "input_text", "text": response.output_text },
+#                     {
+#                         "type": "input_image",
+#                         "image_url": f"data:image/jpeg;base64,{base64_image}",
+#                     },
+#                 ],
+#             }
+#         ],
+#     )
+    # Print the response from OpenAI
+    print("Response from OpenAI:")
+    print(response.output_text)
+
+    response_timestamp = datetime.datetime.now().isoformat()
+    time_taken = (datetime.datetime.fromisoformat(response_timestamp) - datetime.datetime.fromisoformat(sent_timestamp)).total_seconds()
+    print(f"Time taken for conversion: {time_taken} seconds")
+
+    # Save the full response, messages, and timestamp to a log file
     log_file_path = os.path.join(os.path.dirname(image_file_path), "conversion_log.txt")
     with open(log_file_path, 'a') as log_file:
+        log_file.write(f"Sent Timestamp: {sent_timestamp}\n")
         log_file.write(f"Image: {image_file_path}\n")
+        log_file.write(f"Message 1: {message_1_text.strip()}\n")
+        log_file.write(f"Message 2: {message_2_text.strip()}\n")
         log_file.write(f"Response: {response}\n")
+        log_file.write(f"Response Timestamp: {response_timestamp}\n")
+        log_file.write(f"Time Taken: {time_taken} seconds\n")
         log_file.write("\n" + "="*50 + "\n\n")
-    
-    # Extract the markdown text from the response
-    try:
-        markdown_text = response.content[1].text
-    except (AttributeError, IndexError) as e:
-        print(f"Error: Unable to extract markdown text from response: {e}")
-        # return None
-    
+       
     markdown_text = response.output_text
 
     return markdown_text
