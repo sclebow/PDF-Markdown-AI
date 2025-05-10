@@ -20,16 +20,19 @@ def convert_to_markdown(image_file_path, client):
     # Encode the image data to base64
     base64_image = base64.b64encode(image_data).decode('utf-8')
 
-    message_text = """Convert this image into markdown, including any tables.  
-                        Some of the data is in the wrong columns, please pay attention to blank entries, 
-                        and arrows that indicate data is the same as the row above.  
-                        Provide a table with the data in the correct columns.  
-                        The image is a screenshot of a PDF file.  The image is in base64 format.  
-                        Please provide the markdown text only, without any additional text or formatting.  
-                        Please do not include any code blocks or HTML tags.  
-                        The image is a screenshot of a PDF file.  The image is in base64 format.  
-                        Please provide the markdown text only, without any additional text or formatting.  
-                        Please do not include any code blocks or HTML tags."""
+    message_1_text = """Convert this image into markdown, including any tables.  
+Some of the data is in the wrong columns, please pay attention to blank entries, 
+and arrows that indicate data is the same as the row above.  
+Provide a table with the data in the correct columns.  
+The image is a screenshot of a PDF file.  The image is in base64 format.  
+Please provide the markdown text only, without any additional text or formatting.  
+Please do not include any code blocks or HTML tags."""
+    
+    message_2_text = """Use the image to verify the data in the table.
+The image is a screenshot of a PDF file.  The image is in base64 format.  
+Please provide the markdown text only, without any additional text or formatting.  
+Please do not include any code blocks or HTML tags.  
+Please verify all numbers in the table are the same as the image."""
     
     # Use OpenAI's GPT model to convert the image to markdown
     response = client.responses.create(
@@ -38,7 +41,13 @@ def convert_to_markdown(image_file_path, client):
             {
                 "role": "user",
                 "content": [
-                    { "type": "input_text", "text": message_text },
+                    { "type": "input_text", "text": message_1_text }
+                ],
+            },
+            {
+                "role": "user",
+                "content": [
+                    { "type": "input_text", "text": message_2_text },
                     {
                         "type": "input_image",
                         "image_url": f"data:image/jpeg;base64,{base64_image}",
@@ -46,7 +55,8 @@ def convert_to_markdown(image_file_path, client):
                 ],
             }
         ],
-    )    
+    )
+
     # Save the full response to a log file
     log_file_path = os.path.join(os.path.dirname(image_file_path), "conversion_log.txt")
     with open(log_file_path, 'a') as log_file:
@@ -56,7 +66,7 @@ def convert_to_markdown(image_file_path, client):
     
     # Extract the markdown text from the response
     try:
-        markdown_text = response.content[0].text
+        markdown_text = response.content[1].text
     except (AttributeError, IndexError) as e:
         print(f"Error: Unable to extract markdown text from response: {e}")
         # return None
@@ -118,9 +128,22 @@ def calculate_patches(image_file_path):
 def main():
     # Create a root window
     root = tk.Tk()
+
+    # Read the OpenAI API key from the text file
+    key_file_path = os.path.join(os.path.dirname(__file__), "openai_key.txt")
+    if os.path.exists(key_file_path):
+        with open(key_file_path, 'r') as key_file:
+            openai_api_key = key_file.read().strip()
+    else:
+        print("API key file not found. Please provide the API key manually.")
+        openai_api_key = ""
     
     # Prompt the user to provide OpenAI API key using Tkinter
-    openai_api_key = tk.simpledialog.askstring("OpenAI API Key", "Enter your OpenAI API key:")
+    openai_api_key = tk.simpledialog.askstring(
+        "OpenAI API Key",
+        "Enter your OpenAI API key:",
+        initialvalue=openai_api_key
+    )
     if not openai_api_key:
         print("No API key provided. Exiting.")
         return
