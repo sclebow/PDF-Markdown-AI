@@ -20,7 +20,16 @@ def convert_to_markdown(image_file_path, client):
     # Encode the image data to base64
     base64_image = base64.b64encode(image_data).decode('utf-8')
 
-    message_text = "Convert this image into markdown, including any tables.  Some of the data is in the wrong columns, please pay attention to blank entries, and arrows that indicate data is the same as the row above.  Provide a table with the data in the correct columns.  The image is a screenshot of a PDF file.  The image is in base64 format.  Please provide the markdown text only, without any additional text or formatting.  Please do not include any code blocks or HTML tags.  The image is a screenshot of a PDF file.  The image is in base64 format.  Please provide the markdown text only, without any additional text or formatting.  Please do not include any code blocks or HTML tags."
+    message_text = """Convert this image into markdown, including any tables.  
+                        Some of the data is in the wrong columns, please pay attention to blank entries, 
+                        and arrows that indicate data is the same as the row above.  
+                        Provide a table with the data in the correct columns.  
+                        The image is a screenshot of a PDF file.  The image is in base64 format.  
+                        Please provide the markdown text only, without any additional text or formatting.  
+                        Please do not include any code blocks or HTML tags.  
+                        The image is a screenshot of a PDF file.  The image is in base64 format.  
+                        Please provide the markdown text only, without any additional text or formatting.  
+                        Please do not include any code blocks or HTML tags."""
     
     # Use OpenAI's GPT model to convert the image to markdown
     response = client.responses.create(
