@@ -29,6 +29,55 @@ This notebook demonstrates a workflow for converting images (such as scanned pag
    - All steps, including prompts and outputs, are logged for traceability.
    - The final markdown files can be used for further analysis or documentation.
 
+## Token Efficiency with Vertices Approach
+
+By extracting both the OCR text and the vertices (bounding box coordinates) from the image, and sending only this structured information to ChatGPT, the workflow becomes significantly more token efficient compared to sending the entire image or large unstructured data blobs. 
+This approach allows for batch processing of many images without exceeding token or context window limits, making it suitable for large-scale document digitization.
+
+## Google Cloud Vision API Free Tier and Token Usage
+
+Google Cloud Vision API offers new users \$300 in free credits, which can be used across all Google Cloud services, including Vision OCR. The OCR process appears to use no tokens with Google Cloud Vision.  Compared to GPT-4.1, which costs approximately $0.02 per image input, from our testing.  
+
+## Process Overview (Mermaid Diagram)
+
+```mermaid
+flowchart TD
+    subgraph Inputs
+        A[Image File .jpg/.png]:::imagefile
+    end
+    subgraph OCR
+        B[Google Vision OCR]:::ocr
+        B1((API Key)):::input
+    end
+    subgraph Extraction
+        C[Extracted Text & Vertices<br/>.txt]:::extract
+    end
+    subgraph ChatGPT
+        D[Send to ChatGPT]:::chatgpt
+        D1((OpenAI API Key)):::input
+    end
+    subgraph Outputs
+        E[Markdown Output<br>.md]:::markdown
+        F[Logs & Intermediate Files]:::logs
+    end
+
+    A --> B
+    B1 -.-> B
+    B --> C
+    C --> D
+    D1 -.-> D
+    D --> E
+    D --> F
+
+    classDef imagefile fill:#f9f,stroke:#333,stroke-width:2;
+    classDef ocr fill:#bbf,stroke:#333,stroke-width:2;
+    classDef extract fill:#bfb,stroke:#333,stroke-width:2;
+    classDef chatgpt fill:#ffd700,stroke:#333,stroke-width:2;
+    classDef markdown fill:#fff3cd,stroke:#333,stroke-width:2;
+    classDef logs fill:#e0e0e0,stroke:#333,stroke-width:2;
+    classDef input fill:#cce5ff,stroke:#333,stroke-width:1,stroke-dasharray: 5 5;
+```
+
 ## Key Functions
 
 - `extract_text_with_google_vision(image_path)`: Extracts text and bounding box vertices from an image using Google Cloud Vision.
