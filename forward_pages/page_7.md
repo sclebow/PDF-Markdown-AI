@@ -1,0 +1,44 @@
+# How the Cost Data Is Built: An Overview
+
+## Unit Prices*
+All cost data have been divided into 50 divisions according to the MasterFormatⓇ system of classification and numbering.
+
+## Assemblies*
+The cost data in this section have been organized in an "Assemblies" format. These assemblies are the functional elements of a building and are arranged according to the 7 elements of the UNIFORMAT II classification system. For a complete explanation of a typical "Assembly", see "RSMeans data: Assemblies-How They Work."
+
+## Residential Models*
+Model buildings for four classes of construction—economy, average, custom, and luxury—are developed and shown with complete costs per square foot.
+
+## Commercial/Industrial/Institutional Models*
+This section contains complete costs for 77 typical model buildings expressed as costs per square foot.
+
+## Green Commercial/Industrial/Institutional Models*
+This section contains complete costs for 25 green model buildings expressed as costs per square foot.
+
+## References*
+This section includes information on Equipment Rental Costs, Crew Listings, Historical Cost Indexes, City Cost Indexes, Location Factors, Reference Tables, and Change Orders, as well as a listing of abbreviations.
+
+- **Equipment Rental Costs:** Included are the average costs to rent and operate hundreds of pieces of construction equipment.
+- **Crew Listings:** This section lists all the crews referenced in the cost data. A crew is composed of more than one trade classification and/or the addition of power equipment to any trade classification. Power equipment is included in the cost of the crew. Costs are shown both with bare labor rates and with the installing contractor's overhead and profit added. For each, the total crew cost per eight-hour day and the composite cost per labor-hour are listed.
+
+Unit Cost data  
+Assembly Cost data  
+Square Foot Models
+
+- **Historical Cost Indexes:** These indexes provide you with data to adjust construction costs over time.
+- **City Cost Indexes:** All costs in this data set are U.S. national averages. Costs vary by region. You can adjust for this by CSI Division to over 730 cities in 900+ 3-digit zip codes throughout the U.S. and Canada by using this data.
+- **Location Factors:** You can adjust total project costs to over 730 cities in 900+ 3-digit zip codes throughout the U.S. and Canada by using the weighted number, which applies across all divisions.
+- **Reference Tables:** At the beginning of selected major classifications in the Unit Prices are reference numbers indicators. These numbers refer you to related information in the Reference Section. In this section, you'll find reference tables, explanations, and estimating information that support how we develop the unit price data, technical data, and estimating procedures.
+- **Change Orders:** This section includes information on the factors that influence the pricing of change orders.
+
+IN  
+**Abbreviations:** A listing of abbreviations used throughout this information, along with the terms they represent, is included.
+
+**Index (printed versions only)**  
+A comprehensive listing of all terms and subjects will help you quickly find what you need when you are not sure where it occurs in MasterFormatⓇ.
+
+## Conclusion
+This information is designed to be as comprehensive and easy to use as possible. The Construction Specifications Institute (CSI) and Construction Specifications Canada (CSC) have produced the 2018 edition of MasterFormatⓇ, a system of titles and numbers used extensively to organize construction information. All unit prices in the RSMeans cost data are now arranged in the 50-division MasterFormat® 2018 system.
+
+Not all information is available in all data sets  
+V

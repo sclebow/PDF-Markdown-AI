@@ -1,0 +1,48 @@
+# How to Use the Cost Data: The Details
+
+## What's Behind the Numbers?
+
+### The Development of Cost Data
+
+RSMeans data engineers continually monitor developments in the construction industry to ensure reliable, thorough, and up-to-date cost information. While overall construction costs may vary relative to general economic conditions, price fluctuations within the industry are dependent upon many factors. Individual price variations may, in fact, be opposite to overall economic trends. Therefore, costs are constantly tracked and complete updates are performed yearly. Also, new items are frequently added in response to changes in materials and methods.
+
+### Costs in U.S. Dollars
+
+All costs represent U.S. national averages and are given in U.S. dollars. The City Cost Index (CCI) with RSMeans data can be used to adjust costs to a particular location. The CCI for Canada can be used to adjust U.S. national averages to local costs in Canadian dollars. No exchange rate conversion is necessary because it has already been factored in.
+
+G  
+The processes or products identified by the green symbol in our publications have been determined to be environmentally responsible and/or resource-efficient solely by RSMeans data engineering staff. The inclusion of the green symbol does not represent compliance with any specific industry association or standard.
+
+### Material Costs
+
+RSMeans data engineers contact manufacturers, dealers, distributors, and contractors all across the U.S. and Canada to determine national average material costs. If you have access to current material costs for your specific location, you may wish to make adjustments to reflect differences from the national average. Included within material costs are fasteners for a normal installation. RSMeans data engineers use manufacturers' recommendations, written specifications, and/or standard construction practices for the sizing and spacing of fasteners. Adjustments to material costs may be required for your specific application or location. The manufacturer's warranty is assumed. Extended warranties are not included in the material costs. Material costs do not include sales tax.
+
+### Labor Costs
+
+Labor costs are based upon a mathematical average of trade-specific wages in 30 major U.S. cities. The type of wage (union, open shop, or residential) is identified on the inside back cover of printed publications or selected by the estimator when using the electronic products. Markups for the wages can also be found on the inside back cover of printed publications and/or under the labor references found in the electronic products.
+
+If wage rates in your area vary from those used, or if rate increases are expected within a given year, labor costs should be adjusted accordingly.
+
+Labor costs reflect productivity based on actual working conditions. In addition to actual installation, these figures include time spent during a normal weekday on tasks, such as material receiving and handling, mobilization at the site, site movement, breaks, and cleanup. Productivity data is developed over an extended period so as not to be influenced by abnormal variations and reflects a typical average.
+
+### Equipment Costs
+
+Equipment costs include not only rental but also operating costs for equipment under normal use. The operating costs include parts and labor for routine servicing, such as the repair and replacement of pumps, filters, and worn lines. Normal operating expendables, such as fuel, lubricants, tires, and electricity (where applicable), are also included. Extraordinary operating expendables with highly variable wear patterns, such as diamond bits and blades, are excluded. These costs are included under materials. Equipment rental rates are obtained from industry sources throughout North America—contractors, suppliers, dealers, manufacturers, and distributors.
+
+Rental rates can also be treated as reimbursement costs for contractor-owned equipment. Owned equipment costs include depreciation, loan payments, interest, taxes, insurance, storage, and major repairs. Equipment costs do not include operators' wages.
+
+**Equipment Cost/Day**—The cost of equipment required for each crew is included in the Crew Listings in the Reference Section (small tools that are considered essential everyday tools are not listed out separately). The Crew Listings itemize specialized tools and heavy equipment along with labor trades. The daily cost of itemized equipment included in a crew is based on dividing the weekly bare rental rate by 5 (number of working days per week), then adding the hourly operating cost times 8 (the number of hours per day). This Equipment Cost/Day is shown in the last column of the Equipment Rental Costs in the Reference Section.
+
+**Mobilization, Demobilization**—The cost to move construction equipment from an equipment yard or rental company to the job site and back again is not included in equipment costs. Mobilization (to the site) and demobilization (from the site) costs can be found in the Unit Price Section. If a piece of equipment is already at the job site, it is not appropriate to utilize mobilization or demobilization costs again in an estimate.
+
+### Overhead and Profit
+
+Total Cost including O&P for the installing contractor is shown in the last column of the Unit Price and/or Assemblies. This figure is the sum of the bare material cost plus 10% for profit, the bare labor cost plus total overhead and profit, and the bare equipment cost plus 10% for profit. Details for the calculation of overhead and profit on labor are shown on the inside back cover of the printed product and in the Reference Section of the electronic product.
+
+### General Conditions
+
+Cost data in this data set are presented in two ways: Bare Costs and Total Cost including O&P (Overhead and Profit). General Conditions, or General Requirements, of the contract should also be added to the Total Cost including O&P when applicable. Costs for General Conditions are listed in Division 1 of the Unit Price Section and in the Reference Section.
+
+General Conditions for the installing contractor may range from 0% to 10% of the Total Cost including O&P. For the general or prime contractor, costs for General Conditions may range from 5% to 15% of the Total Cost including O&P, with a figure of 10% as the most typical allowance. If applicable, the Assemblies and Models sections use costs that include the installing contractor's overhead and profit (O&P).
+
+ix

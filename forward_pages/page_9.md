@@ -1,0 +1,56 @@
+Estimating with RSMeans data:  
+Unit Prices
+
+Following these steps will allow you to complete an accurate estimate using RSMeans data: Unit Prices.
+
+1. Scope Out the Project  
+Think through the project and identify the CSI divisions needed in your estimate.  
+■ Identify the individual work tasks that will need to be covered in your estimate.  
+The Unit Price data have been divided into 50 divisions according to CSI MasterFormatⓇ 2018.  
+In printed versions, the Unit Price Section Table of Contents on page 1 may also be helpful when scoping out your project.  
+■ Experienced estimators find it helpful to begin with Division 2 and continue through completion. Division 1 can be estimated after the full project scope is known.
+
+2. Quantify  
+Determine the number of units required for each work task that you identified.  
+■ Experienced estimators include an allowance for waste in their quantities. (Waste is not included in our Unit Price line items unless otherwise stated.)
+
+3. Price the Quantities  
+Use the search tools available to locate individual Unit Price line items for your estimate.  
+Reference Numbers indicated within a Unit Price section refer to additional information that you may find useful.  
+The crew indicates who is performing the work for that task. Crew codes are expanded in the Crew Listings in the Reference Section to include all trades and equipment that comprise the crew.  
+The Daily Output is the amount of work the crew is expected to complete in one day.  
+The Labor-Hours value is the amount of time it will take for the crew to install one unit of work.  
+The abbreviated Unit designation indicates the unit of measure upon which the crew, productivity, and prices are based.  
+Bare Costs are shown for materials, labor, and equipment needed to complete the Unit Price line item. Bare costs do not include waste, project overhead, payroll insurance, payroll taxes, main office overhead, or profit.  
+The Total Incl O&P cost is the billing rate or invoice amount of the installing contractor or subcontractor who performs the work for the Unit Price line item.
+
+4. Multiply  
+■ Multiply the total number of units needed for your project by the Total Incl O&P cost for each Unit Price line item.  
+Be careful that your take off unit of measure matches the unit of measure in the Unit column.  
+The price you calculate is an estimate for a completed item of work.  
+■ Keep scoping individual tasks, determining the number of units required for those tasks, matching each task with individual Unit Price line items, and multiplying quantities by Total Incl O&P costs.  
+An estimate completed in this manner is priced as if a subcontractor, or set of subcontractors, is performing the work.  
+The estimate does not yet include Project Overhead or Estimate Summary components such as general contractor markups on subcontracted work, general contractor office overhead and profit, contingency, and Location factors.
+
+5. Project Overhead  
+Include project overhead items from Division 1-General Requirements.  
+These items are needed to make the job run. They are typically, but not always, provided by the general contractor. Items include, but are not limited to, field personnel, insurance, performance bond, permits, testing, temporary utilities, field office and storage facilities, temporary scaffolding and platforms, equipment mobilization and demobilization, temporary roads and sidewalks, winter protection, temporary barricades and fencing, temporary security, temporary signs, field engineering and layout, final cleaning, and commissioning.  
+Each item should be quantified and matched to individual Unit Price line items in Division 1, then priced and added to your estimate.  
+An alternate method of estimating project overhead costs is to apply a percentage of the total project cost-usually 5% to 15% with an average of 10% (see General Conditions).  
+■ Include other project related expenses in your estimate such as:  
+ㅁ Rented equipment not itemized in the Crew Listings  
+ㅁ Rubbish handling throughout the project (see section 02 41 19.19)
+
+6. Estimate Summary  
+Include sales tax as required by laws of your state or county.  
+Include the general contractor's markup on self-performed work, usually 5% to 15% with an average of 10%.  
+Include the general contractor's markup on subcontracted work, usually 5% to 15% with an average of 10%.  
+Include the general contractor's main office overhead and profit:  
+口 RSMeans data provides general guidelines on the general contractor's main office overhead (see section 01 31 13.60 and Reference Number R013113-50).  
+Markups will depend on the size of the general contractor's operations, projected annual revenue, the level of risk, and the level of competition in the local area and for this project in particular.  
+■ Include a contingency, usually 3% to 5%, if appropriate.  
+■ Adjust your estimate to the project's location by using the City Cost Indexes or the Location Factors in the Reference Section:  
+Look at the rules in "How to Use the City Cost Indexes" to see how to apply the Indexes for your location.  
+When the proper Index or Factor has been identified for the project's location, convert it to a multiplier by dividing it by 100, then multiply that multiplier by your estimated total cost. The original estimated total cost will now be adjusted up or down from the national average to a total that is appropriate for your location.
+
+vii
