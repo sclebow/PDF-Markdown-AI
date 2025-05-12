@@ -9,108 +9,210 @@ from tkinter import filedialog
 from PIL import Image
 import base64
 import datetime
+import pytesseract
+import cv2
+import numpy as np
+from google.cloud import vision
 
-def convert_to_markdown(image_file_path, client):
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+POPPLER_PATH = r"C:\Program Files\poppler-24.08.0\Library\bin"
+
+def extract_text_with_google_vision(image_path):
     """
-    Converts a image file to markdown format using OpenAI's GPT model.
+    Use Google Cloud Vision OCR to extract text from the image.
     """
-    # Read the image file
-    with open(image_file_path, 'rb') as f:
-        image_data = f.read()
+    client = vision.ImageAnnotatorClient()
+    with open(image_path, "rb") as image_file:
+        content = image_file.read()
+    image = vision.Image(content=content)
 
-    # Encode the image data to base64
-    base64_image = base64.b64encode(image_data).decode('utf-8')
-
-    message_1_text = """
-Convert this image into markdown, including any tables.
-Transcribe the table exactly as shown in the image. Do not guess, infer, or fill in missing data.
-If a cell is blank, unclear, or contains a symbol (like a dash or arrow), reproduce it exactly as shown.
-Some of the data in the image may be misaligned; please carefully match each value to its correct column, and pay special attention to blank entries.
-Do not invent, hallucinate, or use any information that is not visible in the image. Only use data that is clearly visible in the image.
-If you are unsure about a value, leave the cell blank or write 'unclear'.
-Provide the markdown text only, without any additional text or formatting.
-Do not include any code blocks or HTML tags."""
+    response = client.text_detection(image=image)
+    texts = response.text_annotations
     
-    message_2_text = """
-Carefully verify that every value in the markdown table matches the image exactly.
-If any value is unclear, leave the cell blank or mark as 'unclear'. Do not guess, infer, or fill in missing data.
-Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
-Please provide the markdown text only, without any additional text or formatting.
-Please do not include any code blocks or HTML tags.
-"""
-    
-    sent_timestamp = datetime.datetime.now().isoformat()
+    output = ""
 
-    # Use OpenAI's GPT model to convert the image to markdown
-    response = client.responses.create(
-        model="gpt-4.1",
-        input=[
-            {
-                "role": "user",
-                "content": [
-                    { "type": "input_text", "text": message_1_text }
-                ],
-            },
-            {
-                "role": "user",
-                "content": [
-                    { "type": "input_text", "text": message_2_text },
-                    {
-                        "type": "input_image",
-                        "image_url": f"data:image/jpeg;base64,{base64_image}",
-                    },
-                ],
+    print("Texts:")
+    for text in texts:
+        print(f'\n"{text.description}"')
+        vertices = (['({},{})'.format(vertex.x, vertex.y) for vertex in text.bounding_poly.vertices])
+        print('bounds: {}'.format(','.join(vertices)))
+        
+        output += text.description + "\n"
+
+    print(f'Extracted text from {image_path}:\n{text}')
+
+    return text
+
+def preprocess_text(text):
+    """
+    Preprocess the text to remove unwanted strings
+    and group lines of text.
+    """
+    # Remove "2022 Bare Costs" from the text
+    # This is a specific requirement for the text extraction
+    text = text.replace("2022 Bare Costs", "")
+
+    # In general each line of the image should follow the same format
+    # First there is a four digit integer that is the ID of the row
+    # Then there is a string that is the name of the row
+    # Then there is a sometimes a crew name, but not always
+    # Then there is a series of numbers that are the values of the row
+
+    # We first need to identify the ids
+    # Then we can assume that the next string is the name of the row
+    # Then we can assume that the next string is the crew name, unless it is a number
+    # Then we can assume that all the strings after that are the values of the row until we reach the next id
+
+    # Split the text into lines
+    lines = text.split("\n")
+    # Initialize a dictionary to hold the processed lines
+    processed_lines = {}
+
+    # Initialize a flag to indicate which id we are currently processing
+    current_id = None
+
+    # Iterate through each line
+    for line in lines:
+        # Strip leading and trailing whitespace
+        line = line.strip()
+
+        # Check if the line starts with a four digit number
+        if len(line) == 4 and line.isdigit():
+            # We have found a new row
+            id = line
+            current_id = id
+            processed_lines[id] = {
+                "name": "",
+                "crew": "",
+                "values": []
             }
-        ],
+        elif current_id is None:
+            # We are processing the header or a blank line
+            if "header" in processed_lines.keys():
+                processed_lines["header"].append(line)
+            else:
+                processed_lines["header"] = [line]
+        elif line.isdigit():
+            # We have found a number, this is a value
+            processed_lines[current_id]["values"].append(line)
+        elif line:
+            # We have found a string, this is the name or crew
+            if processed_lines[current_id]["name"] == "":
+                # This is the name
+                processed_lines[current_id]["name"] = line
+            elif processed_lines[current_id]["crew"] == "":
+                # This is the crew
+                processed_lines[current_id]["crew"] = line
+            else:
+                # This is an additional value
+                processed_lines[current_id]["values"].append(line)
+
+    # Now we need to convert the processed lines into a text format
+    processed_text = ""
+    for id, data in processed_lines.items():
+        if id == "header":
+            processed_text += "\n".join(data) + "\n"
+        else:
+            # Join the values with commas
+            values = ", ".join(data["values"])
+            # Create a line with the id, name, crew and values
+            processed_text += f"{id}: {data['name']}, {data['crew']}, {values}\n"  
+
+    return processed_text
+
+def preprocess_image(image_path):
+    """
+    Preprocess the image for better OCR results.
+    """
+    image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+    # Resize if too large
+    if max(image.shape) > 2000:
+        scale = 2000 / max(image.shape)
+        image = cv2.resize(image, None, fx=scale, fy=scale, interpolation=cv2.INTER_AREA)
+    # Apply adaptive thresholding
+    image = cv2.adaptiveThreshold(image, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+                                  cv2.THRESH_BINARY, 31, 2)
+    # Denoise
+    image = cv2.fastNlMeansDenoising(image, None, 30, 7, 21)
+    return image
+
+def extract_text_with_ocr(image_path):
+    """
+    Use Tesseract OCR to extract text from the image.
+    """
+    preprocessed = preprocess_image(image_path)
+    # Save temp file for pytesseract
+    temp_path = image_path + "_preprocessed.png"
+    cv2.imwrite(temp_path, preprocessed)
+    text = pytesseract.image_to_string(temp_path)
+    os.remove(temp_path)
+    return text
+
+def convert_ocr_text_and_image_to_markdown(ocr_text, image_file_path, client, log_dir=None):
+    """
+    Sends both the OCR text and the original image to ChatGPT, instructing it to only arrange the OCR text into markdown,
+    not to transcribe from the image.
+    """
+    with open(image_file_path, "rb") as image_file:
+        base64_image = base64.b64encode(image_file.read()).decode("utf-8")
+
+    column_headers = [
+        "ID",
+        "Name",
+        "Crew",
+        "Daily Output",
+        "Labor-Hours",
+        "Unit",
+        "Material",
+        "Labor",
+        "Equipment",
+        "Total",
+        "Total Incl O&P",
+    ]
+
+    prompt = (
+        "You are given the OCR-extracted text from an image and the original image itself. "
+        "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
+        "Do NOT transcribe or extract any new information from the image. "
+        "Only use the provided OCR text. "
+        "If the OCR text is unclear, leave it as is. "
+        "Do not add, guess, or hallucinate any information. "
+        "If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
+        "Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
+        f"The table columns are: {', '.join(column_headers)}. "
+        "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
+        "OCR Text:\n"
+        f"{ocr_text}"
     )
 
-#     # Ask ChatGPT to verify the markdown by sending the markdown text back to it and asking it to check for errors
+    response = client.chat.completions.create(
+        model="gpt-4.1",
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": prompt},
+                    {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"}}
+                ]
+            }
+        ],
+        temperature=0,
+    )
+    markdown_text = response.choices[0].message.content.strip()
 
-#     message_3_text = """
-# Please verify the markdown text below for any errors or inaccuracies.
-# If you find any errors, please correct them.
-# If the markdown text is correct, please confirm that it is accurate.
-# Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
-# Please provide the markdown text only, without any additional text or formatting.
-# Do not include any code blocks or HTML tags.
-# """
-#     response = client.responses.create(
-#         model="gpt-4.1",
-#         input=[
-#             {
-#                 "role": "user",
-#                 "content": [
-#                     { "type": "input_text", "text": message_3_text },
-#                     { "type": "input_text", "text": response.output_text },
-#                     {
-#                         "type": "input_image",
-#                         "image_url": f"data:image/jpeg;base64,{base64_image}",
-#                     },
-#                 ],
-#             }
-#         ],
-#     )
-    # Print the response from OpenAI
-    print("Response from OpenAI:")
-    print(response.output_text)
-
-    response_timestamp = datetime.datetime.now().isoformat()
-    time_taken = (datetime.datetime.fromisoformat(response_timestamp) - datetime.datetime.fromisoformat(sent_timestamp)).total_seconds()
-    print(f"Time taken for conversion: {time_taken} seconds")
-
-    # Save the full response, messages, and timestamp to a log file
-    log_file_path = os.path.join(os.path.dirname(image_file_path), "conversion_log.txt")
-    with open(log_file_path, 'a') as log_file:
-        log_file.write(f"Sent Timestamp: {sent_timestamp}\n")
-        log_file.write(f"Image: {image_file_path}\n")
-        log_file.write(f"Message 1: {message_1_text.strip()}\n")
-        log_file.write(f"Message 2: {message_2_text.strip()}\n")
-        log_file.write(f"Response: {response}\n")
-        log_file.write(f"Response Timestamp: {response_timestamp}\n")
-        log_file.write(f"Time Taken: {time_taken} seconds\n")
-        log_file.write("\n" + "="*50 + "\n\n")
-       
-    markdown_text = response.output_text
+    # Logging
+    if log_dir is not None:
+        log_file_path = os.path.join(log_dir, "conversion_log.txt")
+        with open(log_file_path, 'a', encoding='utf-8') as log_file:
+            log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
+            log_file.write(f"Image: {image_file_path}\n")
+            log_file.write("OCR Text:\n")
+            log_file.write(ocr_text + "\n")
+            log_file.write("Prompt:\n")
+            log_file.write(prompt + "\n")
+            log_file.write("GPT Markdown Output:\n")
+            log_file.write(markdown_text + "\n")
+            log_file.write("="*60 + "\n\n")
 
     return markdown_text
 
@@ -169,9 +271,9 @@ def main():
     root = tk.Tk()
 
     # Read the OpenAI API key from the text file
-    key_file_path = os.path.join(os.path.dirname(__file__), "openai_key.txt")
-    if os.path.exists(key_file_path):
-        with open(key_file_path, 'r') as key_file:
+    openai_key_file_path = os.path.join(os.path.dirname(__file__), "openai_key.txt")
+    if os.path.exists(openai_key_file_path):
+        with open(openai_key_file_path, 'r') as key_file:
             openai_api_key = key_file.read().strip()
     else:
         print("API key file not found. Please provide the API key manually.")
@@ -187,15 +289,36 @@ def main():
         print("No API key provided. Exiting.")
         return
 
+    # Using TKinter, prompt the user to provide Google Cloud API json key
+    google_cloud_key_file_path = os.path.join(os.path.dirname(__file__), "google_cloud_key.json")
+    if os.path.exists(google_cloud_key_file_path):
+        with open(google_cloud_key_file_path, 'r') as key_file:
+            google_cloud_api_key = key_file.read().strip()
+    else:
+        print("Google Cloud API key file not found. Please provide the API key manually.")
+        google_cloud_api_key = ""
+    
+    # Prompt the user to provide Google Cloud API key using Tkinter file dialog
+    google_cloud_key_file_path = filedialog.askopenfilename(
+        title="Select Google Cloud API Key File",
+        filetypes=[("JSON files", "*.json")],
+        initialdir=os.path.dirname(__file__)
+    )
+
+    # Set the environment variable for Google Cloud API key
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = google_cloud_key_file_path
+
     # Prompt the user for the file path of the image files
     image_directory = prompt_user_for_directory(root, "Select Directory with Image Files")
     if not image_directory:
         return
 
-    # Prompt the user for the directory to save the markdown files
-    markdown_directory = prompt_user_for_directory(root, "Select Directory to Save Markdown Files")
-    if not markdown_directory:
-        return
+    # # Prompt the user for the directory to save the markdown files
+    # markdown_directory = prompt_user_for_directory(root, "Select Directory to Save Markdown Files")
+    # if not markdown_directory:
+    #     return
+
+    markdown_directory = image_directory  # Save markdown files in the same directory as images
 
     # Get the list of image files in the directory
     image_files = [f for f in os.listdir(image_directory) if f.endswith(('.jpg', '.jpeg', '.png'))]
@@ -228,13 +351,42 @@ def main():
             print("Conversion cancelled by user.")
             continue
         
-        # Convert the image to markdown
-        markdown_text = convert_to_markdown(image_file_path, client)
+        # Check if the file has already been processed with OCR
+        ocr_text_file_path = os.path.join(markdown_directory, f"{os.path.splitext(image_file)[0]}_ocr.txt")
+        processed_ocr_text_file_path = os.path.join(markdown_directory, f"{os.path.splitext(image_file)[0]}_processed_ocr.txt")
+
+        if os.path.exists(ocr_text_file_path):
+            print(f"OCR text file {ocr_text_file_path} already exists. Skipping OCR.")
+            with open(ocr_text_file_path, 'r') as ocr_file:
+                ocr_text = ocr_file.read()
+        else:
+            # Extract text using OCR
+            ocr_text = extract_text_with_google_vision(image_file_path)
+
+            # Save the OCR text to a file
+            with open(ocr_text_file_path, 'w', encoding='utf-8') as ocr_file:
+                ocr_file.write(ocr_text)
+            print(f"Saved OCR text to {ocr_text_file_path}")
+            
+            # Preprocess the OCR text
+            ocr_text = preprocess_text(ocr_text)
+
+            # Save the processed OCR text to a file
+            with open(processed_ocr_text_file_path, 'w', encoding='utf-8') as processed_ocr_file:
+                processed_ocr_file.write(ocr_text)
+            print(f"Saved processed OCR text to {processed_ocr_text_file_path}")
+
+        print(f"OCR extracted text for {image_file}:\n{ocr_text}")
+
+        # # Send OCR text and image to GPT for markdown formatting (arrange only, do not transcribe)
+        # markdown_text = convert_ocr_text_and_image_to_markdown(
+        #     ocr_text, image_file_path, client, log_dir=markdown_directory
+        # )
         
-        # Save the markdown text to a file
-        save_markdown(markdown_text, markdown_file_path)
+        # # Save the markdown text to a file
+        # save_markdown(markdown_text, markdown_file_path)
         
-        print(f"Converted {image_file} to {markdown_file_name}")
+        # print(f"Converted {image_file} to {markdown_file_name}")
 
     # Print a message indicating that the process is complete
     print("All images converted to markdown successfully.")
