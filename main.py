@@ -605,17 +605,18 @@ try:
         ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
         print(f"Processed 20 OCR lines: {len(ocr_lines)} lines extracted.")
         for line in ocr_lines[:20]:
+            print()
             print(line)
 
         # Plot the vertices list on the image
         # plot_vertices_list(image_file_path, vertices_list)
 
-        # Send the OCR text and the vertices to ChatGPT for markdown conversion
-        markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
+        # # Send the OCR text and the vertices to ChatGPT for markdown conversion
+        # markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
 
-        # Save the markdown text to a file
-        with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
-            markdown_file.write(markdown_text)
+        # # Save the markdown text to a file
+        # with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
+        #     markdown_file.write(markdown_text)
 
         # Print the markdown text
         print("\n" * 2)
