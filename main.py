@@ -14,6 +14,7 @@ import cv2
 import numpy as np
 from google.cloud import vision
 import pickle
+import traceback
 
 POPPLER_PATH = r"C:\Program Files\poppler-24.08.0\Library\bin"
 
@@ -406,12 +407,40 @@ def load_ocr_dictionary(input_path):
         ocr_dict = pickle.load(f)
     return ocr_dict
 
-def group_and_sort_lines_by_y_and_x(lines, tolerance_percentage=0.05):
+def estimate_scaling_from_ocr(lines):
+    """
+    Estimate scaling (pixels per space) from OCR lines or dicts.
+    Returns a float scaling value.
+    """
+    char_widths = []
+    for item in lines:
+        if isinstance(item, dict) and "vertices" in item and "text" in item:
+            vertices = item["vertices"]
+            text = item["text"]
+        elif isinstance(item, (list, tuple)) and len(item) == 3:
+            text = item[0]
+            # Assume vertices are not available, skip
+            continue
+        else:
+            continue
+        if not text.strip():
+            continue
+        xs = [float(v[0]) for v in vertices]
+        width = max(xs) - min(xs)
+        n_chars = len(text.replace(" ", ""))
+        if n_chars > 0 and width > 0:
+            char_widths.append(width / n_chars)
+    if char_widths:
+        return sum(char_widths) / len(char_widths)
+    else:
+        return 20.0  # fallback default
+
+def process_ocr_dictionary_into_lines(lines, tolerance_percentage=0.05):
     """
     Groups lines by their y coordinate (with tolerance), then sorts each group by x coordinate.
 
     Args:
-        lines (list): List of (text, topmost_y, leftmost_x) tuples.
+        lines (list): List of (text, topmost_y, leftmost_x) tuples or OCR dicts.
         tolerance_percentage (float): Tolerance for grouping by y.
 
     Returns:
@@ -420,16 +449,35 @@ def group_and_sort_lines_by_y_and_x(lines, tolerance_percentage=0.05):
     if not lines:
         return []
 
+    # Convert dicts to (text, y, x) tuples if needed
+    processed = []
+    for item in lines:
+        if isinstance(item, dict) and "vertices" in item and "text" in item:
+            vertices = item["vertices"]
+            # Ensure vertices are tuples of numbers
+            topmost_y = min(float(v[1]) for v in vertices)
+            leftmost_x = min(float(v[0]) for v in vertices)
+            processed.append((item["text"], topmost_y, leftmost_x))
+        elif isinstance(item, (list, tuple)) and len(item) == 3:
+            # Already a tuple, but ensure y and x are numbers
+            text, y, x = item
+            processed.append((text, float(y), float(x)))
+        else:
+            continue
+
+    if not processed:
+        return []
+
     # Calculate tolerance in pixels
-    all_y = [y for _, y, _ in lines]
+    all_y = [y for _, y, _ in processed]
     y_range = max(all_y) - min(all_y)
     tolerance = y_range * tolerance_percentage if y_range > 0 else 5
 
     # Sort lines by y
-    lines = sorted(lines, key=lambda t: t[1])
+    processed = sorted(processed, key=lambda t: t[1])
 
     groups = []
-    for item in lines:
+    for item in processed:
         placed = False
         for group in groups:
             if abs(item[1] - group[0][1]) <= tolerance:
@@ -439,13 +487,24 @@ def group_and_sort_lines_by_y_and_x(lines, tolerance_percentage=0.05):
         if not placed:
             groups.append([item])
 
-    # Sort each group by x and join text
+    # Sort each group by x and join text with variable spaces
     result = []
+    scaling = estimate_scaling_from_ocr(lines)
+    
     for group in groups:
         group.sort(key=lambda t: t[2])
-        line_text = " ".join([t[0] for t in group])
+        line_text = ""
+        prev_x = None
+        # Estimate a scaling factor for space width (tweak as needed)
+        for text, y, x in group:
+            if prev_x is not None:
+                gap = int((x - prev_x) / scaling)
+                spaces = " " * max(1, gap)
+                line_text += spaces
+            line_text += text
+            prev_x = x + len(text) * scaling // 2  # crude estimate for text width
         result.append(line_text)
-
+    
     return result
 
 # %%
@@ -494,8 +553,8 @@ try:
             save_ocr_dictionary(ocr_dict, ocr_dict_file_path)
 
         # Process the OCR dictionary into lines of text
-        ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.02)
-        print(f"Processed OCR lines:")
+        ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
+        print(f"Processed 20 OCR lines: {len(ocr_lines)} lines extracted.")
         for line in ocr_lines[:20]:
             print(line)
 
@@ -523,6 +582,7 @@ try:
     print("All images converted to markdown successfully.")
 except Exception as e:
     print(f"An error occurred: {e}")
+    print(f"Traceback: {traceback.format_exc()}")
 
 # Close the root window
 root.destroy()
