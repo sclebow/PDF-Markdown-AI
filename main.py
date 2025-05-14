@@ -328,6 +328,55 @@ def convert_ocr_text_and_vertices_to_markdown(ocr_text, vertices_list, client, l
             log_file.write("="*60 + "\n\n")
     return markdown_text
 
+def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir):
+    """
+    Convert OCR lines to markdown format using ChatGPT.
+    """
+    # Convert lines to string
+    ocr_text = "\n".join(ocr_lines)
+    prompt = (
+        "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
+        "Only use the provided OCR text. "
+        "Add headers, line breaks, and other markdown formatting as needed. "
+        "Remove any unnecessary spaces"
+        "If the OCR text is unclear, leave it as is. "
+        "Do not add, guess, or hallucinate any information. "
+        "Determine if a table is present in the text. "
+        "If a table is present, arrange the text into a markdown table, otherwise, return the text as is. "
+        "- If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
+        "- Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
+        "- The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. "
+        "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
+        "OCR Text:\n"
+        f"{ocr_text}\n\n"
+    )
+    response = client.chat.completions.create(
+        model="gpt-4.1",
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": prompt},
+                ]
+            }
+        ],
+        temperature=0,
+    )
+    markdown_text = response.choices[0].message.content.strip()
+    # Logging
+    if log_dir is not None:
+        log_file_path = os.path.join(log_dir, "conversion_log.txt")
+        with open(log_file_path, 'a', encoding='utf-8') as log_file:
+            log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
+            log_file.write("OCR Text:\n")
+            log_file.write(ocr_text + "\n")
+            log_file.write("Prompt:\n")
+            log_file.write(prompt + "\n")
+            log_file.write("GPT Markdown Output:\n")
+            log_file.write(markdown_text + "\n")
+            log_file.write("="*60 + "\n\n")
+    return markdown_text
+
 
 # %%
 def process_vertices_list(vertices_list):
@@ -490,7 +539,7 @@ def process_ocr_dictionary_into_lines(lines, tolerance_percentage=0.05):
     # Sort each group by x and join text with variable spaces
     result = []
     scaling = estimate_scaling_from_ocr(lines)
-    
+
     for group in groups:
         group.sort(key=lambda t: t[2])
         line_text = ""
@@ -561,22 +610,16 @@ try:
         # Plot the vertices list on the image
         # plot_vertices_list(image_file_path, vertices_list)
 
-        # # Send the OCR text and the vertices to ChatGPT for markdown conversion
-        # markdown_text = convert_ocr_text_and_vertices_to_markdown(
-        #     ocr_text,
-        #     vertices_list,
-        #     client,
-        #     log_dir=markdown_directory
-        # )
+        # Send the OCR text and the vertices to ChatGPT for markdown conversion
+        markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
 
-        # # Save the markdown text to a file
-        # with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
-        #     markdown_file.write(markdown_text)
+        # Save the markdown text to a file
+        with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
+            markdown_file.write(markdown_text)
 
-        # # Print the markdown text
-        # print(f"Markdown text for {image_file}:\n{markdown_text}")
-
-        # print(f"OCR extracted text for {image_file}:\n{ocr_text}")
+        # Print the markdown text
+        print("\n" * 2)
+        print(f"Markdown text for {image_file}:\n{markdown_text}")
 
     # Print a message indicating that the process is complete
     print("All images converted to markdown successfully.")
