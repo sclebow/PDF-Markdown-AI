@@ -499,13 +499,15 @@ def main():
     # Create a root window
     root = tk.Tk()
 
-    # # Prompt the user for the file path of the image files
-    # image_directory = prompt_user_for_directory(root, "Select Directory with Image Files")
-    # if not image_directory:
-    #     print("No directory selected. Exiting.")
-    #     root.destroy()
-    #     exit()
-    image_directory = r"C:\Users\scleb\Documents\bimsc25\GitHub\PDF-Markdown-AI\250510_test_images"
+    image_directory = None
+    # image_directory = r"C:\Users\scleb\Documents\bimsc25\GitHub\PDF-Markdown-AI\250510_test_images"
+    if image_directory is None:
+        # Prompt the user for the file path of the image files
+        image_directory = prompt_user_for_directory(root, "Select Directory with Image Files")
+        if not image_directory:
+            print("No directory selected. Exiting.")
+            root.destroy()
+            exit()
 
     markdown_directory = image_directory  # Save markdown files in the same directory as images
 
@@ -536,7 +538,7 @@ def main():
         print("\n" * 20)
         # Loop through each image file and convert it to markdown
         # for image_file in image_files[:1]: # Limit to 1 file for testing
-        for image_file in image_files:
+        for index, image_file in enumerate(image_files):
             image_file_path = os.path.join(image_directory, image_file)
 
             # Check if the markdown file already exists
@@ -576,9 +578,10 @@ def main():
 
             # Process the OCR dictionary into lines of text
             ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
-            print(f"Processed 20 OCR lines: {len(ocr_lines)} lines extracted.")
-            for line in ocr_lines[:20]:
-                print()
+            lines_to_show = 5
+            print(f"Showing first {lines_to_show} lines of OCR text:")
+            for line in ocr_lines[:lines_to_show]:
+                # print()
                 print(line)
 
             # Plot the vertices list on the image
@@ -586,7 +589,8 @@ def main():
 
             # Send the OCR text and the vertices to ChatGPT for markdown conversion
             markdown_text = None
-            print("Converting OCR text to markdown...")
+            percentage = int(index / len(image_files) * 100)
+            print(f"Converting OCR text to markdown for {image_file} out of {len(ocr_lines)} lines ({percentage}%)...")
             markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
             print(f"Markdown text for {image_file} completed.")
 
