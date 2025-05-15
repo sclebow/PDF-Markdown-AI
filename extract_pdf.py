@@ -8,6 +8,7 @@ from pdf2image import convert_from_path
 
 start_page = 138
 end_page = 182
+page_offset = 14
 
 # Add poppler installation path to system PATH
 import sys
@@ -38,19 +39,26 @@ def get_page_range():
     tk.Label(dialog, text="Start Page (1-based):").grid(row=0, column=0, padx=10, pady=5)
     start_var = tk.StringVar(value=str(start_page + 1))
     tk.Entry(dialog, textvariable=start_var).grid(row=0, column=1, padx=10, pady=5)
-    tk.Label(dialog, text="End Page (1-based, exclusive):").grid(row=1, column=0, padx=10, pady=5)
+    tk.Label(dialog, text="End Page (1-based, inclusive):").grid(row=1, column=0, padx=10, pady=5)
     end_var = tk.StringVar(value=str(end_page + 1))
     tk.Entry(dialog, textvariable=end_var).grid(row=1, column=1, padx=10, pady=5)
+    tk.Label(dialog, text="Page Offset:").grid(row=2, column=0, padx=10, pady=5)
+    page_offset_var = tk.StringVar(value=str(page_offset))
+    tk.Entry(dialog, textvariable=page_offset_var).grid(row=2, column=1, padx=10, pady=5)
+    # Move the OK button to the bottom of the dialog
+    tk.Label(dialog, text="Note: Page numbers are 1-based.").grid(row=3, column=0, columnspan=2, padx=10, pady=5)
+    tk.Label(dialog, text="Page offset is added to the start and end pages.").grid(row=4, column=0, columnspan=2, padx=10, pady=5)
     result = {}
 
     def on_ok():
         try:
             s = int(start_var.get())
             e = int(end_var.get())
+            p_o = int(page_offset_var.get())
             if s < 1 or e <= s:
                 raise ValueError
-            result['start'] = s - 1
-            result['end'] = e - 1
+            result['start'] = s - 1 + p_o
+            result['end'] = e - 1 + p_o
             dialog.destroy()
         except Exception:
             tk.messagebox.showerror("Invalid Input", "Please enter valid page numbers.")
