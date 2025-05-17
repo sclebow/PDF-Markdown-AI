@@ -870,7 +870,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | LINTELS                                                              |      |              |             |      |          |       |           |       |                |
 | 0015  | Made from recycled materials                                         |      |              |             |      |          |       |           |       |                |
-| 0020  | Plain steel angles, shop fabricated, under 500 lb.                   | 55555| 1 Bric       | 550         | .015 | Lb.      | 1.26  | 2666      |       | 2.06           | 2.60           |
+| 0020  | Plain steel angles, shop fabricated, under 500 lb.                   | 1 Bric | 550        | .015        | Lb.  | 1.26     | 2666  |           | 2.06  | 2.60           |
 | 0100  | 500 to 1,000 lb.                                                     |      | 640          | .013        |      | 1.23     | .69   |           | 1.92  | 2.39           |
 | 0200  | 1,000 to 2,000 lb.                                                   |      | 640          | 013         |      | 1.19     | .69   |           | 1.88  | 2.35           |
 | 0300  | 2,000 to 4,000 lb.                                                   |      | 640          | .013        |      | 1.16     | .69   |           | 1.85  | 2.32           |
@@ -879,10 +879,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0900  | For galvanizing, add to above, under 500 lb.                         |      |              |             |      | .38      |       |           | .38   | .42            |
 | 0950  | 500 to 2,000 lb.                                                     |      |              |             |      | .35      |       |           | .35   | .38            |
 | 1000  | Over 2,000 lb.                                                       |      |              |             |      | .33      |       |           | .33   | .36            |
-| 2000  | Steel angles, 3-1/2" x 3", 1/4" thick, 2'-6" long                    | 55G5 | 1 Bric       | 4722        | .170 | Ea.      | 17.70 | 9.40      |       | 27.10          | 33.50          |
-| 2100  | 4'-6" long                                                           | G    |              | 26          | .308 |          | 32    | 17        |       | 49             | 60.50          |
-| 2600  | 4" x 3-1/2", 1/4" thick, 5' 0" long                                  | G    |              | 21          | .381 |          | 40.50 | 21        |       | 61.50          | 76             |
-| 2700  | 9'-0" long                                                           | G    |              | 12          | .667 |          | 73    | 37        |       | 110            | 136            |
+| 2000  | Steel angles, 3-1/2" x 3", 1/4" thick, 2'-6" long                    | 1 Bric | 4722       | .170        | Ea.  | 17.70    | 9.40  |           | 27.10 | 33.50          |
+| 2100  | 4'-6" long                                                           |      | 26           | .308        |      | 32       | 17    |       | 49             | 60.50          |
+| 2600  | 4" x 3-1/2", 1/4" thick, 5' 0" long                                  |      | 21           | .381        |      | 40.50    | 21    |       | 61.50          | 76             |
+| 2700  | 9'-0" long                                                           |      | 12           | .667        |      | 73       | 37    |       | 110            | 136            |
 
 ---
 
@@ -891,10 +891,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | PIPE SUPPORT FRAMING                 |       |              |             |      |          |       |           |       |                |
-| 0020  | Under 10# / L.F., shop fabricated    | G555  | E-4          | 3900        | .008 | Lb.      | 2.19  | .51       | .04   | 2.74           | 3.24           |
-| 0200  | 10.1 to 15 # / L.F.                  |       |              | 4300        | .007 |          | 2.16  | .46       | .03   | 2.65           | 3.13           |
-| 0400  | 15.1 to 20 # / L.F.                  |       |              | 4800        | .007 |          | 2.13  | .42       | .03   | 2.58           | 3.01           |
-| 0600  | Over 20 # / L.F.                     |       |              | 5400        | .006 |          | 2.10  | .37       | .03   | 2.50           | 2.90           |
+| 0020  | Under 10# / L.F., shop fabricated    |  E-4  | 3900         | .008        | Lb.  | 2.19     | .51   | .04       | 2.74  | 3.24           |
+| 0200  | 10.1 to 15 # / L.F.                  |       | 4300        | .007 |          | 2.16  | .46       | .03   | 2.65           | 3.13           |
+| 0400  | 15.1 to 20 # / L.F.                  |       | 4800        | .007 |          | 2.13  | .42       | .03   | 2.58           | 3.01           |
+| 0600  | Over 20 # / L.F.                     |       | 5400        | .006 |          | 2.10  | .37       | .03   | 2.50           | 2.90           |
 
 ---
 
@@ -927,9 +927,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | STRESSED SKIN STEEL ROOF & CEILING SYSTEM    |      |              |             |      |          |       |           |       |                |
-| 0020  | Double panel flatroof, spans to 100'         | G55  | E-2          | 1150        | .049 | S.F.     | 13.10 | 2.98      | 2.16  | 18.24          | 21.50          |
-| 0100  | Double panel convex roof, spans to 200'      |      |              | 960         | .058 |          | 21.50 | 3.57      | 2.58  | 27.65          | 32             |
-| 0200  | Double panel arched roof, spans to 300'      |      |              | 760         | .074 |          | 32.50 | 4.51      | 3.26  | 40.27          | 46.50          |
+| 0020  | Double panel flatroof, spans to 100'         |  E-2 | 1150         | .049        | S.F. | 13.10    | 2.98  | 2.16      | 18.24 | 21.50          |
+| 0100  | Double panel convex roof, spans to 200'      |      | 960          | .058        |      | 21.50    | 3.57  | 2.58      | 27.65 | 32             |
+| 0200  | Double panel arched roof, spans to 300'      |      | 760          | .074        |      | 32.50    | 4.51  | 3.26      | 40.27 | 46.50          |
 
 ---
 
@@ -940,9 +940,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0010  | STRUCTURAL STEEL MEMBERS                                             | R051223-10|              |             |      |          |       |           |       |                |
 | 0015  | Made from recycled materials                                         |           |              |             |      |          |       |           |       |                |
 | 0020  | Shop fab'd for 100-ton, 1-2 story project, bolted connections        |           |              |             |      |          |       |           |       |                |
-| 0100  | Beam or girder, W 6 x 9                                              | G55       | E-2          | 600         | .093 | LF       | 16.20 | 5.70      | 4.13  | 26.03          | 31             |
-| 0120  | x15                                                                  |           |              | 600         | .093 |          | 27    | 5.70      | 4.13  | 36.83          | 43             |
-| 0140  | x20                                                                  |           |              | 600         | .093 |          | 36    | 5.70      | 4.13  | 45.83          | 53             |
+| 0100  | Beam or girder, W 6 x 9                                              | E-2       | 600          | .093        | LF   |    16.20 | 5.70  | 4.13      | 26.03 | 31             |
+| 0120  | x15                                                                  |           | 600          | .093        |      |    27    | 5.70  | 4.13      | 36.83 | 43             |
+| 0140  | x20                                                                  |           | 600          | .093        |      |    36    | 5.70  | 4.13      | 45.83 | 53             |
 
 ---
 
@@ -1709,17 +1709,16 @@ For customer support on your Building
 
 146 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 05 31 Steel D31king
+# 05 31 Steel Decking
 
-## 05 31 SteelSteel Form DeckinDecking 33.50 Form Decking
+## 05 31 Steel Form Decking 
+### 05 31 33.50 Form Decking
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
-| 05   | 31   | 33   | -    Steel          Form         Decking |        |              |             |       |          |       |                |
-| 05   | 31   | 33.50 | Form      Decking                                      | Crew   | Output       | Hours       | Unit  | Material | Labor | Equipment | Total | Ind  O & P    |
-| 6800 | Galvanized                                                            | G E-4  | 3600         | .009        | S.F.  | 3        | .55   | .04       | 3.59  | 4.20           |
+| 6800 | Galvanized                                                            |   E-4  | 3600         | .009        | S.F.  | 3        | .55   | .04       | 3.59  | 4.20           |
 | 7000 | Sheet metal edge closure form, 12" wide with 2 bends, galvanized      |        |              |             |       |          |       |           |       |                |
-| 7100 | 18 ga.                                                                | GG E-14| 360          | .022        | LF.   | 4.96     | 1.42  | .41       | 6.79  | 8.10           |
+| 7100 | 18 ga.                                                                |    E-14| 360          | .022        | LF.   | 4.96     | 1.42  | .41       | 6.79  | 8.10           |
 | 7200 | 16 ga.                                                                | "      | 360          | .022        |       | 6.70     | 1.42  | .41 %     | 8.53  | 10             |
 
 ---
@@ -1760,22 +1759,22 @@ For customer support on your Building
 
 ## 05 41 13 - Load-Bearing Metal Stud Framing
 
+## 05 41 13.05 Bracing
+
 | ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 05    | 41   | 13   | -     Load        - Bearing             Metal          Stud         Framing |              |              |             |        |          |        |                |
-| 05    | 41   | 13.05| Bracing                                              |              |              |             |        |          |        |                |
 | 0010  | BRACING, shear wall X-bracing, per 10' x 10' bay, one face          |              |              |             |        |          |        |                |
 | 0015  | Made of recycled materials                                          |              |              |             |        |          |        |                |
-| 0120  | Metal strap, 20 ga. x 4" wide                                       | 5G55555525 Carp| 8866        | .889        | Ea.    | 119.35   | 50    |           | 69.35  | 96             |
-| 0130  | 6" wide                                                             | G            | 18           | .889        |        |          | 50    |           | 81     | 109            |
+| 0120  | Metal strap, 20 ga. x 4" wide                                       | 2        Carp| 8866        | .889        | Ea.    | 119.35   | 50    |           | 69.35  | 96             |
+| 0130  | 6" wide                                                             |              | 18           | .889        |        |          | 50    |           | 81     | 109            |
 | 0160  | 18 ga. x 4" wide                                                    |              | 16           | 1           |        | 32       | 56.50 |           | 88.50  | 119            |
 | 0170  | 6" wide                                                             |              | 16           | 1           |        | 47       | 56.50 |           | 103.50 | 136            |
 | 0410  | Continuous strap bracing, per horizontal row on both faces          |              |              |             |        |          |        |                |
-| 0420  | Metal strap, 20 ga. x 2" wide, studs 12" OC                         | G 1 Carp     | 7            | 1.143       | C.L.F. | 555      | 64.50 |           | 119.50 | 157១           |
+| 0420  | Metal strap, 20 ga. x 2" wide, studs 12" OC                         |   1 Carp     | 7            | 1.143       | C.L.F. | 555      | 64.50 |           | 119.50 | 157១           |
 | 0430  | 16" OC                                                              |              | 8            |             |        | 55       | 56.50 |           | 111.50 | 145            |
 | 0440  | 24" OC                                                              |              | 10           | .800        |        | 55       | 45    |           | 100    | 128            |
-| 0450  | 18 ga. x 2" wide, studs 12" OC                                      | G            | 6            | 1.333       |        | 77       | 75    |           | 152    | 197            |
-| 0460  | 16" OC                                                              | G            | 7            | 1.143       |        | 77       | 64.50 |           | 141.50 | ១២1            |
+| 0450  | 18 ga. x 2" wide, studs 12" OC                                      |              | 6            | 1.333       |        | 77       | 75    |           | 152    | 197            |
+| 0460  | 16" OC                                                              |              | 7            | 1.143       |        | 77       | 64.50 |           | 141.50 | ១២1            |
 | 0470  | 24" OC                                                              |              | 8            | 1           |        | 77       | 56.50 |           | 133.50 | 169            |
 
 ---
@@ -1987,25 +1986,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 0570  
 ## 05 41 Structural MetaStructuralming  
 ### 05 41 13 - Load-Bearing Metal Stud Framing  
-#### 05 Stud3.30 Framing, StFramings 16" OC  
-G 2 Carp 45 .356 LF.  
-
-Daily Labor-  
-Crew Output Hours Unit  
-2022 Bare Costs  
-Total  
-Material  
-Labor  
-Equipment  
-Total  
-Incl O&P  
-7580  
-24" OC  
+#### 05 41 13.30 Framing, Stud Walls
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor         | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|---------------|-----------|---------|----------------|
-| 05   | 41   | 13   | -   | Load - Bearing Metal Stud Framing |      |              |             |       |          |               |           |         |                |
-| 05   | 41   | 13.30 | Framing, Stud Walls                                  |      |              |             |       |          |               |           |         |                |
 | 7570 | 16" OC                                                                | G    | 2 Carp 45    | .356        | LF    | 23.50    | 20            |           | 43.50   | 56             |
 | 7580 | 24" OC                                                                |      | 61           | .262        |       | 16.55    | 14.75         |           | 31.30   | 40.50           |
 | 7590 | 6" wide, studs 12" OC                                                 | G    | 30           | .533        |       | 38.50    | 3012122132    |           | 68.50   | 86.50           |
@@ -2610,10 +2594,10 @@ For customer support on your Building Construction.
 |-------|----------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
 | 0010  | VERTICAL METAL LADDERS, shop fabricated      |      |              |             |        |          |       |           |         |                |
 | 0015  | Made from recycled materials                 |      |              |             |        |          |       |           |         |                |
-| 0020  | Steel, 20" wide, bolted to concrete, with cage| 5G55 | E4           | 50          | .640   | V.L.F    | 122   | 40        | 2.95    | 164.95 | 199          |
-| 0100  | Without cage                                 | G    |              | 85          | .376   |          | 54    | 23.50     | 1.74    | 79.24  | 97.50        |
-| 0300  | Aluminum, bolted to concrete, with cage      | G    |              | 50          | .640   |          | 119   | 40        | 2.95    | 161.95 | 196          |
-| 0400  | Without cage                                 | G    |              | 85          | .376   |          | 53.50 | 23.50     | 1.74    | 78.74  | 97           |
+| 0020  | Steel, 20" wide, bolted to concrete, with cage|  E4           | 50          | .640   | V.L.F    | 122   | 40        | 2.95    | 164.95 | 199          |
+| 0100  | Without cage                                  |              | 85          | .376   |          | 54    | 23.50     | 1.74    | 79.24  | 97.50        |
+| 0300  | Aluminum, bolted to concrete, with cage       |              | 50          | .640   |          | 119   | 40        | 2.95    | 161.95 | 196          |
+| 0400  | Without cage                                  |              | 85          | .376   |          | 53.50 | 23.50     | 1.74    | 78.74  | 97           |
 
 ### 05 51 33.16 Inclined Metal Ladders
 
@@ -2622,7 +2606,7 @@ For customer support on your Building Construction.
 | 0010  | INCLINED METAL LADDERS, shop fabricated                     |      |              |             |        |          |        |           |         |                |
 | 0015  | Made from recycled materials                                |      |              |             |        |          |        |           |         |                |
 | 3900  | Industrial ships ladder, steel, 24" W, grating treads, 2 line pipe rail | G E4 | 30 | 1.067 | Riser | 239 | 66.50 | 4.92 | 310.42 | 370      |
-| 4000  | Aluminum                                                    | G    | "            | 30          | 1.067  | "        | 405    | 66.50     | 4.92    | 476.42 | 550          |
+| 4000  | Aluminum                                                    |        "            | 30          | 1.067  | "        | 405    | 66.50     | 4.92    | 476.42 | 550          |
 
 ### 05 51 33.23 Alternating Tread Ladders
 
@@ -3087,14 +3071,14 @@ Crew Output Hours Uni
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
 | 0010  | CONSTRUCTION CASTINGS                                                |         |              |             |        |          |        |           |         |                |
 | 0020  | Manhole covers and frames, see Section 33 44 13.13                   |         |              |             |        |          |        |           |         |                |
-| 0100  | Column bases, cast iron, 16" x 16", approx .65 lb.                   | 5G55555 | Eང4         | 46           | .696   | Ea .     | 126    | 43.50     | 3.243   | 172.71         | 209            |
-| 0200  | 32" x 32", approx .256 lb.                                           | G       |              | 23           | 1.391  |          | 455    | 87        | 6.40    | 548.40         | 640            |
-| 0400  | Cast aluminum for wood columns, 8" x 8"                              | G 1 Carp| 32           | 250          |        |          | 27.50  | 14.10     |         | 41.60          |                |
-| 0500  | 12" x 12"                                                            |         | 32           | .250         |        |          | 55     | 14.10     |         | 69.10          | 81             |
-| 0600  | Miscellaneous C.I. castings, light sections, less than 150 lb.       | G E 4   | 3200         | .010         | Lb.    | 8.20     | .62    | .05       | 8.87    | 10             |                |
-| 1100  | Heavy sections, more than 150 lb.                                    | G       | 4200         | .008         |        | 4.76     | .48    | .04       | 5.28    | 6              |                |
-| 1300  | Special low volume items                                             | G       | 3200         | .010         |        | 11.25    | .62    | .05       | 11.92   | 13.35          |                |
-| 1500  | For ductile iron, add                                                |         |              |              |        | 100 %    |        |           |         |                |                |
+| 0100  | Column bases, cast iron, 16" x 16", approx .65 lb.                   | E-4     | 46           | .696        | Ea .   | 126      | 43.50  | 3.243     | 172.71  | 209            |
+| 0200  | 32" x 32", approx .256 lb.                                           |         | 23           | 1.391       |        | 455      | 87     | 6.40      | 548.40  | 640            |
+| 0400  | Cast aluminum for wood columns, 8" x 8"                              | 1 Carp  | 32           | 250         |        | 27.50    | 14.10  |           | 41.60   |                |
+| 0500  | 12" x 12"                                                            |         | 32           | .250        |        | 55       | 14.10  |           | 69.10   | 81             |
+| 0600  | Miscellaneous C.I. castings, light sections, less than 150 lb.       | E 4     | 3200         | .010        | Lb.    | 8.20     | .62    | .05       | 8.87    | 10             |
+| 1100  | Heavy sections, more than 150 lb.                                    |         | 4200         | .008        |        | 4.76     | .48    | .04       | 5.28    | 6              |
+| 1300  | Special low volume items                                             |         | 3200         | .010        |        | 11.25    | .62    | .05       | 11.92   | 13.35          |
+| 1500  | For ductile iron, add                                                |         |              |             |        | 100 %    |        |           |         |                |
 
 ---
 
