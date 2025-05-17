@@ -193,6 +193,9 @@ if __name__ == "__main__":
     # Prompt for markdown file and output directory
     file_path, output_directory = prompt_for_file_and_directory()
 
+    logger.info(f"Selected file: {file_path}")
+    logger.info(f"Selected output directory: {output_directory}")
+    logger.info("Processing the markdown file...")
     # Process the markdown file
     process_markdown_file(file_path, output_directory)
 
