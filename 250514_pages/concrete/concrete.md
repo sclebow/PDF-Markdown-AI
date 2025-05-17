@@ -942,26 +942,26 @@ Box out for slab openings, over 16" deep, 1 use
 
 ## 03 11 13.45 Forms In Place, Footings
 
-| ID    | Name                                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|-------|---------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 0010  | FORMS IN PLACE, FOOTINGS                          | R031113-40 |      |              |             |      |          |        |           |        |                |
-| 0020  | Continuous wall, plywood, 1 use                   | G-1  | 375          | .085        | SFCA | 7.85     | 4.58   |           | 12.43  | 15.45          |
-| 0050  | 2 use                                             | R031113-60 | 440   | .073        |      | 4.33     | 3.90   |           | 8.23   | 10.55          |
-| 0100  | 3 use                                             |      | 470          | .068        | +    | 3.15     | 3.65   |           | 6.80   | 8.90           |
-| 0150  | 4 use                                             | G-T  | 485          | .066        | SFCA | 2.57     | 3.54¹  |           | 6.11   | 8.05           |
-| 0500  | Dowel supports for footings or beams, 1 use       |      | 500          | .064        | L.F. | 1.46     | 3.43   |           | 4.89   | 6.70           |
-| 1000  | Integral starter wall, to 4" high, 1 use          |      | 400          | F .080      |      | 1.43     | 4.29   |           | 5.72   | 8              |
-| 1500  | Keyway, 4 use, tapered wood, 2" x 4"              | 1 Carp | 530        | .015        |      | .35      | .85    |           | 1.20   | 1.64           |
-| 1550  | 2" x 6"                                           |      | 500          | .016        |      | .48      | .90    |           | 1.38   | 1.87           |
-| 2000  | Tapered plastic                                   |      | 530          | .015        |      | .61      | .85    |           | 1.46   | 1.93           |
-| 2250  | For keyway hung from supports, add                |      | 150          | .053        |      | 1.46     | 3      |           | 4.46   | 6.05           |
-| 3000  | Pile cap, square or rectangular, job-built plywood, 1 use | (-1 | 290   | .110        | SFCA | 4.40     | 5.90   |           | 10.30  | 13.65          |
-| 3050  | 2 use                                             |      | 346          | .092        |      | 2.42     | 4.96   |           | 7.38   | 10.05          |
-| 3100  | 3 use                                             |      | 371.086      |             |      | 1.76     | 4.63   |           | 6.39   | 8.85           |
-| 3150  | 4 use                                             |      | 383          | .084        |      | 1.43     | 4.48   |           | 5.91   | 8.20           |
-| 4000  | Triangular or hexagonal, 1 use                    |      | 225          | .142        |      | 5.15     | 7.65   |           | 12.80  | 17.05          |
-| 4050  | 2 use                                             |      | 280          | .114        |      | 2.84     | 6.15   |           | 8.99   | 12.20          |
-| 4100  | 3 use                                             |      | 305          | .105        |      | 2.06     | 5.65   |           | 7.71   | 10.65          |
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010  | FORMS IN PLACE, FOOTINGS                          |        |              |             |       |          |       |           |        |                |
+| 0020  | Continuous wall, plywood, 1 use                   | G-1    | 375          | .085        | SFCA  | 7.85     | 4.58  |           | 12.43  | 15.45          |
+| 0050  | 2 use                                             |        | 440          | .073        |       | 4.33     | 3.90  |           | 8.23   | 10.55          |
+| 0100  | 3 use                                             |        | 470          | .068        |       | 3.15     | 3.65  |           | 6.80   | 8.90           |
+| 0150  | 4 use                                             | G-T    | 485          | .066        | SFCA  | 2.57     | 3.54  |           | 6.11   | 8.05           |
+| 0500  | Dowel supports for footings or beams, 1 use       |        | 500          | .064        | L.F.  | 1.46     | 3.43  |           | 4.89   | 6.70           |
+| 1000  | Integral starter wall, to 4" high, 1 use          |        | 400          | .080        |       | 1.43     | 4.29  |           | 5.72   | 8.00           |
+| 1500  | Keyway, 4 use, tapered wood, 2" x 4"              | 1 Carp | 530          | .015        |       | .35      | .85   |           | 1.20   | 1.64           |
+| 1550  | 2" x 6"                                           |        | 500          | .016        |       | .48      | .90   |           | 1.38   | 1.87           |
+| 2000  | Tapered plastic                                   |        | 530          | .015        |       | .61      | .85   |           | 1.46   | 1.93           |
+| 2250  | For keyway hung from supports, add                |        | 150          | .053        |       | 1.46     | 3.00  |           | 4.46   | 6.05           |
+| 3000  | Pile cap, square or rectangular, job-built plywood, 1 use | -1     | 290          | .110        | SFCA  | 4.40     | 5.90  |           | 10.30  | 13.65          |
+| 3050  | 2 use                                             |        | 346          | .092        |       | 2.42     | 4.96  |           | 7.38   | 10.05          |
+| 3100  | 3 use                                             |        | 371          | .086        |       | 1.76     | 4.63  |           | 6.39   | 8.85           |
+| 3150  | 4 use                                             |        | 383          | .084        |       | 1.43     | 4.48  |           | 5.91   | 8.20           |
+| 4000  | Triangular or hexagonal, 1 use                    |        | 225          | .142        |       | 5.15     | 7.65  |           | 12.80  | 17.05          |
+| 4050  | 2 use                                             |        | 280          | .114        |       | 2.84     | 6.15  |           | 8.99   | 12.20          |
+| 4100  | 3 use                                             |        | 305          | .105        |       | 2.06     | 5.65  |           | 7.71   | 10.65          |
 
 ---
 
@@ -1657,9 +1657,9 @@ Aluminum, 3" wide x 3' long
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 03035 Concrete Accessories
+# 03 15 05 Concrete Accessories
 
-## Waterstops
+## 03 15 13 Waterstops
 
 | ID         | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------------|-----------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
@@ -1670,7 +1670,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 7500       | Vertical ell, 6" wide       |        | 35           | .229        |      | 23.50    | 12.85  |           | 36.35  | 44.50          |
 | 7550       | 9" wide                     |        | 35           | .229        |      | 44.50    | 12.85  |           | 57.35  | 88             |
 
-## Concrete Construction Joints
+## 03 15 16 Concrete Construction Joints
 
 | ID         | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------------|-----------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
@@ -1691,7 +1691,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0340       | For joint sealant, see Section 03 15 16.30 or 07 92 13.20 |        |              |             |      |          |        |           |        |                |
 | 0900       | For replacement of joint sealant, see Section 07 01 90.81 |        |              |             |      |          |        |           |        |                |
 
-## Expansion Joints
+## 03 15 16.30 Expansion Joints
 
 | ID         | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------------|-----------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
@@ -1730,11 +1730,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00315 Concrete Accessories
+# 03 15 Concrete Accessories
 
 ## Concrete - Concrete Construction Joints
 
-### 16.30 Expansion Joints
+### 03 15 16.30 Expansion Joints
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2220,20 +2220,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 03 21 Reinforcement Bars
 
-0 Reinforcement Steel Reinforcement Bars  
-Daily Labor-  
-03 2Bars.60 Reinforcing In Place  
-Crew Output Hours Unit  
-Material  
-Labor  
-2022 Bare Costs  
-Equipment  
-Total  
-Total Incl O&P  
-
-0010 REINFORCING IN PLACE, 50-60 ton lots, A615 Grade 60  
-R0
-
 ## 03 21 11 Plain Steel Reinforcement Bars
 
 | ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
@@ -2529,7 +2515,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 0330 53 - Miscellaneous Cast-In-Place Concrete
 
-### 0330 53.40 Concrete In Place
+### 03 30 53.40 Concrete In Place
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total     | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-----------|----------------|
@@ -2587,13 +2573,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 3813  | Install new concrete (3000 psi) light pole base, 24" diam. x 8'      | C-1    | 2.66         | 12.030      |      | 405      | 645   |           | 1,050     | 1,400          |
 | 3825  | 1 C.Y. to 5 C.Y.                                                     | C-14C  | 43           | 2.605       |      | 315      | 140   | .65       | 455.65    | 555            |
 
-# 03030 Cast-In-Place Concrete  
-## 03 30 53 - Miscellaneous Cast-In-Place Concrete
-
-Concrete.40 Concrete In Place  
-Daily Labor-  
-2022 Bare Costs  
-Total
+### 03 30 53.40 Concrete In Place
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
