@@ -44,3 +44,3028 @@ Time Taken: 150.019352 seconds
 
 ==================================================
 
+Sent Timestamp: 2025-05-10T17:54:33.877981
+Image: C:/Users/scleb/Documents/bimsc25/GitHub/PDF-Markdown-AI/250510_test_images\page_139.jpg
+Message 1: Convert this image into markdown, including any tables.
+Transcribe the table exactly as shown in the image. Do not guess, infer, or fill in missing data.
+If a cell is blank, unclear, or contains a symbol (like a dash or arrow), reproduce it exactly as shown.
+Some of the data in the image may be misaligned; please carefully match each value to its correct column, and pay special attention to blank entries.
+Do not invent, hallucinate, or use any information that is not visible in the image. Only use data that is clearly visible in the image.
+If you are unsure about a value, leave the cell blank or write 'unclear'.
+Provide the markdown text only, without any additional text or formatting.
+Do not include any code blocks or HTML tags.
+Message 2: Carefully verify that every value in the markdown table matches the image exactly.
+If any value is unclear, leave the cell blank or mark as 'unclear'. Do not guess, infer, or fill in missing data.
+Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
+Please provide the markdown text only, without any additional text or formatting.
+Please do not include any code blocks or HTML tags.
+Response: Response(id='resp_681fcb18cd9c8191bf0b1e8cbfeb3b130278b31e84a48f12', created_at=1746914072.0, error=None, incomplete_details=None, instructions=None, metadata={}, model='gpt-4.1-2025-04-14', object='response', output=[ResponseOutputMessage(id='msg_681fcb1ac2f48191a59b19a46f4df9f20278b31e84a48f12', content=[ResponseOutputText(annotations=[], text='|      |                        | Crew  | Daily Output | Labor-Hours | Unit | Material | 2022 Bare Costs | Labor | Equipment | Total | Total Incl O&P |\n|------|------------------------|-------|--------------|-------------|------|----------|-----------------|-------|-----------|-------|---------------|\n|      | CHEMICAL ANCHORS       |       |              |             |      |          |                 |       |           |       |               |\n|      | Includes layout & drilling |   |              |             |      |          |                 |       |           |       |               |\n| 1430 | Chemical anchor, w/ rod & epoxy cartridge, 3/4" diameter x 9-1/2" long | B-89A | 27 | .593 | Ea. | 7.70 | 31 | 4.41 | 43.11 | 60 |\n| 1440 | 1" diameter x 11-3/4" long |   | 24 | .667 |  | 15.10 | 35 | 4.97 | 55.07 | 74 |\n| 1445 | 1-1/4" diameter x 14" long |   | 21 | .762 |  | 29.50 | 40 | 5.70 | 75.20 | 98.50 |\n| 1450 | 1-3/4" diameter x 15" long |   | 17 | .941 |  | 35 | 49 | 5.85 | 117.95 | 146 |\n| 1455 | 2" diameter x 18" long |   | 16 | 1 |  | 84 | 52.50 | 7.45 | 182.95 | 222 |\n| 1460 | 2-1/4" diameter x 18" long |   | 15 | 1.067 |  | 162 | 55.50 | 7.95 | 225.45 | 270 |\n|      | 24" long |   |   |   |   |   |   |   |   |   |\n|      | EXPANSION ANCHORS      |       |              |             |      |          |                 |       |           |       |               |\n|      | Anchors for concrete, brick or stone, no layout and drilling |   |   |   |   |   |   |   |   |   |\n| 0010 | Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single | 1 Carp | 90 | .089 | Ea. | .35 | 5 | 5.35 | 7.85 |\n| 0020 | 1-3/8" long, double | G | 85 | .094 |  | .67 | 5.30 | 5.97 | 8.65 |\n| 0040 | 3/8" diameter, 1-1/2" long, single | G | 85 | .094 |  | .70 | 5.30 | 6 | 8.65 |\n| 0060 | 2" long, double | G | 80 | .100 |  | 1.47 | 5.65 | 7.12 | 9.75 |\n| 0080 | 1/2" diameter, 2-1/16" long, single | G | 80 | .100 |  | 1.22 | 5.65 | 6.87 | 9.75 |\n| 0100 | 2-1/2" long, double | G | 75 | .107 |  | 2.51 | 6.06 | 8.71 | 11.70 |\n| 0120 | 5/8" steel, 25/8" long, single | G | 75 | .107 |  | 2.77 | 6.45 | 8.77 | 12 |\n| 0140 | 2-3/4" long, double | G | 70 | .114 |  | 3.54 | 6.45 | 9.99 | 14.35 |\n| 0160 | 3/4" diameter, 23/4" long | G | 70 | .114 |  | 4.39 | 6.45 | 10.84 | 14.45 |\n| 0180 | 3-5/16" long, double | G | 65 | .123 |  | 6.45 | 6.95 | 13.40 | 17.35 |\n|      | Hollow wall anchors for gypsum wall board, plaster or tile |   |   |   |   |   |   |   |   |   |\n| 2000 | 1/8" diameter, short | 1 Carp | 160 | .050 | Ea. | .27 | 2.82 | 3.09 | 4.49 |\n| 2200 | Long | 150 | .053 |  | .31 | 3 | 3.31 | 4.81 |\n| 2400 | 3/16" diameter, short | 150 | .053 |  | .52 | 3 | 3.52 | 5.05 |\n| 2600 | Long | 140 | .057 |  | .60 | 3.22 | 3.82 | 5.45 |\n| 2800 | 1/4" diameter, short | 130 | .062 |  | .73 | 3.22 | 3.87 | 5.50 |\n| 3000 | Long | 120 | .067 |  | .79 | 3.46 | 4.25 | 5.95 |\n|      | Toggle bolts, bright steel, 1/8" diameter, 2" long |   |   |   |   |   |   |   |   |   |\n| 3100 | 4" long | 1 Carp | 80 | .107 |  | .29 | 5.30 | 5.55 | 8.20 |\n| 3200 | 3/16" diameter, 3" long | G | 85 | .107 |  | .33 | 5.65 | 5.98 | 8.75 |\n| 3300 | 6" long | G | 80 | .113 |  | .35 | 5.65 | 6 | 8.75 |\n| 3400 | 1/4" diameter, 3" long | G | 75 | .107 |  | .38 | 5.65 | 6.38 | 9.35 |\n| 3500 | 6" long | G | 70 | .114 |  | 1.01 | 6.45 | 7.02 | 10.25 |\n| 3600 | 3/8" diameter, 3" long | G | 70 | .114 |  | 1.07 | 6.45 | 7.06 | 10.25 |\n| 3700 | 6" long | G | 60 | .133 |  | 2.26 | 7.50 | 9.76 | 13.65 |\n| 3800 | 1/2" diameter, 4" long | G | 60 | .133 |  | 2.26 | 7.50 | 9.76 | 13.65 |\n| 3900 | 6" long | G |   |   |   |   | 11.57 | 16.25 |\n|      | Nailing anchors |   |   |   |   |   |   |   |   |   |\n| 4100 | Nylon nailing anchor, 1/4" diameter, 1" long | 1 Carp | 3.20 | 2.500 | C | 1.70 | 141 | 158.70 | 230 |\n| 4200 | 1-1/2" long | 2.80 | 2.857 |   | 25 | 161 | 181 | 261 |\n| 4300 | 2" long | 2.40 | 3.333 |   | 30 | 233 | 305 |\n| 4400 | Metal nailing anchor, 1/4" diameter, 1" long | G | 3.20 | 2.500 |   | 15.80 | 141 | 156.80 | 227 |\n| 4500 | 1-1/2" long | G | 2.80 | 2.857 |   | 17.40 | 161 | 181 | 261 |\n| 4600 | 2" long | G | 2.40 | 3.333 |   | 24 | 188 | 212 | 305 |\n|      | Screw anchors for concrete, masonry, stone & tile, no layout or drilling included |   |   |   |   |   |   |   |   |   |\n| 5100 | Lag screw shields, 1/4" diameter, short | 1 Carp | 90 | .089 | Ea. | .26 | 5 | 5.26 | 7.75 |\n| 5200 | Long | G | 85 | .094 |   | .34 | 5.30 | 5.64 | 8.75 |\n| 5900 | 3/8" diameter, short | G | 85 | .094 |   | .57 | 5.30 | 5.87 | 9.15 |\n| 6000 | Long | G | 80 | .100 |   | .65 | 6.34 | 6.95 | 12.50 |', type='output_text')], role='assistant', status='completed', type='message')], parallel_tool_calls=True, temperature=0.0, tool_choice='auto', tools=[], top_p=1.0, max_output_tokens=None, previous_response_id=None, reasoning=Reasoning(effort=None, generate_summary=None, summary=None), service_tier='default', status='completed', text=ResponseTextConfig(format=ResponseFormatText(type='text')), truncation='disabled', usage=ResponseUsage(input_tokens=1377, input_tokens_details=InputTokensDetails(cached_tokens=0), output_tokens=2146, output_tokens_details=OutputTokensDetails(reasoning_tokens=0), total_tokens=3523), user=None, store=True)
+Response Timestamp: 2025-05-10T17:55:17.990815
+Time Taken: 44.112834 seconds
+
+==================================================
+
+Sent Timestamp: 2025-05-10T17:57:37.548662
+Image: C:/Users/scleb/Documents/bimsc25/GitHub/PDF-Markdown-AI/250510_test_images\page_139.jpg
+Message 1: Convert this image into markdown, including any tables.
+Transcribe the table exactly as shown in the image. Do not guess, infer, or fill in missing data.
+If a cell is blank, unclear, or contains a symbol (like a dash or arrow), reproduce it exactly as shown.
+Some of the data in the image may be misaligned; please carefully match each value to its correct column, and pay special attention to blank entries.
+Do not invent, hallucinate, or use any information that is not visible in the image. Only use data that is clearly visible in the image.
+If you are unsure about a value, leave the cell blank or write 'unclear'.
+Provide the markdown text only, without any additional text or formatting.
+Do not include any code blocks or HTML tags.
+Message 2: Carefully verify that every value in the markdown table matches the image exactly.
+If any value is unclear, leave the cell blank or mark as 'unclear'. Do not guess, infer, or fill in missing data.
+Do not add, remove, or change any values from what is visible in the image. Do not use any information that is not visible in the image.
+Please provide the markdown text only, without any additional text or formatting.
+Please do not include any code blocks or HTML tags.
+Response: Response(id='resp_681fcc0c156481918c8035b566bf7cc505ec63454e6b74ab', created_at=1746914316.0, error=None, incomplete_details=None, instructions=None, metadata={}, model='gpt-4.1-2025-04-14', object='response', output=[ResponseOutputMessage(id='msg_681fcc0dff008191bcedcc99121b463f05ec63454e6b74ab', content=[ResponseOutputText(annotations=[], text='|      |                                    | Crew  | Daily Output | Labor-Hours | Unit | Material | 2022 Bare Costs | Labor | Equipment | Total | Total Ind O&P |\n|------|------------------------------------|-------|--------------|-------------|------|----------|-----------------|-------|-----------|-------|---------------|\n|      |                                    |       |              |             |      |          |                 |       |           |       |               |\n| 05 05 19.10 Chemical Anchors               |       |              |             |      |          |                 |       |           |       |               |\n| 0010 | CHEMICAL ANCHORS                    |       |              |             |      |          |                 |       |           |       |               |\n|      | Includes layout & drilling          |       |              |             |      |          |                 |       |           |       |               |\n| 1430 | Chemical anchor, w/ rod & epoxy cartridge, 3/4" diameter x 9-1/2" long | B-89A | 27           | .593        | Ea.  | 7.70     | 31              | 4.41  | 43.11 | 60            |\n| 1440 | 1" diameter x 11-3/4" long          |       | 24           | .667        |      | 15.10    | 35              | 4.97  | 55.07 | 74            |\n| 1445 | 1-1/4" diameter x 14" long          |       | 21           | .762        |      | 29.50    | 40              | 5.70  | 75.20 | 98.50         |\n| 1450 | 1-1/4" diameter x 15" long          |       | 17           | .941        |      | 35.00    | 49              | 7.45  | 117.95| 146           |\n| 1455 | 1-3/4" diameter x 18" long          |       | 16           | 1.00        |      | 42.00    | 52.50           | 7.45  | 182.95| 222           |\n| 1460 | 2" diameter x 18" long              |       | 15           | 1.067       |      | 55.50    | 55.50           | 7.95  | 225.45| 270           |\n|      | 24" long                            |       |              |             |      |          |                 |       |           |       |               |\n| 05 05 19.20 Expansion Anchors              |       |              |             |      |          |                 |       |           |       |               |\n| 0010 | EXPANSION ANCHORS                   |       |              |             |      |          |                 |       |           |       |               |\n|      | Anchors for concrete, brick or stone, no layout and drilling |       |              |             |      |          |                 |       |           |       |               |\n|      | Expansion shields, zinc, 1/4" diameter, 15/16" long, single | 1 Carp| 90           | .089        | Ea.  | .35      | 5               |        | 5.35  | 7.85          |\n| 0200 | 1-3/8" long, double                 | G     | 85           | .094        |      | .67      | 5.30            |        | 5.97  | 8.65          |\n| 0400 | 3/8" diameter, 1-1/2" long, single  | G     | 85           | .094        |      | .70      | 5.30            |        | 6     | 8.65          |\n| 0600 | 2" long, double                     | G     | 80           | .100        |      | 1.47     | 5.65            |        | 7.12  | 9.75          |\n| 0800 | 1/2" diameter, 2-1/16" long, single | G     | 80           | .100        |      | 1.22     | 5.65            |        | 6.87  | 9.75          |\n| 1000 | 2-1/2" long, double                 | G     | 75           | .107        |      | 2.51     | 6.66            |        | 8.17  | 11.70         |\n| 1200 | 5/8" steel, 25/8" long, single      | G     | 75           | .107        |      | 2.77     | 6.45            |        | 8.77  | 12            |\n| 1400 | 2-3/4" long, double                 | G     | 75           | .107        |      | 3.54     | 6.45            |        | 9.99  | 13.50         |\n| 1600 | 3/4" diameter, 23/4" long, single   | G     | 70           | .114        |      | 4.39     | 6.45            |        | 10.84 | 14.45         |\n| 1800 | 3-5/8" long, double                 | G     | 65           | .123        |      | 6.45     | 6.95            |        | 13.40 | 17.35         |\n|      | Hollow wall anchors for gypsum wall board, plaster or tile | 1 Carp| 160          | .050        | Ea.  | .27      | 2.82            |        | 3.09  | 4.49          |\n| 2200 | 1/8" diameter, short                | G     | 150          | .053        |      | .31      | 3               |        | 3.31  | 4.81          |\n| 2400 | Long                                | G     | 150          | .053        |      | .52      | 3               |        | 3.52  | 5.05          |\n| 2500 | 3/16" diameter, short               | G     | 140          | .057        |      | .36      | 3.22            |        | 3.58  | 5.05          |\n| 2600 | Long                                | G     | 140          | .057        |      | .52      | 3.22            |        | 3.87  | 5.50          |\n| 2800 | 1/4" diameter, short                | G     | 130          | .062        |      | .60      | 3.46            |        | 4.06  | 5.55          |\n| 2900 | Long                                | G     | 130          | .062        |      | .79      | 3.46            |        | 4.25  | 6.10          |\n|      | Toggle bolts, bright steel, 1/8" diameter, 2" long | G     | 110          | .091        |      | .29      | 5.30            |        | 5.59  | 8.20          |\n| 3100 | 4" long                             | G     | 85           | .107        |      | .33      | 5.65            |        | 5.94  | 8.75          |\n| 3200 | 3/16" diameter, 3" long             | G     | 85           | .107        |      | .35      | 5.65            |        | 5.98  | 8.75          |\n| 3300 | 6" long                             | G     | 75           | .107        |      | .38      | 5.65            |        | 6.38  | 9.35          |\n| 3400 | 1/4" diameter, 3" long              | G     | 75           | .107        |      | .38      | 5.65            |        | 6.38  | 9.35          |\n| 3500 | 6" long                             | G     | 70           | .114        |      | 1.01     | 6.45            |        | 7.02  | 10.25         |\n| 3600 | 3/8" diameter, 3" long              | G     | 70           | .114        |      | 1.01     | 6.45            |        | 7.46  | 10.75         |\n| 3700 | 6" long                             | G     | 60           | .133        |      | 2.26     | 7.50            |        | 9.76  | 13.65         |\n| 3800 | 1/2" diameter, 4" long              | G     | 60           | .133        |      | 2.26     | 7.50            |        | 9.76  | 13.65         |\n| 3900 | 6" long                             | G     |              | .160        |      |          | 7.50            |        | 11.57 | 16.25         |\n|      | Nailing anchors                     |       |              |             |      |          |                 |       |           |       |               |\n| 4100 | Nylon nailing anchor, 1/4" diameter, 1" long | 1 Carp| 3.20          | 2.500        | C    | 1.70     | 141             |        | 158.70| 230           |\n|      | 1-1/2" long                         |       | 2.80          | 2.857        |      | 1.61     | 161             |        | 181   | 261           |\n|      | 2" long                             |       | 2.40          | 3.333        |      | 1.33     | 233             |        | 233   | 305           |\n| 4500 | Metal nailing anchor, 1/4" diameter, 1" long | G     | 3.20          | 2.500        |      | 15.80    | 141             |        | 156.80| 227           |\n|      | 1-1/2" long                         | G     | 2.80          | 2.857        |      | 14.17    | 161             |        | 181   | 261           |\n|      | 2" long                             | G     | 2.40          | 3.333        |      | 12.00    | 188             |        | 212   | 305           |\n|      | Screw anchors for concrete, masonry, stone & tile, no layout or drilling included |       |              |             |      |          |                 |       |           |       |               |\n| 5100 | Lag screw shields, 1/4" diameter, short | 1 Carp| 90           | .089        | Ea.  | .26      | 5               |        | 5.26  | 7.75          |\n| 5200 | Long                                | G     | 85           | .094        |      | .34      | 5.30            |        | 5.64  | 8.75          |\n| 5900 | 3/8" diameter, short                | G     | 85           | .094        |      | .57      | 5.30            |        | 5.87  | 9.15          |\n|      | Long                                | G     | 80           | .100        |      | .65      | 6.34            |        | 6.34  | 9.15          |', type='output_text')], role='assistant', status='completed', type='message')], parallel_tool_calls=True, temperature=0.0, tool_choice='auto', tools=[], top_p=1.0, max_output_tokens=None, previous_response_id=None, reasoning=Reasoning(effort=None, generate_summary=None, summary=None), service_tier='default', status='completed', text=ResponseTextConfig(format=ResponseFormatText(type='text')), truncation='disabled', usage=ResponseUsage(input_tokens=3898, input_tokens_details=InputTokensDetails(cached_tokens=0), output_tokens=2695, output_tokens_details=OutputTokensDetails(reasoning_tokens=0), total_tokens=6593), user=None, store=True)
+Response Timestamp: 2025-05-10T17:59:32.879046
+Time Taken: 115.330384 seconds
+
+==================================================
+
+Timestamp: 2025-05-10T18:14:06.320938
+Image: C:/Users/scleb/Documents/bimsc25/GitHub/PDF-Markdown-AI/250510_test_images\page_139.jpg
+OCR Text:
+05.05 19.10 Chemical A Anchors - _
+
+0010 CHEMICAL ANCHORS =“
+0020 © Includes loyout & dein
+
+1430 £ — Chemical anchor, w/rod & epoxy cartridge, 3/4 deter 91/2" long , Bama 7 593 fa? 770 33 4a 4B 60
+435 ft a1" diometer 1)-3/4" Fong os ke a ax SO aad pel 5.0 ase, 35 ae AT 5507 A
+
+cx Dolly lobo = | --- 2022 fare oss -—————- | >
+Gew_Output_Hours Unit & Materiol_-- iobor > Equipment ~~ Total @ 9 Ind O8P
+
+- . = oho are -
+
+fa
+
+‘é
+
+1440 | 11/4" diameter 14” ong me eh Py DL 22 |= |e 2950 AO Le 50 75.007 98.50
+1445 | 13/4" ameter x 15" long “| |] mys] ] 1 7m | 42 f 595) 1795] 14s
+1450 | 18" lng } iq} io [| «| oo to7] ve | 4
+1455 |S —-2" dameter x 18” ng Ftd} 1 tt) 123 a 52.50; - 745] 182.95] + 222
+
+= a
+
+05 05 19. 20 Expansion Anchors .
+
+o> ate vi let 55350 LS SO |
+
+(010 EXPANSION ANCHORS — . - “fh
+Q100 * Anchors for concrete, brick or stone, ao out ond diling 7 .
+0200 _ Beatin shields, zinc, 1/4” diameter, wr son, sng 7.85
+03003... doen 13/8" long, double ce B65t
+0400 * 3/8" diameter, 1-1/2” long, single 8.65
+0500 2 long, double 10
+0600 - 1/2” diameter, 21/16" long, single - - 975
+0700 — B/2" long, double --"- ~-- 7 W704
+0800" 5/8” dicmmeter, 2-578" long, single = rs
+0900: + *” 23/4"fong,dovtle =. 13.50, *
+1000 ie 7 3/4" diameter, 23/4” long, single . . | . ‘ ais.
+1000 ioe 15/16" ng double wa Gp Weg Siem : 45, main 6:95 18.40 reve 17.35
+2100 |. Hollow well anchors for gypsum wall boord, plaster or tila “——- - -- Wego oy . _
+2300 | 1/8" diameter, shot. @ fa 140 | os} to. a|  282| | re 4ag
+24 Long & - Ka | 4 3 | ast} 481
+25 == 3/16" diameter, shot ~~ --- $2 a-] - 3.52 5.05
+WO ge a eae eet ies 82°7 met
+00" * 1/4" dameter shot” | 6 | 82 387550
+2800 | Long . | "2 3.46 425 6
+300 gen Tog bol, bright ste, 1/8 te, a a ed Slaereernene 25 sae 5.30 cemmeeretams5-55 “tte 8.20)
+3100 | --- — Vlong-—-  - — - —.--- ee [¢ 870
+3200 3/16” diameter, 3” long 875
+33 ~ 6" long 945
+ui TTT a" diameter, wa i 9.35 5
+HOT Fiong Tos} |
+fs ww diameter, y ‘om, 10.70
+. 12.85
+2 13. 68:
+37 — 16.25 ° ‘
+Nailing anchors ' ? ma,
+4100 Rylon noiling anchor, 1/4” diameter, 1” long 77 4h | 158.70| 230
+4200 | ~. "eg wt tS cco 2. a 181 | 18] 261
+1300) NO 2 og ae ea ee ald 805
+4400 < — * Metal noting anchor, 1/4” diameter, leg im . 3] g | . 320 2500 ; 71580 1s ; 156.80 227 .
+4500 ¢ 14/2" lng 2 egy | 280 aes fe Swe tat J
+$000 anon a = hng a ae ee erg 2.40 3.333 aes Yomjnnacs 24, 8 aetna 5 i:
+5000 | - Screw anchors for concrete, masonry, - — ~- er’ 1) - “ad. , ;
+5100 stone & file, no layout of drilling inchided . dt ‘ F '
+5700 | Log screw shields, 1/4” diameter, short a 1 Corp} [al | fo. | 2 775
+5800 }—- ----— tong — _ - Te “. 85 | .094 34 8.25
+5900 ya dametey, short aS] as a= 135" ,
+~ oes oe | paca | "95
+: - 125
+
+: For customer support on your Bullding Construction Costs with RSMeans data, call 800.448.8182.
+
+GPT Prompt:
+
+Format the following text as markdown, preserving any tables. 
+Do not add, guess, or hallucinate any information. 
+If the OCR text is unclear, leave it as is.
+
+Text:
+05.05 19.10 Chemical A Anchors - _
+
+0010 CHEMICAL ANCHORS =“
+0020 © Includes loyout & dein
+
+1430 £ — Chemical anchor, w/rod & epoxy cartridge, 3/4 deter 91/2" long , Bama 7 593 fa? 770 33 4a 4B 60
+435 ft a1" diometer 1)-3/4" Fong os ke a ax SO aad pel 5.0 ase, 35 ae AT 5507 A
+
+cx Dolly lobo = | --- 2022 fare oss -—————- | >
+Gew_Output_Hours Unit & Materiol_-- iobor > Equipment ~~ Total @ 9 Ind O8P
+
+- . = oho are -
+
+fa
+
+‘é
+
+1440 | 11/4" diameter 14” ong me eh Py DL 22 |= |e 2950 AO Le 50 75.007 98.50
+1445 | 13/4" ameter x 15" long “| |] mys] ] 1 7m | 42 f 595) 1795] 14s
+1450 | 18" lng } iq} io [| «| oo to7] ve | 4
+1455 |S —-2" dameter x 18” ng Ftd} 1 tt) 123 a 52.50; - 745] 182.95] + 222
+
+= a
+
+05 05 19. 20 Expansion Anchors .
+
+o> ate vi let 55350 LS SO |
+
+(010 EXPANSION ANCHORS — . - “fh
+Q100 * Anchors for concrete, brick or stone, ao out ond diling 7 .
+0200 _ Beatin shields, zinc, 1/4” diameter, wr son, sng 7.85
+03003... doen 13/8" long, double ce B65t
+0400 * 3/8" diameter, 1-1/2” long, single 8.65
+0500 2 long, double 10
+0600 - 1/2” diameter, 21/16" long, single - - 975
+0700 — B/2" long, double --"- ~-- 7 W704
+0800" 5/8” dicmmeter, 2-578" long, single = rs
+0900: + *” 23/4"fong,dovtle =. 13.50, *
+1000 ie 7 3/4" diameter, 23/4” long, single . . | . ‘ ais.
+1000 ioe 15/16" ng double wa Gp Weg Siem : 45, main 6:95 18.40 reve 17.35
+2100 |. Hollow well anchors for gypsum wall boord, plaster or tila “——- - -- Wego oy . _
+2300 | 1/8" diameter, shot. @ fa 140 | os} to. a|  282| | re 4ag
+24 Long & - Ka | 4 3 | ast} 481
+25 == 3/16" diameter, shot ~~ --- $2 a-] - 3.52 5.05
+WO ge a eae eet ies 82°7 met
+00" * 1/4" dameter shot” | 6 | 82 387550
+2800 | Long . | "2 3.46 425 6
+300 gen Tog bol, bright ste, 1/8 te, a a ed Slaereernene 25 sae 5.30 cemmeeretams5-55 “tte 8.20)
+3100 | --- — Vlong-—-  - — - —.--- ee [¢ 870
+3200 3/16” diameter, 3” long 875
+33 ~ 6" long 945
+ui TTT a" diameter, wa i 9.35 5
+HOT Fiong Tos} |
+fs ww diameter, y ‘om, 10.70
+. 12.85
+2 13. 68:
+37 — 16.25 ° ‘
+Nailing anchors ' ? ma,
+4100 Rylon noiling anchor, 1/4” diameter, 1” long 77 4h | 158.70| 230
+4200 | ~. "eg wt tS cco 2. a 181 | 18] 261
+1300) NO 2 og ae ea ee ald 805
+4400 < — * Metal noting anchor, 1/4” diameter, leg im . 3] g | . 320 2500 ; 71580 1s ; 156.80 227 .
+4500 ¢ 14/2" lng 2 egy | 280 aes fe Swe tat J
+$000 anon a = hng a ae ee erg 2.40 3.333 aes Yomjnnacs 24, 8 aetna 5 i:
+5000 | - Screw anchors for concrete, masonry, - — ~- er’ 1) - “ad. , ;
+5100 stone & file, no layout of drilling inchided . dt ‘ F '
+5700 | Log screw shields, 1/4” diameter, short a 1 Corp} [al | fo. | 2 775
+5800 }—- ----— tong — _ - Te “. 85 | .094 34 8.25
+5900 ya dametey, short aS] as a= 135" ,
+~ oes oe | paca | "95
+: - 125
+
+: For customer support on your Bullding Construction Costs with RSMeans data, call 800.448.8182.
+
+GPT Markdown Output:
+```markdown
+05.05 19.10 Chemical A Anchors - _
+
+|      | CHEMICAL ANCHORS =“ |
+|------|---------------------|
+| 0020 | © Includes loyout & dein |
+
+|      | Chemical anchor, w/rod & epoxy cartridge, 3/4 deter 91/2" long , Bama 7 593 fa? 770 33 4a 4B 60 |
+|------|------------------------------------------------------------------------------------------------|
+| 435  | ft a1" diometer 1)-3/4" Fong os ke a ax SO aad pel 5.0 ase, 35 ae AT 5507 A |
+
+| cx Dolly lobo = | --- 2022 fare oss -—————- | >
+|-----------------|----------------------------|
+
+| Gew_Output_Hours Unit & Materiol_-- iobor > Equipment ~~ Total @ 9 Ind O8P |
+|----------------------------------------------------------|
+
+- . = oho are -
+
+fa
+
+|      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|
+| 1440 | 11/4" diameter 14” ong me eh Py DL 22 | = | e | 2950 | AO | Le | 50 | 75.007 | 98.50 |
+| 1445 | 13/4" ameter x 15" long “| |] mys] ] 1 7m | 42 | f 595) | 1795 | 14s |
+| 1450 | 18" lng | iq | io | | «| oo | to7 | ve | 4 |
+| 1455 |S —-2" dameter x 18” ng Ftd| 1 | tt| 123 | a | 52.50; | - | 745| 182.95| + 222 |
+
+= a
+
+05 05 19. 20 Expansion Anchors .
+
+o> ate vi let 55350 LS SO |
+
+|      | EXPANSION ANCHORS — . - “fh |
+|------|-----------------------------|
+| Q100 | * Anchors for concrete, brick or stone, ao out ond diling 7 . |
+| 0200 | _ Beatin shields, zinc, 1/4” diameter, wr son, sng 7.85 |
+| 0300 | ... doen 13/8" long, double ce B65t |
+| 0400 | * 3/8" diameter, 1-1/2” long, single 8.65 |
+| 0500 | 2 long, double 10 |
+| 0600 | - 1/2” diameter, 21/16" long, single - - 975 |
+| 0700 | — B/2" long, double --"- ~-- 7 W704 |
+| 0800 | " 5/8” dicmmeter, 2-578" long, single = rs |
+| 0900 |: + *” 23/4"fong,dovtle =. 13.50, * |
+| 1000 | ie 7 3/4" diameter, 23/4” long, single . . | . ‘ ais. |
+| 1000 | ioe 15/16" ng double wa Gp Weg Siem : 45, main 6:95 18.40 reve 17.35 |
+| 2100 | . Hollow well anchors for gypsum wall boord, plaster or tila “——- - -- Wego oy . _ |
+| 2300 | 1/8" diameter, shot. @ fa 140 | os| to. a|  282| | re 4ag |
+| 24   | Long & - Ka | 4 3 | ast| 481 |
+| 25   | == 3/16" diameter, shot ~~ --- $2 a-] - 3.52 5.05 |
+| WO   | ge a eae eet ies 82°7 met |
+| 00   | * 1/4" dameter shot” | 6 | 82 387550 |
+| 2800 | Long . | "2 3.46 425 6 |
+| 300  | gen Tog bol, bright ste, 1/8 te, a a ed Slaereernene 25 sae 5.30 cemmeeretams5-55 “tte 8.20) |
+| 3100 | --- — Vlong-—-  - — - —.--- ee [¢ 870 |
+| 3200 | 3/16” diameter, 3” long 875 |
+| 33   | ~ 6" long 945 |
+| ui   | TTT a" diameter, wa i 9.35 5 |
+| HOT  | Fiong Tos} |
+| fs   | ww diameter, y ‘om, 10.70 |
+|      | . 12.85 |
+| 2    | 13. 68: |
+| 37   | — 16.25 ° ‘ |
+
+Nailing anchors ' ? ma,
+
+|      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|
+| 4100 | Rylon noiling anchor, 1/4” diameter, 1” long 77 4h | 158.70| 230 |
+| 4200 | ~. "eg wt tS cco 2. a 181 | 18| 261 |
+| 1300 | NO 2 og ae ea ee ald 805 |
+| 4400 | < — * Metal noting anchor, 1/4” diameter, leg im . 3| g | . 320 2500 ; 71580 1s ; 156.80 227 . |
+| 4500 | ¢ 14/2" lng 2 egy | 280 aes fe Swe tat J |
+| $000 | anon a = hng a ae ee erg 2.40 3.333 aes Yomjnnacs 24, 8 aetna 5 i: |
+| 5000 | - Screw anchors for concrete, masonry, - — ~- er’ 1) - “ad. , ; |
+| 5100 | stone & file, no layout of drilling inchided . dt ‘ F ' |
+| 5700 | Log screw shields, 1/4” diameter, short a 1 Corp} [al | fo. | 2 775 |
+| 5800 | }—- ----— tong — _ - Te “. 85 | .094 34 8.25 |
+| 5900 | ya dametey, short aS] as a= 135" , |
+|      | ~ oes oe | paca | "95 |
+|      | : - 125 |
+
+: For customer support on your Bullding Construction Costs with RSMeans data, call 800.448.8182.
+```
+============================================================
+
+Timestamp: 2025-05-10T21:55:52.728288
+Image: C:/Users/scleb/Documents/bimsc25/GitHub/PDF-Markdown-AI/250510_test_images\page_139.jpg
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+2-3/4" long, double
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+Prompt:
+You are given the OCR-extracted text from an image and the original image itself. Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Do NOT transcribe or extract any new information from the image. Only use the provided OCR text. If the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+2-3/4" long, double
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+GPT Markdown Output:
+# 05 05 Common Work Results for Metals
+
+## 05 05 19 – Post-Installed Concrete Anchors
+
+### 05 05 19.10 Chemical Anchors
+
+| Daily Labor- | Crew | Output | Hours | Unit | Material | Labor | 2022 Bare Costs | Equipment | Total | Total Incl O&P |
+|--------------|------|--------|-------|------|----------|-------|-----------------|-----------|-------|----------------|
+|              |      |        |       |      |          |       |                 |           |       |                |
+| **0010 CHEMICAL ANCHORS** |      |        |       |      |          |       |                 |           |       |                |
+| **Includes layout & drilling** |      |        |       |      |          |       |                 |           |       |                |
+| 1430 Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long | B-89A | 27 | .593 | Ea. | 7.70 | 31 | 4.41 | 43.11 | 60 |
+| 1435 1" diameter x 11-3/4" long | 24 | .667 | 15.10 | 35 | 4.97 | 55.07 | 74 |
+| 1440 1-1/4" diameter x 14" long | 21 | .762 | 29.50 | 40 | 5.70 | 75.20 | 98.50 |
+| 1445 1-3/4" diameter x 15" long | 20 | .800 | 70 | 42 | 5.95 | 117.95 | 146 |
+| 1450 18" long | 17 | .941 | 84 | 49 | 7 | 140 | 174 |
+| 1455 2" diameter x 18" long | 16 | 1.067 | 52.50 | 7.45 | 182.95 | 222 |
+| 1460 24" long | 15 | 1.067 | 162 | 55.50 | 7.95 | 225.45 | 270 |
+
+---
+
+### 05 05 19.20 Expansion Anchors
+
+|      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|
+| **0010 EXPANSION ANCHORS** |      |      |      |      |      |      |      |      |      |      |
+| Anchors for concrete, brick or stone, no layout and drilling |      |      |      |      |      |      |      |      |      |      |
+| 0200 Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single | 1 Corp | 90 | .089 | Ea. | .35 | 5 | 5.35 | 7.85 |
+| 0300 1-3/8" long, double | 85 | .094 | .67 | 5.30 | 5.97 | 8.65 |
+| 0400 3/8" diameter, 1-1/2" long, single | 85 | .094 | .70 | 5.30 | 6 | 8.65 |
+| 0500 2" long, double | 80 | .100 | 1.47 | 5.65 | 7.12 | 9.75 |
+| 0600 1/2" diameter, 2-1/16" long, single | 80 | .100 | 1.22 | 5.65 | 6.87 | 9.75 |
+| 0700 2-1/2" long, double | 75 | .107 | 2.51 | 6.45 | 8.51 | 11.70 |
+| 0800 5/8" diameter, 2-5/8" long, single | 75 | .107 | 2.77 | 6 | 8.77 | 12 |
+| 0900 2-3/4" long, double | 70 | .114 | 3.54 | 6.45 | 9.99 | 13.50 |
+| 1000 3/4" diameter, 2-3/4" long, single | 70 | .114 | 4.39 | 6.45 | 10.84 | 14.45 |
+| 1100 3-15/16" long, double | 65 | .123 | 6.45 | 6.95 | 13.40 | 17.35 |
+
+#### Hollow wall anchors for gypsum wall board, plaster or tile
+
+|      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|
+| 2100 1/8" diameter, short | 1 Carp | 160 | .050 | Ea. | .27 | 2.82 | 3.09 | 4.49 |
+| 2300 Long | 150 | .053 | .31 | 3.31 | 4.81 |
+| 2400 3/16" diameter, short | 150 | .053 | .52 | 3.52 | 5.05 |
+| 2500 Long | 140 | .057 | .60 | 3.22 | 3.82 | 5.45 |
+| 2600 1/4" diameter, short | 140 | .057 | .65 | 3.22 | 3.87 | 5.50 |
+| 2700 Long | 130 | .062 | .79 | 3.46 | 4.25 | 6 |
+| 2800! | 85 | .094 | .25 | 5.30 | 5.55 | 8.20 |
+| 3000 Long | 80 | .100 | .29 | 5.65 | 5.94 | 8.70 |
+
+#### Toggle bolts, bright steel, 1/8" diameter, 2" long
+
+|      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|
+| 3100 4" long | 80 | .100 | 5.65 | 5.98 | 8.75 |
+| 3200 3/16" diameter, 3" long | 75 | .107 | .46 | 6.46 | 9.45 |
+| 3300 6" long | 75 | .107 | .38 | 6.38 | 9.35 |
+| 3400 1/4" diameter, 3" long | 70 | .114 | .57 | 6.45 | 7.02 | 10.25 |
+| 3500 6" long | 70 | .114 | 1.01 | 6.45 | 7.46 | 10.70 |
+| 3600 3/8" diameter, 3" long | 60 | .133 | 1.56 | 7.50 | 9.06 | 12.85 |
+| 3700 6" long | 60 | .133 | 2.26 | 7.50 | 9.76 | 13.65 |
+| 3800 1/2" diameter, 4" long | 50 | .160 | 2.57 | 9 | 11.57 | 16.25 |
+| 3900 6" long | 1 Carp | 3.20 | 2.500 | C | 17.70 | 141 | 158.70 | 230 |
+
+#### Nailing anchors
+
+|      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|
+| 4100 Nylon nailing anchor, 1/4" diameter, 1" long | 2.80 | 2.857 | 20 | 161 | 181 | 261 |
+| 4200 1-1/2" long | 2.40 | 3.333 | 24 | 188 | 213 | 305 |
+| 4300 2" long | 3.20 | 2.500 | 15.80 | 141 | 156.80 | 227 |
+| 4400 Metal nailing anchor, 1/4" diameter, 1" long | 2.80 | 2.857 | 20 | 161 | 181 | 261 |
+| 4500 1-1/2" long | 2.40 | 3.333 | 24 | 188 | 212 | 305 |
+
+---
+
+#### Screw anchors for concrete, masonry, stone & tile, no layout or drilling included
+
+|      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|
+| 5000 | 1 Carp | 90 | .089 | Ea. | .26 | 5 | 5.26 | 7.75 |
+| 5100 | 85 | .094 | .34 | 5.30 | 5.64 | 8.25 |
+| 5700 Lag screw shields, 1/4" diameter, short | 85 | .094 | .57 | 5.30 | 5.87 | 8.55 |
+| 5800 Long | 80 | .100 | .69 | 5.65 | 6.34 | 9.15 |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-10T22:04:01.926090
+Image: C:/Users/scleb/Documents/bimsc25/GitHub/PDF-Markdown-AI/250510_test_images\page_139.jpg
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+2-3/4" long, double
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+Prompt:
+You are given the OCR-extracted text from an image and the original image itself. Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Do NOT transcribe or extract any new information from the image. Only use the provided OCR text. If the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+2-3/4" long, double
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+GPT Markdown Output:
+| ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|----------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | CHEMICAL ANCHORS                                                     |          |             |             |      |          |        |           |         |                |
+|       | Includes layout & drilling                                           |          |             |             |      |          |        |           |         |                |
+| 1430  | Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long| B-89A    | 27          | .593        | Ea.  | 7.70     | 31     | 4.41      | 43.11   | 60             |
+| 1435  | 1" diameter x 11-3/4" long                                           |          | 24          | .667        |      | 15.10    | 35     | 4.97      | 55.07   | 74             |
+| 1440  | 1-1/4" diameter x 14" long                                           |          | 21          | .762        |      | 29.50    | 40     | 5.70      | 75.20   | 98.50          |
+| 1445  | 1-3/4" diameter x 15" long                                           |          | 20          | .800        |      | 70       | 42     | 5.95      | 117.95  | 146            |
+| 1450  | 18" long                                                             |          | 17          | .941        |      | 84       | 49     | 7         | 140     | 174            |
+| 1455  | 2" diameter x 18" long                                               |          | 16          | 1.000       |      | 123      | 52.50  | 7.45      | 182.95  | 222            |
+| 1460  | 24" long                                                             |          | 15          | 1.067       |      | 162      | 55.50  | 7.95      | 225.45  | 270            |
+|       |                                                                      |          |             |             |      |          |        |           |         |                |
+| 0010  | EXPANSION ANCHORS                                                    |          |             |             |      |          |        |           |         |                |
+| 0100  | Anchors for concrete, brick or stone, no layout and drilling         | 1 Corp   | 90          | .089        | Ea.  | .35      | 5      |           | 5.35    | 7.85           |
+| 0200  | Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single         | G        | 85          | .094        |      | .67      | 5.30   |           | 5.97    | 8.65           |
+| 0300  | 1-3/8" long, double                                                  | G        | 85          | .094        |      | .70      | 5.30   |           | 6        | 8.65           |
+| 0400  | 3/8" diameter, 1-1/2" long, single                                   | G        | 80          | .100        |      | 1.47     | 5.65   |           | 7.12    | 9.75           |
+| 0500  | 2" long, double                                                      | G        | 80          | .100        |      | 1.22     | 5.65   |           | 6.87    | 9.75           |
+| 0600  | 1/2" diameter, 2-1/16" long, single                                  | G        | 75          | .107        |      | 2.51     | 6.45   |           | 8.77    | 11.70          |
+| 0700  | 2-1/2" long, double                                                  | G        | 75          | .107        |      | 2.77     | 6.45   |           | 9.22    | 12.00          |
+| 0800  | 5/8" diameter, 2-5/8" long, single                                   | G        | 70          | .114        |      | 3.54     | 6.45   |           | 9.99    | 13.50          |
+| 0900  | 2-3/4" long, double                                                  | G        | 70          | .114        |      | 4.39     | 6.45   |           | 10.84   | 14.45          |
+| 1000  | 3/4" diameter, 2-3/4" long, single                                   | G        | 65          | .123        |      | 6.45     | 6.95   |           | 13.40   | 17.35          |
+| 1100  | 3-15/16" long, double                                                |          |             |             |      |          |        |           |         |                |
+| 2100  | Hollow wall anchors for gypsum wall board, plaster or tile           | 1 Carp   | 160         | .050        | Ea.  | .27      | 2.82   |           | 3.09    | 4.49           |
+| 2300  | 1/8" diameter, short                                                 | 150      | .053        |             |      | .31      | 3.31   |           | 4.81    |                |
+| 2400  | Long                                                                 | 150      | .053        |             |      | .52      | 3.52   |           | 5.05    |                |
+| 2500  | 3/16" diameter, short                                                | 140      | .057        |             |      | .60      | 3.22   |           | 3.82    | 5.45           |
+| 2600  | Long                                                                 | 140      | .057        |             |      | .65      | 3.22   |           | 3.87    | 5.50           |
+| 2700  | 1/4" diameter, short                                                 | 130      | .062        |             |      | .79      | 3.46   |           | 4.25    | 6              |
+| 2800  | Long                                                                 |          |             |             |      |          |        |           |         |                |
+| 3000  | Toggle bolts, bright steel, 1/8" diameter, 2" long                   | G        | 85          | .094        |      | .25      | 5.30   |           | 5.55    | 8.20           |
+| 3100  | 4" long                                                              | G        | 80          | .100        |      | .29      | 5.65   |           | 5.94    | 8.70           |
+| 3200  | 3/16" diameter, 3" long                                              | G        | 80          | .100        |      |          | 5.65   |           | 5.98    | 8.75           |
+| 3300  | 6" long                                                              | G        | 75          | .107        |      | .46      | 6.46   |           | 9.45    |                |
+| 3400  | 1/4" diameter, 3" long                                               | G        | 75          | .107        |      | .38      | 6.38   |           | 9.35    |                |
+| 3500  | 6" long                                                              | G        | 70          | .114        |      | .57      | 6.45   |           | 7.02    | 10.25          |
+| 3600  | 3/8" diameter, 3" long                                               | G        | 70          | .114        |      | 1.01     | 6.45   |           | 7.46    | 10.70          |
+| 3700  | 6" long                                                              | G        | 60          | .133        |      | 1.56     | 7.50   |           | 9.06    | 12.85          |
+| 3800  | 1/2" diameter, 4" long                                               | G        | 60          | .133        |      | 2.26     | 7.50   |           | 9.76    | 13.65          |
+| 3900  | 6" long                                                              | G        | 50          | .160        |      | 2.57     | 9      |           | 11.57   | 16.25          |
+| 4000  | Nailing anchors                                                      | 1 Carp   | 3.20        | 2.500       | C    | 17.70    | 141    |           | 158.70  | 230            |
+| 4100  | Nylon nailing anchor, 1/4" diameter, 1" long                         | 2.80     | 2.857       |             |      | 20       | 161    |           | 181     | 261            |
+| 4200  | 1-1/2" long                                                          | 2.40     | 3.333       |             |      | 24       | 188    |           | 212     | 305            |
+| 4300  | 2" long                                                              | 3.20     | 2.500       |             |      | 15.80    | 141    |           | 156.80  | 227            |
+| 4400  | Metal nailing anchor, 1/4" diameter, 1" long                         | 2.80     | 2.857       |             |      | 20       | 161    |           | 181     | 261            |
+| 4500  | 1-1/2" long                                                          | 2.40     | 3.333       |             |      | 24       | 188    |           | 212     | 305            |
+| 4600  | 2" long                                                              |          |             |             |      |          |        |           |         |                |
+| 5000  | Screw anchors for concrete, masonry,                                 | G        | 90          | .089        | Ea.  | .26      | 5      |           | 5.26    | 7.75           |
+| 5100  | stone & tile, no layout or drilling included                         | G        | 85          | .094        |      | .34      | 5.30   |           | 5.64    | 8.25           |
+| 5700  | Lag screw shields, 1/4" diameter, short                              | G        | 85          | .094        |      | .57      | 5.30   |           | 5.87    | 8.55           |
+| 5800  | Long                                                                 | G        | 80          | .100        |      | .69      | 5.65   |           | 6.34    | 9.15           |
+| 5900  | 3/8" diameter, short                                                 |          |             |             |      |          |        |           |         |                |
+| 6000  | Long                                                                 |          |             |             |      |          |        |           |         |                |
+============================================================
+
+Timestamp: 2025-05-13T23:19:03.579146
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+2-3/4" long, double
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 05       05       Common                  Work           Results              for      Metals
+05   05    19    -   Post    - Installed         Concrete           Anchors
+Daily   Labor-                         2022  Bare  Costs                     Total
+05  05  19.10     Chemical       Anchors                                             Crew   Output   Hours    Unit     Material        Labor      Equipment         Total       Incl O & P
+0010    CHEMICAL      ANCHORS
+0020        Includes  layout  & drilling
+1430        Chemical   anchor  , w / rod & epoxy  cartridge , 3/4 " diameter   x 9-1 / 2 " long           B - 89A    2222765 27    .593     Ea .        7.70        31          4.41        43.11        60
+1435               1 " diameter   x 11-3 / 4 " long                                             24    .667              15.10        35          4.97        55.07        74
+1440               1-1 / 4 " diameter   x 14 " long                                             21    .762              29.50        40    |      5.70        75.20        98.50
+1445               1-3 / 4 " diameter   x 15 " long                                             20    .800              70         42           5.95       117.95       146
+1450                  18 " long                                                         17    941              84         49           7         140         174
+1455               2 " diameter   x 18 " long                                                 16                    123          52.50         7.45        182.95       222
+1460                  24 " long                                                         15   1.067             162          55.50         7.95       225.45       270
+05  05  19.20     Expansion        Anchors
+0010    EXPANSION       ANCHORS
+0100        Anchors  for concrete  , brick or stone , no layout  and drilling
+0200        Expansion   shields , zinc , 1/4 " diameter  , 1-5 / 16 " long , single              555555GGGG 1 Corp    90    .089    991 Eq .         .35        5                      5.35         7.85
+0300                  1-3 / 8 " long , double                                                 85    .094                .67        5.30                    5.97         8.65
+0400               3/8 " diameter  , 1-1 / 2 " long , single                                        85    .094                .70        5.30                    6          8.65
+0500                  2 " long , double                                                    80    .100               1.47        5.65                    7.12        10
+0600               1/2 " diameter  , 2-1 / 16 " long , single                                       80    .100               1.22        5.65                    6.87         9.75
+0700                  2-1 / 2 " long , double                                                HERRS 75    .107               2.51         99                     8.51        11.70
+0800               5/8 " diameter  , 2-5 / 8 " long , single                                        75    .107               2.77         6                      8.77        12
+0900                  2-3 / 4 " long , double                                                 70    .114               3.54         6.45                    9.99        13.50
+1000              3/4 " diameter  , 2-3 / 4 " long , single                                        70    .114               4.39         99 6.45                   10.84        14.45
+1100                  3-15 / 16 " long , double                                               65    .123               6.45         6.95                   13.40        17.35
+2100        Hollow  wall anchors  for gypsum   wall board , plaster or tile
+2300               1/8 " diameter  , short                                      GGGGGGGGGGGG5555 Carp   160    .050     Ea .        22222222342434 .27        23 2.82                    3.09        4.49
+2400                  Long                                                            150    .053                .31                               3.31        4.81
+2500               3/16  " diameter  , short                                                 150    .053                .52        33                     3.52        5.05
+2600                  Long                                                            140    .057                 .60        3.22                    3.82        5.45
+2700               1/4 " diameter  , short                                                  140    .057                .65        3355561 3.22                    3.87         5.50
+2800   !              Long                                                            130    .062  :             .79        3.46                    4.25        6
+3000        Toggle  bolts , bright steel , 1/8 " diameter  , 2 " long                                    85    .094                .25        5.30                    5.55         8.20
+3100                  4 " long                                                          80    .100                .29        5.65                    5.94         8.70
+3200               3/16  " diameter  , 3 ″ long                                                80    .100                          5.65                    5.98         8.75
+3300                  6 " long                                                          75    .107                .46                               6.46        9.45
+3400               1/4 " diameter  , 3 " long                                                 75    .107                .38                               6.38        9.35
+3500                  6 " long                                                          70    .114                .57        6.45                    7.02        10.25
+3600               3/8 " diameter  , 3 " long                                                 70    .114               1.01         6.45                    7.46        10.70
+3700                  6 " long                                             G           60    .133                1.56        7.50                    9.06        12.85
+3800               1/2 " diameter  , 4 " long                                                 60    .133               2.26         7.50                    9.76        13.65
+3900                  6 " long                                                          50    .160               2.57         9                     11.57        16.25
+4000        Nailing anchors
+4100           Nylon  nailing anchor , 1/4 " diameter  , 1 " long                            1 Carp   3.20   2.500     C        17.70       141                     158.70       230
+4200                  1-1 / 2 " long                                                     2.80   2.857              20        161                     181         261
+4300                  2 " long                                                         2.40   3.333              25         188                    213         305
+4400           Metal  nailing anchor , 1/4 " diameter  , 1 " long                       G55          3.20   2.500               15.80       141                     156.80       227
+4500                  1-1 / 2 " long                                                     2.80   2.857              20         161                     181         261
+4600                  2 " long                                                         2.40   3.333              24        188                     212         305
+5000        Screw  anchors  for concrete  , masonry  ,
+5100               stone  & tile , no layout  or drilling included
+5700           Lag screw  shields , 1/4 " diameter  , short                           5555 G1     Carp    90    .089     Ea .         .26        5                      5.26        7.75
+5800                  Long                                                G           85    .094                .34        5.30                    5.64         8.25
+5900               3/8 " diameter  , short                                       G           85    .094                .57        5.30                    5.87        8.55
+6000                  Long                                                G           80    .100                .69        5.65                    6.34        9.15
+For  customer       support     on  your    Building     Construction         Costs    with   RSMeans       data  , call  800.448.8182        .                     125
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+05 05 Common Work Results for Metals
+05 05 19 - Post-Installed Concrete Anchors
+05 05 19.10 Chemical Anchors
+Daily Labor-
+Crew Output Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & drilling
+1430
+Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long
+1435
+1" diameter x 11-3/4" long
+1440
+1-1/4" diameter x 14" long
+21
+1445
+1-3/4" diameter x 15" long
+1450
+18" long
+1455
+2" diameter x 18" long
+1460
+24" long
+2222765
+B-89A 27 .593 Ea.
+7.70
+31
+4.41
+43.11
+60
+24 .667
+15.10
+35
+4.97
+55.07
+74
+.762
+29.50
+40 | 5.70
+75.20
+98.50
+20 .800
+70
+42
+5.95
+117.95
+146
+17 941
+84
+49
+7
+140
+174
+16
+123
+52.50
+7.45
+182.95 222
+15 1.067
+162
+55.50
+7.95
+225.45 270
+05 05 19.20 Expansion Anchors
+0010
+EXPANSION ANCHORS
+0100
+Anchors for concrete, brick or stone, no layout and drilling
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+2-3/4" long, double
+1000
+1100
+2100
+2300
+Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single
+1-3/8" long, double
+3/8" diameter, 1-1/2" long, single
+2" long, double
+1/2" diameter, 2-1/16" long, single
+2-1/2" long, double
+5/8" diameter, 2-5/8" long, single
+3/4" diameter, 2-3/4" long, single
+3-15/16" long, double
+Hollow wall anchors for gypsum wall board, plaster or tile
+1/8" diameter, short
+2400
+Long
+2500
+3/16" diameter, short
+2600
+Long
+2700
+2800!
+3000
+1/4" diameter, short
+Long
+Toggle bolts, bright steel, 1/8" diameter, 2" long
+3100
+4" long
+3200
+3/16" diameter, 3″ long
+3300
+6" long
+3400
+1/4" diameter, 3" long
+3500
+6" long
+3600
+3/8" diameter, 3" long
+3700
+6" long
+3800
+1/2" diameter, 4" long
+3900
+6" long
+555555GGGG GGGGGGGGGGGG5555
+991
+HERRS
+22222222342434
+4000
+Nailing anchors
+4100
+4200
+4300
+4400
+Nylon nailing anchor, 1/4" diameter, 1" long
+1-1/2" long
+2" long
+Metal nailing anchor, 1/4" diameter, 1" long
+2.80 2.857
+2.40 3.333
+4500
+4600
+1-1/2" long
+2" long
+G55
+1 Corp 90
+.089
+Eq.
+.35
+5
+5.35
+7.85
+85
+.094
+.67
+5.30
+5.97
+8.65
+85 .094
+.70
+5.30
+6
+8.65
+80 .100
+1.47
+5.65
+7.12
+10
+80
+.100
+1.22
+5.65
+6.87
+9.75
+75
+.107
+2.51
+8.51
+11.70
+75 .107
+2.77
+6
+8.77
+12
+70
+.114
+3.54
+6.45
+9.99
+13.50
+70
+.114
+4.39
+6.45
+10.84
+14.45
+65 .123
+6.45
+6.95
+13.40
+17.35
+Carp 160 .050 Ea.
+.27
+2.82
+3.09
+4.49
+150 .053
+.31
+3.31
+4.81
+150 .053
+.52
+3.52
+5.05
+140 .057
+.60
+3.22
+3.82
+5.45
+140 .057
+.65
+3.22
+3.87
+5.50
+130 .062:
+.79
+3.46
+4.25
+6
+85 .094
+.25
+5.30
+5.55
+8.20
+80
+.100
+.29
+5.65
+5.94
+8.70
+80 .100
+5.65
+5.98
+8.75
+75
+.107
+.46
+6.46
+9.45
+75
+.107
+.38
+6.38
+9.35
+70
+.114
+.57
+6.45
+7.02
+10.25
+70 .114
+1.01
+6.45
+7.46
+10.70
+G
+60 .133
+1.56
+7.50
+9.06
+12.85
+60 .133
+2.26
+7.50
+9.76
+13.65
+50 .160
+2.57
+9
+11.57
+16.25
+1 Carp 3.20 2.500
+C
+17.70
+141
+158.70
+230
+20
+161
+181
+261
+25
+188
+213
+305
+3.20 2.500
+15.80
+141
+156.80
+227
+2.80 2.857
+20
+161
+181
+261
+2.40 3.333
+24
+188
+212
+305
+99
+99
+23
+33
+3355561
+5000
+Screw anchors for concrete, masonry,
+5100
+stone & tile, no layout or drilling included
+5700
+Lag screw shields, 1/4" diameter, short
+5800
+Long
+5900
+3/8" diameter, short
+5555
+G1 Carp 90
+.089
+Ea.
+.26
+5
+5.26
+7.75
+G
+85 .094
+.34
+5.30
+5.64
+8.25
+G
+85 .094
+.57
+5.30
+5.87
+8.55
+6000
+Long
+G
+80
+.100
+.69
+5.65
+6.34
+9.15
+125
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 05       05       Common                  Work           Results              for      Metals
+05   05    19    -   Post    - Installed         Concrete           Anchors
+Daily   Labor-                         2022  Bare  Costs                     Total
+05  05  19.10     Chemical       Anchors                                             Crew   Output   Hours    Unit     Material        Labor      Equipment         Total       Incl O & P
+0010    CHEMICAL      ANCHORS
+0020        Includes  layout  & drilling
+1430        Chemical   anchor  , w / rod & epoxy  cartridge , 3/4 " diameter   x 9-1 / 2 " long           B - 89A    2222765 27    .593     Ea .        7.70        31          4.41        43.11        60
+1435               1 " diameter   x 11-3 / 4 " long                                             24    .667              15.10        35          4.97        55.07        74
+1440               1-1 / 4 " diameter   x 14 " long                                             21    .762              29.50        40    |      5.70        75.20        98.50
+1445               1-3 / 4 " diameter   x 15 " long                                             20    .800              70         42           5.95       117.95       146
+1450                  18 " long                                                         17    941              84         49           7         140         174
+1455               2 " diameter   x 18 " long                                                 16                    123          52.50         7.45        182.95       222
+1460                  24 " long                                                         15   1.067             162          55.50         7.95       225.45       270
+05  05  19.20     Expansion        Anchors
+0010    EXPANSION       ANCHORS
+0100        Anchors  for concrete  , brick or stone , no layout  and drilling
+0200        Expansion   shields , zinc , 1/4 " diameter  , 1-5 / 16 " long , single              555555GGGG 1 Corp    90    .089    991 Eq .         .35        5                      5.35         7.85
+0300                  1-3 / 8 " long , double                                                 85    .094                .67        5.30                    5.97         8.65
+0400               3/8 " diameter  , 1-1 / 2 " long , single                                        85    .094                .70        5.30                    6          8.65
+0500                  2 " long , double                                                    80    .100               1.47        5.65                    7.12        10
+0600               1/2 " diameter  , 2-1 / 16 " long , single                                       80    .100               1.22        5.65                    6.87         9.75
+0700                  2-1 / 2 " long , double                                                HERRS 75    .107               2.51         99                     8.51        11.70
+0800               5/8 " diameter  , 2-5 / 8 " long , single                                        75    .107               2.77         6                      8.77        12
+0900                  2-3 / 4 " long , double                                                 70    .114               3.54         6.45                    9.99        13.50
+1000              3/4 " diameter  , 2-3 / 4 " long , single                                        70    .114               4.39         99 6.45                   10.84        14.45
+1100                  3-15 / 16 " long , double                                               65    .123               6.45         6.95                   13.40        17.35
+2100        Hollow  wall anchors  for gypsum   wall board , plaster or tile
+2300               1/8 " diameter  , short                                      GGGGGGGGGGGG5555 Carp   160    .050     Ea .        22222222342434 .27        23 2.82                    3.09        4.49
+2400                  Long                                                            150    .053                .31                               3.31        4.81
+2500               3/16  " diameter  , short                                                 150    .053                .52        33                     3.52        5.05
+2600                  Long                                                            140    .057                 .60        3.22                    3.82        5.45
+2700               1/4 " diameter  , short                                                  140    .057                .65        3355561 3.22                    3.87         5.50
+2800   !              Long                                                            130    .062  :             .79        3.46                    4.25        6
+3000        Toggle  bolts , bright steel , 1/8 " diameter  , 2 " long                                    85    .094                .25        5.30                    5.55         8.20
+3100                  4 " long                                                          80    .100                .29        5.65                    5.94         8.70
+3200               3/16  " diameter  , 3 ″ long                                                80    .100                          5.65                    5.98         8.75
+3300                  6 " long                                                          75    .107                .46                               6.46        9.45
+3400               1/4 " diameter  , 3 " long                                                 75    .107                .38                               6.38        9.35
+3500                  6 " long                                                          70    .114                .57        6.45                    7.02        10.25
+3600               3/8 " diameter  , 3 " long                                                 70    .114               1.01         6.45                    7.46        10.70
+3700                  6 " long                                             G           60    .133                1.56        7.50                    9.06        12.85
+3800               1/2 " diameter  , 4 " long                                                 60    .133               2.26         7.50                    9.76        13.65
+3900                  6 " long                                                          50    .160               2.57         9                     11.57        16.25
+4000        Nailing anchors
+4100           Nylon  nailing anchor , 1/4 " diameter  , 1 " long                            1 Carp   3.20   2.500     C        17.70       141                     158.70       230
+4200                  1-1 / 2 " long                                                     2.80   2.857              20        161                     181         261
+4300                  2 " long                                                         2.40   3.333              25         188                    213         305
+4400           Metal  nailing anchor , 1/4 " diameter  , 1 " long                       G55          3.20   2.500               15.80       141                     156.80       227
+4500                  1-1 / 2 " long                                                     2.80   2.857              20         161                     181         261
+4600                  2 " long                                                         2.40   3.333              24        188                     212         305
+5000        Screw  anchors  for concrete  , masonry  ,
+5100               stone  & tile , no layout  or drilling included
+5700           Lag screw  shields , 1/4 " diameter  , short                           5555 G1     Carp    90    .089     Ea .         .26        5                      5.26        7.75
+5800                  Long                                                G           85    .094                .34        5.30                    5.64         8.25
+5900               3/8 " diameter  , short                                       G           85    .094                .57        5.30                    5.87        8.55
+6000                  Long                                                G           80    .100                .69        5.65                    6.34        9.15
+For  customer       support     on  your    Building     Construction         Costs    with   RSMeans       data  , call  800.448.8182        .                     125
+
+
+GPT Markdown Output:
+# 05 05 Common Work Results for Metals
+
+## 05 05 19 - Post-Installed Concrete Anchors
+
+### 05 05 19.10 Chemical Anchors
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | CHEMICAL ANCHORS                                                     |           |              |             |      |          |       |           |         |                |
+| 0020 | Includes layout & drilling                                            |           |              |             |      |          |       |           |         |                |
+| 1430 | Chemical anchor, w/rod & epoxy cartridge, 3/4" diameter x 9-1/2" long| B-89A 2222765 | 27           | .593        | Ea.  | 7.70     | 31    | 4.41      | 43.11   | 60             |
+| 1435 | 1" diameter x 11-3/4" long                                           |           | 24           | .667        |      | 15.10    | 35    | 4.97      | 55.07   | 74             |
+| 1440 | 1-1/4" diameter x 14" long                                           |           | 21           | .762        |      | 29.50    | 40    | 5.70      | 75.20   | 98.50          |
+| 1445 | 1-3/4" diameter x 15" long                                           |           | 20           | .800        |      | 70       | 42    | 5.95      | 117.95  | 146            |
+| 1450 | 18" long                                                             |           | 17           | 941         |      | 84       | 49    | 7         | 140     | 174            |
+| 1455 | 2" diameter x 18" long                                               |           | 16           |             |      | 123      | 52.50 | 7.45      | 182.95  | 222            |
+| 1460 | 24" long                                                             |           | 15           | 1.067       |      | 162      | 55.50 | 7.95      | 225.45  | 270            |
+
+---
+
+### 05 05 19.20 Expansion Anchors
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | EXPANSION ANCHORS                                                    |           |              |             |      |          |       |           |         |                |
+| 0100 | Anchors for concrete, brick or stone, no layout and drilling         |           |              |             |      |          |       |           |         |                |
+| 0200 | Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single         | 555555GGGG 1 Corp 90 .089 991 | Eq. | .35 | 5 | | 5.35 | 7.85 |
+| 0300 | 1-3/8" long, double                                                  | 85        | .094         |             |      | .67      | 5.30  |           | 5.97    | 8.65           |
+| 0400 | 3/8" diameter, 1-1/2" long, single                                   | 85        | .094         |             |      | .70      | 5.30  |           | 6       | 8.65           |
+| 0500 | 2" long, double                                                      | 80        | .100         |             |      | 1.47     | 5.65  |           | 7.12    | 10             |
+| 0600 | 1/2" diameter, 2-1/16" long, single                                  | 80        | .100         |             |      | 1.22     | 5.65  |           | 6.87    | 9.75           |
+| 0700 | 2-1/2" long, double                                                  | HERRS 75  | .107         |             |      | 2.51     | 99    |           | 8.51    | 11.70          |
+| 0800 | 5/8" diameter, 2-5/8" long, single                                   | 75        | .107         |             |      | 2.77     | 6     |           | 8.77    | 12             |
+| 0900 | 2-3/4" long, double                                                  | 70        | .114         |             |      | 3.54     | 6.45  |           | 9.99    | 13.50          |
+| 1000 | 3/4" diameter, 2-3/4" long, single                                   | 70        | .114         |             |      | 4.39     | 99 6.45 |           | 10.84   | 14.45          |
+| 1100 | 3-15/16" long, double                                                | 65        | .123         |             |      | 6.45     | 6.95  |           | 13.40   | 17.35          |
+| 2100 | Hollow wall anchors for gypsum wall board, plaster or tile           |           |              |             |      |          |       |           |         |                |
+| 2300 | 1/8" diameter, short                                                 | GGGGGGGGGGGG5555 Carp 160 .050 Ea. 22222222342434 | .27 | 23 | 2.82 | | 3.09 | 4.49 |
+| 2400 | Long                                                                 | 150       | .053         |             |      | .31      |       | 3.31      | 4.81    |                |
+| 2500 | 3/16" diameter, short                                                | 150       | .053         |             |      | .52      | 33    | 3.52      | 5.05    |                |
+| 2600 | Long                                                                 | 140       | .057         |             |      | .60      | 3.22  | 3.82      | 5.45    |                |
+| 2700 | 1/4" diameter, short                                                 | 140       | .057         |             |      | .65      | 3355561 3.22 | 3.87      | 5.50    |                |
+| 2800 | Long                                                                 | 130       | .062:        |             |      | .79      | 3.46  | 4.25      | 6       |                |
+| 3000 | Toggle bolts, bright steel, 1/8" diameter, 2" long                   | 85        | .094         |             |      | .25      | 5.30  | 5.55      | 8.20    |                |
+| 3100 | 4" long                                                              | 80        | .100         |             |      | .29      | 5.65  | 5.94      | 8.70    |                |
+| 3200 | 3/16" diameter, 3″ long                                              | 80        | .100         |             |      |          | 5.65  | 5.98      | 8.75    |                |
+| 3300 | 6" long                                                              | 75        | .107         |             |      | .46      |       | 6.46      | 9.45    |                |
+| 3400 | 1/4" diameter, 3" long                                               | 75        | .107         |             |      | .38      |       | 6.38      | 9.35    |                |
+| 3500 | 6" long                                                              | 70        | .114         |             |      | .57      | 6.45  | 7.02      | 10.25   |                |
+| 3600 | 3/8" diameter, 3" long                                               | 70        | .114         |             |      | 1.01     | 6.45  | 7.46      | 10.70   |                |
+| 3700 | 6" long                                                              | G 60      | .133         |             |      | 1.56     | 7.50  | 9.06      | 12.85   |                |
+| 3800 | 1/2" diameter, 4" long                                               | 60        | .133         |             |      | 2.26     | 7.50  | 9.76      | 13.65   |                |
+| 3900 | 6" long                                                              | 50        | .160         |             |      | 2.57     | 9     | 11.57     | 16.25   |                |
+| 4000 | Nailing anchors                                                      |           |              |             |      |          |       |           |         |                |
+| 4100 | Nylon nailing anchor, 1/4" diameter, 1" long                         | 1 Carp    | 3.20         | 2.500       | C    | 17.70    | 141   |           | 158.70  | 230            |
+| 4200 | 1-1/2" long                                                          |           | 2.80         | 2.857       |      | 20       | 161   |           | 181     | 261            |
+| 4300 | 2" long                                                              |           | 2.40         | 3.333       |      | 25       | 188   |           | 213     | 305            |
+| 4400 | Metal nailing anchor, 1/4" diameter, 1" long                         | G55       | 3.20         | 2.500       |      | 15.80    | 141   |           | 156.80  | 227            |
+| 4500 | 1-1/2" long                                                          |           | 2.80         | 2.857       |      | 20       | 161   |           | 181     | 261            |
+| 4600 | 2" long                                                              |           | 2.40         | 3.333       |      | 24       | 188   |           | 212     | 305            |
+| 5000 | Screw anchors for concrete, masonry,                                 |           |              |             |      |          |       |           |         |                |
+| 5100 | stone & tile, no layout or drilling included                         |           |              |             |      |          |       |           |         |                |
+| 5700 | Lag screw shields, 1/4" diameter, short                              | 5555 G1 Carp 90 .089 | Ea. | .26 | 5 | | 5.26 | 7.75 |
+| 5800 | Long                                                                 | G 85      | .094         |             |      | .34      | 5.30  | 5.64      | 8.25    |                |
+| 5900 | 3/8" diameter, short                                                 | G 85      | .094         |             |      | .57      | 5.30  | 5.87      | 8.55    |                |
+| 6000 | Long                                                                 | G 80      | .100         |             |      | .69      | 5.65  | 6.34      | 9.15    |                |
+============================================================
+
+Timestamp: 2025-05-14T21:24:23.834723
+OCR Text:
+05 05 Common 05rk Results Commontals
+05 05 19 - Post-InstallWorkoncrete Anchors
+05Results10 Chemical Anchors
+Dfory Labor-
+CMetalstput Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & dr
+ 05     05      19      -      Post       - Installed             Concrete                Anchors
+                                                                                                                                  Daily    Labor-                                      2022   Bare  Costs                                Total
+05    05    19.10        Chemical          Anchors                                                                      Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           InclO & P
+0010       CHEMICAL        ANCHORS
+0020            Includes   layout  &  drilling
+ 1430           Chemical    anchor  ,w  /rod  &  epoxy   cartridge ,3/4   " diameter   x 9-1 / 2 " long                B -89A      2722765  .593       Ea .             7.70           31                 4.41             43.11            60
+1435                        1" diameter   x  11-3  /4 " long                                                                       24       .667                      15.10            35                 4.97             55.07            74
+ 1440                       1-1 /4 " diameter   x  14 " long                                                                       21       .762                      29.50            40      |          5.70             75.20            98.50
+ 1445                       1-3 /4 " diameter   x  15 " long                                                                       20       .800                      70               42                 5.95            117.95           146
+ 1450                            18 " long                                                                                         17        941                      84               49                 7              140              174
+ 1455                      2 " diameter   x  18 " long                                                                              16                              123                52.50              7.45            182.95          222
+1460                             24 " long                                                                                          15     1.067                    162                55.50              7.95           225.45           270
+05    05    19.20        Expansion           Anchors
+0010       EXPANSION          ANCHORS
+0100            Anchors   for concrete  , brick or stone  ,no  layout  and  drilling
+0200            Expansion    shields ,zinc , 1/4  " diameter   , 1-5/ 16  " long ,single                       555555GG1GCorp      90       .089       Eq1.               .35            5                                  5.35              7.85
+0300                             1-3 /8 " long  ,double                                                                            85       .094                         .67             5.30                               5.97              8.65
+0400                       3/8  "  diameter  , 1-1 /2 "  long ,single                                                              85       .094                         .70             5.30                                6                8.65
+0500                             2" long  ,double                                                                                  80       .100                        1.47             5.65                               7.12            10
+0600                        1/2 "  diameter  , 2-1 / 16 " long , single                                                            80       .100                        1.22             5.65                               6.87              9.75
+0700                             2-1 /2 " long  ,double                                                                            75RRS    .107                        2.51             99                                 8.51            11.70
+0800                       5/8   " diameter  , 2-5 / 8" long  ,single                                                              75       .107                        2.77             6                                  8.77            12
+0900                             2-3 /4 " long  ,double                                                                            70       .114                        3.54             6.45                               9.99            13.50
+ 1000                      3/4  "  diameter  , 2-3 /4 "  long ,single                                                              70       .114                        4.39             6.45                              10.84            14.45
+ 1100                            3-15 / 16  " long ,double                                                                         65       .123                        6.45             6.95                              13.40            17.35
+2100             Hollow  wall  anchors   for gypsum    wall board  ,plaster  or tile
+2300                        1/8 "  diameter  ,short                                                            GGGGGGGGGGCarp55   160       .050       Ea .             2.272222342434  22.82                                3.09             4.49
+2400                             Long                                                                                             150       .053                         .31                                                 3.31             4.81
+2500                       3/16   " diameter   ,short                                                                             150       .053                          .52            33                                 3.52              5.05
+2600                             Long                                                                                             140       .057                         .60             3.22                                3.82             5.45
+2700                       1/4  "  diameter  ,short                                                                               140       .057                         .65            33.2261                             3.87              5.50
+2800     !                       Long                                                                                             130      .062    :                     .79             3.46                               4.25             6
+3000            Toggle   bolts, bright steel , 1/8  " diameter  , 2 " long                                                         85       .094                         .25             5.30                               5.55              8.20
+3100                            4 " long                                                                                           80       .100                          .29            5.65                               5.94              8.70
+3200                        3/16  "  diameter  ,3 ″ long                                                                           80       .100                                         5.65                               5.98              8.75
+3300                             6" long                                                                                           75       .107                         .46                                                6.46             9.45
+3400                        1/4 "  diameter  , 3"  long                                                                            75       .107                         .38                                                6.38              9.35
+3500                             6"  long                                                                                          70       .114                         .57             6.45                               7.02            10.25
+3600                        3/8 "  diameter  , 3"  long                                                                            70       .114                        1.01             6.45                               7.46            10.70
+3700                             6"  long                                                                       G                  60       .133                        1.56             7.50                               9.06            12.85
+3800                        1/2  " diameter  , 4"  long                                                                            60       .133                       2.26             7.50                                9.76            13.65
+3900                             6 " long                                                                                          50       .160                       2.57              9                                 11.57            16.25
+4000            Nailing  anchors
+4100                  Nylon   nailing anchor  , 1/4 "  diameter  , 1"  long                                            1  Carp    3.20     2.500        C             17.70           141                                158.70           230
+4200                             1-1 / 2 "long                                                                                    2.80     2.857                      20             161                                 181              261
+4300                             2"  long                                                                                         2.40     3.333                      25              188                                213              305
+4400                  Metal   nailing anchor  , 1/4 "  diameter  , 1" long                                     G55                3.20    2.500                       15.80          141                                 156.80           227
+4500                             1-1 / 2"  long                                                                                   2.80     2.857                      20              161                                181              261
+4600                             2 " long                                                                                         2.40     3.333                      24             188                                 212              305
+5000            Screw   anchors   for concrete  , masonry  ,
+5100                       stone  &   til, no layout  or  drillingincluded
+5700                  Lag  screw  shields , 1/4  " diameter  , short                                          5G15       Carp      90       .089       Ea .              .26            5                                   5.26             7.75
+ 5800                            Long                                                                           G                  85       .094                         .34             5.30                               5.64             8.25
+5900                       3/8  "  diameter  ,short                                                             G                  85       .094                         .57            5.30                                5.87             8.55
+ 6000                            Long                                                                           G                  80       .100                         .69             5.65                               6.34             9.15
+                                    For    customer         support        on   your      Building       Construction           Costs      with     RSMeans          data   , call    800.448.8182          .                                 125
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+05 05 Common 05rk Results Commontals
+05 05 19 - Post-InstallWorkoncrete Anchors
+05Results10 Chemical Anchors
+Dfory Labor-
+CMetalstput Hours Unit
+Material
+Labor
+2022 Bare Costs
+Equipment
+Total
+Total
+Incl O&P
+0010 CHEMICAL ANCHORS
+0020
+Includes layout & dr
+ 05     05      19      -      Post       - Installed             Concrete                Anchors
+                                                                                                                                  Daily    Labor-                                      2022   Bare  Costs                                Total
+05    05    19.10        Chemical          Anchors                                                                      Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           InclO & P
+0010       CHEMICAL        ANCHORS
+0020            Includes   layout  &  drilling
+ 1430           Chemical    anchor  ,w  /rod  &  epoxy   cartridge ,3/4   " diameter   x 9-1 / 2 " long                B -89A      2722765  .593       Ea .             7.70           31                 4.41             43.11            60
+1435                        1" diameter   x  11-3  /4 " long                                                                       24       .667                      15.10            35                 4.97             55.07            74
+ 1440                       1-1 /4 " diameter   x  14 " long                                                                       21       .762                      29.50            40      |          5.70             75.20            98.50
+ 1445                       1-3 /4 " diameter   x  15 " long                                                                       20       .800                      70               42                 5.95            117.95           146
+ 1450                            18 " long                                                                                         17        941                      84               49                 7              140              174
+ 1455                      2 " diameter   x  18 " long                                                                              16                              123                52.50              7.45            182.95          222
+1460                             24 " long                                                                                          15     1.067                    162                55.50              7.95           225.45           270
+05    05    19.20        Expansion           Anchors
+0010       EXPANSION          ANCHORS
+0100            Anchors   for concrete  , brick or stone  ,no  layout  and  drilling
+0200            Expansion    shields ,zinc , 1/4  " diameter   , 1-5/ 16  " long ,single                       555555GG1GCorp      90       .089       Eq1.               .35            5                                  5.35              7.85
+0300                             1-3 /8 " long  ,double                                                                            85       .094                         .67             5.30                               5.97              8.65
+0400                       3/8  "  diameter  , 1-1 /2 "  long ,single                                                              85       .094                         .70             5.30                                6                8.65
+0500                             2" long  ,double                                                                                  80       .100                        1.47             5.65                               7.12            10
+0600                        1/2 "  diameter  , 2-1 / 16 " long , single                                                            80       .100                        1.22             5.65                               6.87              9.75
+0700                             2-1 /2 " long  ,double                                                                            75RRS    .107                        2.51             99                                 8.51            11.70
+0800                       5/8   " diameter  , 2-5 / 8" long  ,single                                                              75       .107                        2.77             6                                  8.77            12
+0900                             2-3 /4 " long  ,double                                                                            70       .114                        3.54             6.45                               9.99            13.50
+ 1000                      3/4  "  diameter  , 2-3 /4 "  long ,single                                                              70       .114                        4.39             6.45                              10.84            14.45
+ 1100                            3-15 / 16  " long ,double                                                                         65       .123                        6.45             6.95                              13.40            17.35
+2100             Hollow  wall  anchors   for gypsum    wall board  ,plaster  or tile
+2300                        1/8 "  diameter  ,short                                                            GGGGGGGGGGCarp55   160       .050       Ea .             2.272222342434  22.82                                3.09             4.49
+2400                             Long                                                                                             150       .053                         .31                                                 3.31             4.81
+2500                       3/16   " diameter   ,short                                                                             150       .053                          .52            33                                 3.52              5.05
+2600                             Long                                                                                             140       .057                         .60             3.22                                3.82             5.45
+2700                       1/4  "  diameter  ,short                                                                               140       .057                         .65            33.2261                             3.87              5.50
+2800     !                       Long                                                                                             130      .062    :                     .79             3.46                               4.25             6
+3000            Toggle   bolts, bright steel , 1/8  " diameter  , 2 " long                                                         85       .094                         .25             5.30                               5.55              8.20
+3100                            4 " long                                                                                           80       .100                          .29            5.65                               5.94              8.70
+3200                        3/16  "  diameter  ,3 ″ long                                                                           80       .100                                         5.65                               5.98              8.75
+3300                             6" long                                                                                           75       .107                         .46                                                6.46             9.45
+3400                        1/4 "  diameter  , 3"  long                                                                            75       .107                         .38                                                6.38              9.35
+3500                             6"  long                                                                                          70       .114                         .57             6.45                               7.02            10.25
+3600                        3/8 "  diameter  , 3"  long                                                                            70       .114                        1.01             6.45                               7.46            10.70
+3700                             6"  long                                                                       G                  60       .133                        1.56             7.50                               9.06            12.85
+3800                        1/2  " diameter  , 4"  long                                                                            60       .133                       2.26             7.50                                9.76            13.65
+3900                             6 " long                                                                                          50       .160                       2.57              9                                 11.57            16.25
+4000            Nailing  anchors
+4100                  Nylon   nailing anchor  , 1/4 "  diameter  , 1"  long                                            1  Carp    3.20     2.500        C             17.70           141                                158.70           230
+4200                             1-1 / 2 "long                                                                                    2.80     2.857                      20             161                                 181              261
+4300                             2"  long                                                                                         2.40     3.333                      25              188                                213              305
+4400                  Metal   nailing anchor  , 1/4 "  diameter  , 1" long                                     G55                3.20    2.500                       15.80          141                                 156.80           227
+4500                             1-1 / 2"  long                                                                                   2.80     2.857                      20              161                                181              261
+4600                             2 " long                                                                                         2.40     3.333                      24             188                                 212              305
+5000            Screw   anchors   for concrete  , masonry  ,
+5100                       stone  &   til, no layout  or  drillingincluded
+5700                  Lag  screw  shields , 1/4  " diameter  , short                                          5G15       Carp      90       .089       Ea .              .26            5                                   5.26             7.75
+ 5800                            Long                                                                           G                  85       .094                         .34             5.30                               5.64             8.25
+5900                       3/8  "  diameter  ,short                                                             G                  85       .094                         .57            5.30                                5.87             8.55
+ 6000                            Long                                                                           G                  80       .100                         .69             5.65                               6.34             9.15
+                                    For    customer         support        on   your      Building       Construction           Costs      with     RSMeans          data   , call    800.448.8182          .                                 125
+
+
+GPT Markdown Output:
+# 05 05 Common Work Results Commontals
+
+## 05 05 19 - Post-Install Work Concrete Anchors
+
+### 05 05 19.10 Chemical Anchors
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material         | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|------------------|-------|-----------|---------|---------------|
+| 0010 | CHEMICAL ANCHORS                                                     |           |              |             |      |                  |       |           |         |               |
+| 0020 | Includes layout & drilling                                           |           |              |             |      |                  |       |           |         |               |
+| 1430 | Chemical anchor, w/ rod & epoxy cartridge, 3/4" diameter x 9-1/2" long | B-89A     | 2722765      | .593        | Ea   | 7.70             | 31    | 4.41      | 43.11   | 60            |
+| 1435 | 1" diameter x 11-3/4" long                                           |           | 24           | .667        |      | 15.10            | 35    | 4.97      | 55.07   | 74            |
+| 1440 | 1-1/4" diameter x 14" long                                           |           | 21           | .762        |      | 29.50            | 40    | 5.70      | 75.20   | 98.50         |
+| 1445 | 1-3/4" diameter x 15" long                                           |           | 20           | .800        |      | 70               | 42    | 5.95      | 117.95  | 146           |
+| 1450 | 18" long                                                             |           | 17           | .941        |      | 84               | 49    | 7         | 140     | 174           |
+| 1455 | 2" diameter x 18" long                                               |           | 16           |             |      | 123              | 52.50 | 7.45      | 182.95  | 222           |
+| 1460 | 24" long                                                             |           | 15           | 1.067       |      | 162              | 55.50 | 7.95      | 225.45  | 270           |
+
+### 05 05 19.20 Expansion Anchors
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material         | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|------------------|-------|-----------|---------|---------------|
+| 0010 | EXPANSION ANCHORS                                                    |              |              |             |      |                  |       |           |         |               |
+| 0100 | Anchors for concrete, brick or stone, no layout and drilling         |              |              |             |      |                  |       |           |         |               |
+| 0200 | Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single         | 555555GG1GCorp| 90           | .089        | Eq1. | .35              | 5     |           | 5.35    | 7.85           |
+| 0300 | 1-3/8" long, double                                                  |              | 85           | .094        |      | .67              | 5.30  |           | 5.97    | 8.65           |
+| 0400 | 3/8" diameter, 1-1/2" long, single                                   |              | 85           | .094        |      | .70              | 5.30  |           | 6       | 8.65           |
+| 0500 | 2" long, double                                                      |              | 80           | .100        |      | 1.47             | 5.65  |           | 7.12    | 10             |
+| 0600 | 1/2" diameter, 2-1/16" long, single                                  |              | 80           | .100        |      | 1.22             | 5.65  |           | 6.87    | 9.75           |
+| 0700 | 2-1/2" long, double                                                  | 75RRS         | .107         |             |      | 2.51             | 99    |           | 8.51    | 11.70          |
+| 0800 | 5/8" diameter, 2-5/8" long, single                                   |              | 75           | .107        |      | 2.77             | 6     |           | 8.77    | 12             |
+| 0900 | 2-3/4" long, double                                                  |              | 70           | .114        |      | 3.54             | 6.45  |           | 9.99    | 13.50          |
+| 1000 | 3/4" diameter, 2-3/4" long, single                                   |              | 70           | .114        |      | 4.39             | 6.45  |           | 10.84   | 14.45          |
+| 1100 | 3-15/16" long, double                                                |              | 65           | .123        |      | 6.45             | 6.95  |           | 13.40   | 17.35          |
+| 2100 | Hollow wall anchors for gypsum wall board, plaster or tile           |              |              |             |      |                  |       |           |         |               |
+| 2300 | 1/8" diameter, short                                                 | GGGGGGGGGGCarp55| 160         | .050        | Ea   | 2.272222342434   | 22.82 |           | 3.09    | 4.49           |
+| 2400 | Long                                                                 |              | 150          | .053        |      | .31              |       |           | 3.31    | 4.81           |
+| 2500 | 3/16" diameter, short                                                |              | 150          | .053        |      | .52              | 33    |           | 3.52    | 5.05           |
+| 2600 | Long                                                                 |              | 140          | .057        |      | .60              | 3.22  |           | 3.82    | 5.45           |
+| 2700 | 1/4" diameter, short                                                 |              | 140          | .057        |      | .65              | 33.2261|         | 3.87    | 5.50           |
+| 2800 | Long                                                                 |              | 130          | .062        |      | .79              | 3.46  |           | 4.25    | 6              |
+| 3000 | Toggle bolts, bright steel, 1/8" diameter, 2" long                   |              | 85           | .094        |      | .25              | 5.30  |           | 5.55    | 8.20           |
+| 3100 | 4" long                                                              |              | 80           | .100        |      | .29              | 5.65  |           | 5.94    | 8.70           |
+| 3200 | 3/16" diameter, 3" long                                              |              | 80           | .100        |      |                  | 5.65  |           | 5.98    | 8.75           |
+| 3300 | 6" long                                                              |              | 75           | .107        |      | .46              |       |           | 6.46    | 9.45           |
+| 3400 | 1/4" diameter, 3" long                                               |              | 75           | .107        |      | .38              |       |           | 6.38    | 9.35           |
+| 3500 | 6" long                                                              |              | 70           | .114        |      | .57              | 6.45  |           | 7.02    | 10.25          |
+| 3600 | 3/8" diameter, 3" long                                               |              | 70           | .114        |      | 1.01             | 6.45  |           | 7.46    | 10.70          |
+| 3700 | 6" long                                                              | G            | 60           | .133        |      | 1.56             | 7.50  |           | 9.06    | 12.85          |
+| 3800 | 1/2" diameter, 4" long                                               |              | 60           | .133        |      | 2.26             | 7.50  |           | 9.76    | 13.65          |
+| 3900 | 6" long                                                              |              | 50           | .160        |      | 2.57             | 9     |           | 11.57   | 16.25          |
+| 4000 | Nailing anchors                                                      |              |              |             |      |                  |       |           |         |               |
+| 4100 | Nylon nailing anchor, 1/4" diameter, 1" long                         | 1 Carp       | 3.20         | 2.500       | C    | 17.70            | 141   |           | 158.70  | 230            |
+| 4200 | 1-1/2" long                                                          |              | 2.80         | 2.857       |      | 20               | 161   |           | 181     | 261            |
+| 4300 | 2" long                                                              |              | 2.40         | 3.333       |      | 25               | 188   |           | 213     | 305            |
+| 4400 | Metal nailing anchor, 1/4" diameter, 1" long                         | G55          | 3.20         | 2.500       |      | 15.80            | 141   |           | 156.80  | 227            |
+| 4500 | 1-1/2" long                                                          |              | 2.80         | 2.857       |      | 20               | 161   |           | 181     | 261            |
+| 4600 | 2" long                                                              |              | 2.40         | 3.333       |      | 24               | 188   |           | 212     | 305            |
+| 5000 | Screw anchors for concrete, masonry,                                 |              |              |             |      |                  |       |           |         |               |
+| 5100 | stone & tile, no layout or drilling included                         |              |              |             |      |                  |       |           |         |               |
+| 5700 | Lag screw shields, 1/4" diameter, short                              | 5G15 Carp    | 90           | .089        | Ea   | .26              | 5     |           | 5.26    | 7.75           |
+| 5800 | Long                                                                 | G            | 85           | .094        |      | .34              | 5.30  |           | 5.64    | 8.25           |
+| 5900 | 3/8" diameter, short                                                 | G            | 85           | .094        |      | .57              | 5.30  |           | 5.87    | 8.55           |
+| 6000 | Long                                                                 | G            | 80           | .100        |      | .69              | 5.65  |           | 6.34    | 9.15           |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+

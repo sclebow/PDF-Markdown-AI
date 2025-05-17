@@ -1,0 +1,86 @@
+# 05 05 Common Work Results Commontals
+
+## 05 05 19 - Post-Install Work Concrete Anchors
+
+### 05 05 19.10 Chemical Anchors
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 0010 | CHEMICAL ANCHORS                                                     |           |              |             |      |                    |               |           |          |               |
+| 0020 | Includes layout & drilling                                           |           |              |             |      |                    |               |           |          |               |
+| 1430 | Chemical anchor, w/ rod & epoxy cartridge, 3/4" diameter x 9-1/2" long | B-89A     | 2722765      | .593        | Ea.  | 7.70               | 31            | 4.41      | 43.11    | 60            |
+| 1435 | 1" diameter x 11-3/4" long                                           |           | 24           | .667        |      | 15.10              | 35            | 4.97      | 55.07    | 74            |
+| 1440 | 1-1/4" diameter x 14" long                                           |           | 21           | .762        |      | 29.50              | 40            | 5.70      | 75.20    | 98.50         |
+| 1445 | 1-3/4" diameter x 15" long                                           |           | 20           | .800        |      | 70                 | 42            | 5.95      | 117.95   | 146           |
+| 1450 | 18" long                                                             |           | 17           | .941        |      | 84                 | 49            | 7         | 140      | 174           |
+| 1455 | 2" diameter x 18" long                                               |           | 16           |             |      | 123                | 52.50         | 7.45      | 182.95   | 222           |
+| 1460 | 24" long                                                             |           | 15           | 1.067       |      | 162                | 55.50         | 7.95      | 225.45   | 270           |
+
+### 05 05 19.20 Expansion Anchors
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 0010 | EXPANSION ANCHORS                                                    |              |              |             |      |                    |               |           |          |               |
+| 0100 | Anchors for concrete, brick or stone, no layout and drilling         | 555555GG1GCorp| 90           | .089        | Eq1. | .35                | 5             |           | 5.35     | 7.85          |
+| 0200 | Expansion shields, zinc, 1/4" diameter, 1-5/16" long, single         |              | 85           | .094        |      | .67                | 5.30          |           | 5.97     | 8.65          |
+| 0300 | 1-3/8" long, double                                                  |              | 85           | .094        |      | .70                | 5.30          |           | 6        | 8.65          |
+| 0400 | 3/8" diameter, 1-1/2" long, single                                   |              | 80           | .100        |      | 1.47               | 5.65          |           | 7.12     | 10            |
+| 0500 | 2" long, double                                                      |              | 80           | .100        |      | 1.22               | 5.65          |           | 6.87     | 9.75          |
+| 0600 | 1/2" diameter, 2-1/16" long, single                                  |              | 75RRS        | .107        |      | 2.51               | 99            |           | 8.51     | 11.70         |
+| 0700 | 2-1/2" long, double                                                  |              | 75           | .107        |      | 2.77               | 6             |           | 8.77     | 12            |
+| 0800 | 5/8" diameter, 2-5/8" long, single                                   |              | 70           | .114        |      | 3.54               | 6.45          |           | 9.99     | 13.50         |
+| 0900 | 2-3/4" long, double                                                  |              | 70           | .114        |      | 4.39               | 6.45          |           | 10.84    | 14.45         |
+| 1000 | 3/4" diameter, 2-3/4" long, single                                   |              | 65           | .123        |      | 6.45               | 6.95          |           | 13.40    | 17.35         |
+
+#### Hollow wall anchors for gypsum wall board, plaster or tile
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 2100 | Hollow wall anchors for gypsum wall board, plaster or tile           |              |              |             |      |                    |               |           |          |               |
+| 2300 | 1/8" diameter, short                                                 | GGGGGGGGGGCarp55| 160         | .050        | Ea.  | 2.272222342434     | 22.82         |           | 3.09     | 4.49          |
+| 2400 | Long                                                                 |              | 150          | .053        |      | .31                |               |           | 3.31     | 4.81          |
+| 2500 | 3/16" diameter, short                                                |              | 150          | .053        |      | .52                | 33            |           | 3.52     | 5.05          |
+| 2600 | Long                                                                 |              | 140          | .057        |      | .60                | 3.22          |           | 3.82     | 5.45          |
+| 2700 | 1/4" diameter, short                                                 |              | 140          | .057        |      | .65                | 33.2261       |           | 3.87     | 5.50          |
+| 2800 | Long                                                                 |              | 130          | .062        |      | .79                | 3.46          |           | 4.25     | 6             |
+
+#### Toggle bolts, bright steel
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 3000 | 1/8" diameter, 2" long                                               |              | 85           | .094        |      | .25                | 5.30          |           | 5.55     | 8.20          |
+| 3100 | 4" long                                                              |              | 80           | .100        |      | .29                | 5.65          |           | 5.94     | 8.70          |
+| 3200 | 3/16" diameter, 3" long                                              |              | 80           | .100        |      |                    | 5.65          |           | 5.98     | 8.75          |
+| 3300 | 6" long                                                              |              | 75           | .107        |      | .46                |               |           | 6.46     | 9.45          |
+| 3400 | 1/4" diameter, 3" long                                               |              | 75           | .107        |      | .38                |               |           | 6.38     | 9.35          |
+| 3500 | 6" long                                                              |              | 70           | .114        |      | .57                | 6.45          |           | 7.02     | 10.25         |
+| 3600 | 3/8" diameter, 3" long                                               |              | 70           | .114        |      | 1.01               | 6.45          |           | 7.46     | 10.70         |
+| 3700 | 6" long                                                              | G            | 60           | .133        |      | 1.56               | 7.50          |           | 9.06     | 12.85         |
+| 3800 | 1/2" diameter, 4" long                                               |              | 60           | .133        |      | 2.26               | 7.50          |           | 9.76     | 13.65         |
+| 3900 | 6" long                                                              |              | 50           | .160        |      | 2.57               | 9             |           | 11.57    | 16.25         |
+
+#### Nailing anchors
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 4000 | Nailing anchors                                                      |              |              |             |      |                    |               |           |          |               |
+| 4100 | Nylon nailing anchor, 1/4" diameter, 1" long                         | 1 Carp       | 3.20         | 2.500       | C    | 17.70              | 141           |           | 158.70   | 230           |
+| 4200 | 1-1/2" long                                                          |              | 2.80         | 2.857       |      | 20                 | 161           |           | 181      | 261           |
+| 4300 | 2" long                                                              |              | 2.40         | 3.333       |      | 25                 | 188           |           | 213      | 305           |
+| 4400 | Metal nailing anchor, 1/4" diameter, 1" long                         | G55          | 3.20         | 2.500       |      | 15.80              | 141           |           | 156.80   | 227           |
+| 4500 | 1-1/2" long                                                          |              | 2.80         | 2.857       |      | 20                 | 161           |           | 181      | 261           |
+| 4600 | 2" long                                                              |              | 2.40         | 3.333       |      | 24                 | 188           |           | 212      | 305           |
+
+#### Screw anchors for concrete, masonry, stone & tile, no layout or drilling included
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material           | Labor         | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|------|--------------------|---------------|-----------|----------|---------------|
+| 5000 | Screw anchors for concrete, masonry, stone & tile, no layout or drilling included |              |              |             |      |                    |               |           |          |               |
+| 5700 | Lag screw shields, 1/4" diameter, short                              | 5G15 Carp    | 90           | .089        | Ea.  | .26                | 5             |           | 5.26     | 7.75          |
+| 5800 | Long                                                                 | G            | 85           | .094        |      | .34                | 5.30          |           | 5.64     | 8.25          |
+| 5900 | 3/8" diameter, short                                                 | G            | 85           | .094        |      | .57                | 5.30          |           | 5.87     | 8.55          |
+| 6000 | Long                                                                 | G            | 80           | .100        |      | .69                | 5.65          |           | 6.34     | 9.15          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.

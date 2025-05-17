@@ -1,0 +1,130 @@
+vi
+Note: The material prices in RSMeans cost data
+are "contractor's prices." They are the prices that
+contractors can expect to pay at the lumberyards,
+suppliers'/distributors' warehouses, etc. Small
+orders of specialty items would be higher than
+the costs shown, while very large orders, such as
+truckload lots, would be less. The variation would
+depend on the size, timing, and negotiating power
+of the contractor. The labor costs are primarily
+for new construction or major renovation rather
+than repairs or minor alterations. With reasonable
+exercise of judgment, the figures can be used for
+any building work.
+vi
+Note
+:
+The
+material
+prices
+in
+RSMeans
+cost
+data
+are
+"
+contractor's
+prices
+.
+"
+They
+are
+the
+prices
+that
+contractors
+can
+expect
+to
+pay
+at
+the
+lumberyards
+,
+suppliers
+'
+/
+distributors
+'
+warehouses
+,
+etc.
+Small
+orders
+of
+specialty
+items
+would
+be
+higher
+than
+the
+costs
+shown
+,
+while
+very
+large
+orders
+,
+such
+as
+truckload
+lots
+,
+would
+be
+less
+.
+The
+variation
+would
+depend
+on
+the
+size
+,
+timing
+,
+and
+negotiating
+power
+of
+the
+contractor
+.
+The
+labor
+costs
+are
+primarily
+for
+new
+construction
+or
+major
+renovation
+rather
+than
+repairs
+or
+minor
+alterations
+.
+With
+reasonable
+exercise
+of
+judgment
+,
+the
+figures
+can
+be
+used
+for
+any
+building
+work
+.
