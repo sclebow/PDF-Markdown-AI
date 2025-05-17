@@ -56,27 +56,27 @@
 
 #### 31 06 60.14 Piling Special Costs
 
-| ID    | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
-| 0010  | PILING SPECIAL COSTS                                                 |       |              |             |      |          |         |           |         |                |
-| 0011  | Piling special costs, pilecaps, see Section 03 30 53.40              |       |              |             |      |          |         |           |         |                |
-| 0500  | Cutoffs, concrete piles, plain                                       |       | 5.50         | 1.455       | Ea.  |          | 84.50   |           | 84.50   | 131            |
-| 0600  | With steel thin shell, add                                           |       | 38           | .211        |      |          | 12.25   |           | 12.25   | 18.95          |
-| 0700  | Steel pile or "H" piles                                              |       | 19           | .421        |      |          | 24.50   |           | 24.50   | 38             |
-| 0800  | Wood piles                                                          |       | 38           | 1.211       |      |          | 12.25   |           | 12.25   | 18.95          |
-| 0900  | Pre-augering up to 30' deep, average soil, 24" diameter              | B-43  | 180          | .267        | L.F. |          | 13.40   | 4.37      | 17.77   | 25             |
-| 09201 | 36" diameter                                                         |       | 115          | .417        |      |          | 21      | 6.85      | 27.85   | 39             |
-| 0960  | 48" diameter                                                         |       | 70           | .686        |      |          | 34.50   | 11.25     | 45.75   | 64             |
-| 0980  | 60" diameter                                                         |       | 50           | .960        |      |          | 48.50   | 15.70     | 64.20   | 89.50          |
-| 1000  | Testing, any type piles, test load is twice the design load          |       |              |             |      |          |         |           |         |                |
-| 1050  | 50 ton design load, 100 ton test                                     |       |              |             | Eo.  |          |         |           | 14,000  | # 15,500        |
-| 1100  | 100 ton design load, 200 ton test                                    |       |              |             |      |          |         |           | 20,000  | | 22,000         |
-| 1150  | 150 ton design load, 300 ton test                                    |       |              |             |      |          |         |           | 26,000  | | 28,500         |
-| 1200  | 200 ton design load, 400 ton test                                    |       |              |             |      |          |         |           | 28,000  | | 31,000         |
-| 1250  | 400 ton design load, 800 ton test                                    |       |              |             |      |          |         |           | 32,000  | 35,000          |
-| 1500  | Wet conditions, soft damp ground                                     |       |              |             |      |          |         |           |         |                |
-| 1600  | Requiring mats for crane, add                                        |       |              |             |      |          |         |           |         | 40 %            |
-| 1700  | Barge mounted driving rig, add                                       |       |              |             |      |          |         |           |         | 30 %            |
+| ID     | Name                                                        | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|--------|-------------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010   | PILING SPECIAL COSTS                                        |       |              |             |      |          |         |           |          |                |
+| 0011   | Piling special costs, pilecaps, see Section 03 30 53.40     |       |              |             |      |          |         |           |          |                |
+| 0500   | Cutoffs, concrete piles, plain                              |       | 5.50         | 1.455       | Ea.  |          | 84.50   |           | 84.50    | 131            |
+| 0600   | With steel thin shell, add                                  |       | 38           | .211        |      |          | 12.25   |           | 12.25    | 18.95          |
+| 0700   | Steel pile or "H" piles                                     |       | 19           | .421        |      |          | 24.50   |           | 24.50    | 38             |
+| 0800   | Wood piles                                                  |       | 38           | 1.211       |      |          | 12.25   |           | 12.25    | 18.95          |
+| 0900   | Pre-augering up to 30' deep, average soil, 24" diameter     | B-43  | 180          | .267        | L.F. |          | 13.40   | 4.37      | 17.77    | 25             |
+| 09201  | 36" diameter                                                |       | 115          | .417        |      |          | 21      | 6.85      | 27.85    | 39             |
+| 0960   | 48" diameter                                                |       | 70           | .686        |      |          | 34.50   | 11.25     | 45.75    | 64             |
+| 0980   | 60" diameter                                                |       | 50           | .960        |      |          | 48.50   | 15.70     | 64.20    | 89.50          |
+| 1000   | Testing, any type piles, test load is twice the design load |       |              |             |      |          |         |           |          |                |
+| 1050   | 50 ton design load, 100 ton test                            |       |              |             | Eo.  |          |         |           | 14,000   | # 15,500        |
+| 1100   | 100 ton design load, 200 ton test                           |       |              |             |      |          |         |           | 20,000   | 22,000         |
+| 1150   | 150 ton design load, 300 ton test                           |       |              |             |      |          |         |           | 26,000   | 28,500         |
+| 1200   | 200 ton design load, 400 ton test                           |       |              |             |      |          |         |           | 28,000   | 31,000         |
+| 1250   | 400 ton design load, 800 ton test                           |       |              |             |      |          |         |           | 32,000   | 35,000         |
+| 1500   | Wet conditions, soft damp ground                            |       |              |             |      |          |         |           |          |                |
+| 1600   | Requiring mats for crane, add                               |       |              |             |      |          |         |           |          | 40 %           |
+| 1700   | Barge mounted driving rig, add                              |       |              |             |      |          |         |           |          | 30 %           |
 
 ---
 
@@ -93,15 +93,14 @@
 | 0100 | 1,200 CFM                                                            | i ??  | 2.20         | 8.182       |      |          | 375     | 38.50     | 413.50   | 605            |
 | 0200 | Crane, with pile leads and pile hammer, 75 ton                       | B -19 | .60          | 107         |      |          | 6,325   | 3,500     | 9,825    | 13,500         |
 | 0300 | 150 ton                                                              | "     | 1.36         | 178         |      |          | 10,500  | 5,850     | 16,350   | 22,500         |
-| 0500 | Drill rig, for caissons, to 36", minimum                             | B 43  | 2            | 24          | Ea . | 1,200    | 395     | 1,595     | 2,225    |                |
-| 0520 | Maximum                                                              |       | .50          | 96          |      | 4,825    | 1,575   | 6,400     | 8,925    |                |
-| 0600 | Up to 84"                                                            |       | 1            | 48          |      | 2,425    | 785     | 3,210     | 4,475    |                |
-| 0800 | Auxiliary boiler, for steam small                                    | A 5   | 1.66         | 10.843      |      | 500      | 51      | 551       | 800      |                |
-| 0900 | Large                                                                | "     | .83          | 21.687      |      | 1,000    | 102     | 1,102     | 1,625    |                |
-| 1100 | Rule of thumb: complete pile driving set up, small                   | B -19 | .45          | 142         |      | 8,425    | 4,675   | 13,100    | 18,000   |                |
-| 1200 | Large                                                                | R     | .27          | 237         |      | 14,000   | 7,800   | 21,800    | 30,000   |                |
-| 1500 | Mobilization, barge, by tug boat                                     | B-83  | 25           | .640        | Mile | 34       | 30      | 64        | 83.50    |                |
-
+| 0500 | Drill rig, for caissons, to 36", minimum                             | B 43  | 2            | 24          | Ea . |          | 1,200   | 395       | 1,595    | 2,225          |
+| 0520 | Maximum                                                              |       | .50          | 96          |      |          | 4,825   | 1,575     | 6,400    | 8,925          |
+| 0600 | Up to 84"                                                            |       | 1            | 48          |      |          | 2,425   | 785       | 3,210    | 4,475          |
+| 0800 | Auxiliary boiler, for steam small                                    | A 5   | 1.66         | 10.843      |      |          | 500     | 51        | 551      | 800            |
+| 0900 | Large                                                                | "     | .83          | 21.687      |      |          | 1,000   | 102       | 1,102    | 1,625          |
+| 1100 | Rule of thumb: complete pile driving set up, small                   | B -19 | .45          | 142         |      |          | 8,425   | 4,675     | 13,100   | 18,000         |
+| 1200 | Large                                                                | R     | .27          | 237         |      |          | 14,000  | 7,800     | 21,800   | 30,000         |
+| 1500 | Mobilization, barge, by tug boat                                     | B-83  | 25           | .640        | Mile |          | 34      | 30        | 64       | 83.50          |
 ---
 
 # 31 11 Clearing and Grubbing
@@ -113,32 +112,32 @@
 | ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
 |------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
 | 0010 | CLEAR AND GRUB SITE                                       |       |              |             |      |          |         |           |          |                |
-| 0020 | Cut & chip light trees to 6" diam.                        | B 7   | 1            | 48          | Acre | 2,325    | 1,800   | 4,125     | 5,425    |                |
-| 0150 | Grub stumps and remove                                    | B -30 | 2            | 12          |      | 665      | 1,250   | 1,915     | 2,400    |                |
-| 0200 | Cut & chip medium trees to 12" diam.                      | B 7   | .70          | 68.571      |      | 3,325    | 2,550   | 5,875     | 7,750    |                |
-| 0250 | Grub stumps and remove                                    | B -30 | 1            | 24          |      | 1,325    | 2,525   | 3,850     | 4,750    |                |
-| 0300 | Cut & chip heavy trees to 24" diam.                       | B 7   | .30          | 160         |      | 7,750    | 5,975   | 13,725    | 18,100   |                |
-| 0350 | Grub stumps and remove                                    | B -30 | .50          | 48          |      | 2,675    | 5,050   | 7,725     | 9,525    |                |
-| 0400 | If burning is allowed, deduct cut & chip                  |       |              |             |      |          |         |           | 40%      | 40%            |
-| 3000 | Chipping stumps, to 18" deep, 12" diam.                   | B -86 | 20           | .400        | Eo . | 243      | 13      | 37        | 50.50    |                |
-| 3040 | 18" diameter                                              |       | 16           | .500        |      | 30       | 16.25   | 46.25     | 36312    |                |
-| 3080 | 24" diameter                                              |       | 14           | .571        |      | 34.50    | 18.55   | 53.05     | 72       |                |
-| 3100 | 30" diameter                                              |       | 12           | .667        |      | 40.50    | 21.50   | 62        | 84       |                |
-| 3120 | 36" diameter                                              | 110   |              | .800        |      | 48.50    | 26      | 74.50     | 101      |                |
-| 3160 | 48" diameter                                              |       | 8            |             |      | 60.50    | 32.50   | 93        | 126      |                |
+| 0020 | Cut & chip light trees to 6" diam.                        | B 7   | 1            | 48          | Acre |          | 2,325   | 1,800     | 4,125    | 5,425          |
+| 0150 | Grub stumps and remove                                    | B -30 | 2            | 12          |      |          | 665     | 1,250     | 1,915    | 2,400          |
+| 0200 | Cut & chip medium trees to 12" diam.                      | B 7   | .70          | 68.571      |      |          | 3,325   | 2,550     | 5,875    | 7,750          |
+| 0250 | Grub stumps and remove                                    | B -30 | 1            | 24          |      |          | 1,325   | 2,525     | 3,850    | 4,750          |
+| 0300 | Cut & chip heavy trees to 24" diam.                       | B 7   | .30          | 160         |      |          | 7,750   | 5,975     | 13,725   | 18,100         |
+| 0350 | Grub stumps and remove                                    | B -30 | .50          | 48          |      |          | 2,675   | 5,050     | 7,725    | 9,525          |
+| 0400 | If burning is allowed, deduct cut & chip                  |       |              |             |      |          |         |           |          | 40%            |
+| 3000 | Chipping stumps, to 18" deep, 12" diam.                   | B -86 | 20           | .400        | Eo . |          | 243     | 13        | 37       | 50.50          |
+| 3040 | 18" diameter                                              |       | 16           | .500        |      |          | 30      | 16.25     | 46.25    | 36312          |
+| 3080 | 24" diameter                                              |       | 14           | .571        |      |          | 34.50   | 18.55     | 53.05    | 72             |
+| 3100 | 30" diameter                                              |       | 12           | .667        |      |          | 40.50   | 21.50     | 62       | 84             |
+| 3120 | 36" diameter                                              | 110   |              | .800        |      |          | 48.50   | 26        | 74.50    | 101            |
+| 3160 | 48" diameter                                              |       | 8            |             |      |          | 60.50   | 32.50     | 93       | 126            |
 | 5000 | Tree thinning, feller buncher, conifer                    |       |              |             |      |          |         |           |          |                |
-| 5080 | Up to 8" diameter                                         | B -93 | 240          | .033        | Eq . | 2.01     | 4.65    | 6.66      | 8.10     |                |
-| 5120 | 12" diameter                                              |       | 160          | .050        |      | 3.02     | 7       | 10.02     | 12.20    |                |
-| 5240 | Hardwood, up to 4" diameter                               |       | 240          | .033        |      | 2.01     | 4.65    | 6.66      | 8.10     |                |
-| 5280 | 8" diameter                                               |       | 180          | .044        |      | 2.68     | 6.20    | 8.88      | 10.85    |                |
-| 5320 | 12" diameter                                              |       | 120          | .067        | 4    | 4.03     | 9.30    | 13.33     | 16.25    |                |
+| 5080 | Up to 8" diameter                                         | B -93 | 240          | .033        | Eq . |          | 2.01    | 4.65      | 6.66     | 8.10           |
+| 5120 | 12" diameter                                              |       | 160          | .050        |      |          | 3.02    | 7         | 10.02    | 12.20          |
+| 5240 | Hardwood, up to 4" diameter                               |       | 240          | .033        |      |          | 2.01    | 4.65      | 6.66     | 8.10           |
+| 5280 | 8" diameter                                               |       | 180          | .044        |      |          | 2.68    | 6.20      | 8.88     | 10.85          |
+| 5320 | 12" diameter                                              |       | 120          | .067        | 4    |          | 4.03    | 9.30      | 13.33    | 16.25          |
 | 7000 | Tree removal, congested area, aerial lift truck           |       |              |             |      |          |         |           |          |                |
-| 7040 | 8" diameter                                               | B -85 | 7            | 5.714       | Eo . | 286      | 169     | 455       | 610      |                |
-| 7080 | 12" diameter                                              |       | 6            | 6.667       |      | 335      | 198     | 533       | 710      |                |
-| 7120 | 18" diameter                                              |       | 5            | 8           |      | 400      | 237     | 637       | 855      |                |
-| 7160 | 24" diameter                                              |       | 4            | -10         |      | 500      | 296     | 796       | 1,075    |                |
-| 7240 | 36" diameter                                              |       | 3            | 13.333      |      | 665      | 395     | 1,060     | 1,425    |                |
-| 7280 | 48" diameter                                              |       | 2            | 20          |      | 1,000    | 595     | 1,595     | 2,150    |                |
+| 7040 | 8" diameter                                               | B -85 | 7            | 5.714       | Eo . |          | 286     | 169       | 455      | 610            |
+| 7080 | 12" diameter                                              |       | 6            | 6.667       |      |          | 335     | 198       | 533      | 710            |
+| 7120 | 18" diameter                                              |       | 5            | 8           |      |          | 400     | 237       | 637      | 855            |
+| 7160 | 24" diameter                                              |       | 4            | -10         |      |          | 500     | 296       | 796      | 1,075          |
+| 7240 | 36" diameter                                              |       | 3            | 13.333      |      |          | 665     | 395       | 1,060    | 1,425          |
+| 7280 | 48" diameter                                              |       | 2            | 20          |      |          | 1,000   | 595       | 1,595    | 2,150          |
 
 ---
 
@@ -148,23 +147,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 31 13 Selective Tree and Shrub Removal and Trimming
 
-31 13 Tree Selective Tree and Shrub Removal Shrub 13 13.10 Selective Removal
-
-0010 SELECTIVE CLEARING and clearing brush Trimming with saw
-
-Daily Labor-
-Crew Output Hours Unit Material
-
-A-1C .25 32 Acre
-
-94
-
-2022 B
+### 13 13.10 Selective Clearing
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|---------|-----------|---------|----------------|
-| 31    | 13 13 Selective Tree and Shrub Removal                               |        |              |             |       |          |         |           |         |                |
-| 31    | 13 13.10 Selective Clearing                                          |        |              |             |       |          |         |           |         |                |
 | 0010  | SELECTIVE CLEARING                                                   |        |              |             |       |          |         |           |         |                |
 | 0020  | Clearing brush with brush saw                                        | A-1C   | .25          | 32          | Acre  |          | 1,450   | 194       | 1,644   | 2,400          |
 | 0100  | By hand                                                             | 1 Clab | 12           | 66.667      |       |          | 3,050   |           | 3,050   | 4,525          |
@@ -240,11 +226,11 @@ A-1C .25 32 Acre
 | 1450 | Alternate method: 6" deep, 200' haul                                 |        | 5090         | .002        | S.Y. |          | .13        | .26       | .39   | .48            |
 | 1460 | 500' haul                                                            |        | 1325         | .009        | "    |          | .50        | 1.02      | 1.52  | 1.87           |
 | 1500 | Loam or topsoil, remove/stockpile on site                            |        |              |             |      |          |            |           |       |                |
-| 1510 | By hand, 6" deep, 50' haul, less than 100 S.Y.                       | B-1    | 100          | .240        | S.Y. | 11.10    |            | 11.10     | 16.55 |                |
-| 1520 | By skid steer, 6" deep, 100' haul, 101-500 S.Y.                      | B-62   | 500          | .048        |      | 2.37     | .3223      | 2.90      | 4.11  |                |
-| 1530 | 100' haul, 501-900 S.Y.                                              | "      | 900          | .027        | 1    | 1.32     | .29        | 1.61      | 2.28  |                |
-| 1540 | 200' haul, 901-1,100 S.Y.                                            | B-63   | 1000         | .040        |      | 1.92     | .26        | 2.18      | 3.14  |                |
-| 1550 | By dozer, 200' haul, 1,101-4,000 S.Y.                                | B-10B  | 4000         | .003        | S.Y. | .17      | 34         | .51       | .62   |                |
+| 1510 | By hand, 6" deep, 50' haul, less than 100 S.Y.                       | B-1    | 100          | .240        | S.Y. |          | 11.10      |           | 11.10 | 16.55          |
+| 1520 | By skid steer, 6" deep, 100' haul, 101-500 S.Y.                      | B-62   | 500          | .048        |      |          | 2.37       | .3223     | 2.90  | 4.11           |
+| 1530 | 100' haul, 501-900 S.Y.                                              | "      | 900          | .027        | 1    |          | 1.32       | .29       | 1.61  | 2.28           |
+| 1540 | 200' haul, 901-1,100 S.Y.                                            | B-63   | 1000         | .040        |      |          | 1.92       | .26       | 2.18  | 3.14           |
+| 1550 | By dozer, 200' haul, 1,101-4,000 S.Y.                                | B-10B  | 4000         | .003        | S.Y. |          | .17        | 34        | .51   | .62            |
 
 # 31 22 13 - Rough Grading
 
@@ -347,73 +333,63 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 31 23 16.13 Excavating, Trench Fill - stable material, 4' W
 
-| Crew   | Daily Output | Labor-Hours | Unit   |
-|--------|-------------|-------------|--------|
-| 2 Clab | 2400        | .007        | SF Wall|
-
-### 2022 Bare Costs
-
-| Material | Labor | Equipment | Total | Total Incl O&P |
-|----------|-------|-----------|-------|---------------|
-| .35      | .30   |           | .65   | .83           |
-
 ---
 
-| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit     | Material | Labor  | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|---------|--------------|-------------|----------|----------|--------|-----------|-------|----------------|
-| 1397 | semi-stable material, 4' W                                           | 2 Clab  | 2400         | .007        | SF Wall  | .35      | .30    |           | .65   | .83            |
-| 1398 | Rent hydraulic shoring per day /S.F. wall, stable mat., 4' W         |         |              |             |          | .37      |        |           | .37   | .40            |
-| 1399 | semi stable material                                                 |         |              |             |          | .48      |        |           | .48   | .53            |
-| 1400 | By hand with pick and shovel 2' to 6' deep, light soil               | 1 Clab  | 8            |             | B.C.Y.   |          | 45.50  |           | 45.50 | 68             |
-| 1500 | Heavy soil                                                          | 11 Clab | 4            | 2           | B.C.Y.   |          | 91     |           | 91    | 136            |
-| 1700 | For tamping backfilled trenches, airtamp, add                        | A-1G    | 100          | .080        | E.C.Y.   |          | 3.65   | .83       | 4.48  | 6.35           |
-| 1900 | Vibrating plate, add                                                 | B-18    | 180          | .133        |          |          | 6.15   | .76       | 6.91  | 10.05          |
-| 2100 | Trim sides and bottom for concrete pours, common earth               |         | 1500         | .016        | S.F.     |          | .74    | .09       | .83   | 1.20           |
-| 2300 | Hardpan                                                             |         | 600          | .040        |          |          | 1.85   | .23       | 2.08  | 3.01           |
-| 2400 | Pier and spread footing excavation, add to above                     |         |              |             | B.C.Y.   |          |        |           | 30 %  | 30 %           |
-| 3000 | Backfill trench, F.E. loader, wheel mtd., 1 C.Y. bucket              |         |              |             |          |          |        |           |       |                |
-| 3020 | Minimal haul                                                         | B-10R   | 400          | .030        | LC.Y.    |          | 1.66   | .81       | 2.47  | 3.37           |
-| 3040 | 100' haul                                                            |         | 200          | .060        |          | 1        | 3.33   | 1.62      | 4.95  | 6.75           |
-| 3080 | 2-1/4 C.Y. bucket, minimum haul                                      | B-10T   | 600          | .020        |          |          | 1.11   | 1.07      | 2.18  | 2.83           |
-| 3090 | 100' haul                                                            |         | 300          | .040        |          |          | 2.22   | 2.141     | 4.36  | 5.65           |
-| 5020 | Loam & sandy clay with no sheeting or dewatering included            |         |              |             |          |          |        |           |       |                |
-| 5050 | 1' to 4' deep, 3/8 C.Y. tractor loader/backhoe                       | B-11C   | 162          | .099        | B.C.Y.   |          | 5.25   | 2.03      | 7.28  | 10.05          |
-| 5060 | 1/2 C.Y. excavator                                                   | B-11M   | 216          | .074        |          |          | 3.93   | 1.86      | 5.79  | 7.90           |
-| 5080 | 4' to 6' deep, 1/2 C.Y. excavator                                    |         | 216          | .074        |          |          | 3.93   | 1.86      | 5.79  | 7.90           |
-| 5090 | 5/8 C.Y. excavator                                                   | B-12Q   | 276          | .058        |          |          | 3.16   | 2.64      | 5.80  | 7.60           |
-| 5100 | 3/4 C.Y. excavator                                                   | B-12F   | 324          | .049        |          |          | 2.69   | 2.70      | 5.39  | 7              |
-| 5130 | 1/2 C.Y. excavator, truck mounted                                    | B-12J   | 216          | .074        |          |          | 4.04   | 3.97      | 8.01  | 10.35          |
-| 5140 | 6' to 10' deep, 3/4 C.Y. excavator                                   | B-12F   | 243.066      |             |          |          | 3.59   | 3.60      | 7.19  | 9.30           |
-| 5150 | 1 C.Y. excavator                                                     | B-12A   | 432          | .037        |          |          | 2.02   | 2.11      | 4.13  | 5.30           |
-| 5160 | 1 C.Y. excavator, truck mounted                                      | B-12K   | 432          | .037        |          |          | 2.024  | 3.45      | 5.47  | 6.80           |
-| 5170 | 1-1/2 C.Y. excavator                                                 | B-12B   | 648          | .025        |          |          | 1.35   | 1.53      | 2.88  | 3.68           |
-| 5190 | 10' to 14' deep, 3/4 C.Y. excavator                                  | B-12F   | 216          | .074        |          |          | 4.04   | 4.05      | 8.09  | 10.45          |
-| 5200 | 1 C.Y. excavator                                                     | B-12A   | 389          | .041        |          |          | 2.24   | 2.34      | 4.58  | 5.90           |
-| 5210 | 1-1/2 C.Y. excavator                                                 | B-12B   | 583          | .027        |          |          | 1.50   | 1.70      | 3.20  | 4.10           |
-| 5250 | 14' to 20' deep, 1 C.Y. excavator                                    | B-12A   | 346          | .046        |          |          | 2.52   | 2.64      | 5.16  | 6.65           |
-| 5260 | 1-1/2 C.Y. excavator                                                 | B-12B   | 518          | .031        |          |          | 1.68   | 1.91      | 3.59  | 4.61           |
-| 5270 | 2-1/2 C.Y. excavator                                                 | B-12S   | 826          | .019        |          |          | 1.06   | 1.62      | 2.68  | 3.36           |
-| 5300 | 20' to 24' deep, 1 C.Y. excavator                                    | B-12A   | 311          | .051        |          |          | 2.80   | 2.93      | 5.73  | 7.40           |
-| 5310 | 1-1/2 C.Y. excavator                                                 | B-12B   | 467          | .034        |          |          | 1.87   | 2.12      | 3.99  | 5.10           |
-| 5320 | 2-1/2 C.Y. excavator                                                 | B-12S   | 740          | .022        |          |          | 1.18   | 1.81      | 2.99  | 3.74           |
-| 5352 | 4' to 6' deep, 1/2 C.Y. excavator w / trench box                     | B-13H   | 205          | .078        |          |          | 4.25   | 4.79      | 9.04  | 11.60          |
-| 5354 | 5/8 C.Y. excavator                                                   |         | 257          | .062        |          |          | 3.39   | 3.82      | 7.21  | 9.25           |
-| 5356 | 3/4 C.Y. excavator                                                   | B-13G   | 308          | .052        |          |          | 2.83   | 3.24      | 6.07  | 7.75           |
-| 5362 | 6' to 10' deep, 3/4 C.Y. excavator w / trench box                    |         | 231          | .069        |          |          | 3.77   | 4.32      | 8.09  | 10.35          |
-| 5364 | 1 C.Y. excavator                                                     | B-13D   | 410          | .039        |          |          | 2.13   | 2.53      | 4.66  | 5.95           |
-| 5366 | 1-1/2 C.Y. excavator                                                 | B-13E   | 616          | .026        | B.C.Y.   | 1.42     | 1.81   |           | 3.23  | 4.10           |
-| 5370 | 10' to 14' deep, 3/4 C.Y. excavator w / trench box                   | B-136   | 205          | .078        |          |          | 4.25   | 4.87      | 9.12  | 11.70          |
-| 5372 | 1 C.Y. excavator                                                     | B-13D   | 370          | .043        |          |          | 2.36   | 2.80      | 5.16  | 6.60           |
-| 5374 | 1-1/2 C.Y.excavator                                                  | B-13E   | 554          | .029        |          |          | 1.57   | 2.01      | 3.58  | 4.55           |
-| 5382 | 14' to 20' deep, 1 C.Y. excavator w / trench box                     | B-13D   | 329.049      |             |          |          | 2.65   | 3.15      | 5.80  | 7.40           |
-| 5384 | 1-1/2 C.Y. excavator                                                 | B-13E   | 492          | .033        |          |          | 1.77   | 2.26      | 4.03  | 5.15           |
-| 5386 | 2-1/2 C.Y. excavator                                                 | B-13    | 780          | .021        |          |          | 1.12   | 1.88      | 3     | 3.72           |
-| 5392 | 20' to 24' deep, 1 C.Y. excavator w / trench box                     | B-13D   | 295          | .054        |          |          | 2.96   | 3.51      | 6.47  | 8.25           |
-| 5394 | 1-1/2 C.Y. excavator                                                 | B-13E   | 444          | .036        |          |          | 1.96   | 2.50      | 4.46  | 5.65           |
-| 5396 | 2-1/2 C.Y. excavator                                                 | B-131   | 695          | .023        |          |          | 1.25   | 2.11      | 3.36  | 4.19           |
-| 6020 | Sand & gravel with no sheeting or dewatering included                |         |              |             |          |          |        |           |       |                |
-| 6050 | 1' to 4' deep, 3/8 C.Y. excavator                                   | B-11C   | 165          | .097        | B.C.Y.   | 5.15     | 1.99   |           | 7.14  | 9.85           |
-| 6060 | 1/2 C.Y. excavator                                                   | B-11M   | 220          | .0731       |          |          | 3.85   | 1.83      | 5.68  | 7.75           |
+| ID   | Name                                                        | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor  | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|---------|--------------|-------------|---------|----------|--------|-----------|-------|----------------|
+| 1397 | semi-stable material, 4' W                                  | 2 Clab  | 2400         | .007        | SF Wall | .35      | .30    |           | .65   | .83            |
+| 1398 | Rent hydraulic shoring per day /S.F. wall, stable mat., 4' W|         |              |             |         | .37      |        |           | .37   | .40            |
+| 1399 | semi stable material                                        |         |              |             |         | .48      |        |           | .48   | .53            |
+| 1400 | By hand with pick and shovel 2' to 6' deep, light soil      | 1 Clab  | 8            |             | B.C.Y.  |          | 45.50  |           | 45.50 | 68             |
+| 1500 | Heavy soil                                                  | 11 Clab | 4            | 2           | B.C.Y.  |          | 91     |           | 91    | 136            |
+| 1700 | For tamping backfilled trenches, airtamp, add               | A-1G    | 100          | .080        | E.C.Y.  |          | 3.65   | .83       | 4.48  | 6.35           |
+| 1900 | Vibrating plate, add                                        | B-18    | 180          | .133        |         |          | 6.15   | .76       | 6.91  | 10.05          |
+| 2100 | Trim sides and bottom for concrete pours, common earth      |         | 1500         | .016        | S.F.    |          | .74    | .09       | .83   | 1.20           |
+| 2300 | Hardpan                                                    |         | 600          | .040        |         |          | 1.85   | .23       | 2.08  | 3.01           |
+| 2400 | Pier and spread footing excavation, add to above            |         |              |             | B.C.Y.  |          |        |           | 30 %  | 30 %           |
+| 3000 | Backfill trench, F.E. loader, wheel mtd., 1 C.Y. bucket     |         |              |             |         |          |        |           |       |                |
+| 3020 | Minimal haul                                                | B-10R   | 400          | .030        | LC.Y.   |          | 1.66   | .81       | 2.47  | 3.37           |
+| 3040 | 100' haul                                                   |         | 200          | .060        |         | 1        | 3.33   | 1.62      | 4.95  | 6.75           |
+| 3080 | 2-1/4 C.Y. bucket, minimum haul                             | B-10T   | 600          | .020        |         |          | 1.11   | 1.07      | 2.18  | 2.83           |
+| 3090 | 100' haul                                                   |         | 300          | .040        |         |          | 2.22   | 2.141     | 4.36  | 5.65           |
+| 5020 | Loam & sandy clay with no sheeting or dewatering included   |         |              |             |         |          |        |           |       |                |
+| 5050 | 1' to 4' deep, 3/8 C.Y. tractor loader/backhoe              | B-11C   | 162          | .099        | B.C.Y.  |          | 5.25   | 2.03      | 7.28  | 10.05          |
+| 5060 | 1/2 C.Y. excavator                                          | B-11M   | 216          | .074        |         |          | 3.93   | 1.86      | 5.79  | 7.90           |
+| 5080 | 4' to 6' deep, 1/2 C.Y. excavator                           |         | 216          | .074        |         |          | 3.93   | 1.86      | 5.79  | 7.90           |
+| 5090 | 5/8 C.Y. excavator                                          | B-12Q   | 276          | .058        |         |          | 3.16   | 2.64      | 5.80  | 7.60           |
+| 5100 | 3/4 C.Y. excavator                                          | B-12F   | 324          | .049        |         |          | 2.69   | 2.70      | 5.39  | 7              |
+| 5130 | 1/2 C.Y. excavator, truck mounted                           | B-12J   | 216          | .074        |         |          | 4.04   | 3.97      | 8.01  | 10.35          |
+| 5140 | 6' to 10' deep, 3/4 C.Y. excavator                          | B-12F   | 243.066      |             |         |          | 3.59   | 3.60      | 7.19  | 9.30           |
+| 5150 | 1 C.Y. excavator                                            | B-12A   | 432          | .037        |         |          | 2.02   | 2.11      | 4.13  | 5.30           |
+| 5160 | 1 C.Y. excavator, truck mounted                             | B-12K   | 432          | .037        |         |          | 2.024  | 3.45      | 5.47  | 6.80           |
+| 5170 | 1-1/2 C.Y. excavator                                        | B-12B   | 648          | .025        |         |          | 1.35   | 1.53      | 2.88  | 3.68           |
+| 5190 | 10' to 14' deep, 3/4 C.Y. excavator                         | B-12F   | 216          | .074        |         |          | 4.04   | 4.05      | 8.09  | 10.45          |
+| 5200 | 1 C.Y. excavator                                            | B-12A   | 389          | .041        |         |          | 2.24   | 2.34      | 4.58  | 5.90           |
+| 5210 | 1-1/2 C.Y. excavator                                        | B-12B   | 583          | .027        |         |          | 1.50   | 1.70      | 3.20  | 4.10           |
+| 5250 | 14' to 20' deep, 1 C.Y. excavator                           | B-12A   | 346          | .046        |         |          | 2.52   | 2.64      | 5.16  | 6.65           |
+| 5260 | 1-1/2 C.Y. excavator                                        | B-12B   | 518          | .031        |         |          | 1.68   | 1.91      | 3.59  | 4.61           |
+| 5270 | 2-1/2 C.Y. excavator                                        | B-12S   | 826          | .019        |         |          | 1.06   | 1.62      | 2.68  | 3.36           |
+| 5300 | 20' to 24' deep, 1 C.Y. excavator                           | B-12A   | 311          | .051        |         |          | 2.80   | 2.93      | 5.73  | 7.40           |
+| 5310 | 1-1/2 C.Y. excavator                                        | B-12B   | 467          | .034        |         |          | 1.87   | 2.12      | 3.99  | 5.10           |
+| 5320 | 2-1/2 C.Y. excavator                                        | B-12S   | 740          | .022        |         |          | 1.18   | 1.81      | 2.99  | 3.74           |
+| 5352 | 4' to 6' deep, 1/2 C.Y. excavator w / trench box            | B-13H   | 205          | .078        |         |          | 4.25   | 4.79      | 9.04  | 11.60          |
+| 5354 | 5/8 C.Y. excavator                                          |         | 257          | .062        |         |          | 3.39   | 3.82      | 7.21  | 9.25           |
+| 5356 | 3/4 C.Y. excavator                                          | B-13G   | 308          | .052        |         |          | 2.83   | 3.24      | 6.07  | 7.75           |
+| 5362 | 6' to 10' deep, 3/4 C.Y. excavator w / trench box           |         | 231          | .069        |         |          | 3.77   | 4.32      | 8.09  | 10.35          |
+| 5364 | 1 C.Y. excavator                                            | B-13D   | 410          | .039        |         |          | 2.13   | 2.53      | 4.66  | 5.95           |
+| 5366 | 1-1/2 C.Y. excavator                                        | B-13E   | 616          | .026        | B.C.Y.  | 1.42     | 1.81   |           | 3.23  | 4.10           |
+| 5370 | 10' to 14' deep, 3/4 C.Y. excavator w / trench box          | B-136   | 205          | .078        |         |          | 4.25   | 4.87      | 9.12  | 11.70          |
+| 5372 | 1 C.Y. excavator                                            | B-13D   | 370          | .043        |         |          | 2.36   | 2.80      | 5.16  | 6.60           |
+| 5374 | 1-1/2 C.Y.excavator                                         | B-13E   | 554          | .029        |         |          | 1.57   | 2.01      | 3.58  | 4.55           |
+| 5382 | 14' to 20' deep, 1 C.Y. excavator w / trench box            | B-13D   | 329.049      |             |         |          | 2.65   | 3.15      | 5.80  | 7.40           |
+| 5384 | 1-1/2 C.Y. excavator                                        | B-13E   | 492          | .033        |         |          | 1.77   | 2.26      | 4.03  | 5.15           |
+| 5386 | 2-1/2 C.Y. excavator                                        | B-13    | 780          | .021        |         |          | 1.12   | 1.88      | 3     | 3.72           |
+| 5392 | 20' to 24' deep, 1 C.Y. excavator w / trench box            | B-13D   | 295          | .054        |         |          | 2.96   | 3.51      | 6.47  | 8.25           |
+| 5394 | 1-1/2 C.Y. excavator                                        | B-13E   | 444          | .036        |         |          | 1.96   | 2.50      | 4.46  | 5.65           |
+| 5396 | 2-1/2 C.Y. excavator                                        | B-131   | 695          | .023        |         |          | 1.25   | 2.11      | 3.36  | 4.19           |
+| 6020 | Sand & gravel with no sheeting or dewatering included        |         |              |             |         |          |        |           |       |                |
+| 6050 | 1' to 4' deep, 3/8 C.Y. excavator                           | B-11C   | 165          | .097        | B.C.Y.  | 5.15     | 1.99   |           | 7.14  | 9.85           |
+| 6060 | 1/2 C.Y. excavator                                          | B-11M   | 220          | .0731       |         |          | 3.85   | 1.83      | 5.68  | 7.75           |
 
 ---
 
@@ -421,59 +397,59 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # Excavation
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 6080  | 4 'to 6' deep, 1/2 C.Y. excavator                                   | B-11M  | 220          | .073        | B.C.Y. |          | 3.85  | 1.83      | 5.68  | 7.75           |
-| 6090  | 5/8 C.Y. excavator                                                  | B-12Q  | 275          | .058        |        |          | 3.17  | 2.65      | 5.82  | 7.65           |
-| 6100  | 3/4 C.Y. excavator                                                  | B-12F  | 330          | .048        |        |          | 2.64  | 2.65      | 5.29  | 6.85           |
-| 6130  | 1/2 C.Y. excavator, truck mounted                                   | B-12   | 220          | .073        |        |          | 3.96  | 3.90      | 7.86  | 10.20          |
-| 6140  | 6' to 10' deep, 3/4 C.Y. excavator                                  | B-12F  | 248          | .065        |        |          | 3.52  | 3.52      | 7.04  | 9.15           |
-| 6150  | 1 C.Y. excavator                                                    | B-12A  | 440          | .036        |        |          | 1.98  | 2.07      | 4.05  | 5.25           |
-| 6160  | 1 C.Y. excavator, truck mounted                                     | B-12K  | 440          | .036        |        |          | 1.98  | 3.38      | 5.36  | 6.65           |
-| 6170  | 1-1/2 C.Y. excavator                                                | B-12B  | 660          | .024        |        |          | 1.32  | 1.50      | 2.82  | 3.62           |
-| 6190  | 10' to 14' deep, 3/4 C.Y. excavator                                 | B-12F  | 220          | .073        |        |          | 3.96  | 3.97      | 7.93  | 10.25          |
-| 6200  | 1 C.Y. excavator                                                    | B-12A  | 396          | .040        |        |          | 2.20  | 2.30      | 4.50  | 5.80           |
-| 6210  | 1-1/2 C.Y. excavator                                                | B-12B  | 594          | .027        |        |          | 1.47  | 1.66      | 3.13  | 4.02           |
-| 6250  | 14' to 20' deep, 1 C.Y. excavator                                   | B-12A  | 352          | .045        |        |          | 2.48  | 2.59      | 5.07  | 6.55           |
-| 6260  | 1-1/2 C.Y. excavator                                                | B-12B  | 528          | .030        |        |          | 1.65  | 1.87      | 3.52  | 4.52           |
-| 6270  | 2-1/2 C.Y. excavator                                                | B-12S  | 840          | .019        |        |          | 1.04  | 1.60      | 2.64  | 3.31           |
-| 6300  | 20' to 24' deep, 1 C.Y. excavator                                   | B-12A  | 317          | .050        |        |          | 2.75  | 2.88      | 5.63  | 7.25           |
-| 6310  | 1-1/2 C.Y. excavator                                                | B-12B  | 475          | .034        |        |          | 1.84  | 2.08      | 3.92  | 5              |
-| 6320  | 2-1/2 C.Y. excavator                                                | B-12S  | 755          | .021        |        |          | 1.15  | 1.78      | 2.93  | 3.67           |
-| 6352  | 4' to 6' deep, 1/2 C.Y. excavator w/trench box                      | B-13H  | 209          | .077        |        |          | 4.17  | 4.69      | 8.86  | 11.35          |
-| 6354  | 5/8 C.Y. excavator                                                  |        | 261          | .061        |        |          | 3.34  | 3.76      | 7.10  | 9.10           |
-| 6356  | 3/4 C.Y. excavator                                                  | B-136  | 314          | .051        |        |          | 2.78  | 3.18      | 5.96  | 7.60           |
-| 6362  | 6' to 10' deep, 3/4 C.Y. excavator w/trench box                     |        | 236          | .068        |        |          | 3.69  | 4.23      | 7.92  | 10.15          |
-| 6364  | 1 C.Y. excavator                                                    | B-13D  | 418          | .038        |        |          | 2.09  | 2.48      | 4.57  | 5.85           |
-| 6366  | 1-1/2 C.Y. excavator                                                | B-13E  | 627          | .026        |        |          | 1.39  | 1.77      | 3.16  | 4.02           |
-| 6370  | 10' to 14' deep, 3/4 C.Y. excavator w/trench box                    | B-13G  | 209          | .077        |        |          | 4.17  | 4.77      | 8.94  | 11.45          |
-| 6372  | 1 C.Y. excavator                                                    | B-13D  | 376          | .043        | B.C.Y. | 2.32     | 2.75  | 5.07      | 6.50  |                |
-| 6374  | 1-1/2 C.Y. excavator                                                | B-13E  | 564          | .028        |        |          | 1.55  | 1.97      | 3.52  | 4.47           |
-| 6382  | 14' to 20' deep, 1 C.Y. excavator w/trench box                      | B-13D  | 334          | .048        |        |          | 2.61  | 3.10      | 5.71  | 7.30           |
-| 6384  | 1-1/2 C.Y. excavator                                                | B-13E  | 502          | .032        |        |          | 1.74  | 2.22      | 3.96  | 5.05           |
-| 6386  | 2-1/2 C.Y. excavator                                                | B-13J  | 790          | .020        |        |          | 1.10  | 1.85      | 2.95  | 3.68           |
-| 6392  | 20' to 24' deep, 1 C.Y. excavator w/trench box                      | B-13D  | 301          | .053        |        |          | 2.90  | 3.44      | 6.34  | 8.10           |
-| 6394  | 1-1/2 C.Y. excavator                                                | B-13E  | 452          | .035        |        |          | 1.93  | 2.46      | 4.39  | 5.60           |
-| 6396  | 2-1/2 C.Y. excavator                                                | B-13J  | 710          | .023        |        |          | 1.23  | 2.06      | 3.29  | 4.10           |
-| 7050  | 1' to 4' deep, 3/8 C.Y. excavator                                   | B-11C  | 132          | .121        | B.C.Y. | 6.40     | 2.49  | 8.89      | 12.30 |                |
-| 7060  | 1/2 C.Y. excavator                                                  | B-11M  | 176          | .091        |        | 4.82     | 2.29  | 7.11      | 9.65  |                |
-| 7080  | 4' to 6' deep, 1/2 C.Y. excavator                                   |        | 176          | .091        |        | 4.82     | 2.29  | 7.11      | 9.65  |                |
-| 7090  | 5/8 C.Y. excavator                                                  | B-12Q  | 220          | .073        |        | 3.96     | 3.31  | 7.27      | 9.55  |                |
-| 7100  | 3/4 C.Y. excavator                                                  | B-12F  | 264          | .061        |        | 3.30     | 3.31  | 6.61      | 8.55  |                |
-| 7130  | 1/2 C.Y. excavator, truck mounted                                   | B-12J  | 176          | .091        |        | 4.95     | 4.87  | 9.82      | 12.75 |                |
-| 7140  | 6' to 10' deep, 3/4 C.Y. excavator                                  | B-12F  | 198          | .081        |        | 4.40     | 4.41  | 0.81      | 11.453582 |         |
-| 7150  | 1 C.Y. excavator                                                    | B-12A  | 352          | .045        |        | 2.48     | 2.59  | 5.07      | 6.55  |                |
-| 7160  | 1 C.Y. excavator, truck mounted                                     | B-12K  | 352          | .045        |        | 2.48     | 4.23  | 6.71      | 8.35  |                |
-| 7170  | 1-1/2 C.Y. excavator                                                | B-12B  | 528          | .030        |        | 1.65     | 1.87  | 3.52      | 4.52  |                |
-| 7190  | 10' to 14' deep, 3/4 C.Y. excavator                                 | B-12F  | 176          | .091        |        | 4.95     | 4.97  | 9.92      | 12.85 |                |
-| 7200  | 1 C.Y. excavator                                                    | B-12A  | 317          | .050        |        | 2.75     | 2.88  | 5.63      | 7.25  |                |
-| 7210  | 1-1/2 C.Y. excavator                                                | B-12B  | 475          | .034        |        | 1.84     | 2.08  | 3.92      | 5     |                |
-| 7250  | 14' to 20' deep, 1 C.Y. excavator                                   | B-12A  | 282          | .057        |        | 3.09     | 3.23  | 6.32      | 8.15  |                |
-| 7260  | 1-1/2 C.Y. excavator                                                | B-12B  | 422          | .038        |        | 2.07     | 2.34  | 4.41      | 5.65  |                |
-| 7270  | 2-1/2 C.Y. excavator                                                | B-12S  | 675          | .024        |        | 1.29     | 1.99  | 3.28      | 4.10  |                |
-| 7300  | 20' to 24' deep, 1 C.Y. excavator                                   | B-12A  | 254          | .063        |        | 3.43     | 3.59  | 7.02      | 9.05  |                |
-| 7310  | 1-1/2 C.Y. excavator                                                | B-12B  | 380          | .042        |        | 2.29     | 2.60  | 4.89      | 6.30  |                |
-| 7320  | 2-1/2 C.Y. excavator                                                | B-12S  | 605          | .026        |        | 1.44     | 2.22  | 3.66      | 4.59  |                |
+| ID    | Name                                                    | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 6080  | 4' to 6' deep, 1/2 C.Y. excavator                      | B-11M  | 220          | .073        | B.C.Y. |          | 3.85  | 1.83      | 5.68  | 7.75           |
+| 6090  | 5/8 C.Y. excavator                                     | B-12Q  | 275          | .058        |        |          | 3.17  | 2.65      | 5.82  | 7.65           |
+| 6100  | 3/4 C.Y. excavator                                     | B-12F  | 330          | .048        |        |          | 2.64  | 2.65      | 5.29  | 6.85           |
+| 6130  | 1/2 C.Y. excavator, truck mounted                      | B-12   | 220          | .073        |        |          | 3.96  | 3.90      | 7.86  | 10.20          |
+| 6140  | 6' to 10' deep, 3/4 C.Y. excavator                     | B-12F  | 248          | .065        |        |          | 3.52  | 3.52      | 7.04  | 9.15           |
+| 6150  | 1 C.Y. excavator                                       | B-12A  | 440          | .036        |        |          | 1.98  | 2.07      | 4.05  | 5.25           |
+| 6160  | 1 C.Y. excavator, truck mounted                        | B-12K  | 440          | .036        |        |          | 1.98  | 3.38      | 5.36  | 6.65           |
+| 6170  | 1-1/2 C.Y. excavator                                   | B-12B  | 660          | .024        |        |          | 1.32  | 1.50      | 2.82  | 3.62           |
+| 6190  | 10' to 14' deep, 3/4 C.Y. excavator                    | B-12F  | 220          | .073        |        |          | 3.96  | 3.97      | 7.93  | 10.25          |
+| 6200  | 1 C.Y. excavator                                       | B-12A  | 396          | .040        |        |          | 2.20  | 2.30      | 4.50  | 5.80           |
+| 6210  | 1-1/2 C.Y. excavator                                   | B-12B  | 594          | .027        |        |          | 1.47  | 1.66      | 3.13  | 4.02           |
+| 6250  | 14' to 20' deep, 1 C.Y. excavator                      | B-12A  | 352          | .045        |        |          | 2.48  | 2.59      | 5.07  | 6.55           |
+| 6260  | 1-1/2 C.Y. excavator                                   | B-12B  | 528          | .030        |        |          | 1.65  | 1.87      | 3.52  | 4.52           |
+| 6270  | 2-1/2 C.Y. excavator                                   | B-12S  | 840          | .019        |        |          | 1.04  | 1.60      | 2.64  | 3.31           |
+| 6300  | 20' to 24' deep, 1 C.Y. excavator                      | B-12A  | 317          | .050        |        |          | 2.75  | 2.88      | 5.63  | 7.25           |
+| 6310  | 1-1/2 C.Y. excavator                                   | B-12B  | 475          | .034        |        |          | 1.84  | 2.08      | 3.92  | 5.00           |
+| 6320  | 2-1/2 C.Y. excavator                                   | B-12S  | 755          | .021        |        |          | 1.15  | 1.78      | 2.93  | 3.67           |
+| 6352  | 4' to 6' deep, 1/2 C.Y. excavator w/trench box         | B-13H  | 209          | .077        |        |          | 4.17  | 4.69      | 8.86  | 11.35          |
+| 6354  | 5/8 C.Y. excavator                                     |        | 261          | .061        |        |          | 3.34  | 3.76      | 7.10  | 9.10           |
+| 6356  | 3/4 C.Y. excavator                                     | B-136  | 314          | .051        |        |          | 2.78  | 3.18      | 5.96  | 7.60           |
+| 6362  | 6' to 10' deep, 3/4 C.Y. excavator w/trench box        |        | 236          | .068        |        |          | 3.69  | 4.23      | 7.92  | 10.15          |
+| 6364  | 1 C.Y. excavator                                       | B-13D  | 418          | .038        |        |          | 2.09  | 2.48      | 4.57  | 5.85           |
+| 6366  | 1-1/2 C.Y. excavator                                   | B-13E  | 627          | .026        |        |          | 1.39  | 1.77      | 3.16  | 4.02           |
+| 6370  | 10' to 14' deep, 3/4 C.Y. excavator w/trench box       | B-13G  | 209          | .077        |        |          | 4.17  | 4.77      | 8.94  | 11.45          |
+| 6372  | 1 C.Y. excavator                                       | B-13D  | 376          | .043        | B.C.Y. |          | 2.32  | 2.75      | 5.07  | 6.50           |
+| 6374  | 1-1/2 C.Y. excavator                                   | B-13E  | 564          | .028        |        |          | 1.55  | 1.97      | 3.52  | 4.47           |
+| 6382  | 14' to 20' deep, 1 C.Y. excavator w/trench box         | B-13D  | 334          | .048        |        |          | 2.61  | 3.10      | 5.71  | 7.30           |
+| 6384  | 1-1/2 C.Y. excavator                                   | B-13E  | 502          | .032        |        |          | 1.74  | 2.22      | 3.96  | 5.05           |
+| 6386  | 2-1/2 C.Y. excavator                                   | B-13J  | 790          | .020        |        |          | 1.10  | 1.85      | 2.95  | 3.68           |
+| 6392  | 20' to 24' deep, 1 C.Y. excavator w/trench box         | B-13D  | 301          | .053        |        |          | 2.90  | 3.44      | 6.34  | 8.10           |
+| 6394  | 1-1/2 C.Y. excavator                                   | B-13E  | 452          | .035        |        |          | 1.93  | 2.46      | 4.39  | 5.60           |
+| 6396  | 2-1/2 C.Y. excavator                                   | B-13J  | 710          | .023        |        |          | 1.23  | 2.06      | 3.29  | 4.10           |
+| 7050  | 1' to 4' deep, 3/8 C.Y. excavator                      | B-11C  | 132          | .121        | B.C.Y. |          | 6.40  | 2.49      | 8.89  | 12.30          |
+| 7060  | 1/2 C.Y. excavator                                     | B-11M  | 176          | .091        |        |          | 4.82  | 2.29      | 7.11  | 9.65           |
+| 7080  | 4' to 6' deep, 1/2 C.Y. excavator                      |        | 176          | .091        |        |          | 4.82  | 2.29      | 7.11  | 9.65           |
+| 7090  | 5/8 C.Y. excavator                                     | B-12Q  | 220          | .073        |        |          | 3.96  | 3.31      | 7.27  | 9.55           |
+| 7100  | 3/4 C.Y. excavator                                     | B-12F  | 264          | .061        |        |          | 3.30  | 3.31      | 6.61  | 8.55           |
+| 7130  | 1/2 C.Y. excavator, truck mounted                      | B-12J  | 176          | .091        |        |          | 4.95  | 4.87      | 9.82  | 12.75          |
+| 7140  | 6' to 10' deep, 3/4 C.Y. excavator                     | B-12F  | 198          | .081        |        |          | 4.40  | 4.41      | 0.81  | 11.453582       |
+| 7150  | 1 C.Y. excavator                                       | B-12A  | 352          | .045        |        |          | 2.48  | 2.59      | 5.07  | 6.55           |
+| 7160  | 1 C.Y. excavator, truck mounted                        | B-12K  | 352          | .045        |        |          | 2.48  | 4.23      | 6.71  | 8.35           |
+| 7170  | 1-1/2 C.Y. excavator                                   | B-12B  | 528          | .030        |        |          | 1.65  | 1.87      | 3.52  | 4.52           |
+| 7190  | 10' to 14' deep, 3/4 C.Y. excavator                    | B-12F  | 176          | .091        |        |          | 4.95  | 4.97      | 9.92  | 12.85          |
+| 7200  | 1 C.Y. excavator                                       | B-12A  | 317          | .050        |        |          | 2.75  | 2.88      | 5.63  | 7.25           |
+| 7210  | 1-1/2 C.Y. excavator                                   | B-12B  | 475          | .034        |        |          | 1.84  | 2.08      | 3.92  | 5.00           |
+| 7250  | 14' to 20' deep, 1 C.Y. excavator                      | B-12A  | 282          | .057        |        |          | 3.09  | 3.23      | 6.32  | 8.15           |
+| 7260  | 1-1/2 C.Y. excavator                                   | B-12B  | 422          | .038        |        |          | 2.07  | 2.34      | 4.41  | 5.65           |
+| 7270  | 2-1/2 C.Y. excavator                                   | B-12S  | 675          | .024        |        |          | 1.29  | 1.99      | 3.28  | 4.10           |
+| 7300  | 20' to 24' deep, 1 C.Y. excavator                      | B-12A  | 254          | .063        |        |          | 3.43  | 3.59      | 7.02  | 9.05           |
+| 7310  | 1-1/2 C.Y. excavator                                   | B-12B  | 380          | .042        |        |          | 2.29  | 2.60      | 4.89  | 6.30           |
+| 7320  | 2-1/2 C.Y. excavator                                   | B-12S  | 605          | .026        |        |          | 1.44  | 2.22      | 3.66  | 4.59           |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -1163,7 +1139,8 @@ Building Construction Costs with RSMeans data, call 800.448.8182.
 For customer support on your 635
 
 # 31 23 Excavation and Fill  
-## 31 23 23 Fill and 23 23.20 Hauling
+
+## 31 23 23.20 Fill and Hauling
 
 | ID    | Name                                              | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|---------------------------------------------------|-----------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
@@ -1223,13 +1200,9 @@ For customer support on your 635
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 31.23 Excavation and Fill
+# 31 23 Excavation and Fill  
 
-## 3ExcavationFill  
-Daily Labor-  
-2022 Bare CosandTotal
-
-### 31 23 2 Fill Hauling
+## 31 23 23.20 Fill and Hauling
 
 | ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
@@ -1466,33 +1439,14 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 31 31 Excavation23nd Fill
+# 31 31 Excavation and Fill
 
-31 Excavationll  
-3327  
-31 23 23.20 Hauling  
-145and456  
-1460  
-cyclFillmiles  
-cycle 10 miles  
-35 MPH avg., cycle 4 miles  
+## 31 23 23 - Fill
 
-## Daily Labor-
-
-Crew Output Hours Unit  
-B-34B 132 .061 LCY.  
-
-2022 Bare Costs  
-Total  
-Material  
-Labor Equipment  
-Total  
-Incl O&P  
+### 31 23.20 Hauling
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
-| 3327  | 31 23 23 - Fill                                                      |        |              |             |       |          |        |           |        |                |
-| 31    | 23 23.20 Hauling                                                     |        |              |             |       |          |        |           |        |                |
 | 1454  | cycle 8 miles                                                        | B-34B  | 132          | .061        | LCY   |          | 3.22   | 5.80      | 9.02   | 11.2           |
 | 1456  | cycle 10 miles                                                       |        | 120          | .067        |       |          | 3.54   | 6.40      | 9.94   | 12.3           |
 | 1460  | 35 MPH avg., cycle 4 miles                                           |        | 180          | .044        |       |          | 2.361  | 4.26      | 6.62   | 8.2            |
@@ -1511,8 +1465,8 @@ Incl O&P
 | 1484  | cycle 50 miles                                                       |        | 60           | .133        |       |          | 7.05   | 12.80     | 19.85  | 24.50          |
 | 1494  | 45 MPH avg.,cycle 8 miles                                            |        | 156          | .051        |       |          | 2.72   | 4.92      | 7.64   | 9.4            |
 | 1496  | cycle 10 miles                                                       | B-34B  | 144          | .056        | LC.Y. |          | 2.95   | 5.35      | 8.30   | 10.2           |
-| 1498  | cycle 20 miles                                                       |        | 108          | .074        | [     |          | 3.93   | 7.10      | 11.03  | 13.6           |
-| 1500  | cycle 30 miles                                                       |        | 84.095       |             | ||    |          | 5.05   | 9.15      | 14.20  | 17.60          |
+| 1498  | cycle 20 miles                                                       |        | 108          | .074        |       |          | 3.93   | 7.10      | 11.03  | 13.6           |
+| 1500  | cycle 30 miles                                                       |        | 84.095       |             |       |          | 5.05   | 9.15      | 14.20  | 17.60          |
 | 1502  | cycle 40 miles                                                       |        | 72           | 111         |       |          | 5.90   | 10.65     | 16.55  | 20.50          |
 | 1504  | cycle 50 miles                                                       |        | 60.133       |             |       |          | 7.05   | 12.80     | 19.85  | 24.50          |
 | 1506  | 50 MPH avg.,cycle 10 miles                                           |        | 156          | .051        |       |          | 2.72   | 4.92      | 7.64   | 9.45           |
@@ -1545,7 +1499,7 @@ Incl O&P
 | 1660  | 35 MPH avg.,cycle 4 miles                                            |        | 156          | .051        |       |          | 2.72   | 4.92      | 7.64   | 9.45           |
 | 1662  | cycle 6 miles                                                        |        | 144          | 1.056       |       |          | 2.95   | 5.35      | 8.30   | 10.25          |
 | 1664  | cycle 8 miles                                                        |        | 132          | .061        |       |          | 3.22   | 5.80      | 9.02   | 11.20          |
-| 1666  | cycle 10 miles                                                       |        | 120          | | .067      |       | 3.54     | 6.40   | 9.94      | 12.35  |                |
+| 1666  | cycle 10 miles                                                       |        | 120          | .067        |       | 3.54     | 6.40   | 9.94      | 12.35  |                |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 

@@ -123,8 +123,23 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
             i = j
         else:
             i += 1
+    
+    # Clean up DataFrames
+    for df in dataframes:
+        df = clean_dataframe(df)
 
     return dataframes
+
+# Function to clean DataFrame
+def clean_dataframe(df: DataFrame) -> DataFrame:
+    # For each row of the datafrome, if the last cell is empty, shift last cells to the left
+    num_of_cells_to_shift = 4
+    for index, row in df.iterrows():
+        if pd.isna(row.iloc[-1]):
+            df.iloc[index, -num_of_cells_to_shift:] = df.iloc[index, -num_of_cells_to_shift-1:-1].values
+            df.iloc[index, -num_of_cells_to_shift-1] = None
+
+    return df
 
 # Function to save CSV content to a file
 def save_csv_to_file(csv_content: str, output_file: str) -> None:
