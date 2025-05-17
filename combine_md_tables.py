@@ -15,7 +15,7 @@ import csv
 from pandas import DataFrame
 
 # Function to prompt the user for a markdown file and a directory to save the output
-def prompt_for_file_and_directory() -> (str, str):
+def prompt_for_file_and_directory():
     root = tk.Tk()
     root.withdraw()  # Hide the root window
 

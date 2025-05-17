@@ -10,7 +10,7 @@ from tkinter import filedialog, simpledialog
 from typing import List
 
 # Prompt the user for a directory path and file name using a GUI
-def prompt_for_directory_and_filename() -> (str, str):
+def prompt_for_directory_and_filename():
     root = tk.Tk()
     root.withdraw()  # Hide the root window
 

@@ -1537,7 +1537,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 05 21 19 - Open Web Steel Joist Framing
 
-### 9.10 Open Web Joists
+### 05 21 19.10 Open Web Joists
 
 | ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1559,9 +1559,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 05 21 23 - Steel Joist Girder Framing
 
+### 05 21 23.50 Joist Girders
+
 | ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 05 21 23.50 | Joist Girders                      |      |              |             |      |          |       |           |       |                |
 | 0010 | JOIST GIRDERS                             |      |              |             |      |          |       |           |       |                |
 | 0015 | Made from recycled materials              |      |              |             |      |          |       |           |       |                |
 | 7020 | Joist girders, 40-ton job lots, shop primer | G E5 | 13           | 6.154       | Ton  | 1,850    | 380   | 202       | 2,432 | 2,850          |
@@ -1587,10 +1588,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 05 31 13 - Steel Floor Decking
 
+### 05 31 13.50 Floor Decking
+
 | ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 05 31 13.50 | Floor Decking                      |      |              |             |      |          |       |           |       |                |
-| 0010 | FLOOR DECKING R053100-10                  |      |              |             |      |          |       |           |       |                |
+| 0010 | FLOOR DECKING                             |      |              |             |      |          |       |           |       |                |
 | 0015 | Made from recycled materials              |      |              |             |      |          |       |           |       |                |
 | 5100 | Non-cellular composite decking, galvanized, 1-1/2" deep, 16 ga. | 5555555555E4 | 3500         | .009        | S.F. | 4.57     | .57   | .04       | 5.18  |                |
 | 5120 | 18 ga.                                   |      | 3650         | .009        |      | 2.82     | .55   | .04       | 3.41  | 3.98           |
@@ -1811,18 +1813,17 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 05 41 13.25 Framing, Boxed Headers / Beams
 
-| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 0010  | FRAMING, BOXED HEADERS / BEAMS                                       |              |              |             |        |          |       |           |        |                |
-| 0015  | Made from recycled materials                                         |              |              |             |        |          |       |           |        |                |
-| 0200  | Double, 18 ga. x 6" deep                                             | 2 Carp       | 220          | .073        | LF.    | 5.45     | 4.09  |           | 9.54   | 12.10          |
-| 0210  | 8" deep                                                              |              | 210          | .076        |        | 5.65     | 4.29  |           | 9.94   | 12.60          |
-| 0220  | 10" deep                                                             |              | 200          | .080        |        | 7.25     | 4.50  |           | 11.75  | 14.6 !         |
-| 0230  | 12" deep                                                             |              | 190          | .084        |        | 7.90     | 4.74  |           | 12.64  | 15.75          |
-| 0300  | 16 ga. x 8" deep                                                     |              | 180          | .089        |        | 6.55     | 5     |           | 11.55  | 14.65          |
-| 0310  | 10" deep                                                             |              | 170          | .094        |        | 8.10     | 5.30  |           | 13.40  | 16.80          |
-| 0320  | 12" deep                                                             |              | 160          | .100        |        | 8.80     | 5.65  |           | 14.45  | 18.0           |
-
+| ID    | Name                                   | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | FRAMING, BOXED HEADERS / BEAMS         |         |              |             |      |          |       |           |        |                |
+| 0015  | Made from recycled materials           |         |              |             |      |          |       |           |        |                |
+| 0200  | Double, 18 ga. x 6" deep               | 2 Carp  | 220          | .073        | LF.  | 5.45     | 4.09  |           | 9.54   | 12.10          |
+| 0210  | 8" deep                                |         | 210          | .076        |      | 5.65     | 4.29  |           | 9.94   | 12.60          |
+| 0220  | 10" deep                               |         | 200          | .080        |      | 7.25     | 4.50  |           | 11.75  | 14.6 !         |
+| 0230  | 12" deep                               |         | 190          | .084        |      | 7.90     | 4.74  |           | 12.64  | 15.75          |
+| 0300  | 16 ga. x 8" deep                       |         | 180          | .089        |      | 6.55     | 5     |           | 11.55  | 14.65          |
+| 0310  | 10" deep                               |         | 170          | .094        |      | 8.10     | 5.30  |           | 13.40  | 16.80          |
+| 0320  | 12" deep                               |         | 160          | .100        |      | 8.80     | 5.65  |           | 14.45  | 18.0           |
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
@@ -2332,38 +2333,38 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 00542 Cold-Formed Metal Joist Framing
 
-## 05 42 23 - Cold-Formed Metal Roof Joist Framing
+## 05 42 23 Cold-Formed Metal Roof Joist Framing
 
-| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 0200  | 16 ga. x 6" deep                                                     | 5G55555525Carp | 150          | .107        | LF   | 5.70     | 6     |           | 11.70  |                |
-| 0210  | 8" deep                                                              |              | 140          | .114        |      | 6.55     | 6.45  |           | 13     | 1              |
-| 0220  | 10" deep                                                             |              | 130          | .123        |      | 8.10     | 6.95  |           | 15.05  |                |
-| 0230  | 12" deep                                                             |              | 120          | .133        |      | 8.80     | 7.50  |           | 16.30  |                |
-| 1100  | Rafters, 2" flange, material only, 18 ga. x 6" deep                  |              |              |             |      | 1.84     |       |           | 1.84   |                |
-| 1110  | 8" deep                                                              |              |              |             |      | 1.94     |       |           | 1.94   | :              |
-| 1120  | 10" deep                                                             |              |              |             |      | 2.31     |       |           | 2.31   |                |
-| 1130  | 12" deep                                                             |              |              |             |      | 2.66     |       |           | 2.66   |                |
-| 1200  | 16 ga. x 6" deep                                                     |              |              |             |      | 1.98     |       |           | 1.98   |                |
-| 1210  | 8" deep                                                              |              |              |             | L4F  | 2.43     |       |           | 2.43   |                |
-| 1220  | 10" deep                                                             |              |              |             |      | 2.77     |       |           | 2.77   |                |
-| 1230  | 12" deep                                                             |              |              |             |      | 3.13     |       |           | 3.13   |                |
-| 2100  | Installation only, ordinary rafter to 4:12 pitch, 18 ga. x 6" deep   | 2 Carp       | 35           | .457        | Eo.  |          | 25.50 |           | 225.5046| 38             |
-| 2110  | 8" deep                                                              |              | 30           | .533        |      |          | 30    |           | 30     | 44             |
-| 2120  | 10" deep                                                             |              | 25           | .640        |      |          | 36    |           | 361    | 53             |
-| 2130  | 12" deep                                                             |              | 20           | .800        |      |          | 45    |           | 45     | 67             |
-| 2200  | 16 ga. x 6" deep                                                     |              | 30           | .533        |      |          | 30    |           | 30     | 44             |
-| 2210  | 8" deep                                                              |              | 25           | .640        |      |          | 36    |           |        | 53             |
-| 2220  | 10" deep                                                             |              | 20           | .800        |      |          | 45    |           | 45     | 67             |
-| 2230  | 12" deep                                                             |              | 15           | 1.067       |      |          | 60    |           | 60     | 89             |
-| 8100  | Add to labor, ordinary rafters on steep roofs                        |              |              |             |      |          | 25 %  |           |        |                |
-| 8110  | Dormers & complex roofs                                              |              |              |             |      |          | 50 %  |           |        |                |
-| 8200  | Hip & valley rafters to 4:12 pitch                                   |              |              |             |      |          | 25 %  |           |        |                |
-| 8210  | Steep roofs                                                          |              |              |             |      |          | 50 %  |           |        |                |
-| 8220  | Dormers & complex roofs                                              |              |              |             |      |          | 75 %  |           |        |                |
-| 8300  | Hip & valley jack rafters to 4:12 pitch                              |              |              |             |      |          | 50 %  |           |        |                |
-| 8310  | Steep roofs                                                          |              |              |             |      |          | 75 %  |           |        |                |
-| 8320  | Dormers & complex roofs                                              |              |              |             |      |          | 100 % |           |        |                |
+| ID    | Name                                                        | Crew           | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total      | Total Incl O&P |
+|-------|-------------------------------------------------------------|----------------|-------------|-------------|------|----------|-------|-----------|------------|----------------|
+| 0200  | 16 ga. x 6" deep                                            | 5G55555525Carp | 150         | .107        | LF   | 5.70     | 6     |           |            | 11.70          |
+| 0210  | 8" deep                                                     |                | 140         | .114        |      | 6.55     | 6.45  |           |            | 13             |
+| 0220  | 10" deep                                                    |                | 130         | .123        |      | 8.10     | 6.95  |           |            | 15.05          |
+| 0230  | 12" deep                                                    |                | 120         | .133        |      | 8.80     | 7.50  |           |            | 16.30          |
+| 1100  | Rafters, 2" flange, material only, 18 ga. x 6" deep         |                |             |             |      | 1.84     |       |           |            | 1.84           |
+| 1110  | 8" deep                                                     |                |             |             |      | 1.94     |       |           |            | 1.94           |
+| 1120  | 10" deep                                                    |                |             |             |      | 2.31     |       |           |            | 2.31           |
+| 1130  | 12" deep                                                    |                |             |             |      | 2.66     |       |           |            | 2.66           |
+| 1200  | 16 ga. x 6" deep                                            |                |             |             |      | 1.98     |       |           |            | 1.98           |
+| 1210  | 8" deep                                                     |                |             |             | L4F  | 2.43     |       |           |            | 2.43           |
+| 1220  | 10" deep                                                    |                |             |             |      | 2.77     |       |           |            | 2.77           |
+| 1230  | 12" deep                                                    |                |             |             |      | 3.13     |       |           |            | 3.13           |
+| 2100  | Installation only, ordinary rafter to 4:12 pitch, 18 ga. x 6" deep | 2 Carp | 35          | .457        | Eo.  |          | 25.50 |           | 225.5046   | 38             |
+| 2110  | 8" deep                                                     |                | 30          | .533        |      |          | 30    |           | 30         | 44             |
+| 2120  | 10" deep                                                    |                | 25          | .640        |      |          | 36    |           | 361        | 53             |
+| 2130  | 12" deep                                                    |                | 20          | .800        |      |          | 45    |           | 45         | 67             |
+| 2200  | 16 ga. x 6" deep                                            |                | 30          | .533        |      |          | 30    |           | 30         | 44             |
+| 2210  | 8" deep                                                     |                | 25          | .640        |      |          | 36    |           |            | 53             |
+| 2220  | 10" deep                                                    |                | 20          | .800        |      |          | 45    |           | 45         | 67             |
+| 2230  | 12" deep                                                    |                | 15          | 1.067       |      |          | 60    |           | 60         | 89             |
+| 8100  | Add to labor, ordinary rafters on steep roofs                |                |             |             |      |          | 25 %  |           |            |                |
+| 8110  | Dormers & complex roofs                                     |                |             |             |      |          | 50 %  |           |            |                |
+| 8200  | Hip & valley rafters to 4:12 pitch                          |                |             |             |      |          | 25 %  |           |            |                |
+| 8210  | Steep roofs                                                 |                |             |             |      |          | 50 %  |           |            |                |
+| 8220  | Dormers & complex roofs                                     |                |             |             |      |          | 75 %  |           |            |                |
+| 8300  | Hip & valley jack rafters to 4:12 pitch                     |                |             |             |      |          | 50 %  |           |            |                |
+| 8310  | Steep roofs                                                 |                |             |             |      |          | 75 %  |           |            |                |
+| 8320  | Dormers & complex roofs                                     |                |             |             |      |          | 100 % |           |            |                |
 
 ---
 
