@@ -43,7 +43,7 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
     while i < len(lines):
         line = lines[i]
         # Update last_section_code and last_section_name if this line is a markdown heading
-        heading_match = re.match(r'^\s*#+\s*([\d.]+)\s+(.*)', line)
+        heading_match = re.match(r'^\s*#+\s*([\d .]+)\s+(.*)', line)
         if heading_match:
             last_section_code = heading_match.group(1).strip()
             last_section_name = heading_match.group(2).strip()
@@ -90,7 +90,7 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
 
             # Add the section code and section name as the first two columns
             headers = ['Masterformat Section Code', 'Section Name'] + rows[0]
-            data_rows = [[last_section_code, last_section_name] + row for row in rows[1:]]
+            data_rows = [[str(last_section_code), last_section_name] + row for row in rows[1:]]
 
             csv_data = StringIO()
             csv_writer = csv.writer(csv_data)
@@ -98,7 +98,7 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
             for row in data_rows:
                 csv_writer.writerow(row)
             csv_data.seek(0)
-            df = pd.read_csv(csv_data, header=0, skip_blank_lines=True)
+            df = pd.read_csv(csv_data, header=0, skip_blank_lines=True, dtype={'Masterformat Section Code': str})
             dataframes.append(df)
 
             i = j
