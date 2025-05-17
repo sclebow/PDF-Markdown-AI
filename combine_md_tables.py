@@ -45,14 +45,32 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
         # Update last_section_code and last_section_name if this line is a markdown heading
         heading_match = re.match(r'^\s*#+\s*([\d .]+)\s+(.*)', line)
         if heading_match:
-            last_section_code = heading_match.group(1).strip()
-            last_section_name = heading_match.group(2).strip()
+            current_section_code = heading_match.group(1).strip()
+            if re.fullmatch(r'\d{4}', current_section_code): # Check if it's a 4-digit code
+                found = False
+                for k in range(i-1, -1, -1):
+                    prev_line = lines[k]
+                    if re.match(r'^\|.*\|$', prev_line):
+                        break
+                    prev_heading_match = re.match(r'^\s*#+\s*([\d .]+)\s+(.*)', prev_line)
+                    if prev_heading_match:
+                        prev_code = prev_heading_match.group(1).strip()
+                        if not re.fullmatch(r'\d{4}', prev_code):
+                            last_section_code = prev_code
+                            last_section_name = re.sub(r'^[-\s]+', '', prev_heading_match.group(2)).strip()
+                            found = True
+                            break
+                if not found:
+                    last_section_code = current_section_code
+                    last_section_name = re.sub(r'^[-\s]+', '', heading_match.group(2)).strip()
+            else:
+                last_section_code = current_section_code
+                last_section_name = re.sub(r'^[-\s]+', '', heading_match.group(2)).strip()
             i += 1
             continue
         elif re.match(r'^\s*#+\s+', line):
-            # Heading without section code, reset section code and use heading as name
-            last_section_code = ""
-            last_section_name = line.lstrip('#').strip()
+            # Heading without section code, keep last_section_code and update section name
+            last_section_name = re.sub(r'^[-\s]+', '', line.lstrip('#')).strip()
             i += 1
             continue
 

@@ -557,22 +557,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 05 05 23.87 Weld Results
 
-5-5/16" long  
-0800 for 1/8" long  
-Metals-1/8" long  
-1000  
-5/8" diameter, 2-11/16" long  
-1010  
-4-3/16" long  
-1100  
-6-9/16" long  
-1200  
-8-3/16" long  
-
-G5555 GG  
-Daily Labor-  
-Crew
-
 ---
 
 | ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
@@ -952,8 +936,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 05 12 23 - Structural Steel for Buildings  
 ### 05 12 23.75 Structural Steel Members
 
-#### Daily Labor-2022 Bare Costs
-
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
 | 0300 | W 8 x 10     |      | 600         | .093        | LF   | 18       | 5.70  | 4.13      | 27.83   | 33             |
@@ -1154,13 +1136,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## Structural Steel for Buildings
 
-### Daily Labor-Framing Costs
+### 12 23.78 Structural Steel Secondary
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 05    | 12 23 - Structural Steel for Buildings                               |        |              |             |      |          |       |           |       |                |
-|       | Daily Labor-2022 Bare Costs                                          |        |              |             |      |          |       |           |       |                |
-| 05    | 12 23.78 Structural Steel Secondary Members                          |        |              |             |      |          |       |           |       |                |
 | 0200  | Eave struts, C-shape, includes clips and bolts                       |        |              |             |      |          |       |           |       |                |
 | 02101 | 6" x 4" x 3", 16 ga., 3.1 lb./L.F.                                  |        |              |             | L.F. | 4.57     |       |           | 4.57  | 5              |
 | 0215  | 14 ga, 3.9 lb./L.F.                                                  |        |              |             |      | 5.75     |       |           | 5.75  | 6.30           |
