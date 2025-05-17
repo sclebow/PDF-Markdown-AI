@@ -392,8 +392,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 05.05 Common Work Results Commontals
-
 ## 05 05 23 Metal Fastenings
 
 | ID    | Name                                         | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |

@@ -2,3 +2,4 @@ openai_key.txt
 google_cloud_key.txt
 google_key.json
 google_cloud_key.json
+combine_md_tables.py

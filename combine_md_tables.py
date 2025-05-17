@@ -111,6 +111,28 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
             headers = ['Masterformat Section Code', 'Section Name'] + rows[0]
             data_rows = [[str(last_section_code), last_section_name] + row for row in rows[1:]]
 
+            # Parametric right-to-left fill for last_headers
+            last_header_count = 5  # <-- Make this configurable as needed
+            last_headers = headers[-last_header_count:] # Get the last N headers
+            for idx, row in enumerate(data_rows):
+                # Find indices of last_headers in headers
+                last_indices = [headers.index(h) for h in last_headers if h in headers]
+                # Extract the last N non-empty values from the row
+                values = [row[i] for i in last_indices if row[i].strip() != '']
+                # If not enough, look further right in the row for shifted values
+                if len(values) < len(last_indices):
+                    # Look at the last N columns of the row (excluding section code/name)
+                    extra_values = [v for v in row[-len(last_indices):] if v.strip() != '']
+                    # Combine, keeping only as many as needed
+                    values = ([''] * (len(last_indices) - len(values))) + values + extra_values
+                    values = values[-len(last_indices):]
+                else:
+                    values = ([''] * (len(last_indices) - len(values))) + values
+                # Assign right-to-left
+                for j, col_idx in enumerate(reversed(last_indices)):
+                    row[col_idx] = values[-(j+1)]
+                data_rows[idx] = row
+
             csv_data = StringIO()
             csv_writer = csv.writer(csv_data)
             csv_writer.writerow(headers)
