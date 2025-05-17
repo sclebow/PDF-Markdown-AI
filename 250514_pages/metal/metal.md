@@ -2999,17 +2999,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00555 Metal S55ir Treads aMetalsings
-
-## 05 55 19 MetStairair Tread CoverTreads 55 19.50 Stair TreandCovers for RenNosings
+## 05 55 19.50 Stair Treads
 
 ### 0010 STAIR TREAD COVERS FOR RENOVATION
 
-Extruded tread cover with nosing, pre-drilled, includes screws
 
-#### Daily Labor-
-
-Crew Output Hours Uni
 
 | ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|

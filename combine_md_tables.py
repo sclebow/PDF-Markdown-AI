@@ -43,19 +43,20 @@ def extract_tables_from_markdown(content: str, filename: str = "file") -> list:
     while i < len(lines):
         line = lines[i]
         # Update last_section_code and last_section_name if this line is a markdown heading
-        heading_match = re.match(r'^\s*#+\s*([\d .]+)\s+(.*)', line)
+        heading_match = re.match(r'^\s*#+\s+((?:\d{2,}\s+)*\d+\.\d+)\s+(.*)', line)
         if heading_match:
             current_section_code = heading_match.group(1).strip()
-            if re.fullmatch(r'\d{4}', current_section_code): # Check if it's a 4-digit code
+            # Check if the code is digits only (any length)
+            if re.fullmatch(r'\d+', current_section_code):
                 found = False
                 for k in range(i-1, -1, -1):
                     prev_line = lines[k]
                     if re.match(r'^\|.*\|$', prev_line):
                         break
-                    prev_heading_match = re.match(r'^\s*#+\s*([\d .]+)\s+(.*)', prev_line)
+                    prev_heading_match = re.match(r'^\s*#+\s+([\d .]+)\s+(.*)', prev_line)
                     if prev_heading_match:
                         prev_code = prev_heading_match.group(1).strip()
-                        if not re.fullmatch(r'\d{4}', prev_code):
+                        if not re.fullmatch(r'\d+', prev_code):
                             last_section_code = prev_code
                             last_section_name = re.sub(r'^[-\s]+', '', prev_heading_match.group(2)).strip()
                             found = True
