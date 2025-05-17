@@ -235,19 +235,19 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 23.25,"A490, bolt-nut washer set",1300.0,"6"" long",G,105.0,0.076,,4.84,4.71,,9.55,12.6
 05 05 23.25,"A490, bolt-nut washer set",1350.0,"8"" long",G,95.0,0.084,,7.45,5.2,,12.65,16.2
 05 05 23.25,"A490, bolt-nut washer set",1360.0,"7/8"" diameter x 2"" long",,115.07,,,4.56,4.3,,8.86,11.65
-05.05,05 05 23 Metal Fastenings,1365.0,"3"" long",55G55555555Sswk,110,0.073,Eo .,5.05,4.5,,9.55,12.5
-05.05,05 05 23 Metal Fastenings,1370.0,"4"" long",G,105,0.076,,5.85,4.71,,10.56,13.7
-05.05,05 05 23 Metal Fastenings,1380.0,"6"" long",G,100,0.08,,7.5,4.95,,12.45,15.85
-05.05,05 05 23 Metal Fastenings,1390.0,"8"" long",G,90,0.089,,10.1,5.5,,15.6,19.6
-05.05,05 05 23 Metal Fastenings,1400.0,"1"" diameter x 2"" long",G,105,0.076,,6.05,4.71,,10.76,13.95
-05.05,05 05 23 Metal Fastenings,1420.0,"3"" long",G,100,0.08,,6.9,4.95,,11.85,15.15
-05.05,05 05 23 Metal Fastenings,1450.0,"4"" long",G,95,0.084,,7.6,5.2,,12.8,16.35
-05.05,05 05 23 Metal Fastenings,1500.0,"6"" long",G,90,0.089,,9.4,5.5,,14.9,18.8
-05.05,05 05 23 Metal Fastenings,1550.0,"8"" long",G,85,0.094,,13.55,5.8,,19.35,242233.0
-05.05,05 05 23 Metal Fastenings,1600.0,"1-1/4"" diameter x 3"" long",G,85,1.094,,11.6,5.8,,17.4,
-05.05,05 05 23 Metal Fastenings,1650.0,"4"" long",G,80,100.0,,12.8,6.2,,19.0,23.5
-05.05,05 05 23 Metal Fastenings,1700.0,"6"" long",G,775,0.107,,16.25,6.6,,22.85,28.0
-05.05,05 05 23 Metal Fastenings,1750.0,"8"" long",G,70,0.114,,20.0,7.05,,27.05,
+05 05 23.25,05 05 23 Metal Fastenings,1365.0,"3"" long",55G55555555Sswk,110,0.073,Eo .,5.05,4.5,,9.55,12.5
+05 05 23.25,05 05 23 Metal Fastenings,1370.0,"4"" long",G,105,0.076,,5.85,4.71,,10.56,13.7
+05 05 23.25,05 05 23 Metal Fastenings,1380.0,"6"" long",G,100,0.08,,7.5,4.95,,12.45,15.85
+05 05 23.25,05 05 23 Metal Fastenings,1390.0,"8"" long",G,90,0.089,,10.1,5.5,,15.6,19.6
+05 05 23.25,05 05 23 Metal Fastenings,1400.0,"1"" diameter x 2"" long",G,105,0.076,,6.05,4.71,,10.76,13.95
+05 05 23.25,05 05 23 Metal Fastenings,1420.0,"3"" long",G,100,0.08,,6.9,4.95,,11.85,15.15
+05 05 23.25,05 05 23 Metal Fastenings,1450.0,"4"" long",G,95,0.084,,7.6,5.2,,12.8,16.35
+05 05 23.25,05 05 23 Metal Fastenings,1500.0,"6"" long",G,90,0.089,,9.4,5.5,,14.9,18.8
+05 05 23.25,05 05 23 Metal Fastenings,1550.0,"8"" long",G,85,0.094,,13.55,5.8,,19.35,242233.0
+05 05 23.25,05 05 23 Metal Fastenings,1600.0,"1-1/4"" diameter x 3"" long",G,85,1.094,,11.6,5.8,,17.4,
+05 05 23.25,05 05 23 Metal Fastenings,1650.0,"4"" long",G,80,100.0,,12.8,6.2,,19.0,23.5
+05 05 23.25,05 05 23 Metal Fastenings,1700.0,"6"" long",G,775,0.107,,16.25,6.6,,22.85,28.0
+05 05 23.25,05 05 23 Metal Fastenings,1750.0,"8"" long",G,70,0.114,,20.0,7.05,,27.05,
 05 05 23.30,Lag Screws,10.0,LAG SCREWS,,,,,,,,,
 05 05 23.30,Lag Screws,20.0,"Steel, 1/4"" diameter, 2"" long",55G5 1 Carp,200.0,0.04,Ea .,0.14,2.25,,2.39,3.5
 05 05 23.30,Lag Screws,100.0,"3/8"" diameter, 3"" long",G,150.0,0.053,,0.5,3.0,,3.5,5.0
@@ -1953,30 +1953,30 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 55 13.50,Stair Treads,5005,"Steel, 14 ga., 2-1/2"" thick, galvanized",,,,,,,,,
 05 55 13.50,Stair Treads,5010,"9"" deep x 36"" long",55G 2 Sswk,48,0.333,Eo .,102.0,20.5,,122.5,145
 05 55 13.50,Stair Treads,5020,"48"" long","G """,48,0.333,"""",136.0,20.5,,156.5,182
-05 55 13.50,Daily Labor-,5,55 19 - Metal Stair Tread Covers,,,,,,,,,
-05 55 13.50,Daily Labor-,5,55 19.50 Stair Tread Covers for Renovation,,,,,,,,,
-05 55 13.50,Daily Labor-,10,STAIR TREAD COVERS FOR RENOVATION,,,,,,,,,
-05 55 13.50,Daily Labor-,205,"Extruded tread cover with nosing, pre-drilled, includes screws",,,,,,,,,
-05 55 13.50,Daily Labor-,210,"Aluminum with black abrasive strips, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,104.0,18.75,,122.75,143.0
-05 55 13.50,Daily Labor-,220,4' long,4,,0.364,,137.0,20.5,,157.5,181.0
-05 55 13.50,Daily Labor-,230,5' long,,20.0,400.0,,185.0,22.5,,207.5,238.0
-05 55 13.50,Daily Labor-,240,"11"" wide x 3' long",,24.0,0.333,,147.0,18.75,,165.75,189.0
-05 55 13.50,Daily Labor-,250,4' long,,,0.364,,200.0,20.5,,220.5,251.0
-05 55 13.50,Daily Labor-,260,5' long,,20.0,0.4,,239.0,22.5,,261.5,296.0
-05 55 13.50,Daily Labor-,305,Black abrasive strips with yellow front strips,,,,,,,,,
-05 55 13.50,Daily Labor-,310,"Aluminum, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,127.0,18.75,,145.75,167.0
-05 55 13.50,Daily Labor-,320,4' long,,,0.364,,169.0,20.5,,189.5,217.0
-05 55 13.50,Daily Labor-,330,5' long,,20.0,0.4,,217.0,22.5,,239.5,272.0
-05 55 13.50,Daily Labor-,340,"11"" wide x 3'long",,24.0,0.333,,161.0,18.75,,179.75,205.0
-05 55 13.50,Daily Labor-,350,4' long,,,0.364,,205.0,20.5,,225.5,257.0
-05 55 13.50,Daily Labor-,360,5' long,,20.0,0.4,,267.0,22.5,,289.5,330.0
-05 55 13.50,Daily Labor-,405,Black abrasive strips with photoluminescent front strips,,,,,,,,,
-05 55 13.50,Daily Labor-,410,"Aluminum, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,160.0,18.75,,178.75,204.0
-05 55 13.50,Daily Labor-,420,4' long,,,0.364,,181.0,20.5,,201.5,231.0
-05 55 13.50,Daily Labor-,430,5' long,,20.0,0.4,,255.0,22.5,,277.5,315.0
-05 55 13.50,Daily Labor-,440,"11"" wide x 3' long",,24.0,0.333,,181.0,18.75,,199.75,228.0
-05 55 13.50,Daily Labor-,450,4' long,,22.0,0.364,,242.0,20.5,,262.5,297.0
-05 55 13.50,Daily Labor-,460,5' long,,20.0,0.4,,300.0,22.5,,322.5,370.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,5,55 19 - Metal Stair Tread Covers,,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,5,55 19.50 Stair Tread Covers for Renovation,,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,10,STAIR TREAD COVERS FOR RENOVATION,,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,205,"Extruded tread cover with nosing, pre-drilled, includes screws",,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,210,"Aluminum with black abrasive strips, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,104.0,18.75,,122.75,143.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,220,4' long,4,,0.364,,137.0,20.5,,157.5,181.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,230,5' long,,20.0,400.0,,185.0,22.5,,207.5,238.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,240,"11"" wide x 3' long",,24.0,0.333,,147.0,18.75,,165.75,189.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,250,4' long,,,0.364,,200.0,20.5,,220.5,251.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,260,5' long,,20.0,0.4,,239.0,22.5,,261.5,296.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,305,Black abrasive strips with yellow front strips,,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,310,"Aluminum, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,127.0,18.75,,145.75,167.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,320,4' long,,,0.364,,169.0,20.5,,189.5,217.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,330,5' long,,20.0,0.4,,217.0,22.5,,239.5,272.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,340,"11"" wide x 3'long",,24.0,0.333,,161.0,18.75,,179.75,205.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,350,4' long,,,0.364,,205.0,20.5,,225.5,257.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,360,5' long,,20.0,0.4,,267.0,22.5,,289.5,330.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,405,Black abrasive strips with photoluminescent front strips,,,,,,,,,
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,410,"Aluminum, 9"" wide x 3' long",1 Carp,242222.0,0.333,Ea .,160.0,18.75,,178.75,204.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,420,4' long,,,0.364,,181.0,20.5,,201.5,231.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,430,5' long,,20.0,0.4,,255.0,22.5,,277.5,315.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,440,"11"" wide x 3' long",,24.0,0.333,,181.0,18.75,,199.75,228.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,450,4' long,,22.0,0.364,,242.0,20.5,,262.5,297.0
+05 55 19.50,0010 STAIR TREAD COVERS FOR RENOVATION,460,5' long,,20.0,0.4,,300.0,22.5,,322.5,370.0
 05 56 13.50,Construction Castings,10,CONSTRUCTION CASTINGS,,,,,,,,,
 05 56 13.50,Construction Castings,20,"Manhole covers and frames, see Section 33 44 13.13",,,,,,,,,
 05 56 13.50,Construction Castings,100,"Column bases, cast iron, 16"" x 16"", approx .65 lb.",E-4,46.0,0.696,Ea .,126,43.5,3.243,172.71,209.0
