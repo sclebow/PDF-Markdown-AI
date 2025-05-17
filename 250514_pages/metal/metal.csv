@@ -114,8 +114,8 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 19.20,"Wedge anchors, not including layout or drilling",8600.0,"12"" long",,75.0,0.107,,7.85,6.0,,13.85,17.55
 05 05 19.20,"Wedge anchors, not including layout or drilling",8650.0,"1-1/4"" diameter, 9"" long",1 Carp,70.0,0.114,Ea .,33,6.45,,39.45,46.0
 05 05 19.20,"Wedge anchors, not including layout or drilling",8700.0,"12"" long",群,60.0,0.133,"""",42.50,7.5,,50.0,57.5
-05 05 19.20,"Wedge anchors, not including layout or drilling",8750.0,"For type 303 stainless steel, add",,,,,350 %,,,,
-05 05 19.20,"Wedge anchors, not including layout or drilling",8800.0,"For type 316 stainless steel, add",,,,,450 %,,,,
+05 05 19.20,"Wedge anchors, not including layout or drilling",8750.0,"For type 303 stainless steel, add",,,,,,350 %,,,
+05 05 19.20,"Wedge anchors, not including layout or drilling",8800.0,"For type 316 stainless steel, add",,,,,,450 %,,,
 05 05 19.20,"Self-drilling concrete screw, hex washer head, 3/16"" diam. x 1-3/4"" long",8950.0,"Self-drilling concrete screw, hex washer head, 3/16"" diam. x 1-3/4"" long",55G5 Carp,300,0.027,90.0,0.2222,1.5252,,1.71,2.46
 05 05 19.20,"Self-drilling concrete screw, hex washer head, 3/16"" diam. x 1-3/4"" long",8960.0,"2-1/4"" long",G,250,0.032,,0.29,1.8,,2.09,3.0
 05 05 19.20,"Self-drilling concrete screw, hex washer head, 3/16"" diam. x 1-3/4"" long",8970.0,"Phillips flat head, 3/16"" diam. x 1-3/4"" long",G,300,0.027,,0.2,1.5,,1.7,2.45
@@ -142,7 +142,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 21.15,Drilling Steel,1975.0,"For each additional 1/4"" depth, add",,216.0,0.037,,0.19,2.29,,2.48,3.73
 05 05 21.15,Drilling Steel,1980.0,"1"" diameter",,64.0,0.125,,0.28,7.75,,8.03,12.2
 05 05 21.15,Drilling Steel,1985.0,"For each additional 1/4"" depth, add",,192.0,0.042,,0.28,2.58,,2.86,4.27
-05 05 21.15,Drilling Steel,1990.0,"For drilling up, add",,,,,,40 %,,,
+05 05 21.15,Drilling Steel,1990.0,"For drilling up, add",,,,,,,40 %,,
 05 05 21.90,Welding Steel,10.0,"WELDING STEEL, Structural R050521-20",,,,,,,,,
 05 05 21.90,Welding Steel,20.0,"Field welding, 1/8"" E6011, cost per welder, no operating engineer",E-14,8.0,1.0,Hr,6.4,64,18.4,88.8,126.0
 05 05 21.90,Welding Steel,200.0,With 1/2 operating engineer,E-13,8.0,1.5,,6.4,92.50,18.4,117.3,169.0
@@ -160,10 +160,10 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 21.90,Welding Steel,2010.0,"4 passes, 1/2"" thick, 0.7 # / L.F.",,22.0,0.364,,2.24,23.50,6.7,32.44,46.0
 05 05 21.90,Welding Steel,2200.0,"5 to 6 passes, 3/4"" thick, 1.3 # / L.F.",,12.0,0.667,,4.16,42.50,12.3,58.96,83.5
 05 05 21.90,Welding Steel,2400.0,"8 to 11 passes, 1"" thick, 2.4 # / L.F.",,6.0,1.333,,7.65,85.50,24.5,117.65,166.0
-05 05 21.90,Welding Steel,2600.0,"For vertical joint welding, add",,,,,,20 %,,,
-05 05 21.90,Welding Steel,2700.0,"Overhead joint welding, add",,,,,,300 %,,,
-05 05 21.90,Welding Steel,2900.0,"For semi-automatic welding, obstructed joints, deduct",,,,,,5%,,,
-05 05 21.90,Welding Steel,3000.0,"Exposed joints, deduct",,,,,,15 %,,,
+05 05 21.90,Welding Steel,2600.0,"For vertical joint welding, add",,,,,,,20 %,,
+05 05 21.90,Welding Steel,2700.0,"Overhead joint welding, add",,,,,,,300 %,,
+05 05 21.90,Welding Steel,2900.0,"For semi-automatic welding, obstructed joints, deduct",,,,,,,5%,,
+05 05 21.90,Welding Steel,3000.0,"Exposed joints, deduct",,,,,,,15 %,,
 05 05 21.90,Welding Steel,4000.0,"Cleaning and welding plates, bars, or rods",,,,,,,,,
 05 05 21.90,Welding Steel,4010.0,"to existing beams, columns, or trusses",E-14,112.0,0.667,LF,1.6,42.50,12.3,56.4,81.0
 05 05 23.10,Bolts and Hex Nuts,10.0,"BOLTS & HEX NUTS, Steel, A307",,,,,,,,,
@@ -197,8 +197,8 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 23.10,Bolts and Hex Nuts,2800.0,"1"" diameter, 3"" long",,105.0,0.076,,3.511,4.71,,8.22,11.1
 05 05 23.10,Bolts and Hex Nuts,2900.0,"6"" long",,90.0,1.089,,5.35,5.5,,10.85,14.35
 05 05 23.10,Bolts and Hex Nuts,3000.0,"12"" long",,75.107,,,10,6.6,,16.6,21.0
-05 05 23.10,Bolts and Hex Nuts,3100.0,"For galvanized, add",,,,,75%,,,,
-05 05 23.10,Bolts and Hex Nuts,3200.0,"For stainless, add",,,,,350%,,,,
+05 05 23.10,Bolts and Hex Nuts,3100.0,"For galvanized, add",,,,,,75%,,,
+05 05 23.10,Bolts and Hex Nuts,3200.0,"For stainless, add",,,,,,350%,,,
 05 05 23.25,High Strength Bolts,10.0,HIGH STRENGTH BOLTS,R050523-10,,,,,,,,
 05 05 23.25,High Strength Bolts,20.0,"A325 Type 1, structural steel, bolt-nut-washer set",,,,,,,,,
 05 05 23.25,High Strength Bolts,100.0,"1/2"" diameter x 1-1/2"" long",55555 I Sswk,130.0,0.062,Eo.,1.26,3.81,,5.07,7.25
@@ -244,16 +244,16 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 23.25,05 05 23 Metal Fastenings,1450.0,"4"" long",G,95,0.084,,7.6,5.2,,12.8,16.35
 05 05 23.25,05 05 23 Metal Fastenings,1500.0,"6"" long",G,90,0.089,,9.4,5.5,,14.9,18.8
 05 05 23.25,05 05 23 Metal Fastenings,1550.0,"8"" long",G,85,0.094,,13.55,5.8,,19.35,242233.0
-05 05 23.25,05 05 23 Metal Fastenings,1600.0,"1-1/4"" diameter x 3"" long",G,85,1.094,,11.6,5.8,,17.4,
+05 05 23.25,05 05 23 Metal Fastenings,1600.0,"1-1/4"" diameter x 3"" long",G,85,1.094,,,11.6,5.8,,17.4
 05 05 23.25,05 05 23 Metal Fastenings,1650.0,"4"" long",G,80,100.0,,12.8,6.2,,19.0,23.5
 05 05 23.25,05 05 23 Metal Fastenings,1700.0,"6"" long",G,775,0.107,,16.25,6.6,,22.85,28.0
-05 05 23.25,05 05 23 Metal Fastenings,1750.0,"8"" long",G,70,0.114,,20.0,7.05,,27.05,
+05 05 23.25,05 05 23 Metal Fastenings,1750.0,"8"" long",G,70,0.114,,,20.0,7.05,,27.05
 05 05 23.30,Lag Screws,10.0,LAG SCREWS,,,,,,,,,
 05 05 23.30,Lag Screws,20.0,"Steel, 1/4"" diameter, 2"" long",55G5 1 Carp,200.0,0.04,Ea .,0.14,2.25,,2.39,3.5
 05 05 23.30,Lag Screws,100.0,"3/8"" diameter, 3"" long",G,150.0,0.053,,0.5,3.0,,3.5,5.0
 05 05 23.30,Lag Screws,200.0,"1/2"" diameter, 3"" long",G,130.0,0.062,,1.22,3.46,,4.68,6.5
 05 05 23.30,Lag Screws,300.0,"5/8"" diameter, 3"" long",,120.0,0.067,,1.8,3.75,,5.55,7.6
-05 05 23.35,Machine Screws,10.0,MACHINE SCREWS,,,,,57.0,,,,
+05 05 23.35,Machine Screws,10.0,MACHINE SCREWS,,,,,,57.0,,,
 05 05 23.35,Machine Screws,20.0,"Steel, round head, #8 x 1"" long",55G5 1 Carp,4.8,1.667,,4.57,94.0,,98.57,145.0
 05 05 23.35,Machine Screws,110.0,"#8 x 2"" long",G,2.4,3.333,,10.0,188.0,,198.0,290.0
 05 05 23.35,Machine Screws,200.0,"#10 x 1"" long",G,4.0,2.0,,5.05,113.0,,118.05,174.0
@@ -291,7 +291,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 05 23.70,Structural Blind Bolts,400.0,"5/8"" diameter x 3/4"" grip",G,216.0,0.037,,6.05,2.29,,8.34,10.2
 05 05 23.70,Structural Blind Bolts,450.0,"1"" grip",G,192.0,0.042,,6.05,2.58,,8.63,10.6
 05 05 23.80,Vibration and Bearing Pads,10.0,VIBRATION & BEARING PADS,,,,,,,,,
-05 05 23.80,Vibration and Bearing Pads,300.0,"Laminated synthetic rubber impregnated cotton duck, 1/2"" thick",2 Sswk,222222222.667,S.F.,82,41.0,,123.0,154.0,
+05 05 23.80,Vibration and Bearing Pads,300.0,"Laminated synthetic rubber impregnated cotton duck, 1/2"" thick",2 Sswk,222222222.667,S.F.,82,,41.0,,123.0,154.0
 05 05 23.80,Vibration and Bearing Pads,400.0,"1"" thick",,20.0,.800,,154.0,49.5,,203.5,245.0
 05 05 23.80,Vibration and Bearing Pads,600.0,"Neoprene bearing pads, 1/2"" thick",,24.0,.667,,15.3,41.0,,56.3,80.5
 05 05 23.80,Vibration and Bearing Pads,700.0,"1"" thick",1,,20.800,,1.0,59.5,49.5,109.0,141.0
@@ -437,21 +437,21 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 12 23.17,"Columns, Structural",7350.0,W14 x 74,,984.0,0.057,,133,3.49,2.52,139.01,155
 05 12 23.17,"Columns, Structural",7400.0,W14 x 120,,960.0,0.058,,216,3.57,2.58,222.15,246
 05 12 23.17,"Columns, Structural",7450.0,W14 x 176,,912.0,0.061,,315,3.76,2.72,321.48,360
-05 12 23.17,"Columns, Structural",8090.0,"For projects 75 to 99 tons, add",,,,,10 %,,,,
-05 12 23.17,"Columns, Structural",8092.0,"50 to 74 tons, add",,,,,20 %,,,,
-05 12 23.17,"Columns, Structural",8094.0,"25 to 49 tons, add",,,,,30 %,10 %,,,
-05 12 23.17,"Columns, Structural",8096.0,"10 to 24 tons, add",,,,,50 %,25 %,,,
-05 12 23.17,"Columns, Structural",8098.0,"2 to 9 tons, add",,,,,75 %,50 %,,,
-05 12 23.17,"Columns, Structural",8099.0,"Less than 2 tons, add",,,,,100 %,100 %,,,
+05 12 23.17,"Columns, Structural",8090.0,"For projects 75 to 99 tons, add",,,,,,10 %,,,
+05 12 23.17,"Columns, Structural",8092.0,"50 to 74 tons, add",,,,,,20 %,,,
+05 12 23.17,"Columns, Structural",8094.0,"25 to 49 tons, add",,,,,,30 %,10 %,,
+05 12 23.17,"Columns, Structural",8096.0,"10 to 24 tons, add",,,,,,50 %,25 %,,
+05 12 23.17,"Columns, Structural",8098.0,"2 to 9 tons, add",,,,,,75 %,50 %,,
+05 12 23.17,"Columns, Structural",8099.0,"Less than 2 tons, add",,,,,,100 %,100 %,,
 05 12 23.18,Corner Guards,10.0,CORNER GUARDS,,,,,,,,,
 05 12 23.18,Corner Guards,20.0,"Steel angle w/ anchors, 1"" x 1"" x 1/4"", 1.5 #/LF",2 Carp,160.0,0.1,LF,8,5.65,,13.65,17.2
 05 12 23.18,Corner Guards,100.0,"2"" x 2"" x 1/4"" angles, 3.2 #/LF",,150.0,0.107,,20.50,6,,26.5,31.5
 05 12 23.18,Corner Guards,200.0,"3"" x 3"" x 5/16"" angles, 6.1 #/LF",,140.0,0.114,,14,6.45,,20.45,25.0
 05 12 23.18,Corner Guards,300.0,"4"" x 4"" x 5/16"" angles, 8.2 #/LF",,120.0,0.133,,17,7.50,,24.5,30.0
-05 12 23.18,Corner Guards,350.0,"For angles drilled and anchored to masonry, add",,,,,15 %,120 %,,,
-05 12 23.18,Corner Guards,370.0,"Drilled and anchored to concrete, add",,,,,20 %,170 %,,,
-05 12 23.18,Corner Guards,400.0,"For galvanized angles, add",,,,,35 %,,,,
-05 12 23.18,Corner Guards,450.0,"For stainless steel angles, add",,,,,100 %,,,,
+05 12 23.18,Corner Guards,350.0,"For angles drilled and anchored to masonry, add",,,,,,15 %,120 %,,
+05 12 23.18,Corner Guards,370.0,"Drilled and anchored to concrete, add",,,,,,20 %,170 %,,
+05 12 23.18,Corner Guards,400.0,"For galvanized angles, add",,,,,,35 %,,,
+05 12 23.18,Corner Guards,450.0,"For stainless steel angles, add",,,,,,100 %,,,
 05 12 23.20,Curb Edging,10.0,CURB EDGING,,,,,,,,,
 05 12 23.20,Curb Edging,20.0,"Steel angle w/anchors, shop fabricated, on forms, 1"" x 1"", 0.8 #/LF",,350.0,0.091,LE,1.99,5.70,0.42,8.11,11.45
 05 12 23.20,Curb Edging,100.0,"2"" x 2"" angles, 3.92 #/LF",,330.0,0.097,,8.10,6.05,0.45,14.6,18.75
@@ -464,7 +464,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 12 23.20,Curb Edging,1300.0,"8"" channel, 11.5 #/LF",,225.0,0.142,,23.50,8.85,0.66,33.01,40.5
 05 12 23.20,Curb Edging,1400.0,"10"" channel, 15.3 #/LF",,180.0,0.178,,31,11.10,0.82,42.92,52.0
 05 12 23.20,Curb Edging,1500.0,"12"" channel, 20.7 #/LF",,140.0,0.229,,41.50,14.25,1.05,56.8,69.0
-05 12 23.20,Curb Edging,2000.0,"For curved edging, add",,,,,35 %,10 %,,,
+05 12 23.20,Curb Edging,2000.0,"For curved edging, add",,,,,,35 %,10 %,,
 05 12 23.40,0010 LIGHTWEIGHT FRAMING,400.0,"Angle framing, field fabricated, 4"" and larger",,,,,,,,,
 05 12 23.40,0010 LIGHTWEIGHT FRAMING,,,,,,,,,,,
 05 12 23.40,0010 LIGHTWEIGHT FRAMING,,,,,,,,,,,
@@ -588,7 +588,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 12 23.75,Structural Steel Members,600.0,W 10 x 12,,600,0.093,,21.5,5.7,4.13,31.33,37.5
 05 12 23.75,Structural Steel Members,620.0,x15,,600,1.093,,27.0,5.7,4.13,36.83,436
 05 12 23.75,Structural Steel Members,700.0,x22,,600,0.093,,39.5,5.7,4.13,49.33,57
-05 12 23.75,Structural Steel Members,720.0,x26,,600,0.093,,47.0,5.7,4.13,56.83,
+05 12 23.75,Structural Steel Members,720.0,x26,,600,0.093,,,47.0,5.7,4.13,56.83
 05 12 23.75,Structural Steel Members,740.0,x33,,550,0.102,,59.5,6.25,4.51,70.26,80
 05 12 23.75,Structural Steel Members,900.0,x49,,550,0.102,,88.0,6.25,4.51,98.76,111
 05 12 23.75,Structural Steel Members,1100.0,W 12 x 16,,880,0.064,,29.0,3.9,2.82,35.72,40.5
@@ -662,12 +662,12 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 12 23.75,Structural Steel Members,7900.0,x 231,,1125.0,0.071,,415,4.38,2.34,421.72,470.0
 05 12 23.75,Structural Steel Members,7920.0,x 262,,1035.0,0.077,,470,4.76,2.54,477.3,530.0
 05 12 23.75,Structural Steel Members,8100.0,x302,,1035.0,0.077,,545,4.76,2.54,552.3,610.0
-05 12 23.75,Structural Steel Members,8490.0,"For projects 75 to 99 tons, add",,,,,10%,,,,
-05 12 23.75,Structural Steel Members,8492.0,"50 to 74 tons, add",,,,,20%,,,,
-05 12 23.75,Structural Steel Members,8494.0,"25 to 49 tons, add",,,,,30%,10%,,,
-05 12 23.75,Structural Steel Members,8496.0,"10 to 24 tons, add",,,,,50%,25%,,,
-05 12 23.75,Structural Steel Members,8498.0,"2 to 9 tons, add",,,,,75%,50%,,,
-05 12 23.75,Structural Steel Members,8499.0,"Less than 2 tons, add",,,,,100%,100%,,,
+05 12 23.75,Structural Steel Members,8490.0,"For projects 75 to 99 tons, add",,,,,,10%,,,
+05 12 23.75,Structural Steel Members,8492.0,"50 to 74 tons, add",,,,,,20%,,,
+05 12 23.75,Structural Steel Members,8494.0,"25 to 49 tons, add",,,,,,30%,10%,,
+05 12 23.75,Structural Steel Members,8496.0,"10 to 24 tons, add",,,,,,50%,25%,,
+05 12 23.75,Structural Steel Members,8498.0,"2 to 9 tons, add",,,,,,75%,50%,,
+05 12 23.75,Structural Steel Members,8499.0,"Less than 2 tons, add",,,,,,100%,100%,,
 05 12 23.77,Structural Steel Projects,10.0,STRUCTURAL STEEL PROJECTS,,,,,,,,,
 05 12 23.77,Structural Steel Projects,15.0,Made from recycled materials,,,,,,,,,
 05 12 23.77,Structural Steel Projects,20.0,"Shop fab'd for 100 ton, 1-2 story project, bolted connections",,,,,,,,,
@@ -679,7 +679,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 12 23.77,Structural Steel Projects,800.0,3 to 6 stories,G E-6,14.4,8.889,,"3,350",545.0,204,"4,099","4,725"
 05 12 23.77,Structural Steel Projects,900.0,7 to 15 stories R051223-25,G -6,14.2,9.014,Ton,"3,400",555.0,207ངྒུ,"4,162","4,825"
 05 12 23.77,Structural Steel Projects,1000.0,Over 15 stories,G,13.9,9.209,,"3,525",565.0,211,"4,301","5,000"
-05 12 23.77,Structural Steel Projects,1100.0,"For multi-story masonry wall bearing construction, add R051223-30",G,,,,,,,30%,
+05 12 23.77,Structural Steel Projects,1100.0,"For multi-story masonry wall bearing construction, add R051223-30",G,,,,,,,,30%
 05 12 23.77,Structural Steel Projects,1300.0,"Industrial bldgs., 1 story, beams & girders, steel bearing",G E5,12.9,6.202,,"3,275",380.0,ཙ204,"3,859","4,400"
 05 12 23.77,Structural Steel Projects,14001.0,Masonry bearing,G E5,10.0,8.0,Ton,"3,275",495,263,"4,033","4,650"
 05 12 23.77,Structural Steel Projects,1500.0,"Industrial bldgs., 1 story, under 10 tons, steel from warehouse, trucked",G E2,7.5,7.467,Ton,"3,925",455,330,"4,710","5,400"
@@ -751,17 +751,17 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 12 23.78,Structural Steel Secondary,645.0,"10"" deep",,,0.889,,,55,18.10,73.10,104.0
 12 23.78,Structural Steel Secondary,650.0,"12"" deep",,40.0,,,,62,20.50,82.50,118.0
 12 23.78,Structural Steel Secondary,900.0,For less than 20 ton job lots,,,,,,,,,
-12 23.78,Structural Steel Secondary,905.0,"For 15 to 19 tons, add",,,,%,1.0,10%,,,
-12 23.78,Structural Steel Secondary,910.0,"For 10 to 14 tons, add",,,,,,25%,,,
-12 23.78,Structural Steel Secondary,915.0,"For 5 to 9 tons, add",,,,,,50%,50%,50%,
-12 23.78,Structural Steel Secondary,920.0,"For 1 to 4 tons, add",,,,,,75%,75%,75%,
-12 23.78,Structural Steel Secondary,925.0,"For less than 1 ton, add",,,,,,100%,100%,100%,
+12 23.78,Structural Steel Secondary,905.0,"For 15 to 19 tons, add",,,,%,,1.0,10%,,
+12 23.78,Structural Steel Secondary,910.0,"For 10 to 14 tons, add",,,,,,,25%,,
+12 23.78,Structural Steel Secondary,915.0,"For 5 to 9 tons, add",,,,,,,50%,50%,50%
+12 23.78,Structural Steel Secondary,920.0,"For 1 to 4 tons, add",,,,,,,75%,75%,75%
+12 23.78,Structural Steel Secondary,925.0,"For less than 1 ton, add",,,,,,,100%,100%,100%
 05 12 23.80,Subpurlins,10.0,SUBPURLINS,,,,,,,,,R051223-50
 05 12 23.80,Subpurlins,15.0,Made from recycled materials,,,,,,,,,
 05 12 23.80,Subpurlins,20.0,"Bulb tees, shop fabricated, painted, 32-5/8"" OC, 40 psf LL.",,,,,,,,,
 05 12 23.80,Subpurlins,200.0,"Type 218, max 10'-2"" span, 3.19 plf, 2-1/8"" high x 2-1/8"" wide",G E-1,3100.0,0.008,S.F.,1.78,.47,0.05,2.30,2.72
-05 12 23.80,Subpurlins,1420.0,"For 24-5/8"" spacing, add",,,,,,33%,,33%,
-05 12 23.80,Subpurlins,1430.0,"For 48-5/8"" spacing, deduct",,,,,,33%,,33%,
+05 12 23.80,Subpurlins,1420.0,"For 24-5/8"" spacing, add",,,,,,,33%,,33%
+05 12 23.80,Subpurlins,1430.0,"For 48-5/8"" spacing, deduct",,,,,,,33%,,33%
 05 14 23.05,Aluminum Shapes,10.0,ALUMINUM SHAPES,,,,,,,,,
 05 14 23.05,Aluminum Shapes,15.0,Made from recycled materials,,,,,,,,,
 05 14 23.05,Aluminum Shapes,20.0,"Structural shapes, 1"" to 10"" members, under 1 ton",55G55 E2,4000.0,0.014,Lb.,3.83,0.86,0.62,5.31,6.2
@@ -770,7 +770,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 14 23.05,Aluminum Shapes,300.0,"Extrusions, over 5 tons, stock shapes",,1330.0,0.042,,3.78,2.58,1.86,8.22,10.15
 05 14 23.05,Aluminum Shapes,400.0,Custom shapes,G,1330.0,0.042,,4.26,2.58,1.86,8.7,10.65
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,15.0,Made from recycled materials,,,,,,,,,
-05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,1500.0,"Thimbles, heavy duty, 1/4""",,5.555555555e-08,5555GG160GGGGGGG.100GGGGGGGEaG.GGGGGG,.48,6.30,,6.78,10.2,
+05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,1500.0,"Thimbles, heavy duty, 1/4""",,5.555555555e-08,5555GG160GGGGGGG.100GGGGGGGEaG.GGGGGG,.48,,6.30,,6.78,10.2
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,1510.0,"1/2""",,160.0,.100,,2.11,6.30,,8.41,12
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,1520.0,"3/4""",,105.0,.152 +8,,4.80,9.60,,14.40,20
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,1530.0,ין,E-17,52.0,.308,Ea .,9.60,19.35,,28.95,40.56
@@ -821,7 +821,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,2140.0,"1-1/4"" diameter",,7.0,2.286,,355,144,,499,610
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,2150.0,"1-1/2"" diameter",,6.0,2.667,,765,168,,933,"1,100"
 05 14 23.05,0010 ACCESSORIES FOR STEEL WIRE ROPE,2160.0,"1-3/4"" diameter",,2.8,5.714,,"1,025",360,,"1,385","1,675"
-05 14 23.05,Accessories for Steel Wire Rope,2170.0,"2"" diameter",5555555555E-17GGGG5555,8.0,Ea .,"1,250",505,,"1,755","2,150",
+05 14 23.05,Accessories for Steel Wire Rope,2170.0,"2"" diameter",5555555555E-17GGGG5555,8.0,Ea .,"1,250",,505,,"1,755","2,150"
 05 14 23.05,Accessories for Steel Wire Rope,2200.0,"Jaw & jaw turnbuckles, 1/4"" x 4""",,160.0,.100,,8.50,6.3,,14.80,19.05
 05 14 23.05,Accessories for Steel Wire Rope,2250.0,"1/2"" x 6""",,96.0,.167,,10.70,10.5,,21.20,28
 05 14 23.05,Accessories for Steel Wire Rope,2260.0,"1/2"" x 9""",,77.0,.208,,14.30,13.05,,27.35,35.50
@@ -845,32 +845,32 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 14 23.05,Accessories for Steel Wire Rope,2550.0,"2"" x 24""",,1.6,10,,"1,475",630.0,,"2,105","2,600"
 05 15 16.50,Steel Wire Rope,10.0,STEEL WIRE ROPE,,,,,,,,,
 05 15 16.50,Steel Wire Rope,15.0,Made from recycled materials,,,,,,,,,
-05 15 16.50,Steel Wire Rope,20.0,"6 x 19, bright, fiber core, 5000' rolls, 1/2"" diameter",555555GGGGGGGGGGGGGGGGG5555,,,LF .,0.67,,0.67,0.73,
-05 15 16.50,Steel Wire Rope,50.0,Steel core,,,,,0.88,,0.88,0.97,
-05 15 16.50,Steel Wire Rope,100.0,"Fiber core, 1"" diameter",,,,,2.25,,2.25,2.47,
-05 15 16.50,Steel Wire Rope,150.0,Steel core,,,,,2.56,,2.56,2.82,
-05 15 16.50,Steel Wire Rope,300.0,"6 x 19, galvanized, fiber core, 1/2"" diameter",,,,,0.98,,0.98,1.08,
-05 15 16.50,Steel Wire Rope,350.0,Steel core,,,,,1.12,,1.12,1.24,
-05 15 16.50,Steel Wire Rope,400.0,"Fiber core, 1"" diameter",,,,L.F.,2.88,,2.88,3.17,
-05 15 16.50,Steel Wire Rope,450.0,Steel core,,,,,3.02,,3.02,3.32,
-05 15 16.50,Steel Wire Rope,500.0,"6 x 7, bright, IPS, fiber core, <500 L.F.w/acc., 1/4"" dia",E 17,6400.0,0.003,,0.46,0.16,0.62,0.75,
-05 15 16.50,Steel Wire Rope,510.0,"1/2"" diameter",,2100.0,0.008,,1.12,0.48,1.6,1.97,
-05 15 16.50,Steel Wire Rope,520.0,"3/4"" diameter",,960.0,0.017,,2.03,1.05,3.08,3.84,
-05 15 16.50,Steel Wire Rope,550.0,"6 x 19, bright, IPS, IWRC, <500 L.F. w/acc, 1/4"" diameter",,5760.0,0.003,,0.74,0.17,0.91,1.08,
-05 15 16.50,Steel Wire Rope,560.0,"1/2"" diameter",,1730.0,0.009,,1.19,0.58,1.77,2.21,
-05 15 16.50,Steel Wire Rope,570.0,"3/4"" diameter",,770.0,0.021,,2.07,1.31,3.38,4.29,
-05 15 16.50,Steel Wire Rope,580.0,"1"" diameter",,420.0,0.038,,3.51,2.39,5.9,7.55,
-05 15 16.50,Steel Wire Rope,590.0,"1-1/4"" diameter",,290.0,0.055,,5.85,3.47,9.32,11.75,
-05 15 16.50,Steel Wire Rope,600.0,"1-1/2"" diameter",,192.0,0.083,,7.15,5.25,12.4,15.95,
+05 15 16.50,Steel Wire Rope,20.0,"6 x 19, bright, fiber core, 5000' rolls, 1/2"" diameter",555555GGGGGGGGGGGGGGGGG5555,,,LF .,,0.67,,0.67,0.73
+05 15 16.50,Steel Wire Rope,50.0,Steel core,,,,,,0.88,,0.88,0.97
+05 15 16.50,Steel Wire Rope,100.0,"Fiber core, 1"" diameter",,,,,,2.25,,2.25,2.47
+05 15 16.50,Steel Wire Rope,150.0,Steel core,,,,,,2.56,,2.56,2.82
+05 15 16.50,Steel Wire Rope,300.0,"6 x 19, galvanized, fiber core, 1/2"" diameter",,,,,,0.98,,0.98,1.08
+05 15 16.50,Steel Wire Rope,350.0,Steel core,,,,,,1.12,,1.12,1.24
+05 15 16.50,Steel Wire Rope,400.0,"Fiber core, 1"" diameter",,,,L.F.,,2.88,,2.88,3.17
+05 15 16.50,Steel Wire Rope,450.0,Steel core,,,,,,3.02,,3.02,3.32
+05 15 16.50,Steel Wire Rope,500.0,"6 x 7, bright, IPS, fiber core, <500 L.F.w/acc., 1/4"" dia",E 17,6400.0,0.003,,,0.46,0.16,0.62,0.75
+05 15 16.50,Steel Wire Rope,510.0,"1/2"" diameter",,2100.0,0.008,,,1.12,0.48,1.6,1.97
+05 15 16.50,Steel Wire Rope,520.0,"3/4"" diameter",,960.0,0.017,,,2.03,1.05,3.08,3.84
+05 15 16.50,Steel Wire Rope,550.0,"6 x 19, bright, IPS, IWRC, <500 L.F. w/acc, 1/4"" diameter",,5760.0,0.003,,,0.74,0.17,0.91,1.08
+05 15 16.50,Steel Wire Rope,560.0,"1/2"" diameter",,1730.0,0.009,,,1.19,0.58,1.77,2.21
+05 15 16.50,Steel Wire Rope,570.0,"3/4"" diameter",,770.0,0.021,,,2.07,1.31,3.38,4.29
+05 15 16.50,Steel Wire Rope,580.0,"1"" diameter",,420.0,0.038,,,3.51,2.39,5.9,7.55
+05 15 16.50,Steel Wire Rope,590.0,"1-1/4"" diameter",,290.0,0.055,,,5.85,3.47,9.32,11.75
+05 15 16.50,Steel Wire Rope,600.0,"1-1/2"" diameter",,192.0,0.083,,,7.15,5.25,12.4,15.95
 05 15 16.50,Steel Wire Rope,610.0,"1-3/4"" diameter",E-18,240.0,0.167,,11.4,10.35,3.4,25.15,32.0
 05 15 16.50,Steel Wire Rope,620.0,"2"" diameter",,160.0,0.25,,14.65,15.5,5.1,35.25,45.0
 05 15 16.50,Steel Wire Rope,630.0,"2-1/4"" diameter",,160.0,0.25,,19.6,15.5,5.1,40.2,50.5
-05 15 16.50,Steel Wire Rope,650.0,"6 x 37, bright, IPS, IWRC, <500 L.F. w/occ., 1/4"" dia",E 17,6400.0,0.003,,0.9,0.16,1.06,1.23,
-05 15 16.50,Steel Wire Rope,660.0,"1/2"" diameter",,1730.0,0.009,,1.52,0.58,2.1,2.57,
-05 15 16.50,Steel Wire Rope,670.0,"3/4"" diameter",,770.0,0.021,,2.46,1.31,3.77,4.71,
-05 15 16.50,Steel Wire Rope,680.0,"1"" diameter",,430.0,0.037,,3.9,2.34,6.24,7.9,
-05 15 16.50,Steel Wire Rope,690.0,"1-1/4"" diameter",,290.0,0.055,,5.9,3.47,9.37,11.85,
-05 15 16.50,Steel Wire Rope,700.0,"1-1/2"" diameter",,190.0,0.084,,8.4,5.3,13.7,17.4,
+05 15 16.50,Steel Wire Rope,650.0,"6 x 37, bright, IPS, IWRC, <500 L.F. w/occ., 1/4"" dia",E 17,6400.0,0.003,,,0.9,0.16,1.06,1.23
+05 15 16.50,Steel Wire Rope,660.0,"1/2"" diameter",,1730.0,0.009,,,1.52,0.58,2.1,2.57
+05 15 16.50,Steel Wire Rope,670.0,"3/4"" diameter",,770.0,0.021,,,2.46,1.31,3.77,4.71
+05 15 16.50,Steel Wire Rope,680.0,"1"" diameter",,430.0,0.037,,,3.9,2.34,6.24,7.9
+05 15 16.50,Steel Wire Rope,690.0,"1-1/4"" diameter",,290.0,0.055,,,5.9,3.47,9.37,11.85
+05 15 16.50,Steel Wire Rope,700.0,"1-1/2"" diameter",,190.0,0.084,,,8.4,5.3,13.7,17.4
 05 15 16.50,Steel Wire Rope,710.0,"1-3/4"" diameter",E 18,260.0,0.154,,13.4,9.55,3.14,26.09,33.0
 05 15 16.50,Steel Wire Rope,05 15 16.50,Steel Wire Rope,,,,,,,,,
 05 15 16.50,Steel Wire Rope,0720,"2"" diameter",UGUUUU5555E-18,200.0,200.0,LF,17.35,12.4,4.08,33.83,42.50
@@ -916,12 +916,12 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 15 16.50,Steel Wire Rope,3400,"72DLH14, 41 lb./L.F.",,2200.0,0.036,,49,2.24,1.26,52.50,59
 05 15 16.50,Steel Wire Rope,3420,"72DLH19, 70 lb./L.F.",,2200.0,0.036,,83.50,2.24,1.26,87,97
 05 15 16.50,Steel Wire Rope,3500,For less than 40-ton job lots,,,,,,,,,
-05 15 16.50,Steel Wire Rope,3502,"For 30 to 39 tons, add",,,,%,10 %,,,,
-05 15 16.50,Steel Wire Rope,3504,"20 to 29 tons, add",,,,,20 %,,,,
-05 15 16.50,Steel Wire Rope,3506,"10 to 19 tons, add",,,,,30 %,,,,
-05 15 16.50,Steel Wire Rope,3507,"5 to 9 tons, add",,,,,50 %,1.0,25 %,,
-05 15 16.50,Steel Wire Rope,3508,"1 to 4 tons, add",,,,,75 %,,50 %,,
-05 15 16.50,Steel Wire Rope,3509,"Less than 1 ton, add",,,,,100 %,,100 %,,
+05 15 16.50,Steel Wire Rope,3502,"For 30 to 39 tons, add",,,,%,,10 %,,,
+05 15 16.50,Steel Wire Rope,3504,"20 to 29 tons, add",,,,,,20 %,,,
+05 15 16.50,Steel Wire Rope,3506,"10 to 19 tons, add",,,,,,30 %,,,
+05 15 16.50,Steel Wire Rope,3507,"5 to 9 tons, add",,,,,,50 %,1.0,25 %,
+05 15 16.50,Steel Wire Rope,3508,"1 to 4 tons, add",,,,,,75 %,,50 %,
+05 15 16.50,Steel Wire Rope,3509,"Less than 1 ton, add",,,,,,100 %,,100 %,
 05 21 13.50,Deep Longspan Joists,4010,"SLH series, 40-ton job lots, bolted cross bridging, shop primer",,,,,,,,,
 05 21 13.50,Deep Longspan Joists,4040,Spans to 200 ' (shipped in 3 pieces),,13.0,6.154,Ton,"2,475",380,213.0,"3,068","3,550"
 05 21 13.50,Deep Longspan Joists,4200,"80SLH15, 40 lb./L.F.",,1500.0,0.053,LF.,49.50,3.29,1.85,54.64,61.50
@@ -937,12 +937,12 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 21 13.50,Deep Longspan Joists,4400,"120SLH20, 77 lb./L.F.",,1800.0,0.044,,95,2.74,1.54,99.28,111
 05 21 13.50,Deep Longspan Joists,4420,"120SLH25, 152 lb./L.F.",,1800.0,0.044,,188,2.74,1.54,192.28,212
 05 21 13.50,Deep Longspan Joists,6100,For less than 40 ton job lots,,,,,,,,,
-05 21 13.50,Deep Longspan Joists,6102,"For 30 to 39 tons, add",,,,,10 %,,,,
-05 21 13.50,Deep Longspan Joists,6104,"20 to 29 tons, add",,,,,20 %,,,,
-05 21 13.50,Deep Longspan Joists,6106,"10 to 19 tons, add",,,,,30 %,,,,
-05 21 13.50,Deep Longspan Joists,6107,"5 to 9 tons, add",,,,,50 %,25 %,,,
-05 21 13.50,Deep Longspan Joists,6108,"1 to 4 tons, add",,,,,75 %,50 %,,,
-05 21 13.50,Deep Longspan Joists,6109,"Less than 1 ton, add",,,,,100 %,100 %,,,
+05 21 13.50,Deep Longspan Joists,6102,"For 30 to 39 tons, add",,,,,,10 %,,,
+05 21 13.50,Deep Longspan Joists,6104,"20 to 29 tons, add",,,,,,20 %,,,
+05 21 13.50,Deep Longspan Joists,6106,"10 to 19 tons, add",,,,,,30 %,,,
+05 21 13.50,Deep Longspan Joists,6107,"5 to 9 tons, add",,,,,,50 %,25 %,,
+05 21 13.50,Deep Longspan Joists,6108,"1 to 4 tons, add",,,,,,75 %,50 %,,
+05 21 13.50,Deep Longspan Joists,6109,"Less than 1 ton, add",,,,,,100 %,100 %,,
 05 21 16.50,Longspan Joists,10,LONGSPAN JOISTS,,,,,,,,,
 05 21 16.50,Longspan Joists,2000,"LH series, 40-ton job lots, bolted cross bridging, shop primer",,,,,,,,,
 05 21 16.50,Longspan Joists,2015,Made from recycled materials,,,,,,,,,
@@ -966,68 +966,68 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 21 16.50,Longspan Joists,2520,"48LH11, 22 lb./L.F.",,2200.0,0.036,,23,2.24,1.26,26.50,30.50
 05 21 16.50,Longspan Joists,2540,"48LH16, 42 lb./LF.",,2200.0,0.036,,44,2.24,1.26,47.50,53.50
 05 21 16.50,Longspan Joists,2600,For less than 40-ton job lots,,,,,,,,,
-05 21 16.50,Longspan Joists,2602,"For 30 to 39 tons, add",,,,,10 %,,,,
-05 21 16.50,Longspan Joists,2604,"20 to 29 tons, add",,,,,20 %,,,,
-05 21 16.50,Longspan Joists,2606,"10 to 19 tons, add",,,,,30 %,,,,
-05 21 16.50,Longspan Joists,2607,"5 to 9 tons, add",,,,,50 %,25 %,,,
-05 21 16.50,Longspan Joists,2608,"1 to 4 tons, add",,,,,75 %,50 %,,,
-05 21 16.50,Longspan Joists,2609,"Less than 1 ton, add",,,,,100 %,100 %,,,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,50,"K series, 40-ton lots, horiz. bridging, spans to 30', shop primer 555555UGGGGE-7GGG555512",6.667,Ton,"1,850",410,231,"2,491","2,900",,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,130,"8K1, 5.1 lb./L.F.",1200.0,.067,L.F.,4.72,4.11 :,2.31,11.14,14.0,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,140,"10K1, 5.0 lb./L.F.",1200.0,.067,,4.63,4.11,2.31,11.05,13.9,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,160,"12K3, 5.7 lb./L.F.",1500.0,.053,,5.30,3.29,1.85,10.44,12.90,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,180,"14K3, 6.0 lb./L.F.",1500.0,.053,,5.55,3.29,1.85,10.69,13.20,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,200,"16K3, 6.3 lb./L.F.",1800.0,.044,,5.85,2.74,1.54,10.13,12.30,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,220,"16K6, 8.1 lb./L.F.",1800.0,.044,,7.50,2.74,1.54,11.78,14.1 !,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,240,"18K5, 7.7 lb./L.F.",2000.0,.040,,7.15,2.47,1.39,11.01,13.15,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,260,"18K9, 10.2 lb./L.F.",2000.0,.040,,9.45,2.47,1.39,13.31,15.70,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,440,"K series, 30' to 50' spans",17.0,4.706,Ton,"2,625",290,163,"3,078","3,500",
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,500,"20K5, 8.2 lb./L.F.",2000.0,.040,L.F. I,10.75,2.47,1.39,14.61,17.1,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,520,"20K9, 10.8 lb./L.F.",2000.0,.040,,14.15,2.47,1.39,18.01,21,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,540,"22K5, 8.8 lb./L.F.",2000.0,.040,,11.55,2.47,1.39,15.41,18,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,560,22K9; 11.3 lb./L.F.,2000.0,.040,,14.80,2.47,1.39,18.66,21.50,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,580,"24K6, 9.7 lb./L.F.",2200.0,.036,,12.70,2.24,1.26,16.20,18.81,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,600,"24K10, 13.1 lb./L.F.",2200.0,.036,,17.20,2.24,1.26,20.70,23.50,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,620,"26K6, 10.6 lb./L.F.",2200.0,.036,,13.90,2.24,1.26,17.40,20,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,640,"26K10, 13.8 lb./LF.",2200.0,.036,,18.10,2.24,1.26,21.60,24.50,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,660,"28K8, 12.7 lb./L.F.",2400.0,.033,,16.65,2.06,1.16,19.87,22.50,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,680,"28K12, 17.1 lb./L.F.",2400.0,.033,,22.50,2.06,1.16,25.72,29,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,700,"30K8, 13.2 lb./L.F.",2400.0,.033,,17.30,2.06,1.16,20.52,23.50,
-05 21 16.50,05 21 16 - Longspan Steel Joist Framing,720,"30K12, 17.6 lb./L.F.",2400.0,.033,,23,2.06,1.16,26.22,30,
-05 21 16.50,For less than 40-ton job lots,802,"For 30 to 39 tons, add",,,,,,,,10 %,
-05 21 16.50,For less than 40-ton job lots,804,"20 to 29 tons, add",,,,,,,,20 %,
-05 21 16.50,For less than 40-ton job lots,806,"10 to 19 tons, add",,,,,,,,30 %,
+05 21 16.50,Longspan Joists,2602,"For 30 to 39 tons, add",,,,,,10 %,,,
+05 21 16.50,Longspan Joists,2604,"20 to 29 tons, add",,,,,,20 %,,,
+05 21 16.50,Longspan Joists,2606,"10 to 19 tons, add",,,,,,30 %,,,
+05 21 16.50,Longspan Joists,2607,"5 to 9 tons, add",,,,,,50 %,25 %,,
+05 21 16.50,Longspan Joists,2608,"1 to 4 tons, add",,,,,,75 %,50 %,,
+05 21 16.50,Longspan Joists,2609,"Less than 1 ton, add",,,,,,100 %,100 %,,
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,50,"K series, 40-ton lots, horiz. bridging, spans to 30', shop primer 555555UGGGGE-7GGG555512",6.667,Ton,"1,850",410,,231,"2,491","2,900",
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,130,"8K1, 5.1 lb./L.F.",1200.0,.067,L.F.,4.72,,4.11 :,2.31,11.14,14.0
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,140,"10K1, 5.0 lb./L.F.",1200.0,.067,,4.63,,4.11,2.31,11.05,13.9
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,160,"12K3, 5.7 lb./L.F.",1500.0,.053,,5.30,,3.29,1.85,10.44,12.90
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,180,"14K3, 6.0 lb./L.F.",1500.0,.053,,5.55,,3.29,1.85,10.69,13.20
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,200,"16K3, 6.3 lb./L.F.",1800.0,.044,,5.85,,2.74,1.54,10.13,12.30
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,220,"16K6, 8.1 lb./L.F.",1800.0,.044,,7.50,,2.74,1.54,11.78,14.1 !
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,240,"18K5, 7.7 lb./L.F.",2000.0,.040,,7.15,,2.47,1.39,11.01,13.15
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,260,"18K9, 10.2 lb./L.F.",2000.0,.040,,9.45,,2.47,1.39,13.31,15.70
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,440,"K series, 30' to 50' spans",17.0,4.706,Ton,"2,625",,290,163,"3,078","3,500"
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,500,"20K5, 8.2 lb./L.F.",2000.0,.040,L.F. I,10.75,,2.47,1.39,14.61,17.1
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,520,"20K9, 10.8 lb./L.F.",2000.0,.040,,14.15,,2.47,1.39,18.01,21
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,540,"22K5, 8.8 lb./L.F.",2000.0,.040,,11.55,,2.47,1.39,15.41,18
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,560,22K9; 11.3 lb./L.F.,2000.0,.040,,14.80,,2.47,1.39,18.66,21.50
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,580,"24K6, 9.7 lb./L.F.",2200.0,.036,,12.70,,2.24,1.26,16.20,18.81
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,600,"24K10, 13.1 lb./L.F.",2200.0,.036,,17.20,,2.24,1.26,20.70,23.50
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,620,"26K6, 10.6 lb./L.F.",2200.0,.036,,13.90,,2.24,1.26,17.40,20
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,640,"26K10, 13.8 lb./LF.",2200.0,.036,,18.10,,2.24,1.26,21.60,24.50
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,660,"28K8, 12.7 lb./L.F.",2400.0,.033,,16.65,,2.06,1.16,19.87,22.50
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,680,"28K12, 17.1 lb./L.F.",2400.0,.033,,22.50,,2.06,1.16,25.72,29
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,700,"30K8, 13.2 lb./L.F.",2400.0,.033,,17.30,,2.06,1.16,20.52,23.50
+05 21 16.50,05 21 16 - Longspan Steel Joist Framing,720,"30K12, 17.6 lb./L.F.",2400.0,.033,,23,,2.06,1.16,26.22,30
+05 21 16.50,For less than 40-ton job lots,802,"For 30 to 39 tons, add",,,,,,,,,10 %
+05 21 16.50,For less than 40-ton job lots,804,"20 to 29 tons, add",,,,,,,,,20 %
+05 21 16.50,For less than 40-ton job lots,806,"10 to 19 tons, add",,,,,,,,,30 %
 05 21 16.50,For less than 40-ton job lots,807,"5 to 9 tons, add",,,,,,,,50 %,25 %
 05 21 16.50,For less than 40-ton job lots,808,"1 to 4 tons, add",,,,,,,,75 %,50 %
 05 21 16.50,For less than 40-ton job lots,809,"Less than 1 ton, add",,,,,,,,100 %,100 %
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1040,Spans to 30' G5555 E-7 : 12,6.667,Ton,"1,925",410,231,"2,566","2,975",,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1100,"10CS2, 7.5 lb./L.F.",1200.0,.067,LF.,7.20,4.11,2.31,13.62,16.75,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1120,"12CS2, 8.0 lb./LF.",1500.0,.053,,7.65,3.29,1.85,12.79,15.5,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1140,"14CS2, 8.0 lb./LF.",1500.0,.053,,7.65 :,3.29,1.85,12.79,15.5,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1160,"16CS2, 8.5 lb./L.F.",1800.0,.044,,8.15,2.74,1.54,12.43,14.85,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1180,"16CS4, 14.5 lb./LF. GGGGGGGGGGGG",1800.0,.044,,13.85,2.74,1.54,18.13,21.0,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1200,"18CS2, 9.0 lb./L.F.",2000.0,.040,,8.60,2.47,1.39,12.46,14.75,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1220,"18CS4, 15.0 lb./L.F.",2000.0,.040,,14.35,2.47,1.39,18.21,21.0,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1240,"20CS2, 9.5 lb./L.F.",2000.0,.040,,9.10,2.47,1.39,12.96,15.3,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1260,"20CS4, 16.5 lb./LF.",2000.0,.040,,15.80,2.47,1.39,19.66,22.5,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1280,"22CS2, 10.0 lb./L.F.",2000.0,.040,,9.55,2.47,1.39,13.41,15.8,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1300,"22CS4, 16.5 lb./L.F.",2000.0,.040,,15.80,2.47,1.39,19.66,22.5,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1320,"24CS2, 10.0 lb./L.F.",2200.0,.036,,9.55,2.24,1.26,13.05,15.3,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1340,"24CS4, 16.5 lb./L.F.",2200.0,.036,,15.80,2.24,1.26,19.30,22.0,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1360,"26CS2, 10.0 lb./L.F.",2200.0,.036,,9.55,2.24,1.26,13.05,15.3,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1380,"26CS4, 16.5 lb./L.F.",2200.0,.036,,15.80,2:24,1.26,19.30,22.0,
-05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1400,"28CS2, 10.5 lb./L.F.",2400.0,.033,,10.05,2.06,1.16,13.27,15.45,
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1040,Spans to 30' G5555 E-7 : 12,6.667,Ton,"1,925",410,,231,"2,566","2,975",
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1100,"10CS2, 7.5 lb./L.F.",1200.0,.067,LF.,7.20,,4.11,2.31,13.62,16.75
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1120,"12CS2, 8.0 lb./LF.",1500.0,.053,,7.65,,3.29,1.85,12.79,15.5
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1140,"14CS2, 8.0 lb./LF.",1500.0,.053,,7.65 :,,3.29,1.85,12.79,15.5
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1160,"16CS2, 8.5 lb./L.F.",1800.0,.044,,8.15,,2.74,1.54,12.43,14.85
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1180,"16CS4, 14.5 lb./LF. GGGGGGGGGGGG",1800.0,.044,,13.85,,2.74,1.54,18.13,21.0
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1200,"18CS2, 9.0 lb./L.F.",2000.0,.040,,8.60,,2.47,1.39,12.46,14.75
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1220,"18CS4, 15.0 lb./L.F.",2000.0,.040,,14.35,,2.47,1.39,18.21,21.0
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1240,"20CS2, 9.5 lb./L.F.",2000.0,.040,,9.10,,2.47,1.39,12.96,15.3
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1260,"20CS4, 16.5 lb./LF.",2000.0,.040,,15.80,,2.47,1.39,19.66,22.5
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1280,"22CS2, 10.0 lb./L.F.",2000.0,.040,,9.55,,2.47,1.39,13.41,15.8
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1300,"22CS4, 16.5 lb./L.F.",2000.0,.040,,15.80,,2.47,1.39,19.66,22.5
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1320,"24CS2, 10.0 lb./L.F.",2200.0,.036,,9.55,,2.24,1.26,13.05,15.3
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1340,"24CS4, 16.5 lb./L.F.",2200.0,.036,,15.80,,2.24,1.26,19.30,22.0
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1360,"26CS2, 10.0 lb./L.F.",2200.0,.036,,9.55,,2.24,1.26,13.05,15.3
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1380,"26CS4, 16.5 lb./L.F.",2200.0,.036,,15.80,,2:24,1.26,19.30,22.0
+05 21 16.50,05 21 19 - Open Web Steel Joist Framing,1400,"28CS2, 10.5 lb./L.F.",2400.0,.033,,10.05,,2.06,1.16,13.27,15.45
 9.10,Open Web Joists,1420,"28CS4, 16.5 lb./L.F.",5G5 E7,2400.0,0.033,LF,15.80,2.06,1.16,19.02,222.0
 9.10,Open Web Joists,1440,"30CS2, 11.0 lb./L.F.",G,2400.0,0.033,,10.50,2.06,1.16,13.72,16.0
 9.10,Open Web Joists,1460,"30CS4, 16.5 lb./L.F.",G,2400.0,0.033,V,15.80,2.06,1.16,19.02,22.0
 9.10,Open Web Joists,1500,For less than 40-ton job lots,,,,,,,,,
-9.10,Open Web Joists,1502,"For 30 to 39 tons, add",,,,,10 %,,,,
-9.10,Open Web Joists,1504,"20 to 29 tons, add",,,,,20 %,,,,
-9.10,Open Web Joists,1506,"10 to 19 tons, add",,,,,30 %,,,,
-9.10,Open Web Joists,1507,"5 to 9 tons, add",,,,,50 %,25 %,,,
-9.10,Open Web Joists,1508,"1 to 4 tons, add",,,,,75 %,50 %,,,
-9.10,Open Web Joists,1509,"Less than 1 ton, add",,,,,100 %,100 %,,,
-9.10,Open Web Joists,6200,"For shop prime paint other than mfrs. standard, add",,,,,20 %,,,,
+9.10,Open Web Joists,1502,"For 30 to 39 tons, add",,,,,,10 %,,,
+9.10,Open Web Joists,1504,"20 to 29 tons, add",,,,,,20 %,,,
+9.10,Open Web Joists,1506,"10 to 19 tons, add",,,,,,30 %,,,
+9.10,Open Web Joists,1507,"5 to 9 tons, add",,,,,,50 %,25 %,,
+9.10,Open Web Joists,1508,"1 to 4 tons, add",,,,,,75 %,50 %,,
+9.10,Open Web Joists,1509,"Less than 1 ton, add",,,,,,100 %,100 %,,
+9.10,Open Web Joists,6200,"For shop prime paint other than mfrs. standard, add",,,,,,20 %,,,
 9.10,Open Web Joists,6300,"For bottom chord extensions, add per chord",,,,Ea.,41,,,41.0,45.0
 9.10,Open Web Joists,6400,"Individual steel bearing plate, 6"" x 6"" x 1/4"" with J hook",1 Bric,160.0,0.05,,9.80,2.76,,12.56,14.95
 9.10,05 21 23 - Steel Joist Girder Framing,05 21 23.50,Joist Girders,,,,,,,,,
@@ -1035,24 +1035,24 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 9.10,05 21 23 - Steel Joist Girder Framing,0015,Made from recycled materials,,,,,,,,,
 9.10,05 21 23 - Steel Joist Girder Framing,7020,"Joist girders, 40-ton job lots, shop primer",G E5,13.0,6.154,Ton,"1,850",380,202.0,"2,432","2,850"
 9.10,05 21 23 - Steel Joist Girder Framing,7100,For less than 40-ton job lots,,,,,,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7102,"For 30 to 39 tons, add",,,,Ton,10 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7104,"20 to 29 tons, odd",,,,,20 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7106,"10 to 19 tons, add",,,,,30 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7107,"5 to 9 tons, add",,,,,50 %,25 %,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7108,"1 to 4 tons, add",,,,,75 %,50 %,,,
-9.10,05 21 23 - Steel Joist Girder Framing,7109,"Less than 1 ton, add",,,,,100 %,100 %,,39,
+9.10,05 21 23 - Steel Joist Girder Framing,7102,"For 30 to 39 tons, add",,,,Ton,,10 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,7104,"20 to 29 tons, odd",,,,,,20 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,7106,"10 to 19 tons, add",,,,,,30 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,7107,"5 to 9 tons, add",,,,,,50 %,25 %,,
+9.10,05 21 23 - Steel Joist Girder Framing,7108,"1 to 4 tons, add",,,,,,75 %,50 %,,
+9.10,05 21 23 - Steel Joist Girder Framing,7109,"Less than 1 ton, add",,,,,,100 %,100 %,,39
 9.10,05 21 23 - Steel Joist Girder Framing,8000,"Trusses, 40-ton job lots, shop fabricated WT chords, shop primer",G E5,11.0,7.273,,"6,100",450,239.0,"6,789","7,675"
 9.10,05 21 23 - Steel Joist Girder Framing,8100,For less than 40-ton job lots,,,,,,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,81021,"For 30 to 39 tons, add",,,,Ton,10 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,8104,"20 to 29 tons, add",,,,,20 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,8106,"10 to 19 tons, add",,,,,30 %,,,,
-9.10,05 21 23 - Steel Joist Girder Framing,8107,"5 to 9 tons, add",,,,,50 %,25 %,,,
-9.10,05 21 23 - Steel Joist Girder Framing,8108,"1 to 4 tons, add",,,,,75 %,50 %,,,
-9.10,05 21 23 - Steel Joist Girder Framing,8109,"Less than 1 ton, add",,,,,100 %,100 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,81021,"For 30 to 39 tons, add",,,,Ton,,10 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,8104,"20 to 29 tons, add",,,,,,20 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,8106,"10 to 19 tons, add",,,,,,30 %,,,
+9.10,05 21 23 - Steel Joist Girder Framing,8107,"5 to 9 tons, add",,,,,,50 %,25 %,,
+9.10,05 21 23 - Steel Joist Girder Framing,8108,"1 to 4 tons, add",,,,,,75 %,50 %,,
+9.10,05 21 23 - Steel Joist Girder Framing,8109,"Less than 1 ton, add",,,,,,100 %,100 %,,
 9.10,05 31 13 - Steel Floor Decking,05 31 13.50,Floor Decking,,,,,,,,,
 9.10,05 31 13 - Steel Floor Decking,0010,FLOOR DECKING R053100-10,,,,,,,,,
 9.10,05 31 13 - Steel Floor Decking,0015,Made from recycled materials,,,,,,,,,
-9.10,05 31 13 - Steel Floor Decking,5100,"Non-cellular composite decking, galvanized, 1-1/2"" deep, 16 ga.",55555555550000.0,3500.0,0.009,S.F.,4.57,0.57,0.04,5.18,
+9.10,05 31 13 - Steel Floor Decking,5100,"Non-cellular composite decking, galvanized, 1-1/2"" deep, 16 ga.",55555555550000.0,3500.0,0.009,S.F.,,4.57,0.57,0.04,5.18
 9.10,05 31 13 - Steel Floor Decking,5120,18 ga.,,3650.0,0.009,,2.82,0.55,0.04,3.41,3.98
 9.10,05 31 13 - Steel Floor Decking,5140,20 ga.,,3800.0,0.008,,3.33,0.53,0.04,3.9,4.51
 9.10,05 31 13 - Steel Floor Decking,5200,"2"" deep, 22 ga.",,3860.0,0.008,,2.25,0.52,0.04,2.81,3.32
@@ -1096,10 +1096,10 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 31 23.50,0010 ROOF DECKING,4500,"7-1/2"" deep, Type H, 18 ga., over 50 squares",,1690.0,0.019,,7.1,1.18,.09,8.37,9.7
 05 31 23.50,0010 ROOF DECKING,4600,16 ga.,,1590.0,0.02,,8.85,1.25,.09,10.19,11.75
 05 31 23.50,0010 ROOF DECKING,4700,14 ga.,,1490.0,0.021,,11.0,1.34,.10,12.44,14.2 %
-05 31 23.50,0010 ROOF DECKING,4800,"For painted instead of galvanized, deduct",,,,,,,,5%,
-05 31 23.50,0010 ROOF DECKING,5000,"For acoustical perforated with fiberglass insulation, add",,,,S.F.,,,,25%,
-05 31 23.50,0010 ROOF DECKING,5100,"For type F intermediate rib instead of type B wide rib, add",,,,,,,,25%,
-05 31 23.50,0010 ROOF DECKING,5150,"For type A narrow rib instead of type B wide rib, add",G,,,,,,,25%,
+05 31 23.50,0010 ROOF DECKING,4800,"For painted instead of galvanized, deduct",,,,,,,,,5%
+05 31 23.50,0010 ROOF DECKING,5000,"For acoustical perforated with fiberglass insulation, add",,,,S.F.,,,,,25%
+05 31 23.50,0010 ROOF DECKING,5100,"For type F intermediate rib instead of type B wide rib, add",,,,,,,,,25%
+05 31 23.50,0010 ROOF DECKING,5150,"For type A narrow rib instead of type B wide rib, add",G,,,,,,,,25%
 05 31 33.50,0010 FORM DECKING,6100,"Slab form, steel, 28 ga., 9/16"" deep, Type UFS, uncoated",555555555 E4,4000,0.008,S.F.,1.79,22552S,0.04,2.33,2.7 %
 05 31 33.50,0010 FORM DECKING,6200,Galvanized,G,4000,0.008,,1.58,.50,0.04,2.12,2.57%92452
 05 31 33.50,0010 FORM DECKING,6220,"24 ga., 1"" deep, Type UF1X, uncoated",G,3900,0.008,,1.74,.51,0.04,2.29,2.7
@@ -1131,9 +1131,9 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 31 33.50,05 35 13 Steel Cellular Decking,1100,18-18   ga.,G,1040,0.031,,11.75,1.92,0.14,13.81,16.05
 05 31 33.50,05 35 13 Steel Cellular Decking,1200,16-18  ga.,,980,0.033,,19.20,2.04,0.15,21.39,24.5
 05 31 33.50,05 35 13 Steel Cellular Decking,1300,16-16   ga.,G,935,0.034,,21,2.13,0.16,23.29,26.5
-05 31 33.50,05 35 13 Steel Cellular Decking,1500,"For acoustical  deck, add",,,,,15 %,,,,
-05 31 33.50,05 35 13 Steel Cellular Decking,1700,"For cells used  for ventilation, add",,,,,15 %,,,,
-05 31 33.50,05 35 13 Steel Cellular Decking,1900,"For multi story or congested site, add",,,,,,50 %,,,
+05 31 33.50,05 35 13 Steel Cellular Decking,1500,"For acoustical  deck, add",,,,,,15 %,,,
+05 31 33.50,05 35 13 Steel Cellular Decking,1700,"For cells used  for ventilation, add",,,,,,15 %,,,
+05 31 33.50,05 35 13 Steel Cellular Decking,1900,"For multi story or congested site, add",,,,,,,50 %,,
 05 31 33.50,05 35 13 Steel Cellular Decking,8000,"Metal deck and trench, 2"" thick, 20 ga., combination",,,,,,,,,
 05 31 33.50,05 35 13 Steel Cellular Decking,8010,"60 %  cellular, 40 %  non-cellular, inserts and trench",R-4,1100,0.036,S.F.,22.50,2.30,0.13,24.93,20.0
 05 41 13.05,Bracing,10,"BRACING, shear wall X-bracing, per 10' x 10' bay, one face",,,,,,,,,
@@ -1201,7 +1201,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 41 13.25,"Framing, Boxed Headers / Beams",310,"10"" deep",,170.0,0.094,,8.1,5.3,,13.4,16.80
 05 41 13.25,"Framing, Boxed Headers / Beams",320,"12"" deep",,160.0,0.1,,8.8,5.65,,14.45,18.0
 05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",400,"14 ga. x 10"" deep",G,2 Carp 140,0.114,LF,9.55,6.45,,16.0,2072222222.0
-05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",410,"12"" deep",G,130,0.123,,10.45,6.95,,17.4,
+05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",410,"12"" deep",G,130,0.123,,,10.45,6.95,,17.4
 05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",1210,"Triple, 18 ga. x 8"" deep",G,170,0.094,,8.55,5.3,,13.85,17.3
 05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",1220,"10"" deep",G,165,0.097,,10.3,5.45,,15.75,19.5
 05 41 13.25,"05 41 13. Stud Framing, Boxed Headers/Beams",1230,"12"" deep",,160,100.0,,11.3,5.65,,16.95,21.0
@@ -1213,7 +1213,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 41 13.30,"Framing, Stud Walls",10,"FRAMING, STUD WALLS w/ top & bottom track, no openings,",,,,,,,,,
 05 41 13.30,"Framing, Stud Walls",20,"Headers, beams, bridging or bracing",,,,,,,,,
 05 41 13.30,"Framing, Stud Walls",25,Made from recycled materials,,,,,,,,,
-05 41 13.30,"Framing, Stud Walls",4100,"8' high walls, 18 ga. x 2-1/2"" wide, studs 12"" OC",5G5555GG2GGCarpGGGGG54GGGGGGG,0.296,LF,8.0,16.7,,24.7,23422.0,
+05 41 13.30,"Framing, Stud Walls",4100,"8' high walls, 18 ga. x 2-1/2"" wide, studs 12"" OC",5G5555GG2GGCarpGGGGG54GGGGGGG,0.296,LF,8.0,,16.7,,24.7,23422.0
 05 41 13.30,"Framing, Stud Walls",4110,"16"" OC",,77.0,.208,,6.45,11.7,,18.15,24.5
 05 41 13.30,"Framing, Stud Walls",4120,"24"" OC",,107.0,.150,,4.88,8.4,,13.28,17.9
 05 41 13.30,"Framing, Stud Walls",4130,"3-5/8"" wide, studs 12"" OC",,53.0,.302,,9.55,17.0,,26.55,36.0
@@ -1251,7 +1251,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 41 13.30,"Framing, Stud Walls",5150,"24"" OC",,105.0,.152,,6.75,8.6,,15.35,20.0
 05 41 13.30,"Framing, Stud Walls",5160,"4"" wide, studs 12"" OC",,52.0,1.308,,11.7,17.3,,29.0,39.0
 05 41 13.30,"Framing, Stud Walls",5170,"16"" OC",,74.0,.216,,9.25,12.15,,21.4,28.5
-05 41 13.30,2022 Bare Costs,5180,"24"" OC",5G555555255CarpGGGGG103GGGGGG.155GGGGGGGLFGGGGGGGGGGG,6.85,8.75,,15.6,20.5,,,
+05 41 13.30,2022 Bare Costs,5180,"24"" OC",5G555555255CarpGGGGG103GGGGGG.155GGGGGGGLFGGGGGGGGGGG,6.85,8.75,,,15.6,20.5,,
 05 41 13.30,2022 Bare Costs,5190,"6"" wide, studs 12"" OC",G 2 Carp,51.0,0.314,LF,15.1,17.65,,32.75,43
 05 41 13.30,2022 Bare Costs,5200,"16"" OC",,73.0,0.219,,12.05,12.35,,24.4,31.5
 05 41 13.30,2022 Bare Costs,5210,"24"" OC",,101.0,0.158,,9.0,8.9,,17.9,23
@@ -1350,7 +1350,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 42 13.10,Bridging,460,"12"" wide",,50.0,0.16,,4.29,9.0,,13.29,18.1
 05 42 13.10,Bridging,550,"12 ga. track x 10"" wide",,45.0,0.178,,5.45,10.0,,15.45,21.0
 05 42 13.10,Bridging,560,"12"" wide",,40.0,0.2,,5.75,11.25,,17.0,23.0
-05 42 13.10,05 42 13 Cold-Formed Metal Floor Joist Framing,1230,"16"" OC, 18 ga. track x 6"" wide",55555GGGG1GCarpGGGGGG80GGG,0.1,Ea.,1.96,5.65,,7.61,10.5,
+05 42 13.10,05 42 13 Cold-Formed Metal Floor Joist Framing,1230,"16"" OC, 18 ga. track x 6"" wide",55555GGGG1GCarpGGGGGG80GGG,0.1,Ea.,1.96,,5.65,,7.61,10.5
 05 42 13.10,05 42 13 Cold-Formed Metal Floor Joist Framing,1240,"8"" wide",,75.0,.107,,2.41,6.0,,8.41,11.6
 05 42 13.10,05 42 13 Cold-Formed Metal Floor Joist Framing,1250,"10"" wide",,70.0,.114,,33.07,6.45,,9.52,13
 05 42 13.10,05 42 13 Cold-Formed Metal Floor Joist Framing,1260,"12"" wide",,65.0,.123,,3.42,6.95,,10.37,14.C
@@ -1449,7 +1449,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 42 13.45,"Framing, Web Stiffeners",2140,"4"" stud",,105.0,0.076,,0.97,4.29,,5.26,7.45
 05 42 13.45,"Framing, Web Stiffeners",2150,"6"" stud",,100.0,0.08,,1.22,4.5,,5.72,8.05
 05 42 13.45,"Framing, Web Stiffeners",2160,"8"" stud",,95.0,0.084,,1.63,4.74,,6.37,8.85
-05 42 13.45,"Joisting, Web Stiffeners",2220,"8"" deep joist, with 2-1/2"" stud",5G5555UU1UUCarpGGGÜÜ120ÜGGGGG.067GGGGGGGGEaG.GGGGGG,1.05,3.75,,4.8,6.7,,,
+05 42 13.45,"Joisting, Web Stiffeners",2220,"8"" deep joist, with 2-1/2"" stud",5G5555UU1UUCarpGGGÜÜ120ÜGGGGG.067GGGGGGGGEaG.GGGGGG,1.05,3.75,,,4.8,6.7,,
 05 42 13.45,"Joisting, Web Stiffeners",2230,"3-5/8"" stud",,110.0,0.073,,1.25,4.09,,5.34,7.4
 05 42 13.45,"Joisting, Web Stiffeners",2240,"4"" stud",,105.0,0.076,,1.3,4.29,,5.59,7.8
 05 42 13.45,"Joisting, Web Stiffeners",2250,"6"" stud",,100.0,0.08,,1.63,4.5,,6.13,8.5
@@ -1548,18 +1548,18 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 42 23.60,"Framing, Roof Rafters",110,"8"" deep",,150.0,0.107,,5.65,6.0,,11.65,15.15
 05 42 23.60,"Framing, Roof Rafters",120,"10"" deep",,140.0,0.114,,7.25,6.45,,13.7,17.55
 05 42 23.60,"Framing, Roof Rafters",130,"12"" deep",,130.0,123.0,,7.9,6.95,,14.85,19.0
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,200,"16 ga. x 6"" deep",5G55555525Carp,150.0,0.107,LF,5.7,6,,11.7,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,200,"16 ga. x 6"" deep",5G55555525Carp,150.0,0.107,LF,,5.7,6,,11.7
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,210,"8"" deep",,140.0,0.114,,6.55,6.45,,13.0,1
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,220,"10"" deep",,130.0,0.123,,8.1,6.95,,15.05,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,230,"12"" deep",,120.0,0.133,,8.8,7.50,,16.3,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1100,"Rafters, 2"" flange, material only, 18 ga. x 6"" deep",,,,,1.84,,,1.84,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,220,"10"" deep",,130.0,0.123,,,8.1,6.95,,15.05
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,230,"12"" deep",,120.0,0.133,,,8.8,7.50,,16.3
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1100,"Rafters, 2"" flange, material only, 18 ga. x 6"" deep",,,,,,1.84,,,1.84
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1110,"8"" deep",,,,,1.94,,,1.94,:
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1120,"10"" deep",,,,,2.31,,,2.31,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1130,"12"" deep",,,,,2.66,,,2.66,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1200,"16 ga. x 6"" deep",,,,,1.98,,,1.98,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1210,"8"" deep",,,,L4F,2.43,,,2.43,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1220,"10"" deep",,,,,2.77,,,2.77,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1230,"12"" deep",,,,,3.13,,,3.13,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1120,"10"" deep",,,,,,2.31,,,2.31
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1130,"12"" deep",,,,,,2.66,,,2.66
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1200,"16 ga. x 6"" deep",,,,,,1.98,,,1.98
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1210,"8"" deep",,,,L4F,,2.43,,,2.43
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1220,"10"" deep",,,,,,2.77,,,2.77
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,1230,"12"" deep",,,,,,3.13,,,3.13
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2100,"Installation only, ordinary rafter to 4:12 pitch, 18 ga. x 6"" deep",2 Carp,35.0,0.457,Eo.,,25.50,,225.5046,38
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2110,"8"" deep",,30.0,0.533,,,30,,30.0,44
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2120,"10"" deep",,25.0,0.64,,,36,,361.0,53
@@ -1568,23 +1568,23 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2210,"8"" deep",,25.0,0.64,,,36,,,53
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2220,"10"" deep",,20.0,0.8,,,45,,45.0,67
 05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,2230,"12"" deep",,15.0,1.067,,,60,,60.0,89
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8100,"Add to labor, ordinary rafters on steep roofs",,,,,,25 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8110,Dormers & complex roofs,,,,,,50 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8200,Hip & valley rafters to 4:12 pitch,,,,,,25 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8210,Steep roofs,,,,,,50 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8220,Dormers & complex roofs,,,,,,75 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8300,Hip & valley jack rafters to 4:12 pitch,,,,,,50 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8310,Steep roofs,,,,,,75 %,,,
-05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8320,Dormers & complex roofs,,,,,,100 %,,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8100,"Add to labor, ordinary rafters on steep roofs",,,,,,,25 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8110,Dormers & complex roofs,,,,,,,50 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8200,Hip & valley rafters to 4:12 pitch,,,,,,,25 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8210,Steep roofs,,,,,,,50 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8220,Dormers & complex roofs,,,,,,,75 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8300,Hip & valley jack rafters to 4:12 pitch,,,,,,,50 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8310,Steep roofs,,,,,,,75 %,,
+05 42 23.60,05 42 23 - Cold-Formed Metal Roof Joist Framing,8320,Dormers & complex roofs,,,,,,,100 %,,
 05 42 23.70,"Framing, Soffits and Canopies",10,"FRAMING, SOFFITS & CANOPIES",,,,,,,,,
 05 42 23.70,"Framing, Soffits and Canopies",15,Made from recycled materials,,,,,,,,,
 05 42 23.70,"Framing, Soffits and Canopies",130,"Continuous ledger track @wall, studs @ 16"" OC, 18 ga. x 4"" wide",5G5555GG2 Carp,535.0,0.03,LF,0.89,1.68,,2.57,34452334
-05 42 23.70,"Framing, Soffits and Canopies",140,"6"" wide",,500.0,0.032,,1.31,1.8,,3.11,
-05 42 23.70,"Framing, Soffits and Canopies",150,"8"" wide",,465.0,0.034,,1.61,1.94,,3.55,
+05 42 23.70,"Framing, Soffits and Canopies",140,"6"" wide",,500.0,0.032,,,1.31,1.8,,3.11
+05 42 23.70,"Framing, Soffits and Canopies",150,"8"" wide",,465.0,0.034,,,1.61,1.94,,3.55
 05 42 23.70,"Framing, Soffits and Canopies",160,"10"" wide",,430.0,0.037,,2.05,2.09,,4.14,5 .
-05 42 23.70,"Framing, Soffits and Canopies",230,"Studs @ 24"" OC, 18 ga. x 4"" wide",,800.0,0.02,,0.85,1.13,,1.98,
+05 42 23.70,"Framing, Soffits and Canopies",230,"Studs @ 24"" OC, 18 ga. x 4"" wide",,800.0,0.02,,,0.85,1.13,,1.98
 05 42 23.70,"Framing, Soffits and Canopies",240,"6"" wide",,750.0,0.021,,1.25,1.2,,2.45,3.
-05 42 23.70,"Framing, Soffits and Canopies",250,"8"" wide",,700.0,0.023,,1.53,1.29,,2.82,
+05 42 23.70,"Framing, Soffits and Canopies",250,"8"" wide",,700.0,0.023,,,1.53,1.29,,2.82
 05 42 23.70,"Framing, Soffits and Canopies",260,"10"" wide",,650.0,0.025,,1.95,1.39,,3.34,4 .
 05 42 23.70,"Framing, Soffits and Canopies",1000,"Horizontal soffit and canopy members, material only",,,,,,,,,
 05 42 23.70,"Framing, Soffits and Canopies",1030,"1-5/8"" flange studs, 18 ga. x 4"" deep",555555,,,L.F.,1.16,,,1.16,11222
@@ -1604,7 +1604,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 44 13.60,"Framing, Roof Trusses",10,"FRAMING, ROOF TRUSSES",,,,,,,,,
 05 44 13.60,"Framing, Roof Trusses",15,Made from recycled materials,,,,,,,,,
 05 44 13.60,"Framing, Roof Trusses",20,"Fabrication of trusses on ground, Fink (W) or King Post, to 4:12 pitch",,,,,,,,,
-05 44 13.60,"Framing, Roof Trusses",120,"18 ga. x 4"" chords, 16' span",5G5555GGG2GCarpGGGGGG125555,1.333,Eq.,54.50,75.0,,129.5,172.0,
+05 44 13.60,"Framing, Roof Trusses",120,"18 ga. x 4"" chords, 16' span",5G5555GGG2GCarpGGGGGG125555,1.333,Eq.,54.50,,75.0,,129.5,172.0
 05 44 13.60,"Framing, Roof Trusses",130,20' span,,11.0,1.455,,68.0,82.0,,150.0,197.0
 05 44 13.60,"Framing, Roof Trusses",140,24' span,,11.0,1.455,,81.5,82.0,,163.5,212.0
 05 44 13.60,"Framing, Roof Trusses",150,28' span,,10.0,1.600,,95.0,90.0,,185.0,239.0
@@ -1665,12 +1665,12 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 51 16.50,Floor Plate Stairs,400,"Cast iron tread and pipe rail, 3'-6"" wide",55G E-4,35.0,0.914,Riser,540.0,57,4.21,601.21,69
 05 51 16.50,Floor Plate Stairs,500,"Checkered plate tread, industrial, 3'-6"" wide",G,28.0,1.143,,310.0,71.50,5.25,386.75,455
 05 51 16.50,Floor Plate Stairs,550,"Circular, for tanks, 3'-0"" wide",G,33.0,0.97,,350.0,60.50,4.47,414.97,48
-05 51 16.50,Floor Plate Stairs,600,"For isolated stairs, add",,,,Riser,,100 %,,,
+05 51 16.50,Floor Plate Stairs,600,"For isolated stairs, add",,,,Riser,,,100 %,,
 05 51 16.50,Floor Plate Stairs,800,"Custom steel stairs, 3-6"" wide, economy",55G E-4,35.0,0.914,,475.0,57,4.21,536.21,61
 05 51 16.50,Floor Plate Stairs,810,Medium priced,G,30.0,1.067,,625.0,66.50,4.92,696.42,79
 05 51 16.50,Floor Plate Stairs,900,Deluxe,G,20.0,1.6,,785.0,100,7.40,892.4,"1,02"
-05 51 16.50,Floor Plate Stairs,1100,"For 4' wide stairs, add",,,,,,5%,5%,,
-05 51 16.50,Floor Plate Stairs,1300,"For 5' wide stairs, add",,,,,,10 %,10%,,
+05 51 16.50,Floor Plate Stairs,1100,"For 4' wide stairs, add",,,,,,,5%,5%,
+05 51 16.50,Floor Plate Stairs,1300,"For 5' wide stairs, add",,,,,,,10 %,10%,
 05 51 19.50,Grating Stairs,10,"GRATING STAIRS, shop fabricated, steel stringers, safety nosing on treads",,,,,,,,,
 05 51 19.50,Grating Stairs,15,Made from recycled materials,,,,,,,,,
 05 51 19.50,Grating Stairs,20,"Grating tread and pipe railing, 3'-6"" wide",G E4,35.0,0.914,Riser,370.0,57.0,4.21,431.21,50.0
@@ -1680,7 +1680,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 51 23.25,Fire Escapes,400,"1st story cantilevered stair, standard, with railing",G,0.5,32.0,Ea.,"2,225","1,975",,"4,200","5,50"
 05 51 23.25,Fire Escapes,500,"Cable counterweighted, with railing",G,0.4,40.0,,"2,125","2,475",,"4,600","6,15"
 05 51 23.25,Fire Escapes,700,"36"" x 40"" platform & fixed stair, with railing",G,0.4,40.0,Flight,985,"2,475",,"3,460","4,87"
-05 51 23.25,Fire Escapes,900,"For 3'-6"" wide escapes, add to above",,,,,100 %,150 %,,,
+05 51 23.25,Fire Escapes,900,"For 3'-6"" wide escapes, add to above",,,,,,100 %,150 %,,
 05 51 23.50,Fire Escape Stairs,10,"FIRE ESCAPE STAIRS, portable",,,,,,,,,
 05 51 23.50,Fire Escape Stairs,100,Portable ladder,,,,Ea.,126.0,,,126.0,139.0
 05 51 33.13,Vertical Metal Ladders,10,"VERTICAL METAL LADDERS, shop fabricated",,,,,,,,,
@@ -1766,23 +1766,23 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",2005,attached handrail on brackets,,,,,,,,,
 05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",2010,"42"" high aluminum, satin finish, straight & level",G5 E4,120.0,0.267,LF,415,16.65,1.23,432.88,480.0
 05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",2050,"42"" high steel, primed, straight & level",,120.0,0.267,,157,16.65,1.23,174.88,199.0
-05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",4000,"For curved and level rails, add",,,,,10 %,10 %,,,
-05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",4100,"For sloped rails for stairs, add",,,,,30 %,30 %,,,
+05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",4000,"For curved and level rails, add",,,,,,10 %,10 %,,
+05 52 13.50,"0010 RAILINGS, PIPE, shop fab'd, 3'-6"" high, posts @ 5' OC",4100,"For sloped rails for stairs, add",,,,,,30 %,30 %,,
 05 52 16.50,"Railings, Industrial",10,"RAILINGS, INDUSTRIAL, shop fab'd, 3'-6"" high, posts @ 5' OC",,,,,,,,,
 05 52 16.50,"Railings, Industrial",20,"2 rail, 3' 6"" high, 1-1/2"" pipe",G E4,255.0,0.125,LE,43.0,7.8,0.58,51.38,59.56
 05 52 16.50,"Railings, Industrial",100,"2"" angle rail","G """,255.0,0.125,,38.5,7.8,0.58,46.88,55.0
 05 52 16.50,Table: Metal Railings & Gratings,05 52 16.50,"Railings, Industrial",,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0200,"For 4"" high kick plate, 10 ga., add",G,,,L.F.,6.05,,,6.05,6.65
 05 52 16.50,Table: Metal Railings & Gratings,0300,"1/4"" thick, add",G,,,,7.90,,,7.9,8.7
-05 52 16.50,Table: Metal Railings & Gratings,0500,"For curved level rail, add",,,,,10%,,10%,,
-05 52 16.50,Table: Metal Railings & Gratings,0550,"For sloped rails for stairs, add",,,,,30%,,30%,,
+05 52 16.50,Table: Metal Railings & Gratings,0500,"For curved level rail, add",,,,,,10%,,10%,
+05 52 16.50,Table: Metal Railings & Gratings,0550,"For sloped rails for stairs, add",,,,,,30%,,30%,
 05 52 16.50,Table: Metal Railings & Gratings,05 53,Metal Gratings,,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,05 53 13,Bar Gratings,,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,05 53 13.10,"Floor Grating, Aluminum",,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0010,"FLOOR GRATING, ALUMINUM, field fabricated from panels",,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0015,Made from recycled materials,,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0110,"Bearing bars @ 1-3/16"" OC, cross bars @ 4"" OC",,,,,,,,,
-05 52 16.50,Table: Metal Railings & Gratings,0111,"Up to 300 S.F., 1"" x 1/8"" bar",05555555555E4GGGG555900,0.036,S.F.,25.50,2.22,61652525.0,27.88,32.0,
+05 52 16.50,Table: Metal Railings & Gratings,0111,"Up to 300 S.F., 1"" x 1/8"" bar",05555555555E4GGGG555900,0.036,S.F.,25.50,,2.22,61652525.0,27.88,32.0
 05 52 16.50,Table: Metal Railings & Gratings,0112,Over 300 S.F.,850,1.038,,S.F.,23.50,2.35,.17,26.02,29.5
 05 52 16.50,Table: Metal Railings & Gratings,0113,"1-1/4"" x 1/8"" bar, up to 300 S.F.",800,0.04,,S.F.,21.50,2.49,.18,24.17,27.5
 05 52 16.50,Table: Metal Railings & Gratings,0114,Over 300 S.F.,1000,0.032,,S.F.,19.40,2.0,,21.55,24.5
@@ -1815,14 +1815,14 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 52 16.50,Table: Metal Railings & Gratings,1700,"1-1/4"" deep, 2.9 #/S.F.",1000,0.032,,S.F.,37.50,2.0,.15,39.65,44.0
 05 52 16.50,Table: Metal Railings & Gratings,1800,"1-3/4"" deep, 4.2 #/S.F.",G,925.0,.035,S.F.,43.50,2.16,.16,45.82,51.0
 05 52 16.50,Table: Metal Railings & Gratings,1900,"2-1/4"" deep, 5.0 #/S.F.",G,875.0,.037,S.F.,70,2.28,.17,72.45,80.5
-05 52 16.50,Table: Metal Railings & Gratings,2100,"For safety serrated surface, add",,,,,15%,,,,
+05 52 16.50,Table: Metal Railings & Gratings,2100,"For safety serrated surface, add",,,,,,15%,,,
 05 52 16.50,Table: Metal Railings & Gratings,05 53 13.70,"Floor Grating, Steel",,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0010,"FLOOR GRATING, STEEL, field fabricated from panels",,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0015,Made from recycled materials,,,,,,,,,
 05 52 16.50,Table: Metal Railings & Gratings,0300,"Platforms, to 12' high, rectangular",G E4,3150.0,.010,Lb.,2.13,0.63,.05,2.81,3.37
 05 52 16.50,Table: Metal Railings & Gratings,0400,Circular,"G """,2300.0,.014,,4.11,0.87,.06,5.04,5.95
 05 52 16.50,Table: Metal Railings & Gratings,0410,"Painted bearing bars @ 1-3/16""",,,,,,,,,
-05 52 16.50,"05 53 Gratings Floor Grating, Steel",412,"Cross bars @ 4"" OC, 3/4"" x 1/8"" bar, up to 300 S.F.",,112,S.F.,9,6.85,4.96,20.81,26.0,
+05 52 16.50,"05 53 Gratings Floor Grating, Steel",412,"Cross bars @ 4"" OC, 3/4"" x 1/8"" bar, up to 300 S.F.",,112,S.F.,9,,6.85,4.96,20.81,26.0
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",414,Over 300 S.F.,,750,.075,,8.20,4.57,3.31,16.08,19.6
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",422,"1-1/4"" x 3/16"", up to 300 S.F.",,400,.140,,13.85,8.55,6.2,28.6,35.0
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",424,Over 300 S.F.,,600,.093,,12.60,5.7,4.13,22.43,27.0
@@ -1842,7 +1842,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",488,Over 300 S.F.,,600 1.093,,,282,5.7,4.13,37.83,44.5
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",502,"2-1/4"" x 3/16"", up to 300 S.F.",,300,.187,,29,11.45,8.25,48.7,58.5
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",504,Over 300 S.F.,,450,.124,,24,7.6,5.5,37.1,44.0
-05 52 16.50,"05 53 Gratings Floor Grating, Steel",690,"For galvanized grating, add",,,,,25%,,,,
+05 52 16.50,"05 53 Gratings Floor Grating, Steel",690,"For galvanized grating, add",,,,,,25%,,,
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",800,"For straight cuts, add",,,,LF,6.50,,,6.5,7.1
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",900,"For curved cuts, add",,,,,8.25,,,8.25,9.1
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",1000,"For straight banding, add",555555,,,,7.05,,,7.05,7.7
@@ -1852,8 +1852,8 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",1400,"For curved toe or kick plate, add",,,,,16.40,,,16.4,18.0
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",1500,"For abrasive nosings, add",,,,,10.75,,,10.75,11.8
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",1510,"For stair treads, see Section 05 55 13.50",,,,,,,,,
-05 52 16.50,"05 53 Gratings Floor Grating, Steel",1600,"For safety serrated surface, bearing bars @ 1-3/16"" OC, add",,,,,15%,,,,
-05 52 16.50,"05 53 Gratings Floor Grating, Steel",1700,"Bearing bars @ 15/16"" OC, add",,,,,25%,,,,
+05 52 16.50,"05 53 Gratings Floor Grating, Steel",1600,"For safety serrated surface, bearing bars @ 1-3/16"" OC, add",,,,,,15%,,,
+05 52 16.50,"05 53 Gratings Floor Grating, Steel",1700,"Bearing bars @ 15/16"" OC, add",,,,,,25%,,,
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",2000,"Stainless steel gratings, close spaced, 1"" x 1/8"" bars, up to 300 S.F.",55G E-4,450,.071,S.F.,53.50,4.43,0.33,58.26,66.0
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",2100,"Standard spacing, 3/4"" x 1/8"" bars",,500,.064,,104,3.99,0.3,108.29,120.0
 05 52 16.50,"05 53 Gratings Floor Grating, Steel",2200,"1-1/4"" x 3/16"" bars",G,400,.080,,129,4.99,0.37,134.36,150.0
@@ -1895,46 +1895,46 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 54 13.70,Trench Covers,400,"10"" opening",,170.0,188.0,,34,11.75,0.87,46.62,56.5
 05 54 13.70,Trench Covers,500,"16"" opening",,155.0,0.206,,39,12.85,0.95,52.8,63.5
 05 54 13.70,Trench Covers,700,"Add per inch for additional widths to 24""",,,,,1.70,,,1.7,1.87
-05 54 13.70,Trench Covers,900,"For custom fabrication, add",,,,,50%,,,,
-05 54 13.70,Trench Covers,1100,"For 1/4"" plain cover plate, deduct",,,,,12%,,,,
-05 54 13.70,Trench Covers,1500,"For cover recessed for tile, 1/4"" thick, deduct",,,,,12%,,,,
-05 54 13.70,Trench Covers,1600,"3/8"" thick, add",,,,,5%,,,,
-05 54 13.70,Trench Covers,1800,"For checkered plate cover, 1/4"" thick, deduct",,,,,12%,,,,
-05 54 13.70,Trench Covers,1900,"3/8"" thick, add",,,,,2%,,,,
-05 54 13.70,Trench Covers,2100,"For slotted or round holes in cover, 1/4"" thick, add",,,,,3%,,,,
-05 54 13.70,Trench Covers,2200,"3/8"" thick, add",,,,,4%,,,,
-05 54 13.70,Trench Covers,2300,"For abrasive cover, add",,,,,12%,,,,
+05 54 13.70,Trench Covers,900,"For custom fabrication, add",,,,,,50%,,,
+05 54 13.70,Trench Covers,1100,"For 1/4"" plain cover plate, deduct",,,,,,12%,,,
+05 54 13.70,Trench Covers,1500,"For cover recessed for tile, 1/4"" thick, deduct",,,,,,12%,,,
+05 54 13.70,Trench Covers,1600,"3/8"" thick, add",,,,,,5%,,,
+05 54 13.70,Trench Covers,1800,"For checkered plate cover, 1/4"" thick, deduct",,,,,,12%,,,
+05 54 13.70,Trench Covers,1900,"3/8"" thick, add",,,,,,2%,,,
+05 54 13.70,Trench Covers,2100,"For slotted or round holes in cover, 1/4"" thick, add",,,,,,3%,,,
+05 54 13.70,Trench Covers,2200,"3/8"" thick, add",,,,,,4%,,,
+05 54 13.70,Trench Covers,2300,"For abrasive cover, add",,,,,,12%,,,
 05 55 13.50,Stair Treads,3000,"Diamond plate treads, steel, 1/8"" thick",,,,,,,,,
 05 55 13.50,Stair Treads,3005,"Open riser, black enamel",,,,,,,,,
 05 55 13.50,Stair Treads,3010,"9"" deep x 36"" long",555555GG2GGSswk,48,0.333,Ea .,114.0,20.5,,134.5,1
-05 55 13.50,Stair Treads,3020,"42"" long",,48,0.333,,120.0,20.5,,140.5,
+05 55 13.50,Stair Treads,3020,"42"" long",,48,0.333,,,120.0,20.5,,140.5
 05 55 13.50,Stair Treads,3030,"48"" long",,48,0.333,,125.0,20.5,,145.5,17
 05 55 13.50,Stair Treads,3040,"11"" deep x 36"" long",,44,0.364,,120.0,22.5,,142.5,16
 05 55 13.50,Stair Treads,3050,"42"" long",,44,0.364,,127.0,22.5,,149.5,12222222
 05 55 13.50,Stair Treads,3060,"48"" long",,44,0.364,,135.0,22.5,,157.5,18
 05 55 13.50,Stair Treads,3110,"Galvanized, 9"" deep x 36"" long",,48,0.333,,180.0,20.5,,200.5,23
 05 55 13.50,Stair Treads,3120,"42"" long",,48,0.333,,191.0,20.5,,211.5,24
-05 55 13.50,Stair Treads,3130,"48"" long",,48,0.333,,203.0,20.5,,223.5,
+05 55 13.50,Stair Treads,3130,"48"" long",,48,0.333,,,203.0,20.5,,223.5
 05 55 13.50,Stair Treads,3140,"11"" deep x 36"" long",,444,0.364,,186.0,22.5,,208.5,24
 05 55 13.50,Stair Treads,3150,"42"" long",,44,0.364,,203.0,22.5,,225.5,25
 05 55 13.50,Stair Treads,3160,"48"" long",,44,0.364,,211.0,22.5,,233.5,26
 05 55 13.50,Stair Treads,3200,"Closed riser, black enamel",,,,,,,,,
 05 55 13.50,Stair Treads,3210,"12"" deep x 36"" long",GGGGGG 2 Sswk,40,0.4,Ea .,138.0,24.5,,162.5,11822
 05 55 13.50,Stair Treads,3220,"42"" long",,40,0.4,,149.0,24.5,,173.5,20
-05 55 13.50,Stair Treads,3230,"48"" long",,40,0.4,,157.0,24.5,,181.5,
+05 55 13.50,Stair Treads,3230,"48"" long",,40,0.4,,,157.0,24.5,,181.5
 05 55 13.50,Stair Treads,3240,"Galvanized, 12"" deep x 36"" long",,40,0.4,,217.0,24.5,,241.5,27
 05 55 13.50,Stair Treads,3250,"42"" long",,40,0.4,,237.0,24.5,,261.5,290
 05 55 13.50,Stair Treads,3260,"48"" long",,40,400.0,,248.0,24.5,,272.5,31%
 05 55 13.50,Stair Treads,4000,Bar grating treads,,,,,,,,,
 05 55 13.50,Stair Treads,4005,"Steel, 1-1/4"" x 3/16"" bars, anti skid nosing, black enamel",,,,,,,,,
 05 55 13.50,Stair Treads,4010,"8-5/8"" deep x 30"" long",G5G5555525 Sswk,48,0.333,Ea .,56.0,20.5,,76.5,106
-05 55 13.50,Stair Treads,4020,"36"" long",G,48,0.333,,65.5,20.5,,86.0,
+05 55 13.50,Stair Treads,4020,"36"" long",G,48,0.333,,,65.5,20.5,,86.0
 05 55 13.50,Stair Treads,4030,"48"" long",,48,0.333,,101.0,20.5,,121.5,14
 05 55 13.50,Stair Treads,4040,"10-15/16"" deep x 36"" long",,44,0.364,,72.5,22.5,,95.0,11
 05 55 13.50,Stair Treads,4050,"48"" long",,44,0.364,,102.0,22.5,,124.5,14
 05 55 13.50,Stair Treads,4060,"Galvanized, 8-5/8"" deep x 30"" long",,48,0.333,,64.0,20.5,,84.5,10
 05 55 13.50,Stair Treads,4070,"36"" long",,48,0.333,,76.0,20.5,,96.5,11536
-05 55 13.50,Stair Treads,4080,"48"" long",,48,0.333,,112.0,20.5,,132.5,
+05 55 13.50,Stair Treads,4080,"48"" long",,48,0.333,,,112.0,20.5,,132.5
 05 55 13.50,Stair Treads,4090,"10-15/16"" deep x 36"" long",,44,0.364,,89.0,22.5,,111.5,13 .
 05 55 13.50,Stair Treads,4100,"48"" long",,44,0.364,,115.0,22.5,,137.5,16 :
 05 55 13.50,Stair Treads,4200,"Aluminum, 1-1/4"" x 3/16"" bars, serrated, with nosing",,,,,,,,,
@@ -1981,12 +1981,12 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 56 13.50,Construction Castings,20,"Manhole covers and frames, see Section 33 44 13.13",,,,,,,,,
 05 56 13.50,Construction Castings,100,"Column bases, cast iron, 16"" x 16"", approx .65 lb.",E-4,46.0,0.696,Ea .,126,43.5,3.243,172.71,209.0
 05 56 13.50,Construction Castings,200,"32"" x 32"", approx .256 lb.",,23.0,1.391,,455,87.0,6.4,548.4,640.0
-05 56 13.50,Construction Castings,400,"Cast aluminum for wood columns, 8"" x 8""",1 Carp,32.0,250.0,,27.50,14.1,,41.6,
+05 56 13.50,Construction Castings,400,"Cast aluminum for wood columns, 8"" x 8""",1 Carp,32.0,250.0,,,27.50,14.1,,41.6
 05 56 13.50,Construction Castings,500,"12"" x 12""",,32.0,0.25,,55,14.1,,69.1,81.0
 05 56 13.50,Construction Castings,600,"Miscellaneous C.I. castings, light sections, less than 150 lb.",E 4,3200.0,0.01,Lb.,8.20,0.62,0.05,8.87,10.0
 05 56 13.50,Construction Castings,1100,"Heavy sections, more than 150 lb.",,4200.0,0.008,,4.76,0.48,0.04,5.28,6.0
 05 56 13.50,Construction Castings,1300,Special low volume items,,3200.0,0.01,,11.25,0.62,0.05,11.92,13.35
-05 56 13.50,Construction Castings,1500,"For ductile iron, add",,,,,100 %,,,,
+05 56 13.50,Construction Castings,1500,"For ductile iron, add",,,,,,100 %,,,
 05 58 13.05,Column Covers,10,COLUMN COVERS,,,,,,,,,
 05 58 13.05,Column Covers,15,Made from recycled materials,,,,,,,,,
 05 58 13.05,Column Covers,20,"Excludes structural steel, light ga. metal framing, misc. metals, sealants",,,,,,,,,
@@ -2042,8 +2042,8 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 58 13.05,05 58 23 - Formed Metal Guards,25,"Steel bars, 1/2"" x 1/2"", spaced 5"" OC",G =,290.0,0.11,,14.65,6.90,0.51,22.06,27.5
 05 58 13.05,05 58 23 - Formed Metal Guards,30,"Hinge mounted, add",G,,,Opng.,42.50,,,42.5,46.5
 05 58 13.05,05 58 23 - Formed Metal Guards,40,"Removable type, add",G,,,,27,,,27.0,29.5
-05 58 13.05,05 58 23 - Formed Metal Guards,50,"For galvanized guards, add",,,,S.F.,35%,,,,
-05 58 13.05,05 58 23 - Formed Metal Guards,70,"For pivoted or projected type, add",,,,,105%,40%,,,
+05 58 13.05,05 58 23 - Formed Metal Guards,50,"For galvanized guards, add",,,,S.F.,,35%,,,
+05 58 13.05,05 58 23 - Formed Metal Guards,70,"For pivoted or projected type, add",,,,,,105%,40%,,
 05 58 13.05,05 58 23 - Formed Metal Guards,100,"Mild steel, stock units, economy",555555 E4,405.0,0.079,S.F.,5.75,4.93,0.36,11.04,14.35
 05 58 13.05,05 58 23 - Formed Metal Guards,200,Deluxe,G,405.0,0.079,,11.7,4.93,0.36,16.99,21.0
 05 58 13.05,05 58 23 - Formed Metal Guards,400,"Woven wire, stock units, 3/8"" channel frame, 3' x 5' opening",G,40.0,0.8,Opng.,156.0,50.0,3.69,209.69,252.0
@@ -2110,7 +2110,7 @@ Masterformat Section Code,Section Name,ID,Name,Crew,Daily Output,Labor-Hours,Uni
 05 75 13.10,Aluminum Columns,450,"15"" diameter",,,,,123,,,123,136
 05 75 13.10,Aluminum Columns,460,"Caps, ornamental, plain",,,,,293,,,293,320
 05 75 13.10,Aluminum Columns,470,Fancy,,,,,"1,650",,,"1,650","1,800"
-05 75 13.10,Aluminum Columns,500,"For square columns, add to column prices above",,,,L.F.,50 %,,,,
+05 75 13.10,Aluminum Columns,500,"For square columns, add to column prices above",,,,L.F.,,50 %,,,
 05 75 13.10,Aluminum Columns,700,"Residential, flat, 8' high, plain",5555 E-4,20.0,1.6,Ea.,162,8888.0,7.4,269.40,340
 05 75 13.10,Aluminum Columns,720,Fancy,"G """,20.0,1.6,F3,261,100.0,7.4,368.40,450
 05 75 13.10,Aluminum Columns,740,"Corner type, plain",G E-4,20.0,1.6,Eq.,264,100.0,7.4,371.40,450
