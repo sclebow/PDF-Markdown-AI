@@ -5,6 +5,7 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 from pdf2image import convert_from_path
+import concurrent.futures
 
 start_page = 138
 end_page = 182
@@ -82,46 +83,50 @@ if not output_dir:
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-def create_pdf_and_image(pdf_reader, page_num, output_dir):
+def create_pdf_and_image(pdf_file_path, page_num, output_dir):
     """Extracts a single page from the PDF and saves it as both a PDF and a JPG image.
     Args:
-        pdf_reader (PyPDF2.PdfReader): The PDF reader object.
+        pdf_file_path (str): Path to the PDF file.
         page_num (int): The page number to extract (0-based index).
         output_dir (str): The directory to save the extracted files.
     Returns:
         None
     """
-    # Create PDF file
-    pdf_writer = PyPDF2.PdfWriter()
-    pdf_writer.add_page(pdf_reader.pages[page_num])
-    output_pdf_path = os.path.join(output_dir, f"page_{page_num + 1}.pdf")
-    with open(output_pdf_path, "wb") as output_pdf_file:
-        pdf_writer.write(output_pdf_file)
-    print(f"Extracted page {page_num + 1} to {output_pdf_path}")
+    # Each thread opens its own PdfReader
+    with open(pdf_file_path, "rb") as pdf_file:
+        pdf_reader = PyPDF2.PdfReader(pdf_file)
+        pdf_writer = PyPDF2.PdfWriter()
+        pdf_writer.add_page(pdf_reader.pages[page_num])
+        output_pdf_path = os.path.join(output_dir, f"page_{page_num + 1}.pdf")
+        with open(output_pdf_path, "wb") as output_pdf_file:
+            pdf_writer.write(output_pdf_file)
+        print(f"Extracted page {page_num + 1} to {output_pdf_path}")
     
     # Create JPG file from the extracted PDF
     try:
-        # Convert the single-page PDF to an image
         images = convert_from_path(output_pdf_path)
         output_jpg_path = os.path.join(output_dir, f"page_{page_num + 1}.jpg")
-        # Save the image as JPG
         images[0].save(output_jpg_path, 'JPEG')
         print(f"Converted page {page_num + 1} to {output_jpg_path}")
     except Exception as e:
         print(f"Error converting page {page_num + 1} to JPG: {e}")
 
-# Open the PDF file
+# Open the PDF file to check page range validity only
 with open(pdf_file_path, "rb") as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)
-
-    # Check if the specified page range is valid
     if start_page < 0 or end_page > len(pdf_reader.pages):
         print(f"Invalid page range: {start_page} to {end_page}.")
         exit(1)
-        
-    # Extract the specified pages and save them as separate PDF files and JPG images
-    for page_num in range(start_page, end_page):
-        create_pdf_and_image(pdf_reader, page_num, output_dir)
+
+# Use ThreadPoolExecutor to process pages in parallel, passing pdf_file_path
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    futures = [executor.submit(create_pdf_and_image, pdf_file_path, page_num, output_dir)
+               for page_num in range(start_page, end_page)]
+    for future in concurrent.futures.as_completed(futures):
+        try:
+            future.result()
+        except Exception as exc:
+            print(f"A page extraction task generated an exception: {exc}")
 
 print("All pages extracted successfully.")
 
