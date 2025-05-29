@@ -82,6 +82,34 @@ if not output_dir:
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
+def create_pdf_and_image(pdf_reader, page_num, output_dir):
+    """Extracts a single page from the PDF and saves it as both a PDF and a JPG image.
+    Args:
+        pdf_reader (PyPDF2.PdfReader): The PDF reader object.
+        page_num (int): The page number to extract (0-based index).
+        output_dir (str): The directory to save the extracted files.
+    Returns:
+        None
+    """
+    # Create PDF file
+    pdf_writer = PyPDF2.PdfWriter()
+    pdf_writer.add_page(pdf_reader.pages[page_num])
+    output_pdf_path = os.path.join(output_dir, f"page_{page_num + 1}.pdf")
+    with open(output_pdf_path, "wb") as output_pdf_file:
+        pdf_writer.write(output_pdf_file)
+    print(f"Extracted page {page_num + 1} to {output_pdf_path}")
+    
+    # Create JPG file from the extracted PDF
+    try:
+        # Convert the single-page PDF to an image
+        images = convert_from_path(output_pdf_path)
+        output_jpg_path = os.path.join(output_dir, f"page_{page_num + 1}.jpg")
+        # Save the image as JPG
+        images[0].save(output_jpg_path, 'JPEG')
+        print(f"Converted page {page_num + 1} to {output_jpg_path}")
+    except Exception as e:
+        print(f"Error converting page {page_num + 1} to JPG: {e}")
+
 # Open the PDF file
 with open(pdf_file_path, "rb") as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)
@@ -93,24 +121,7 @@ with open(pdf_file_path, "rb") as pdf_file:
         
     # Extract the specified pages and save them as separate PDF files and JPG images
     for page_num in range(start_page, end_page):
-        # Create PDF file
-        pdf_writer = PyPDF2.PdfWriter()
-        pdf_writer.add_page(pdf_reader.pages[page_num])
-        output_pdf_path = os.path.join(output_dir, f"page_{page_num + 1}.pdf")
-        with open(output_pdf_path, "wb") as output_pdf_file:
-            pdf_writer.write(output_pdf_file)
-        print(f"Extracted page {page_num + 1} to {output_pdf_path}")
-        
-        # Create JPG file from the extracted PDF
-        try:
-            # Convert the single-page PDF to an image
-            images = convert_from_path(output_pdf_path)
-            output_jpg_path = os.path.join(output_dir, f"page_{page_num + 1}.jpg")
-            # Save the image as JPG
-            images[0].save(output_jpg_path, 'JPEG')
-            print(f"Converted page {page_num + 1} to {output_jpg_path}")
-        except Exception as e:
-            print(f"Error converting page {page_num + 1} to JPG: {e}")
+        create_pdf_and_image(pdf_reader, page_num, output_dir)
 
 print("All pages extracted successfully.")
 
