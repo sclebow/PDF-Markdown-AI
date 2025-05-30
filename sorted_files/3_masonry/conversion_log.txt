@@ -1,0 +1,434 @@
+Timestamp: 2025-05-29T22:59:37.889985
+OCR Text:
+              04041 20
+04 01 01intenance MaintenanceMaintenance of Unit Masonry
+Daily Laboof
+2022 BaMasonrys
+Total
+04 01 20.20 Pointing Masonry
+Crew Output Hours Unit
+Material
+Labor Equipment
+Total
+Ind O&P
+0010 POINTING MASONRY
+0300
+Cut and repoint brick, hard mortar,
+                04      01     20             Maintenance                     of     Unit        Masonry
+                                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+               04    01    20.20        Pointing         Masonry                                                                       Crew     Output    Hours      Unit       Material           Labor          Equipment            Total           Ind  O & P
+                0010      POINTING         MASONRY
+                0300            Cut and   repoint brick , hard  mortar , running  bond                                                 1 Bric     80       .100       S.F.              .83             5.55                                6.38              9.20
+                0320                       Common     bond                                                                                        77       .104                          .83            5.75                                6.58             9.50
+                0360                       Flemish  bond                                                                                          70       .114                          .87            6.30                                7.17            10.45
+                0400                       English bond                                                                                           65.123                                .87             6.80                                7.67            11.15
+                0600                 Soft  old mortar  ,running   bond                                                                            100      .080                         .83             4.42                                5.25             7.55
+                0620                       Common     bond                                                                                        96    1.083                            .83            4.60                                5.43             7.80
+                0640                       Flemish  bond                                                                                          90    1.089                            .87            4.91                                5.78              8.30
+                0680                       English bond                                                                                           82       .098                          .87            5.40                                6.27             9.05
+                0700                 Stonework    , hard  mortar                                                                                  140      .057       L.F.             1.10             3.16                                4.26             5.95
+                0720                       Soft old  mortar                                                                                       160      .050                        1.10             2.76                                3.86              5.35
+                1000            Repoint , mask   and  grout  method   , running  bond                                                             95       .084       S.F              1.10             4.65                                5.75              8.20
+                1020                       Common     bond                                                                                        90    1.089                          1.10             4.91                                6.01              8.55
+                1040                       Flemish   bond                                                                                         86    1.093                          1.16             5.15                                6.31              9
+                1060                       English  bond                                                                                          77.104                               1.16             5.75                                6.91             9.90
+                2000            Scrub  coat , sand  grout  on walls , thin mix  ,brushed                                                          120      .067                        4.96             3.68                                8.64            11
+                2020                       Troweled                                                                                               98       .082                        6.95             4.51                               11.46            14.35
+                04    01    20.30       Pointing         CMU
+                0010       POINTING        CMU
+                0300            Cut  and  repoint  block ,hard  mortar  , running  bond                                                1 Bric     190      .042       S.F                .34            2.33                                2.67              3.86
+                0310                            Stacked   bond                                                                                    200      .040                          .34            2.21                                2.55              3.69
+                0600                 Soft  old  mortar , running  bond                                                                            230      .035                          .34            1.92                                2.26              3.26
+                0610                            Stacked   bond                                                                                    245      .033                          .34            1.80                                2.14              3.08
+                04    01    20.40       Sawing         Masonry
+                0010       SAWING       MASONRY
+                0050            Brick  or block  by hand  , per inch  depth                                                             A 1       125      .064       LF                 .05            2.92               .88              3.85              5.40
+                04    01    20.41       Unit      Masonry         Stabilization
+                0010       UNIT    MASONRY          STABILIZATION
+                0100            Structural  repointing  method
+                0110                  Cut /grind  mortar  joint                                                                        1 Bric     240      .033       LF    1                            1.84                               1.84              2.77
+                0120                  Clean  and  mask   joint                                                                         1 Bric   2500       .003       LF                 .13              .18                                 .31              .42
+                0130                  Epoxy  paste  and   1/4 "  FRP  rod                                                                         240      .033             I          2.28             1.84                                4.12              5.30
+                0132                       3/8  " FRP   rod                                                                                       160       050             |          3.40             2.76                                6.16             7.90
+                0140                  Remove    masking                                                                                         14400      .001                                           .03                                 .03              .05
+                0300            Structural  fabric method
+                0310                  Primer                                                                                           1 Bric     600      .013       S.F              1.33               .74                               2.07              2.57
+                0320                  Apply  fillin/ leveling  poste                                                                             720       .011                        1.01               .61                               1.62              2.03
+                0330                  Epoxy , glass fiber fabric                                                                                  720      .011                       11.60               .61                              12.21            13.65
+                0340                       Carbon   fiber fabric                                                                                  720      .011                       22                  .61                             22.61             25
+                04    01    20.52       Cleaning          Masonry
+                0010       CLEANING        MASONRY                                                                                                                                                         80
+                0200            By  chemical  , brush  and  rinse ,new   work  ,light construction   dust                               D -1     1000      .016       S.F                .06              .80                                 .86             1.27
+                0220                             Medium    construction   dust                                                                    800      .020                          .09            1                                   1.09              1.61
+                0240                             Heavy   construction  dust , drips or stains                                                     600      .027                          .12             1.34                               1.46              2.14
+                0260                  Low  pressure   wash   and  rinse, light restoration , lightsoil                                            800       020                          .13            1                                   1.131             1.65
+                0270                            Average    soil,biological  staining                                                              400.040                   I            .19            2.01                                2.20              3.22
+                0280                            Heavy    soil,biological  and  mineral  staining , paint                                          330       048        |                 .26            2.43                                2.69              3.93
+                0300                  High  pressure  wash   and  rinse , heavy  restoration  ,light soil                                         600    | .027                          .10             1.34                               1.44             2.12
+                0310                            Average    soil,biological  staining                                                              400      .040                          .15            2.01                                2.16              3.17
+                0320                             Heavy   soil,biological  and  mine   alstaining  ,paint                                          250      .064                          .20            3.21                                3.41              5.05
+                0400            High  pressure   wash  ,water   only ,light soil                                                        C-29      500      .016                                           .73               .20               .93             1.31
+                0420                            Average    soil,biological  staining                                                              375      .021                                           .97               .27             1.24              1.75
+              98                                    For    customer         support       on    your     Building       Construction            Costs      with     RSMeans          data   , call    800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+              04041 20
+04 01 01intenance MaintenanceMaintenance of Unit Masonry
+Daily Laboof
+2022 BaMasonrys
+Total
+04 01 20.20 Pointing Masonry
+Crew Output Hours Unit
+Material
+Labor Equipment
+Total
+Ind O&P
+0010 POINTING MASONRY
+0300
+Cut and repoint brick, hard mortar,
+                04      01     20             Maintenance                     of     Unit        Masonry
+                                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+               04    01    20.20        Pointing         Masonry                                                                       Crew     Output    Hours      Unit       Material           Labor          Equipment            Total           Ind  O & P
+                0010      POINTING         MASONRY
+                0300            Cut and   repoint brick , hard  mortar , running  bond                                                 1 Bric     80       .100       S.F.              .83             5.55                                6.38              9.20
+                0320                       Common     bond                                                                                        77       .104                          .83            5.75                                6.58             9.50
+                0360                       Flemish  bond                                                                                          70       .114                          .87            6.30                                7.17            10.45
+                0400                       English bond                                                                                           65.123                                .87             6.80                                7.67            11.15
+                0600                 Soft  old mortar  ,running   bond                                                                            100      .080                         .83             4.42                                5.25             7.55
+                0620                       Common     bond                                                                                        96    1.083                            .83            4.60                                5.43             7.80
+                0640                       Flemish  bond                                                                                          90    1.089                            .87            4.91                                5.78              8.30
+                0680                       English bond                                                                                           82       .098                          .87            5.40                                6.27             9.05
+                0700                 Stonework    , hard  mortar                                                                                  140      .057       L.F.             1.10             3.16                                4.26             5.95
+                0720                       Soft old  mortar                                                                                       160      .050                        1.10             2.76                                3.86              5.35
+                1000            Repoint , mask   and  grout  method   , running  bond                                                             95       .084       S.F              1.10             4.65                                5.75              8.20
+                1020                       Common     bond                                                                                        90    1.089                          1.10             4.91                                6.01              8.55
+                1040                       Flemish   bond                                                                                         86    1.093                          1.16             5.15                                6.31              9
+                1060                       English  bond                                                                                          77.104                               1.16             5.75                                6.91             9.90
+                2000            Scrub  coat , sand  grout  on walls , thin mix  ,brushed                                                          120      .067                        4.96             3.68                                8.64            11
+                2020                       Troweled                                                                                               98       .082                        6.95             4.51                               11.46            14.35
+                04    01    20.30       Pointing         CMU
+                0010       POINTING        CMU
+                0300            Cut  and  repoint  block ,hard  mortar  , running  bond                                                1 Bric     190      .042       S.F                .34            2.33                                2.67              3.86
+                0310                            Stacked   bond                                                                                    200      .040                          .34            2.21                                2.55              3.69
+                0600                 Soft  old  mortar , running  bond                                                                            230      .035                          .34            1.92                                2.26              3.26
+                0610                            Stacked   bond                                                                                    245      .033                          .34            1.80                                2.14              3.08
+                04    01    20.40       Sawing         Masonry
+                0010       SAWING       MASONRY
+                0050            Brick  or block  by hand  , per inch  depth                                                             A 1       125      .064       LF                 .05            2.92               .88              3.85              5.40
+                04    01    20.41       Unit      Masonry         Stabilization
+                0010       UNIT    MASONRY          STABILIZATION
+                0100            Structural  repointing  method
+                0110                  Cut /grind  mortar  joint                                                                        1 Bric     240      .033       LF    1                            1.84                               1.84              2.77
+                0120                  Clean  and  mask   joint                                                                         1 Bric   2500       .003       LF                 .13              .18                                 .31              .42
+                0130                  Epoxy  paste  and   1/4 "  FRP  rod                                                                         240      .033             I          2.28             1.84                                4.12              5.30
+                0132                       3/8  " FRP   rod                                                                                       160       050             |          3.40             2.76                                6.16             7.90
+                0140                  Remove    masking                                                                                         14400      .001                                           .03                                 .03              .05
+                0300            Structural  fabric method
+                0310                  Primer                                                                                           1 Bric     600      .013       S.F              1.33               .74                               2.07              2.57
+                0320                  Apply  fillin/ leveling  poste                                                                             720       .011                        1.01               .61                               1.62              2.03
+                0330                  Epoxy , glass fiber fabric                                                                                  720      .011                       11.60               .61                              12.21            13.65
+                0340                       Carbon   fiber fabric                                                                                  720      .011                       22                  .61                             22.61             25
+                04    01    20.52       Cleaning          Masonry
+                0010       CLEANING        MASONRY                                                                                                                                                         80
+                0200            By  chemical  , brush  and  rinse ,new   work  ,light construction   dust                               D -1     1000      .016       S.F                .06              .80                                 .86             1.27
+                0220                             Medium    construction   dust                                                                    800      .020                          .09            1                                   1.09              1.61
+                0240                             Heavy   construction  dust , drips or stains                                                     600      .027                          .12             1.34                               1.46              2.14
+                0260                  Low  pressure   wash   and  rinse, light restoration , lightsoil                                            800       020                          .13            1                                   1.131             1.65
+                0270                            Average    soil,biological  staining                                                              400.040                   I            .19            2.01                                2.20              3.22
+                0280                            Heavy    soil,biological  and  mineral  staining , paint                                          330       048        |                 .26            2.43                                2.69              3.93
+                0300                  High  pressure  wash   and  rinse , heavy  restoration  ,light soil                                         600    | .027                          .10             1.34                               1.44             2.12
+                0310                            Average    soil,biological  staining                                                              400      .040                          .15            2.01                                2.16              3.17
+                0320                             Heavy   soil,biological  and  mine   alstaining  ,paint                                          250      .064                          .20            3.21                                3.41              5.05
+                0400            High  pressure   wash  ,water   only ,light soil                                                        C-29      500      .016                                           .73               .20               .93             1.31
+                0420                            Average    soil,biological  staining                                                              375      .021                                           .97               .27             1.24              1.75
+              98                                    For    customer         support       on    your     Building       Construction            Costs      with     RSMeans          data   , call    800.448.8182          .
+
+
+GPT Markdown Output:
+# 04 01 20 Maintenance of Unit Masonry
+
+## 04 01 20.20 Pointing Masonry
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | POINTING MASONRY    |        |              |             |      |          |       |           |       |                |
+| 0300 | Cut and repoint brick, hard mortar, running bond | 1 Bric | 80           | .100        | S.F. | .83      | 5.55  |           | 6.38  | 9.20           |
+| 0320 | Common bond         |        | 77           | .104        |      | .83      | 5.75  |           | 6.58  | 9.50           |
+| 0360 | Flemish bond        |        | 70           | .114        |      | .87      | 6.30  |           | 7.17  | 10.45          |
+| 0400 | English bond        |        | 65.123       |             |      | .87      | 6.80  |           | 7.67  | 11.15          |
+| 0600 | Soft old mortar, running bond |        | 100          | .080        |      | .83      | 4.42  |           | 5.25  | 7.55           |
+| 0620 | Common bond         |        | 96           | 1.083       |      | .83      | 4.60  |           | 5.43  | 7.80           |
+| 0640 | Flemish bond        |        | 90           | 1.089       |      | .87      | 4.91  |           | 5.78  | 8.30           |
+| 0680 | English bond        |        | 82           | .098        |      | .87      | 5.40  |           | 6.27  | 9.05           |
+| 0700 | Stonework, hard mortar |     | 140          | .057        | L.F. | 1.10     | 3.16  |           | 4.26  | 5.95           |
+| 0720 | Soft old mortar     |        | 160          | .050        |      | 1.10     | 2.76  |           | 3.86  | 5.35           |
+| 1000 | Repoint, mask and grout method, running bond |        | 95           | .084        | S.F | 1.10     | 4.65  |           | 5.75  | 8.20           |
+| 1020 | Common bond         |        | 90           | 1.089       |      | 1.10     | 4.91  |           | 6.01  | 8.55           |
+| 1040 | Flemish bond        |        | 86           | 1.093       |      | 1.16     | 5.15  |           | 6.31  | 9              |
+| 1060 | English bond        |        | 77.104       |             |      | 1.16     | 5.75  |           | 6.91  | 9.90           |
+| 2000 | Scrub coat, sand grout on walls, thin mix, brushed |        | 120          | .067        |      | 4.96     | 3.68  |           | 8.64  | 11             |
+| 2020 | Troweled            |        | 98           | .082        |      | 6.95     | 4.51  |           | 11.46 | 14.35          |
+
+## 04 01 20.30 Pointing CMU
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | POINTING CMU        |        |              |             |      |          |       |           |       |                |
+| 0300 | Cut and repoint block, hard mortar, running bond | 1 Bric | 190          | .042        | S.F | .34      | 2.33  |           | 2.67  | 3.86           |
+| 0310 | Stacked bond        |        | 200          | .040        |      | .34      | 2.21  |           | 2.55  | 3.69           |
+| 0600 | Soft old mortar, running bond |        | 230          | .035        |      | .34      | 1.92  |           | 2.26  | 3.26           |
+| 0610 | Stacked bond        |        | 245          | .033        |      | .34      | 1.80  |           | 2.14  | 3.08           |
+
+## 04 01 20.40 Sawing Masonry
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SAWING MASONRY      |        |              |             |      |          |       |           |       |                |
+| 0050 | Brick or block by hand, per inch depth | A 1    | 125          | .064        | LF   | .05      | 2.92  | .88       | 3.85  | 5.40           |
+
+## 04 01 20.41 Unit Masonry Stabilization
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | UNIT MASONRY STABILIZATION |        |              |             |      |          |       |           |       |                |
+| 0100 | Structural repointing method |        |              |             |      |          |       |           |       |                |
+| 0110 | Cut /grind mortar joint | 1 Bric | 240          | .033        | LF   | 1        | 1.84  |           | 1.84  | 2.77           |
+| 0120 | Clean and mask joint  | 1 Bric | 2500         | .003        | LF   | .13      | .18   |           | .31   | .42            |
+| 0130 | Epoxy paste and 1/4" FRP rod |        | 240          | .033        | I    | 2.28     | 1.84  |           | 4.12  | 5.30           |
+| 0132 | 3/8" FRP rod          |        | 160          | 050         | |    | 3.40     | 2.76  |           | 6.16  | 7.90           |
+| 0140 | Remove masking        |        | 14400        | .001        |      |          | .03   |           | .03   | .05            |
+| 0300 | Structural fabric method |        |              |             |      |          |       |           |       |                |
+| 0310 | Primer                | 1 Bric | 600          | .013        | S.F. | 1.33     | .74   |           | 2.07  | 2.57           |
+| 0320 | Apply fillin/leveling poste |        | 720          | .011        |      | 1.01     | .61   |           | 1.62  | 2.03           |
+| 0330 | Epoxy, glass fiber fabric |        | 720          | .011        |      | 11.60    | .61   |           | 12.21 | 13.65          |
+| 0340 | Carbon fiber fabric   |        | 720          | .011        |      | 22       | .61   |           | 22.61 | 25              |
+
+## 04 01 20.52 Cleaning Masonry
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CLEANING MASONRY    |        |              |             |      |          |       |           |       | 80             |
+| 0200 | By chemical, brush and rinse, new work, light construction dust | D -1   | 1000         | .016        | S.F. | .06      | .80   |           | .86   | 1.27           |
+| 0220 | Medium construction dust |        | 800          | .020        |      | .09      | 1     |           | 1.09  | 1.61           |
+| 0240 | Heavy construction dust, drips or stains |        | 600          | .027        |      | .12      | 1.34  |           | 1.46  | 2.14           |
+| 0260 | Low pressure wash and rinse, light restoration, light soil |        | 800          | 020         |      | .13      | 1     |           | 1.131 | 1.65           |
+| 0270 | Average soil, biological staining |        | 400.040      |      | I    | .19      | 2.01  |           | 2.20  | 3.22           |
+| 0280 | Heavy soil, biological and mineral staining, paint |        | 330          | 048         | |    | .26      | 2.43  |           | 2.69  | 3.93           |
+| 0300 | High pressure wash and rinse, heavy restoration, light soil |        | 600    | .027        |      | .10      | 1.34  |           | 1.44  | 2.12           |
+| 0310 | Average soil, biological staining |        | 400          | .040        |      | .15      | 2.01  |           | 2.16  | 3.17           |
+| 0320 | Heavy soil, biological and mine alstaining, paint |        | 250          | .064        |      | .20      | 3.21  |           | 3.41  | 5.05           |
+| 0400 | High pressure wash, water only, light soil | C-29   | 500          | .016        |      |          | .73   | .20       | .93   | 1.31           |
+| 0420 | Average soil, biological staining |        | 375          | .021        |      |          | .97   | .27       | 1.24  | 1.75           |
+
+98 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-29T23:00:13.321113
+OCR Text:
+ 0400
+0820 |
+00101 MaintenaMaintenancenry
+04 01 20-Maintenance of Unit Masonof
+04 01 2Masonryeaning Masonry
+0440
+Heavy soil, biological and mineral staining, paint
+High pressure water and chemical, light soil
+Average soil, biological staining
+Daily Labor-
+  04     01      20       -     Maintenance                      of    Unit        Masonry
+                                                                                                                                   Daily    Labor-                                      2022   Bare  Costs                                 Total
+ 04    01    20.52        Cleaning         Masonry                                                                       Crew     Output    Hours      Unit       Material            Labor         Equipment            Total          Incl  O& P
+  0440                            Heavy   soil, biological  and  mineral  staining , paint                               C-29      250        032       S.F.                              1.46               .40              1.86             2.61
+  0800                 High  pressure   water  and  chemical  , light soil                                                          450      .018                          .15              .81              .22              1.18             1.63
+ 0820     |                       Average   soil, biological staining                                                               300      .027                          .23            1.22               .34              1.79             2.43
+  08401                           Heavy   soil, biological  and  mineral  staining , paint                                         200      .040                           .31            1.82               .50              2.63             3.62
+  1200           Sandblast   , wet  system  , light soil                                                                  J-6      1750      .018                          .38              .91              .18              1.47             1.96
+  1220                      Average    soil,biological  staining                                                                   1100      .029                          .57            1.44               .28              2.29             3.08
+  1240                       Heavy   soil,biological  and  mineral   staining ,paint                                                700      .046                          .76            2.27               .44              3.47             4.68
+  1400                 Dry  system  , light soil                                                                                  2500       .013                          .38              .63              .12              1.13             1.50
+  1420                      Average    soil,biological  staining                                                                   1750      .018                          .57              .91              .18              1.66             2.17
+  1440                      Heavy    soil,biological  and  mineral   staining , paint                                              1000      .032                         .76             1.59               .31              2.66             3.53
+  1800                 For  walnut  shells , add                                                                                                                         1.36                                                 1.36             1.50
+  1820                 For  corn chips , add                                                                                                                               .29                                                  .29              .32
+  2000            Steam   cleaning  ,light soil                                                                          A -1H     750       .011                                           .49              .=1               .60               .84
+  2020                      Average    soil,biological  staining                                                           "        625      .013                                           58               223                .71            1.01
+  2040                       Heavy   soil,biological  and  mineral   staining                                            A -1H      375      .021       S.F.                                .97              .21              1.18             1.68
+  4000           Add   for masking    doors  and  windows                                                               1  Clab     800      .010        "                 .07              .46                                 .53             .76
+  4200    |       Add  for pedestrian   protection                                                                                                      Job                                                                 10 %             10 %
+ 04    01    20.70        Brick     Washing
+  0010      BRICK     WASHING                                                                         R040130-10
+  0012            Acid cleanser  ,smooth    brick surface                                                                1 Bric     560      .014       S.F               .07             SE.79                                .86             1.26
+  0050                 Rough   brick                                                                                                400      .020                          .09            1.11                                1.20             1.76
+  0060            Stone , acid  wash                                                                                                600      .013                          .11              .74                                 .85            1.23
+  1000                 Muriatic   acid, price per gallon  in  5 gallon  lots                                                                            Eal.            13.25                                               13.25            14.55
+  04           05           Common                            Work                 Results                     for          Masonry
+  04      05     05       -     Selective               Demolition                  for      Masonry
+  04   05    05.10        Selective          Demolition
+  0010      SELECTIVE       DEMOLITION                                                                R024119-10
+  0200            Bond   beams  , 8 " block  with  #4  bar                                                              2  Clab     32       .500       LF                              23                                  23               34
+  0300            Concrete   block  walls ,unreinforced   ,2 " thick                                                               1200      .013       S.F.                                .61TERERS                           .61            ང
+  0310                            4 " thick                                                                                        1150      .014                                           .63                                 .63            གྲ.94
+  0320                            6 " thick                                                                                        1100      .015                                           .66                                .66              ཾ.99
+  0330                            8 " thick                                                                                        1050   1  .015   !                                       .69                                 .69             ུ03
+  0340                            10  " thick                                                                                      1000      .016                                           .73                                 .73            ཥྱཱ9
+  0360                            12  " thick                                                                                      950       .017                                           .77                                 .77            1.14
+  0380                  Reinforced  alternate   courses , 2"  thick                                                                1130      .014                                           .65                                 .65              .96
+  0390                            4 " thick                                                                                        1080      .015                                           .68                                .68             དྷྭ1
+  0400                            6 " thick                                                                                        1035      .015                                           .70                                .70             1.05
+  0410                            8 " thick                                                                                         990      .016                                           .74                                 .74            1.10
+  0420                            10  " thick                                                                                       940   |  .017                                           .78                                .78             1.16
+  0430                            12  " thick                                                                                       890      .018                                           .82                                 .82            1.22
+  0440                  Reinforced  alternate   courses  &  vertically 48 "  OC ,4 "  thick                                         900      .018                                           .81                                 .81           ས1.21
+  0450                            6"  thick                                                                                         850      .019                                           .86                                 .86           °1.28
+  0460                            8 " thick                                                                                         800      .020                                           .91                                 .91            1.36
+  0480                             10 " thick                                                                                      750       .021                                           .97                                 .97            1.45
+  0490                             12 " thick                                                                                       700      .023        +                                1.04                                1.04             1.55
+  1000            Chimney   , 16 " x  16" , soft old  mortar                                                             1 Clab     55       .145       C.F.                              6.65                                6.65             9.90
+  1020                            Hard   mortar                                                                                     40       .200                                         9.10                                9.10            13.60
+  1030                       16 "  x 20 " ,soft  old mortar                                                                         55       .145                                         6.65                                6.65             9.90
+  1040                            Hard   mortar                                                                                     40       .200                                         9.10                                9.10           13.60
+  1050                       16 "  x 24 " ,soft  old mortar                                                                         55.145                                                6.65                                6.65             9.90
+                                            customer          support       on    your     Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .                                   99
+                                      For
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+ 0400
+0820 |
+00101 MaintenaMaintenancenry
+04 01 20-Maintenance of Unit Masonof
+04 01 2Masonryeaning Masonry
+0440
+Heavy soil, biological and mineral staining, paint
+High pressure water and chemical, light soil
+Average soil, biological staining
+Daily Labor-
+  04     01      20       -     Maintenance                      of    Unit        Masonry
+                                                                                                                                   Daily    Labor-                                      2022   Bare  Costs                                 Total
+ 04    01    20.52        Cleaning         Masonry                                                                       Crew     Output    Hours      Unit       Material            Labor         Equipment            Total          Incl  O& P
+  0440                            Heavy   soil, biological  and  mineral  staining , paint                               C-29      250        032       S.F.                              1.46               .40              1.86             2.61
+  0800                 High  pressure   water  and  chemical  , light soil                                                          450      .018                          .15              .81              .22              1.18             1.63
+ 0820     |                       Average   soil, biological staining                                                               300      .027                          .23            1.22               .34              1.79             2.43
+  08401                           Heavy   soil, biological  and  mineral  staining , paint                                         200      .040                           .31            1.82               .50              2.63             3.62
+  1200           Sandblast   , wet  system  , light soil                                                                  J-6      1750      .018                          .38              .91              .18              1.47             1.96
+  1220                      Average    soil,biological  staining                                                                   1100      .029                          .57            1.44               .28              2.29             3.08
+  1240                       Heavy   soil,biological  and  mineral   staining ,paint                                                700      .046                          .76            2.27               .44              3.47             4.68
+  1400                 Dry  system  , light soil                                                                                  2500       .013                          .38              .63              .12              1.13             1.50
+  1420                      Average    soil,biological  staining                                                                   1750      .018                          .57              .91              .18              1.66             2.17
+  1440                      Heavy    soil,biological  and  mineral   staining , paint                                              1000      .032                         .76             1.59               .31              2.66             3.53
+  1800                 For  walnut  shells , add                                                                                                                         1.36                                                 1.36             1.50
+  1820                 For  corn chips , add                                                                                                                               .29                                                  .29              .32
+  2000            Steam   cleaning  ,light soil                                                                          A -1H     750       .011                                           .49              .=1               .60               .84
+  2020                      Average    soil,biological  staining                                                           "        625      .013                                           58               223                .71            1.01
+  2040                       Heavy   soil,biological  and  mineral   staining                                            A -1H      375      .021       S.F.                                .97              .21              1.18             1.68
+  4000           Add   for masking    doors  and  windows                                                               1  Clab     800      .010        "                 .07              .46                                 .53             .76
+  4200    |       Add  for pedestrian   protection                                                                                                      Job                                                                 10 %             10 %
+ 04    01    20.70        Brick     Washing
+  0010      BRICK     WASHING                                                                         R040130-10
+  0012            Acid cleanser  ,smooth    brick surface                                                                1 Bric     560      .014       S.F               .07             SE.79                                .86             1.26
+  0050                 Rough   brick                                                                                                400      .020                          .09            1.11                                1.20             1.76
+  0060            Stone , acid  wash                                                                                                600      .013                          .11              .74                                 .85            1.23
+  1000                 Muriatic   acid, price per gallon  in  5 gallon  lots                                                                            Eal.            13.25                                               13.25            14.55
+  04           05           Common                            Work                 Results                     for          Masonry
+  04      05     05       -     Selective               Demolition                  for      Masonry
+  04   05    05.10        Selective          Demolition
+  0010      SELECTIVE       DEMOLITION                                                                R024119-10
+  0200            Bond   beams  , 8 " block  with  #4  bar                                                              2  Clab     32       .500       LF                              23                                  23               34
+  0300            Concrete   block  walls ,unreinforced   ,2 " thick                                                               1200      .013       S.F.                                .61TERERS                           .61            ང
+  0310                            4 " thick                                                                                        1150      .014                                           .63                                 .63            གྲ.94
+  0320                            6 " thick                                                                                        1100      .015                                           .66                                .66              ཾ.99
+  0330                            8 " thick                                                                                        1050   1  .015   !                                       .69                                 .69             ུ03
+  0340                            10  " thick                                                                                      1000      .016                                           .73                                 .73            ཥྱཱ9
+  0360                            12  " thick                                                                                      950       .017                                           .77                                 .77            1.14
+  0380                  Reinforced  alternate   courses , 2"  thick                                                                1130      .014                                           .65                                 .65              .96
+  0390                            4 " thick                                                                                        1080      .015                                           .68                                .68             དྷྭ1
+  0400                            6 " thick                                                                                        1035      .015                                           .70                                .70             1.05
+  0410                            8 " thick                                                                                         990      .016                                           .74                                 .74            1.10
+  0420                            10  " thick                                                                                       940   |  .017                                           .78                                .78             1.16
+  0430                            12  " thick                                                                                       890      .018                                           .82                                 .82            1.22
+  0440                  Reinforced  alternate   courses  &  vertically 48 "  OC ,4 "  thick                                         900      .018                                           .81                                 .81           ས1.21
+  0450                            6"  thick                                                                                         850      .019                                           .86                                 .86           °1.28
+  0460                            8 " thick                                                                                         800      .020                                           .91                                 .91            1.36
+  0480                             10 " thick                                                                                      750       .021                                           .97                                 .97            1.45
+  0490                             12 " thick                                                                                       700      .023        +                                1.04                                1.04             1.55
+  1000            Chimney   , 16 " x  16" , soft old  mortar                                                             1 Clab     55       .145       C.F.                              6.65                                6.65             9.90
+  1020                            Hard   mortar                                                                                     40       .200                                         9.10                                9.10            13.60
+  1030                       16 "  x 20 " ,soft  old mortar                                                                         55       .145                                         6.65                                6.65             9.90
+  1040                            Hard   mortar                                                                                     40       .200                                         9.10                                9.10           13.60
+  1050                       16 "  x 24 " ,soft  old mortar                                                                         55.145                                                6.65                                6.65             9.90
+                                            customer          support       on    your     Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .                                   99
+                                      For
+
+
+GPT Markdown Output:
+# 04 01 20 - Maintenance of Unit Masonry
+
+## Daily Labor - 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0440  | Heavy soil, biological and mineral staining, paint                   | C-29   | 250          | 0.32        | S.F. |          | 1.46  | 0.40      | 1.86  | 2.61           |
+| 0800  | High pressure water and chemical, light soil                         |        | 450          | 0.018       |      | 0.15     | 0.81  | 0.22      | 1.18  | 1.63           |
+| 0820  | Average soil, biological staining                                    |        | 300          | 0.027       |      | 0.23     | 1.22  | 0.34      | 1.79  | 2.43           |
+| 08401 | Heavy soil, biological and mineral staining, paint                   |        | 200          | 0.040       |      | 0.31     | 1.82  | 0.50      | 2.63  | 3.62           |
+| 1200  | Sandblast, wet system, light soil                                    | J-6    | 1750         | 0.018       |      | 0.38     | 0.91  | 0.18      | 1.47  | 1.96           |
+| 1220  | Average soil, biological staining                                    |        | 1100         | 0.029       |      | 0.57     | 1.44  | 0.28      | 2.29  | 3.08           |
+| 1240  | Heavy soil, biological and mineral staining, paint                   |        | 700          | 0.046       |      | 0.76     | 2.27  | 0.44      | 3.47  | 4.68           |
+| 1400  | Dry system, light soil                                               |        | 2500         | 0.013       |      | 0.38     | 0.63  | 0.12      | 1.13  | 1.50           |
+| 1420  | Average soil, biological staining                                    |        | 1750         | 0.018       |      | 0.57     | 0.91  | 0.18      | 1.66  | 2.17           |
+| 1440  | Heavy soil, biological and mineral staining, paint                   |        | 1000         | 0.032       |      | 0.76     | 1.59  | 0.31      | 2.66  | 3.53           |
+| 1800  | For walnut shells, add                                               |        |              |             |      | 1.36     |       |           | 1.36  | 1.50           |
+| 1820  | For corn chips, add                                                  |        |              |             |      | 0.29     |       |           | 0.29  | 0.32           |
+| 2000  | Steam cleaning, light soil                                           | A-1H   | 750          | 0.011       |      |          | 0.49  | .=1       | 0.60  | 0.84           |
+| 2020  | Average soil, biological staining                                    | "      | 625          | 0.013       |      |          | 0.58  | 223       | 0.71  | 1.01           |
+| 2040  | Heavy soil, biological and mineral staining                          | A-1H   | 375          | 0.021       | S.F. |          | 0.97  | 0.21      | 1.18  | 1.68           |
+| 4000  | Add for masking doors and windows                                    | 1 Clab | 800          | 0.010       | "    | 0.07     | 0.46  |           | 0.53  | 0.76           |
+| 4200  | Add for pedestrian protection                                        |        |              |             | Job  |          |       |           | 10 %  | 10 %           |
+
+---
+
+# 04 01 20.70 - Brick Washing
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | BRICK WASHING                             |        |              |             |      |          |       |           |       |                |
+| 0012  | Acid cleanser, smooth brick surface       | 1 Bric | 560          | 0.014       | S.F. | 0.07     | SE.79 |           | 0.86  | 1.26           |
+| 0050  | Rough brick                               |        | 400          | 0.020       |      | 0.09     | 1.11  |           | 1.20  | 1.76           |
+| 0060  | Stone, acid wash                          |        | 600          | 0.013       |      | 0.11     | 0.74  |           | 0.85  | 1.23           |
+| 1000  | Muriatic acid, price per gallon in 5 gal. |        |              |             | Gal. | 13.25    |       |           | 13.25 | 14.55          |
+
+---
+
+# 04 05 05 - Selective Demolition for Masonry
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION                                                 |        |              |             |      |          |       |           |       |                |
+| 0200  | Bond beams, 8" block with #4 bar                                     | 2 Clab | 32           | 0.500       | LF   |          | 23    |           | 23    | 34             |
+| 0300  | Concrete block walls, unreinforced, 2" thick                         |        | 1200         | 0.013       | S.F. |          | .61TERERS|         | 0.61  | ང             |
+| 0310  | 4" thick                                                             |        | 1150         | 0.014       |      |          | 0.63  |           | 0.63  | གྲ.94         |
+| 0320  | 6" thick                                                             |        | 1100         | 0.015       |      |          | 0.66  |           | 0.66  | ཾ.99          |
+| 0330  | 8" thick                                                             |        | 1050         | 1 0.015 !   |      |          | 0.69  |           | 0.69  | ུ03           |
+| 0340  | 10" thick                                                            |        | 1000         | 0.016       |      |          | 0.73  |           | 0.73  | ཥྱཱ9          |
+| 0360  | 12" thick                                                            |        | 950          | 0.017       |      |          | 0.77  |           | 0.77  | 1.14           |
+| 0380  | Reinforced alternate courses, 2" thick                               |        | 1130         | 0.014       |      |          | 0.65  |           | 0.65  | 0.96           |
+| 0390  | 4" thick                                                             |        | 1080         | 0.015       |      |          | 0.68  |           | 0.68  | དྷྭ1          |
+| 0400  | 6" thick                                                             |        | 1035         | 0.015       |      |          | 0.70  |           | 0.70  | 1.05           |
+| 0410  | 8" thick                                                             |        | 990          | 0.016       |      |          | 0.74  |           | 0.74  | 1.10           |
+| 0420  | 10" thick                                                            |        | 940          | 0.017       |      |          | 0.78  |           | 0.78  | 1.16           |
+| 0430  | 12" thick                                                            |        | 890          | 0.018       |      |          | 0.82  |           | 0.82  | 1.22           |
+| 0440  | Reinforced alternate courses & vertically 48" OC, 4" thick           |        | 900          | 0.018       |      |          | 0.81  |           | 0.81  | ས1.21         |
+| 0450  | 6" thick                                                             |        | 850          | 0.019       |      |          | 0.86  |           | 0.86  | °1.28          |
+| 0460  | 8" thick                                                             |        | 800          | 0.020       |      |          | 0.91  |           | 0.91  | 1.36           |
+| 0480  | 10" thick                                                            |        | 750          | 0.021       |      |          | 0.97  |           | 0.97  | 1.45           |
+| 0490  | 12" thick                                                            |        | 700          | 0.023 +     |      |          | 1.04  |           | 1.04  | 1.55           |
+| 1000  | Chimney, 16" x 16", soft old mortar                                  | 1 Clab | 55           | 0.145       | C.F. |          | 6.65  |           | 6.65  | 9.90           |
+| 1020  | Hard mortar                                                          |        | 40           | 0.200       |      |          | 9.10  |           | 9.10  | 13.60          |
+| 1030  | 16" x 20", soft old mortar                                           |        | 55           | 0.145       |      |          | 6.65  |           | 6.65  | 9.90           |
+| 1040  | Hard mortar                                                          |        | 40           | 0.200       |      |          | 9.10  |           | 9.10  | 13.60          |
+| 1050  | 16" x 24", soft old mortar                                           |        | 55.145       |             |      |          | 6.65  |           | 6.65  | 9.90           |
+============================================================
+
