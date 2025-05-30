@@ -15,6 +15,7 @@ from google.cloud import vision
 import pickle
 import traceback
 import concurrent.futures
+import time
 
 POPPLER_PATH = r"C:\Program Files\poppler-24.08.0\Library\bin"
 GPT_MODEL = "gpt-4.1"  # Specify the GPT model to use
@@ -56,74 +57,6 @@ def extract_text_with_google_vision(image_path):
     # print(f"Full text: {output}")
 
     return output
-
-def convert_ocr_text_and_image_to_markdown(ocr_text, image_file_path, client, log_dir=None):
-    """
-    Sends both the OCR text and the original image to ChatGPT, instructing it to only arrange the OCR text into markdown,
-    not to transcribe from the image.
-    """
-    with open(image_file_path, "rb") as image_file:
-        base64_image = base64.b64encode(image_file.read()).decode("utf-8")
-
-    column_headers = [
-        "ID",
-        "Name",
-        "Crew",
-        "Daily Output",
-        "Labor-Hours",
-        "Unit",
-        "Material",
-        "Labor",
-        "Equipment",
-        "Total",
-        "Total Incl O&P",
-    ]
-
-    prompt = (
-        "You are given the OCR-extracted text from an image and the original image itself. "
-        "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
-        "Do NOT transcribe or extract any new information from the image. "
-        "Only use the provided OCR text. "
-        "If the OCR text is unclear, leave it as is. "
-        "Do not add, guess, or hallucinate any information. "
-        "If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
-        "Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
-        f"The table columns are: {', '.join(column_headers)}. "
-        "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
-        "OCR Text:\n"
-        f"{ocr_text}"
-    )
-
-    response = client.chat.completions.create(
-        model=GPT_MODEL,
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": prompt},
-                    {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"}}
-                ]
-            }
-        ],
-        temperature=0,
-    )
-    markdown_text = response.choices[0].message.content.strip()
-
-    # Logging
-    if log_dir is not None:
-        log_file_path = os.path.join(log_dir, "conversion_log.txt")
-        with open(log_file_path, 'a', encoding='utf-8') as log_file:
-            log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
-            log_file.write(f"Image: {image_file_path}\n")
-            log_file.write("OCR Text:\n")
-            log_file.write(ocr_text + "\n")
-            log_file.write("Prompt:\n")
-            log_file.write(prompt + "\n")
-            log_file.write("GPT Markdown Output:\n")
-            log_file.write(markdown_text + "\n")
-            log_file.write("="*60 + "\n\n")
-
-    return markdown_text
 
 def save_markdown(markdown_text, output_path):
     """
@@ -174,66 +107,18 @@ def calculate_patches(image_file_path):
 
     return num_patches
 
-def convert_ocr_text_and_vertices_to_markdown(ocr_text, vertices_list, client, log_dir):
+def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=30000, tokens_per_call=3500, last_call_time=[0], calls_this_minute=[0]):
     """
-    Sends both the OCR text and the vertices list to ChatGPT, instructing it to only arrange the OCR text into markdown,
-    not to transcribe from the image.
+    Convert OCR lines to markdown format using ChatGPT, with token-per-minute rate limiting.
     """
-    # Convert vertices list to string
-    vertices_str = "\n".join([str(vertices) for vertices in vertices_list])
-
-    prompt = (
-        "You are given the OCR-extracted text from an image and the vertices list on the image of each line of text. "
-        "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
-        "Only use the provided OCR text. "
-        "Join lines of text that are part of the same row and make sense of the text. "
-        "Add headers, line breaks, and other markdown formatting as needed. "
-        "If the OCR text is unclear, leave it as is. "
-        "Do not add, guess, or hallucinate any information. "
-        "Determine if a table is present in the text. "
-        "If a table is present, arrange the text into a markdown table, otherwise, return the text as is. "
-        "- If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
-        "- Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
-        "- The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. "
-        "The vertices list is provided for reference, but do not use it to extract or transcribe any new information. "
-        "Use the vertices list only to understand the structure of the text. "
-        "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
-        "OCR Text:\n"
-        f"{ocr_text}\n\n"
-        "Vertices List:\n"
-        f"{vertices_str}"
-    )
-    response = client.chat.completions.create(
-        model=GPT_MODEL,
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": prompt},
-                ]
-            }
-        ],
-        temperature=0,
-    )
-    markdown_text = response.choices[0].message.content.strip()
-    # Logging
-    if log_dir is not None:
-        log_file_path = os.path.join(log_dir, "conversion_log.txt")
-        with open(log_file_path, 'a', encoding='utf-8') as log_file:
-            log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
-            log_file.write("OCR Text:\n")
-            log_file.write(ocr_text + "\n")
-            log_file.write("Prompt:\n")
-            log_file.write(prompt + "\n")
-            log_file.write("GPT Markdown Output:\n")
-            log_file.write(markdown_text + "\n")
-            log_file.write("="*60 + "\n\n")
-    return markdown_text
-
-def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir):
-    """
-    Convert OCR lines to markdown format using ChatGPT.
-    """
+    # Calculate the minimum interval between calls to stay under the TPM limit
+    min_interval = 60 * tokens_per_call / rate_limit_tpm  # seconds
+    now = time.time()
+    # Enforce rate limit
+    elapsed = now - last_call_time[0]
+    if elapsed < min_interval:
+        time.sleep(min_interval - elapsed)
+    last_call_time[0] = time.time()
     # Convert lines to string
     ocr_text = "\n".join(ocr_lines)
     prompt = (
@@ -456,10 +341,10 @@ def process_image_file(image_file, image_directory, markdown_directory, client):
             ocr_dict = extract_text_with_google_vision(image_file_path)
             save_ocr_dictionary(ocr_dict, ocr_dict_file_path)
         ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
-        lines_to_show = 5
-        print(f"Showing first {lines_to_show} lines of OCR text:")
-        for line in ocr_lines[:lines_to_show]:
-            print(line)
+        # lines_to_show = 5
+        # print(f"Showing first {lines_to_show} lines of OCR text:")
+        # for line in ocr_lines[:lines_to_show]:
+        #     print(line)
         markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
         print(f"Markdown text for {image_file} completed.")
         if markdown_text:
