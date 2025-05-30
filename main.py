@@ -14,6 +14,7 @@ import numpy as np
 from google.cloud import vision
 import pickle
 import traceback
+import concurrent.futures
 
 POPPLER_PATH = r"C:\Program Files\poppler-24.08.0\Library\bin"
 GPT_MODEL = "gpt-4.1"  # Specify the GPT model to use
@@ -438,6 +439,39 @@ def process_ocr_dictionary_into_lines(lines, tolerance_percentage=0.05):
     
     return result
 
+def process_image_file(image_file, image_directory, markdown_directory, client):
+    try:
+        image_file_path = os.path.join(image_directory, image_file)
+        markdown_file_name = os.path.splitext(image_file)[0] + ".md"
+        markdown_file_path = os.path.join(markdown_directory, markdown_file_name)
+        if os.path.exists(markdown_file_path):
+            print(f"Markdown file {markdown_file_name} already exists. Skipping conversion.")
+            return
+        ocr_dict_file_path = os.path.join(markdown_directory, f"{os.path.splitext(image_file)[0]}_ocr.pkl")
+        if os.path.exists(ocr_dict_file_path):
+            print(f"OCR dictionary file {ocr_dict_file_path} already exists. Loading it...")
+            ocr_dict = load_ocr_dictionary(ocr_dict_file_path)
+        else:
+            print(f"Extracting text from {image_file} using OCR...")
+            ocr_dict = extract_text_with_google_vision(image_file_path)
+            save_ocr_dictionary(ocr_dict, ocr_dict_file_path)
+        ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
+        lines_to_show = 5
+        print(f"Showing first {lines_to_show} lines of OCR text:")
+        for line in ocr_lines[:lines_to_show]:
+            print(line)
+        markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
+        print(f"Markdown text for {image_file} completed.")
+        if markdown_text:
+            print(f"Saving markdown text to {markdown_file_path}...")
+            with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
+                markdown_file.write(markdown_text)
+        return f"Processed {image_file}"
+    except Exception as e:
+        print(f"An error occurred processing {image_file}: {e}")
+        print(f"Traceback: {traceback.format_exc()}")
+        return f"Error processing {image_file}: {e}"
+
 def main():
     """
     Main function to run the script.
@@ -537,80 +571,17 @@ def main():
     root = tk.Tk()
     try:
         print("\n" * 20)
-        # Loop through each image file and convert it to markdown
-        # for image_file in image_files[:1]: # Limit to 1 file for testing
-        for index, image_file in enumerate(image_files):
-            image_file_path = os.path.join(image_directory, image_file)
-
-            # Check if the markdown file already exists
-            markdown_file_name = os.path.splitext(image_file)[0] + ".md"
-            markdown_file_path = os.path.join(markdown_directory, markdown_file_name)
-
-            if os.path.exists(markdown_file_path):
-                print(f"Markdown file {markdown_file_name} already exists. Skipping conversion.")
-                continue
-
-            # # Calculate number of patches
-            # num_patches = calculate_patches(image_file_path)
-            # print(f"Number of patches in {image_file}: {num_patches}")
-
-            # # Confirm with the user before proceeding
-            # proceed = tk.messagebox.askyesno("Proceed?", f"Do you want to convert {image_file} to markdown?\nNumber of patches: {num_patches}")
-            # if not proceed:
-            #     print("Conversion cancelled by user.")
-            #     continue
-            
-            # Check if the file has already been processed with OCR
-            ocr_dict_file_path = os.path.join(markdown_directory, f"{os.path.splitext(image_file)[0]}_ocr.pkl")
-
-            if os.path.exists(ocr_dict_file_path):
-                # Load the OCR text from the file
-                print(f"OCR dictionary file {ocr_dict_file_path} already exists. Loading it...")
-                ocr_dict = load_ocr_dictionary(ocr_dict_file_path)
-
-            else:
-            # if True: # Forcing OCR processing for testing
-                # Extract text using OCR
-                print(f"Extracting text from {image_file} using OCR...")
-                ocr_dict = extract_text_with_google_vision(image_file_path)
-
-                # Save the OCR dictionary to a file
-                save_ocr_dictionary(ocr_dict, ocr_dict_file_path)
-
-            # Process the OCR dictionary into lines of text
-            ocr_lines = process_ocr_dictionary_into_lines(ocr_dict, tolerance_percentage=0.01)
-            lines_to_show = 5
-            print(f"Showing first {lines_to_show} lines of OCR text:")
-            for line in ocr_lines[:lines_to_show]:
-                # print()
-                print(line)
-
-            # Plot the vertices list on the image
-            # plot_vertices_list(image_file_path, vertices_list)
-
-            # Send the OCR text and the vertices to ChatGPT for markdown conversion
-            markdown_text = None
-            percentage = int(index / len(image_files) * 100)
-            print(f"Converting OCR text to markdown for {image_file} out of {len(ocr_lines)} lines ({percentage}%)...")
-            markdown_text = convert_ocr_lines_to_markdown(ocr_lines, client, log_dir=markdown_directory)
-            print(f"Markdown text for {image_file} completed.")
-
-            if markdown_text:
-                # Save the markdown text to a file
-                print(f"Saving markdown text to {markdown_file_path}...")
-                with open(markdown_file_path, 'w', encoding='utf-8') as markdown_file:
-                    markdown_file.write(markdown_text)
-
-            # # Print the markdown text
-            # print("\n" * 2)
-            # print(f"Markdown text for {image_file}:\n{markdown_text}")
-
-        # Print a message indicating that the process is complete
+        # Use ThreadPoolExecutor to process images in parallel
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            futures = [executor.submit(process_image_file, image_file, image_directory, markdown_directory, client)
+                       for image_file in image_files]
+            for future in concurrent.futures.as_completed(futures):
+                result = future.result()
+                print(result)
         print("All images converted to markdown successfully.")
     except Exception as e:
         print(f"An error occurred: {e}")
         print(f"Traceback: {traceback.format_exc()}")
-
     # Close the root window
     root.destroy()
 

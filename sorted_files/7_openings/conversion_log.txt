@@ -11170,3 +11170,886 @@ GPT Markdown Output:
 316 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 ============================================================
 
+Timestamp: 2025-05-29T23:00:41.293212
+OCR Text:
+08 83 Mirror8308 83 13
+-
+Mirrorsd Glass Glazing
+0100
+1200
+0500
+000
+100
+500
+08 83 13.10 Mirrors
+010 MIRRORS, No frames, wall type, 1/4" plate glass, polished edge
+Up to 5 S.F.
+Over 5 S.F.
+Door type, 1/4" plate glass, up to 12 S.F.
+Float glass, up to 10 S
+ 08    83      13       -     Mirrored              Glass          Glazing
+                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+08   83    13.10        Mirrors                                                                                        Crew     Output     Hours      Unit       Material           Labor         Equipment            Tjegy          Ind   O& P
+  010     MIRRORS        , No  frames  ,wall  type , 1/4  " plate  glass ,polished   edge
+0100                       Up  to 5 S.F.                                                                              2  Glaz     125       128       S.F              9.55             6.90                              16.45            21
+1200                       Over  5 S.F.                                                                                           160      .100                        9.15             5.40                              14.55             18.15
+0500                 Door  type  ,1/4  "  plate glass , up  to 12  S.F.                                                           160      .100                        9.50             5.40                              14.90             18.50
+  000           Float glass , up  to 10  S.F., 1/8  " thick                                                              ||       160.100                              6.70             5.40                              12.10            15.40
+  100                     3/16   "  thick                                                                                         150      .107                        8.65             5.75                              14.40            18.05
+  500                12 "  x 12 " wall  tiles,square   edge  ,clear                                                               195      .082                        2.85             4.43                                7.28             9.75
+  600                     Veined                                                                                                  195.082                              6.35             4.43                              10.78             13.55
+2000                 1/4  "  thick, stock  sizes, one  way   transparent                                                          125      .128                      23                 6.90                              29.90            35.50
+2010                      Bathroom    , unframed   ,laminated                                                                     160      .100                       16.40             5.40                              21.80            26
+08   83    13.15        Reflective          Glass
+0010      REFLECTIVE        GLASS
+0100            1/4 "  float with  fused  metallic  oxide  fixed                                               G      2  Glaz     115      .139      S.F.   :        18.25              7.50                              25.75            31
+0500            1/4  " float glass  with  reflective applied  coating                                          G         "        115      .139        "             39.50              7.50                              47               54
+08          84            Plastic                   Glazing
+08     84      10             Plexiglass               Glazing
+08   84    10.10        Plexiglass          Acrylic
+3010      PLEXIGLASS         ACRYLIC      , clear,masked    ,
+0020            1/8  " thick, cut sheets                                                                              2 Glaz      170      .094       S.F            15.50              5.10                              20.60            24.50
+0200                       Full sheets                                                                                            195      .082                        3.42             4.43                                7.85           10.35
+0500            1/4 "  thick, cut sheets                                                                                          165      .097             1         11.60             5.25                              16.85            20.50
+0600                 Full sheets                                                                                              !   185.086                              6.75             4.67                              11.42            14.35
+0900            3/8  " thick, cut sheets                                                                                          155.103                            10.25              5.55                              15.80            19.55
+1000                 Full sheets                                                                                                  180      .089                      11                 4.80                              15.80            19.25
+1300            1/2 "  thick, cut sheets                                                                                          135      .119                      24.50              6.40                              30.90            36.50
+1400                 Full sheets                                                                                                  150      .107                      15.10              5.75                              20.85            25
+1700            3/4  " thick, cut sheets                                                                                          115      .139                      37                 7.50                              44.50            52
+1800                 Full sheets                                                                                                  130      .123                      21                 6.65                              27.65            3232
+2100            1"  thick, cut sheets                                                                                             105      .152                      54                 8.25                              62.25            72
+2200                 Full sheets                                                                                                  125.128                 ]          20.50              6.90                              27.40            33.50
+3000            Colored , 1/8  "  thick, cut sheets                                                                               170      .094                      19.65              5.10                              24.75            29
+3200                       Full sheets                                                                                            195      .082                      11.30              4.43                              15.73            19.05
+3500                 1/4  " thick , cut sheets                                                                                    165      .097                      21.50              5.25                              26.75            32
+3600                       Fullsheets                                                                                             185      .086                      16.15              4.67                              20.82            25
+4000            Mirrors ,untinted  ,cut  sheets , 1/8  " thick                                                                    185      .086                      11.40              4.67                              16.07            19.50
+4200                 1/4  " thick                                                                                                 180      .089                      20.50              4.80                              25.30            29.50
+08      84     20       -     Polycarbonate
+08   84    20.10        Thermoplastic
+0010      THERMOPLASTIC            , clear, masked   , cut sheets
+0020                       1/8  " thick                                                                               2 Glaz      170      .094      S.F.             4.96              5.10                              10.06            36
+0500                      3/16   "  thick                                                                                         165      .097                       7.45              5.25                              12.70            16
+1000                       1/4  " thick                                                                                          155       .103                       8.95              5.55                              14.50            18.15
+1500                      3/8   " thick                                                                                          150    |  .107       4-             16.25              5.75                             22                26.50
+                                   For    customer          support       on   your     Building        Construction           Costs      with     RSMeans          data   ,  call   800.448.8182         .                                  317
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+08 83 Mirror8308 83 13
+-
+Mirrorsd Glass Glazing
+0100
+1200
+0500
+000
+100
+500
+08 83 13.10 Mirrors
+010 MIRRORS, No frames, wall type, 1/4" plate glass, polished edge
+Up to 5 S.F.
+Over 5 S.F.
+Door type, 1/4" plate glass, up to 12 S.F.
+Float glass, up to 10 S
+ 08    83      13       -     Mirrored              Glass          Glazing
+                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+08   83    13.10        Mirrors                                                                                        Crew     Output     Hours      Unit       Material           Labor         Equipment            Tjegy          Ind   O& P
+  010     MIRRORS        , No  frames  ,wall  type , 1/4  " plate  glass ,polished   edge
+0100                       Up  to 5 S.F.                                                                              2  Glaz     125       128       S.F              9.55             6.90                              16.45            21
+1200                       Over  5 S.F.                                                                                           160      .100                        9.15             5.40                              14.55             18.15
+0500                 Door  type  ,1/4  "  plate glass , up  to 12  S.F.                                                           160      .100                        9.50             5.40                              14.90             18.50
+  000           Float glass , up  to 10  S.F., 1/8  " thick                                                              ||       160.100                              6.70             5.40                              12.10            15.40
+  100                     3/16   "  thick                                                                                         150      .107                        8.65             5.75                              14.40            18.05
+  500                12 "  x 12 " wall  tiles,square   edge  ,clear                                                               195      .082                        2.85             4.43                                7.28             9.75
+  600                     Veined                                                                                                  195.082                              6.35             4.43                              10.78             13.55
+2000                 1/4  "  thick, stock  sizes, one  way   transparent                                                          125      .128                      23                 6.90                              29.90            35.50
+2010                      Bathroom    , unframed   ,laminated                                                                     160      .100                       16.40             5.40                              21.80            26
+08   83    13.15        Reflective          Glass
+0010      REFLECTIVE        GLASS
+0100            1/4 "  float with  fused  metallic  oxide  fixed                                               G      2  Glaz     115      .139      S.F.   :        18.25              7.50                              25.75            31
+0500            1/4  " float glass  with  reflective applied  coating                                          G         "        115      .139        "             39.50              7.50                              47               54
+08          84            Plastic                   Glazing
+08     84      10             Plexiglass               Glazing
+08   84    10.10        Plexiglass          Acrylic
+3010      PLEXIGLASS         ACRYLIC      , clear,masked    ,
+0020            1/8  " thick, cut sheets                                                                              2 Glaz      170      .094       S.F            15.50              5.10                              20.60            24.50
+0200                       Full sheets                                                                                            195      .082                        3.42             4.43                                7.85           10.35
+0500            1/4 "  thick, cut sheets                                                                                          165      .097             1         11.60             5.25                              16.85            20.50
+0600                 Full sheets                                                                                              !   185.086                              6.75             4.67                              11.42            14.35
+0900            3/8  " thick, cut sheets                                                                                          155.103                            10.25              5.55                              15.80            19.55
+1000                 Full sheets                                                                                                  180      .089                      11                 4.80                              15.80            19.25
+1300            1/2 "  thick, cut sheets                                                                                          135      .119                      24.50              6.40                              30.90            36.50
+1400                 Full sheets                                                                                                  150      .107                      15.10              5.75                              20.85            25
+1700            3/4  " thick, cut sheets                                                                                          115      .139                      37                 7.50                              44.50            52
+1800                 Full sheets                                                                                                  130      .123                      21                 6.65                              27.65            3232
+2100            1"  thick, cut sheets                                                                                             105      .152                      54                 8.25                              62.25            72
+2200                 Full sheets                                                                                                  125.128                 ]          20.50              6.90                              27.40            33.50
+3000            Colored , 1/8  "  thick, cut sheets                                                                               170      .094                      19.65              5.10                              24.75            29
+3200                       Full sheets                                                                                            195      .082                      11.30              4.43                              15.73            19.05
+3500                 1/4  " thick , cut sheets                                                                                    165      .097                      21.50              5.25                              26.75            32
+3600                       Fullsheets                                                                                             185      .086                      16.15              4.67                              20.82            25
+4000            Mirrors ,untinted  ,cut  sheets , 1/8  " thick                                                                    185      .086                      11.40              4.67                              16.07            19.50
+4200                 1/4  " thick                                                                                                 180      .089                      20.50              4.80                              25.30            29.50
+08      84     20       -     Polycarbonate
+08   84    20.10        Thermoplastic
+0010      THERMOPLASTIC            , clear, masked   , cut sheets
+0020                       1/8  " thick                                                                               2 Glaz      170      .094      S.F.             4.96              5.10                              10.06            36
+0500                      3/16   "  thick                                                                                         165      .097                       7.45              5.25                              12.70            16
+1000                       1/4  " thick                                                                                          155       .103                       8.95              5.55                              14.50            18.15
+1500                      3/8   " thick                                                                                          150    |  .107       4-             16.25              5.75                             22                26.50
+                                   For    customer          support       on   your     Building        Construction           Costs      with     RSMeans          data   ,  call   800.448.8182         .                                  317
+
+
+GPT Markdown Output:
+# 08 83 Mirror8308 83 13
+
+## Mirrorsd Glass Glazing
+
+### 08 83 13.10 Mirrors
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0100 | Up to 5 S.F.                                                         | 2 Glaz  | 125          | 128         | S.F  | 9.55     | 6.90  |           | 16.45  | 21             |
+| 1200 | Over 5 S.F.                                                          |         | 160          | .100        |      | 9.15     | 5.40  |           | 14.55  | 18.15          |
+| 0500 | Door type, 1/4" plate glass, up to 12 S.F.                           |         | 160          | .100        |      | 9.50     | 5.40  |           | 14.90  | 18.50          |
+| 000  | Float glass, up to 10 S.F., 1/8" thick                               |         | 160.100      |             |      | 6.70     | 5.40  |           | 12.10  | 15.40          |
+| 100  | 3/16" thick                                                          |         | 150          | .107        |      | 8.65     | 5.75  |           | 14.40  | 18.05          |
+| 500  | 12" x 12" wall tiles, square edge, clear                             |         | 195          | .082        |      | 2.85     | 4.43  |           | 7.28   | 9.75           |
+| 600  | Veined                                                               |         | 195.082      |             |      | 6.35     | 4.43  |           | 10.78  | 13.55          |
+| 2000 | 1/4" thick, stock sizes, one way transparent                         |         | 125          | .128        |      | 23       | 6.90  |           | 29.90  | 35.50          |
+| 2010 | Bathroom, unframed, laminated                                        |         | 160          | .100        |      | 16.40    | 5.40  |           | 21.80  | 26             |
+
+### 08 83 13.15 Reflective Glass
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | REFLECTIVE GLASS                                                     |         |              |             |      |          |       |           |        |                |
+| 0100 | 1/4" float with fused metallic oxide fixed                           | 2 Glaz  | 115          | .139        | S.F. | 18.25    | 7.50  |           | 25.75  | 31             |
+| 0500 | 1/4" float glass with reflective applied coating                     |         | 115          | .139        |      | 39.50    | 7.50  |           | 47     | 54             |
+
+### 08 84 Plastic Glazing
+
+#### 08 84 10 Plexiglass Glazing
+
+##### 08 84 10.10 Plexiglass Acrylic
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3010 | PLEXIGLASS ACRYLIC, clear, masked                                   |         |              |             |      |          |       |           |        |                |
+| 0020 | 1/8" thick, cut sheets                                               | 2 Glaz  | 170          | .094        | S.F  | 15.50    | 5.10  |           | 20.60  | 24.50          |
+| 0200 | Full sheets                                                          |         | 195          | .082        |      | 3.42     | 4.43  |           | 7.85   | 10.35          |
+| 0500 | 1/4" thick, cut sheets                                               |         | 165          | .097        | 1    | 11.60    | 5.25  |           | 16.85  | 20.50          |
+| 0600 | Full sheets                                                          |         | 185.086      |             |      | 6.75     | 4.67  |           | 11.42  | 14.35          |
+| 0900 | 3/8" thick, cut sheets                                               |         | 155.103      |             |      | 10.25    | 5.55  |           | 15.80  | 19.55          |
+| 1000 | Full sheets                                                          |         | 180          | .089        |      | 11       | 4.80  |           | 15.80  | 19.25          |
+| 1300 | 1/2" thick, cut sheets                                               |         | 135          | .119        |      | 24.50    | 6.40  |           | 30.90  | 36.50          |
+| 1400 | Full sheets                                                          |         | 150          | .107        |      | 15.10    | 5.75  |           | 20.85  | 25             |
+| 1700 | 3/4" thick, cut sheets                                               |         | 115          | .139        |      | 37       | 7.50  |           | 44.50  | 52             |
+| 1800 | Full sheets                                                          |         | 130          | .123        |      | 21       | 6.65  |           | 27.65  | 3232           |
+| 2100 | 1" thick, cut sheets                                                 |         | 105          | .152        |      | 54       | 8.25  |           | 62.25  | 72             |
+| 2200 | Full sheets                                                          |         | 125.128      |             | ]    | 20.50    | 6.90  |           | 27.40  | 33.50          |
+| 3000 | Colored, 1/8" thick, cut sheets                                      |         | 170          | .094        |      | 19.65    | 5.10  |           | 24.75  | 29             |
+| 3200 | Full sheets                                                          |         | 195          | .082        |      | 11.30    | 4.43  |           | 15.73  | 19.05          |
+| 3500 | 1/4" thick, cut sheets                                               |         | 165          | .097        |      | 21.50    | 5.25  |           | 26.75  | 32             |
+| 3600 | Fullsheets                                                           |         | 185          | .086        |      | 16.15    | 4.67  |           | 20.82  | 25             |
+| 4000 | Mirrors, untinted, cut sheets, 1/8" thick                            |         | 185          | .086        |      | 11.40    | 4.67  |           | 16.07  | 19.50          |
+| 4200 | 1/4" thick                                                           |         | 180          | .089        |      | 20.50    | 4.80  |           | 25.30  | 29.50          |
+
+### 08 84 20 Polycarbonate
+
+#### 08 84 20.10 Thermoplastic
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | THERMOPLASTIC, clear, masked, cut sheets                             |         |              |             |      |          |       |           |        |                |
+| 0020 | 1/8" thick                                                           | 2 Glaz  | 170          | .094        | S.F. | 4.96     | 5.10  |           | 10.06  | 36             |
+| 0500 | 3/16" thick                                                          |         | 165          | .097        |      | 7.45     | 5.25  |           | 12.70  | 16             |
+| 1000 | 1/4" thick                                                           |         | 155          | .103        |      | 8.95     | 5.55  |           | 14.50  | 18.15          |
+| 1500 | 3/8" thick                                                           |         | 150          | .107        | 4-   | 16.25    | 5.75  |           | 22     | 26.50          |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-29T23:01:05.093407
+OCR Text:
+               08087 Glazing S87face Films
+Glazing3
+Solar Control Films
+0Surface.10 Solar Films On GlaFilms10 SOLAR FILMS ON GLASS (glass not included)
+Bronze, 20% VLT
+50% VLT
+1000
+1020
+1050
+Neutral, 20% VLT
+1100
+Silver, 15% VLT
+1120
+35% VLT
+1150
+3000
+08 87 16
+68% V
+                 08      87      13            Solar         Control            Films
+                                                                                                                                                  Daily    Labor-                                      2022   Bare   Costs                                Total
+                 08    87    13.10        Solar     Films      On     Glass                                                             Crew     Output     Hours     Unit        Material           Labor         Equipment            Total           Inc  0 &
+                 0010       SOLAR      FILMS     ON   GLASS      (glass  not included  )
+                 1000                  Bronze  ,20  %  VLT                                                                               H1-2      180      .133       S.F.             1.82              6.85                               8.67            12
+                  1020                      50  % VLT                                                                                              180      .133                        1.09              6.85                               7.94            11
+                  1050                 Neutral , 20 %  VLT                                                                                         180      .133                          .72             6.85                               7.57            10
+                  1100                 Silver, 15 %  VLT                                                                                           180      .133                          .86             6.85                               7.71            11
+                  1120                      35 %  VLT                                                                                              180      .133                        1.19              6.85                               8.04            11
+                  1150                      68  % VLT                                                                                              180    1.133                           .67             6.85                               7.52            10
+                 3000                  One  way   mirror  with night  vision 5%   in and  15  % out  VLT                                           180      .133                        3.48              6.85                              10.33            14
+                  08     87     16             Glass          Safety           Films
+                 08    87    16.10       Safety       Films      On     Glass
+                 0010       SAFETY      FILMS     ON   GLASS      (glass  not included  )
+                 0015            Safety  film  helps  hold glass  together  when    broken
+                 0050                 Safety   film, clear, 2 mil                                                                        H -2      180      .133       S.F.   1         1.69              6.85                               8.54            2112
+                 0100                 Safety   film, clear, 4 mil                                                                                  180      .133                        1.60              6.85                                8.45
+                 0110                 Safety   film, tinted ,4  mil                                                                                180      .133                        1.06              6.85                               7.91
+                 0150                 Safety   film, black  tint,8  mil                                                                            180.133                              1.95              6.85                                8.80
+                 08      87     26             Bird       Control             Film
+                 08    87   26.10         Bird    Control         Film
+                 0010       BIRD    CONTROL         FILM
+                 0050                  Patterned  , adhered   to glass                                                                  2 Glaz     180      .089       S.F.             6.50             4.80                               11.30            14
+                 0200                  Decals  small , adhered   to glass                                                             .1  Glaz      50      .160        Ea.             1.85              8.65                              10.50            14
+                 0250                       Decals  large , adhered   to glass                                                                      50      .160         PY             8.55              8.65                              17.20            22
+                 0300     |                 Decals  set  of 4 ,adhered   to glass                                                                   25      .320       Set    |         7.90            17.30                               25.20            34
+                 0400                  Bird control  film tape                                                                                      10      .800    '  Roll             5.30            43                                  48.30            70
+                  08     87     33             Electrically                Tinted           Window               Film
+                 08    87    33.20       Window           Film
+                 0010       WINDOW         FILM    adhered    on glass  (glass  not included  )
+                 0015       Film  ispre wired   and  can  be trimmed
+                 0100            Window     film 4 S.F.  adhered   on glass                                                             1 Glaz     200      .040       S.F.          254                  2.16                            256.16           282
+                 0120                  6 S.F.                                                                                                      180      .044                     380                  2.40                            382.40           425
+                 0160                  9 S.F                                                                                                       170.047                           570                  2.54                            572.54            630
+                 0180                  10  S.F.                                                                                                 1150        .053                     158       1          2.88                            160.88            178
+                 0200     i            12  S.F.                                                                                                    144      .056                     760                  3                               763              840
+                 02201                 14  S.F                                                                                                     140    : .057                     885                  3.09                            888.09           980
+                 0240                  16  S.F.                                                                                                    128      .063                  1,025                   3.38                          1,028.38         1,125
+                 0260                  18  S.F.                                                                                                    126      .063                   1,150                  3.43                          1,153.43         1,250
+                 0280                  20  S.F.                                                                                                    120      .067                  1,275                   3.60                          1,278.60         1,400
+                  08     87     53        -    Security              Films        On       Glass
+                 08    87    53.10       Security         Film     Adhered           On     Glass
+                 0010       SECURITY        FILM   ADHERED        ON    GLASS     ( glass not  included )
+                 0020            Security  film ,clear ,7  mil                                                                          1 Glaz     200      .040       S.F.             2.42              2.16                               4.58             56456
+                 0030                  8 mil                                                                                               1200             .040                        2.64              2.16                               4.80
+                 0040                  9 mil                                                                                                       200      .040                         1.27             2.16                                3.43
+                 0050     I            10  mil                                                                                        |    |    |  200      .040                        2.19             2.16                                4.35
+                 0060                  12  mil                                                                                                  |  200.040                              3.21             2.16                                5.371
+                 0075                  15  mil                                                                                                     200      .040                        2.55              2.16                               4.75              6.
+                 0100            Security  film , sealed  with  structural adhesive  , 7  mil                                                      180      .044                        2.44              2.40                               4.83              6
+                 0110                  8 mil                                                                                                       180      .044                        2.65              2.40                               5.05              6.
+                 0140                  14  mil                                                                                                     180      .044                        4.39              2.40                                6.79            8
+               318                                   For    customer         support        on   your     Building        Construction           Costs      with    RSMeans           data   ,  call   800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+               08087 Glazing S87face Films
+Glazing3
+Solar Control Films
+0Surface.10 Solar Films On GlaFilms10 SOLAR FILMS ON GLASS (glass not included)
+Bronze, 20% VLT
+50% VLT
+1000
+1020
+1050
+Neutral, 20% VLT
+1100
+Silver, 15% VLT
+1120
+35% VLT
+1150
+3000
+08 87 16
+68% V
+                 08      87      13            Solar         Control            Films
+                                                                                                                                                  Daily    Labor-                                      2022   Bare   Costs                                Total
+                 08    87    13.10        Solar     Films      On     Glass                                                             Crew     Output     Hours     Unit        Material           Labor         Equipment            Total           Inc  0 &
+                 0010       SOLAR      FILMS     ON   GLASS      (glass  not included  )
+                 1000                  Bronze  ,20  %  VLT                                                                               H1-2      180      .133       S.F.             1.82              6.85                               8.67            12
+                  1020                      50  % VLT                                                                                              180      .133                        1.09              6.85                               7.94            11
+                  1050                 Neutral , 20 %  VLT                                                                                         180      .133                          .72             6.85                               7.57            10
+                  1100                 Silver, 15 %  VLT                                                                                           180      .133                          .86             6.85                               7.71            11
+                  1120                      35 %  VLT                                                                                              180      .133                        1.19              6.85                               8.04            11
+                  1150                      68  % VLT                                                                                              180    1.133                           .67             6.85                               7.52            10
+                 3000                  One  way   mirror  with night  vision 5%   in and  15  % out  VLT                                           180      .133                        3.48              6.85                              10.33            14
+                  08     87     16             Glass          Safety           Films
+                 08    87    16.10       Safety       Films      On     Glass
+                 0010       SAFETY      FILMS     ON   GLASS      (glass  not included  )
+                 0015            Safety  film  helps  hold glass  together  when    broken
+                 0050                 Safety   film, clear, 2 mil                                                                        H -2      180      .133       S.F.   1         1.69              6.85                               8.54            2112
+                 0100                 Safety   film, clear, 4 mil                                                                                  180      .133                        1.60              6.85                                8.45
+                 0110                 Safety   film, tinted ,4  mil                                                                                180      .133                        1.06              6.85                               7.91
+                 0150                 Safety   film, black  tint,8  mil                                                                            180.133                              1.95              6.85                                8.80
+                 08      87     26             Bird       Control             Film
+                 08    87   26.10         Bird    Control         Film
+                 0010       BIRD    CONTROL         FILM
+                 0050                  Patterned  , adhered   to glass                                                                  2 Glaz     180      .089       S.F.             6.50             4.80                               11.30            14
+                 0200                  Decals  small , adhered   to glass                                                             .1  Glaz      50      .160        Ea.             1.85              8.65                              10.50            14
+                 0250                       Decals  large , adhered   to glass                                                                      50      .160         PY             8.55              8.65                              17.20            22
+                 0300     |                 Decals  set  of 4 ,adhered   to glass                                                                   25      .320       Set    |         7.90            17.30                               25.20            34
+                 0400                  Bird control  film tape                                                                                      10      .800    '  Roll             5.30            43                                  48.30            70
+                  08     87     33             Electrically                Tinted           Window               Film
+                 08    87    33.20       Window           Film
+                 0010       WINDOW         FILM    adhered    on glass  (glass  not included  )
+                 0015       Film  ispre wired   and  can  be trimmed
+                 0100            Window     film 4 S.F.  adhered   on glass                                                             1 Glaz     200      .040       S.F.          254                  2.16                            256.16           282
+                 0120                  6 S.F.                                                                                                      180      .044                     380                  2.40                            382.40           425
+                 0160                  9 S.F                                                                                                       170.047                           570                  2.54                            572.54            630
+                 0180                  10  S.F.                                                                                                 1150        .053                     158       1          2.88                            160.88            178
+                 0200     i            12  S.F.                                                                                                    144      .056                     760                  3                               763              840
+                 02201                 14  S.F                                                                                                     140    : .057                     885                  3.09                            888.09           980
+                 0240                  16  S.F.                                                                                                    128      .063                  1,025                   3.38                          1,028.38         1,125
+                 0260                  18  S.F.                                                                                                    126      .063                   1,150                  3.43                          1,153.43         1,250
+                 0280                  20  S.F.                                                                                                    120      .067                  1,275                   3.60                          1,278.60         1,400
+                  08     87     53        -    Security              Films        On       Glass
+                 08    87    53.10       Security         Film     Adhered           On     Glass
+                 0010       SECURITY        FILM   ADHERED        ON    GLASS     ( glass not  included )
+                 0020            Security  film ,clear ,7  mil                                                                          1 Glaz     200      .040       S.F.             2.42              2.16                               4.58             56456
+                 0030                  8 mil                                                                                               1200             .040                        2.64              2.16                               4.80
+                 0040                  9 mil                                                                                                       200      .040                         1.27             2.16                                3.43
+                 0050     I            10  mil                                                                                        |    |    |  200      .040                        2.19             2.16                                4.35
+                 0060                  12  mil                                                                                                  |  200.040                              3.21             2.16                                5.371
+                 0075                  15  mil                                                                                                     200      .040                        2.55              2.16                               4.75              6.
+                 0100            Security  film , sealed  with  structural adhesive  , 7  mil                                                      180      .044                        2.44              2.40                               4.83              6
+                 0110                  8 mil                                                                                                       180      .044                        2.65              2.40                               5.05              6.
+                 0140                  14  mil                                                                                                     180      .044                        4.39              2.40                                6.79            8
+               318                                   For    customer         support        on   your     Building        Construction           Costs      with    RSMeans           data   ,  call   800.448.8182          .
+
+
+GPT Markdown Output:
+# 08087 Glazing Surface Films
+
+## Glazing3
+
+### Solar Control Films
+
+#### 08 87 13 Solar Control Films
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 13.10 | Solar Films On Glass                                                        |        |              |             |      |          |       |           |        |                |
+| 0010  | SOLAR FILMS ON GLASS (glass not included)                             |        |              |             |      |          |       |           |        |                |
+| 1000  | Bronze, 20% VLT                                                      | H1-2   | 180          | .133        | S.F. | 1.82     | 6.85  |           | 8.67   | 12             |
+| 1020  | 50% VLT                                                              |        | 180          | .133        |      | 1.09     | 6.85  |           | 7.94   | 11             |
+| 1050  | Neutral, 20% VLT                                                     |        | 180          | .133        |      | .72      | 6.85  |           | 7.57   | 10             |
+| 1100  | Silver, 15% VLT                                                      |        | 180          | .133        |      | .86      | 6.85  |           | 7.71   | 11             |
+| 1120  | 35% VLT                                                              |        | 180          | .133        |      | 1.19     | 6.85  |           | 8.04   | 11             |
+| 1150  | 68% VLT                                                              |        | 180          | 1.133       |      | .67      | 6.85  |           | 7.52   | 10             |
+| 3000  | One way mirror with night vision 5% in and 15% out VLT               |        | 180          | .133        |      | 3.48     | 6.85  |           | 10.33  | 14             |
+
+---
+
+#### 08 87 16 Glass Safety Films
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 16.10 | Safety Films On Glass                                                      |        |              |             |      |          |       |           |        |                |
+| 0010  | SAFETY FILMS ON GLASS (glass not included)                           |        |              |             |      |          |       |           |        |                |
+| 0015  | Safety film helps hold glass together when broken                    |        |              |             |      |          |       |           |        |                |
+| 0050  | Safety film, clear, 2 mil                                            | H-2    | 180          | .133        | S.F. | 1.69     | 6.85  |           | 8.54   | 2112           |
+| 0100  | Safety film, clear, 4 mil                                            |        | 180          | .133        |      | 1.60     | 6.85  |           | 8.45   |                |
+| 0110  | Safety film, tinted, 4 mil                                           |        | 180          | .133        |      | 1.06     | 6.85  |           | 7.91   |                |
+| 0150  | Safety film, black tint, 8 mil                                       |        | 180.133      |             |      | 1.95     | 6.85  |           | 8.80   |                |
+
+---
+
+#### 08 87 26 Bird Control Film
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 26.10 | Bird Control Film                                                          |        |              |             |      |          |       |           |        |                |
+| 0010  | BIRD CONTROL FILM                                                    |        |              |             |      |          |       |           |        |                |
+| 0050  | Patterned, adhered to glass                                          | 2 Glaz | 180          | .089        | S.F. | 6.50     | 4.80  |           | 11.30  | 14             |
+| 0200  | Decals small, adhered to glass                                       | .1 Glaz| 50           | .160        | Ea.  | 1.85     | 8.65  |           | 10.50  | 14             |
+| 0250  | Decals large, adhered to glass                                       |        | 50           | .160        | PY   | 8.55     | 8.65  |           | 17.20  | 22             |
+| 0300  | Decals set of 4, adhered to glass                                    |        | 25           | .320        | Set  | 7.90     | 17.30 |           | 25.20  | 34             |
+| 0400  | Bird control film tape                                               |        | 10           | .800        | Roll | 5.30     | 43    |           | 48.30  | 70             |
+
+---
+
+#### 08 87 33 Electrically Tinted Window Film
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 08 87 33.20 | Window Film                                                                 |        |              |             |      |          |       |           |          |                |
+| 0010  | WINDOW FILM adhered on glass (glass not included)                    |        |              |             |      |          |       |           |          |                |
+| 0015  | Film is pre wired and can be trimmed                                 |        |              |             |      |          |       |           |          |                |
+| 0100  | Window film 4 S.F. adhered on glass                                  | 1 Glaz | 200          | .040        | S.F. | 254      | 2.16  |           | 256.16   | 282            |
+| 0120  | 6 S.F.                                                               |        | 180          | .044        |      | 380      | 2.40  |           | 382.40   | 425            |
+| 0160  | 9 S.F.                                                               |        | 170          | .047        |      | 570      | 2.54  |           | 572.54   | 630            |
+| 0180  | 10 S.F.                                                              |        | 1150         | .053        |      | 158      | 1     | 2.88      | 160.88   | 178            |
+| 0200  | 12 S.F.                                                              |        | 144          | .056        |      | 760      | 3     |           | 763      | 840            |
+| 02201 | 14 S.F.                                                              |        | 140          | : .057      |      | 885      | 3.09  |           | 888.09   | 980            |
+| 0240  | 16 S.F.                                                              |        | 128          | .063        |      | 1,025    | 3.38  |           | 1,028.38 | 1,125          |
+| 0260  | 18 S.F.                                                              |        | 126          | .063        |      | 1,150    | 3.43  |           | 1,153.43 | 1,250          |
+| 0280  | 20 S.F.                                                              |        | 120          | .067        |      | 1,275    | 3.60  |           | 1,278.60 | 1,400          |
+
+---
+
+#### 08 87 53 Security Films On Glass
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 53.10 | Security Film Adhered On Glass                                              |        |              |             |      |          |       |           |        |                |
+| 0010  | SECURITY FILM ADHERED ON GLASS (glass not included)                  |        |              |             |      |          |       |           |        |                |
+| 0020  | Security film, clear, 7 mil                                          | 1 Glaz | 200          | .040        | S.F. | 2.42     | 2.16  |           | 4.58   | 56456          |
+| 0030  | 8 mil                                                                |        | 1200         | .040        |      | 2.64     | 2.16  |           | 4.80   |                |
+| 0040  | 9 mil                                                                |        | 200          | .040        |      | 1.27     | 2.16  |           | 3.43   |                |
+| 0050  | 10 mil                                                               |        | 200          | .040        |      | 2.19     | 2.16  |           | 4.35   |                |
+| 0060  | 12 mil                                                               |        | 200.040      |             |      | 3.21     | 2.16  |           | 5.371  |                |
+| 0075  | 15 mil                                                               |        | 200          | .040        |      | 2.55     | 2.16  |           | 4.75   | 6.             |
+| 0100  | Security film, sealed with structural adhesive, 7 mil                |        | 180          | .044        |      | 2.44     | 2.40  |           | 4.83   | 6              |
+| 0110  | 8 mil                                                                |        | 180          | .044        |      | 2.65     | 2.40  |           | 5.05   | 6.             |
+| 0140  | 14 mil                                                               |        | 180          | .044        |      | 4.39     | 2.40  |           | 6.79   | 8              |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-29T23:01:27.645725
+OCR Text:
+08 88 Specia88Function GlSpecial8 88 40 - Acoustical GlFunctions
+08 88 40.10 Sound ReducGlazingits
+0010 SOUND REDUCTION UNITS, 1 lite at 3/8", 1 lite at 3/16"
+0020
+100
+For 1" thick
+For 4" thick
+08 88 56 - Ballistics-Resistant Glazing
+18 88 56.10 Lamina
+08     88      40       -    Acoustical                  Glass         Units
+                                                                                                                                Daily     Labor-                                     2022    Bare  Costs                                Total
+08   88    40.10        Sound        Reduction            Units                                                        Crew     Output    Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+0010      SOUND       REDUCTION         UNITS    ,  1 liteat 3/8  " , 1 liteat  3/16  "
+0020                 For  1" thick                                                                                    2 Glaz      100      .160      S.F.            44                 8.65                              52.65            61.50
+ 100                 For 4 " thick                                                                                       "        80       .200                      75               10.80                               85.80            98.50
+08     88      56      -      Ballistics           - Resistant               Glazing
+18   88    56.10        Laminated           Glass
+0010      LAMINATED         GLASS
+1020           Clear  float .03 "  vinyl 1/4  " thick                                                                 2 Glaz      90       .178      S.F             13.35              9.60                              22.95            29
+0100                 3/8  " thick                                                                                                 78       .205                      32               11.10                               43.10            51.50
+ 200                 .06 " vinyl , 1/2  " thick                                                                                   65       .246                      28               13.30                               41.30            51
+ 000                      5/8  "  thick                                                                                           90      .178                      39.50              9.60                               49.10            58
+2000           Bullet resisting , 1-3 / 16 " thick ,to  15  S.F.                                                                  16        1                      132                54                                186              226
+2100                      Over   15  S.F.                                                                                         161                              131                54                                185              225
+?500                2-1  /4 " thick , to 15  S.F.                                                                                 12      1.333                    206                72                                278              335
+2600                      Over   15  S.F.                                                                                         12      1.333                    195                72                                267              320
+2700                      Level  2  (.357   magnum    ), NIJ and  UL                                                              12      1.333                     56                72                                128              169
+2750                      Level  3A  (.44   magnum    ) NIJ ,UL  3                                                                12      1.333                      60.50            72                                132.50           174
+2800                      Level  4  (AK 47  ) NIJ ,UL  7  &  8                                                                    12      1.333                      82.50            72                                154.50           198
+1850                      Level  5  (M -16 ) UL                                                                                   12      1.333                      81.50            72                                153.50           197
+2900                      Level  3  (7.62   Armor   Piercing) NIJ , UL  4 &  5                                                    12      1.333                     96.50             72                                168.50           213
+08          91            Louvers
+08     91     19       -     Fixed          Louvers
+08   91    19.10       Aluminum             Louvers
+0010      ALUMINUM          LOUVERS
+ 020           Aluminum     with  screen , residential ,8 " x 8 "                                                     1 Carp     38       .211        Ea.           22                11.85                              33.85            41.50
+ 100                      12  " x 12 "                                                                                            38      .211                      28                11.85                              39.85            48.50
+ 200                      12  " x 18 "                                                                                            35      .229                      63                12.85                              75.85            88.50
+ 250    1                 14 "  x 24 "                                                                                        |   30.267                            43                15                                 58               69.50
+ 300                      18 "  x 24 "                                                                                            27       296                      34                16.70                              50.70            62.50
+ 500                      24 "  x 30 "                                                                                            24      .333                     100                18.75                             118.75           138
+0700                Triangle , adjustable  ,small                                                                                 20      .400                      95.50             22.50                             118              139
+0800                      Large                                                                                                   15      .533                     132                30                                162              191
+200            Extruded   aluminum    ,see  Section   23  37  15.40
+2100           Round  , aluminum    , 3/4 "  deep , 1 " diameter                                                     1  Carp     85       .094       Ea .             1.37             5.30                                6.67             9.40
+2150                      3 " diameter                                                                                            60      .133                        3.24             7.50                              10.74            14.70
+2200                      4 " diameter                                                                                        1  50     1.160                         7.05             9                                 16.05            21
+2250                      6 " diameter                                                                                            30      .267                        5.10            15                                 20.10            28
+08     91     26       -     Door          Louvers
+08   91    26.10       Steel       Louvers       ,  18   Gauge        , Fixed      Blade
+0010      STEEL    LOUVERS       , 18   GAUGE     ,  FIXED    BLADE
+00501          12 "  x 12 " , with powder    coat                                                                     1 Carp      20      .400       Ea .           82.50             22.50                             105              124
+ 055                 18 " x 12  "                                                                                                20       .400                      85.50             22.50                             108             128
+0060                 18 " x 18  "                                                                                                 20      .400                      95               22.50                              117.50          139
+0065    1           24  " x 12  "                                                                                             1   20    1.400                       99               22.50                              121.50          143
+ 070                24  " x 18  "                                                                                       1    120        1.400                      104                22.50                             126.50          149
+ 075                24  " x 24  "                                                                                             |   20    | .400                     132               22.50                             154.50           179
+ 100           12 "  x 12 " , galvanized                                                                                          20      .400                      56               22.50                               78.50            95
+ 105                 18 " x 12  "                                                                                                 20      .400                      63               22.50                               85.50          103
+ 115                 24 " x 12  "                                                                                                20       .400                      90.50            22.50                              113             133
+0125                 24 " x 24  "                                                                                                 20      .400                    138                22.50                             160.50           186
+                                  For    customer          support       on   your      Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .                                 319
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+08 88 Specia88Function GlSpecial8 88 40 - Acoustical GlFunctions
+08 88 40.10 Sound ReducGlazingits
+0010 SOUND REDUCTION UNITS, 1 lite at 3/8", 1 lite at 3/16"
+0020
+100
+For 1" thick
+For 4" thick
+08 88 56 - Ballistics-Resistant Glazing
+18 88 56.10 Lamina
+08     88      40       -    Acoustical                  Glass         Units
+                                                                                                                                Daily     Labor-                                     2022    Bare  Costs                                Total
+08   88    40.10        Sound        Reduction            Units                                                        Crew     Output    Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+0010      SOUND       REDUCTION         UNITS    ,  1 liteat 3/8  " , 1 liteat  3/16  "
+0020                 For  1" thick                                                                                    2 Glaz      100      .160      S.F.            44                 8.65                              52.65            61.50
+ 100                 For 4 " thick                                                                                       "        80       .200                      75               10.80                               85.80            98.50
+08     88      56      -      Ballistics           - Resistant               Glazing
+18   88    56.10        Laminated           Glass
+0010      LAMINATED         GLASS
+1020           Clear  float .03 "  vinyl 1/4  " thick                                                                 2 Glaz      90       .178      S.F             13.35              9.60                              22.95            29
+0100                 3/8  " thick                                                                                                 78       .205                      32               11.10                               43.10            51.50
+ 200                 .06 " vinyl , 1/2  " thick                                                                                   65       .246                      28               13.30                               41.30            51
+ 000                      5/8  "  thick                                                                                           90      .178                      39.50              9.60                               49.10            58
+2000           Bullet resisting , 1-3 / 16 " thick ,to  15  S.F.                                                                  16        1                      132                54                                186              226
+2100                      Over   15  S.F.                                                                                         161                              131                54                                185              225
+?500                2-1  /4 " thick , to 15  S.F.                                                                                 12      1.333                    206                72                                278              335
+2600                      Over   15  S.F.                                                                                         12      1.333                    195                72                                267              320
+2700                      Level  2  (.357   magnum    ), NIJ and  UL                                                              12      1.333                     56                72                                128              169
+2750                      Level  3A  (.44   magnum    ) NIJ ,UL  3                                                                12      1.333                      60.50            72                                132.50           174
+2800                      Level  4  (AK 47  ) NIJ ,UL  7  &  8                                                                    12      1.333                      82.50            72                                154.50           198
+1850                      Level  5  (M -16 ) UL                                                                                   12      1.333                      81.50            72                                153.50           197
+2900                      Level  3  (7.62   Armor   Piercing) NIJ , UL  4 &  5                                                    12      1.333                     96.50             72                                168.50           213
+08          91            Louvers
+08     91     19       -     Fixed          Louvers
+08   91    19.10       Aluminum             Louvers
+0010      ALUMINUM          LOUVERS
+ 020           Aluminum     with  screen , residential ,8 " x 8 "                                                     1 Carp     38       .211        Ea.           22                11.85                              33.85            41.50
+ 100                      12  " x 12 "                                                                                            38      .211                      28                11.85                              39.85            48.50
+ 200                      12  " x 18 "                                                                                            35      .229                      63                12.85                              75.85            88.50
+ 250    1                 14 "  x 24 "                                                                                        |   30.267                            43                15                                 58               69.50
+ 300                      18 "  x 24 "                                                                                            27       296                      34                16.70                              50.70            62.50
+ 500                      24 "  x 30 "                                                                                            24      .333                     100                18.75                             118.75           138
+0700                Triangle , adjustable  ,small                                                                                 20      .400                      95.50             22.50                             118              139
+0800                      Large                                                                                                   15      .533                     132                30                                162              191
+200            Extruded   aluminum    ,see  Section   23  37  15.40
+2100           Round  , aluminum    , 3/4 "  deep , 1 " diameter                                                     1  Carp     85       .094       Ea .             1.37             5.30                                6.67             9.40
+2150                      3 " diameter                                                                                            60      .133                        3.24             7.50                              10.74            14.70
+2200                      4 " diameter                                                                                        1  50     1.160                         7.05             9                                 16.05            21
+2250                      6 " diameter                                                                                            30      .267                        5.10            15                                 20.10            28
+08     91     26       -     Door          Louvers
+08   91    26.10       Steel       Louvers       ,  18   Gauge        , Fixed      Blade
+0010      STEEL    LOUVERS       , 18   GAUGE     ,  FIXED    BLADE
+00501          12 "  x 12 " , with powder    coat                                                                     1 Carp      20      .400       Ea .           82.50             22.50                             105              124
+ 055                 18 " x 12  "                                                                                                20       .400                      85.50             22.50                             108             128
+0060                 18 " x 18  "                                                                                                 20      .400                      95               22.50                              117.50          139
+0065    1           24  " x 12  "                                                                                             1   20    1.400                       99               22.50                              121.50          143
+ 070                24  " x 18  "                                                                                       1    120        1.400                      104                22.50                             126.50          149
+ 075                24  " x 24  "                                                                                             |   20    | .400                     132               22.50                             154.50           179
+ 100           12 "  x 12 " , galvanized                                                                                          20      .400                      56               22.50                               78.50            95
+ 105                 18 " x 12  "                                                                                                 20      .400                      63               22.50                               85.50          103
+ 115                 24 " x 12  "                                                                                                20       .400                      90.50            22.50                              113             133
+0125                 24 " x 24  "                                                                                                 20      .400                    138                22.50                             160.50           186
+                                  For    customer          support       on   your      Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .                                 319
+
+
+GPT Markdown Output:
+# 08 88 Special Function Glass  
+## 08 88 40 - Acoustical Glass Units
+
+### 08 88 40.10 Sound Reduction Glazing Units
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SOUND REDUCTION UNITS, 1 lite at 3/8", 1 lite at 3/16" |        |             |             |      |          |       |           |        |                |
+| 0020 | For 1" thick                         | 2 Glaz | 100         | .160        | S.F. | 44       | 8.65  |           | 52.65  | 61.50          |
+| 100  | For 4" thick                         | "      | 80          | .200        |      | 75       | 10.80 |           | 85.80  | 98.50          |
+
+---
+
+## 08 88 56 - Ballistics-Resistant Glazing
+
+### 18 88 56.10 Laminated Glass
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | LAMINATED GLASS                                           |        |             |             |      |          |       |           |        |                |
+| 1020 | Clear float .03" vinyl 1/4" thick                         | 2 Glaz | 90          | .178        | S.F. | 13.35    | 9.60  |           | 22.95  | 29             |
+| 0100 | 3/8" thick                                                |        | 78          | .205        |      | 32       | 11.10 |           | 43.10  | 51.50          |
+| 200  | .06" vinyl, 1/2" thick                                    |        | 65          | .246        |      | 28       | 13.30 |           | 41.30  | 51             |
+| 000  | 5/8" thick                                                |        | 90          | .178        |      | 39.50    | 9.60  |           | 49.10  | 58             |
+| 2000 | Bullet resisting, 1-3/16" thick, to 15 S.F.               |        | 16          | 1           |      | 132      | 54    |           | 186    | 226            |
+| 2100 | Over 15 S.F.                                              |        | 161         |             |      | 131      | 54    |           | 185    | 225            |
+| ?500 | 2-1/4" thick, to 15 S.F.                                  |        | 12          | 1.333       |      | 206      | 72    |           | 278    | 335            |
+| 2600 | Over 15 S.F.                                              |        | 12          | 1.333       |      | 195      | 72    |           | 267    | 320            |
+| 2700 | Level 2 (.357 magnum), NIJ and UL                         |        | 12          | 1.333       |      | 56       | 72    |           | 128    | 169            |
+| 2750 | Level 3A (.44 magnum) NIJ, UL 3                           |        | 12          | 1.333       |      | 60.50    | 72    |           | 132.50 | 174            |
+| 2800 | Level 4 (AK 47) NIJ, UL 7 & 8                             |        | 12          | 1.333       |      | 82.50    | 72    |           | 154.50 | 198            |
+| 1850 | Level 5 (M-16) UL                                         |        | 12          | 1.333       |      | 81.50    | 72    |           | 153.50 | 197            |
+| 2900 | Level 3 (7.62 Armor Piercing) NIJ, UL 4 & 5               |        | 12          | 1.333       |      | 96.50    | 72    |           | 168.50 | 213            |
+
+---
+
+# 08 91 Louvers
+
+## 08 91 19 - Fixed Louvers
+
+### 08 91 19.10 Aluminum Louvers
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | ALUMINUM LOUVERS                             |        |             |             |      |          |        |           |        |                |
+| 020  | Aluminum with screen, residential, 8" x 8"   | 1 Carp | 38          | .211        | Ea.  | 22       | 11.85  |           | 33.85  | 41.50          |
+| 100  | 12" x 12"                                    |        | 38          | .211        |      | 28       | 11.85  |           | 39.85  | 48.50          |
+| 200  | 12" x 18"                                    |        | 35          | .229        |      | 63       | 12.85  |           | 75.85  | 88.50          |
+| 250  | 14" x 24"                                    |        | 30.267      |             |      | 43       | 15     |           | 58     | 69.50          |
+| 300  | 18" x 24"                                    |        | 27          | .296        |      | 34       | 16.70  |           | 50.70  | 62.50          |
+| 500  | 24" x 30"                                    |        | 24          | .333        |      | 100      | 18.75  |           | 118.75 | 138            |
+| 0700 | Triangle, adjustable, small                  |        | 20          | .400        |      | 95.50    | 22.50  |           | 118    | 139            |
+| 0800 | Large                                        |        | 15          | .533        |      | 132      | 30     |           | 162    | 191            |
+| 200  | Extruded aluminum, see Section 23 37 15.40   |        |             |             |      |          |        |           |        |                |
+| 2100 | Round, aluminum, 3/4" deep, 1" diameter      | 1 Carp | 85          | .094        | Ea.  | 1.37     | 5.30   |           | 6.67   | 9.40           |
+| 2150 | 3" diameter                                  |        | 60          | .133        |      | 3.24     | 7.50   |           | 10.74  | 14.70          |
+| 2200 | 4" diameter                                  | 1      | 50          | 1.160       |      | 7.05     | 9      |           | 16.05  | 21             |
+| 2250 | 6" diameter                                  |        | 30          | .267        |      | 5.10     | 15     |           | 20.10  | 28             |
+
+---
+
+## 08 91 26 - Door Louvers
+
+### 08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | STEEL LOUVERS, 18 GAUGE, FIXED BLADE         |        |             |             |      |          |        |           |        |                |
+| 00501 | 12" x 12", with powder coat                  | 1 Carp | 20          | .400        | Ea.  | 82.50    | 22.50  |           | 105    | 124            |
+| 055   | 18" x 12"                                   |        | 20          | .400        |      | 85.50    | 22.50  |           | 108    | 128            |
+| 0060  | 18" x 18"                                   |        | 20          | .400        |      | 95       | 22.50  |           | 117.50 | 139            |
+| 0065  | 24" x 12"                                   | 1      | 20          | 1.400       |      | 99       | 22.50  |           | 121.50 | 143            |
+| 070   | 24" x 18"                                   | 1      | 120         | 1.400       |      | 104      | 22.50  |           | 126.50 | 149            |
+| 075   | 24" x 24"                                   |        | 20          | .400        |      | 132      | 22.50  |           | 154.50 | 179            |
+| 100   | 12" x 12", galvanized                       |        | 20          | .400        |      | 56       | 22.50  |           | 78.50  | 95             |
+| 105   | 18" x 12"                                   |        | 20          | .400        |      | 63       | 22.50  |           | 85.50  | 103            |
+| 115   | 24" x 12"                                   |        | 20          | .400        |      | 90.50    | 22.50  |           | 113    | 133            |
+| 0125  | 24" x 24"                                   |        | 20          | .400        |      | 138      | 22.50  |           | 160.50 | 186            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-29T23:02:02.197253
+OCR Text:
+              00891 Louvers
+91 91 26-
+DoorLouverss
+08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+0300
+6" x 12", painted
+0320
+10" x 16"
+0340
+12" x 22"
+0360
+14" x 14"
+0400
+18" x 18"
+0420:
+20" x 26"
+0440
+22" x 22"
+0460
+26" x 26"
+3000
+Fire rated
+3010
+12" x 12"
+3050
+1
+                08     91      26-            Door         Louvers
+                                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+               08    91    26.10        Steel      Louvers        , 18    Gauge       , Fixed       Blade                              Crew     Output    Hours      Unit       Material           Labor          Equipment            Total           Incl 0& P
+                0300            6" x  12 " ,painted                                                                                    1Carp      20       .400       Ea .           37.50            22.50                               60               75
+                0320                  10"  x 16 "                                                                                             1   20       .400                      59               22.50                               81.50             98.5
+                0340                 12 " x  22 "                                                                                                 20       .400                      87               22.50                              109.50           129
+                0360                  14 " x 14 "                                                                                                 20       .400                      87.50            22.50                              110              130
+                0400                 18 " x  18 "                                                                                                 20       .400                     128               22.50                              150.50           175
+                0420    :            20 "  x 26 "                                                                                                 20       .400                     119               22.50                              141.50           165
+               0440                  22 "  x 22 "                                                                                                 20       .400                     112               22.50                              134.50           158
+                0460                 26 "  x 26 "                                                                                                 20       .400                     223               22.50                              245.50           279
+                3000            Fire rated
+                3010                 12  " x 12 "                                                                                   11  Carp  ,   10      .800        Ea .          148               45                                 193              229
+                3050                 18 "  x 18 "                                                                                         1110             .800                     216       1       45                                 261              305
+                3100                 24 " x  12 "                                                                                             110       1.800                       227               45                                 272              315
+                3120                 24 "  x 18 "                                                                                                 10       .800                     243               45                                 288              335
+                3130                 24 "  x 24 "                                                                                                 10       .800                     242               45                                 287              335
+               08    91    26.20        Aluminum            Louvers
+                0010      ALUMINUM           LOUVERS      ,  18  ga., fixed blade  , clear anodized
+                0050                 6 " x  12 "                                                                                      1 Carp      20       .400       Eg .           61               22.50                               83.50           101
+                0060                  10 " x 10 "                                                                                                 20       .400                      71               22.50                               93.50           112
+                0065                 10 " x  14 "                                                                                                 20       .400                      80               22.50                              102.50           122
+                0080    1            12 "  x 22 "                                                                                        120               .400                     112               22.50                              134.50           157
+                0090    1            14 "  x 14 "                                                                                              120         .400                     100               22.50                              122.50           144
+                0100                  18"  x 10 "                                                                                                 20       .400                      83.50            22.50                              106       1      125
+                0110                  18" x  18 "                                                                                                 20     1.400                      146               22.50                              168.50           195
+                0120                 22  " x 22 "                                                                                                 20       .400                     181               22.50                              203.50           233
+                0130                 26 "  x 26 "                                                                                                 20       .400                     232                22.50                             254.50           289
+               08           95           Vents
+                08      95     13       -     Soffit         Vents
+               08    95     13.10       Wall     Louvers
+                0010      WALL      LOUVERS
+                2340                 Baked    enamel   finish                                                                         1 Carp     200       .040       LF               6.10             2.25                                8.35            DES1
+                2400            Under  eaves   vent , aluminum   , mill finish, 16 " x 4 "                                                        48       .167       Ea .             1.71             9.40                               11.11            15.8
+                2500                  16"  x 8 "                                                                                                  48       .167                        1.89             9.40                               11.29            16.0
+                08      95      16      -     Wall       Vents
+               08     95    16.10       Louvers
+                0010      LOUVERS
+                0020            Redwood    ,2 '-0 " diameter  , fullcircle                                                            1 Carp      16       .500       Eo .           96                28                                124              148
+                0100                       Half circle                                                                                             16      .500                     233                28                                261              298
+                0200                       Octagonal                                                                                              16       .500                     218                28                                246              282
+                0300                 Triangular , 5/12    pitch, 5 '-0" at  base                                                                   16.500                           665                28                                693              770
+                7000            Vinyl gable  vent , 8 " x 8 "                                                                                     38       .211                      51.50             11.85                               63.35            74
+                7020                       12 " x  12 "                                                                                           38.211                              33.50            11.85                              45.35             54
+                7080                       12 " x  18 "                                                                                           35       .229                      521               12.85                              64.85             76
+                7200                       18 " x  24 "                                                                                  TOP      30       .267                       62.50            15                                 77.50             91
+              320                                   For   customer          support       on    your     Building       Construction            Costs      with     RSMeans         data    , call   800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+              00891 Louvers
+91 91 26-
+DoorLouverss
+08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+0300
+6" x 12", painted
+0320
+10" x 16"
+0340
+12" x 22"
+0360
+14" x 14"
+0400
+18" x 18"
+0420:
+20" x 26"
+0440
+22" x 22"
+0460
+26" x 26"
+3000
+Fire rated
+3010
+12" x 12"
+3050
+1
+                08     91      26-            Door         Louvers
+                                                                                                                                                 Daily    Labor-                                      2022   Bare  Costs                                 Total
+               08    91    26.10        Steel      Louvers        , 18    Gauge       , Fixed       Blade                              Crew     Output    Hours      Unit       Material           Labor          Equipment            Total           Incl 0& P
+                0300            6" x  12 " ,painted                                                                                    1Carp      20       .400       Ea .           37.50            22.50                               60               75
+                0320                  10"  x 16 "                                                                                             1   20       .400                      59               22.50                               81.50             98.5
+                0340                 12 " x  22 "                                                                                                 20       .400                      87               22.50                              109.50           129
+                0360                  14 " x 14 "                                                                                                 20       .400                      87.50            22.50                              110              130
+                0400                 18 " x  18 "                                                                                                 20       .400                     128               22.50                              150.50           175
+                0420    :            20 "  x 26 "                                                                                                 20       .400                     119               22.50                              141.50           165
+               0440                  22 "  x 22 "                                                                                                 20       .400                     112               22.50                              134.50           158
+                0460                 26 "  x 26 "                                                                                                 20       .400                     223               22.50                              245.50           279
+                3000            Fire rated
+                3010                 12  " x 12 "                                                                                   11  Carp  ,   10      .800        Ea .          148               45                                 193              229
+                3050                 18 "  x 18 "                                                                                         1110             .800                     216       1       45                                 261              305
+                3100                 24 " x  12 "                                                                                             110       1.800                       227               45                                 272              315
+                3120                 24 "  x 18 "                                                                                                 10       .800                     243               45                                 288              335
+                3130                 24 "  x 24 "                                                                                                 10       .800                     242               45                                 287              335
+               08    91    26.20        Aluminum            Louvers
+                0010      ALUMINUM           LOUVERS      ,  18  ga., fixed blade  , clear anodized
+                0050                 6 " x  12 "                                                                                      1 Carp      20       .400       Eg .           61               22.50                               83.50           101
+                0060                  10 " x 10 "                                                                                                 20       .400                      71               22.50                               93.50           112
+                0065                 10 " x  14 "                                                                                                 20       .400                      80               22.50                              102.50           122
+                0080    1            12 "  x 22 "                                                                                        120               .400                     112               22.50                              134.50           157
+                0090    1            14 "  x 14 "                                                                                              120         .400                     100               22.50                              122.50           144
+                0100                  18"  x 10 "                                                                                                 20       .400                      83.50            22.50                              106       1      125
+                0110                  18" x  18 "                                                                                                 20     1.400                      146               22.50                              168.50           195
+                0120                 22  " x 22 "                                                                                                 20       .400                     181               22.50                              203.50           233
+                0130                 26 "  x 26 "                                                                                                 20       .400                     232                22.50                             254.50           289
+               08           95           Vents
+                08      95     13       -     Soffit         Vents
+               08    95     13.10       Wall     Louvers
+                0010      WALL      LOUVERS
+                2340                 Baked    enamel   finish                                                                         1 Carp     200       .040       LF               6.10             2.25                                8.35            DES1
+                2400            Under  eaves   vent , aluminum   , mill finish, 16 " x 4 "                                                        48       .167       Ea .             1.71             9.40                               11.11            15.8
+                2500                  16"  x 8 "                                                                                                  48       .167                        1.89             9.40                               11.29            16.0
+                08      95      16      -     Wall       Vents
+               08     95    16.10       Louvers
+                0010      LOUVERS
+                0020            Redwood    ,2 '-0 " diameter  , fullcircle                                                            1 Carp      16       .500       Eo .           96                28                                124              148
+                0100                       Half circle                                                                                             16      .500                     233                28                                261              298
+                0200                       Octagonal                                                                                              16       .500                     218                28                                246              282
+                0300                 Triangular , 5/12    pitch, 5 '-0" at  base                                                                   16.500                           665                28                                693              770
+                7000            Vinyl gable  vent , 8 " x 8 "                                                                                     38       .211                      51.50             11.85                               63.35            74
+                7020                       12 " x  12 "                                                                                           38.211                              33.50            11.85                              45.35             54
+                7080                       12 " x  18 "                                                                                           35       .229                      521               12.85                              64.85             76
+                7200                       18 " x  24 "                                                                                  TOP      30       .267                       62.50            15                                 77.50             91
+              320                                   For   customer          support       on    your     Building       Construction            Costs      with     RSMeans         data    , call   800.448.8182          .
+
+
+GPT Markdown Output:
+# 00891 Louvers
+
+## 08 91 26- Door Louvers
+
+### 08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|---------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0300 | 6" x 12", painted   | 1Carp  | 20          | .400        | Ea.  | 37.50    | 22.50  |           | 60      | 75             |
+| 0320 | 10" x 16"           | 1      | 20          | .400        |      | 59       | 22.50  |           | 81.50   | 98.5           |
+| 0340 | 12" x 22"           |        | 20          | .400        |      | 87       | 22.50  |           | 109.50  | 129            |
+| 0360 | 14" x 14"           |        | 20          | .400        |      | 87.50    | 22.50  |           | 110     | 130            |
+| 0400 | 18" x 18"           |        | 20          | .400        |      | 128      | 22.50  |           | 150.50  | 175            |
+| 0420 | 20" x 26"           |        | 20          | .400        |      | 119      | 22.50  |           | 141.50  | 165            |
+| 0440 | 22" x 22"           |        | 20          | .400        |      | 112      | 22.50  |           | 134.50  | 158            |
+| 0460 | 26" x 26"           |        | 20          | .400        |      | 223      | 22.50  |           | 245.50  | 279            |
+| 3000 | Fire rated          |        |             |             |      |          |        |           |         |                |
+| 3010 | 12" x 12"           | 11 Carp| 10          | .800        | Ea.  | 148      | 45     |           | 193     | 229            |
+| 3050 | 18" x 18"           | 1110   |             | .800        |      | 216      | 1 45   |           | 261     | 305            |
+| 3100 | 24" x 12"           | 110    | 1.800       |             |      | 227      | 45     |           | 272     | 315            |
+| 3120 | 24" x 18"           |        | 10          | .800        |      | 243      | 45     |           | 288     | 335            |
+| 3130 | 24" x 24"           |        | 10          | .800        |      | 242      | 45     |           | 287     | 335            |
+
+### 08 91 26.20 Aluminum Louvers
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | ALUMINUM LOUVERS, 18 ga., fixed blade, clear anodized |        |             |             |      |          |        |           |         |                |
+| 0050 | 6" x 12"                             | 1 Carp | 20          | .400        | Eg.  | 61       | 22.50  |           | 83.50   | 101            |
+| 0060 | 10" x 10"                            |        | 20          | .400        |      | 71       | 22.50  |           | 93.50   | 112            |
+| 0065 | 10" x 14"                            |        | 20          | .400        |      | 80       | 22.50  |           | 102.50  | 122            |
+| 0080 | 12" x 22"                            | 120    |             | .400        |      | 112      | 22.50  |           | 134.50  | 157            |
+| 0090 | 14" x 14"                            | 120    |             | .400        |      | 100      | 22.50  |           | 122.50  | 144            |
+| 0100 | 18" x 10"                            |        | 20          | .400        |      | 83.50    | 22.50  | 1         | 106     | 125            |
+| 0110 | 18" x 18"                            |        | 20          | 1.400       |      | 146      | 22.50  |           | 168.50  | 195            |
+| 0120 | 22" x 22"                            |        | 20          | .400        |      | 181      | 22.50  |           | 203.50  | 233            |
+| 0130 | 26" x 26"                            |        | 20          | .400        |      | 232      | 22.50  |           | 254.50  | 289            |
+
+## 08 95 Vents
+
+### 08 95 13 - Soffit Vents
+
+#### 08 95 13.10 Wall Louvers
+
+| ID   | Name                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | WALL LOUVERS           |        |             |             |      |          |       |           |        |                |
+| 2340 | Baked enamel finish    | 1 Carp | 200         | .040        | LF   | 6.10     | 2.25  |           | 8.35   | DES1           |
+| 2400 | Under eaves vent, aluminum, mill finish, 16" x 4" |        | 48          | .167        | Ea.  | 1.71     | 9.40  |           | 11.11  | 15.8           |
+| 2500 | 16" x 8"               |        | 48          | .167        |      | 1.89     | 9.40  |           | 11.29  | 16.0           |
+
+### 08 95 16 - Wall Vents
+
+#### 08 95 16.10 Louvers
+
+| ID   | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | LOUVERS                                |        |             |             |      |          |       |           |        |                |
+| 0020 | Redwood, 2'-0" diameter, fullcircle    | 1 Carp | 16          | .500        | Eo.  | 96       | 28    |           | 124    | 148            |
+| 0100 | Half circle                            |        | 16          | .500        |      | 233      | 28    |           | 261    | 298            |
+| 0200 | Octagonal                              |        | 16          | .500        |      | 218      | 28    |           | 246    | 282            |
+| 0300 | Triangular, 5/12 pitch, 5'-0" at base  |        | 16.500      |             |      | 665      | 28    |           | 693    | 770            |
+| 7000 | Vinyl gable vent, 8" x 8"              |        | 38          | .211        |      | 51.50    | 11.85 |           | 63.35  | 74             |
+| 7020 | 12" x 12"                              |        | 38.211      |             |      | 33.50    | 11.85 |           | 45.35  | 54             |
+| 7080 | 12" x 18"                              |        | 35          | .229        |      | 521      | 12.85 |           | 64.85  | 76             |
+| 7200 | 18" x 24"                              | TOP    | 30          | .267        |      | 62.50    | 15    |           | 77.50  | 91             |
+
+320 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
