@@ -16,8 +16,6 @@ import pickle
 import traceback
 
 POPPLER_PATH = r"C:\Program Files\poppler-24.08.0\Library\bin"
-# GPT_MODEL = "gpt-4.1"  # Specify the GPT model to use
-GPT_MODEL = "gpt-4.1-nano-2025-04-14"  # Specify the GPT model to use
 
 def extract_text_with_google_vision(image_path):
     """
@@ -95,7 +93,7 @@ def convert_ocr_text_and_image_to_markdown(ocr_text, image_file_path, client, lo
     )
 
     response = client.chat.completions.create(
-        model=GPT_MODEL,
+        model="gpt-4.1",
         messages=[
             {
                 "role": "user",
@@ -204,7 +202,7 @@ def convert_ocr_text_and_vertices_to_markdown(ocr_text, vertices_list, client, l
         f"{vertices_str}"
     )
     response = client.chat.completions.create(
-        model=GPT_MODEL,
+        model="gpt-4.1",
         messages=[
             {
                 "role": "user",
@@ -253,7 +251,7 @@ def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir):
         f"{ocr_text}\n\n"
     )
     response = client.chat.completions.create(
-        model=GPT_MODEL,
+        model="gpt-4.1",
         messages=[
             {
                 "role": "user",
