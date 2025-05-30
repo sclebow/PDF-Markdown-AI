@@ -1,0 +1,67 @@
+# Common Work Results for Masonry and Related Tasks
+
+## Masonry Grout Work
+| ID   | Name                                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------|-------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
+| 0050 | 10" thick, 0.25 C.F./L.E.          | D-4   | 1200         | .027        | LF    | 1.33     | 1.35   | 12        | 2.80   | 3.61           |
+| 0060 | 12" thick, 0.3 C.F./L.F.           | 1040  | .031         |             |       | 1.59     | 1.56   | .13       | 3.28   | 4.23           |
+| 0200 | Concrete block cores, solid, 4" thk., by hand, 0.067 C.F./S.F. of wall | D-8 | 1100 | .036 | S.F. | .36 | 1.86 | | 2.22 | 3.18 |
+| 0210 | 6" thick, pumped, 0.175 C.E./S.F. | D-4 | 720 | .044 | | | .93 | 2.25 | .19 | 3.37 | 4.60 |
+| 0250 | 8" thick, pumped, 0.258 C.F./S.F. | | 680 | .047 | | | 1.37 | 2.38 | .20 | 3.95 | 5.30 |
+| 0300 | 10" thick, pumped, 0.340 C.F./S.F. | | 660 | .048 | | | 1.80 | 2.45 | .21 | 4.46 | 5.90 |
+| 0350 | 12" thick, pumped, 0.422 C.F./S.F. | | 640 | .050 | | | 2.24 | 2.53 | .22 | 4.99 | 6.50 |
+| 0500 | Cavity walls, 2" space, pumped, 0.167 C.F./S.F. of wall | | 1700 | .019 | | | .89 | .95 | .08 | 1.92 | 2.50 |
+| 0550 | 3" space, 0.250 C.F./S.F. | | 1200 | .027 | | | 1.33 | 1.35 | .12 | 2.80 | 3.61 |
+| 0600 | 4" space, 0.333 C.F./S.F. | | 1150 | .028 | | | 1.77 | 1.41 | .12 | 3.30 | 4.18 |
+| 0700 | 6" space, 0.500 C.F./S.F. | | 800 | .040 | | | 2.65 | 2.02 | .17 | 4.84 | 6.15 |
+| 0800 | Door frames, 3' x 7' opening, 2.5 C.F. per opening | | 60 | 533 Opng | | 13.25 | 27 | 2.31 | 42.56 | 57.50 |
+| 0850 | 6' x 7' opening, 3.5 C.F. per opening | | 45 | .711 | " | 18.60 | 36 | 3.08 | 57.68 | 78 |
+
+## Masonry Anchorage and Reinforcing
+### Anchor Bolts
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------|-------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
+| 0010 | ANCHOR BOLTS | | | | | | | | | |
+| 0015 | Installed in fresh grout in CMU bond beams or filled cores, no templates | | | | | | | | | |
+| 0020 | Hooked, with nut and washer, 1/2" diameter, 8" long | 132 | .061 | Ea | | 2.23 | 3.35 | | 5.58 | 7.50 |
+| 0030 | 12" long | 131 | .061 | | | 2.48 | 3.37 | | 5.85 | 7.82 |
+| 0040 | 5/8" diameter, 8" long | 129 | .062 | Ea | | 3.06 | 3.43 | | 6.49 | 8.50 |
+| 0050 | 12" long | 127 | .063 | | | 3.76 | 3.48 | | 7.24 | 9.40 |
+| 0060 | 3/4" diameter, 8" long | 127 | .063 | | | 3.76 | 3.48 | | 7.24 | 9.40 |
+| 0070 | 12" long | 125 | .064 | | | 4.70 | 3.54 | | 8.24 | 10.45 |
+
+### Masonry Anchors
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------|-------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
+| 0010 | MASONRY ANCHORS | | | | | | | | | |
+| 0020 | For brick veneer, galvanized, corrugated, 7/8" x 7", 22 ga. | 10.50 | .762 | | | 13.15 | 42 | 55.15 | 77.50 |
+| 0100 | 24 ga. | 10.50 | .762 | | | 12.10 | 42 | 54.10 | 76.50 |
+| 0150 | 16 ga. | 10.50 | .762 | | | 20.50 | 42 | 62.50 | 85.50 |
+| 0200 | Buck anchors, galvanized, corrugated, 16 ga., 2" bend, 8" x 2" | 10.50 | .762 | | | 50.50 | 42 | 92.50 | 119 |
+| 0250 | 8" x 3" | 10.50 | .762 | | | 60.50 | 42 | 102.50 | 130 |
+| 0660 | Cavity wall, Z-type, galvanized, 6" long, 1/8" diameter | 10.50 | .762 | | | 23.50 | 42 | 65.50 | 89 |
+| 0670 | 3/16" diameter | 10.50 | .762 | | | 29.50 | 42 | 71.50 | 95 |
+| 0680 | 1/4" diameter | 10.50 | .762 | | | 38.50 | 42 | 80.50 | 105 |
+| 0850 | 8" long, 3/16" diameter | 10.50 | .762 | | | 26.50 | 42 | 68.50 | 92.50 |
+| 0855 | 1/4" diameter | 10.50 | .762 | | | 48.50 | 42 | 90.50 | 117 |
+
+### Rigid Partition Anchors
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------|-------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
+| 1500 | Rigid partition anchors, plain, 8" long, 1" x 1/8" | | | | | | | | | |
+| 1550 | 1" x 1/4" | | | | | | | | | |
+| 1580 | 1-1/2" x 1/8" | | | | | | | | | |
+| 1600 | 1-1/2" x 1/4" | | | | | | | | | |
+| 1650 | 2" x 1/8" | | | | | | | | | |
+| 1700 | 2" x 1/4" | | | | | | | | | |
+
+### Masonry Reinforcing Bars
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------|-------|--------------|-------------|-------|----------|--------|-----------|--------|----------------|
+| 0010 | MASONRY REINFORCING BARS | | | | | | | | | |
+| 0015 | Steel bars A615, placed horizontally, #3 & #4 bars | 1 Bric | 450 | .018 | Lb. | .73 | .98 | | 1.71 | 2.27 |
+| 0020 | #5 & #6 bars | 800 | .010 | | | .73 | .55 | | 1.28 | 1.63 |
+| 0050 | Placed vertically, #3 & #4 bars | 350 | .023 | | | .73 | 1.26 | | 1.99 | 2.70 |
+| 0060 | #5 & #6 bars | 650 | .012 | | | .73 | .68 | | 1.41 | 1.82 |
+
+> For customer support on your building construction costs with RSMeans data, call 800.448.8182.
