@@ -168,7 +168,7 @@ def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=300
             return markdown_text
         except openai.RateLimitError as e:
             print(f"OpenAI rate limit error: {e}. Waiting 2 seconds before retrying ({attempt+1}/{max_retries})...")
-            time.sleep(2)
+            time.sleep(10)
         except Exception as e:
             # For other errors, raise immediately
             raise
