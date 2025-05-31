@@ -1610,7 +1610,7 @@ Steel, 24 ga. sectional
 
 ### 08 38 13.10 Flexible Transparent Strip Doors
 
-| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|--------------------------------------------------|------|--------------|-------------|---------|----------|-------|-----------|--------|----------------|
 | 0010 | FLEXIBLE TRANSPARENT STRIP DOORS                 |      |              |             |         |          |       |           |        |                |
 | 0100 | 12" strip width, 2/3 overlap                     | 3 Shee | 135        | .178        | SF Surf | 7.65     | 12    |           | 19.65  | 26.50          |
@@ -1624,7 +1624,7 @@ Steel, 24 ga. sectional
 
 ### 08 38 19.20 Double Acting Swing Doors
 
-| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | DOUBLE ACTING SWING DOORS                        |      |              |             |      |          |       |           |        |                |
 | 0020 | Including frame, closer, hardware and vision panel|      |              |             |      |          |       |           |        |                |
@@ -1637,7 +1637,7 @@ Steel, 24 ga. sectional
 
 ### 08 38 19.30 Shock Absorbing Doors
 
-| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | SHOCK ABSORBING DOORS                            |      |              |             |      |          |       |           |        |                |
 | 0020 | Rigid, no frame, 1-1/2" thick, 5' x 7'           | 2 Sswk | 1.90       | 8.421       | Opng.| 1,525    | 520   |           | 2,045  | 2,475          |
@@ -1653,7 +1653,7 @@ Steel, 24 ga. sectional
 
 ### 08 41 13.20 Tube Framing
 
-| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | TUBE FRAMING, For window walls and storefronts, aluminum stock |      |              |             |      |          |       |           |        |                |
 | 0050 | Plain tube frame, mill finish, 1-3/4" x 1-3/4"   | 2 Glaz | 103         | .155        | LF   | 10.95    | 8.40  |           | 19.35  | 24.50          |
@@ -3422,31 +3422,31 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 08 71 21.10 Exterior Mouldings, Astragals
 
-| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
-|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 0010 | EXTERIOR MOULDINGS, ASTRAGALS                             |        |              |             |      |          |       |           |         |                |
-| 0400 | One piece, overlapping cadmium plated steel, flat, 3/16" x 2" | 1 Carp | 90           | .089        | LF   | 5.10     | 5    |           | 10.10   | 134.28         |
-| 0600 | Prime coated steel, flat, 1/8" x 3"                       |        | 90           | .089        |      | 6.10     | 5    |           | 11.10   | 14.            |
-| 0800 | Stainless steel, flat, 3/32" x 1-5/8"                     |        | 90           | .089        |      | 15.75    |      |           | 20.75   | 25             |
-| 1000 | Aluminum, flat, 1/8" x 2"                                 |        | 90           | .089        |      | 4.55     |      |           | 9.55    | 12.            |
-| 1200 | Nail on, "T" extrusion                                    | [ ]    | 120          | .0671       |      | 2.17     | 3.75 |           | 5.92    |                |
-| 1300 | Vinyl bulb insert                                         |        | 105          | .076        | ||   | 2.65     | 4.29 |           | 6.94    | 9.             |
-| 1600 | Screw on, "T" extrusion                                   |        | 90           | .089        | |    | 4.68     | 5    |           | 9.68    | 12.            |
-| 1700 | Vinyl insert                                              |        | 75           | .107        |      | 4.10     | 6    |           | 10.10   | 13.            |
-| 2000 | "L" extrusion, neoprene bulbs                             |        | 75           | .107        |      | 4.39     | 6    |           | 10.39   | 13.            |
-| 2100 | Neoprene sponge insert                                    |        | 75           | .107        |      | 6.80     | 6    |           | 12.80   | 16.            |
-| 2200 | Magnetic                                                  |        | 75           | .107        |      | 10.40    | 6    |           | 16.40   | 20.            |
-| 2400 | Spring hinged security seal, with cam                     |        | 75           | 107         | 1    | 6.65     | 60   |           | 12.65   | 16.            |
-| 2600 | Spring loaded locking bolt, vinyl insert                   |        | 45           | .178        | 1    | 9.05     | 10   |           | 19.05   | 25             |
-| 2800 | Neoprene sponge strip, "Z" shaped, aluminum               |        | 60           | .133        |      | 8        | 7.50 |           | 15.50   | 19.            |
-| 2900 | Solid neoprene strip, nail on aluminum strip              |        | 90           | .089        |      | 3.78     | 5    |           | 8.78    | 11.            |
-| 3000 | One piece stile protection                                |        |              |             |      |          |       |           |         |                |
-| 3020 | Neoprene fabric loop, nail on aluminum strips             | 1 Carp | 60           | .3333333    | LF   | 1.23     | 7.50 |           | 8.73    | 12.            |
-| 3110 | Flush mounted aluminum extrusion, 1/2" x 1-1/4"           |        | 60           | .133        |      | 6.65     | 7.50 |           | 14.15   | 18.            |
-| 3140 | 3/4" x 1-3/8"                                            |        | 60           | .133        |      | 3.93     | 7.50 |           | 11.43   | 15.            |
-| 3160 | 1-1/8" x 1-3/4"                                          | I      | 60           | .133        |      | 5.40     | 7.50 |           | 12.90   | 17.            |
-| 3300 | Mortise, 9/16" x 3/4"                                    |        | 60           | .133        |      | 4.47     | 7.50 |           | 11.97   | 16.            |
-| 3320 | 13/16" x 1-3/8"                                          |        | 60           | .133        |      | 4.16     | 7.50 |           | 11.66   | 15.            |
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | EXTERIOR MOULDINGS, ASTRAGALS                             |        |              |             |      |          |       |           |         |                |
+| 0400  | One piece, overlapping cadmium plated steel, flat, 3/16" x 2" | 1 Carp | 90           | .089        | LF   | 5.10     | 5    |           | 10.10   | 134.28         |
+| 0600  | Prime coated steel, flat, 1/8" x 3"                       |        | 90           | .089        |      | 6.10     | 5    |           | 11.10   | 14.            |
+| 0800  | Stainless steel, flat, 3/32" x 1-5/8"                     |        | 90           | .089        |      | 15.75    |      |           | 20.75   | 25             |
+| 1000  | Aluminum, flat, 1/8" x 2"                                 |        | 90           | .089        |      | 4.55     |      |           | 9.55    | 12.            |
+| 1200  | Nail on, "T" extrusion                                    |        | 120          | .0671       |      | 2.17     | 3.75 |           | 5.92    |                |
+| 1300  | Vinyl bulb insert                                         |        | 105          | .076        |      | 2.65     | 4.29 |           | 6.94    | 9.             |
+| 1600  | Screw on, "T" extrusion                                   |        | 90           | .089        |      | 4.68     | 5    |           | 9.68    | 12.            |
+| 1700  | Vinyl insert                                              |        | 75           | .107        |      | 4.10     | 6    |           | 10.10   | 13.            |
+| 2000  | "L" extrusion, neoprene bulbs                             |        | 75           | .107        |      | 4.39     | 6    |           | 10.39   | 13.            |
+| 2100  | Neoprene sponge insert                                    |        | 75           | .107        |      | 6.80     | 6    |           | 12.80   | 16.            |
+| 2200  | Magnetic                                                  |        | 75           | .107        |      | 10.40    | 6    |           | 16.40   | 20.            |
+| 2400  | Spring hinged security seal, with cam                     |        | 75           | .107        |      | 6.65     | 6    |           | 12.65   | 16.            |
+| 2600  | Spring loaded locking bolt, vinyl insert                  |        | 45           | .178        |      | 9.05     | 10   |           | 19.05   | 25             |
+| 2800  | Neoprene sponge strip, "Z" shaped, aluminum               |        | 60           | .133        |      | 8        | 7.50 |           | 15.50   | 19.            |
+| 2900  | Solid neoprene strip, nail on aluminum strip              |        | 90           | .089        |      | 3.78     | 5    |           | 8.78    | 11.            |
+| 3000  | One piece stile protection                                |        |              |             |      |          |       |           |         |                |
+| 3020  | Neoprene fabric loop, nail on aluminum strips             | 1 Carp | 60           | .133        | LF   | 1.23     | 7.50 |           | 8.73    | 12.            |
+| 3110  | Flush mounted aluminum extrusion, 1/2" x 1-1/4"           |        | 60           | .133        |      | 6.65     | 7.50 |           | 14.15   | 18.            |
+| 3140  | 3/4" x 1-3/8"                                            |        | 60           | .133        |      | 3.93     | 7.50 |           | 11.43   | 15.            |
+| 3160  | 1-1/8" x 1-3/4"                                          |        | 60           | .133        |      | 5.40     | 7.50 |           | 12.90   | 17.            |
+| 3300  | Mortise, 9/16" x 3/4"                                    |        | 60           | .133        |      | 4.47     | 7.50 |           | 11.97   | 16.            |
+| 3320  | 13/16" x 1-3/8"                                          |        | 60           | .133        |      | 4.16     | 7.50 |           | 11.66   | 15.            |
 
 ---
 
