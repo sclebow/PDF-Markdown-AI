@@ -943,11 +943,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 06 11 10.04 Wood Bracing
 
-| ID     | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|--------|-------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010   | WOOD BRACING                              |      |             |             |      |          |       |           |       |                |
-| 0012   | Let in, with 1" x 6" boards, studs @ 16" OC | 1 Carp | 150       | .053        | LF   | .98      | 3     |           | 3.98  | 5.55           |
-| 0202   | Studs @ 24" OC                            |      | 230         | .035        | "    | .98      | 1.96  |           | 2.94  | 3.98           |
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | WOOD BRACING                                 |        |             |             |      |          |       |           |       |                |
+| 0012  | Let in, with 1" x 6" boards, studs @ 16" OC  | 1 Carp | 150         | .053        | LF   | .98      | 3     |           | 3.98  | 5.55           |
+| 0202  | Studs @ 24" OC                               |        | 230         | .035        | "    | .98      | 1.96  |           | 2.94  | 3.98           |
 
 ---
 
