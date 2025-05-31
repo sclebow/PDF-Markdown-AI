@@ -8,10 +8,10 @@ Heavy duty reinforcement add
 3.4#/S.Y. metal lath substrate
 
 ## 07 24 13 - Polymer-Based Exterior Insulation and Finish System
+## 07 24 13.10 Polymer-Based Exterior Insulation and Finish Systems
 
 | ID    | Name                                              | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|---------------------------------------------------|----------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 07 24 13.10 | Exterior Insulation and Finish Systems           |          |             |             |      |          |       |           |         |                |
 | 0150  | Heavy duty reinforcement add                      |          | 914         | .044        | S.F. | .60      | 2.15  | .12       | 2.87    | 4              |
 | 0160  | 2.5 # / S.Y .metal lath substrate add             | 1 Lath   | 75          | .107        | S.Y. | 5.05     | 5.95  |           | 11      | 14.2           |
 | 0170  | 3.4 # / S.Y .metal lath substrate add             | "        | 75          | .107        | "    | 5.15     | 5.95  |           | 11.101  | 14.4           |
@@ -22,12 +22,10 @@ Heavy duty reinforcement add
 | 0380  | U groove shape in panel face                      |          |             |             |      | .89      |       |           | .89     | S              |
 | 0440  | For higher than one story, add                    |          |             |             |      |          | 25 %  |           |         |                |
 
-## 07 25 Weather Barriers
+### 07 25 10.10 Weather Barriers or Wraps
 
 | ID    | Name                                              | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|---------------------------------------------------|----------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 07 25 10 | Weather Barriers or Wraps                          |          |             |             |      |          |       |           |         |                |
-| 07 25 10.10 | Weather Barriers                                 |          |             |             |      |          |       |           |         |                |
 | 0010  | WEATHER BARRIERS                                   |          |             |             |      |          |       |           |         |                |
 | 0400  | Asphalt felt paper, # 15                            | 1 Carp   | 37          | .216        | Sq.  | 4.43     | 12.15 |           | 16.58   | 23             |
 | 0401  | Per square foot                                    | "        | 3700        | .002        | S.F. | .04      | .12   |           | .16     |                |
@@ -41,11 +39,10 @@ Heavy duty reinforcement add
 | 3000  | Building wrap, spun bonded polyethylene             | 2 Carp   | 8000        | .002        | S.F. | .18      | .11   |           | .29     |                |
 
 ## 07 26 Vapor Retarders
+### 07 26 13.10 Vapor Retarders Above-Grade
 
 | ID    | Name                                              | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|---------------------------------------------------|----------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 07 26 13 | Above-Grade Vapor Retarders                         |          |             |             |      |          |       |           |         |                |
-| 07 26 13.10 | Vapor Retarders                                    |          |             |             |      |          |       |           |         |                |
 | 0010  | VAPOR RETARDERS                                      |          |             |             |      |          |       |           |         |                |
 | 0020  | Aluminum and kraft laminated, foil 1 side            | UUGUUU5551 Carp | 37   | .216        | Sq.  | 12       | 12.15 |           | 24.15   | 31.5           |
 | 0100  | Foil 2 sides                                         |          | 37          | .216        |      | 17.55    | 12.15 |           | 29.70   | 37.5           |
@@ -136,15 +133,11 @@ Heavy duty reinforcement add
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07071 Shingles 31d Shakes
 
-## Shingles - Metal Shingles
-
-### 07 31 16 and Steel ShinglShakes0 STEEL SHINGLES
+### 07 31 16.20 Metal Shingles
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor      | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|------------|-----------|---------|----------------|
-| 07 31 16.20 0010 | STEEL SHINGLES                                                     |        |              |             |      |          |            |           |         |                |
 | 0012  | Galvanized, 26 ga.                                                   | 1 Rots | 2.20         | 3.636       | Sq.  | 293      | 180        |           | 473     | 610            |
 | 0200  | 24 ga.                                                               |        | 2.20         | 3.636       |      | 435      | 180        |           | 615     | 770            |
 | 0300  | For colored galvanized shingles, add                                 |        |              |             |      | 61.50    |            |           | 61.50   | 67.5           |
@@ -154,19 +147,20 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## Slate Shingles
 
 ### 07 31 26 Slate Shingles
+### 07 31 26.10 Slate Roof Shingles
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor      | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|------------|-----------|---------|----------------|
-| 07 31 26.10 0010 | SLATE ROOF SHINGLES                                                |        |              |             |      |          |            |           |         |                |
-| 0100  | Buckingham Virginia black, 3/16" - 1/4" thick                       | I Rots | 1.75         | 4.571       | Sq.  | 690      | 222222222  |           | 917     | 1,125          |
-| 0200  | 1/4" thick                                                          |        | 1.75         | 4.571       |      | 690      |            |           | 917     | 1,125          |
-| 0900  | Pennsylvania black, Bangor, #1 clear                                |        | 1.75         | 4.571       |      | 620      |            |           | 847     | 1,050          |
-| 1200  | Vermont, unfading, green, mottled green                             |        | 1.75         | 4.571       |      | 630      |            |           | 857     | 1,075          |
-| 1300  | Semi-weathering green & gray                                        |        | 1.75         | 4.571       |      | 505      |            |           | 732     | 925            |
-| 1400  | Purple                                                              |        | 1.75         | 4.571       |      | 620      |            |           | 847     | 1,050          |
-| 1500  | Black or gray                                                       |        | 1.75         | 4.571       |      | 540      |            |           | 767     | 965            |
-| 1600  | Red                                                                 |        | 1.75         | 4.571       |      | 1,475    |            |           | 1,702   | 1,975          |
-| 1700  | Variegated purple                                                   |        | 1.75         | 4.571       |      | 575      |            |           | 802     | 1,000          |
+|0010 | SLATE ROOF SHINGLES                                                |        |              |             |      |          |            |           |         |                |
+| 0100  | Buckingham Virginia black, 3/16" - 1/4" thick                       | I Rots | 1.75         | 4.571       | Sq.  | 690      | 2  |           | 917     | 1,125          |
+| 0200  | 1/4" thick                                                          |        | 1.75         | 4.571       |      | 690      | 2           |           | 917     | 1,125          |
+| 0900  | Pennsylvania black, Bangor, #1 clear                                |        | 1.75         | 4.571       |      | 620      | 2           |           | 847     | 1,050          |
+| 1200  | Vermont, unfading, green, mottled green                             |        | 1.75         | 4.571       |      | 630      | 2           |           | 857     | 1,075          |
+| 1300  | Semi-weathering green & gray                                        |        | 1.75         | 4.571       |      | 505      | 2           |           | 732     | 925            |
+| 1400  | Purple                                                              |        | 1.75         | 4.571       |      | 620      | 2           |           | 847     | 1,050          |
+| 1500  | Black or gray                                                       |        | 1.75         | 4.571       |      | 540      | 2           |           | 767     | 965            |
+| 1600  | Red                                                                 |        | 1.75         | 4.571       |      | 1,475    | 2           |           | 1,702   | 1,975          |
+| 1700  | Variegated purple                                                   |        | 1.75         | 4.571       |      | 575      | 2           |           | 802     | 1,000          |
 | 2700  | Ridge shingles, slate                                               | 200    | .040         | L.F.        |      | 12.70    | 1.98       |           | 14.68   | 17.            |
 
 ---
@@ -212,22 +206,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00701 Operation01nd Maint. Operationl and Moisture Protection
-
-07 01and - MaintenancMaintMembrane Roofing.07 of 50.10 RThermaltings  
-0010 ROOF COATINGSand12  
-Asphalt, bMoisturede, material only  
-0200  
-AspProtection fibered aluminum coating  
-G  
-0300  
-Asphalt p
-
 ## 07 01 50 - Maintenance of Membrane Roofing
+#### 07 01 50.10 Maintenance of Membrane Roofing Roof Coatings
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 07 01 50.10 Roof Coatings                                                    |      |              |             |        |          |       |           |        |                |
 | 0010  | ROOF COATINGS                                                        |      |              |             |        |          |       |           |        |                |
 | 0012  | Asphalt, brush grade, material only                                  |      |              |             | Gal.   | 8.60     |       |           | 8.60   | 9.             |
 | 0200  | Asphalt base, fibered aluminum coating                               | G    |              |             |        | 10.40    |       |           | 10.40  | II .           |
@@ -241,46 +224,46 @@ Asphalt p
 | 1200  | Roof resaturant, glass fibered, 3 gal./sq.                           |      |              |             |        | 8.15     |       |           | 8.15   | 8 .            |
 
 ## 07 01 90 - Maintenance of Joint Protection
+### 07 01 90.81 Maintenance of Joint Protection Joint Sealant Replacement
 
-| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
-|-------|----------------------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 07 01 90.81 Joint Sealant Replacement                                        |      |              |             |        |          |       |           |        |                |
-| 0010  | JOINT SEALANT REPLACEMENT                                            |      |              |             |        |          |       |           |        |                |
-| 0050  | Control joints in concrete floors/slabs                              |      |              |             |        |          |       |           |        |                |
-| 0100  | Option 1 for joints with hard dry sealant                            |      |              |             |        |          |       |           |        |                |
-| 0110  | Step 1: Sawcut to remove 95% of old sealant                          |      |              |             |        |          |       |           |        |                |
-| 0112  | 1/4" wide x 1/2" deep, with single sow blade                         | C-27 | 4800         | .003        | LF     | I        | 1258  | .18       | .03    | .22            |
-| 0114  | 3/8" wide x 3/4" deep, with single saw blade                         |      | 4000         | .004        |        |          | .02   | .21       | .04    | .27            |
-| 0116  | 1/2" wide x 1" deep, with double saw blades                          |      | 3600         | .004        |        | .05      | .24   | .04       | .33    |                |
-| 0118  | 3/4" wide x 1-1/2" deep, with double saw blades                      |      | 3200         | .005        |        | .09      | .27   | .05       | .41    |                |
-| 0120  | Step 2: Water blast jointfaces and edges                             | C 29 | 2500         | .003        |        |          | .15   | .04       | .19    |                |
-| 0130  | Step 3: Air blast jointfaces and edges                               | C 28 | 2000         | .004        |        |          | .21   | .02       | .23    |                |
-| 0140  | Step 4: Sand blast joint faces and edges                             | E 11 | 2000         | .016        |        |          | .80   | .16       | .96    |                |
-| 0150  | Step 5: Air blast jointfaces and edges                               | C 28 | 2000         | .004        |        |          | .21   | .02       | .23    |                |
-| 0200  | Option 2 for joints with soft pliable sealant                        |      |              |             |        |          |       |           |        |                |
-| 0210  | Step 1: Plow joint with rectangular blade                            | B 62 | 2600         | .009        | L.F.   | [        | 446   | .10       | 506    |                |
-| 0220  | Step 2: Sawcut to reface joint faces                                 |      |              |             |        |          |       |           |        |                |
-| 0222  | 1/4" wide x 1/2" deep, with single saw blade                         | C 27 | 2400         | .007        | LF     | |        | 2312  | .35322    | .07 ;  | .44            |
-| 0224  | 3/8" wide x 3/4" deep, with single saw blade                         |      | 2000         | .008        |        | .03      | .43   | .08       | .54    |                |
-| 0226  | 1/2" wide x 1" deep, with double saw blades                          |      | 1800         | .009        |        | .06      | .47   | .09       | .62    |                |
-| 0228  | 3/4" wide x 1-1/2" deep, with double saw blades                      |      | 1600         | .010        |        | .12      | .53   | .10       | K222   | 1.             |
-| 0230  | Step 3: Water blast joint faces and edges                            | C 29 | 2500         | .003        |        |          | .15   | .04       | .19    |                |
-| 0240  | Step 4: Air blast jointfaces and edges                               | C 28 | 2000         | .004        |        |          | .21   | .02       | .23    |                |
-| 0250  | Step 5: Sand blast jointfaces and edges                              | E-11 | 2000         | .016        |        |          | .80   | .16       | .96    | 1 .            |
-| 0260  | Step 6: Air blast jointfaces and edges                               | C-28 | 2000         | .004        |        | .211     | .02   | .23       |        |                |
-| 0290  | For saw cutting new control joints, see Section 03 15 16.20          |      |              |             |        |          |       |           |        |                |
-| 8910  | For backer rod, see Section 07 91 23.10                              |      |              |             |        |          |       |           |        |                |
-| 8920  | For joint sealant, see Section 03 15 16.30 or 07 92 13.20            |      |              |             |        |          |       |           |        |                |
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010  | JOINT SEALANT REPLACEMENT                                 |       |              |             |       |          |       |           |       |                |
+| 0050  | Control joints in concrete floors/slabs                   |       |              |             |       |          |       |           |       |                |
+| 0100  | Option 1 for joints with hard dry sealant                 |       |              |             |       |          |       |           |       |                |
+| 0110  | Step 1: Sawcut to remove 95% of old sealant               |       |              |             |       |          |       |           |       |                |
+| 0112  | 1/4" wide x 1/2" deep, with single saw blade              | C-27  | 4800         | .003        | LF    | 1        | .18   | .03       | .22   |                |
+| 0114  | 3/8" wide x 3/4" deep, with single saw blade              |       | 4000         | .004        |       |          | .21   | .04       | .27   |                |
+| 0116  | 1/2" wide x 1" deep, with double saw blades               |       | 3600         | .004        |       | .05      | .24   | .04       | .33   |                |
+| 0118  | 3/4" wide x 1-1/2" deep, with double saw blades           |       | 3200         | .005        |       | .09      | .27   | .05       | .41   |                |
+| 0120  | Step 2: Water blast joint faces and edges                 | C-29  | 2500         | .003        |       |          | .15   | .04       | .19   |                |
+| 0130  | Step 3: Air blast joint faces and edges                   | C-28  | 2000         | .004        |       |          | .21   | .02       | .23   |                |
+| 0140  | Step 4: Sand blast joint faces and edges                  | E-11  | 2000         | .016        |       |          | .80   | .16       | .96   |                |
+| 0150  | Step 5: Air blast joint faces and edges                   | C-28  | 2000         | .004        |       |          | .21   | .02       | .23   |                |
+| 0200  | Option 2 for joints with soft pliable sealant             |       |              |             |       |          |       |           |       |                |
+| 0210  | Step 1: Plow joint with rectangular blade                 | B-62  | 2600         | .009        | LF    |          | .10   |           | .10   |                |
+| 0220  | Step 2: Sawcut to reface joint faces                      |       |              |             |       |          |       |           |       |                |
+| 0222  | 1/4" wide x 1/2" deep, with single saw blade              | C-27  | 2400         | .007        | LF    |          | .35   | .07       | .44   |                |
+| 0224  | 3/8" wide x 3/4" deep, with single saw blade              |       | 2000         | .008        |       | .03      | .43   | .08       | .54   |                |
+| 0226  | 1/2" wide x 1" deep, with double saw blades               |       | 1800         | .009        |       | .06      | .47   | .09       | .62   |                |
+| 0228  | 3/4" wide x 1-1/2" deep, with double saw blades           |       | 1600         | .010        |       | .12      | .53   | .10       | .75   |                |
+| 0230  | Step 3: Water blast joint faces and edges                 | C-29  | 2500         | .003        |       |          | .15   | .04       | .19   |                |
+| 0240  | Step 4: Air blast joint faces and edges                   | C-28  | 2000         | .004        |       |          | .21   | .02       | .23   |                |
+| 0250  | Step 5: Sand blast joint faces and edges                  | E-11  | 2000         | .016        |       |          | .80   | .16       | .96   |                |
+| 0260  | Step 6: Air blast joint faces and edges                   | C-28  | 2000         | .004        |       |          | .21   | .02       | .23   |                |
+| 0290  | For saw cutting new control joints, see Section 03 15 16.20 |     |              |             |       |          |       |           |       |                |
+| 8910  | For backer rod, see Section 07 91 23.10                   |       |              |             |       |          |       |           |       |                |
+| 8920  | For joint sealant, see Section 03 15 16.30 or 07 92 13.20 |       |              |             |       |          |       |           |       |                |
 
 ## 07 05 - Common Work Results for Thermal and Moisture Protection
 
 ### 07 05 05 - Selective Demolition for Thermal and Moisture Protection
+### 07 05 05.10 - Selective Demolition for Thermal and Moisture Protection
 
 | ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|-----------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 07 05 05.10 Selective Demo., Thermal and Moist. Protection                   |           |              |             |        |          |       |           |        |                |
 | 0010  | SELECTIVE DEMO., THERMAL AND MOISTURE PROTECTION                     |           |              |             |        |          |       |           |        |                |
-| 0020  | Caulking / sealant, to 1" x 1" joint                                 | R024119-10| 1 Clab       | 600         | .013   | LF .     |       | .61       |        | .61            |
+| 0020  | Caulking / sealant, to 1" x 1" joint                                 |  1 Clab       | 600         | .013   | LF .     |       | .61       |        | .61            |
 | 0120  | Downspouts, including hangers                                        |           | 350          | .023        | "      |          | 1.04  |           | 1.04   | 1125           |
 | 0220  | Flashing, sheet metal                                                |           | 290          | .028        | S.F.   |          | 1.26  |           | 1.26   |                |
 | 0420  | Gutters, aluminum or wood, edge hung                                 |           | 240          | .033        | L.F.   |          | 1.52  |           | 1.52   | 2              |
@@ -331,7 +314,7 @@ Asphalt p
 |------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | CEMENTITIOUS PARGING                      |        |              |             |      |          |       |           |       |                |
 | 0020 | Portland cement, 2 coats, 1/2" thick      | D-1    | 250          | .064        | S.F. | .35      | 3.21  |           | 3.56  | 5              |
-| 0100 | Waterproofed Portland cement, 1/2" thick, 2 coats | =      | 250          | .064        |      | 2.66     | 3.21  |           | 5.87  | 7              |
+| 0100 | Waterproofed Portland cement, 1/2" thick, 2 coats |       | 250          | .064        |      | 2.66     | 3.21  |           | 5.87  | 7              |
 
 ---
 
@@ -362,7 +345,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
-| 670  | Batts or blankets                                                    | 11 Clab| 1400         | .006        | C.F.  |          | .26   |           | .26   | .39            |
+| 670  | Batts or blankets                                                    | 1 Clab| 1400         | .006        | C.F.  |          | .26   |           | .26   | .39            |
 | 720  | Foamed or sprayed inplace                                            | 2 Clab | 1000         | .016        | B.F.  |          | .73   |           | .73   | 1.09           |
 | 770  | Loose fitting                                                        | 1 Clab | 3000         | .003        | C.F   |          | .12   |           | .12   | .18            |
 | 870  | Rigid board                                                          |        | 3450         | .002        | B.F.  |          | .11   |           | .11   | .16            |
@@ -378,7 +361,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 270  | Gravel stop                                                          |        | 950          | .008        |       |          | .38   |           | .38   | .57            |
 | 370  | Sheet metal coping, up to 12" wide                                   |        | 240          | .033        |       |          | 1.52  |           | 1.52  | 2.26           |
 | 470  | Roof insulation board, over 2" thick                                 | B-2    | 7800         | .005        | B.F.  |          | .24   |           | .24   | .35            |
-| 520  | Up to 2" thick                                                       | 1      | 3900         | .010        | S.F.  |          | .47   | 223       | .47   | .70            |
+| 520  | Up to 2" thick                                                       |       | 3900         | .010        | S.F.  |          | .47   | 223       | .47   | .70            |
 | 620  | Roof ventilation, louvered gable vent                                | 1 Clab | 16           | .500        | Eo.   | 223      |       |           |       | 34             |
 | 670  | Remove, roof hatch                                                   | G-3    | 15           | 2.133       |       | 121      |       |           | 121   | 181            |
 | 675  | Rafter vents                                                         | 1 Clab | 960          | .008        |       |          | .38   |           | .38   | .57            |
@@ -424,10 +407,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 07 19 19.10 Silicone Based Water Repellents
 
-#### 0010 SILICONE BASED WATER REPELLENTS
-
 | ID   | Name                                                      | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SILICONE BASED WATER REPELLANTS                           |  |         |             |      |          |       |           |       |                |
 | 0020 | Water base liquid, roller applied                         | 2 Rofc       | 7000        | .002        | S.F  | .45      | .===  |           | .56   |                |
 | 0200 | Silicone or stearate, sprayed on CMU, 1 coat              | 1 Rofc       | 4000        | .002        |      | .42      | .10   |           | .52   |                |
 | 0300 | 2 coats                                                   | 1            | 3000        | .003        |      | .84      | .13   |           | .97   |                |
@@ -443,7 +425,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                      | Crew                | Daily Output | Labor-Hours | Unit | Material | Labor           | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|---------------------|-------------|-------------|------|----------|-----------------|-----------|-------|----------------|
 | 0010 | RIGID INSULATION, for walls                               |                     |             |             |      |          |                 |           |       |                |
-| 0040 | Fiberglass, 1.5 #/C.F., unfaced, 1" thick, R4.1           | 555555GGG1GCarp     | 1000        | .008        | S.F  | .46      | 44454455555555  |           | .91   |                |
+| 0040 | Fiberglass, 1.5 #/C.F., unfaced, 1" thick, R4.1           | 1 Carp     | 1000        | .008        | S.F  | .46      | 44454455555555  |           | .91   |                |
 | 0060 | 1-1/2" thick, R6.2                                        |                     | 1000        | .008        |      | .56      |                 |           | 1.01  |                |
 | 0080 | 2" thick, R8.3                                            |                     | 1000        | .008        |      | .62      |                 |           | 1.07  |                |
 | 0120 | 3" thick, R12.4                                           |                     | 800         | .010        |      | .75      | .56             |           | 1.31  | 1 .            |
@@ -458,7 +440,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0580 | 2-1/2" thick, R10.9                                       |                     | 800         | .010        |      | 2.23     | .56             |           | 2.79  | 3 .            |
 | 0600 | 3" thick, R13                                             |                     | 800         | 010         |      | 2.36     | .56             |           | 2.92  | 3 .            |
 | 1600 | Isocyanurate, 4' x 8' sheet, foilfaced, both sides        |                     |             |             |      |          |                 |           |       |                |
-| 1610 | 1/2" thick                                                | GGGGGGGGG1GCarpG    | 800         | .010        | S.F  | .37      | .56             |           | .93   |                |
+| 1610 | 1/2" thick                                                | 1 Carp    | 800         | .010        | S.F  | .37      | .56             |           | .93   |                |
 | 1620 | 5/8" thick                                                |                     | 800         | .010        |      | .79      | .56             |           | 1.35  |                |
 | 1630 | 3/4" thick                                                |                     | 800         | .010        |      | .56      | .56             |           | 1.12  |                |
 | 1640 | 1" thick                                                  |                     | 800         | .010        |      | .70      | .56             |           | 1.26  |                |
@@ -482,8 +464,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | FOAM BOARD INSULATION                                     |         |             |             |      |          |       |           |       |                |
-| 0600 | Polystyrene, expanded, 1" thick, R4                       | G 1 Carp| 680         | .012        | S.F  | .25      | .66   |           | .94   |                |
-| 0700 | 2" thick, R8                                              | G "     | 675         | .012        |      | .56      | .67   |           | 1.23  |                |
+| 0600 | Polystyrene, expanded, 1" thick, R4                       |  1 Carp| 680         | .012        | S.F  | .25      | .66   |           | .94   |                |
+| 0700 | 2" thick, R8                                              |  "     | 675         | .012        |      | .56      | .67   |           | 1.23  |                |
 
 ---
 
@@ -496,7 +478,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0010 | BLANKET INSULATION FOR FLOORS/CEILINGS                    |         |             |             |      |          |       |           |       |                |
 | 0020 | Including spring type wire fasteners                      |         |             |             |      |          |       |           |       |                |
 | 2000 | Fiberglass, blankets or batts, paper or foilbacking       |         |             |             |      |          |       |           |       |                |
-| 2100 | 3-1/2" thick, R13                                         | G 1 Corp| 700         | .011        | S.F. | .73      | .64   |           | 1.37  |                |
+| 2100 | 3-1/2" thick, R13                                         |  1 Corp| 700         | .011        | S.F. | .73      | .64   |           | 1.37  |                |
 
 ---
 
@@ -509,14 +491,14 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | MASONRY LOOSE-FILL INSULATION, vermiculite or perlite                |              |             |             |      |          |       |           |       |                |
-| 0100 | In cores of concrete block, 4" thick wall, .115 C.F./S.E.            | 5G555555 D모-1| 4800        | .003        | S.F. | .36      | .17   |           | .53   | .65            |
-| 0200 | 6" thick wall, .175 C.F./S.F.                                        | G D-1        | 3000        | .005        | S.F. | .55      | .27   |           | .82   | 1.01           |
+| 0100 | In cores of concrete block, 4" thick wall, .115 C.F./S.E.            | D-1 | 4800        | .003        | S.F. | .36      | .17   |           | .53   | .65            |
+| 0200 | 6" thick wall, .175 C.F./S.F.                                        |  D-1        | 3000        | .005        | S.F. | .55      | .27   |           | .82   | 1.01           |
 | 0300 | 8" thick wall, .258 C.F./S.F.                                        |              | 2400        | .007        |      | .81      | .33   |           | 1.14  | 1.39           |
 | 0400 | 10" thick wall, .340 C.F./S.F.                                       |              | 1850        | .009        |      | 1.07     | .43   |           | 1.50  | 1.83           |
-| 0500 | 12" thick wall, .422 C.F./S.F.                                       | G            | 1200        | .013        |      | 1.33     | .67   |           | 2     | 2.46           |
-| 0600 | Poured cavity wall, vermiculite or perlite, water repellent          | G            | 250         | 1.064       | C.F. | 3.15     | 3.21  |           | 6.36  | 8.30           |
-| 0700 | Foamed in place, urethane in 2-5/8" cavity                           | G G-2A       | 1035        | .023        | S.E. | 1.84     | 1.02  | .64       | 3.50  | 4.34           |
-| 0800 | For each 1" added thickness, add                                     | G            | 2372        | .010        |      | .70      | .45   | .28       | 1.43  | 1.78           |
+| 0500 | 12" thick wall, .422 C.F./S.F.                                       |             | 1200        | .013        |      | 1.33     | .67   |           | 2     | 2.46           |
+| 0600 | Poured cavity wall, vermiculite or perlite, water repellent          |             | 250         | 1.064       | C.F. | 3.15     | 3.21  |           | 6.36  | 8.30           |
+| 0700 | Foamed in place, urethane in 2-5/8" cavity                           |  G-2A       | 1035        | .023        | S.E. | 1.84     | 1.02  | .64       | 3.50  | 4.34           |
+| 0800 | For each 1" added thickness, add                                     |             | 2372        | .010        |      | .70      | .45   | .28       | 1.43  | 1.78           |
 
 ---
 
@@ -525,7 +507,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | BLOWN INSULATION Ceilings, with open access                          |              |             |             |      |          |       |           |       |                |
-| 0020 | Cellulose, 3-1/2" thick, R13                                         | 55555GGGGGG-4| 5000        | .005        | S.F. | .29      | 223762396662| =11   | .62   | .77            |
+| 0020 | Cellulose, 3-1/2" thick, R13                                         | G-4| 5000        | .005        | S.F. | .29      | 223762396662| =11   | .62   | .77            |
 | 0030 | 5-3/16" thick, R19                                                   |              | 3800        | .006        |      | .42      |       | *14       | .85   | 1.07           |
 | 0050 | 6-1/2" thick, R22                                                    |              | 3000        | .008        |      | .54      |       | 818       | 1.09  | 1.35           |
 | 0100 | 8-11/16" thick, R30                                                  |              | 2600        | .009        |      | .73      | .43   | *21       | 1.37  | 1.67           |
@@ -546,12 +528,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | SPRAYED-ON INSULATION                                                |              |             |             |      |          |       |           |       |                |
-| 0020 | Fibrous/cementitious, finished wall, 1" thick, R3.7                  | UGGG -2      | 2050        | .012        | S.F. | 4422     | .565  | .07       | 1.09  | 1.41           |
-| 0100 | Attic, 5.2" thick, R19                                               | G            | 1550        | .015        | "    | .54      | .74   | .09       | 1.37  | 1.79           |
+| 0020 | Fibrous/cementitious, finished wall, 1" thick, R3.7                  | G-2      | 2050        | .012        | S.F. | 4422     | .565  | .07       | 1.09  | 1.41           |
+| 0100 | Attic, 5.2" thick, R19                                               |             | 1550        | .015        | "    | .54      | .74   | .09       | 1.37  | 1.79           |
 | 0200 | Fiberglass, R4 per inch, vertical                                    |              | 1600        | .015        | B.F. | .26      | .71   | .09       | 1.06  | 1.44           |
 | 0210 | Horizontal                                                           |              | 1200        | .020        | "    | .26      | .95   | .12       | 1.33  | 1.83           |
 | 0300 | Closed cell, spray polyurethane foam, 2 lb./C.F. density             |              |             |             |      |          |       |           |       |                |
-| 0310 | 1" thick                                                             | GGGGGGGG G-2A| 6000        | 004         | S.F. | .70      | .18   | .11       | .99   | 1.17           |
+| 0310 | 1" thick                                                             |  G-2A | 6000        | 004         | S.F. | .70      | .18   | .11       | .99   | 1.17           |
 | 0320 | 2" thick                                                             |              | 3000        | .008        |      | 1.41     | .35   | .22       | 1.98  | 2.35           |
 | 0330 | 3" thick                                                             |              | 2000        | .012        |      | 2.11     | .53   | 33        | 2.97  | 3.51           |
 | 0335 | 3-1/2" thick                                                         |              | 1715        | .014        |      | 2.46     | .62   | .39       | 3.47  | 4.10           |
@@ -567,10 +549,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
 | 0010 | REFLECTIVE INSULATION OPTIONS                                        |              |             |             |       |          |       |           |       |                |
-| 0020 | Aluminum foil on reinforced scrim                                    | G 1 Carp     | 19          | .421        | C.S.F.| 19.05    | 23.50 |           | 42.55 | 56.50          |
+| 0020 | Aluminum foil on reinforced scrim                                    |  1 Carp     | 19          | .421        | C.S.F.| 19.05    | 23.50 |           | 42.55 | 56.50          |
 | 0100 | Reinforced with woven polyolefin                                     |              | 19          | .421        |       | 30       | 23.50 |           | 53.50 | 69             |
-| 0500 | With single bubble airspace, R8.8                                    | G            | 15          | .533        |       | 33.50    | 30    |           | 63.50 | 81.50          |
-| 0600 | With double bubble air space, R9.8                                   | G            | 15          | 533         |       | 40.50    | 30    |           | 70.50 | 89             |
+| 0500 | With single bubble airspace, R8.8                                    |             | 15          | .533        |       | 33.50    | 30    |           | 63.50 | 81.50          |
+| 0600 | With double bubble air space, R9.8                                   |             | 15          | 533         |       | 40.50    | 30    |           | 70.50 | 89             |
 
 ---
 
@@ -579,13 +561,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 07071 Thermal Insulation
 
 ## 07 Thermal Blanket Insulation  
-### 07 21 Insulation Blanket Insulation for Walls
+### 07 21 16.20 Blanket Insulation for Walls
 
 | ID    | Name                                                                 | Crew                | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 21 16             | Blanket Insulation                                                    |                     |             |             |      |          |       |           |       |                |
-| 07 21 16.20          | Blanket Insulation for Walls                                          |                     |             |             |      |          |       |           |       |                |
-| 0836                 | 23" wide                                                              | GG1GGGGGGGGCarp     | 1600        | .005        | S.F. | .75      | .28   |           | 1.03  |                |
+| 0836                 | 23" wide                                                              | 1 Carp     | 1600        | .005        | S.F. | .75      | .28   |           | 1.03  |                |
 | 0838                 | 6" thick, R19, 11" wide                                               |                     | 1150        | .007        |      | .78      | .39   |           | 1.17  |                |
 | 0860                 | 15" wide                                                              |                     | 1150        | .007        |      | .78      | .39   |           | 1.17  |                |
 | 0880                 | 23" wide                                                              |                     | 1350        | .006        |      | .78      | .33   |           | 1.11  |                |
@@ -599,7 +579,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0940                 | 15" wide                                                              |                     | 1000        | .008        |      | 1.66     | .45   |           | 2.11  | 2.             |
 | 0960                 | 23" wide                                                              |                     | 1150        | .007        |      | 1.66     | .39   |           | 2.05  |                |
 | 1300                 | Wall or ceiling insulation, mineral wool batts                        |                     |             |             |      |          |       |           |       |                |
-| 1320                 | 3-1/2" thick, R15                                                     | GGGGG 1 Carp        | 1600        | .005        | S.F. | 1.04     | .28   |           | 1.32  | 122            |
+| 1320                 | 3-1/2" thick, R15                                                     |  1 Carp        | 1600        | .005        | S.F. | 1.04     | .28   |           | 1.32  | 122            |
 | 1340                 | 5-1/2" thick, R23                                                     |                     | 1600        | .005        |      | 1.63     | .28   |           | 1.91  |                |
 | 1380                 | 7-1/4" thick, R30                                                     |                     | 1350        | .006        |      | 2.15     | .33   |           | 2.48  |                |
 | 1700                 | Non-rigid insul., recycled blue cotton fiber, unfaced batts, R13, 16" wide |                 | 1600        | .005        |      | .86      | .28   |           | 1.14  | 1.             |
@@ -609,16 +589,16 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ## 07 21 19 - Foamed In Place Insulation
+### 07 21 19.10 Masonry Foamed In Place Insulation
 
 | ID    | Name                                                                 | Crew                | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 21 19.10         | Masonry Foamed In Place Insulation                                 |                     |             |             |      |          |       |           |       |                |
 | 0010                | MASONRY FOAMED IN PLACE INSULATION                                 |                     |             |             |      |          |       |           |       |                |
-| 0100                | Amino plast foam, injected into block core, 6" block               | 55G55 G 2A          | 6000        | .004        | Ea.  | .22348   | .18   | .11        | .51   |                |
-| 0110                | 8" block                                                           | G                   | 5000        | .005        |      | .26      | .21   | .13        | .60   |                |
-| 0120                | 10" block                                                          | G                   | 4000        | .006        |      | .33      | .26   | .17        | .76   |                |
-| 0130                | 12" block                                                          | G                   | 3000        | .008        |      | .44      | .35   | .22        | 1.01  | 1.             |
-| 0140                | Injected into cavity wall                                          | G                   | 13000       | .002        | B.F. | .08      | .08   | .05        | .21   |                |
+| 0100                | Amino plast foam, injected into block core, 6" block               |   2A          | 6000        | .004        | Ea.  | .22348   | .18   | .11        | .51   |                |
+| 0110                | 8" block                                                           |                    | 5000        | .005        |      | .26      | .21   | .13        | .60   |                |
+| 0120                | 10" block                                                          |                    | 4000        | .006        |      | .33      | .26   | .17        | .76   |                |
+| 0130                | 12" block                                                          |                    | 3000        | .008        |      | .44      | .35   | .22        | 1.01  | 1.             |
+| 0140                | Injected into cavity wall                                          |                    | 13000       | .002        | B.F. | .08      | .08   | .05        | .21   |                |
 | 0150                | Preparation, drill holes into mortar joint every 4 V.L.F., 5/8" diameter | 1 Clab         | 960         | .008        | Ea.  |          | .38   |           | .38   |                |
 | 0160                | 7/8" diameter                                                      |                     | 1680        | .012        |      |          | .54   |           | .54   |                |
 | 0170                | Patch drilled holes, 5/8" diameter                                 |                     | 1800        | .004        |      | .04      | .20   |           | .24   |                |
@@ -627,10 +607,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ## 07 21 23 - Loose-Fill Insulation
+### 07 21 23.10 Poured Loose-Fill Insulation
+
 
 | ID    | Name                                                                 | Crew                | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 21 23.10         | Poured Loose-Fill Insulation                                      |                     |             |             |      |          |       |           |       |                |
 | 0010                | POURED LOOSE-FILL INSULATION                                      |                     |             |             |      |          |       |           |       |                |
 | 0020                | Cellulose fiber, R3.8 per inch                                    | 5G5555GG1GGCarp     | 200         | .040        | C.E. | 822123623| 2.25  |           | 3.08  | 4.             |
 | 0021                | 4" thick                                                          |                     | 1000        | .008        | S.F.| .20      | .45   |           | .65   |                |
@@ -658,10 +639,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 7 27 13.10 Modified Bituminous Sheet Air Barrier
 
-#### 010 MODIFIED BITUMINOUS SHEET AIR BARRIER
-
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 010  | MODIFIED BITUMINOUS SHEET AIR BARRIER                                |         |              |             |      |          |       |           |       |                |
 | 100  | SBS modified sheet laminated to polyethylene sheet, 40 mils, 4" wide | 1 Carp | 1200         | .007        | LE   | .32      | .38   |           | .70   | .91            |
 | 120  | 6" wide                                                              |        | 1100         | .007        |      | .43      | .41   |           | .84   | 1.08           |
 | 140  | 9" wide                                                              |        | 1000         | .008        | ?    | .60      | .45   |           | 1.05  | 1.33           |
@@ -676,10 +656,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 7 27 26.10 Fluid Applied Membrane Air Barrier
 
-#### 010 FLUID APPLIED MEMBRANE AIR BARRIER
+
 
 | ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 010 | FLUID APPLIED MEMBRANE AIR BARRIER            |        |              |             |      |          |       |           |       |                |
 | 100  | Spray applied vapor barrier, 25 S.F./gallon  | 1 Pord | 1375         | .006        | S.F. | .02      | .28   |           | .30   | .43            |
 
 ---
@@ -689,8 +670,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 07 31 13 Asphalt Shingles
 
 ### 7 31 13.10 Asphalt Roof Shingles
-
-#### 010 ASPHALT ROOF SHINGLES
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -744,13 +723,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 07 22 16 - Roof Board Insulation  
 ## 07 22 16.10 Roof Deck Insulation
 
-### 0010 ROOF DECK INSULATION, fastening excluded
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0016  | Asphaltic cover board, fiberglass lined, 1/8" thick                  | 1 Rofc | 1400         | .006        | S.F. | .50      | .2833333333333223233233344322222332 |      | .78   | 1.0            |
 | 0018  | 1/4" thick                                                           |        | 1400         | .006        |      | 1.02     | .28   |           | 1.30  | 1.5            |
-| 0020  | Fiberboard low density, 1/2" thick, R1.39                            | 5555555555555 | 1300 | .006        |      | .38      | .31   |           | .69   | -              |
+| 0020  | Fiberboard low density, 1/2" thick, R1.39                            |  | 1300 | .006        |      | .38      | .31   |           | .69   | -              |
 | 0030  | 1" thick, R2.78                                                      |        | 1040         | .008        |      | .78      | .38   |           | 1.16  | 1.4            |
 | 0080  | 1-1/2" thick, R4.17                                                  |        | 1040         | .008        |      | 1.18     | .38   |           | 1.56  | 1.9            |
 | 0100  | 2" thick, R5.56                                                      |        | 1040         | .008        |      | 1.13     | .38   |           | 1.51  | 1.8            |
@@ -769,23 +747,23 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0830  | Primed fiberglass mat facer, 1/4" thick                              |        | 1400         | .006        |      | .63      | 28    |           | .91   | 1.             |
 | 0840  | 1/2" thick                                                           |        | 1300         | .006        |      | .71      | .31   |           | 1.02  | 1.             |
 | 0850  | 5/8" thick                                                           |        | 1200         | .007        |      | .73      |       |           | 1.06  | 1.             |
-| 1650  | Perlite, 1/2" thick, R1.32                                           | 55G555555555555 | 1365 | .006        |      | .31      | .29   |           | .60   |                |
-| 1655  | 3/4" thick, R2.08                                                    | G      | 1040         | .008        |      | .40      | .38   |           | .78   | 1.             |
-| 1660  | 1" thick, R2.78                                                      | G      | 1040         | .008        |      | .62      | .38   |           |       |                |
-| 1670  | 1-1/2" thick, R4.17                                                  | G      | 1040         | .008        |      | .88      | .38   |           | 1.26  |                |
-| 1680  | 2" thick, R5.56                                                      | G      | 910          | .009        |      | 1.10     |       |           | 1.54  | 1              |
-| 1685  | 2-1/2" thick, R6.67                                                  | G      | 910          | .009        |      | 1.41     |       |           | 1.85  | 2.             |
-| 1690  | Tapered for drainage                                                 | G 1 Rofc | 1040      | 008         | B.F. | 1.21     | .38   |           | 1.59  | 1.             |
-| 1700  | Polyisocyanurate, 2#/C.F. density, 3/4" thick                        | G      | 1950         | .004        | S.F. | .65      | .20   |           | .85   | 1.             |
-| 1705  | 1" thick                                                             | G      | 1820         | .004        |      | .84      |       |           | 1.06  | 1.             |
-| 1715  | 1-1/2" thick                                                         | G      | 1625         | .005        |      | 1.03     |       |           | 1.27  |                |
-| 1725  | 2" thick                                                             | G      | 1430.        | .006        |      | 1.36     | .28   |           | 1.64  |                |
-| 1735  | 2-1/2" thick                                                         | G      | 1365         | .006        |      | 1.72     | .29   |           | 2.01  | 213-           |
-| 1745  | 3" thick                                                             | G      | 1300         | .006        |      | 1.13     | .31   |           | 1.44  | 1.             |
+| 1650  | Perlite, 1/2" thick, R1.32                                           |  | 1365 | .006        |      | .31      | .29   |           | .60   |                |
+| 1655  | 3/4" thick, R2.08                                                    |       | 1040         | .008        |      | .40      | .38   |           | .78   | 1.             |
+| 1660  | 1" thick, R2.78                                                      |       | 1040         | .008        |      | .62      | .38   |           |       |                |
+| 1670  | 1-1/2" thick, R4.17                                                  |       | 1040         | .008        |      | .88      | .38   |           | 1.26  |                |
+| 1680  | 2" thick, R5.56                                                      |       | 910          | .009        |      | 1.10     |       |           | 1.54  | 1              |
+| 1685  | 2-1/2" thick, R6.67                                                  |       | 910          | .009        |      | 1.41     |       |           | 1.85  | 2.             |
+| 1690  | Tapered for drainage                                                 |  1 Rofc | 1040      | 008         | B.F. | 1.21     | .38   |           | 1.59  | 1.             |
+| 1700  | Polyisocyanurate, 2#/C.F. density, 3/4" thick                        |       | 1950         | .004        | S.F. | .65      | .20   |           | .85   | 1.             |
+| 1705  | 1" thick                                                             |       | 1820         | .004        |      | .84      |       |           | 1.06  | 1.             |
+| 1715  | 1-1/2" thick                                                         |       | 1625         | .005        |      | 1.03     |       |           | 1.27  |                |
+| 1725  | 2" thick                                                             |       | 1430.        | .006        |      | 1.36     | .28   |           | 1.64  |                |
+| 1735  | 2-1/2" thick                                                         |       | 1365         | .006        |      | 1.72     | .29   |           | 2.01  | 213-           |
+| 1745  | 3" thick                                                             |       | 1300         | .006        |      | 1.13     | .31   |           | 1.44  | 1.             |
 | 1755  | 3-1/2" thick                                                         |        | $1300        | .006        |      | 2.55     | .31   |           | 2.86  | 3.             |
 | 1765  | Tapered for drainage                                                 |        | 1820         | .004        | B.F. | 1.03     |       |           | 1.25  | 1.             |
 | 1900  | Extruded polystyrene                                                 |        |              |             |      |          |       |           |       |                |
-| 1910  | 15 psi compressive strength, 1" thick, R5                            | G5G15GGGGGGGRofc | 1950 | .004 | S.F. | .58 | 222222222 |      | .78   |                |
+| 1910  | 15 psi compressive strength, 1" thick, R5                            | 1 Rofc | 1950 | .004 | S.F. | .58 | 2 |      | .78   |                |
 | 1920  | 2" thick, R10                                                        |        | 1625         | .005        |      | .75      |       |           | .99   | 122            |
 | 1930  | 3" thick, R15                                                        |        | 1300         | .006        |      | 1.51     | .31   |           | 1.82  |                |
 | 1932  | 4" thick, R20                                                        |        | 1300         | .006        |      | 2.03     |       |           | 2.34  | 2.             |
@@ -805,24 +783,17 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 21 Therm21 InsulationThermal16
-
-## Blanket Insulation
-
-### 1Insulation.10 Blanket Insulation for Floors/Ceilings
-
-6-1/4" thick, R19  
-9-1/2" thick, R30  
+### 7 21 16.10 Blanket Insulation for Floors/Ceilingsx
 
 | ID  | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-----|----------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 150 | 6-1/4" thick, R19                      | 55G5555 1 Carp | 600          | .013        | S.F. | .99      | .75   |           | 1.74  | 2.21           |
-| 210 | 9-1/2" thick, R30                      | G      | 500          | .016        |      | 1.14     | .90   |           | 2.04  | 2.59           |
-| 220 | 12" thick, R38                         | G      | 475          | .017        |      | 1.44     | .95   |           | 2.39  | 2.99           |
-| 000 | Unfaced, 3-1/2" thick, R13             | G      | 600          | .013        |      | .54      | .75   |           | 1.29  | 1.71           |
-| 010 | 6-1/4" thick, R19                      | G      | 500          | .016        |      | .78      | .90   |           | 1.68  | 2.20           |
-| 020 | 9-1/2" thick, R30                      | G      | 450          | .018        |      | 1.13     | 1     |           | 2.13  | 2.73           |
-| 030 | 12" thick, R38                         | G      | 425          | .019        |      | 1.66     | 1.06  |           | 2.72  | 3.41           |
+| 150 | 6-1/4" thick, R19                      |  1 Carp | 600          | .013        | S.F. | .99      | .75   |           | 1.74  | 2.21           |
+| 210 | 9-1/2" thick, R30                      |       | 500          | .016        |      | 1.14     | .90   |           | 2.04  | 2.59           |
+| 220 | 12" thick, R38                         |       | 475          | .017        |      | 1.44     | .95   |           | 2.39  | 2.99           |
+| 000 | Unfaced, 3-1/2" thick, R13             |       | 600          | .013        |      | .54      | .75   |           | 1.29  | 1.71           |
+| 010 | 6-1/4" thick, R19                      |       | 500          | .016        |      | .78      | .90   |           | 1.68  | 2.20           |
+| 020 | 9-1/2" thick, R30                      |       | 450          | .018        |      | 1.13     | 1     |           | 2.13  | 2.73           |
+| 030 | 12" thick, R38                         |       | 425          | .019        |      | 1.66     | 1.06  |           | 2.72  | 3.41           |
 
 ---
 
@@ -831,7 +802,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID  | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 010  | BLANKET INSULATION FOR WALLS                                         |        |              |             |      |          |       |           |       |                |
-| 020  | Kraft faced fiberglass, 3-1/2" thick, R11, 15" wide                  | 05555GGGG1GCarpGGGG1350GGGGGGG | .006        | S.F. | .53      | 3223223233223243 | .86   | 1.08           |
+| 020  | Kraft faced fiberglass, 3-1/2" thick, R11, 15" wide                  | 1 Carp | .006        | S.F. | .53      |  | .86   | 1.08           |
 | 030  | 23" wide                                                             |        | 1600         | .005        |      | .53      | .28   |           | .81   | 1              |
 | 060  | R13, 11" wide                                                        |        | 1150         | .007        |      | .60      | .39   |           | .99   | 1.24           |
 | 080  | 15" wide                                                             |        | 1350         | .006        |      | .60      |       |           | .93   | 1.16           |
@@ -885,11 +856,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 07 22 16.10 Roof Deck Insulation
 
-#### Daily Labor-2022 Bare Costs
 
 | ID    | Name                                                                 | Crew                | Daily Output | Labor-Hours | Unit | Material | Labor         | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------------------|--------------|-------------|------|----------|---------------|-----------|-------|----------------|
-| 1960  | 60 psi compressive strength, 1" thick, R5                            | G5555GGGG1GRofc     | 1885         | .004        | S.F. | 1.10     | 2.21222222222 |           | 1.31  | 1.55           |
+| 1960  | 60 psi compressive strength, 1" thick, R5                            | 1 Rofc     | 1885         | .004        | S.F. | 1.10     | 2.21 |           | 1.31  | 1.55           |
 | 1962  | 2" thick, R10                                                        |                     | 1560         | .005        |      | 2.09     | .25           |           | 2.34  | 2.71           |
 | 1964  | 3" thick, R15                                                        |                     | 1270         | .006        |      | 3.41     | .31           |           | 3.72  | 4.26           |
 | 1966  | 4" thick, R20                                                        |                     | 1235         | .006        |      | 4.24     | .32           |           | 4.56  | 5.20           |
@@ -903,14 +873,14 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 2140  | 6" thick, R23.26                                                     |                     | 1495         | .005        |      | 1.68     | .27           |           | 1.95  | 2.28           |
 | 2150  | Tapered for drainage                                                 |                     | 1950         | .004        | B.F. | .46      | .20           |           | .66   | .84            |
 | 2400  | Composites with 2" EPS                                               |                     |              |             |      |          |               |           |       |                |
-| 2410  | 1" fiberboard                                                        | GGGG 1 Rofc         | 1325         | .006        | S.F. | 1.59     | .30           |           | 1.89  | 2.24           |
+| 2410  | 1" fiberboard                                                        |  1 Rofc         | 1325         | .006        | S.F. | 1.59     | .30           |           | 1.89  | 2.24           |
 | 2420  | 7/16" oriented strand board                                          |                     | 1040         | .008        |      | 1.41     | .38           |           | 1.79  | 2.17           |
 | 2430  | 1/2" plywood                                                         |                     | 1040         | .008        |      | 3.28     | .38           |           | 3.66  | 4.23           |
-| 2440  | 1" perlite                                                           | +                   | 1040         | .008        |      | 1.07     | .38           |           | 1.45  | 1.80           |
+| 2440  | 1" perlite                                                           |                   | 1040         | .008        |      | 1.07     | .38           |           | 1.45  | 1.80           |
 | 2450  | Composites with 1-1/2" polyisocyanurate                              |                     |              |             |      |          |               |           |       |                |
-| 2460  | 1" fiberboard                                                        | 5G5 1 Rofc          | 1040         | .008        | S.F. | 1.23     | .38           |           | 1.61  | 1.97           |
-| 2470  | 1" perlite                                                           | G                   | 1105         | .007        |      | 1.02     | .36           |           | 1.38  | 1.70           |
-| 2480  | 7/16" oriented strand board                                          | G                   | 1040         | .008        |      | 2.75     | .38           |           | 3.13  | 3.65           |
+| 2460  | 1" fiberboard                                                        |  1 Rofc          | 1040         | .008        | S.F. | 1.23     | .38           |           | 1.61  | 1.97           |
+| 2470  | 1" perlite                                                           |                    | 1105         | .007        |      | 1.02     | .36           |           | 1.38  | 1.70           |
+| 2480  | 7/16" oriented strand board                                          |                    | 1040         | .008        |      | 2.75     | .38           |           | 3.13  | 3.65           |
 | 3000  | Fastening alternatives, coated screws, 2" long                       |                     | 3744         | .002        | Ea.  | བྷ.05   | 11            |           | .16   | .23            |
 | 3010  | 4" long                                                              |                     | 3120         | .003        |      | = .11    | .13           |           | .24   | .33            |
 | 3020  | 6" long                                                              |                     | 2675         | .003        |      | རྞ.24   | .15           |           | .39   | .50            |
@@ -950,7 +920,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 07 31 Shingles and Shakes
 
-## Shingles
+## 07 31 29.16 Wood Shakes
 
 | ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -973,7 +943,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 07 32 Roof Tiles
 
-## Clay Roof Tiles
+## 07 32 13.10 Clay Roof Tiles
 
 | ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -992,7 +962,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ---
 
-## Concrete Roof Tiles
+## 07 32 16.10 Concrete Roof Tiles
 
 | ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1015,11 +985,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # 07073 Elastomeric Membrane Roofing  
-## 07 53 29 - Polyisobutylene Roofing
+## 07 53 29.10 - Polyisobutylene Roofing
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 07   | 53 29.10 Polyisobutylene Roofing                                     |      |              |             |       |          |        |           |         |                |
 | 0010 | POLYISOBUTYLENE ROOFING                                              |      |              |             |       |          |        |           |         |                |
 | 7500 | Polyisobutylene (PIB), 100 mils, 0.57 psf                            |      |              |             |       |          |        |           |         |                |
 | 7600 | Loose-laid & ballasted with stone / gravel (10 psf)                  | G-5  | 51           | .784        | Sq.   | 219      | 35.50  | 3.26      | 257.76  | 330            |
@@ -1030,11 +999,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ## 07 54 Thermoplastic Membrane Roofing  
-### 07 54 16 Ketone Ethylene Ester Roofing
+### 07 54 16.10 Ketone Ethylene Ester Roofing
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 07   | 54 16.10 Ketone Ethylene Ester Roofing                               |      |              |             |       |          |        |           |         |                |
 | 0010 | KETONE ETHYLENE ESTER ROOFING                                        |      |              |             |       |          |        |           |         |                |
 | 0100 | Ketone ethylene ester roofing, 50 mil, fully adhered                 | G-5  | 26           | 1.538       | Sq.   | 215      | 69.50  | 6.40      | 290.90  | 355            |
 | 0120 | Mechanically attached                                                |      | 35           | 1.143       |       | 143      | 51.50  | 4.75      | 199.25  | 246            |
@@ -1052,7 +1020,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 07   | 54 19.10 Polyvinyl-Chloride Roofing (PVC)                            |      |              |             |       |          |        |           |         |                |
 | 0010 | POLYVINYL-CHLORIDE ROOFING (PVC)                                     |      |              |             |       |          |        |           |         |                |
 | 8200 | Heat welded seams                                                    |      |              |             |       |          |        |           |         |                |
 | 8700 | Reinforced, 48 mils, 0.33 psf                                        |      |              |             |       |          |        |           |         |                |
@@ -1070,7 +1037,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 07   | 54 23.10 Thermoplastic Polyolefin Roofing (T.P.O.)                   |      |              |             |       |          |        |           |         |                |
 | 0010 | THERMOPLASTIC POLYOLEFIN ROOFING (T.P.O.)                            |      |              |             |       |          |        |           |         |                |
 | 0100 | 45 mil, loose laid & ballasted with stone (1/2 ton/sq.)              | G-5  | 51           | .784        | Sq.   | 90.50    | 35.50  | 3.26      | 129.26  | 161            |
 | 0120 | Fully adhered                                                        |      | 25           | 1.600       |       | 79       | 72     | 6.65      | 157.65  | 211            |
@@ -1085,15 +1051,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 250 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 55 Protected Membrane Protected7 55 10
-
-Protected Membrane Roofing Components
 
 ## 07 55 10.10 Protected Membrane Roofing Components
-
-0010 PROTECTED MEMBRANE ROOFING COMPONENTS  
-0100 Choose roofing membrane from 07 50  
-0120 Then choose roof deck insulation fr
 
 | ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1108,8 +1067,6 @@ Protected Membrane Roofing Components
 ## 07 56 10 Fluid-Applied Roofing Elastomers
 
 ## 07 56 10.10 Elastomeric Roofing
-
-0010 ELASTOMERIC ROOFING
 
 | ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1142,8 +1099,6 @@ Protected Membrane Roofing Components
 
 ## 07 57 13.10 Sprayed Polyurethane Foam Roofing (S.P.F.)
 
-0010 SPRAYED POLYURETHANE FOAM ROOFING (S.P.F.)
-
 | ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0100 | Primer for metal substrate (when required) | G-2A   | 3000         | .008        | S.F. | .59      | .35   | .22       | 1.16  | 1.45           |
@@ -1154,17 +1109,7 @@ Protected Membrane Roofing Components
 | 0550 | 4", R24.8                                  |        | 10080        | .002        |      | 3.31     | .11   | .07       | 3.49  | 3.89           |
 | 0700 | Spray on silicone coating                  |        | 2500         | .010        |      | .02      | .42   | .26       | .70   | .98            |
 
-Building Construction Costs with RSMeans data, call 800.448.8182.
-
-For customer support on your
-
-# 00744 Faced Pa44ls
-
-## 07 44 33 Facedtal Faced Panels
-
-### 07Panels.10 Metal Faced Panels and Accessories
-
-#### Accessories, outside corner
+### 07 44 33.10 Metal Faced Panels and Accessories
 
 | ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1235,12 +1180,7 @@ For customer support on your
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 41 R41f Panels  
-## 07 Roof3 - Metal Roof Panels  
 ### 7 41 13.10 Aluminum Roof Panels
-
-#### 010 ALUMINUM ROOF PANELS  
-Corrugated or ribbed, .0155" thick, natural
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1306,12 +1246,16 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 07076 Siding
 
 ## 07 46 33 Plastic Siding
+## 07 46 33.10  Vinyl Siding                      
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 46 33.10 | Vinyl Siding                      |        |              |             |      |          |       |           |       |                |
 | 4225  | Colors for accessories and trim, odd    |        |              |             | LF   | 0.30     |       |           | 0.30  |                |
-| 07 46 33.20 | Polypropylene Siding              |        |              |             |      |          |       |           |       |                |
+
+## 07 46 33.20 Polypropylene Siding
+
+| ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | POLYPROPYLENE SIDING                   |        |              |             |      |          |       |           |       |                |
 | 4090  | Shingle profile, random grooves, double 7 | 2 Carp | 400          | 0.040       | S.F. | 3.70     | 2.25  |           | 5.95  | 7.4            |
 | 4092  | Cornerpost for above                   | 1 Carp | 365          | 0.022       | LF   | 16.40    | 1.23  |           | 17.63 | 19.9           |
@@ -1333,7 +1277,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 46 46.10 | Fiber Cement Siding               |        |              |             |      |          |       |           |       |                |
 | 0010  | FIBER CEMENT SIDING                    |        |              |             |      |          |       |           |       |                |
 | 0020  | Lap siding, 5/16" thick, 6" wide, 4-3/4" exposure, smooth texture | 2 Carp | 415 | 0.039 | S.F. | 1.94 | 2.17 | | 4.11 | 5.3 |
 | 0025  | Woodgrain texture                      |        | 415          | 0.039       |      | 1.94     | 2.17  |           | 4.11  | 5.3            |
@@ -1351,11 +1294,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0088  | Shingle siding, 48" x 15-1/4" panels, 7" exposure | | 700 | 0.023 |      | 2.50     | 1.29  |           | 3.79  | 4.6            |
 | 0090  | Wood starter strip                     |        | 400          | 0.040       | LF   | 0.43     | 2.25  |           | 2.68  | 3.8            |
 
-## 07 46 73 - Soffit
+## 07 46 73 - Soffit Options
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 46 73.10 | Soffit Options                    |        |              |             |      |          |       |           |       |                |
 | 0010  | SOFFIT OPTIONS                         |        |              |             |      |          |       |           |       |                |
 | 0012  | Aluminum, residential, .020" thick     | 1 Carp | 210          | 0.038       | S.F. | 1.69     | 2.14  |           | 3.83  | 5.0            |
 | 0100  | Baked enamel on steel, 16 or 18 ga.    |        | 105          | 0.076       |      | 4.94     | 4.29  |           | 9.23  | 11.8           |
@@ -1372,7 +1314,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 07 58 10 Rollphalt Roll Roofing  
 ### 07 58 10.10 Roll Roofing
 
-#### 0010 ROLL ROOFING
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1444,13 +1385,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07071 Built-Up Bituminous Roofing
 
-## 07 51 13 - Built-Up Asphalt Bituminous Roofing
-
-### Daily Labor - 2022 Bare Costs
-
-#### Total Roofing 13.20 Built-Up Roofing Systems
+#### 07 13.20 Built-Up Roofing Systems
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -1534,8 +1470,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 42 W42l Panels  
-## 07Wall13 - Metal WalPanelsls  
 ### 07 42 13.20 Aluminum Siding Panels
 
 | ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
@@ -1601,20 +1535,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 52 Modified Bituminous Modified Roofing
-
-07 52 13 - Atactic-Bituminousene-Modified Bituminous MembraneMembrane  
-07 52 13.10 APP Modified BituminRoofingbrane  
-Granule surface flashing, toLched, 180 mils  
-2350  
-2400  
-Fibrated aluminum coating  
-Seam heat weldi  
+## 07 52 13.10 Atactic-Polypropylene-Modified Bituminous Membrane Roofing
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 52 13 - Atactic -Polypropylene - Modified Bituminous Membrane Roofing     |        |              |             |      |          |       |           |       |                |
-| 07 52 13.10 APP Modified Bituminous Membrane                                 |        |              |             |      |          |       |           |       |                |
 | 2350  | Granule surface flashing, torched, 180 mils                          | G 5    | 1260         | .032        | S.F. | .87      | 1.43  | .13       | 2.43  | 3.43           |
 | 2400  | Fibrated aluminum coating                                             | 11 Rofc| 3800         | .002        |      | .10      | .10   |           | .20   | .28            |
 | 2450  | Seam heat welding                                                    |        | 205          | .039        | LF   | .10      | 1.94  |           | 2.04  | 3.25           |
@@ -1623,8 +1547,6 @@ Seam heat weldi
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 52 16 - Styrene - Butadiene -Styrene Modified Bituminous Membrane Roofing |        |              |             |      |          |       |           |       |                |
-| 07 52 16.10 SBS Modified Bituminous Membrane                                 |        |              |             |      |          |       |           |       |                |
 | 0010  | SBS MODIFIED BITUMINOUS MEMBRANE                                     |        |              |             |      |          |       |           |       |                |
 | 0080  | Mod. bit.rfng., SBS mod, gran surf. cap sheet, poly. reinf.          |        |              |             |      |          |       |           |       |                |
 | 0650  | 120 to 149 mils thick                                                | G-1    | 2000         | .028        | S.F. | 1.27     | 1.30  | 22222     | 2.85  | 3.80           |
@@ -1649,8 +1571,6 @@ Seam heat weldi
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 53 16 - Chlorosulfonate - Polyethylene Roofing                            |        |              |             |      |          |       |           |       |                |
-| 07 53 16.10 Chlorosulfonated Polyethylene Roofing                            |        |              |             |      |          |       |           |       |                |
 | 0010  | CHLOROSULFONATED POLYETHYLENE ROOFING                                |        |              |             |      |          |       |           |       |                |
 | 0800  | Chlorosulfonated polyethylene (CSPE)                                 |        |              |             |      |          |       |           |       |                |
 | 09004 | 45 mils, heat welded seams, plate attachment                         | G-5    | 35           | 1.143       | Sq.  | 266      | 51.50 | 4.75      | 322.25| 380            |
@@ -1662,8 +1582,6 @@ Seam heat weldi
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 53 23 - Ethylene - Propylene - Diene - Monomer Roofing                    |        |              |             |      |          |       |           |       |                |
-| 07 53 23.20 Ethylene-Propylene-Diene-Monomer Roofing                         |        |              |             |      |          |       |           |       |                |
 | 0010  | ETHYLENE - PROPYLENE - DIENE - MONOMER ROOFING (EPDM)                |        |              |             |      |          |       |           |       |                |
 | 3500  | Ethylene-propylene diene monomer (EPDM), 45 mils, 0.28 psf           |        |              |             |      |          |       |           |       |                |
 | 3600  | Loose laid & ballasted with stone (10 psf)                           | G-5    | 51           | .784        | Sq.  | 122      | 35.50 | 3.26      | 139.76| 172            |
@@ -1683,19 +1601,11 @@ Seam heat weldi
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00732 Roof Til32
 
-## 07 32 19 MRoof Roof Tiles
-
-### 07 Tiles.10 Metal Roof Tiles
-
-#### 0010 METAL ROOF TILES
-
-Accessories included, .032" thick aluminum, mission
+## 07 32 19.10 Metal Roof Tiles
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 07 32 19.10 | Metal Roof Tiles                                                |        |             |             |      |          |       |           |       |                |
 | 0010  | METAL ROOF TILES                                                     |        |             |             |      |          |       |           |       |                |
 | 0020  | Accessories included, .032" thick aluminum, mission tile              | 1 Carp | 2.50        | 3.200       | Sq . | 805      | 180   |           | 985   | 1,15           |
 | 0200  | Spanish tiles                                                        | "      | 3           | 2.667       | 03   | 570      | 150   |           | 720   | 85             |
@@ -1708,59 +1618,54 @@ Accessories included, .032" thick aluminum, mission
 
 #### 07 33 63.10 Green Roof Systems
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | GREEN ROOF SYSTEMS                                                   |        |             |             |      |          |       |           |       |                |
-| 0020  | Soil mixture for green roof 30 % sand, 55 % gravel, 15 % soil         |        |             |             |      |          |       |           |       |                |
-| 0100  | Hoist and spread soil mixture 4" depth up to 5 stories tall roof      | 555555GUGB-13BGGGGG4000 | .014 | S.F | .26 | .69 | ནཱ.57 | 1.52 | 1.9 |
-| 0150  | 6" depth                                                             |        | 2667        | 021         |      | .39      | 1.04  | ཡྻ.85     | 2.28  | 2.9            |
-| 0200  | 8" depth                                                             |        | 2000        | .028        |      | .52      | 1.39  | 1.13      | 3.04  | 3.8            |
-| 0250  | 10" depth                                                            |        | 1600        | .035        |      | .65      | 1.74  | 1.42      | 3.81  | 4.8            |
-| 0300  | 12" depth                                                            |        | 1335        | .042        |      | .78      | 2.08  | 1.70      | 4.56  | 5.8            |
-| 0310  | Alt. man-made soil mix, hoist & spread, 4" deep up to 5 stories tall roof |        | 4000        | .014        |      | 1.78     | .69   | ཞེ        | 3.04  | 3.6            |
-| 0350  | Mobilization 55 ton crane to site                                    | G 1 Eqhv | 3.60      | 2.222       | Ea . |          | 141   |           | 141   | 210            |
-| 0355  | Hoisting cost to 5 stories per day (Avg. 28 picks per day)           | G B-13B | 1          | 56          | Day  |          | 2,775 | 2,275     | 5,050 | 6,625          |
-| 0360  | Mobilization or demobilization, 100 ton crane to site driver & escort| A-3E    | 2.50       | 6.400       | Eo . |          | 375   | 72        | 447   | 635            |
-| 0365  | Hoisting cost 6-10 stories per day (Avg. 21 picks per day)           | B 13C   | 1          | 56          | Day  |          | 2,775 | 1,400     | 4,175 | 5,675          |
-| 0370  | Hoist and spread soil mixture 4" depth 6-10 stories tall roof        |        | 4000        | .014        | S.F. | .26      | .69   | .35       | 1.30  | 1.7            |
-| 0375  | 6" depth                                                             |        | 2667        | .021        |      | .39      | 1.04  | .53       | 1.96  | 2.5            |
-| 0380  | 8" depth                                                             |        | 2000        | .028        |      | .52      | 1.39  | .70       | 2.61  | 3.4            |
-| 0385  | 10" depth                                                            |        | 1600        | .035        |      | .65      | 1.74  | .88       | 3.27  | 4.2            |
-| 0390  | 12" depth                                                            |        | 1335        | .042        |      | .78      | 2.08  | 1.05      | 3.91  | 5.             |
-| 0400  | Green roof edging treated lumber 4" x 4", no hoisting included       | 2 Carp | 400         | .040        | LE   | 1.63     | 2.25  |           | 3.88  | 5.             |
-| 0410  | 4" x 6"                                                              |        | 400         | .040        |      | 2.83     | 2.25  |           | 5.08  | 6.4            |
-| 0420  | 4" x 8"                                                              |        | 360         | .044        |      | 6.75     | 2.50  |           | 9.25  | 11.1           |
-| 0430  | 4" x 6" double stacked                                               |        | 300         | .053        |      | 5.65     | 3     |           | 8.65  | 10.7           |
-| 0500  | Green roof edging redwood lumber 4" x 4", no hoisting included       |        | 400         | .040        |      | 12.35    | 2.25  |           | 14.60 | 16.9           |
-| 0510  | 4" x 6"                                                              |        | 400         | .040        |      | 19.65    | 2.25  |           | 21.90 | 25             |
-| 0520  | 4" x 8"                                                              |        | 360         | .044        |      | 37       | 2.50  |           | 39.50 | 44             |
-| 0530  | 4" x 6" double stacked                                               |        | 300         | .053        |      | 39.50    | 3     |           | 42.50 | 47.5           |
-| 0550  | Components, not including membrane or insulation:                    |        |             |             |      |          |       |           |       |                |
-| 0560  | Fluid applied rubber membrane, reinforced, 215 mil thick             | 555555G G 5 | 350   | .114        | S.F  | .27      | 5.15  | .48       | 5.90  | 9.             |
-| 0570  | Root barrier                                                         | G 2 Rofc | 775      | .021        |      | .99      | 1.02  |           | 2.01  | 2.7            |
-| 0580  | Moisture retention barrier and reservoir                             |        | 900         | .018        |      | 3.97     | .88   |           | 4.85  | 5.8            |
-| 0600  | Planting sedum, lightsoil, potted, 2-1/4" diameter, 2 per S.F.       | G 1 Clab | 420      | .019        |      | 15.95    | .87   |           | 16.82 | 18.8           |
-| 0610  | 1 per S.F                                                            | "      | 840         | .010        |      | 8        | .43   |           | 8.43  | 9.4            |
-| 0630  | Planting sedum mat per S.F. including shipping (4000 S.F. min)       | 4 Clab | 4000        | 008         |      | 19.15    | .36   |           | 19.51 | 21.5           |
-| 0640  | Installation sedum mat system (no soil required) per S.F. (4000 S.F. min) | " | 4000 | .008 | | 26.50 | .36 | | 26.86 | 30 |
-| 0645  | Note: pricing of sedum mats shipped in full truck loads (4000-5000 S.F.) | | | | | | | | | | |
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | GREEN ROOF SYSTEMS                                                   |              |             |             |      |          |       |           |        |                |
+| 0020  | Soil mixture for green roof 30% sand, 55% gravel, 15% soil           |              |             |             |      |          |       |           |        |                |
+| 0100  | Hoist and spread soil mixture 4" depth up to 5 stories tall roof     | G-13B        | 4000        | .014        | S.F. | .26      | .69   | .57       | 1.52   | 1.9            |
+| 0150  | 6" depth                                                             |              | 2667        | .021        | S.F. | .39      | 1.04  | .85       | 2.28   | 2.9            |
+| 0200  | 8" depth                                                             |              | 2000        | .028        | S.F. | .52      | 1.39  | 1.13      | 3.04   | 3.8            |
+| 0250  | 10" depth                                                            |              | 1600        | .035        | S.F. | .65      | 1.74  | 1.42      | 3.81   | 4.8            |
+| 0300  | 12" depth                                                            |              | 1335        | .042        | S.F. | .78      | 2.08  | 1.70      | 4.56   | 5.8            |
+| 0310  | Alt. man-made soil mix, hoist & spread, 4" deep up to 5 stories      |              | 4000        | .014        | S.F. | 1.78     | .69   | .70       | 3.04   | 3.6            |
+| 0350  | Mobilization 55 ton crane to site                                    | G 1 Eqhv     | 3.60        | 2.222       | Ea.  |          | 141   |           | 141    | 210            |
+| 0355  | Hoisting cost to 5 stories per day (Avg. 28 picks per day)           | G B-13B      | 1           | 56          | Day  |          | 2,775 | 2,275     | 5,050  | 6,625          |
+| 0360  | Mobilization/demobilization, 100 ton crane to site, driver & escort  | A-3E         | 2.50        | 6.400       | Ea.  |          | 375   | 72        | 447    | 635            |
+| 0365  | Hoisting cost 6-10 stories per day (Avg. 21 picks per day)           | B-13C        | 1           | 56          | Day  |          | 2,775 | 1,400     | 4,175  | 5,675          |
+| 0370  | Hoist and spread soil mixture 4" depth 6-10 stories tall roof        |              | 4000        | .014        | S.F. | .26      | .69   | .35       | 1.30   | 1.7            |
+| 0375  | 6" depth                                                             |              | 2667        | .021        | S.F. | .39      | 1.04  | .53       | 1.96   | 2.5            |
+| 0380  | 8" depth                                                             |              | 2000        | .028        | S.F. | .52      | 1.39  | .70       | 2.61   | 3.4            |
+| 0385  | 10" depth                                                            |              | 1600        | .035        | S.F. | .65      | 1.74  | .88       | 3.27   | 4.2            |
+| 0390  | 12" depth                                                            |              | 1335        | .042        | S.F. | .78      | 2.08  | 1.05      | 3.91   | 5.0            |
+| 0400  | Green roof edging, treated lumber 4" x 4", no hoisting included      | 2 Carp       | 400         | .040        | LF   | 1.63     | 2.25  |           | 3.88   | 5.0            |
+| 0410  | 4" x 6"                                                              |              | 400         | .040        | LF   | 2.83     | 2.25  |           | 5.08   | 6.4            |
+| 0420  | 4" x 8"                                                              |              | 360         | .044        | LF   | 6.75     | 2.50  |           | 9.25   | 11.1           |
+| 0430  | 4" x 6" double stacked                                               |              | 300         | .053        | LF   | 5.65     | 3.00  |           | 8.65   | 10.7           |
+| 0500  | Green roof edging, redwood lumber 4" x 4", no hoisting included      |              | 400         | .040        | LF   | 12.35    | 2.25  |           | 14.60  | 16.9           |
+| 0510  | 4" x 6"                                                              |              | 400         | .040        | LF   | 19.65    | 2.25  |           | 21.90  | 25.0           |
+| 0520  | 4" x 8"                                                              |              | 360         | .044        | LF   | 37.00    | 2.50  |           | 39.50  | 44.0           |
+| 0530  | 4" x 6" double stacked                                               |              | 300         | .053        | LF   | 39.50    | 3.00  |           | 42.50  | 47.5           |
+| 0550  | Components, not including membrane or insulation                     |              |             |             |      |          |       |           |        |                |
+| 0560  | Fluid applied rubber membrane, reinforced, 215 mil thick             | G-5         | 350         | .114        | S.F. | .27      | 5.15  | .48       | 5.90   | 9.0            |
+| 0570  | Root barrier                                                         | G-2 Rofc     | 775         | .021        | S.F. | .99      | 1.02  |           | 2.01   | 2.7            |
+| 0580  | Moisture retention barrier and reservoir                             |              | 900         | .018        | S.F. | 3.97     | .88   |           | 4.85   | 5.8            |
+| 0600  | Planting sedum, light soil, potted, 2-1/4" diameter, 2 per S.F.      | G-1 Clab     | 420         | .019        | S.F. | 15.95    | .87   |           | 16.82  | 18.8           |
+| 0610  | 1 per S.F.                                                           | G-1 Clab     | 840         | .010        | S.F. | 8.00     | .43   |           | 8.43   | 9.4            |
+| 0630  | Planting sedum mat per S.F., including shipping (4000 S.F. min)      | 4 Clab       | 4000        | .008        | S.F. | 19.15    | .36   |           | 19.51  | 21.5           |
+| 0640  | Installation sedum mat system (no soil required) per S.F. (4000 S.F. min) | 4 Clab  | 4000        | .008        | S.F. | 26.50    | .36   |           | 26.86  | 30.0           |
+| 0645  | Note: pricing of sedum mats shipped in full truck loads (4000-5000 S.F.) |          |             |             |      |          |       |           |        |                |
 
----
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00741 Roof Panels
-
 ## 07 41 13 Roof Panels
-
-### 2022 Bare Costs
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0925 | 22 ga.                                                               | 6-3    | 900          | .036        | S.F. | 5.35     | 2.01  |           | 7.36  | 8.8            |
 | 0930 | Zinc aluminum alloy finish, 24 ga.                                   |        | 950          | .034        |      | 4.14     | 1.91  |           | 6.05  | 1A             |
 | 0935 | 22 ga.                                                               |        | 900          | .036        |      | 4.72     | 2.01  |           | 6.73  | 8.2            |
-| 1200 | Ridge, galvanized, 10" wide                                          | 6G66   | 800          | .040        | LF   | 3.60     | 2.26  |           | 5.86  | 7.3            |
+| 1200 | Ridge, galvanized, 10" wide                                          |    | 800          | .040        | LF   | 3.60     | 2.26  |           | 5.86  | 7.3            |
 | 1203 | 14" wide                                                             | G 2    | Shee 316     | .051        |      | 4.32     | 3.42  |           | 7.74  | 9.9            |
 | 1205 | 18" wide                                                             | G      | " 308        | .052        |      | 5.05     | 3.51  |           | 8.56  | 10.8           |
 | 1210 | 20" wide                                                             | G G-3  | 750          | .043        |      | 4.35     | 2.41  |           | 6.76  | 8.4            |
@@ -1890,14 +1795,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # 07 72 Roof Accessories
-
-## 7 Roof 80-Vent Options Accessories Vent Options
-
-### 10 VENT OPTIONS
+## 07 72 80.30 Vent Options
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 772  | 80.30 Vent Options                                                   |        |              |             |      |          |       |           |       |                |
 | 10   | VENT OPTIONS                                                         |        |              |             |      |          |       |           |       |                |
 | 20   | Plastic, for insulated decks, 1 per M.S.F.                           | 1 Rofc | 40           | .200        | Eo.  | 23       | 9.90  |           | 32.90 | 41.50          |
 | 00   | Heavy duty                                                           |        | 20           | .400        |      | 59.50    | 19.85 |           | 79.35 | 97.50          |
@@ -1911,7 +1812,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 7 76 16.10 Roof Pavers and Supports
 
-#### 10 ROOF PAVERS AND SUPPORTS
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1931,7 +1831,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 7 81 16.10 Sprayed Cementitious Fireproofing
 
-#### 010 SPRAYED CEMENTITIOUS FIREPROOFING
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1954,7 +1853,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 00   | Not including canvas protection, retrofitting                        |        |              |             |      |          |       |           |       |                |
 | 10   | Per 1" thick, on flat plate steel                                    | G2     | 1500         | .016        | S.F  | .53      | .76   | .09       | 1.38  | 1.82           |
 | 20   | On flat decking                                                      |        | 1200         | .020        |      | .53      | .95   | .12       | 1.60  | 2.14           |
-| !30  | On beams                                                             |        | 1.750        | .0321       |      | .53      | 1.52  | .18  !    | 2.231 | 3.06           |
+| 30  | On beams                                                             |        | 1.750        | .0321       |      | .53      | 1.52  | .18  !    | 2.231 | 3.06           |
 | 40   | Corrugated or fluted decks                                           |        | 625          | .038        |      | .80      | 1.83  | .22       | 2.85  | 3.84           |
 | 50   | Columns, 1-1/8" thick                                                |        | 550          | .044        |      | .60      | 2.08  | .25       | 2.93  | 4.03           |
 | 160  | 2-3/16" thick                                                        |        | 500          | .048        |      | 1.20     | 2.29  | .28       | 3.77  | 5              |
@@ -1962,27 +1861,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 65 Flex65le Flashing
+## 17 65 26 - Self-Adhering Sheet Flashing               
+## 7  65 26.10 Self-Adhering Sheet or Roll Flashing 
 
-Flexible Self-Adhering Sheet FlFlashing  
-7 65 26.10 Self-Adhering Sheet or Roll Flashing
-
-Daily Labor-  
-Crew Output Hours Unit  
-Material  
-2022 Bare Costs  
-Labor Equipment  
-Total  
-Total Ind O&P
-
----
-
-## 010 SELF-ADHERING SHEET OR ROLL FLASHING
 
 | ID  | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-----|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 17  | 65 26 - Self-Adhering Sheet Flashing                                 |        |              |             |      |          |       |           |       |                |
-| 7   | 65 26.10 Self-Adhering Sheet or Roll Flashing                        |        |              |             |      |          |       |           |       |                |
 | 010 | SELF-ADHERING SHEET OR ROLL FLASHING                                 |        |              |             |      |          |       |           |       |                |
 | 020 | Self-adhered flashing, 25 mil cross laminated HDPE, 4" wide          | 1 Rofc | 960          | .008        | LF   | .27      | .41   |           | .68   | .97            |
 | 040 | 6" wide                                                             |        | 896          | .009        |      | .41      | .44   |           | .85   | 1.17           |
@@ -2003,37 +1887,38 @@ Total Ind O&P
 | 200 | Side extenders, 6"                               | "      | 240          | .033        |      | 3.59     | 1.65  |           | 5.24  | 6.65           |
 
 ---
-
 ## 17 71 19 - Manufactured Gravel Stops and Fasciae  
-### 7 71 19.10 Gravel Stop
+### 7 71 19.10 Gravel Stop and Fascia
 
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 010  | GRAVEL STOP                                                          |        |              |             |      |          |       |           |       |                |
-| 020  | Aluminum, .050" thick, 4" face height, mill finish                   | 1 Shee | 145          | .055        | LF   | 4.26     | 3.73  |           | 7.99  | 10.30          |
-| 080  | Duranodic finish                                                     |        | 145          | .055        |      | 4.26     | 3.73  |           | 7.99  | 10.30          |
-| 100  | Painted                                                              |        | 145          | .055        |      | 4.26     | 3.73  |           | 7.99  | 10.30          |
-| 300  | .6" face height                                                      | [ ]    | 135.059      |             |      | 9.30     | 4     |           | 13.30 | 16.30          |
-| 350  | Duranodic finish                                                     |        | 135.059      |             |      | 10.80    | 4     |           | 14.80 | 17.95          |
-| 400  | Painted                                                              |        | 135.059      |             |      | 9.50     | 4     |           | 13.50 | 16.50          |
-| 500  | 8" face height                                                       |        | 125          | .064        |      | 8.90     | 4.32  |           | 13.22 | 16.30          |
-| 550  | Duranodic finish                                                     |        | 125          | .064        |      | 10.80    | 4.32  |           | 15.12 | 18.35          |
-| 700  | Painted                                                              |        | 125          | .064        |      | 12       | 4.32  |           | 16.32 | 19.70          |
-| 900  | 12" face height, .080" thick, 2 piece                                | €      | 100          | .080        |      | 13.10    | 5.40  |           | 18.50 | 22.50          |
-| 750  | Duranodic finish                                                     |        | 100          | .080        |      | 12.70    | 5.40  |           | 18.10 | 22             |
-| 000  | Painted                                                              | | |    | 100.080      |             |      | 17.05    | 5.40  |           | 22.45 | 27             |
-| 200  | Copper, 16 oz., 3" face height                                       |        | 145          | .055        |      | 41.50    | 3.73  |           | 45.23 | 51             |
-| 300  | 6" face height                                                       |        | 135          | .059        |      | 50       | 4     |           | 54    | 61             |
-| 350  | Galv steel, 24 ga., 4" leg, plain, with continuous cleat, 4" face    |        | 145          | .055        |      | 8.55     | 3.73  |           | 12.28 | 15             |
-| 360  | 6" face height                                                       |        | 145          | .055        |      | 7.80     | 3.73  |           | 11.53 | 14.20          |
-| 500  | Polyvinyl chloride, 6" face height                                   |        | 135          | .059        |      | 6.90     | 4     |           | 10.90 | 13.65          |
-| 500  | 9" face height                                                       |        | 125          | .064        |      | 8.25     | 4.32  |           | 12.57 | 15.60          |
-| 300  | Stainless steel, 24 ga, 6" face height                               |        | 135          | .059        |      | 2022     | 4     |           | 24    | 28.50          |
-| 700  | 12" face height                                                      | |      | 100          | .080        |      | 26.50    | 5.40  |           | 31.90 | 37             |
-| 100  | 20 go., 6" face height                                               |        | 135          | .059        |      | 25       | 4     |           | 29    | 33.50          |
-| 200  | 12" face height                                                      | 1 Shee | 100          | .080        | LF   | 31.50    | 5.40  |           | 36.90 | 42.50          |
-
----
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 010  | GRAVEL STOP                                                          |         |              |             |      |          |       |           |        |                |
+| 020  | Aluminum, .050" thick, 4" face height, mill finish                   | 1 Shee  | 145          | .055        | LF   | 4.26     | 3.73  |           | 7.99   | 10.30          |
+| 080  | Duranodic finish                                                     |         | 145          | .055        |      | 4.26     | 3.73  |           | 7.99   | 10.30          |
+| 100  | Painted                                                              |         | 145          | .055        |      | 4.26     | 3.73  |           | 7.99   | 10.30          |
+| 300  | 6" face height                                                       |         | 135          | .059        |      | 9.30     | 4.00  |           | 13.30  | 16.30          |
+| 350  | Duranodic finish                                                     |         | 135          | .059        |      | 10.80    | 4.00  |           | 14.80  | 17.95          |
+| 400  | Painted                                                              |         | 135          | .059        |      | 9.50     | 4.00  |           | 13.50  | 16.50          |
+| 500  | 8" face height                                                       |         | 125          | .064        |      | 8.90     | 4.32  |           | 13.22  | 16.30          |
+| 550  | Duranodic finish                                                     |         | 125          | .064        |      | 10.80    | 4.32  |           | 15.12  | 18.35          |
+| 700  | Painted                                                              |         | 125          | .064        |      | 12.00    | 4.32  |           | 16.32  | 19.70          |
+| 900  | 12" face height, .080" thick, 2 piece                                |         | 100          | .080        |      | 13.10    | 5.40  |           | 18.50  | 22.50          |
+| 750  | Duranodic finish                                                     |         | 100          | .080        |      | 12.70    | 5.40  |           | 18.10  | 22.00          |
+| 000  | Painted                                                              |         | 100          | .080        |      | 17.05    | 5.40  |           | 22.45  | 27.00          |
+| 200  | Copper, 16 oz., 3" face height                                       |         | 145          | .055        |      | 41.50    | 3.73  |           | 45.23  | 51.00          |
+| 300  | 6" face height                                                       |         | 135          | .059        |      | 50.00    | 4.00  |           | 54.00  | 61.00          |
+| 350  | Galv. steel, 24 ga., 4" leg, plain, with continuous cleat, 4" face   |         | 145          | .055        |      | 8.55     | 3.73  |           | 12.28  | 15.00          |
+| 360  | 6" face height                                                       |         | 145          | .055        |      | 7.80     | 3.73  |           | 11.53  | 14.20          |
+| 500  | Polyvinyl chloride, 6" face height                                   |         | 135          | .059        |      | 6.90     | 4.00  |           | 10.90  | 13.65          |
+| 510  | Polyvinyl chloride, 9" face height                                   |         | 125          | .064        |      | 8.25     | 4.32  |           | 12.57  | 15.60          |
+| 600  | Stainless steel, 24 ga., 6" face height                              |         | 135          | .059        |      | 20.22    | 4.00  |           | 24.22  | 28.50          |
+| 700  | 12" face height                                                      |         | 100          | .080        |      | 26.50    | 5.40  |           | 31.90  | 37.00          |
+| 800  | 20 ga., 6" face height                                               |         | 135          | .059        |      | 25.00    | 4.00  |           | 29.00  | 33.50          |
+| 900  | 12" face height                                                      | 1 Shee  | 100          | .080        | LF   | 31.50    | 5.40  |           | 36.90  | 42.50          |
+| 010  | FASCIA                                                               |         |              |             |      |          |       |           |        |                |
+| 100  | Aluminum, reverse board and batten, .032" thick, colored, no furring incl. | 1 Shee  | 145          | .055        | S.F. | 8.85     | 3.73  |           | 12.58  | 15.35          |
+| 300  | Steel, galv. and enameled, stock, no furring, long panels            |         | 145          | .055        |      | 6.90     | 3.73  |           | 10.63  | 13.20          |
+| 500  | Short panels                                                         |         | 115          | .070        |      | 6.50     | 4.70  |           | 11.20  | 14.25          |
 
 ## 771 19.30 Fascia
 
@@ -2115,9 +2000,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 07 65 Flexible Flashing  
 ## 07 65 13 - Laminated Sheet Flashing  
 ### 07 65 13.10 Laminated Sheet Flashing  
-LAMINATED SHEET FLASHING, Including up to 4 bends  
-Aluminum, fabric-backed 2 sides, mill finish, .004" thick  
-.005" t  
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor           | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-----------------|-----------|-------|---------------|
@@ -2150,6 +2032,7 @@ Aluminum, fabric-backed 2 sides, mill finish, .004" thick
 
 ## 07 65 19 - Plastic Sheet Flashing  
 ### 07 65 19.10 Plastic Sheet Flashing and Counter Flashing  
+
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|---------------|
 | 0010 | PLASTIC SHEET FLASHING AND COUNTER FLASHING                          |        |             |             |      |          |       |           |       |               |
@@ -2165,6 +2048,7 @@ Aluminum, fabric-backed 2 sides, mill finish, .004" thick
 
 ## 07 65 23 - Rubber Sheet Flashing  
 ### 07 65 23.10 Rubber Sheet Flashing and Counter Flashing  
+
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|---------------|
 | 0010 | RUBBER SHEET FLASHING AND COUNTER FLASHING                           |        |             |             |      |          |       |           |       |               |
@@ -2254,10 +2138,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
-
-# 07072 Joint Sea92nts
-
-## 07 92 1 Jointcoustical Joint Sealants
 
 ### 07 92 19.10 Acoustical Sealant
 
@@ -2376,25 +2256,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07 65 Flexib65 Flashing
-
-0FlexibleSheet Metal Flashing  
-7 Flashing Sheet Metal Flashing and Counter Flashing  
-0010 SHEET METAL FLASHING AND COUNTER FLASHING  
-
-Daily Labor-  
-Crew Output Hours Unit  
-Material  
-2022 Bare Costs  
-Labor Equipment  
-Total  
-Total  
-Ind O&P  
+### 7 65 10.10 Sheet Metal Flashing and Counter Flashing
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 07    | 65 10 - Sheet Metal Flashing                                         |        |              |             |      |          |        |           |        |                |
-| 7     | 65 10.10 Sheet Metal Flashing and Counter Flashing                   |        |              |             |      |          |        |           |        |                |
 | 0010  | SHEET METAL FLASHING AND COUNTER FLASHING                            |        |              |             |      |          |        |           |        |                |
 | 0011  | Including up to 4 bends                                              |        |              |             |      |          |        |           |        |                |
 | 0020  | Aluminum, mill finish, .013" thick                                   | 1 Rofc | 145          | .055        | S.F. | 1.33     | 2.74   |           | 4.07   | 5.90           |
@@ -2450,7 +2315,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 7 92 13 - Elastomeric Joint Sealants  
 ## 7 92 13.20 Caulking and Sealant Options  
-### 010 CAULKING AND SEALANT OPTIONS
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
@@ -2497,7 +2361,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 # 7 92 16.10 Rigid Joint Sealants  
-### 010 RIGID JOINT SEALANTS
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
@@ -2509,7 +2372,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 # 7 92 19.10 Acoustical Sealant  
-### 010 ACOUSTICAL SEALANT
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
@@ -2522,22 +2384,17 @@ Building Construction Costs with RSMeans data, call 800.448.8182.
 
 For customer support on your
 
-# 7 47 Siding  
-46 46 29 PlywSidingding  
-7 46 29.10 Plywood Siding Options  
-Polyvinyl chloride coated, 3/8" thick  
-000  
-7 46 33 - Plastic Siding  
-7 46 33.10 Vinyl Siding  
-10 VINYL SIDING  
+## 7 46 29.10 Plywood Siding Options
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
-| 7 46 29 | Plywood Siding                                                     |        |              |             |       |          |       |           |       |                |
-| 7 46 29.10 | Plywood Siding Options                                          |        |              |             |       |          |       |           |       |                |
 | 000 | Polyvinyl chloride coated, 3/8" thick                                 | 2 Carp | 750          | .021        | S.F.  | 1.23     | 1.20  |           | 2.43  | 3.14           |
-| 7 46 33 | - Plastic Siding                                                   |        |              |             |       |          |       |           |       |                |
-| 7 46 33.10 | Vinyl Siding                                                    |        |              |             |       |          |       |           |       |                |
+
+## 7 46 33  Plastic Siding
+## 7 46 33.10 Vinyl Siding
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
 | 10 | VINYL SIDING                                                           |        |              |             |       |          |       |           |       |                |
 | 795 | Clapboard profile, woodgrain texture, .048 thick, double 4             | 2 Carp | 495          | .032        | S.F.  | 1.15     | 1.82  |           | 2.97  | 3.98           |
 | 300 | Double 5                                                              |        | 550          | .029        |       | 1.15     | 1.64  |           | 2.79  | 3.71           |
@@ -2729,14 +2586,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 07072 Roof Accessories
-
-## 07 72 Roof Relief Vents  
-07 Accessories of Vents
-
----
-
-### ROOF VENTS
+## 07 72 23.10 Roof Vents
 
 | ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -2746,26 +2596,25 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ---
 
-### 07 72 26 - Ridge Vents  
-07 72 26.10 Ridge Vents and Accessories
+## 07 72 26.10 Ridge Vents and Accessories
 
-| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
-|------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 0010 | RIDGE VENTS AND ACCESSORIES                       |        |              |             |      |          |        |           |         |                |
-| 0100 | Aluminum strips, mill finish                      | 1 Rofc | 160          | .050        | LF   | 2.53     | 2.48   |           | 5.01    | 6 .            |
-| 0150 | Painted finish                                    |        | 160          | .050        | "    | 3.75     | 2.48   |           | 6.23    | 8.             |
-| 0200 | Connectors                                        |        | 48           | .167        | Eg . | 4.44     | 8.25   |           | 12.69   | 18.3           |
-| 0300 | End caps                                          | |      | 48           | .167        | "    | 2.04     | 8.25   |           | 10.29   | 15 .           |
-| 0400 | Galvanized strips                                 |        | 160          | .050        | LF . | 5        | 2.48   |           | 7.48    | 9.             |
-| 0430 | Molded polyethylene, shingles not included        |        | 160          | .050        | "    | 2.62     | 2.48   |           | 5.10    | 6.5∞           |
-| 0440 | End plugs                                         |        | 48           | .167        | Ea . | 2.04     | 8.25   |           | 10.29   | 15 .           |
-| 0450 | Flexible roll, shingles not included              |        | 160          | .050        | L.F. | 2.55     | 2.48   |           | 5.03    | 6.             |
-| 2300 | Ridge vent stri, mill finish                      | 1 Shee | 155          | .052        | "    | 2.75     | 3.49   |           | 6.24    | 8 .            |
+| ID    | Name                                              | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|---------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010  | Ridge vents and accessories                       |         |              |             |       |          |       |           |        |                |
+| 0100  | Aluminum strips, mill finish                      | 1 Rofc  | 160          | .050        | LF    | 2.53     | 2.48  |           | 5.01   | 6              |
+| 0150  | Painted finish                                    |         | 160          | .050        | LF    | 3.75     | 2.48  |           | 6.23   | 8              |
+| 0200  | Connectors                                        |         | 48           | .167        | Ea    | 4.44     | 8.25  |           | 12.69  | 18.3           |
+| 0300  | End caps                                          |         | 48           | .167        | Ea    | 2.04     | 8.25  |           | 10.29  | 15             |
+| 0400  | Galvanized strips                                 |         | 160          | .050        | LF    | 5.00     | 2.48  |           | 7.48   | 9              |
+| 0430  | Molded polyethylene, shingles not included        |         | 160          | .050        | LF    | 2.62     | 2.48  |           | 5.10   | 6.5            |
+| 0440  | End plugs                                         |         | 48           | .167        | Ea    | 2.04     | 8.25  |           | 10.29  | 15             |
+| 0450  | Flexible roll, shingles not included              |         | 160          | .050        | LF    | 2.55     | 2.48  |           | 5.03   | 6              |
+| 2300  | Ridge vent strip, mill finish                     | 1 Shee  | 155          | .052        | LF    | 2.75     | 3.49  |           | 6.24   | 8              |
 
 ---
 
 ### 07 72 33 - Roof Hatches  
-07 72 33.10 Roof Hatch Options
+### 07 72 33.10 Roof Hatch Options
 
 | ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -2787,7 +2636,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ### 07 72 36 - Smoke Vents  
-07 72 36.10 Smoke Hatches
+## 07 72 36.10 Smoke Hatches
 
 | ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -2798,7 +2647,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ---
 
-07 72 36.20 Smoke Vent Options
+## 07 72 36.20 Smoke Vent Options
 
 | ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -2811,7 +2660,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ### 07 72 53 - Snow Guards  
-07 72 53.10 Snow Guard Options
+## 07 72 53.10 Snow Guard Options
 
 | ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
