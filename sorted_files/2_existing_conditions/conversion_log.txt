@@ -13166,3 +13166,1157 @@ GPT Markdown Output:
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 ============================================================
 
+Timestamp: 2025-05-30T22:01:57.871318
+OCR Text:
+    00311 Concrete11orming
+03 1Concretetructural Cast-In-Place ConcFormingrming
+Daily Labor-
+Crew Output Hours Unit
+C-2 405 119 SFCA
+03 11 13.20 Forms In Place, Beams and Girders
+4050
+2 use
+4100
+3 use
+4150
+4 use
+4500
+Sloped sides, 36" high, 1 use
+4550
+2 use
+4
+     03      11      13      -     Structural                Cast      - In   - Place         Concrete                Forming
+                                                                                                                                      Daily    Labor-                                      2022   Bare   Costs                                Total
+    03     11    13.20        Forms       In   Place     , Beams        and      Girders                                     Crew     Output    Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+     4050                       2  use                                                                                        C-2      405        119     SFCA              3.78              6.50                              10.28            13.85
+     4100                       3 use                                                                                                  430.112                              2.75              6.10                               8.85            12.15
+     4150                       4 use                                                                                                  445       .108                       2.24              5.90                               8.14            11.25
+     4500                 Sloped    sides, 36 " high  , 1 use                                                                          305      .157                        6.85              8.65                              15.50            20.50
+     4550                       2 use                                                                                                  370       .130                       3.83              7.10                              10.93            14.80
+     4600                       3 use                                                                                                  405      .119                        2.74              6.50                               9.24            12.70
+     4650                       4  use                                                                                                 425.113                              2.23   :          6.20                               8.43            11.65
+     5000                  Upstanding   beams   , 36 "  high, 1  use                                                                   225.213                              8               11.70                               19.70            26
+     5050                       2 use                                                                                                  255.188                              4.48            10.30                               14.78            20.50
+     5100                       3  use                                                                                              |  275    |  .175                       3.23              9.55                              12.78            17.80
+     5150                       4  use                                                                                                 280       .171                       2.62              9.40                              12.02            16.90
+     03    11    13.25        Forms       In  Place      , Columns
+     0010       FORMS       IN  PLACE    , COLUMNS                                                       R031113-40
+     0500            Round   fiberglass , 4  use  per mo . ,rent , 12 " diameter                                              (-1      160       .200       LF.           3223              10.75                               33.75            41.50
+     0550                       16 "  diameter                                                           R031113-60                    150       .213                      27               11.45                               38.45            46.50
+     0600                       18  " diameter                                                                                         140      .229                       29.50            12.25                              41.75             51
+     0650                       24 "  diameter                                                                            I            135.237               ]   [         37               12.70                               49.70            59.50
+     0700                       28  " diameter                                                                                         130      .246                       41.50            13.20                               54.70            65
+     0800                       30  " diameter                                                                                         125       .256                      43.50            13.75                               57.25            68.50
+     0850                       36 "  diameter                                                                                      1120        .267                       57.50            14.30                              71.80             84.50
+     1500            Round   fiber  tube ,recycled   paper , 1 use , 8"  diameter                                  555555GGGGGG        155       .206                       2.48            11.05                               13.53            19.25
+     1550                       10 "  diameter                                                                                         155       .206                       4.03            11.05                               15.08            21
+     1600                       12 "  diameter                                                                                         150       .213                                       11.45                               16.45            22.50
+      1650                      14  " diameter                                                                                         145       .221                       7.15            11.85                               19               25.50
+     1700                       16  " diameter                                                                                →        140      .229                        8.35            12.25                               20.60            27.50
+      1720                      18  " diameter                                                                                         140    | .229        L.F.            9.75            12.25                               22               29
+     1750                       20  " diameter                                                                                         135       .237                      11.65            12.70                               24.35            32
+     1800                       24  " diameter                                                                                          130      .246                      13.45            13.20                               26.65            34.50
+     1850                       30  " diameter                                                                                         125      .256                       19.60            13.75                               33.35            42
+     1900                       36  " diameter                                                                                         115      .278                       28.50            14.90                               43.40            53
+     1950                       42 "  diameter                                                                                         100      .320                       52.50            17.15                               69.65            83
+     2000                       48  " diameter                                                                                          85      .376                       55.50            20                                  75.50            91.50
+     2200                  For seamless    type , add                                                                                                                      15 %
+     3000            Round   ,steel ,4  use  per mo  ., rent, regular  duty , 14"  diameter                        G5555555   G-1      145       .221       L.F.           18.45            11.85                               30.30            38
+     3050                       16  " diameter                                                                                          125      .256                      18.80            13.75                               32.55            41
+     3100                  Heavy   duty ,20  " diameter                                                                                105       .305                     2218              16.35                               37.35            47.50
+     3150                       24  " diameter                                                                                          85       .376                      22.50            20                                  42.50            55
+     3200                       30  " diameter                                                                                          70       .457                      26               24.50                               50.50            65
+     3250                       36  " diameter                                                                                          60       .533                                       28.50                               56.50           73
+      3300                      48  " diameter                                                                                          50       .640                      41.50            34.50                              76               96.50
+     3350                       60  " diameter                                                                                          45       .711                      51               38                                 89              113
+     4500                  For  second  and   succeeding   months   ,deduct                                                                                                50 %
+     5000            Job -built plywood   , 8" x  8"  columns  , 1 use                                                        C-1      165      .194      SFCA              3.76            10.40                               14.16            19.65
+     5050                       2  use                                                                                                 195.164                              2.16              8.80                              10.96            15.45
+     5100                       3  use                                                                                                 210      .152                         1.50             8.15                               9.65            13.80
+      5150                      4  use                                                                                                 215      .149                        1.23              8                                  9.23            13.25
+     5500                  12 " x  12 " columns   , 1 use                                                                              180       .178                       3.76             9.55                               13.31            18.35
+     5550                       2  use                                                                                                 210      .152                        2.07              8.15                              10.22            14.40
+      5600                      3  use                                                                                                 220      .145                        1.50             7.80                                9.30            13.25
+      5650                      4  use                                                                                                 225.142                              1.22             7.65                                8.87            12.70
+      6000                 16 " x  16 " columns   , 1 use                                                                              185      .173                        3.83             9.30                               13.13            18
+      6050                      2  use                                                                                              |  215    |  .149                       2.03             8     1                            10.03            14.15
+                                                                 support             your     Building        Construction           Costs      with     RSMeans          data   , call   800.448.8182          .                                    55
+                                         For    customer                        on
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+    00311 Concrete11orming
+03 1Concretetructural Cast-In-Place ConcFormingrming
+Daily Labor-
+Crew Output Hours Unit
+C-2 405 119 SFCA
+03 11 13.20 Forms In Place, Beams and Girders
+4050
+2 use
+4100
+3 use
+4150
+4 use
+4500
+Sloped sides, 36" high, 1 use
+4550
+2 use
+4
+     03      11      13      -     Structural                Cast      - In   - Place         Concrete                Forming
+                                                                                                                                      Daily    Labor-                                      2022   Bare   Costs                                Total
+    03     11    13.20        Forms       In   Place     , Beams        and      Girders                                     Crew     Output    Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+     4050                       2  use                                                                                        C-2      405        119     SFCA              3.78              6.50                              10.28            13.85
+     4100                       3 use                                                                                                  430.112                              2.75              6.10                               8.85            12.15
+     4150                       4 use                                                                                                  445       .108                       2.24              5.90                               8.14            11.25
+     4500                 Sloped    sides, 36 " high  , 1 use                                                                          305      .157                        6.85              8.65                              15.50            20.50
+     4550                       2 use                                                                                                  370       .130                       3.83              7.10                              10.93            14.80
+     4600                       3 use                                                                                                  405      .119                        2.74              6.50                               9.24            12.70
+     4650                       4  use                                                                                                 425.113                              2.23   :          6.20                               8.43            11.65
+     5000                  Upstanding   beams   , 36 "  high, 1  use                                                                   225.213                              8               11.70                               19.70            26
+     5050                       2 use                                                                                                  255.188                              4.48            10.30                               14.78            20.50
+     5100                       3  use                                                                                              |  275    |  .175                       3.23              9.55                              12.78            17.80
+     5150                       4  use                                                                                                 280       .171                       2.62              9.40                              12.02            16.90
+     03    11    13.25        Forms       In  Place      , Columns
+     0010       FORMS       IN  PLACE    , COLUMNS                                                       R031113-40
+     0500            Round   fiberglass , 4  use  per mo . ,rent , 12 " diameter                                              (-1      160       .200       LF.           3223              10.75                               33.75            41.50
+     0550                       16 "  diameter                                                           R031113-60                    150       .213                      27               11.45                               38.45            46.50
+     0600                       18  " diameter                                                                                         140      .229                       29.50            12.25                              41.75             51
+     0650                       24 "  diameter                                                                            I            135.237               ]   [         37               12.70                               49.70            59.50
+     0700                       28  " diameter                                                                                         130      .246                       41.50            13.20                               54.70            65
+     0800                       30  " diameter                                                                                         125       .256                      43.50            13.75                               57.25            68.50
+     0850                       36 "  diameter                                                                                      1120        .267                       57.50            14.30                              71.80             84.50
+     1500            Round   fiber  tube ,recycled   paper , 1 use , 8"  diameter                                  555555GGGGGG        155       .206                       2.48            11.05                               13.53            19.25
+     1550                       10 "  diameter                                                                                         155       .206                       4.03            11.05                               15.08            21
+     1600                       12 "  diameter                                                                                         150       .213                                       11.45                               16.45            22.50
+      1650                      14  " diameter                                                                                         145       .221                       7.15            11.85                               19               25.50
+     1700                       16  " diameter                                                                                →        140      .229                        8.35            12.25                               20.60            27.50
+      1720                      18  " diameter                                                                                         140    | .229        L.F.            9.75            12.25                               22               29
+     1750                       20  " diameter                                                                                         135       .237                      11.65            12.70                               24.35            32
+     1800                       24  " diameter                                                                                          130      .246                      13.45            13.20                               26.65            34.50
+     1850                       30  " diameter                                                                                         125      .256                       19.60            13.75                               33.35            42
+     1900                       36  " diameter                                                                                         115      .278                       28.50            14.90                               43.40            53
+     1950                       42 "  diameter                                                                                         100      .320                       52.50            17.15                               69.65            83
+     2000                       48  " diameter                                                                                          85      .376                       55.50            20                                  75.50            91.50
+     2200                  For seamless    type , add                                                                                                                      15 %
+     3000            Round   ,steel ,4  use  per mo  ., rent, regular  duty , 14"  diameter                        G5555555   G-1      145       .221       L.F.           18.45            11.85                               30.30            38
+     3050                       16  " diameter                                                                                          125      .256                      18.80            13.75                               32.55            41
+     3100                  Heavy   duty ,20  " diameter                                                                                105       .305                     2218              16.35                               37.35            47.50
+     3150                       24  " diameter                                                                                          85       .376                      22.50            20                                  42.50            55
+     3200                       30  " diameter                                                                                          70       .457                      26               24.50                               50.50            65
+     3250                       36  " diameter                                                                                          60       .533                                       28.50                               56.50           73
+      3300                      48  " diameter                                                                                          50       .640                      41.50            34.50                              76               96.50
+     3350                       60  " diameter                                                                                          45       .711                      51               38                                 89              113
+     4500                  For  second  and   succeeding   months   ,deduct                                                                                                50 %
+     5000            Job -built plywood   , 8" x  8"  columns  , 1 use                                                        C-1      165      .194      SFCA              3.76            10.40                               14.16            19.65
+     5050                       2  use                                                                                                 195.164                              2.16              8.80                              10.96            15.45
+     5100                       3  use                                                                                                 210      .152                         1.50             8.15                               9.65            13.80
+      5150                      4  use                                                                                                 215      .149                        1.23              8                                  9.23            13.25
+     5500                  12 " x  12 " columns   , 1 use                                                                              180       .178                       3.76             9.55                               13.31            18.35
+     5550                       2  use                                                                                                 210      .152                        2.07              8.15                              10.22            14.40
+      5600                      3  use                                                                                                 220      .145                        1.50             7.80                                9.30            13.25
+      5650                      4  use                                                                                                 225.142                              1.22             7.65                                8.87            12.70
+      6000                 16 " x  16 " columns   , 1 use                                                                              185      .173                        3.83             9.30                               13.13            18
+      6050                      2  use                                                                                              |  215    |  .149                       2.03             8     1                            10.03            14.15
+                                                                 support             your     Building        Construction           Costs      with     RSMeans          data   , call   800.448.8182          .                                    55
+                                         For    customer                        on
+
+
+GPT Markdown Output:
+# 03 11 Concrete Forming
+
+## 03 11 Concrete Structural Cast-In-Place Concrete Forming
+
+### Daily Labor
+
+Crew | Output | Hours | Unit
+--- | --- | --- | ---
+C-2 | 405 | 119 | SFCA
+
+---
+
+## 03 11 13.20 Forms In Place, Beams and Girders
+
+| ID   | Name                                              | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 4050 | 2 use                                             | C-2  | 405          | 119         | SFCA  | 3.78     | 6.50  |           | 10.28 | 13.85          |
+| 4100 | 3 use                                             |      | 430.112      |             |       | 2.75     | 6.10  |           | 8.85  | 12.15          |
+| 4150 | 4 use                                             |      | 445 .108     |             |       | 2.24     | 5.90  |           | 8.14  | 11.25          |
+| 4500 | Sloped sides, 36" high, 1 use                     |      | 305 .157     |             |       | 6.85     | 8.65  |           | 15.50 | 20.50          |
+| 4550 | 2 use                                             |      | 370 .130     |             |       | 3.83     | 7.10  |           | 10.93 | 14.80          |
+| 4600 | 3 use                                             |      | 405 .119     |             |       | 2.74     | 6.50  |           | 9.24  | 12.70          |
+| 4650 | 4 use                                             |      | 425.113      |             |       | 2.23     | 6.20  |           | 8.43  | 11.65          |
+| 5000 | Upstanding beams, 36" high, 1 use                 |      | 225.213      |             |       | 8        | 11.70 |           | 19.70 | 26             |
+| 5050 | 2 use                                             |      | 255.188      |             |       | 4.48     | 10.30 |           | 14.78 | 20.50          |
+| 5100 | 3 use                                             |      | 275          | .175        |       | 3.23     | 9.55  |           | 12.78 | 17.80          |
+| 5150 | 4 use                                             |      | 280 .171     |             |       | 2.62     | 9.40  |           | 12.02 | 16.90          |
+
+---
+
+## 03 11 13.25 Forms In Place, Columns
+
+| ID    | Name                                                        | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, COLUMNS                                     |      |              |             |       |          |       |           |       |                |
+| 0500  | Round fiberglass, 4 use per mo., rent, 12" diameter         |      | 160          | .200        | LF    | 3223     | 10.75 |           | 33.75 | 41.50          |
+| 0550  | 16" diameter                                                |      | 150          | .213        |       | 27       | 11.45 |           | 38.45 | 46.50          |
+| 0600  | 18" diameter                                                |      | 140          | .229        |       | 29.50    | 12.25 |           | 41.75 | 51             |
+| 0650  | 24" diameter                                                |      | 135.237      |             |       | 37       | 12.70 |           | 49.70 | 59.50          |
+| 0700  | 28" diameter                                                |      | 130          | .246        |       | 41.50    | 13.20 |           | 54.70 | 65             |
+| 0800  | 30" diameter                                                |      | 125          | .256        |       | 43.50    | 13.75 |           | 57.25 | 68.50          |
+| 0850  | 36" diameter                                                |      | 1120         | .267        |       | 57.50    | 14.30 |           | 71.80 | 84.50          |
+| 1500  | Round fiber tube, recycled paper, 1 use, 8" diameter        |      | 155          | .206        |       | 2.48     | 11.05 |           | 13.53 | 19.25          |
+| 1550  | 10" diameter                                                |      | 155          | .206        |       | 4.03     | 11.05 |           | 15.08 | 21             |
+| 1600  | 12" diameter                                                |      | 150          | .213        |       |          | 11.45 |           | 16.45 | 22.50          |
+| 1650  | 14" diameter                                                |      | 145          | .221        |       | 7.15     | 11.85 |           | 19    | 25.50          |
+| 1700  | 16" diameter                                                |      | 140          | .229        |       | 8.35     | 12.25 |           | 20.60 | 27.50          |
+| 1720  | 18" diameter                                                |      | 140          | .229        | L.F.  | 9.75     | 12.25 |           | 22    | 29             |
+| 1750  | 20" diameter                                                |      | 135          | .237        |       | 11.65    | 12.70 |           | 24.35 | 32             |
+| 1800  | 24" diameter                                                |      | 130          | .246        |       | 13.45    | 13.20 |           | 26.65 | 34.50          |
+| 1850  | 30" diameter                                                |      | 125          | .256        |       | 19.60    | 13.75 |           | 33.35 | 42             |
+| 1900  | 36" diameter                                                |      | 115          | .278        |       | 28.50    | 14.90 |           | 43.40 | 53             |
+| 1950  | 42" diameter                                                |      | 100          | .320        |       | 52.50    | 17.15 |           | 69.65 | 83             |
+| 2000  | 48" diameter                                                |      | 85           | .376        |       | 55.50    | 20    |           | 75.50 | 91.50          |
+| 2200  | For seamless type, add                                      |      |              |             |       | 15 %     |       |           |       |                |
+| 3000  | Round, steel, 4 use per mo., rent, regular duty, 14" diam.  |      | 145          | .221        | L.F.  | 18.45    | 11.85 |           | 30.30 | 38             |
+| 3050  | 16" diameter                                                |      | 125          | .256        |       | 18.80    | 13.75 |           | 32.55 | 41             |
+| 3100  | Heavy duty, 20" diameter                                    |      | 105          | .305        |       | 2218     | 16.35 |           | 37.35 | 47.50          |
+| 3150  | 24" diameter                                                |      | 85           | .376        |       | 22.50    | 20    |           | 42.50 | 55             |
+| 3200  | 30" diameter                                                |      | 70           | .457        |       | 26       | 24.50 |           | 50.50 | 65             |
+| 3250  | 36" diameter                                                |      | 60           | .533        |       |          | 28.50 |           | 56.50 | 73             |
+| 3300  | 48" diameter                                                |      | 50           | .640        |       | 41.50    | 34.50 |           | 76    | 96.50          |
+| 3350  | 60" diameter                                                |      | 45           | .711        |       | 51       | 38    |           | 89    | 113            |
+| 4500  | For second and succeeding months, deduct                    |      |              |             |       | 50 %     |       |           |       |                |
+| 5000  | Job-built plywood, 8" x 8" columns, 1 use                   | C-1  | 165          | .194        | SFCA  | 3.76     | 10.40 |           | 14.16 | 19.65          |
+| 5050  | 2 use                                                       |      | 195.164      |             |       | 2.16     | 8.80  |           | 10.96 | 15.45          |
+| 5100  | 3 use                                                       |      | 210          | .152        |       | 1.50     | 8.15  |           | 9.65  | 13.80          |
+| 5150  | 4 use                                                       |      | 215          | .149        |       | 1.23     | 8     |           | 9.23  | 13.25          |
+| 5500  | 12" x 12" columns, 1 use                                    |      | 180          | .178        |       | 3.76     | 9.55  |           | 13.31 | 18.35          |
+| 5550  | 2 use                                                       |      | 210          | .152        |       | 2.07     | 8.15  |           | 10.22 | 14.40          |
+| 5600  | 3 use                                                       |      | 220          | .145        |       | 1.50     | 7.80  |           | 9.30  | 13.25          |
+| 5650  | 4 use                                                       |      | 225.142      |             |       | 1.22     | 7.65  |           | 8.87  | 12.70          |
+| 6000  | 16" x 16" columns, 1 use                                    |      | 185          | .173        |       | 3.83     | 9.30  |           | 13.13 | 18             |
+| 6050  | 2 use                                                       |      | 215          | .149        |       | 2.03     | 8     | 1         | 10.03 | 14.15          |
+
+---
+
+Support your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer on
+============================================================
+
+Timestamp: 2025-05-30T22:02:18.823054
+OCR Text:
+              03 03 Precast S41uctural ConcPrecast 41 23. Precast ConcreStructural03 41 23.50 Precast Stairs
+0ConcreteAST STAIRS
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment
+Total
+Incl O&P
+0020 :
+Precast concrete treads on steel st
+                 03      41     23.            Precast            Concrete                Stairs
+                                                                                                                                                  Daily   Labor-                                       2022   Bare  Costs                                 Total
+                03    41    23.50        Precast        Stairs                                                                          Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           Incl O & P
+                 0010      PRECAST        STAIRS
+                 0020     :      Precast  concrete  treads  on  steel stringers , 3 ' wide                                              - 12       75       .640      Riser          173               36                26.50            235.50           273
+                 0300     3      Front  entrance  , 5' wide   with 48 "  platform  ,2  risers                                                      16         3       Flight        675               168              124                967           1,125
+                 0350                       5 risers                                                                                                12        4                   1,250               224              165             1,639            1,900
+                 0500                 6 ' wide  , 2 risers                                                                                          15     3.200        |    I      720               179              132             1,031            1,200
+                 0550                       5 risers                                                                                                       4.364        |         1,375               244              180             1,799            2,100
+                 0700                 7 ' wide  ,2  risers                                                                                          14     3.429                  1,050               192              142             1,384            1,600
+                 0750                       5 risers                                                                                                10     4.800             1    1,650               269              198             2,117            2,450
+                 1200            Basement    entrance   stairwell , 6 steps , incl.steel bulkhead   door                                B 51       22      2.182      Flight      1,850               102                15.45         1,967.45         2,225
+                 1250                 14  steps                                                                                           "        11      4.364        "         3,350               204                31            3,585            4,025
+                 03      41     33       -     Precast            Structural               Pretensioned                       Concrete
+                 03   41     33.10       Precast        Beams
+                 0010       PRECAST       BEAMS                                                                     R034105-30
+                 0011            L-shaped  , 20 ' span  , 12 " x 20 "                                                                   C-11       32      2.250       Ea .       4,675               138                74.50         4,887.50         5,450
+                 0060                       18 " x  36 "                                                                                           24         3                   6,450               184                99.50         6,733.50         7,500
+                 0100                       24 " x  44 "                                                                                           22      3.273                  7,750               201              108             8,059            8,925
+                 0150     [           30  ' span , 12 " x  36 "                                                                                    24         3         |    |    9,125        ]      184                99.50         9,408.50        10,500
+                 0200                       18 " x  44 "                                                                                           20      3.600        ||      10,900                221              119            11,240        |  12,500
+                 0250                       24 " x  52 "                                                                                            16     4.500        ||      13,100                276              149            13,525        |  15,000
+                 0400                 40  ' span , 12 " x  52 "                                                                                    20      3.600                13,800                221              119            14,140        |  15,700
+                 0450                       18 " x  52 "                                                                                            16     4.500                15,400                276              149            15,825           17,600
+                 0500                       24 " x  52 "                                                                                            12        6                 17,500                370              199            18,069        € 20,000
+                 1200            Rectangular  , 20  ' span , 12 " x 20  "                                                                          32      2.250        [         4,050               138                74.50         4,262.50         4,775
+                 1250                       18 " x  36 "                                                                                           24         3                   5,900               184               99.50          6,183.50         6,900
+                 1300                       24 "  x44  "                                                                                  |     |  22      3.273         |    |   6,875       ]       201              108             7,184        |   8,000
+                 1400                 30  ' span , 12 " x  36 "                                                                      1    |    |   24    |    3     |   |    |    6,725               184                99.50         7,008.50         7,775
+                 1450                       18 " x  44 "                                                                                           20      3.600         |    |   9,350               221              119       |     9,690        |  10,800
+                 1500                       24 " x  52 "                                                                                            16     4.500                11,400                276              149            11,825        |  13,100
+                 1600                 40  ' span  ,12 " x  52 "                                                                                    20      3.600                 11,200               221              119            11,540           12,800
+                 1650                       18 " x  52 "                                                                                            16     4.500                13,200                276              149            13,625        115,100
+                 1700                       24 " x  52 "                                                                                           12         6                 15,200                370              199            15,769           17,500
+                 2000           " T"  shaped  , 20 ' span  ,12  " x 20 "                                                                           32      2.250                  5,650               138                74.50         5,862.50         6,525
+                 2050     |                 18 " x  36 "                                                                                           24         3              17,425                   184                99.50         7,708.50         8,575
+                 2100                       24 "  x 44 "                                                                                           22      3.273                  7,625               201              108             7,934            8,825
+                 2200                 30  ' span  ,12 " x  36 "                                                                                    24         3                 10,100                184                99.50        10,383.50     |  11,500
+                 2250                       18 " x  44 "                                                                                           20      3.600              | 12,800                221              119            13,140           14,600
+                 2300                       24 " x  52 "                                                                                            16     4.500                 12,500               276              149            12,925           14,300
+                 2500                 40  ' span  ,12 " x  52 "                                                                                    20      3.600                16,500                221              119           16,840            18,600
+                 2550                       18 " x  52 "                                                                                            16     4.500                15,500                276              149            15,925           17,700
+                 2600                       24 " x  52 "                                                                                           12         6                  16,600               370              199            17,169           19,100
+                03    41    33.15        Precast        Columns
+                 0010       PRECAST       COLUMNS                                                                   R034105-30
+                 0020            Rectangular   to  12 ' high , 16 " x  16 "                                                             C-11      120       .600       L.F.         266                 37               19.90            322.90           370
+                 0050                       24 " x  24 "                                                                                           96       .750                    365                46                25               436              500
+                 0300                 24  ' high , 28 " x 28  "                                                                                   192       .375                    410                 23               12.45            445.45           505
+                 0350                       36 "  x 36 "                                                                                           144      .500                    550                 30.50            16.60            597.10           670
+                 03   41    33.25        Precast        Joists
+                 0010       PRECAST       JOISTS                                                                    R034105-30
+                 0015            40  psf  L.L.,6"  deep   for 12 ' spans                                                                C -12     600       .080       L.F.           37.50              4.48             3.30             45.28             51.50
+                 0050                 8 " deep  for  16 ' spans                                                                                   575       .083                      62                 4.68             3.45             70.13            79
+                 0100                 10 "  deep  for 20  ' spans                                                                                 550       .087                    109                  4.89             3.61            117.50           131
+              88                                    For    customer          support       on   your      Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+              03 03 Precast S41uctural ConcPrecast 41 23. Precast ConcreStructural03 41 23.50 Precast Stairs
+0ConcreteAST STAIRS
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment
+Total
+Incl O&P
+0020 :
+Precast concrete treads on steel st
+                 03      41     23.            Precast            Concrete                Stairs
+                                                                                                                                                  Daily   Labor-                                       2022   Bare  Costs                                 Total
+                03    41    23.50        Precast        Stairs                                                                          Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           Incl O & P
+                 0010      PRECAST        STAIRS
+                 0020     :      Precast  concrete  treads  on  steel stringers , 3 ' wide                                              - 12       75       .640      Riser          173               36                26.50            235.50           273
+                 0300     3      Front  entrance  , 5' wide   with 48 "  platform  ,2  risers                                                      16         3       Flight        675               168              124                967           1,125
+                 0350                       5 risers                                                                                                12        4                   1,250               224              165             1,639            1,900
+                 0500                 6 ' wide  , 2 risers                                                                                          15     3.200        |    I      720               179              132             1,031            1,200
+                 0550                       5 risers                                                                                                       4.364        |         1,375               244              180             1,799            2,100
+                 0700                 7 ' wide  ,2  risers                                                                                          14     3.429                  1,050               192              142             1,384            1,600
+                 0750                       5 risers                                                                                                10     4.800             1    1,650               269              198             2,117            2,450
+                 1200            Basement    entrance   stairwell , 6 steps , incl.steel bulkhead   door                                B 51       22      2.182      Flight      1,850               102                15.45         1,967.45         2,225
+                 1250                 14  steps                                                                                           "        11      4.364        "         3,350               204                31            3,585            4,025
+                 03      41     33       -     Precast            Structural               Pretensioned                       Concrete
+                 03   41     33.10       Precast        Beams
+                 0010       PRECAST       BEAMS                                                                     R034105-30
+                 0011            L-shaped  , 20 ' span  , 12 " x 20 "                                                                   C-11       32      2.250       Ea .       4,675               138                74.50         4,887.50         5,450
+                 0060                       18 " x  36 "                                                                                           24         3                   6,450               184                99.50         6,733.50         7,500
+                 0100                       24 " x  44 "                                                                                           22      3.273                  7,750               201              108             8,059            8,925
+                 0150     [           30  ' span , 12 " x  36 "                                                                                    24         3         |    |    9,125        ]      184                99.50         9,408.50        10,500
+                 0200                       18 " x  44 "                                                                                           20      3.600        ||      10,900                221              119            11,240        |  12,500
+                 0250                       24 " x  52 "                                                                                            16     4.500        ||      13,100                276              149            13,525        |  15,000
+                 0400                 40  ' span , 12 " x  52 "                                                                                    20      3.600                13,800                221              119            14,140        |  15,700
+                 0450                       18 " x  52 "                                                                                            16     4.500                15,400                276              149            15,825           17,600
+                 0500                       24 " x  52 "                                                                                            12        6                 17,500                370              199            18,069        € 20,000
+                 1200            Rectangular  , 20  ' span , 12 " x 20  "                                                                          32      2.250        [         4,050               138                74.50         4,262.50         4,775
+                 1250                       18 " x  36 "                                                                                           24         3                   5,900               184               99.50          6,183.50         6,900
+                 1300                       24 "  x44  "                                                                                  |     |  22      3.273         |    |   6,875       ]       201              108             7,184        |   8,000
+                 1400                 30  ' span , 12 " x  36 "                                                                      1    |    |   24    |    3     |   |    |    6,725               184                99.50         7,008.50         7,775
+                 1450                       18 " x  44 "                                                                                           20      3.600         |    |   9,350               221              119       |     9,690        |  10,800
+                 1500                       24 " x  52 "                                                                                            16     4.500                11,400                276              149            11,825        |  13,100
+                 1600                 40  ' span  ,12 " x  52 "                                                                                    20      3.600                 11,200               221              119            11,540           12,800
+                 1650                       18 " x  52 "                                                                                            16     4.500                13,200                276              149            13,625        115,100
+                 1700                       24 " x  52 "                                                                                           12         6                 15,200                370              199            15,769           17,500
+                 2000           " T"  shaped  , 20 ' span  ,12  " x 20 "                                                                           32      2.250                  5,650               138                74.50         5,862.50         6,525
+                 2050     |                 18 " x  36 "                                                                                           24         3              17,425                   184                99.50         7,708.50         8,575
+                 2100                       24 "  x 44 "                                                                                           22      3.273                  7,625               201              108             7,934            8,825
+                 2200                 30  ' span  ,12 " x  36 "                                                                                    24         3                 10,100                184                99.50        10,383.50     |  11,500
+                 2250                       18 " x  44 "                                                                                           20      3.600              | 12,800                221              119            13,140           14,600
+                 2300                       24 " x  52 "                                                                                            16     4.500                 12,500               276              149            12,925           14,300
+                 2500                 40  ' span  ,12 " x  52 "                                                                                    20      3.600                16,500                221              119           16,840            18,600
+                 2550                       18 " x  52 "                                                                                            16     4.500                15,500                276              149            15,925           17,700
+                 2600                       24 " x  52 "                                                                                           12         6                  16,600               370              199            17,169           19,100
+                03    41    33.15        Precast        Columns
+                 0010       PRECAST       COLUMNS                                                                   R034105-30
+                 0020            Rectangular   to  12 ' high , 16 " x  16 "                                                             C-11      120       .600       L.F.         266                 37               19.90            322.90           370
+                 0050                       24 " x  24 "                                                                                           96       .750                    365                46                25               436              500
+                 0300                 24  ' high , 28 " x 28  "                                                                                   192       .375                    410                 23               12.45            445.45           505
+                 0350                       36 "  x 36 "                                                                                           144      .500                    550                 30.50            16.60            597.10           670
+                 03   41    33.25        Precast        Joists
+                 0010       PRECAST       JOISTS                                                                    R034105-30
+                 0015            40  psf  L.L.,6"  deep   for 12 ' spans                                                                C -12     600       .080       L.F.           37.50              4.48             3.30             45.28             51.50
+                 0050                 8 " deep  for  16 ' spans                                                                                   575       .083                      62                 4.68             3.45             70.13            79
+                 0100                 10 "  deep  for 20  ' spans                                                                                 550       .087                    109                  4.89             3.61            117.50           131
+              88                                    For    customer          support       on   your      Building       Construction            Costs      with    RSMeans          data    , call   800.448.8182          .
+
+
+GPT Markdown Output:
+# 03 03 Precast Structural Concrete
+
+## 03 41 23. Precast Concrete Structural  
+### 03 41 23.50 Precast Stairs
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | PRECAST STAIRS                                            |      |              |             |        |          |       |           |          |                |
+| 0020  | Precast concrete treads on steel stringers, 3' wide        | -12  | 75           | .640        | Riser  | 173      | 36    | 26.50     | 235.50   | 273            |
+| 0300  | 3 Front entrance, 5' wide with 48" platform, 2 risers      |      | 16           | 3           | Flight | 675      | 168   | 124       | 967      | 1,125          |
+| 0350  | 5 risers                                                  |      | 12           | 4           |        | 1,250    | 224   | 165       | 1,639    | 1,900          |
+| 0500  | 6' wide, 2 risers                                         |      | 15           | 3.200       |        | 720      | 179   | 132       | 1,031    | 1,200          |
+| 0550  | 5 risers                                                  |      |              | 4.364       |        | 1,375    | 244   | 180       | 1,799    | 2,100          |
+| 0700  | 7' wide, 2 risers                                         |      | 14           | 3.429       |        | 1,050    | 192   | 142       | 1,384    | 1,600          |
+| 0750  | 5 risers                                                  |      | 10           | 4.800       |        | 1,650    | 269   | 198       | 2,117    | 2,450          |
+| 1200  | Basement entrance stairwell, 6 steps, incl. steel bulkhead door | B 51 | 22      | 2.182       | Flight | 1,850    | 102   | 15.45     | 1,967.45 | 2,225          |
+| 1250  | 14 steps                                                  | "    | 11           | 4.364       | "      | 3,350    | 204   | 31        | 3,585    | 4,025          |
+
+---
+
+## 03 41 33 - Precast Structural Pretensioned Concrete  
+### 03 41 33.10 Precast Beams
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total     | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-----------|----------------|
+| 0010  | PRECAST BEAMS                                             | R034105-30 |            |             |      |          |       |           |           |                |
+| 0011  | L-shaped, 20' span, 12" x 20"                             | C-11   | 32           | 2.250       | Ea.  | 4,675    | 138   | 74.50     | 4,887.50  | 5,450          |
+| 0060  | 18" x 36"                                                 |        | 24           | 3           |      | 6,450    | 184   | 99.50     | 6,733.50  | 7,500          |
+| 0100  | 24" x 44"                                                 |        | 22           | 3.273       |      | 7,750    | 201   | 108       | 8,059     | 8,925          |
+| 0150  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 9,125    | 184   | 99.50     | 9,408.50  | 10,500         |
+| 0200  | 18" x 44"                                                 |        | 20           | 3.600       |      | 10,900   | 221   | 119       | 11,240    | 12,500         |
+| 0250  | 24" x 52"                                                 |        | 16           | 4.500       |      | 13,100   | 276   | 149       | 13,525    | 15,000         |
+| 0400  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 13,800   | 221   | 119       | 14,140    | 15,700         |
+| 0450  | 18" x 52"                                                 |        | 16           | 4.500       |      | 15,400   | 276   | 149       | 15,825    | 17,600         |
+| 0500  | 24" x 52"                                                 |        | 12           | 6           |      | 17,500   | 370   | 199       | 18,069    | 20,000         |
+| 1200  | Rectangular, 20' span, 12" x 20"                          |        | 32           | 2.250       |      | 4,050    | 138   | 74.50     | 4,262.50  | 4,775          |
+| 1250  | 18" x 36"                                                 |        | 24           | 3           |      | 5,900    | 184   | 99.50     | 6,183.50  | 6,900          |
+| 1300  | 24" x 44"                                                 |        | 22           | 3.273       |      | 6,875    | 201   | 108       | 7,184     | 8,000          |
+| 1400  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 6,725    | 184   | 99.50     | 7,008.50  | 7,775          |
+| 1450  | 18" x 44"                                                 |        | 20           | 3.600       |      | 9,350    | 221   | 119       | 9,690     | 10,800         |
+| 1500  | 24" x 52"                                                 |        | 16           | 4.500       |      | 11,400   | 276   | 149       | 11,825    | 13,100         |
+| 1600  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 11,200   | 221   | 119       | 11,540    | 12,800         |
+| 1650  | 18" x 52"                                                 |        | 16           | 4.500       |      | 13,200   | 276   | 149       | 13,625    | 115,100        |
+| 1700  | 24" x 52"                                                 |        | 12           | 6           |      | 15,200   | 370   | 199       | 15,769    | 17,500         |
+| 2000  | "T" shaped, 20' span, 12" x 20"                           |        | 32           | 2.250       |      | 5,650    | 138   | 74.50     | 5,862.50  | 6,525          |
+| 2050  | 18" x 36"                                                 |        | 24           | 3           |      | 17,425   | 184   | 99.50     | 7,708.50  | 8,575          |
+| 2100  | 24" x 44"                                                 |        | 22           | 3.273       |      | 7,625    | 201   | 108       | 7,934     | 8,825          |
+| 2200  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 10,100   | 184   | 99.50     | 10,383.50 | 11,500         |
+| 2250  | 18" x 44"                                                 |        | 20           | 3.600       |      | 12,800   | 221   | 119       | 13,140    | 14,600         |
+| 2300  | 24" x 52"                                                 |        | 16           | 4.500       |      | 12,500   | 276   | 149       | 12,925    | 14,300         |
+| 2500  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 16,500   | 221   | 119       | 16,840    | 18,600         |
+| 2550  | 18" x 52"                                                 |        | 16           | 4.500       |      | 15,500   | 276   | 149       | 15,925    | 17,700         |
+| 2600  | 24" x 52"                                                 |        | 12           | 6           |      | 16,600   | 370   | 199       | 17,169    | 19,100         |
+
+---
+
+### 03 41 33.15 Precast Columns
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 0010  | PRECAST COLUMNS                                           | R034105-30 |            |             |      |          |       |           |          |                |
+| 0020  | Rectangular to 12' high, 16" x 16"                        | C-11   | 120          | .600        | L.F. | 266      | 37    | 19.90     | 322.90   | 370            |
+| 0050  | 24" x 24"                                                 |        | 96           | .750        |      | 365      | 46    | 25        | 436      | 500            |
+| 0300  | 24' high, 28" x 28"                                       |        | 192          | .375        |      | 410      | 23    | 12.45     | 445.45   | 505            |
+| 0350  | 36" x 36"                                                 |        | 144          | .500        |      | 550      | 30.50 | 16.60     | 597.10   | 670            |
+
+---
+
+### 03 41 33.25 Precast Joists
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | PRECAST JOISTS                                            | R034105-30 |            |             |      |          |       |           |         |                |
+| 0015  | 40 psf L.L., 6" deep for 12' spans                        | C-12   | 600          | .080        | L.F. | 37.50    | 4.48  | 3.30      | 45.28   | 51.50           |
+| 0050  | 8" deep for 16' spans                                     |        | 575          | .083        |      | 62       | 4.68  | 3.45      | 70.13   | 79              |
+| 0100  | 10" deep for 20' spans                                    |        | 550          | .087        |      | 109      | 4.89  | 3.61      | 117.50  | 131             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-30T22:02:20.735904
+OCR Text:
+ 00330 Cast-In30lace ConcreCast3 30 53 - Mi-ceInaneou- PlaceIn-Place ConcreteConcrete3.40 Concrete In Place
+Daily Labor-
+2022 Bare Costs
+Total
+Crew Output Hours Unit
+Material
+Labor
+Equipment
+Total
+Ind O&P
+0840
+Up to 3% reinforcing by area
+C-14A 10.25 19.5
+  03     30      53       -     Miscellaneous                       Cast      - In  - Place          Concrete
+                                                                                                                                   Daily    Labor-                                      2022   Bare  Costs                                 Total
+ 03    30    53.40        Concrete          In   Place                                                                   Crew     Output     Hours      Unit      Material            Labor         Equipment            Total          Ind  O & P
+  0840                       Up to  3%  reinforcing  by  area                                                           C -14A    10.25    19.512      C.Y.        1,100            1,100                 76.50         2,276.50         2,900
+  0900                 24 "  x 24 " , up to 1 %  reinforcing  by  area                                                            23.66     8.453                    360              475                 33              868            1,150
+  0920                      Up   to 2%  reinforcing  by  area                                                                     17.71     11.293                    635              635                44            1,314       |    1,700
+  0940                       Up  to 3%  reinforcing  by  area                                                                     14.15     14.134  '              1,000              795                 55.50         1,850.50         2,325
+  1000                 36 " x  36 " , up to 1 %  reinforcing  by  area                                                            33.69     5.936                    320               335                23              678               870
+  10201                     Up   to 2%  reinforcing   by area                                                                     23.32     8.576                    560              485                 33.50         1,078.50         1,375
+  1040                      Up  to  3%  reinforcing  by  area                                                                     17.82    11.223                     940             630                 44            1,614            2,025
+  1100            Columns   ,round   (4000    psi), tied, 12 "  diameter  ,up  to 1 %  reinforcing  by area                       20.97     9.537                     505              535                37.50         1,077.50         1,400
+  1120                      Up   to 2%  reinforcing   by area                                                                     15.27    13.098                     805             735                51             1,591            2,050
+  1140                       Up  to 3%  reinforcing  by  area                                                                     12.11     16.515                 1,200              930                 64.50         2,194.50         2,775
+  1200                 16 "  diameter  , up to  1%  reinforcing  by  area                                                         31.49     6.351                    455              355                 25              835            1,050
+  1220                       Up  to 2%   reinforcing  by area                                                                     19.12     10.460                   760              590                41             1,391            1,750
+  1240                      Up   to 3%  reinforcing   by area                                                                     13.77     14.524                 1,125              815                 57            1,997            2,525
+  1300                 20 "  diameter  , up to  1%  reinforcing  by  area                                                         41.04     4.873                    440               274                19.05           733.05           915
+  1320                      Up   to 2%  reinforcing   by area                                                                     24.05     8.316                    715              470                 32.50         1,217.50         1,525
+  1340                       Up  to 3%   reinforcing  by area                                                                     17.01     11.758                 1,100               660               46             1,806            2,250
+  1400                 24 "  diameter  ,up  to  1%  reinforcing  by  area                                                         51.85     3.857                    400              217                 15.10           632.10           780
+  1420                       Up  to 2%   reinforcing  by area                                                           C -14A    27.06     7.391       C.Y.  |      700              415                29       |     1,144       |    1,425
+  1440                      Up   to 3%   reinforcing  by area                                                                     18.29     10.935                 1,075               615                43            1,733            2,125
+  1500                 36 "  diameter  , up to  1%  reinforcing  by  area                                                         75.04     2.665                    410               150                10.40           570.40            690
+  1520                       Up  to 2%   reinforcing  by area                                                                     37.49     5.335                     680             300                 21            1,001            1,225
+  1540                      Up   to 3%   reinforcing  by area                                                                     22.84     8.757                  1,050              495                 34            1,579            1,925
+  1900            Elevated  slab  (4000    psi) ,flat slab with  drops , 125   psf Sup  .Lood  ,20  ' span            : C -14B    38.45     5.410                     395              305                20.50           720.50           910
+  1950                      30  ' span                                                                                            50.99     4.079                    420              229                 15.35           664.35            815
+  2100                 Flat plate , 125   psf Sup  .Load  , 15 ' span                                                             30.24     6.878                    360              385                 26              771            1,000
+  2150                      25  ' span                                                                                            49.60     4.194                     375             235                 15.75           625.75           775
+  2300                 Waffle   const .,30  " domes   , 125  psf  Sup . Load , 20 ' span                                          37.07     5.611                    405              315                 21              741              940
+  2350                      30  ' span                                                                                            44.07   : 4.720                    375              265                 17.75           657.75            830
+  2500                 One   way  joists, 30 "  pans , 125   psf Sup  .Load  , 15 ' spon                                          27.38     7.597                    510              425                 28.50           963.50         1,225
+  2550                      25  ' span                                                                                            31.15     6.677                     470             375                 25              870       :    1,100
+  2700                 One   way  beam    &  slab , 125  psf Sup  . Load , 15 ' span                                              20.59    10.102                    390              565                 38              993            1,325
+  2750                       25 ' span                                                                                            28.36     7.334                    370               410                27.50           807.50         1,050
+  2900                 Two  way   beam    & slab , 125   psf Sup  .Load  , 15 ' span                                              24.04   : 8.652                    375              485                 32.50           892.50         1,175
+  2950                      25  ' span                                                                                            35.87     5.799                     325             325                22               672               870
+  3100            Elevated   slabs, flat plate, including  finish, not
+  3110                       including  forms  or reinforcing
+  3150                 Regular   concrete   (4000   psi) ,4 " slab                                                        C-8     2613       .021       S.F.             2.15             1.07               .29              3.51            4.28
+  3200                       6" slab                                                                                              2585       .022                        3.16             1.09               .29              4.54             5.40
+  3250                       2-1/ 2 " thick  floor fill                                                                            2685      .021                        1.40             1.05               .28              2.73             3.40
+  3300                 Lightweight   , 110  # / C.F., 2-1 /2 "  thick floor fill                                                  2585       .022                        1.34             1.09               .29             2.72              3.40
+  3400                 Cellular  concrete , 1-5 / 8 " fil,under   5000   S.F.                                                     2000       .028                         .92             1.40               .38             2.70              3.50
+  3450                       Over  10,000    S.F.                                                                                 2200       .025                         .88             1.28               .34              2.50             3.24
+  3500                 Add  per  floor for 3  to 6 stories  high                                                                  31800      .002                                           .09              .02               .11              .16
+  3520                       For 7  to 20  stories  high                                                                          21200      .003                                           .13              .04               .17              .24
+  3540            Equipment    pad  (3000    psi) ,3 ' x 3 ' x 6 " thick                                                C -14H      45      1.067       Ea .           66.50            58.50                .62          125.62           161
+  3550                  4' x 4  'x  6"  thick                                                                                       30      1.600                     101               88                   .93          189.93           243
+  3560                 5 ' x  5' x  8"  thick                                                                                        18     2.667                     180              147                 1.55           328.55           420
+  3570                  6' x  6 'x  8"  thick                                                                                        14     3.429                    245               189                 1.99           435.99           550
+  3580                  8' x  8 'x  10 " thick                                                                                       8         6                     510              330                  3.48           843.48         1,050
+  3590                  10 ' x  10 ' x 12 "  thick                                                                                   5      9.600                    895               530                 5.55         1,430.55         1,775
+  3800            Footings   (3000    psi), spread  under   1 C.Y.                                                      C -14C      28                  C.Y.         256              215                  1              472              600
+  3813            Install new   concrete  (3000    psi) light pole  base , 24 " diam  . x 8 '                             C -1     2.66     12.030                   405              645                               1,050            1,400
+  3825                  1 C.Y.  to 5 C.Y.                                                                                C-14C      43      2.605                     315              140                   .65          455.65           555
+                                                              support             your     Building       Construction            Costs     with     RSMeans          data    , call   800.448.8182          .                                   79
+                                      For   customer                        on
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+ 00330 Cast-In30lace ConcreCast3 30 53 - Mi-ceInaneou- PlaceIn-Place ConcreteConcrete3.40 Concrete In Place
+Daily Labor-
+2022 Bare Costs
+Total
+Crew Output Hours Unit
+Material
+Labor
+Equipment
+Total
+Ind O&P
+0840
+Up to 3% reinforcing by area
+C-14A 10.25 19.5
+  03     30      53       -     Miscellaneous                       Cast      - In  - Place          Concrete
+                                                                                                                                   Daily    Labor-                                      2022   Bare  Costs                                 Total
+ 03    30    53.40        Concrete          In   Place                                                                   Crew     Output     Hours      Unit      Material            Labor         Equipment            Total          Ind  O & P
+  0840                       Up to  3%  reinforcing  by  area                                                           C -14A    10.25    19.512      C.Y.        1,100            1,100                 76.50         2,276.50         2,900
+  0900                 24 "  x 24 " , up to 1 %  reinforcing  by  area                                                            23.66     8.453                    360              475                 33              868            1,150
+  0920                      Up   to 2%  reinforcing  by  area                                                                     17.71     11.293                    635              635                44            1,314       |    1,700
+  0940                       Up  to 3%  reinforcing  by  area                                                                     14.15     14.134  '              1,000              795                 55.50         1,850.50         2,325
+  1000                 36 " x  36 " , up to 1 %  reinforcing  by  area                                                            33.69     5.936                    320               335                23              678               870
+  10201                     Up   to 2%  reinforcing   by area                                                                     23.32     8.576                    560              485                 33.50         1,078.50         1,375
+  1040                      Up  to  3%  reinforcing  by  area                                                                     17.82    11.223                     940             630                 44            1,614            2,025
+  1100            Columns   ,round   (4000    psi), tied, 12 "  diameter  ,up  to 1 %  reinforcing  by area                       20.97     9.537                     505              535                37.50         1,077.50         1,400
+  1120                      Up   to 2%  reinforcing   by area                                                                     15.27    13.098                     805             735                51             1,591            2,050
+  1140                       Up  to 3%  reinforcing  by  area                                                                     12.11     16.515                 1,200              930                 64.50         2,194.50         2,775
+  1200                 16 "  diameter  , up to  1%  reinforcing  by  area                                                         31.49     6.351                    455              355                 25              835            1,050
+  1220                       Up  to 2%   reinforcing  by area                                                                     19.12     10.460                   760              590                41             1,391            1,750
+  1240                      Up   to 3%  reinforcing   by area                                                                     13.77     14.524                 1,125              815                 57            1,997            2,525
+  1300                 20 "  diameter  , up to  1%  reinforcing  by  area                                                         41.04     4.873                    440               274                19.05           733.05           915
+  1320                      Up   to 2%  reinforcing   by area                                                                     24.05     8.316                    715              470                 32.50         1,217.50         1,525
+  1340                       Up  to 3%   reinforcing  by area                                                                     17.01     11.758                 1,100               660               46             1,806            2,250
+  1400                 24 "  diameter  ,up  to  1%  reinforcing  by  area                                                         51.85     3.857                    400              217                 15.10           632.10           780
+  1420                       Up  to 2%   reinforcing  by area                                                           C -14A    27.06     7.391       C.Y.  |      700              415                29       |     1,144       |    1,425
+  1440                      Up   to 3%   reinforcing  by area                                                                     18.29     10.935                 1,075               615                43            1,733            2,125
+  1500                 36 "  diameter  , up to  1%  reinforcing  by  area                                                         75.04     2.665                    410               150                10.40           570.40            690
+  1520                       Up  to 2%   reinforcing  by area                                                                     37.49     5.335                     680             300                 21            1,001            1,225
+  1540                      Up   to 3%   reinforcing  by area                                                                     22.84     8.757                  1,050              495                 34            1,579            1,925
+  1900            Elevated  slab  (4000    psi) ,flat slab with  drops , 125   psf Sup  .Lood  ,20  ' span            : C -14B    38.45     5.410                     395              305                20.50           720.50           910
+  1950                      30  ' span                                                                                            50.99     4.079                    420              229                 15.35           664.35            815
+  2100                 Flat plate , 125   psf Sup  .Load  , 15 ' span                                                             30.24     6.878                    360              385                 26              771            1,000
+  2150                      25  ' span                                                                                            49.60     4.194                     375             235                 15.75           625.75           775
+  2300                 Waffle   const .,30  " domes   , 125  psf  Sup . Load , 20 ' span                                          37.07     5.611                    405              315                 21              741              940
+  2350                      30  ' span                                                                                            44.07   : 4.720                    375              265                 17.75           657.75            830
+  2500                 One   way  joists, 30 "  pans , 125   psf Sup  .Load  , 15 ' spon                                          27.38     7.597                    510              425                 28.50           963.50         1,225
+  2550                      25  ' span                                                                                            31.15     6.677                     470             375                 25              870       :    1,100
+  2700                 One   way  beam    &  slab , 125  psf Sup  . Load , 15 ' span                                              20.59    10.102                    390              565                 38              993            1,325
+  2750                       25 ' span                                                                                            28.36     7.334                    370               410                27.50           807.50         1,050
+  2900                 Two  way   beam    & slab , 125   psf Sup  .Load  , 15 ' span                                              24.04   : 8.652                    375              485                 32.50           892.50         1,175
+  2950                      25  ' span                                                                                            35.87     5.799                     325             325                22               672               870
+  3100            Elevated   slabs, flat plate, including  finish, not
+  3110                       including  forms  or reinforcing
+  3150                 Regular   concrete   (4000   psi) ,4 " slab                                                        C-8     2613       .021       S.F.             2.15             1.07               .29              3.51            4.28
+  3200                       6" slab                                                                                              2585       .022                        3.16             1.09               .29              4.54             5.40
+  3250                       2-1/ 2 " thick  floor fill                                                                            2685      .021                        1.40             1.05               .28              2.73             3.40
+  3300                 Lightweight   , 110  # / C.F., 2-1 /2 "  thick floor fill                                                  2585       .022                        1.34             1.09               .29             2.72              3.40
+  3400                 Cellular  concrete , 1-5 / 8 " fil,under   5000   S.F.                                                     2000       .028                         .92             1.40               .38             2.70              3.50
+  3450                       Over  10,000    S.F.                                                                                 2200       .025                         .88             1.28               .34              2.50             3.24
+  3500                 Add  per  floor for 3  to 6 stories  high                                                                  31800      .002                                           .09              .02               .11              .16
+  3520                       For 7  to 20  stories  high                                                                          21200      .003                                           .13              .04               .17              .24
+  3540            Equipment    pad  (3000    psi) ,3 ' x 3 ' x 6 " thick                                                C -14H      45      1.067       Ea .           66.50            58.50                .62          125.62           161
+  3550                  4' x 4  'x  6"  thick                                                                                       30      1.600                     101               88                   .93          189.93           243
+  3560                 5 ' x  5' x  8"  thick                                                                                        18     2.667                     180              147                 1.55           328.55           420
+  3570                  6' x  6 'x  8"  thick                                                                                        14     3.429                    245               189                 1.99           435.99           550
+  3580                  8' x  8 'x  10 " thick                                                                                       8         6                     510              330                  3.48           843.48         1,050
+  3590                  10 ' x  10 ' x 12 "  thick                                                                                   5      9.600                    895               530                 5.55         1,430.55         1,775
+  3800            Footings   (3000    psi), spread  under   1 C.Y.                                                      C -14C      28                  C.Y.         256              215                  1              472              600
+  3813            Install new   concrete  (3000    psi) light pole  base , 24 " diam  . x 8 '                             C -1     2.66     12.030                   405              645                               1,050            1,400
+  3825                  1 C.Y.  to 5 C.Y.                                                                                C-14C      43      2.605                     315              140                   .65          455.65           555
+                                                              support             your     Building       Construction            Costs     with     RSMeans          data    , call   800.448.8182          .                                   79
+                                      For   customer                        on
+
+
+GPT Markdown Output:
+# Cast-In-Place Concrete
+
+## Daily Labor - 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|-----------|----------------|
+| 0840  | Up to 3% reinforcing by area                                         | C-14A  | 10.25        | 19.5        |       |          |        |           |           |                |
+| 0840  | Up to 3% reinforcing by area                                         | C-14A  | 10.25        | 19.512      | C.Y.  | 1,100    | 1,100  | 76.50     | 2,276.50  | 2,900          |
+| 0900  | 24" x 24", up to 1% reinforcing by area                              |        | 23.66        | 8.453       |       | 360      | 475    | 33        | 868       | 1,150          |
+| 0920  | Up to 2% reinforcing by area                                         |        | 17.71        | 11.293      |       | 635      | 635    | 44        | 1,314     | 1,700          |
+| 0940  | Up to 3% reinforcing by area                                         |        | 14.15        | 14.134      |       | 1,000    | 795    | 55.50     | 1,850.50  | 2,325          |
+| 1000  | 36" x 36", up to 1% reinforcing by area                              |        | 33.69        | 5.936       |       | 320      | 335    | 23        | 678       | 870            |
+| 10201 | Up to 2% reinforcing by area                                         |        | 23.32        | 8.576       |       | 560      | 485    | 33.50     | 1,078.50  | 1,375          |
+| 1040  | Up to 3% reinforcing by area                                         |        | 17.82        | 11.223      |       | 940      | 630    | 44        | 1,614     | 2,025          |
+| 1100  | Columns, round (4000 psi), tied, 12" diameter, up to 1% reinforcing  |        | 20.97        | 9.537       |       | 505      | 535    | 37.50     | 1,077.50  | 1,400          |
+| 1120  | Up to 2% reinforcing by area                                         |        | 15.27        | 13.098      |       | 805      | 735    | 51        | 1,591     | 2,050          |
+| 1140  | Up to 3% reinforcing by area                                         |        | 12.11        | 16.515      |       | 1,200    | 930    | 64.50     | 2,194.50  | 2,775          |
+| 1200  | 16" diameter, up to 1% reinforcing by area                           |        | 31.49        | 6.351       |       | 455      | 355    | 25        | 835       | 1,050          |
+| 1220  | Up to 2% reinforcing by area                                         |        | 19.12        | 10.460      |       | 760      | 590    | 41        | 1,391     | 1,750          |
+| 1240  | Up to 3% reinforcing by area                                         |        | 13.77        | 14.524      |       | 1,125    | 815    | 57        | 1,997     | 2,525          |
+| 1300  | 20" diameter, up to 1% reinforcing by area                           |        | 41.04        | 4.873       |       | 440      | 274    | 19.05     | 733.05    | 915            |
+| 1320  | Up to 2% reinforcing by area                                         |        | 24.05        | 8.316       |       | 715      | 470    | 32.50     | 1,217.50  | 1,525          |
+| 1340  | Up to 3% reinforcing by area                                         |        | 17.01        | 11.758      |       | 1,100    | 660    | 46        | 1,806     | 2,250          |
+| 1400  | 24" diameter, up to 1% reinforcing by area                           |        | 51.85        | 3.857       |       | 400      | 217    | 15.10     | 632.10    | 780            |
+| 1420  | Up to 2% reinforcing by area                                         | C-14A  | 27.06        | 7.391       | C.Y.  | 700      | 415    | 29        | 1,144     | 1,425          |
+| 1440  | Up to 3% reinforcing by area                                         |        | 18.29        | 10.935      |       | 1,075    | 615    | 43        | 1,733     | 2,125          |
+| 1500  | 36" diameter, up to 1% reinforcing by area                           |        | 75.04        | 2.665       |       | 410      | 150    | 10.40     | 570.40    | 690            |
+| 1520  | Up to 2% reinforcing by area                                         |        | 37.49        | 5.335       |       | 680      | 300    | 21        | 1,001     | 1,225          |
+| 1540  | Up to 3% reinforcing by area                                         |        | 22.84        | 8.757       |       | 1,050    | 495    | 34        | 1,579     | 1,925          |
+| 1900  | Elevated slab (4000 psi), flat slab with drops, 125 psf Sup. Load, 20' span | C-14B  | 38.45        | 5.410       |       | 395      | 305    | 20.50     | 720.50    | 910            |
+| 1950  | 30' span                                                             |        | 50.99        | 4.079       |       | 420      | 229    | 15.35     | 664.35    | 815            |
+| 2100  | Flat plate, 125 psf Sup. Load, 15' span                              |        | 30.24        | 6.878       |       | 360      | 385    | 26        | 771       | 1,000          |
+| 2150  | 25' span                                                             |        | 49.60        | 4.194       |       | 375      | 235    | 15.75     | 625.75    | 775            |
+| 2300  | Waffle const., 30" domes, 125 psf Sup. Load, 20' span                |        | 37.07        | 5.611       |       | 405      | 315    | 21        | 741       | 940            |
+| 2350  | 30' span                                                             |        | 44.07        | 4.720       |       | 375      | 265    | 17.75     | 657.75    | 830            |
+| 2500  | One way joists, 30" pans, 125 psf Sup. Load, 15' span                |        | 27.38        | 7.597       |       | 510      | 425    | 28.50     | 963.50    | 1,225          |
+| 2550  | 25' span                                                             |        | 31.15        | 6.677       |       | 470      | 375    | 25        | 870       | 1,100          |
+| 2700  | One way beam & slab, 125 psf Sup. Load, 15' span                     |        | 20.59        | 10.102      |       | 390      | 565    | 38        | 993       | 1,325          |
+| 2750  | 25' span                                                             |        | 28.36        | 7.334       |       | 370      | 410    | 27.50     | 807.50    | 1,050          |
+| 2900  | Two way beam & slab, 125 psf Sup. Load, 15' span                     |        | 24.04        | 8.652       |       | 375      | 485    | 32.50     | 892.50    | 1,175          |
+| 2950  | 25' span                                                             |        | 35.87        | 5.799       |       | 325      | 325    | 22        | 672       | 870            |
+| 3100  | Elevated slabs, flat plate, including finish, not                    |        |              |             |       |          |        |           |           |                |
+| 3110  | including forms or reinforcing                                       |        |              |             |       |          |        |           |           |                |
+| 3150  | Regular concrete (4000 psi), 4" slab                                 | C-8    | 2613         | .021        | S.F.  | 2.15     | 1.07   | .29       | 3.51      | 4.28           |
+| 3200  | 6" slab                                                              |        | 2585         | .022        |       | 3.16     | 1.09   | .29       | 4.54      | 5.40           |
+| 3250  | 2-1/2" thick floor fill                                              |        | 2685         | .021        |       | 1.40     | 1.05   | .28       | 2.73      | 3.40           |
+| 3300  | Lightweight, 110 #/C.F., 2-1/2" thick floor fill                     |        | 2585         | .022        |       | 1.34     | 1.09   | .29       | 2.72      | 3.40           |
+| 3400  | Cellular concrete, 1-5/8" fil, under 5000 S.F.                       |        | 2000         | .028        |       | .92      | 1.40   | .38       | 2.70      | 3.50           |
+| 3450  | Over 10,000 S.F.                                                     |        | 2200         | .025        |       | .88      | 1.28   | .34       | 2.50      | 3.24           |
+| 3500  | Add per floor for 3 to 6 stories high                                |        | 31800        | .002        |       |          | .09    | .02       | .11       | .16            |
+| 3520  | For 7 to 20 stories high                                             |        | 21200        | .003        |       |          | .13    | .04       | .17       | .24            |
+| 3540  | Equipment pad (3000 psi), 3' x 3' x 6" thick                         | C-14H  | 45           | 1.067       | Ea.   | 66.50    | 58.50  | .62       | 125.62    | 161            |
+| 3550  | 4' x 4' x 6" thick                                                   |        | 30           | 1.600       |       | 101      | 88     | .93       | 189.93    | 243            |
+| 3560  | 5' x 5' x 8" thick                                                   |        | 18           | 2.667       |       | 180      | 147    | 1.55      | 328.55    | 420            |
+| 3570  | 6' x 6' x 8" thick                                                   |        | 14           | 3.429       |       | 245      | 189    | 1.99      | 435.99    | 550            |
+| 3580  | 8' x 8' x 10" thick                                                  |        | 8            | 6           |       | 510      | 330    | 3.48      | 843.48    | 1,050          |
+| 3590  | 10' x 10' x 12" thick                                                |        | 5            | 9.600       |       | 895      | 530    | 5.55      | 1,430.55  | 1,775          |
+| 3800  | Footings (3000 psi), spread under 1 C.Y.                             | C-14C  | 28           |             | C.Y.  | 256      | 215    | 1         | 472       | 600            |
+| 3813  | Install new concrete (3000 psi) light pole base, 24" diam. x 8'      | C-1    | 2.66         | 12.030      |       | 405      | 645    |           | 1,050     | 1,400          |
+| 3825  | 1 C.Y. to 5 C.Y.                                                     | C-14C  | 43           | 2.605       |       | 315      | 140    | .65       | 455.65    | 555            |
+============================================================
+
+Timestamp: 2025-05-30T22:02:21.745425
+OCR Text:
+00381 Concrete81utting
+03 8Concretelat Concrete Sawing
+03 81 1Cuttingncrete Floor/Slab Cutting
+0010 CONCRETE FLOOR/SLAB CUTTING
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment Total
+Ind O&P
+0050
+0300
+Includes blade cost
+ 03     81      13       -     Flat       Concrete               Sawing
+                                                                                                                                  Daily     Labor-                                     2022   Bare   Costs                                Total
+ 03   81    13.50        Concrete           Floor     /Slab     Cutting                                                  Crew    Output     Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+ 0010       CONCRETE        FLOOR     / SLAB     CUTTING
+ 0050            Includes  blade  cost , layout  and  set-up  time
+ 0300            Saw   cut concrete   slabs ,plain ,up  to  3" deep                                                      B-89     1060      .015        LE                .10              .81               524262           1.50             1.97
+ 0320                       Each  additional   inch of depth                                                                      3180      .005                          .03              .27              .20                .50              .66
+ 0400                 Mesh    reinforced , up  to 3"  deep                                                                         980      .016                          .11              .88                                1.63            2.13
+ 0420                       Each  additional   inch of depth                                                                      2940      .005                          .04               .29              .21               .54              .71
+ 0500                 Rod   reinforced , up  to 3"  deep                                                                           800      .020                          .14             1.07               .78              1.99            2.61
+ 0520                       Each  additional  inch  of depth                                                                      2400      .007                          .05              .36                                 .67              .87
+ 03   81    13.75        Concrete           Saw     Blades
+ 0010      CONCRETE         SAW     BLADES
+ 3000            Blades  for saw   cutting , included  in cutting  line items
+ 3020                 Diamond    , 12 " diameter                                                                                                        Eg.   1      207                                                  207              228
+ 3040                             18 " diameter                                                                                                                      325                                                  325              360
+ 3080                            24  " diameter                                                                                                                      460                                                  460              510
+ 3120                             30"  diameter                                                                                                                      820                                                  820              900
+ 3160                             36 " diameter                                                                                                                   1,150                                                 1,150            1,275
+ 3200                            42  " diameter                                                                                                                   1,750                                                1,750            1,925
+ 03     81      16       -     Track         Mounted                 Concrete               Wall        Sawing
+03    81    16.50        Concrete           Wall     Cutting
+ 0010      CONCRETE         WALL     CUTTING
+ 0750            Includes  blade  cost , layout  and  set-up  time
+ 0800            Concrete   walls ,hydraulic   saw , plain ,per  inch of depth                                          B-89B     250       .064       LF                 333             3.44            4.30               7.77             9.85
+ 0820                 Rod   reinforcing , per inch  of depth                                                                       150      .107                          .05            5.75             7.15              12.95            16.50
+03            82           Concrete                           Boring
+                                                                                                                                                              anch
+ 03     82      13       -     Concrete               Core         Drilling
+03    82    13.10        Core      Drilling
+ 0010       CORE    DRILLING
+ 0015            Includes  bit cost ,layout  and  set up  time
+0020             Reinforced   concrete  slab , up to  6"  thick
+ 0100                 1 " diameter   core                                                                               B-89A       17      .941        Ea.               .22           49                7                56.22            81.50
+ 0150                       For each   additional  inch  of slab thickness   in same  hole  ,add                          |       1440      .011    ]   [                 .04              .58              .08                .70
+ 0200                 2 " diameter    core                                                                           |    |     116.50      .970                          .30           50.50             7.20             58               84.50
+ 0250                       For each  additional   inch of  slab thickness   in same  hole  ,add                                  1080      .015                          .05              .77               11               .93             1.33
+ 0300                 3 " diameter    core                                                                           [    |     |   91    |   11                          .42           52.50             7.45             60.37            86.50
+ 0350                       For each   additional  inch of  slab thickness  in  same   hole ,add                                  720       .022                          .07             1.16              .17              1.40             2
+ 0500                 4 " diameter    core                                                                                          15      1.067                         .56           55.50             7.95             64.01            93
+ 0550                       For each   additional  inch of  slab thickness   insame    hole ,add                                   480      .033                          .09            1.74               .25              2.08             2.98
+ 0700                 6 " diameter   core                                                                                           14     1.143                          .89          59.50              8.50             68.89           100
+ 0750                       For each   additional  inch of  slab thickness   insame   hole  ,add                                  360     ; .044                          .15            2.32               .33              2.80             3.99
+ 0900                 8 " diameter    core                                                                                          13     1.231        ]               1.30            64.50             9.15             74.95           108
+ 0950                       For each   additional  inch of  slab thickness   in same   hole ,add                                   288      .056                          .22            2.90               .41              3.53             5.05
+ 1100                 10  " diameter   core                                                                                         12     1.333        |               1.60            69.50             9.95             81.05           117
+ 1150                       For each   additional  inch of  slab thickness   in same  hole  ,add                                   240      .067                          .27            3.48               .50              4.25             6.05
+ 1300                  12 " diameter   core                                                                                         11     1.455                        1.83           76                10.85             88.68           128
+ 1350                       For each   additional  inch of  slab thickness   insame   hole  ,add                                  206       .078                          .30            4.06               .58              4.94             7.05
+ 1500                 14 "  diameter   core                                                                                         10     1.600                        2.26            83.50            11.90             97.66           141
+ 1550                       For each   additional  inch of  slab thickness   insame   hole  ,add                                   180.089                                .38            4.64               .66              5.68             8.10
+ 1700                 18  " diameter   core                                                                                         9      1.778                        2.94           93                13.25            109.19           157
+ 1750                       For each   additional  inch of  slab thickness   in same  hole  ,add                                   144.1111                               .49            5.80               .83              7.12           10.15
+                                     For   customer          support       on    your     Building       Construction            Costs      with    RSMeans           data   , call   800.448.8182          .                                   93
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+00381 Concrete81utting
+03 8Concretelat Concrete Sawing
+03 81 1Cuttingncrete Floor/Slab Cutting
+0010 CONCRETE FLOOR/SLAB CUTTING
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment Total
+Ind O&P
+0050
+0300
+Includes blade cost
+ 03     81      13       -     Flat       Concrete               Sawing
+                                                                                                                                  Daily     Labor-                                     2022   Bare   Costs                                Total
+ 03   81    13.50        Concrete           Floor     /Slab     Cutting                                                  Crew    Output     Hours      Unit       Material           Labor         Equipment            Total           Ind  O & P
+ 0010       CONCRETE        FLOOR     / SLAB     CUTTING
+ 0050            Includes  blade  cost , layout  and  set-up  time
+ 0300            Saw   cut concrete   slabs ,plain ,up  to  3" deep                                                      B-89     1060      .015        LE                .10              .81               524262           1.50             1.97
+ 0320                       Each  additional   inch of depth                                                                      3180      .005                          .03              .27              .20                .50              .66
+ 0400                 Mesh    reinforced , up  to 3"  deep                                                                         980      .016                          .11              .88                                1.63            2.13
+ 0420                       Each  additional   inch of depth                                                                      2940      .005                          .04               .29              .21               .54              .71
+ 0500                 Rod   reinforced , up  to 3"  deep                                                                           800      .020                          .14             1.07               .78              1.99            2.61
+ 0520                       Each  additional  inch  of depth                                                                      2400      .007                          .05              .36                                 .67              .87
+ 03   81    13.75        Concrete           Saw     Blades
+ 0010      CONCRETE         SAW     BLADES
+ 3000            Blades  for saw   cutting , included  in cutting  line items
+ 3020                 Diamond    , 12 " diameter                                                                                                        Eg.   1      207                                                  207              228
+ 3040                             18 " diameter                                                                                                                      325                                                  325              360
+ 3080                            24  " diameter                                                                                                                      460                                                  460              510
+ 3120                             30"  diameter                                                                                                                      820                                                  820              900
+ 3160                             36 " diameter                                                                                                                   1,150                                                 1,150            1,275
+ 3200                            42  " diameter                                                                                                                   1,750                                                1,750            1,925
+ 03     81      16       -     Track         Mounted                 Concrete               Wall        Sawing
+03    81    16.50        Concrete           Wall     Cutting
+ 0010      CONCRETE         WALL     CUTTING
+ 0750            Includes  blade  cost , layout  and  set-up  time
+ 0800            Concrete   walls ,hydraulic   saw , plain ,per  inch of depth                                          B-89B     250       .064       LF                 333             3.44            4.30               7.77             9.85
+ 0820                 Rod   reinforcing , per inch  of depth                                                                       150      .107                          .05            5.75             7.15              12.95            16.50
+03            82           Concrete                           Boring
+                                                                                                                                                              anch
+ 03     82      13       -     Concrete               Core         Drilling
+03    82    13.10        Core      Drilling
+ 0010       CORE    DRILLING
+ 0015            Includes  bit cost ,layout  and  set up  time
+0020             Reinforced   concrete  slab , up to  6"  thick
+ 0100                 1 " diameter   core                                                                               B-89A       17      .941        Ea.               .22           49                7                56.22            81.50
+ 0150                       For each   additional  inch  of slab thickness   in same  hole  ,add                          |       1440      .011    ]   [                 .04              .58              .08                .70
+ 0200                 2 " diameter    core                                                                           |    |     116.50      .970                          .30           50.50             7.20             58               84.50
+ 0250                       For each  additional   inch of  slab thickness   in same  hole  ,add                                  1080      .015                          .05              .77               11               .93             1.33
+ 0300                 3 " diameter    core                                                                           [    |     |   91    |   11                          .42           52.50             7.45             60.37            86.50
+ 0350                       For each   additional  inch of  slab thickness  in  same   hole ,add                                  720       .022                          .07             1.16              .17              1.40             2
+ 0500                 4 " diameter    core                                                                                          15      1.067                         .56           55.50             7.95             64.01            93
+ 0550                       For each   additional  inch of  slab thickness   insame    hole ,add                                   480      .033                          .09            1.74               .25              2.08             2.98
+ 0700                 6 " diameter   core                                                                                           14     1.143                          .89          59.50              8.50             68.89           100
+ 0750                       For each   additional  inch of  slab thickness   insame   hole  ,add                                  360     ; .044                          .15            2.32               .33              2.80             3.99
+ 0900                 8 " diameter    core                                                                                          13     1.231        ]               1.30            64.50             9.15             74.95           108
+ 0950                       For each   additional  inch of  slab thickness   in same   hole ,add                                   288      .056                          .22            2.90               .41              3.53             5.05
+ 1100                 10  " diameter   core                                                                                         12     1.333        |               1.60            69.50             9.95             81.05           117
+ 1150                       For each   additional  inch of  slab thickness   in same  hole  ,add                                   240      .067                          .27            3.48               .50              4.25             6.05
+ 1300                  12 " diameter   core                                                                                         11     1.455                        1.83           76                10.85             88.68           128
+ 1350                       For each   additional  inch of  slab thickness   insame   hole  ,add                                  206       .078                          .30            4.06               .58              4.94             7.05
+ 1500                 14 "  diameter   core                                                                                         10     1.600                        2.26            83.50            11.90             97.66           141
+ 1550                       For each   additional  inch of  slab thickness   insame   hole  ,add                                   180.089                                .38            4.64               .66              5.68             8.10
+ 1700                 18  " diameter   core                                                                                         9      1.778                        2.94           93                13.25            109.19           157
+ 1750                       For each   additional  inch of  slab thickness   in same  hole  ,add                                   144.1111                               .49            5.80               .83              7.12           10.15
+                                     For   customer          support       on    your     Building       Construction            Costs      with    RSMeans           data   , call   800.448.8182          .                                   93
+
+
+GPT Markdown Output:
+# 00381 Concrete Cutting
+
+## 03 81 Concrete Flat Concrete Sawing
+
+### 03 81 13 - Flat Concrete Sawing
+
+#### 03 81 13.50 Concrete Floor/Slab Cutting
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE FLOOR / SLAB CUTTING          |       |              |             |      |          |       |           |         |                |
+| 0050  | Includes blade cost, layout and set-up time |   |              |             |      |          |       |           |         |                |
+| 0300  | Saw cut concrete slabs, plain, up to 3" deep | B-89  | 1060         | .015        | LE   | .10      | .81   | 524262    | 1.50    | 1.97           |
+| 0320  | Each additional inch of depth           |       | 3180         | .005        |      | .03      | .27   | .20       | .50     | .66            |
+| 0400  | Mesh reinforced, up to 3" deep          |       | 980          | .016        |      | .11      | .88   |           | 1.63    | 2.13           |
+| 0420  | Each additional inch of depth           |       | 2940         | .005        |      | .04      | .29   | .21       | .54     | .71            |
+| 0500  | Rod reinforced, up to 3" deep           |       | 800          | .020        |      | .14      | 1.07  | .78       | 1.99    | 2.61           |
+| 0520  | Each additional inch of depth           |       | 2400         | .007        |      | .05      | .36   |           | .67     | .87            |
+
+#### 03 81 13.75 Concrete Saw Blades
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE SAW BLADES                    |       |              |             |      |          |       |           |         |                |
+| 3000  | Blades for saw cutting, included in cutting line items | | | | | | | | | |
+| 3020  | Diamond, 12" diameter                  |       |              |             | Eg. 1| 207      |       |           | 207     | 228            |
+| 3040  | 18" diameter                           |       |              |             |      | 325      |       |           | 325     | 360            |
+| 3080  | 24" diameter                           |       |              |             |      | 460      |       |           | 460     | 510            |
+| 3120  | 30" diameter                           |       |              |             |      | 820      |       |           | 820     | 900            |
+| 3160  | 36" diameter                           |       |              |             |      | 1,150    |       |           | 1,150   | 1,275          |
+| 3200  | 42" diameter                           |       |              |             |      | 1,750    |       |           | 1,750   | 1,925          |
+
+---
+
+## 03 81 16 - Track Mounted Concrete Wall Sawing
+
+### 03 81 16.50 Concrete Wall Cutting
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE WALL CUTTING                  |       |              |             |      |          |       |           |         |                |
+| 0750  | Includes blade cost, layout and set-up time |   |              |             |      |          |       |           |         |                |
+| 0800  | Concrete walls, hydraulic saw, plain, per inch of depth | B-89B | 250 | .064 | LF   | 333      | 3.44  | 4.30      | 7.77    | 9.85           |
+| 0820  | Rod reinforcing, per inch of depth      |       | 150          | .107        |      | .05      | 5.75  | 7.15      | 12.95   | 16.50          |
+
+---
+
+## 03 82 Concrete Boring
+
+### 03 82 13 - Concrete Core Drilling
+
+#### 03 82 13.10 Core Drilling
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CORE DRILLING                          |       |              |             |      |          |       |           |         |                |
+| 0015  | Includes bit cost, layout and set up time |    |              |             |      |          |       |           |         |                |
+| 0020  | Reinforced concrete slab, up to 6" thick |     |              |             |      |          |       |           |         |                |
+| 0100  | 1" diameter core                       | B-89A| 17           | .941        | Ea.  | .22      | 49    | 7         | 56.22   | 81.50          |
+| 0150  | For each additional inch of slab thickness in same hole, add | | 1440 | .011 |   | .04      | .58   | .08       | .70     |                |
+| 0200  | 2" diameter core                       |      | 116.50       | .970        |      | .30      | 50.50 | 7.20      | 58      | 84.50          |
+| 0250  | For each additional inch of slab thickness in same hole, add | | 1080 | .015 |   | .05      | .77   | 11        | .93     | 1.33           |
+| 0300  | 3" diameter core                       |      | 91           | 11          |      | .42      | 52.50 | 7.45      | 60.37   | 86.50          |
+| 0350  | For each additional inch of slab thickness in same hole, add | | 720  | .022 |   | .07      | 1.16  | .17       | 1.40    | 2              |
+| 0500  | 4" diameter core                       |      | 15           | 1.067       |      | .56      | 55.50 | 7.95      | 64.01   | 93             |
+| 0550  | For each additional inch of slab thickness in same hole, add | | 480  | .033 |   | .09      | 1.74  | .25       | 2.08    | 2.98           |
+| 0700  | 6" diameter core                       |      | 14           | 1.143       |      | .89      | 59.50 | 8.50      | 68.89   | 100            |
+| 0750  | For each additional inch of slab thickness in same hole, add | | 360  | .044 |   | .15      | 2.32  | .33       | 2.80    | 3.99           |
+| 0900  | 8" diameter core                       |      | 13           | 1.231       |      | 1.30     | 64.50 | 9.15      | 74.95   | 108            |
+| 0950  | For each additional inch of slab thickness in same hole, add | | 288  | .056 |   | .22      | 2.90  | .41       | 3.53    | 5.05           |
+| 1100  | 10" diameter core                      |      | 12           | 1.333       |      | 1.60     | 69.50 | 9.95      | 81.05   | 117            |
+| 1150  | For each additional inch of slab thickness in same hole, add | | 240  | .067 |   | .27      | 3.48  | .50       | 4.25    | 6.05           |
+| 1300  | 12" diameter core                      |      | 11           | 1.455       |      | 1.83     | 76    | 10.85     | 88.68   | 128            |
+| 1350  | For each additional inch of slab thickness in same hole, add | | 206  | .078 |   | .30      | 4.06  | .58       | 4.94    | 7.05           |
+| 1500  | 14" diameter core                      |      | 10           | 1.600       |      | 2.26     | 83.50 | 11.90     | 97.66   | 141            |
+| 1550  | For each additional inch of slab thickness in same hole, add | | 180  | .089 |   | .38      | 4.64  | .66       | 5.68    | 8.10           |
+| 1700  | 18" diameter core                      |      | 9            | 1.778       |      | 2.94     | 93    | 13.25     | 109.19  | 157            |
+| 1750  | For each additional inch of slab thickness in same hole, add | | 144  | .1111|   | .49      | 5.80  | .83       | 7.12    | 10.15          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-30T22:02:26.979449
+OCR Text:
+              03 03 Concrete F11ming
+03 11 Concreteuctural Cast-In-Place ConcreForminging
+03 11 13.25 Forms In Place, Columns
+Daily Labor-
+6100
+3 use
+6150
+4 use
+6500
+24" x 24" columns, 1 use
+6550
+2 use
+6600
+3 use
+6650
+4 use
+7000 |
+36" x 36" columns, 1 use
+7050
+2 use
+7100
+                  03      11     13       -     Structural               Cast      - In  - Place          Concrete                Forming
+                                                                                                                                                  Daily    Labor-                                       2022  Bare   Costs                                 Total
+                 03    11    13.25        Forms       In  Place     ,  Columns                                                          Crew     Output     Hours      Unit       Material           Labor          Equipment            Total           Ind  O &P
+                 6100                       3  use                                                                                        C-1      230      .139      SFCA              1.54              7.45                                8.99            12.80
+                 6150                       4 use                                                                                                  235      .136                         1.25             7.30                                8.55            12.25
+                 6500                  24 " x  24 " columns   , 1 use                                                                              190      .168                        4.39              9.05                              13.44             18.25
+                 6550                       2  use                                                                                                 216      .148                        2.41              7.95                              10.36             14.50
+                 6600                       3 use                                                                                                  230      .139                         1.75             7.45                                9.20            13.05
+                 6650                       4 use                                                                                                  238.134                               1.43             7.20                                8.63            12.30
+                 7000     |            36 " x  36 " columns   , 1 use                                                                              200    1.160                         3.71              8.60                              12.31             16.85
+                 7050                       2 use                                                                                                  230      .139                        2.08              7.45                                9.53            13.40
+                 7100                       3 use                                                                                                  245      .131                         1.48             7                                   8.48            12.10
+                 7150                       4  use                                                                                                 250      .128                         1.20             6.85                                8.05            11.55
+                 7400            Steel  framed   plywood   ,based   on  50  uses  of purchased
+                 7420                 forms  , and  4 uses  of  bracing  lumber
+                 7500                       8 " x 8 " column                                                                          I  G -1      340      .094      SFCA    |         2.39              5.05                                7.44           10.15
+                 7550                       10 "  x 10 "                                                                              !    |    |  350      .091                        2.12              4.90                               7.02              9.65
+                 7600                       12 "  x 12 "                                                                             ]     |    |  370      .086    |   |     |          1.80             4.64                                6.44             8.90
+                 7650                       16 "  x 16 "                                                                              ]    |    |  400      .080                        1.40             4.29                                 5.69             7.95
+                 7700                       20 " x  20 "                                                                                           420      .076                        1.24              4.09                                53707            7.45
+                 7750                       24 "  x 24 "                                                                                           440      .073                          .87             3.90                               4.77              6.75
+                 7755                       30 "  x 30 "                                                                                           440      .073                        1.11              3.90                                5.01             7
+                 7760                       36 " x  36 "                                                                                          460       .070                          .98             3.73                               4.71              6.65
+                 03    11    13.30       Forms        In  Place     ,  Culvert
+                 0010       FORMS       IN  PLACE    , CULVERT                                                       R031113-40
+                 0015            5 ' to 8 ' square  or  rectangular , 1 use                                                              C -1      170      .188      SFCA              6.15            10.10                               16.25            22
+                 0050                       2 use                                                                    R031113-60                    180      .178                        3.61             9.55                               13.16            18.15
+                 0100                       3  use                                                                                                 190      .168                        2.76             9.05                               11.81            16.50
+                 0150                       4 use                                                                                                 200       .160        ←               2.33             8.60                               10.93            15.30
+                03     11   13.35        Forms        In  Place     ,  Elevated         Slabs
+                 0010       FORMS       IN  PLACE    , ELEVATED       SLABS                                          R031113-40
+                 1000            Flat plate , job-built plywood  , to 15 '  high ,1  use                            R031113-60           C-2      470       .102       S.F.             5.75             5.60                               11.35            14.70
+                 1050                       2 use                                                                                                 520       .092                        3.17             5.05                                8.22            11.05
+                 1100                       3 use                                                                                                 545       .088                        2.31             4.83                                7.14             9.75
+                 1150                       4 use                                                                                                 560       .086                        1.87             4.70                                6.57             9.05
+                 1500    |            15  ' to 20  ' high ceilings ,4  use                                                                        495       .097                        2.01             5.30                                7.31            10.10
+                 1600                 21  ' to 35 '  high ceilings ,4  use                                                                        450       .107                        2.44             5.85                                8.29            11.40
+                 2000            Flat slab ,drop  panels  , job-built plywood  , to 15  ' high ,1  use                                            449     : .107                        6.75             5.85                               12.60            16.20
+                 2050                       2 use                                                                                                 509       .094                        3.73             5.15                                8.88            11.80
+                 2100                       3 use                                                                                                 532       .090                        2.71             4.95                                7.66            10.35
+                 2150                       4 use                                                                                                 544       .088                        2.20             4.84                                7.04             9.60
+                 2250    :            15  ' to 20 ' high  ceilings ,4  use                                                                        480       .100                        3.64             5.50                                9.14            12.15
+                 2350                 20  ' to 35 ' high  ceilings ,4  use                                                                        435.110                               4.05             6.05                               10.10            13.45
+                 3000            Floor slab  hung  from   steel beams   , 1 use                                                                   485       .099                        3.89             5.45                                9.34            12.40
+                 3050                       2 use                                                                                                 535     1.090                         2.85             4.921                               7.77            10.50
+                 3100                       3 use                                                                                                 550       .087                        2.50             4.79                                7.29             9.90
+                 3150                      4  use                                                                                                 565       .085                        2.33             4.66                                6.99             9.50
+                 3500           Floor  slab ,with   1-way  joist pans , 1 use                                                                     415       .116                      10.55              6.35                               16.90           21
+                 3550                       2 use                                                                                                 445       .108                        7.50             5.90                               13.40           17.05
+                 3600                       3 use                                                                                                 475       .101                        6.45             5.55                              12                15.35
+                 3650                       4 use                                                                                                 500    1.096                          5.95             5.25                              11.20             14.40
+                4500                  With  2 way   waffle  domes   , 1 use                                                                       405.119                    I        11.15              6.50                              17.65            22
+                4520                        2 use                                                                                         |    |  450.107          |    |    |          8.05             5.85                              13.90            17.60
+                 4530                      3  use                                                                                                 460.104                               7.05             5.70                              12.75            16.25
+                4550                        4 use                                                                                        (-2      470       .102      S.F.              6.55             5.60                              12.15            15.55
+              56                                    For    customer         support        on   your     Building        Construction           Costs      with     RSMeans          data    , call   800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+              03 03 Concrete F11ming
+03 11 Concreteuctural Cast-In-Place ConcreForminging
+03 11 13.25 Forms In Place, Columns
+Daily Labor-
+6100
+3 use
+6150
+4 use
+6500
+24" x 24" columns, 1 use
+6550
+2 use
+6600
+3 use
+6650
+4 use
+7000 |
+36" x 36" columns, 1 use
+7050
+2 use
+7100
+                  03      11     13       -     Structural               Cast      - In  - Place          Concrete                Forming
+                                                                                                                                                  Daily    Labor-                                       2022  Bare   Costs                                 Total
+                 03    11    13.25        Forms       In  Place     ,  Columns                                                          Crew     Output     Hours      Unit       Material           Labor          Equipment            Total           Ind  O &P
+                 6100                       3  use                                                                                        C-1      230      .139      SFCA              1.54              7.45                                8.99            12.80
+                 6150                       4 use                                                                                                  235      .136                         1.25             7.30                                8.55            12.25
+                 6500                  24 " x  24 " columns   , 1 use                                                                              190      .168                        4.39              9.05                              13.44             18.25
+                 6550                       2  use                                                                                                 216      .148                        2.41              7.95                              10.36             14.50
+                 6600                       3 use                                                                                                  230      .139                         1.75             7.45                                9.20            13.05
+                 6650                       4 use                                                                                                  238.134                               1.43             7.20                                8.63            12.30
+                 7000     |            36 " x  36 " columns   , 1 use                                                                              200    1.160                         3.71              8.60                              12.31             16.85
+                 7050                       2 use                                                                                                  230      .139                        2.08              7.45                                9.53            13.40
+                 7100                       3 use                                                                                                  245      .131                         1.48             7                                   8.48            12.10
+                 7150                       4  use                                                                                                 250      .128                         1.20             6.85                                8.05            11.55
+                 7400            Steel  framed   plywood   ,based   on  50  uses  of purchased
+                 7420                 forms  , and  4 uses  of  bracing  lumber
+                 7500                       8 " x 8 " column                                                                          I  G -1      340      .094      SFCA    |         2.39              5.05                                7.44           10.15
+                 7550                       10 "  x 10 "                                                                              !    |    |  350      .091                        2.12              4.90                               7.02              9.65
+                 7600                       12 "  x 12 "                                                                             ]     |    |  370      .086    |   |     |          1.80             4.64                                6.44             8.90
+                 7650                       16 "  x 16 "                                                                              ]    |    |  400      .080                        1.40             4.29                                 5.69             7.95
+                 7700                       20 " x  20 "                                                                                           420      .076                        1.24              4.09                                53707            7.45
+                 7750                       24 "  x 24 "                                                                                           440      .073                          .87             3.90                               4.77              6.75
+                 7755                       30 "  x 30 "                                                                                           440      .073                        1.11              3.90                                5.01             7
+                 7760                       36 " x  36 "                                                                                          460       .070                          .98             3.73                               4.71              6.65
+                 03    11    13.30       Forms        In  Place     ,  Culvert
+                 0010       FORMS       IN  PLACE    , CULVERT                                                       R031113-40
+                 0015            5 ' to 8 ' square  or  rectangular , 1 use                                                              C -1      170      .188      SFCA              6.15            10.10                               16.25            22
+                 0050                       2 use                                                                    R031113-60                    180      .178                        3.61             9.55                               13.16            18.15
+                 0100                       3  use                                                                                                 190      .168                        2.76             9.05                               11.81            16.50
+                 0150                       4 use                                                                                                 200       .160        ←               2.33             8.60                               10.93            15.30
+                03     11   13.35        Forms        In  Place     ,  Elevated         Slabs
+                 0010       FORMS       IN  PLACE    , ELEVATED       SLABS                                          R031113-40
+                 1000            Flat plate , job-built plywood  , to 15 '  high ,1  use                            R031113-60           C-2      470       .102       S.F.             5.75             5.60                               11.35            14.70
+                 1050                       2 use                                                                                                 520       .092                        3.17             5.05                                8.22            11.05
+                 1100                       3 use                                                                                                 545       .088                        2.31             4.83                                7.14             9.75
+                 1150                       4 use                                                                                                 560       .086                        1.87             4.70                                6.57             9.05
+                 1500    |            15  ' to 20  ' high ceilings ,4  use                                                                        495       .097                        2.01             5.30                                7.31            10.10
+                 1600                 21  ' to 35 '  high ceilings ,4  use                                                                        450       .107                        2.44             5.85                                8.29            11.40
+                 2000            Flat slab ,drop  panels  , job-built plywood  , to 15  ' high ,1  use                                            449     : .107                        6.75             5.85                               12.60            16.20
+                 2050                       2 use                                                                                                 509       .094                        3.73             5.15                                8.88            11.80
+                 2100                       3 use                                                                                                 532       .090                        2.71             4.95                                7.66            10.35
+                 2150                       4 use                                                                                                 544       .088                        2.20             4.84                                7.04             9.60
+                 2250    :            15  ' to 20 ' high  ceilings ,4  use                                                                        480       .100                        3.64             5.50                                9.14            12.15
+                 2350                 20  ' to 35 ' high  ceilings ,4  use                                                                        435.110                               4.05             6.05                               10.10            13.45
+                 3000            Floor slab  hung  from   steel beams   , 1 use                                                                   485       .099                        3.89             5.45                                9.34            12.40
+                 3050                       2 use                                                                                                 535     1.090                         2.85             4.921                               7.77            10.50
+                 3100                       3 use                                                                                                 550       .087                        2.50             4.79                                7.29             9.90
+                 3150                      4  use                                                                                                 565       .085                        2.33             4.66                                6.99             9.50
+                 3500           Floor  slab ,with   1-way  joist pans , 1 use                                                                     415       .116                      10.55              6.35                               16.90           21
+                 3550                       2 use                                                                                                 445       .108                        7.50             5.90                               13.40           17.05
+                 3600                       3 use                                                                                                 475       .101                        6.45             5.55                              12                15.35
+                 3650                       4 use                                                                                                 500    1.096                          5.95             5.25                              11.20             14.40
+                4500                  With  2 way   waffle  domes   , 1 use                                                                       405.119                    I        11.15              6.50                              17.65            22
+                4520                        2 use                                                                                         |    |  450.107          |    |    |          8.05             5.85                              13.90            17.60
+                 4530                      3  use                                                                                                 460.104                               7.05             5.70                              12.75            16.25
+                4550                        4 use                                                                                        (-2      470       .102      S.F.              6.55             5.60                              12.15            15.55
+              56                                    For    customer         support        on   your     Building        Construction           Costs      with     RSMeans          data    , call   800.448.8182          .
+
+
+GPT Markdown Output:
+# 03 03 Concrete Forming
+
+## 03 11 Concrete Structural Cast-In-Place Concrete Forming
+
+### 03 11 13.25 Forms In Place, Columns
+
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 6100  | 3 use                                | C-1  | 230          | .139        | SFCA | 1.54     | 7.45  |           | 8.99  | 12.80          |
+| 6150  | 4 use                                |      | 235          | .136        |      | 1.25     | 7.30  |           | 8.55  | 12.25          |
+| 6500  | 24" x 24" columns, 1 use             |      | 190          | .168        |      | 4.39     | 9.05  |           | 13.44 | 18.25          |
+| 6550  | 2 use                                |      | 216          | .148        |      | 2.41     | 7.95  |           | 10.36 | 14.50          |
+| 6600  | 3 use                                |      | 230          | .139        |      | 1.75     | 7.45  |           | 9.20  | 13.05          |
+| 6650  | 4 use                                |      | 238.134      |             |      | 1.43     | 7.20  |           | 8.63  | 12.30          |
+| 7000  | 36" x 36" columns, 1 use             |      | 200          | 1.160       |      | 3.71     | 8.60  |           | 12.31 | 16.85          |
+| 7050  | 2 use                                |      | 230          | .139        |      | 2.08     | 7.45  |           | 9.53  | 13.40          |
+| 7100  | 3 use                                |      | 245          | .131        |      | 1.48     | 7     |           | 8.48  | 12.10          |
+| 7150  | 4 use                                |      | 250          | .128        |      | 1.20     | 6.85  |           | 8.05  | 11.55          |
+
+### Steel framed plywood, based on 50 uses of purchased forms, and 4 uses of bracing lumber
+
+| ID    | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 7500  | 8" x 8" column      | G-1  | 340          | .094        | SFCA | 2.39     | 5.05  |           | 7.44  | 10.15          |
+| 7550  | 10" x 10"           |      | 350          | .091        |      | 2.12     | 4.90  |           | 7.02  | 9.65           |
+| 7600  | 12" x 12"           |      | 370          | .086        |      | 1.80     | 4.64  |           | 6.44  | 8.90           |
+| 7650  | 16" x 16"           |      | 400          | .080        |      | 1.40     | 4.29  |           | 5.69  | 7.95           |
+| 7700  | 20" x 20"           |      | 420          | .076        |      | 1.24     | 4.09  |           | 53707 | 7.45           |
+| 7750  | 24" x 24"           |      | 440          | .073        |      | .87      | 3.90  |           | 4.77  | 6.75           |
+| 7755  | 30" x 30"           |      | 440          | .073        |      | 1.11     | 3.90  |           | 5.01  | 7              |
+| 7760  | 36" x 36"           |      | 460          | .070        |      | .98      | 3.73  |           | 4.71  | 6.65           |
+
+---
+
+## 03 11 13.30 Forms In Place, Culvert
+
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, CULVERT              |      |              |             |      |          |       |           |       |                |
+| 0015  | 5' to 8' square or rectangular, 1 use| C-1  | 170          | .188        | SFCA | 6.15     | 10.10 |           | 16.25 | 22             |
+| 0050  | 2 use                                |      | 180          | .178        |      | 3.61     | 9.55  |           | 13.16 | 18.15          |
+| 0100  | 3 use                                |      | 190          | .168        |      | 2.76     | 9.05  |           | 11.81 | 16.50          |
+| 0150  | 4 use                                |      | 200          | .160        |      | 2.33     | 8.60  |           | 10.93 | 15.30          |
+
+---
+
+## 03 11 13.35 Forms In Place, Elevated Slabs
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, ELEVATED SLABS                            |      |              |             |      |          |       |           |       |                |
+| 1000  | Flat plate, job-built plywood, to 15' high, 1 use         | C-2  | 470          | .102        | S.F. | 5.75     | 5.60  |           | 11.35 | 14.70          |
+| 1050  | 2 use                                                     |      | 520          | .092        |      | 3.17     | 5.05  |           | 8.22  | 11.05          |
+| 1100  | 3 use                                                     |      | 545          | .088        |      | 2.31     | 4.83  |           | 7.14  | 9.75           |
+| 1150  | 4 use                                                     |      | 560          | .086        |      | 1.87     | 4.70  |           | 6.57  | 9.05           |
+| 1500  | 15' to 20' high ceilings, 4 use                           |      | 495          | .097        |      | 2.01     | 5.30  |           | 7.31  | 10.10          |
+| 1600  | 21' to 35' high ceilings, 4 use                           |      | 450          | .107        |      | 2.44     | 5.85  |           | 8.29  | 11.40          |
+| 2000  | Flat slab, drop panels, job-built plywood, to 15' high, 1 use |      | 449          | : .107      |      | 6.75     | 5.85  |           | 12.60 | 16.20          |
+| 2050  | 2 use                                                     |      | 509          | .094        |      | 3.73     | 5.15  |           | 8.88  | 11.80          |
+| 2100  | 3 use                                                     |      | 532          | .090        |      | 2.71     | 4.95  |           | 7.66  | 10.35          |
+| 2150  | 4 use                                                     |      | 544          | .088        |      | 2.20     | 4.84  |           | 7.04  | 9.60           |
+| 2250  | 15' to 20' high ceilings, 4 use                           |      | 480          | .100        |      | 3.64     | 5.50  |           | 9.14  | 12.15          |
+| 2350  | 20' to 35' high ceilings, 4 use                           |      | 435.110      |             |      | 4.05     | 6.05  |           | 10.10 | 13.45          |
+| 3000  | Floor slab hung from steel beams, 1 use                   |      | 485          | .099        |      | 3.89     | 5.45  |           | 9.34  | 12.40          |
+| 3050  | 2 use                                                     |      | 535          | 1.090       |      | 2.85     | 4.921 |           | 7.77  | 10.50          |
+| 3100  | 3 use                                                     |      | 550          | .087        |      | 2.50     | 4.79  |           | 7.29  | 9.90           |
+| 3150  | 4 use                                                     |      | 565          | .085        |      | 2.33     | 4.66  |           | 6.99  | 9.50           |
+| 3500  | Floor slab, with 1-way joist pans, 1 use                  |      | 415          | .116        |      | 10.55    | 6.35  |           | 16.90 | 21              |
+| 3550  | 2 use                                                     |      | 445          | .108        |      | 7.50     | 5.90  |           | 13.40 | 17.05          |
+| 3600  | 3 use                                                     |      | 475          | .101        |      | 6.45     | 5.55  |           | 12    | 15.35          |
+| 3650  | 4 use                                                     |      | 500          | 1.096       |      | 5.95     | 5.25  |           | 11.20 | 14.40          |
+| 4500  | With 2 way waffle domes, 1 use                            |      | 405.119      |             |      | 11.15    | 6.50  |           | 17.65 | 22              |
+| 4520  | 2 use                                                     |      | 450.107      |             |      | 8.05     | 5.85  |           | 13.90 | 17.60          |
+| 4530  | 3 use                                                     |      | 460.104      |             |      | 7.05     | 5.70  |           | 12.75 | 16.25          |
+| 4550  | 4 use                                                     | (-2  | 470          | .102        | S.F. | 6.55     | 5.60  |           | 12.15 | 15.55          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
