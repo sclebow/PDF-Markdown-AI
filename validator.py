@@ -5,8 +5,8 @@
 
 import streamlit as st
 import os
-import time
 import plotly.graph_objects as go
+from streamlit_autorefresh import st_autorefresh
 
 def is_image_file(filename):
     return filename.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff'))
@@ -30,9 +30,10 @@ def validate_folder(folder_path):
 st.title('Folder Image Validator')
 # Add refresh timer
 refresh_interval = st.number_input('Refresh interval (milliseconds):', min_value=0, max_value=60000, value=int(1000 / 8), step=1000)
+
+# Add autorefresh
 if refresh_interval > 0:
-    st.write(f"Refreshing every {refresh_interval} milliseconds...")
-    time.sleep(refresh_interval / 1000.0)  # Convert milliseconds to seconds
+    st_autorefresh(interval=refresh_interval, key="autorefresh")
 
 dir_path = st.text_input('Enter directory path:', value='')
 
