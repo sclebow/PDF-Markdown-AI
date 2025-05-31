@@ -12768,3 +12768,401 @@ Granite faced, domestic, add
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 ============================================================
 
+Timestamp: 2025-05-30T22:00:34.956581
+OCR Text:
+             03034 Cast Unde54ayment
+03 5Cast - Hydraulic CUnderlaymentayment
+03 54 16.50 Cement Underlayment
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment
+Total
+Incl O&P
+0010 CEMENT UNDERLAYMENT
+2510
+Underlayment, P.C. based, self-
+                03     54      16      -     Hydraulic                Cement              Underlayment
+                                                                                                                                                Daily    Labor-                                      2022   Bare  Costs                                 Total
+               03    54    16.50        Cement         Underlayment                                                                   Crew     Output     Hours     Unit        Material           Labor         Equipment            Total           Incl O & P
+               0010       CEMENT       UNDERLAYMENT
+               2510            Underlayment     ,P.C. based  ,self leveling , 4100    psi,pumped    , 1/4 "  thick                     C 8     20000      .003       S.F.             2.06               .14               .04              2.24             2.52
+               2520                       1/2  " thick                                                                                         19000      .003                        4.12               .15              .04               4.31             4.79
+               2530                       3/4  " thick                                                                                         18000      .003                        6.20               .16              .04               6.40             7.10
+               2540                       1 " thick                                                                                            17000      .003                        8.25               .17               .04              8.46             9.35
+               2550                       1-1 / 2 " thick                                                                                      15000      .004                       12.35                .19              .05            12.59             13.95
+               2560                  Hand   placed , 1/2  " thick                                                                     C -18     450       .020                        4.12               .92               .26              5.30             6.20
+               2610            Topping  , P.C. based  ,self-leveling ,6100    psi, pumped   , 1/4  "  thick                            C -8    20000       003                        2.19                .14              .04              2.37             2.65
+               2620                       1/2  " thick                                                                                         19000      .003                        4.37               .15               .04              4.56             5.05
+               2630                       3/4  "  thick                                                                                        18000      .003                        6.55                .16              .04              6.75             7.50
+               2660                       1 " thick                                                                                            17000      .003                        8.75                .17              .04              8.96             9.90
+               2670                       1-1 / 2 " thick                                                                                      15000      .004                       13.10                .19              .05            13.34            14.80
+               2680                  Hand   placed , 1/2  " thick                                                                     C -18      450      .020                        4.37                .92              .26              5.55             6.45
+               03           62            Non            -  Shrink                   Grouting
+                03     62      13         •  Non        - Metallic            Non        -Shrink            Grouting
+               03    62    13.50       Grout      ,  Non     - Metallic        Non     -Shrink
+               0010       GROUT     , NON     -METALLIC       NON    -SHRINK
+               0300            Non  -shrink ,non  metallic , 1 " deep                                                                 1 Cefi      35      .229       S.F.             7.95            12.15                               20.10            26.50
+               0350                  2"  deep                                                                                            "        25      .320         "             15.95            17                                  32.95            42.50
+                03     62      16      -     Metallic             Non       - Shrink           Grouting
+               03    62    16.50        Grout      , Metallic         Non     -Shrink
+                0010      GROUT     , METALLIC        NON   - SHRINK
+               0020    :       Column    &  machine    bases , non -shrink ,metallic  , "  deep                                       1 Cefi      35      .229       S.F              9.25            12.15                               21.40            28
+                0050                            2"  deep                                                                              1 Cefi      25      .320       S.F.            18.45            17                                  35.45            45.50
+               03           63           Epoxy                    Grouting
+                03     63      05             Grouting               of    Dowels             and        Fasteners
+               03    63    05.10        Epoxy       Only
+                0010      EPOXY       ONLY
+                1500            Chemical   anchoring  , epoxy   cartridge ,excludes   layout , drilling,fastener
+                1530                 For fastener   3/4  " diam  .x  6"  embedment                                                   2 Skwk      72        .222       Eq .            4.23            13.10                               17.33            24.50
+                1535                 1 " diam  .x  8" embedment                                                                                   66       .242                       6.35            14.30                               20.65             28.50
+                1540                 1-1 / 4"  diam . x  10"  embedment                                                                           60       .267                      12.70            15.70                               28.40            37.50
+                1545                 1-3 / 4"  diam  .x  12 " embedment                                                                           54       .296                      21               17.45                               38.45            49.50
+                1550                       14 " embedment                                                                                         48       .333                      25.50            19.65                               45.15            57.50
+                1555                 2 " diam  .x  12 " embedment                                                                                 42       .381                      34               22.50                               56.50            70.50
+                1560                       18 " embedment                                                                                         32       .500                      42.50            29.50                               72                90.50
+             92
+                                                    For   customer          support       on   your     Building        Construction            Costs     with     RSMeans          data    , call   800.448.8182          .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+             03034 Cast Unde54ayment
+03 5Cast - Hydraulic CUnderlaymentayment
+03 54 16.50 Cement Underlayment
+Daily Labor-
+Crew Output Hours Unit
+2022 Bare Costs
+Total
+Material
+Labor
+Equipment
+Total
+Incl O&P
+0010 CEMENT UNDERLAYMENT
+2510
+Underlayment, P.C. based, self-
+                03     54      16      -     Hydraulic                Cement              Underlayment
+                                                                                                                                                Daily    Labor-                                      2022   Bare  Costs                                 Total
+               03    54    16.50        Cement         Underlayment                                                                   Crew     Output     Hours     Unit        Material           Labor         Equipment            Total           Incl O & P
+               0010       CEMENT       UNDERLAYMENT
+               2510            Underlayment     ,P.C. based  ,self leveling , 4100    psi,pumped    , 1/4 "  thick                     C 8     20000      .003       S.F.             2.06               .14               .04              2.24             2.52
+               2520                       1/2  " thick                                                                                         19000      .003                        4.12               .15              .04               4.31             4.79
+               2530                       3/4  " thick                                                                                         18000      .003                        6.20               .16              .04               6.40             7.10
+               2540                       1 " thick                                                                                            17000      .003                        8.25               .17               .04              8.46             9.35
+               2550                       1-1 / 2 " thick                                                                                      15000      .004                       12.35                .19              .05            12.59             13.95
+               2560                  Hand   placed , 1/2  " thick                                                                     C -18     450       .020                        4.12               .92               .26              5.30             6.20
+               2610            Topping  , P.C. based  ,self-leveling ,6100    psi, pumped   , 1/4  "  thick                            C -8    20000       003                        2.19                .14              .04              2.37             2.65
+               2620                       1/2  " thick                                                                                         19000      .003                        4.37               .15               .04              4.56             5.05
+               2630                       3/4  "  thick                                                                                        18000      .003                        6.55                .16              .04              6.75             7.50
+               2660                       1 " thick                                                                                            17000      .003                        8.75                .17              .04              8.96             9.90
+               2670                       1-1 / 2 " thick                                                                                      15000      .004                       13.10                .19              .05            13.34            14.80
+               2680                  Hand   placed , 1/2  " thick                                                                     C -18      450      .020                        4.37                .92              .26              5.55             6.45
+               03           62            Non            -  Shrink                   Grouting
+                03     62      13         •  Non        - Metallic            Non        -Shrink            Grouting
+               03    62    13.50       Grout      ,  Non     - Metallic        Non     -Shrink
+               0010       GROUT     , NON     -METALLIC       NON    -SHRINK
+               0300            Non  -shrink ,non  metallic , 1 " deep                                                                 1 Cefi      35      .229       S.F.             7.95            12.15                               20.10            26.50
+               0350                  2"  deep                                                                                            "        25      .320         "             15.95            17                                  32.95            42.50
+                03     62      16      -     Metallic             Non       - Shrink           Grouting
+               03    62    16.50        Grout      , Metallic         Non     -Shrink
+                0010      GROUT     , METALLIC        NON   - SHRINK
+               0020    :       Column    &  machine    bases , non -shrink ,metallic  , "  deep                                       1 Cefi      35      .229       S.F              9.25            12.15                               21.40            28
+                0050                            2"  deep                                                                              1 Cefi      25      .320       S.F.            18.45            17                                  35.45            45.50
+               03           63           Epoxy                    Grouting
+                03     63      05             Grouting               of    Dowels             and        Fasteners
+               03    63    05.10        Epoxy       Only
+                0010      EPOXY       ONLY
+                1500            Chemical   anchoring  , epoxy   cartridge ,excludes   layout , drilling,fastener
+                1530                 For fastener   3/4  " diam  .x  6"  embedment                                                   2 Skwk      72        .222       Eq .            4.23            13.10                               17.33            24.50
+                1535                 1 " diam  .x  8" embedment                                                                                   66       .242                       6.35            14.30                               20.65             28.50
+                1540                 1-1 / 4"  diam . x  10"  embedment                                                                           60       .267                      12.70            15.70                               28.40            37.50
+                1545                 1-3 / 4"  diam  .x  12 " embedment                                                                           54       .296                      21               17.45                               38.45            49.50
+                1550                       14 " embedment                                                                                         48       .333                      25.50            19.65                               45.15            57.50
+                1555                 2 " diam  .x  12 " embedment                                                                                 42       .381                      34               22.50                               56.50            70.50
+                1560                       18 " embedment                                                                                         32       .500                      42.50            29.50                               72                90.50
+             92
+                                                    For   customer          support       on   your     Building        Construction            Costs     with     RSMeans          data    , call   800.448.8182          .
+
+
+GPT Markdown Output:
+# 03034 Cast Unde54ayment
+
+## 03 5Cast - Hydraulic CUnderlaymentayment  
+03 54 16.50 Cement Underlayment
+
+### Daily Labor-Crew Output Hours Unit  
+2022 Bare Costs
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CEMENT UNDERLAYMENT                                                  |       |              |             |      |          |       |           |       |                |
+| 2510 | Underlayment, P.C. based, self-leveling, 4100 psi, pumped, 1/4" thick| C 8   | 20000        | .003        | S.F. | 2.06     | .14   | .04       | 2.24  | 2.52           |
+| 2520 | 1/2" thick                                                           |       | 19000        | .003        |      | 4.12     | .15   | .04       | 4.31  | 4.79           |
+| 2530 | 3/4" thick                                                           |       | 18000        | .003        |      | 6.20     | .16   | .04       | 6.40  | 7.10           |
+| 2540 | 1" thick                                                             |       | 17000        | .003        |      | 8.25     | .17   | .04       | 8.46  | 9.35           |
+| 2550 | 1-1/2" thick                                                         |       | 15000        | .004        |      | 12.35    | .19   | .05       | 12.59 | 13.95          |
+| 2560 | Hand placed, 1/2" thick                                              | C-18  | 450          | .020        |      | 4.12     | .92   | .26       | 5.30  | 6.20           |
+| 2610 | Topping, P.C. based, self-leveling, 6100 psi, pumped, 1/4" thick     | C-8   | 20000        | 003         |      | 2.19     | .14   | .04       | 2.37  | 2.65           |
+| 2620 | 1/2" thick                                                           |       | 19000        | .003        |      | 4.37     | .15   | .04       | 4.56  | 5.05           |
+| 2630 | 3/4" thick                                                           |       | 18000        | .003        |      | 6.55     | .16   | .04       | 6.75  | 7.50           |
+| 2660 | 1" thick                                                             |       | 17000        | .003        |      | 8.75     | .17   | .04       | 8.96  | 9.90           |
+| 2670 | 1-1/2" thick                                                         |       | 15000        | .004        |      | 13.10    | .19   | .05       | 13.34 | 14.80          |
+| 2680 | Hand placed, 1/2" thick                                              | C-18  | 450          | .020        |      | 4.37     | .92   | .26       | 5.55  | 6.45           |
+
+---
+
+## 03 62 Non-Shrink Grouting
+
+### 03 62 13 • Non-Metallic Non-Shrink Grouting  
+03 62 13.50 Grout, Non-Metallic Non-Shrink
+
+| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | GROUT, NON-METALLIC NON-SHRINK                            |       |              |             |      |          |        |           |        |                |
+| 0300 | Non-shrink, non metallic, 1" deep                         | 1 Cefi| 35           | .229        | S.F. | 7.95     | 12.15  |           | 20.10  | 26.50          |
+| 0350 | 2" deep                                                   | "     | 25           | .320        | "    | 15.95    | 17     |           | 32.95  | 42.50          |
+
+---
+
+### 03 62 16 - Metallic Non-Shrink Grouting  
+03 62 16.50 Grout, Metallic Non-Shrink
+
+| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | GROUT, METALLIC NON-SHRINK                                |       |              |             |      |          |        |           |        |                |
+| 0020 | Column & machine bases, non-shrink, metallic, " deep      | 1 Cefi| 35           | .229        | S.F. | 9.25     | 12.15  |           | 21.40  | 28             |
+| 0050 | 2" deep                                                   | 1 Cefi| 25           | .320        | S.F. | 18.45    | 17     |           | 35.45  | 45.50          |
+
+---
+
+## 03 63 Epoxy Grouting
+
+### 03 63 05 Grouting of Dowels and Fasteners  
+03 63 05.10 Epoxy Only
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | EPOXY ONLY                                                           |       |              |             |      |          |        |           |        |                |
+| 1500 | Chemical anchoring, epoxy cartridge, excludes layout, drilling, fastener |       |              |             |      |          |        |           |        |                |
+| 1530 | For fastener 3/4" diam. x 6" embedment                              | 2 Skwk| 72           | .222        | Eq.  | 4.23     | 13.10  |           | 17.33  | 24.50          |
+| 1535 | 1" diam. x 8" embedment                                              |       | 66           | .242        |      | 6.35     | 14.30  |           | 20.65  | 28.50          |
+| 1540 | 1-1/4" diam. x 10" embedment                                         |       | 60           | .267        |      | 12.70    | 15.70  |           | 28.40  | 37.50          |
+| 1545 | 1-3/4" diam. x 12" embedment                                         |       | 54           | .296        |      | 21       | 17.45  |           | 38.45  | 49.50          |
+| 1550 | 14" embedment                                                        |       | 48           | .333        |      | 25.50    | 19.65  |           | 45.15  | 57.50          |
+| 1555 | 2" diam. x 12" embedment                                             |       | 42           | .381        |      | 34       | 22.50  |           | 56.50  | 70.50          |
+| 1560 | 18" embedment                                                        |       | 32           | .500        |      | 42.50    | 29.50  |           | 72     | 90.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+
+Timestamp: 2025-05-30T22:01:00.296324
+OCR Text:
+  03 51 Cast Ro51 Decks
+03 5Cast - Gypsum ConcRoof Roof Decks
+03 5Decks50 Gypsum Roof Deck
+0010 GYPSUM ROOF DECK
+1000
+1100
+Poured
+gypsum, 2" thick
+3" thick
+Daily Labor-
+Crew Output Hours Unit Material
+2022 Bare Costs
+Labor Equipment
+Total
+Total
+Incl O&P
+C-
+  03      51      16       -     Gypsum               Concrete                Roof         Decks
+                                                                                                                                    Daily    Labor-                                      2022   Bare  Costs                                 Total
+  03    51    16.50        Gypsum          Roof       Deck                                                                Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           InclO & P
+  0010       GYPSUM         ROOF     DECK
+   1000           Poured    gypsum   ,2 " thick                                                                            C-8      6000      .009       S.F.               .75              .47              .136             1.35             1.66
+  1100                  3 " thick                                                                                           "       4800      .012                        1.13               .59              .16              1.88             2.28
+  03           52           Lightweight                                   Concrete                           Roof                Insulation
+   03     52      16      -      Lightweight                   Insulating               Concrete
+  03    52    16.13        Lightweight            Cellular        Insulating          Concrete
+  0010       LIGHTWEIGHT           CELLULAR        INSULATING         CONCRETE                        R035216-10
+  0020            Portland   cement   and   foaming   agent                                                       G        (-8       50      1.120      C.Y.           136               56                15.10           207.10           249
+  03    52    16.16        Lightweight            Aggregate             Insulating         Concrete
+  0010       LIGHTWEIGHT           AGGREGATE          INSULATING          CONCRETE                    R035216-10
+  0100            Poured   vermiculite   or perlite, field mix ,
+  0110                        1:6 field mix                                                                     55G55      (-8       50      1.120      C.Y.          330                56               15.10            401.10           465
+  0200    :             Ready   mix , 1 6  mix , roof fil, 2"  thick                                              G                10000      .006       S.F.             1.84               .28              .08             2.20              2.53
+  0250                       3 " thick                                                                            G                7700.007                               2.77               .36              .10             3.23              3.69
+  0400            Expanded    volcanic  glass  rock , 1 " thick                                                   G      2  Carp    1500      .011                          .62              .60                               1.22             1.57
+  0450                  3"  thick                                                                                 G         "       1200      .013                        1.85               .75                              2.60              3.15
+  03           53           Concrete                            Topping
+   03     53      16            Iron       -Aggregate                  Concrete               Topping
+  03    53    16.50        Floor     Topping
+  0010       FLOOR      TOPPING
+  0400     :      Integral  topping  / finish, on fresh  concrete  ,using   1:1 2  mix  ,3/16   " thick                  C- 10B     1000      .040      S.F.               .13             1.94               .333            2.38              3.36
+  0450                       1/2  "  thick                                                                                          950       .042                          .34            2.05               .33             2.72              3.76
+  0500                       3/4  "  thick                                                                                          850       .047                                         2.29                               3.17              4.35
+  0600                        1" thick                                                                                           |  750       .053             I           .68             2.591              .42             3.69              5.05
+  0800            Granolithic   topping , on  fresh or  cured  concrete , 1 :1:1-1 / 2  mix , 1/2  " thick             [ C -10B     590       068        S.F   |           .38             3.30               .53             4.21              5.90
+  0820                       3/4  "  thick                                                                              ]   ]    |  580.069               |   ]            .57             3.35               .54             4.46              6.20
+  0850                        1" thick                                                                                              575       .070                         .77             3.38               .55             4.701             6.45
+  0950                       2 " thick                                                                                              500       .080                        1.53             3.89               .63             6.05              8.10
+  1200    :             Heavy   duty , 1: 1:2 ,3/4  "  thick, preshrunk   ,gray , 20  M.S.F.                                        320       .125                         .91             6.10               .98             7.99            11.10
+   1300                            100   M.S.F.                                                                                     380       .105                         .51             5.10               .83             6.44             9
+  03           54           Cast              Underlayment
+  03      54      13      -     Gypsum                Cement              Underlayment
+  03    54    13.50        Poured         Gypsum          Underlayment
+  0010       POURED        GYPSUM        UNDERLAYMENT
+  0400             Underlayment    ,gypsum    based  , self-leveling 2500    psi, pumped   , 1/2  " thick                  C-8    24000       .002      S.F                .19              .12              .03                .34              .41
+  0500                       3/4  "  thick                                                                                        20000      .003                          .28              .14               .04               .46              .56
+  0600                        1"  thick                                                                                            16000      .004                         .38              .18               .05               .61              .72
+   1400                 Hand   placed , 1/2   " thick                                                                     C-18      450       .020                         .19              .92               .26             1.37              1.86
+   1500                      3/4  "  thick                                                                                  "    |  300    | .030                          .28             1.37               .40             2.05             2.80
+                                             customer         support        on   your     Building        Construction           Costs      with     RSMeans          data   , call    800.448.8182         .                                    91
+                                      For
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+  03 51 Cast Ro51 Decks
+03 5Cast - Gypsum ConcRoof Roof Decks
+03 5Decks50 Gypsum Roof Deck
+0010 GYPSUM ROOF DECK
+1000
+1100
+Poured
+gypsum, 2" thick
+3" thick
+Daily Labor-
+Crew Output Hours Unit Material
+2022 Bare Costs
+Labor Equipment
+Total
+Total
+Incl O&P
+C-
+  03      51      16       -     Gypsum               Concrete                Roof         Decks
+                                                                                                                                    Daily    Labor-                                      2022   Bare  Costs                                 Total
+  03    51    16.50        Gypsum          Roof       Deck                                                                Crew     Output     Hours     Unit        Material          Labor          Equipment            Total           InclO & P
+  0010       GYPSUM         ROOF     DECK
+   1000           Poured    gypsum   ,2 " thick                                                                            C-8      6000      .009       S.F.               .75              .47              .136             1.35             1.66
+  1100                  3 " thick                                                                                           "       4800      .012                        1.13               .59              .16              1.88             2.28
+  03           52           Lightweight                                   Concrete                           Roof                Insulation
+   03     52      16      -      Lightweight                   Insulating               Concrete
+  03    52    16.13        Lightweight            Cellular        Insulating          Concrete
+  0010       LIGHTWEIGHT           CELLULAR        INSULATING         CONCRETE                        R035216-10
+  0020            Portland   cement   and   foaming   agent                                                       G        (-8       50      1.120      C.Y.           136               56                15.10           207.10           249
+  03    52    16.16        Lightweight            Aggregate             Insulating         Concrete
+  0010       LIGHTWEIGHT           AGGREGATE          INSULATING          CONCRETE                    R035216-10
+  0100            Poured   vermiculite   or perlite, field mix ,
+  0110                        1:6 field mix                                                                     55G55      (-8       50      1.120      C.Y.          330                56               15.10            401.10           465
+  0200    :             Ready   mix , 1 6  mix , roof fil, 2"  thick                                              G                10000      .006       S.F.             1.84               .28              .08             2.20              2.53
+  0250                       3 " thick                                                                            G                7700.007                               2.77               .36              .10             3.23              3.69
+  0400            Expanded    volcanic  glass  rock , 1 " thick                                                   G      2  Carp    1500      .011                          .62              .60                               1.22             1.57
+  0450                  3"  thick                                                                                 G         "       1200      .013                        1.85               .75                              2.60              3.15
+  03           53           Concrete                            Topping
+   03     53      16            Iron       -Aggregate                  Concrete               Topping
+  03    53    16.50        Floor     Topping
+  0010       FLOOR      TOPPING
+  0400     :      Integral  topping  / finish, on fresh  concrete  ,using   1:1 2  mix  ,3/16   " thick                  C- 10B     1000      .040      S.F.               .13             1.94               .333            2.38              3.36
+  0450                       1/2  "  thick                                                                                          950       .042                          .34            2.05               .33             2.72              3.76
+  0500                       3/4  "  thick                                                                                          850       .047                                         2.29                               3.17              4.35
+  0600                        1" thick                                                                                           |  750       .053             I           .68             2.591              .42             3.69              5.05
+  0800            Granolithic   topping , on  fresh or  cured  concrete , 1 :1:1-1 / 2  mix , 1/2  " thick             [ C -10B     590       068        S.F   |           .38             3.30               .53             4.21              5.90
+  0820                       3/4  "  thick                                                                              ]   ]    |  580.069               |   ]            .57             3.35               .54             4.46              6.20
+  0850                        1" thick                                                                                              575       .070                         .77             3.38               .55             4.701             6.45
+  0950                       2 " thick                                                                                              500       .080                        1.53             3.89               .63             6.05              8.10
+  1200    :             Heavy   duty , 1: 1:2 ,3/4  "  thick, preshrunk   ,gray , 20  M.S.F.                                        320       .125                         .91             6.10               .98             7.99            11.10
+   1300                            100   M.S.F.                                                                                     380       .105                         .51             5.10               .83             6.44             9
+  03           54           Cast              Underlayment
+  03      54      13      -     Gypsum                Cement              Underlayment
+  03    54    13.50        Poured         Gypsum          Underlayment
+  0010       POURED        GYPSUM        UNDERLAYMENT
+  0400             Underlayment    ,gypsum    based  , self-leveling 2500    psi, pumped   , 1/2  " thick                  C-8    24000       .002      S.F                .19              .12              .03                .34              .41
+  0500                       3/4  "  thick                                                                                        20000      .003                          .28              .14               .04               .46              .56
+  0600                        1"  thick                                                                                            16000      .004                         .38              .18               .05               .61              .72
+   1400                 Hand   placed , 1/2   " thick                                                                     C-18      450       .020                         .19              .92               .26             1.37              1.86
+   1500                      3/4  "  thick                                                                                  "    |  300    | .030                          .28             1.37               .40             2.05             2.80
+                                             customer         support        on   your     Building        Construction           Costs      with     RSMeans          data   , call    800.448.8182         .                                    91
+                                      For
+
+
+GPT Markdown Output:
+# 03 51 Cast Ro51 Decks
+
+03 5Cast - Gypsum ConcRoof Roof Decks  
+03 5Decks50 Gypsum Roof Deck
+
+## 0010 GYPSUM ROOF DECK
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 51 16 - Gypsum Concrete Roof Decks     |      |             |             |      |          |       |           |       |                |
+| 03    | 51 16.50 Gypsum Roof Deck              |      |             |             |      |          |       |           |       |                |
+| 0010  | GYPSUM ROOF DECK                       |      |             |             |      |          |       |           |       |                |
+| 1000  | Poured gypsum, 2" thick                | C-8  | 6000        | .009        | S.F. | .75      | .47   | .136      | 1.35  | 1.66           |
+| 1100  | 3" thick                               | "    | 4800        | .012        |      | 1.13     | .59   | .16       | 1.88  | 2.28           |
+
+---
+
+# 03 52 Lightweight Concrete Roof Insulation
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 52 16 - Lightweight Insulating Concrete|      |             |             |      |          |       |           |       |                |
+| 03    | 52 16.13 Lightweight Cellular Insulating Concrete |      |             |             |      |          |       |           |       |                |
+| 0010  | LIGHTWEIGHT CELLULAR INSULATING CONCRETE R035216-10 |      |             |             |      |          |       |           |       |                |
+| 0020  | Portland cement and foaming agent      | G (-8| 50          | 1.120       | C.Y. | 136      | 56    | 15.10     | 207.10| 249            |
+| 03    | 52 16.16 Lightweight Aggregate Insulating Concrete |      |             |             |      |          |       |           |       |                |
+| 0010  | LIGHTWEIGHT AGGREGATE INSULATING CONCRETE R035216-10 |      |             |             |      |          |       |           |       |                |
+| 0100  | Poured vermiculite or perlite, field mix, |      |             |             |      |          |       |           |       |                |
+| 0110  | 1:6 field mix                          | 55G55 (-8| 50     | 1.120       | C.Y. | 330      | 56    | 15.10     | 401.10| 465            |
+| 0200  | Ready mix, 1 6 mix, roof fil, 2" thick | G    | 10000       | .006        | S.F. | 1.84     | .28   | .08       | 2.20  | 2.53           |
+| 0250  | 3" thick                               | G    | 7700        | .007        |      | 2.77     | .36   | .10       | 3.23  | 3.69           |
+| 0400  | Expanded volcanic glass rock, 1" thick | G 2 Carp | 1500   | .011        |      | .62      | .60   |           | 1.22  | 1.57           |
+| 0450  | 3" thick                               | G "  | 1200        | .013        |      | 1.85     | .75   |           | 2.60  | 3.15           |
+
+---
+
+# 03 53 Concrete Topping
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 53 16 Iron-Aggregate Concrete Topping  |      |             |             |      |          |       |           |       |                |
+| 03    | 53 16.50 Floor Topping                 |      |             |             |      |          |       |           |       |                |
+| 0010  | FLOOR TOPPING                          |      |             |             |      |          |       |           |       |                |
+| 0400  | Integral topping / finish, on fresh concrete, using 1:1 2 mix, 3/16" thick | C-10B | 1000 | .040 | S.F. | .13 | 1.94 | .333 | 2.38 | 3.36 |
+| 0450  | 1/2" thick                             |      | 950         | .042        |      | .34      | 2.05  | .33       | 2.72  | 3.76           |
+| 0500  | 3/4" thick                             |      | 850         | .047        |      |          | 2.29  |           | 3.17  | 4.35           |
+| 0600  | 1" thick                               |      | 750         | .053        |      | .68      | 2.591 | .42       | 3.69  | 5.05           |
+| 0800  | Granolithic topping, on fresh or cured concrete, 1:1:1-1/2 mix, 1/2" thick | [C-10B| 590 | .068 | S.F. | .38 | 3.30 | .53 | 4.21 | 5.90 |
+| 0820  | 3/4" thick                             | ] ]  | 580         | .069        |      | .57      | 3.35  | .54       | 4.46  | 6.20           |
+| 0850  | 1" thick                               |      | 575         | .070        |      | .77      | 3.38  | .55       | 4.701 | 6.45           |
+| 0950  | 2" thick                               |      | 500         | .080        |      | 1.53     | 3.89  | .63       | 6.05  | 8.10           |
+| 1200  | Heavy duty, 1:1:2, 3/4" thick, preshrunk, gray, 20 M.S.F. |      | 320 | .125 |      | .91 | 6.10 | .98 | 7.99 | 11.10 |
+| 1300  | 100 M.S.F.                             |      | 380         | .105        |      | .51      | 5.10  | .83       | 6.44  | 9              |
+
+---
+
+# 03 54 Cast Underlayment
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 54 13 - Gypsum Cement Underlayment     |      |             |             |      |          |       |           |       |                |
+| 03    | 54 13.50 Poured Gypsum Underlayment    |      |             |             |      |          |       |           |       |                |
+| 0010  | POURED GYPSUM UNDERLAYMENT             |      |             |             |      |          |       |           |       |                |
+| 0400  | Underlayment, gypsum based, self-leveling 2500 psi, pumped, 1/2" thick | C-8 | 24000 | .002 | S.F | .19 | .12 | .03 | .34 | .41 |
+| 0500  | 3/4" thick                             |      | 20000       | .003        |      | .28      | .14   | .04       | .46   | .56            |
+| 0600  | 1" thick                               |      | 16000       | .004        |      | .38      | .18   | .05       | .61   | .72            |
+| 1400  | Hand placed, 1/2" thick                | C-18 | 450         | .020        |      | .19      | .92   | .26       | 1.37  | 1.86           |
+| 1500  | 3/4" thick                             | "    | 300         | .030        |      | .28      | 1.37  | .40       | 2.05  | 2.80           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+============================================================
+

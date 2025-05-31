@@ -111,7 +111,7 @@ def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=300
     """
     Convert OCR lines to markdown format using ChatGPT, with token-per-minute rate limiting and retry on rate limit errors.
     """
-    max_retries = 3
+    max_retries = 10
     for attempt in range(max_retries):
         try:
             # Calculate the minimum interval between calls to stay under the TPM limit
@@ -168,7 +168,7 @@ def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=300
             return markdown_text
         except openai.RateLimitError as e:
             print(f"OpenAI rate limit error: {e}. Waiting 2 seconds before retrying ({attempt+1}/{max_retries})...")
-            time.sleep(10)
+            time.sleep(2)
         except Exception as e:
             # For other errors, raise immediately
             raise
