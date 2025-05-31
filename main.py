@@ -109,60 +109,70 @@ def calculate_patches(image_file_path):
 
 def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=30000, tokens_per_call=14000, last_call_time=[0], calls_this_minute=[0]):
     """
-    Convert OCR lines to markdown format using ChatGPT, with token-per-minute rate limiting.
+    Convert OCR lines to markdown format using ChatGPT, with token-per-minute rate limiting and retry on rate limit errors.
     """
-    # Calculate the minimum interval between calls to stay under the TPM limit
-    min_interval = 60 * tokens_per_call / rate_limit_tpm  # seconds
-    now = time.time()
-    # Enforce rate limit
-    elapsed = now - last_call_time[0]
-    if elapsed < min_interval:
-        time.sleep(min_interval - elapsed)
-    last_call_time[0] = time.time()
-    # Convert lines to string
-    ocr_text = "\n".join(ocr_lines)
-    prompt = (
-        "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
-        "Only use the provided OCR text. "
-        "Add headers, line breaks, and other markdown formatting as needed. "
-        "Remove any unnecessary spaces"
-        "If the OCR text is unclear, leave it as is. "
-        "Do not add, guess, or hallucinate any information. "
-        "Determine if a table is present in the text. "
-        "If a table is present, arrange the text into a markdown table, otherwise, return the text as is. "
-        "- If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
-        "- Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
-        "- The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. "
-        "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
-        "OCR Text:\n"
-        f"{ocr_text}\n\n"
-    )
-    response = client.chat.completions.create(
-        model=GPT_MODEL,
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": prompt},
-                ]
-            }
-        ],
-        temperature=0,
-    )
-    markdown_text = response.choices[0].message.content.strip()
-    # Logging
-    if log_dir is not None:
-        log_file_path = os.path.join(log_dir, "conversion_log.txt")
-        with open(log_file_path, 'a', encoding='utf-8') as log_file:
-            log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
-            log_file.write("OCR Text:\n")
-            log_file.write(ocr_text + "\n")
-            log_file.write("Prompt:\n")
-            log_file.write(prompt + "\n")
-            log_file.write("GPT Markdown Output:\n")
-            log_file.write(markdown_text + "\n")
-            log_file.write("="*60 + "\n\n")
-    return markdown_text
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            # Calculate the minimum interval between calls to stay under the TPM limit
+            min_interval = 60 * tokens_per_call / rate_limit_tpm  # seconds
+            now = time.time()
+            # Enforce rate limit
+            elapsed = now - last_call_time[0]
+            if elapsed < min_interval:
+                time.sleep(min_interval - elapsed)
+            last_call_time[0] = time.time()
+            # Convert lines to string
+            ocr_text = "\n".join(ocr_lines)
+            prompt = (
+                "Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. "
+                "Only use the provided OCR text. "
+                "Add headers, line breaks, and other markdown formatting as needed. "
+                "Remove any unnecessary spaces"
+                "If the OCR text is unclear, leave it as is. "
+                "Do not add, guess, or hallucinate any information. "
+                "Determine if a table is present in the text. "
+                "If a table is present, arrange the text into a markdown table, otherwise, return the text as is. "
+                "- If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). "
+                "- Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. "
+                "- The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. "
+                "Provide only the markdown output, without any extra commentary or code blocks.\n\n"
+                "OCR Text:\n"
+                f"{ocr_text}\n\n"
+            )
+            response = client.chat.completions.create(
+                model=GPT_MODEL,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {"type": "text", "text": prompt},
+                        ]
+                    }
+                ],
+                temperature=0,
+            )
+            markdown_text = response.choices[0].message.content.strip()
+            # Logging
+            if log_dir is not None:
+                log_file_path = os.path.join(log_dir, "conversion_log.txt")
+                with open(log_file_path, 'a', encoding='utf-8') as log_file:
+                    log_file.write(f"Timestamp: {datetime.datetime.now().isoformat()}\n")
+                    log_file.write("OCR Text:\n")
+                    log_file.write(ocr_text + "\n")
+                    log_file.write("Prompt:\n")
+                    log_file.write(prompt + "\n")
+                    log_file.write("GPT Markdown Output:\n")
+                    log_file.write(markdown_text + "\n")
+                    log_file.write("="*60 + "\n\n")
+            return markdown_text
+        except openai.RateLimitError as e:
+            print(f"OpenAI rate limit error: {e}. Waiting 2 seconds before retrying ({attempt+1}/{max_retries})...")
+            time.sleep(2)
+        except Exception as e:
+            # For other errors, raise immediately
+            raise
+    raise RuntimeError("Failed to convert OCR lines to markdown due to repeated rate limit errors.")
 
 def process_vertices_list(vertices_list):
     """

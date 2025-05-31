@@ -5499,3 +5499,49 @@ Total
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182
 ============================================================
 
+Timestamp: 2025-05-30T21:55:34.615050
+OCR Text:
+                        Division Notes
+DAILY LABOR-
+CREWNotesUT HOURS UNIT
+BARE COSTS
+TOTAL
+MAT.
+LABOR
+EQUIP.
+TOTAL
+INCL O&P
+                                                                                                                                                    LABOR-                                          BARE   COSTS                                    TOTAL
+                                                                                                                                           DAILY
+                                                                                                                                                                                                                                 TOTAL            INCL   O& P
+                                                                                                                                CREW     OUTPUT     HOURS       UNIT                           LABOR            EQUIP .
+                                                                                                                                                                              MAT  .
+Prompt:
+Your task is to arrange the provided OCR text into markdown format, preserving any tables or structure. Only use the provided OCR text. Add headers, line breaks, and other markdown formatting as needed. Remove any unnecessary spacesIf the OCR text is unclear, leave it as is. Do not add, guess, or hallucinate any information. Determine if a table is present in the text. If a table is present, arrange the text into a markdown table, otherwise, return the text as is. - If a table contains blank or empty cells, preserve them as blank in the markdown table (do not fill or merge them). - Keep the table structure and number of columns/rows as in the original text, even if some cells are empty. - The table columns are: ID, Name, Crew, Daily Output, Labor-Hours, Unit, Material, Labor, Equipment, Total, Total Incl O&P. Provide only the markdown output, without any extra commentary or code blocks.
+
+OCR Text:
+                        Division Notes
+DAILY LABOR-
+CREWNotesUT HOURS UNIT
+BARE COSTS
+TOTAL
+MAT.
+LABOR
+EQUIP.
+TOTAL
+INCL O&P
+                                                                                                                                                    LABOR-                                          BARE   COSTS                                    TOTAL
+                                                                                                                                           DAILY
+                                                                                                                                                                                                                                 TOTAL            INCL   O& P
+                                                                                                                                CREW     OUTPUT     HOURS       UNIT                           LABOR            EQUIP .
+                                                                                                                                                                              MAT  .
+
+
+GPT Markdown Output:
+# Division Notes
+
+| ID | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|----|------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+|    |      |      |              |             |      |          |       |           |       |                |
+============================================================
+
