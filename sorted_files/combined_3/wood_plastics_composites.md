@@ -901,6 +901,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 06 05 23.80 Metal Bracing
 
+| ID     | Name                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010  | METAL BRACING                                                        |         |              |             |      |          |       |           |        |                |
 | 302   | Let in, "T" shaped, 22 ga. galv. steel, studs at 16" OC              | 1 Corp  | 580          | .014        | LF   | 1.26     | .78   |           | 2.04   | 2.5            |
@@ -953,19 +954,19 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 06 11 10.06 Bridging
 
-| ID     | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|--------|-------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010   | BRIDGING                                  |      |             |             |      |          |       |           |       |                |
-| 0012   | Wood, for joists 16" OC, 1" x 3"          | 1 Carp | 130        | .062        | Pr.1 | .76      | 3.46  |           | 4.22  | 6              |
-| 0017   | Pneumatic nailed                          |      | 170         | .047        |      | .83      | 2.65  |           | 3.48  | 4.85           |
-| 0102   | 2" x 3" bridging                          |      | 130         | .062        |      | ཆ        | 3.46  |           | 4.27  | 6.05           |
-| 0107   | Pneumatic nailed                          |      | 170         | .047        | 1    | ཚ.82     | 2.65  |           | 3.47  | 4.84           |
-| 03021  | Steel, galvanized, 18 ga, for 2" x 10" joists at 12" OC | | 130 | .062 | | ཙྭ04 | 3.46 | | 5.50 | 7.40 |
-| 0352   | 16" OC                                    |      | 135         | .059        |      | .02      | 3.34  |           | 3.361 | 4.99           |
-| 0402   | 24" OC                                    |      | 140         | .057        |      | 3.14     | 3.22  |           | 6.361 | 8.25           |
-| 0602   | For 2" x 14" joists at 16" OC             |      | 130         | .062        |      | དྲ71     | 3.46  |           | 6.17  | 8.15           |
-| 0902   | Compression type, 16" OC, 2" x 8" joists  |      | 200         | .040        |      | 1.61     | 2.25  |           | 3.86  | 5.10           |
-| 1002   | 2" x 12" joists                           |      | 200         | .040        |      | ཤྲུ4    | 2.25  |           | 4.39  | 5.70           |
+| ID    | Name                                               | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | BRIDGING                                           |        |             |             |      |          |       |           |       |                |
+| 0012  | Wood, for joists 16" OC, 1" x 3"                   | 1 Carp | 130         | .062        | Pr.1 | .76      | 3.46  |           | 4.22  | 6              |
+| 0017  | Pneumatic nailed                                   |        | 170         | .047        |      | .83      | 2.65  |           | 3.48  | 4.85           |
+| 0102  | 2" x 3" bridging                                   |        | 130         | .062        |      | .82      | 3.46  |           | 4.27  | 6.05           |
+| 0107  | Pneumatic nailed                                   |        | 170         | .047        | 1    | .82      | 2.65  |           | 3.47  | 4.84           |
+| 03021 | Steel, galvanized, 18 ga, for 2" x 10" joists at 12" OC |    | 130         | .062        |      | .04      | 3.46  |           | 5.50  | 7.40           |
+| 0352  | 16" OC                                             |        | 135         | .059        |      | .02      | 3.34  |           | 3.36  | 4.99           |
+| 0402  | 24" OC                                             |        | 140         | .057        |      | 3.14     | 3.22  |           | 6.36  | 8.25           |
+| 0602  | For 2" x 14" joists at 16" OC                      |        | 130         | .062        |      | .71      | 3.46  |           | 6.17  | 8.15           |
+| 0902  | Compression type, 16" OC, 2" x 8" joists           |        | 200         | .040        |      | 1.61     | 2.25  |           | 3.86  | 5.10           |
+| 1002  | 2" x 12" joists                                    |        | 200         | .040        |      | .44      | 2.25  |           | 4.39  | 5.70           |
 
 ---
 
@@ -1056,36 +1057,36 @@ For customer support on your Building
 
 ### 06 11 10.18 Joist Framing
 
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 2650 | Joists, 2" x 4"             | 2 Carp  | .83          | 19.277      | M.B.F. | 985      | 1,075 |           | 2,060 | 2,7            |
-| 2655 | Pneumatic nailed            |         | .96          | 16.667      | .      | 990      | 940   |           | 1,930 | 2,50           |
-| 2680 | 2" x 6"                     |         | 1.25         | 12.800      |        | 970      | 720   |           | 1,690 | 2,1            |
-| 2685 | Pneumatic nailed            |         | 1.44         | 11.111      | I      | 975      | 625   |           | 1,600 | 2,00           |
-| 2700 | 2" x 8"                     |         | 1.46         | 10.959      |        | 1,075    | 615   |           | 1,690 | 2,10           |
-| 2705 | Pneumatic nailed            |         | 1.68         | 9.524       |        | 1,075    | 535   |           | 1,610 | 2,00           |
-| 2720 | 2" x 10"                    |         | 1.49         | 10.738      |        | 1,200    | 605   |           | 1,805 | 2,20           |
-| 2725 | Pneumatic nailed            |         | 1.71         | 9.357       |        | 1,200    | 525   |           | 1,725 | 2,10           |
-| 2740 | 2" x 12"                    |         | 1.75         | 9.143       |        | 1,375    | 515   |           | 1,890 | 2,30           |
-| 2745 | Pneumatic nailed            |         | 2.01         | 7.960       |        | 1,400    | 450   |           | 1,850 | 2,20           |
-| 2760 | 2" x 14"                    |         | 1.79         | 8.939       |        | 2,275    | 505   |           | 2,780 | 3,25           |
-| 2765 | Pneumatic nailed            |         | 2.06         | 7.767       |        | 2,275    | 435   |           | 2,710 | 3,14           |
-| 2780 | 3" x 6"                     |         | 1.39         | 11.511      | [      | 2,775    | 650   |           | 3,425 | 4,05           |
-| 2790 | 3" x 8"                     |         | 1.90         | 8.421       |        | 2,775    | 475   |           | 3,250 | 3,75           |
-| 2800 | 3" x 10"                    |         | 1.95         | 8.205       | |      | 2,725    | 460   |           | 3,185 | 3,70           |
-| 2820 | 3" x 12"                    |         | 1.80         | 8.889       |        | 2,725    | 500   |           | 3,225 | 3,74           |
-| 2840 | 4" x 6"                     |         | 1.60         | 10          |        | 2,075    | 565   |           | 2,640 | 3,12           |
-| 2860 | 4" x 10"                    |         | 2            | 8           |        | 2,100    | 450   |           | 2,550 | 3,00           |
-| 2880 | 4" x 12"                    |         | 1.80         | 8.889       |        | 2,175    | -500  |           | 2,675 | 3,12           |
-| 3000 | Composite wood joist 9-1/2" deep |     | .90          | 17.778      | M.L.F. | 4,250    | 1,000 |           | 5,250 | 6,17           |
+| ID    | Name                        | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|-----------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 2650  | Joists, 2" x 4"             | 2 Carp  | .83          | 19.277      | M.B.F. | 985      | 1,075 |           | 2,060  | 2,700          |
+| 2655  | Pneumatic nailed            |         | .96          | 16.667      |        | 990      | 940   |           | 1,930  | 2,500          |
+| 2680  | 2" x 6"                     |         | 1.25         | 12.800      |        | 970      | 720   |           | 1,690  | 2,100          |
+| 2685  | Pneumatic nailed            |         | 1.44         | 11.111      |        | 975      | 625   |           | 1,600  | 2,000          |
+| 2700  | 2" x 8"                     |         | 1.46         | 10.959      |        | 1,075    | 615   |           | 1,690  | 2,100          |
+| 2705  | Pneumatic nailed            |         | 1.68         | 9.524       |        | 1,075    | 535   |           | 1,610  | 2,000          |
+| 2720  | 2" x 10"                    |         | 1.49         | 10.738      |        | 1,200    | 605   |           | 1,805  | 2,200          |
+| 2725  | Pneumatic nailed            |         | 1.71         | 9.357       |        | 1,200    | 525   |           | 1,725  | 2,100          |
+| 2740  | 2" x 12"                    |         | 1.75         | 9.143       |        | 1,375    | 515   |           | 1,890  | 2,300          |
+| 2745  | Pneumatic nailed            |         | 2.01         | 7.960       |        | 1,400    | 450   |           | 1,850  | 2,200          |
+| 2760  | 2" x 14"                    |         | 1.79         | 8.939       |        | 2,275    | 505   |           | 2,780  | 3,250          |
+| 2765  | Pneumatic nailed            |         | 2.06         | 7.767       |        | 2,275    | 435   |           | 2,710  | 3,140          |
+| 2780  | 3" x 6"                     |         | 1.39         | 11.511      |        | 2,775    | 650   |           | 3,425  | 4,050          |
+| 2790  | 3" x 8"                     |         | 1.90         | 8.421       |        | 2,775    | 475   |           | 3,250  | 3,750          |
+| 2800  | 3" x 10"                    |         | 1.95         | 8.205       |        | 2,725    | 460   |           | 3,185  | 3,700          |
+| 2820  | 3" x 12"                    |         | 1.80         | 8.889       |        | 2,725    | 500   |           | 3,225  | 3,740          |
+| 2840  | 4" x 6"                     |         | 1.60         | 10          |        | 2,075    | 565   |           | 2,640  | 3,120          |
+| 2860  | 4" x 10"                    |         | 2.00         | 8           |        | 2,100    | 450   |           | 2,550  | 3,000          |
+| 2880  | 4" x 12"                    |         | 1.80         | 8.889       |        | 2,175    | 500   |           | 2,675  | 3,120          |
+| 3000  | Composite wood joist 9-1/2" deep |     | .90          | 17.778      | M.L.F. | 4,250    | 1,000 |           | 5,250  | 6,170          |
 
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
-
+# 06 11 Wood Framing
 # 06 11 Wood Framing
 
-## 06 11 1 Wood Framing with Dimensional, Engineered or Composite Lumber
+## 06 11 10.18 Joist Framing
 
 | ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|---------------|
@@ -1225,8 +1226,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 06 11 Wood Framing
 
-06 11 Wood Framing with Dimensional, Engineered or Composite Lumber  
-06 11 10.28 Porch or Deck Framing
+## 06 11 Wood Framing with Dimensional, Engineered or Composite Lumber  
+## 06 11 10.28 Porch or Deck Framing
 
 ## Table
 
@@ -1288,7 +1289,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 06061 Wood Framing
+# 06 11 10 Wood Framing
 
 ## 06 11 10 Wood Framing with Dimensional, Engineered or Composite Lumber
 
@@ -1369,26 +1370,27 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 06 11 10 - Framing with Dimensional, Engineered or Composite Lumber
 
+## 06 11 10.32 Sill and Ledger Framing        
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 06 11 10.32 | Sill and Ledger Framing             |         |              |             |        |          |       |           |       |                |
 | 4700  | 4" x 4"                                  | 2 Carp  | .60          | 26.667      | M.B.F. | 1,200    | 1,500 |           | 2,700 | 3,550          |
 | 4720  | 4" x 6"                                  |         | .70          | 22.857      |        | 1,400    | 1,275 |           | 2,675 | 3,450          |
 | 4740  | 4" x 8"                                  |         | .80          | 20          |        | 2,500    | 1,125 |           | 3,625 | 4,425          |
 | 4760  | 4" x 10"                                 |         | .87          | 18.391      |        | 2,325    | 1,025 |           | 3,350 | 4,100          |
 
+## 06 11 10.34 Sleepers
+
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 06 11 10.34 | Sleepers                            |         |              |             |        |          |       |           |       |                |
 | 0010  | SLEEPERS                                 |         |              |             |        |          |       |           |       |                |
 | 0300  | On concrete, treated, 1" x 2"            | 2 Carp  | .39          | 41.026      | M.B.F. | 2,800    | 2,300 |           | 5,100 | 6,525          |
 | 0320  | 1" x 3"                                  |         | .50          | 32          |        | 1,925    | 1,800 |           | 3,725 | 4,775          |
 | 0340  | 2" x 4"                                  |         | .99          | 16.162      |        | 1,475    | 910   |           | 2,385 | 2,975          |
 | 0360  | 2" x 6"                                  |         | 1.30         | 12.308      |        | 1,400    | 695   |           | 2,095 | 2,550          |
 
+## 06 11 10.36 Soffit and Canopy Framing      
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 06 11 10.36 | Soffit and Canopy Framing           |         |              |             |        |          |       |           |       |                |
 | 0010  | SOFFIT AND CANOPY FRAMING                |         |              |             |        |          |       |           |       |                |
 | 1300  | Canopy or soffit framing, 1" x 4"         | 2 Carp  | .30          | 53.333      | M.B.F. | 1,875    | 3,000 |           | 4,875 | 6,550          |
 | 1340  | 1" x 8"                                  |         | .50          | 32          |        | 2,025    | 1,800 |           | 3,825 | 4,925          |
@@ -1397,9 +1399,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1420  | 3" x 4"                                  |         | .50          | 32          |        | 2,325    | 1,800 |           | 4,125 | 5,225          |
 | 1460  | 3" x 8"                                  |         | .60          | 26.667      |        | 2,775    | 1,500 |           | 4,275 | 5,275          |
 
+## 06 11 10.38 Treated Lumber Framing Material
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 06 11 10.38 | Treated Lumber Framing Material     |         |              |             |        |          |       |           |       |                |
 | 0010  | TREATED LUMBER FRAMING MATERIAL           |         |              |             |        |          |       |           |       |                |
 | 0100  | 2" x 4"                                  |         |              |             | M.B.F. | 1,275    |       |           | 1,275 | 1,400          |
 | 0110  | 2" x 6"                                  |         |              |             |        | 1,200    |       |           | 1,200 | 1,300          |
@@ -1410,9 +1412,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0210  | 4" x 6"                                  |         |              |             |        | 1,400    |       |           | 1,400 | 1,525          |
 | 0220  | 4" x 8"                                  |         |              |             |        | 2,500    |       |           | 2,500 | 2,750          |
 
+## 06 11 10.40 Wall Framing                   
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 06 11 10.40 | Wall Framing                        |         |              |             |        |          |       |           |       |                |
 | 0010  | WALL FRAMING                              |         |              |             |        |          |       |           |       |                |
 | 5860  | Headers over openings, 2" x 6"            | 2 Carp  | .36          | 44.444      | M.B.F. | 970      | 2,500 |           | 3,470 | 4,800          |
 | 5865  | 2" x 6", pneumatic nailed                 |         | .43          | 37.209      |        | 975      | 2,100 |           | 3,075 | 4,200          |
@@ -1513,15 +1515,15 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## OSB Faced Panels
 
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0250 | 5-5/8" thick        | F-3  | 1725        | .023        | S.F. | 5.70     | 1.34  | 1.15      | 8.19  | 9.50           |
-| 0260 | 7-3/8" thick        |      | 1425        | .028        |      | 5.80     | 1.62  | 1.39      | 8.81  | 10.35          |
-| 0270 | 9-3/8" thick        |      | 1125        | .036        |      | 5.65     | 2.05  | 1.76      | 9.46  | 11.20          |
-| 10300| For 1/2" GWB added to OSB skin, add | | | | | 1.60 | | | 1.60 | 1.76 |
-| 0310 | For 1/2" MRGWB added to OSB skin, add | | | | | 1.77 | | | 1.77 | 1.95 |
-| 0320 | For one T1-11 skin, add to OSB OSB | | | | | 2.09 | | | 2.09 | 2.30 |
-| 0330 | For one 19/32" CDX skin, add to OSB-OSB | | | | | 1.72 | | | 1.72 | 1.89 |
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0250  | 5-5/8" thick                                 | F-3  | 1725        | .023        | S.F. | 5.70     | 1.34  | 1.15      | 8.19  | 9.50           |
+| 0260  | 7-3/8" thick                                 |      | 1425        | .028        |      | 5.80     | 1.62  | 1.39      | 8.81  | 10.35          |
+| 0270  | 9-3/8" thick                                 |      | 1125        | .036        |      | 5.65     | 2.05  | 1.76      | 9.46  | 11.20          |
+| 10300 | For 1/2" GWB added to OSB skin, add          |      |             |             |      | 1.60     |       |           | 1.60  | 1.76           |
+| 0310  | For 1/2" MRGWB added to OSB skin, add        |      |             |             |      | 1.77     |       |           | 1.77  | 1.95           |
+| 0320  | For one T1-11 skin, add to OSB-OSB           |      |             |             |      | 2.09     |       |           | 2.09  | 2.30           |
+| 0330  | For one 19/32" CDX skin, add to OSB-OSB      |      |             |             |      | 1.72     |       |           | 1.72  | 1.89           |
 
 ## Structural Insulated Panel, 7/16" OSB both sides, straw core
 
@@ -1538,30 +1540,30 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## Steel and Wood Composite Shearwall Panels
 
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | STEEL & WOOD COMPOSITE SHEARWALL PANELS | | | | | | | | | |
-| 0020 | Anchor bolts, 36" long (must be placed in wet concrete) | 1 Carp | 150 | .053 | Ea. | 51.50 | 3 | | 54.50 | 61 |
-| 0030 | On concrete, 2" x 4" & 2" x 6" walls, 7'-10' high, 360 lb.shear, 12" wide | 2 Carp | 8 | 222 | | 630 | 113 | | 743 | 865 |
-| 0040 | 715 lb. shear, 15" wide | C8 | | | | 785 | 113 | | 898 | 1,025 |
-| 0050 | 1860 lb.shear, 18" wide | 888 | | | | 860 | 113 | | 973 | 1,125 |
-| 0060 | 2780 lb.shear, 21" wide | 2 | | | | 945 | 113 | | 1,058 | 1,200 |
-| 0070 | 3790 lb.shear, 24" wide | 8 | 2 | | | 995 | 113 | | 1,108 | 1,275 |
-| 0080 | 2" x 6" walls, 11'-13' high, 1180 lb. shear, 18" wide | 6 | 2.667 | | | 950 | 150 | | 1,100 | 1,275 |
-| 0090 | 1555 lb.shear, 21" wide | 6 | 2.667 | | | 1,450 | 150 | | 1,600 | 1,825 |
-| 0100 | 2280 lb.shear, 24" wide | 6 | 2.667 | -D | | 1,125 | 150 | | 1,275 | 1,475 |
-| 0110 | For installing above on wood floor frame, add | | | | | | | | | |
-| 0120 | Coupler nuts, threaded rods, bolts, shear transfer plate kit | 1 Carp | 16 | .500 | Ea. | 85.50 | 228 | | 113.50 | 136 |
-| 0130 | Framing anchors, angle (2 required) | 1 Carp | 96 | .083 | Ea. | 3.20 | 4.69 | | 7.89 | 10.50 |
-| 0140 | For blocking see Section 06 11 10.02 | | | | | | | | | |
-| 0150 | For installing above, firstfloor to second floor, wood floor frame, add | | | | | | | | | |
-| 0160 | Add stack option to firstfloor wall panel | | | | Ea. | 94 | | | 2294 | 103 |
-| 0170 | Threaded rods, bolts, shear transfer plate kit | 1 Carp | 16 | .500 | | 99 | 28 | | 127 | 151 |
-| 0180 | Framing anchors, angle (2 required) | " | 96 | .083 | + | 3.20 | 4.69 | | 7.89 | 10.50 |
-| 0190 | For blocking see section 06 11 10.02 | | | | | | | | | |
-| 0200 | For installing stacked panels, balloon framing | | | | | | | | | |
-| 0210 | Add stack option to firstfloor wall panel | | | | Ea. | 94 | | | 94 | Bes |
-| 0220 | Threaded rods, bolts kit | 1 Carp | 16 | .500 | | 56 i | 28 | | 84 | 104 |
+| ID    | Name                                                                                       | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------|---------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | STEEL & WOOD COMPOSITE SHEARWALL PANELS                                                    |         |             |             |      |          |       |           |         |                |
+| 0020  | Anchor bolts, 36" long (must be placed in wet concrete)                                    | 1 Carp  | 150         | .053        | Ea.  | 51.50    | 3     |           | 54.50   | 61             |
+| 0030  | On concrete, 2" x 4" & 2" x 6" walls, 7'-10' high, 360 lb. shear, 12" wide                 | 2 Carp  | 8           | 2.22        |      | 630      | 113   |           | 743     | 865            |
+| 0040  | 715 lb. shear, 15" wide                                                                    | C8      |             |             |      | 785      | 113   |           | 898     | 1,025          |
+| 0050  | 1860 lb. shear, 18" wide                                                                   | 888     |             |             |      | 860      | 113   |           | 973     | 1,125          |
+| 0060  | 2780 lb. shear, 21" wide                                                                   | 2       |             |             |      | 945      | 113   |           | 1,058   | 1,200          |
+| 0070  | 3790 lb. shear, 24" wide                                                                   | 8       | 2           |             |      | 995      | 113   |           | 1,108   | 1,275          |
+| 0080  | 2" x 6" walls, 11'-13' high, 1180 lb. shear, 18" wide                                      | 6       | 2.667       |             |      | 950      | 150   |           | 1,100   | 1,275          |
+| 0090  | 1555 lb. shear, 21" wide                                                                   | 6       | 2.667       |             |      | 1,450    | 150   |           | 1,600   | 1,825          |
+| 0100  | 2280 lb. shear, 24" wide                                                                   | 6       | 2.667       |             |      | 1,125    | 150   |           | 1,275   | 1,475          |
+| 0110  | For installing above on wood floor frame, add                                              |         |             |             |      |          |       |           |         |                |
+| 0120  | Coupler nuts, threaded rods, bolts, shear transfer plate kit                               | 1 Carp  | 16          | .500        | Ea.  | 85.50    | 228   |           | 113.50  | 136            |
+| 0130  | Framing anchors, angle (2 required)                                                        | 1 Carp  | 96          | .083        | Ea.  | 3.20     | 4.69  |           | 7.89    | 10.50          |
+| 0140  | For blocking see Section 06 11 10.02                                                       |         |             |             |      |          |       |           |         |                |
+| 0150  | For installing above, first floor to second floor, wood floor frame, add                   |         |             |             |      |          |       |           |         |                |
+| 0160  | Add stack option to first floor wall panel                                                 |         |             |             | Ea.  | 94       |       |           | 94      | 103            |
+| 0170  | Threaded rods, bolts, shear transfer plate kit                                             | 1 Carp  | 16          | .500        |      | 99       | 28    |           | 127     | 151            |
+| 0180  | Framing anchors, angle (2 required)                                                        | 1 Carp  | 96          | .083        |      | 3.20     | 4.69  |           | 7.89    | 10.50          |
+| 0190  | For blocking see section 06 11 10.02                                                       |         |             |             |      |          |       |           |         |                |
+| 0200  | For installing stacked panels, balloon framing                                             |         |             |             |      |          |       |           |         |                |
+| 0210  | Add stack option to first floor wall panel                                                 |         |             |             | Ea.  | 94       |       |           | 94      | 103            |
+| 0220  | Threaded rods, bolts kit                                                                   | 1 Carp  | 16          | .500        |      | 56       | 28    |           | 84      | 104            |
 
 # 06 13 - Heavy Timber Construction
 
@@ -1712,20 +1714,6 @@ For customer support on your
 # 06 116 Sheathing  
 ## Sheathing Wood Board Sheathing  
 ### 06 16 33.10 Board Sheathing  
-#### 0009 BOARD SHEATHING
-
-Roof, 1" x 6" boards, laid horizontal  
-On steep roof  
-
-Daily Labor-  
-Crew Output Hours Unit  
-2022 Bare Costs  
-Total  
-Material  
-Labor  
-Equipment  
-Total  
-Ind 0  
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1857,7 +1845,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-----------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
 | 0010  | ROOF TRUSSES                                              |      |              |             |        |          |       |           |       |                |
-| 0100  | Fink W) or King post type, 2' 0" OC                       |      |              |             |        |          |       |           |       |                |
+| 0100  | Fink W or King post type, 2' 0" OC                       |      |              |             |        |          |       |           |       |                |
 | 0200  | Metal plate connected, 4 in 12 slope                      |      |              |             |        |          |       |           |       |                |
 | 0210  | 24' to 29' span                                           | F-3  | 3000         | .013        | SF Fl. | 3.26     | .77   | .66       | 4.69  | 5.45           |
 | 0300  | 30' to 43' span                                           |      | 3000         | .013        |        | 4.93     | .77   | .66       | 6.36  | 7.35           |
@@ -1872,8 +1860,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 06 18 13 Glued-Laminated Beams  
 ## 06 18 13.20 Laminated Framing Construction
-
-Crew | Output | Hours | Unit | Material | 2022 Bare Costs | Labor | Equipment | Total | Total Incl O&P
 
 ---
 
@@ -2067,9 +2053,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 06 22 13.15 Moldings, Base
 
-### Daily Labor-  
-2022 Bare Costs
-
 | ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 5160  | Red oak                                                              | Carp 220  | .036         | L.F.        | 1.81 | 2.05     |       | 3.86      | 5.05  |
@@ -2137,10 +2120,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 06062 Millwork
 
-## 22 22 13 - Standard Pattern Wood Trim  
-06 22 13.30 Moldings, Casings
+## 06 22 13 - Standard Pattern Wood Trim  
+## 06 22 13.30 Moldings, Casings
 
-### 2022 Bare Costs
 
 | ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2186,7 +2168,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0520 | Red oak                                                     |        | 190         | .042        |      | 5.40     | 2.37  |           | 7.77  | 9.45           |
 | 0525 | Maple                                                       |        | 190         | .042        |      | 7.40     | 2.37  |           | 9.77  | 11.70          |
 | 0530 | Cherry                                                      | 1 Carp | 190         | .042        | LF   | 8.85     | 2.37  |           | 11.22 | 13.30          |
-| 0535 | 3/4" x 9-1/2", poplar                                       | ||     | 180         | .044        |      | 5.30     | 2.50  |           | 7.80  | 9.50           |
+| 0535 | 3/4" x 9-1/2", poplar                                       |      | 180         | .044        |      | 5.30     | 2.50  |           | 7.80  | 9.50           |
 | 0540 | Red oak                                                     |        | 180         | .044        |      | 8.35     | 2.50  |           | 10.85 | 12.90          |
 | 0545 | Maple                                                       |        | 180         | .044        |      | 11.50    | 2.50  |           | 14    | 16.35          |
 | 0550 | Cherry                                                      |        | 180         | .044        |      | 12.50    | 2.50  |           | 15    | 17.45          |
@@ -2396,7 +2378,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 740 | Pine, #2, 1" x 2"                    |         | 225         | .036        |      | .33      | 2      |           | 2.33  | 3.35           |
 | 750 | 1" x 3"                              |         | 225         | .036        |      | .49      | 2      |           | 2.49  | 3.52           |
 | 760 | 1" x 4"                              | 1 Carp  | 200.040     |             | L.F. | .69      | 2.25   |           | 2.94  | 4.11           |
-| 770 | 1" x 6"                              | 1       | 200         | .040        |      | 1.03     | 2.25   |           | 3.28  | 4.49           |
+| 770 | 1" x 6"                              |        | 200         | .040        |      | 1.03     | 2.25   |           | 3.28  | 4.49           |
 | 780 | 1" x 8"                              |         | 200         | .040        |      | 1.41     | 2.25   |           | 3.66  | 4.90           |
 | 790 | 1" x 10"                             |         | 175         | .046        |      | 1.94     | 2.57   |           | 4.51  | 5.95           |
 | 800 | 1" x 12"                             |         | 175         | .046        |      | 2.68     | 2.57   |           | 5.25  | 6.80           |
@@ -2445,7 +2427,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1900 | 1" x 10"                                                  |        | 180          | .044        |      | 1.94     | 2.50  |           | 4.44   | 5.8            |
 | 2000 | 1" x 12"                                                  |        | 180          | .044        |      | 2.68     | 2.50  |           | 5.18   | 6.6            |
 | 2020 | D & better, 1" x 2"                                       | 1 Carp | 330          | .024        | L.F. | .74      | 1.36  |           | 2.10   | 2.8            |
-| 2030 | 1" x 3"                                                   | 1      | 1290         | .028        |      | 1.10     | 1.55  |           | 2.65   | 3.5            |
+| 2030 | 1" x 3"                                                   |       | 1290         | .028        |      | 1.10     | 1.55  |           | 2.65   | 3.5            |
 | 2040 | 1" x 4"                                                   |        | 250          | .032        |      | 1.54     | 1.80  |           | 3.34   | 4.3            |
 | 2050 | 1" x 6"                                                   |        | 250          | .032        |      | 2.85     | 1.80  |           | 4.65   | 5.8            |
 | 2060 | 1" x 8"                                                   |        | 200          | .040        |      | 3.50     | 2.25  |           | 5.75   | 7.2            |
@@ -2473,9 +2455,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 06 22 Millwork  
 ## 06 22 Millwork Standard Pattern Wood Trim  
 ### 6 22 13.40 Moldings, Exterior
-
-#### Clear all heart redwood  
-#### Door/window casing, cedar, rough sawn, 1" x 2"
 
 | ID  | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-----|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -2611,8 +2590,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 880  | 1" x 4"                                           |         | 250          | .032        |      | 1.54     | 1.80    |           | 3.34    | 4.38           |
 | 890  | 1" x 6"                                           |         | 250          | .032        |      | 2.85     | 1.8880  |           | 4.65    | 5.80           |
 | 900  | 1" x 8"                                           |         | 250          | .032        |      | 3.50     | 1.80    |           | 5.30    | 6.55           |
-| 910  | 1" x 10"                                          | 1       | 225          | .036        |      | 3.83     | 2       |           | 5.83    | 7.20           |
-| 920  | 1" x 12"                                          | 1       | 200          | .040        |      | 4.18     | 2.25    |           | 6.43    | 7.95           |
+| 910  | 1" x 10"                                          |        | 225          | .036        |      | 3.83     | 2       |           | 5.83    | 7.20           |
+| 920  | 1" x 12"                                          |        | 200          | .040        |      | 4.18     | 2.25    |           | 6.43    | 7.95           |
 | 930  | Redwood, clear all heart, 1" x 2"                 |         | 275          | .029        |      | 1.73     | 1.64    |           | 3.37    | 4.34           |
 | 940  | 1" x 3"                                           |         | 275          | .029        |      | 2.58     | 1.64    |           | 4.22    | 5.25           |
 | 950  | 1" x 4"                                           |         | 250          | .032        |      | 3.35     | 1.80    |           | 5.15    | 6.35           |
@@ -2642,7 +2621,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 200  | Pine, #2, 1" x 2"                                 |         | 225          | .036        |      | .33      |         |           | 2.33    | 3.35           |
 | 210  | 1" x 3"                                           |         | 225          | .036        |      | .49      |         |           | 2.49    | 3.52           |
 | 220  | 1" x 4"                                           |         | 200          | .040        |      | .69      | 2.25    |           | 2.94    | 4.11           |
-| 2301 | 1" x 6"                                           | 1200    | .040         |             |      | 1.03     | 2.25    |           | 3.28    | 4.49           |
+| 2301 | 1" x 6"                                           |         | 1200         | .040        |      | 1.03     | 2.25    |           | 3.28    | 4.49           |
 | 2401 | 1" x 8"                                           |         | 190          | .042        |      | 1.41     | 2.37    |           | 3.78    | 5.10           |
 | 250  | 1" x 10"                                          |         | 190          | .042        |      | 1.94     | 2.37    |           | 4.31    | 5.65           |
 | 260  | 1" x 12"                                          |         | 180          | .044        |      | 2.68     | 2.50    |           | 5.18    | 6.65           |
@@ -2658,9 +2637,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 430  | 1" x 4"                                           |         | 200          | .040        |      | 3.35     | 2.25    |           | 5.60    | 7.05           |
 
 # 06.22  
-22 Millw22k  
-06 22 13 Millworkard Pattern Wood Trim  
-06 22 13.40 Moldings, Exterior  
+
+## 06 22 13 Millworkard Pattern Wood Trim  
+## 06 22 13.40 Moldings, Exterior  
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -2711,90 +2690,88 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 8070 | Insect screen frame stock, 1-1/16" x 1-3/4"                          |        | 395          | .020        |      | .45      | 1.14  |           | 1.59   | 2             |
 | 8080 | Dentils, 2-1/2" x 2-1/2" x 4", 6" OC                                 |        | 30           | .267        |      | 1.24     | 15    |           | 16.24  | 24            |
 | 8100 | Fluted, 5-1/2"                                                       |        | 165          | .048        |      | .40      | 2.73  |           | 3.13   | 4             |
-| 8110 | Stucco bead, 1-3/8" x 1-5/8"                                         |        | 250          | .032        |      | 2.41     | 1.80  |           | 4.21   | 5             |
-| 06 22 13.45 | Moldings, Trim                                                |        |              |             |      |          |       |           |        |               |
-| 0010 | MOLDINGS, TRIM                                                       |        |              |             |      |          |       |           |        |               |
-| 0200 | Astragal, stock pine, 11/16" x 1-3/4"                                | 1 Carp | 255          | .031        | LF.  | 1.33     | 1.77  |           | 3.10   | 4             |
-| 0250 | 1-5/16" x 2-3/16"                                                    |        | 240          | .033        |      | 4.89     | 1.88  |           | 6.77   | 8.            |
-| 210  | For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. |        |              |             |      |          |       |           |        |               |
+| 8110 | Stucco bead, 1-3/8" x 1-5/8"                                         |        | 250          | .032        |      | 2.41     | 1.80  |           | 4.21   | 5             
 
-# 6 62 Millw22k  
-6 22 13  
--Millworkd Pattern Wood Trim  
-22 13.45 Moldings, Trim  
+## 06 22 13.45  Molding, Trim
 
-## Daily Labor-  
-Crew Output Hours Unit  
-2022 Bare Costs  
-Total  
-Material  
-Labor  
-Equipment  
-Total  
-Incl O&P  
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | MOLDINGS, TRIM                                            |         |              |             |        |          |       |           |        |                |
+| 0200 | Astragal, stock pine, 11/16" x 1-3/4"                     | 1 Carp  | 255          | .031        | LF.    | 1.33     | 1.77  |           | 3.10   | 4              |
+| 0250 | 1-5/16" x 2-3/16"                                         |         | 240          | .033        |        | 4.89     | 1.88  |           | 6.77   | 8              |
 
-| ID  | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
-|-----|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 00  | Chair rail, stock pine, 5/8" x 2-1/2"                                | 1 Carp | 270          | .030        | LF.    | 1.53     | 1.67  |           | 3.20   | 4.16           |
-| 00  | 5/8" x 3-1/2"                                                        |        | 240          | .033        |        | 4.16     | 1.88  |           | 6.04   | 7.35           |
-| 00  | Closet pole, stock pine, 1-1/8" diameter                             |        | 200          | .040        |        | 1.28     | 2.25  |           | 3.53   | 4.76           |
-|     | Fir, 1-5/8" diameter                                                 |        | 200          | .040        |        | 1.93     | 2.25  |           | 4.18   | 5.45           |
-| 00  | Half round, stock pine, 1/4" x 1/2"                                  | 1 Carp | 270          | .030        | LF.    | .46      | 1.67  |           | 2.13   | 2399           |
-| 50  | 1/2" x 1"                                                            |        | 255          | .031        | "      | .62      | 1.77  |           | 2.39   | 3.31           |
-| 00  | Handrail, fir, single piece, stock, hardware not included            |        |              |             |        |          |       |           |        |                |
-| 50  | 1-1/2" x 1-3/4"                                                      | 1 Carp | 80           | .100        | LF     | 2.74     | 5.65  |           | 8.39   | 11.40          |
-| 70  | Pine, 1-1/2" x 1-3/4"                                                |        | 80           | .100        |        | 2.16     | 5.65  |           | 7.81   | 10.80          |
-| 00  | 1-1/2" x 2-1/2"                                                      |        | 76           | .105        |        | 3.36     | 5.95  |           | 9.31   | 12.50          |
-| 00  | Lattice, stock pine, 1/4" x 1-1/8"                                   |        | 270          | .030        |        | .47      | 1.67  |           | 2.14   | 3              |
-| 00  | 1/4" x 1-3/4"                                                        |        | 250          | .032        |        | .62      | 1.80  |           | 2.42   | 3.36           |
-| 00  | Miscellaneous, custom, pine, 1" x 1"                                 |        | 270.030      |             |        | .39      | 1.67  |           | 2.06   | 2.91           |
-| 50  | 1" x 2"                                                              |        | 265          | .030        |        | .79      | 1.70  |           | 2.49   | 3.40           |
-| 00  | 1" x 3"                                                              |        | 240          | .033        |        | 1.18     | 1.88  |           | 3.06   | 4.09           |
-| 00  | Birch or oak, nominal 1" x 1"                                        |        | 240          | .033        |        | 1.12     | 1.88  |           | 3      | 4.02           |
-|     | Nominal 1" x 3"                                                      |        | 215          | .037        |        | 3.35     | 2.09  |           | 5.44   | 6.80           |
-| =0088| Walnut, nominal 1" x 1"                                             |        | 215          | .037        |        | 1.53     | 2.09  |           | 3.62   | 4.80           |
-| 00  | 1 Nominal 1" x 3"                                                    |        | 200          | .040        |        | 4.58     | 2.25  |           | 8983   | 8.480          |
-| 00  | Teak, nominal 1" x 1"                                                |        | 215.037      |             |        | 6.15     | 2.09  |           | 8.24   | 9.90           |
-| 00  | Nominal 1" x 3"                                                      |        | 200          | .040        |        | 18.50    | 2.25  |           | 20.75  | 24             |
-| 00  | Quarter round, stock pine, 1/4" x 1/4"                               |        | 275          | .029        |        | .49      | 1.64  |           | 2.13   | 2.98           |
-| .50 | 3/4" x 3/4"                                                          |        | 255          | .031        |        | .68      | 1.77  |           | 2.45   | 3.38           |
-| .00 | Wainscot moldings, 1-1/8" x 9/16", 2' high, minimum                  |        | 76           | .105        | S.F.   | 14.50    | 5.95  |           | 20.45  | 25             |
-| 00  | Maximum                                                              |        | 65           | .123        | PF     | 21.50    | 6.95  |           | 28.45  | 34             |
-| 6 22 13.50 | Moldings, Window and Door                                     |        |              |             |        |          |       |           |        |                |
-| 10  | MOLDINGS, WINDOW AND DOOR                                            |        |              |             |        |          |       |           |        |                |
-| 188 | Door moldings, stock, decorative, 1-1/8" wide, plain                 | 1 Carp | 17           | .471        | Set    | 48.50    | 26.50 |           | 75     | 93             |
-| 100 | Detailed                                                             |        | 17           | .471        |        | 117      | 26.50 |           | 143.50 | 168            |
-| :60 | Clear pine door jamb, no stops, 11/16" x 4-9/16"                     |        | 240          | .033        | LF     | 6.40     | 1.88  |           | 8.28   | 9.85           |
-| 150 | Door trim set, 1 head and 2 sides, pine, 2-1/2" wide                 |        | 12           | .667        | Opng   | 24.50    | 37.50 |           | 62     | 82.50          |
-| 70  | 3-1/2" wide                                                          |        |              | .727        |        | 30       | 41    |           | 71     | 94             |
-|     | Glass beads, stock pine, 3/8" x 1/2"                                 |        | 275          | .029        | LF.    | .41      | 1.64  |           | 2.05   | 2.89           |
-| 70  | 3/8" x 7/8"                                                          |        | 270.030      |             |        | .53      | 1.67  |           | 2.20   | 3.06           |
-| 50  | Parting bead, stock pine, 3/8" x 3/4"                                |        | 223          | .029        |        | .62      | 1.64  |           | 2.26   | 3.12           |
-| .70 | 1/2" x 3/4"                                                          |        | 255          | .031        |        | .53      | 1.77  |           | 2.30   | 3.21           |
-| 00  | Stool caps, stock pine, 11/16" x 3-1/2"                              |        | 200          | .040        |        | 2.82     | 2.25  |           | 5.07   | 6.45           |
-| 00  | 1-1/16" x 3-1/4"                                                     |        | 150          | .053        |        | 4.22     | 3     |           | 7.22   | 9.10           |
-| 00  | Threshold, oak, 3' long, inside, 5/8" x 3-5/8"                       |        | 32           | .250        | Ea.    | 16       | 14.10 |           | 30.10  | 38.50          |
-|     | Outside, 1-1/2" x 7-5/8"                                             |        | 16           | .500        | "      | 65       | 28    |           | 93     | 114            |
-| 100 | Window trim sets, including casings, header, stops,                  |        |              |             |        |          |       |           |        |                |
-| 10  | stool and apron, 2-1/2" wide, FJP                                    | 11 Carp| 13           | 615         | Opng.  | 36       | 34.50 |           | 70.50  | 91.50          |
-| 50  | Pine                                                                 |        | 10           | .800        |        | 42.50    | 45    |           | 87.50  | 114            |
-| 100 | Oak                                                                  |        | 6            | 1.333       |        | 86       | 75    |           | 161    | 207            |
-| 6 22 13.60 | Moldings, Soffits                                             |        |              |             |        |          |       |           |        |                |
-| 110 | MOLDINGS, SOFFITS                                                    |        |              |             |        |          |       |           |        |                |
-| 200 | Soffits, pine, 1" x 4"                                               | 2 Carp | 420          | .038        | LF     | .62      | 2.14  |           | 2.76   | 3.88           |
-| 10  | 1" x 6"                                                              |        | 420          | .038        |        | .97      | 2.14  |           | 3.11   | 4.26           |
-| 20  | 1" x 8"                                                              |        | 420          | .038        |        | 1.35     | 2.14  |           | 3.49   | 4.67           |
-| :30 | 1" x 10"                                                             |        | 400          | .040        |        | 1.84     | 2.25  |           | 4.09   | 5.40           |
-| 40  | 1" x 12"                                                             |        | 400          | .040        |        | 2.58     | 2.25  |           | 4.83   | 6.20           |
-| 250 | STK cedar, 1" x 4"                                                   |        | 420          | .038        |        | .86      | 2.141 |           | 3      | 4.14           |
+## 06 22 13.45 Moldings, Trim
+
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0000 | Chair rail, stock pine, 5/8" x 2-1/2"                     | 1 Carp  | 270          | .030        | LF.    | 1.53     | 1.67  |           | 3.20   | 4.16           |
+| 0001 | 5/8" x 3-1/2"                                             |         | 240          | .033        |        | 4.16     | 1.88  |           | 6.04   | 7.35           |
+| 0002 | Closet pole, stock pine, 1-1/8" diameter                  |         | 200          | .040        |        | 1.28     | 2.25  |           | 3.53   | 4.76           |
+| 0003 | Fir, 1-5/8" diameter                                      |         | 200          | .040        |        | 1.93     | 2.25  |           | 4.18   | 5.45           |
+| 0004 | Half round, stock pine, 1/4" x 1/2"                       | 1 Carp  | 270          | .030        | LF.    | .46      | 1.67  |           | 2.13   | 2.399          |
+| 0050 | 1/2" x 1"                                                 |         | 255          | .031        | "      | .62      | 1.77  |           | 2.39   | 3.31           |
+| 0005 | Handrail, fir, single piece, stock, hardware not included |         |              |             |        |          |       |           |        |                |
+| 0051 | 1-1/2" x 1-3/4"                                           | 1 Carp  | 80           | .100        | LF     | 2.74     | 5.65  |           | 8.39   | 11.40          |
+| 0070 | Pine, 1-1/2" x 1-3/4"                                     |         | 80           | .100        |        | 2.16     | 5.65  |           | 7.81   | 10.80          |
+| 0006 | 1-1/2" x 2-1/2"                                           |         | 76           | .105        |        | 3.36     | 5.95  |           | 9.31   | 12.50          |
+| 0007 | Lattice, stock pine, 1/4" x 1-1/8"                        |         | 270          | .030        |        | .47      | 1.67  |           | 2.14   | 3              |
+| 0008 | 1/4" x 1-3/4"                                             |         | 250          | .032        |        | .62      | 1.80  |           | 2.42   | 3.36           |
+| 0009 | Miscellaneous, custom, pine, 1" x 1"                      |         | 270          | .030        |        | .39      | 1.67  |           | 2.06   | 2.91           |
+| 0052 | 1" x 2"                                                   |         | 265          | .030        |        | .79      | 1.70  |           | 2.49   | 3.40           |
+| 0010 | 1" x 3"                                                   |         | 240          | .033        |        | 1.18     | 1.88  |           | 3.06   | 4.09           |
+| 0011 | Birch or oak, nominal 1" x 1"                             |         | 240          | .033        |        | 1.12     | 1.88  |           | 3.00   | 4.02           |
+| 0012 | Nominal 1" x 3"                                           |         | 215          | .037        |        | 3.35     | 2.09  |           | 5.44   | 6.80           |
+| 0013 | Walnut, nominal 1" x 1"                                   |         | 215          | .037        |        | 1.53     | 2.09  |           | 3.62   | 4.80           |
+| 0014 | Nominal 1" x 3"                                           |         | 200          | .040        |        | 4.58     | 2.25  |           | 8.98   | 8.48           |
+| 0015 | Teak, nominal 1" x 1"                                     |         | 215          | .037        |        | 6.15     | 2.09  |           | 8.24   | 9.90           |
+| 0016 | Nominal 1" x 3"                                           |         | 200          | .040        |        | 18.50    | 2.25  |           | 20.75  | 24             |
+| 0017 | Quarter round, stock pine, 1/4" x 1/4"                    |         | 275          | .029        |        | .49      | 1.64  |           | 2.13   | 2.98           |
+| 0053 | 3/4" x 3/4"                                               |         | 255          | .031        |        | .68      | 1.77  |           | 2.45   | 3.38           |
+| 0018 | Wainscot moldings, 1-1/8" x 9/16", 2' high, minimum       |         | 76           | .105        | S.F.   | 14.50    | 5.95  |           | 20.45  | 25             |
+| 0019 | Maximum                                                   |         | 65           | .123        | PF     | 21.50    | 6.95  |           | 28.45  | 34             |
+
+## 06 22 13.50 Moldings, Window and Door
+
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 010  | MOLDINGS, WINDOW AND DOOR                                 |         |              |             |        |          |       |           |        |                |
+| 188  | Door moldings, stock, decorative, 1-1/8" wide, plain      | 1 Carp  | 17           | .471        | Set    | 48.50    | 26.50 |           | 75     | 93             |
+| 100  | Detailed                                                  |         | 17           | .471        |        | 117      | 26.50 |           | 143.50 | 168            |
+| 160  | Clear pine door jamb, no stops, 11/16" x 4-9/16"          |         | 240          | .033        | LF     | 6.40     | 1.88  |           | 8.28   | 9.85           |
+| 150  | Door trim set, 1 head and 2 sides, pine, 2-1/2" wide      |         | 12           | .667        | Opng   | 24.50    | 37.50 |           | 62     | 82.50          |
+| 170  | 3-1/2" wide                                               |         |              | .727        |        | 30       | 41    |           | 71     | 94             |
+| 200  | Glass beads, stock pine, 3/8" x 1/2"                      |         | 275          | .029        | LF.    | .41      | 1.64  |           | 2.05   | 2.89           |
+| 210  | 3/8" x 7/8"                                               |         | 270          | .030        |        | .53      | 1.67  |           | 2.20   | 3.06           |
+| 250  | Parting bead, stock pine, 3/8" x 3/4"                     |         | 223          | .029        |        | .62      | 1.64  |           | 2.26   | 3.12           |
+| 270  | 1/2" x 3/4"                                               |         | 255          | .031        |        | .53      | 1.77  |           | 2.30   | 3.21           |
+| 300  | Stool caps, stock pine, 11/16" x 3-1/2"                   |         | 200          | .040        |        | 2.82     | 2.25  |           | 5.07   | 6.45           |
+| 310  | 1-1/16" x 3-1/4"                                          |         | 150          | .053        |        | 4.22     | 3     |           | 7.22   | 9.10           |
+| 320  | Threshold, oak, 3' long, inside, 5/8" x 3-5/8"            |         | 32           | .250        | Ea.    | 16       | 14.10 |           | 30.10  | 38.50          |
+| 330  | Outside, 1-1/2" x 7-5/8"                                  |         | 16           | .500        | "      | 65       | 28    |           | 93     | 114            |
+| 400  | Window trim sets, including casings, header, stops,       |         |              |             |        |          |       |           |        |                |
+| 410  | stool and apron, 2-1/2" wide, FJP                         | 1 Carp  | 13           | .615        | Opng.  | 36       | 34.50 |           | 70.50  | 91.50          |
+| 450  | Pine                                                      |         | 10           | .800        |        | 42.50    | 45    |           | 87.50  | 114            |
+| 500  | Oak                                                       |         | 6            | 1.333       |        | 86       | 75    |           | 161    | 207            |
+
+## 06 22 13.60 Moldings, Soffits
+
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 110  | MOLDINGS, SOFFITS                                         |         |              |             |        |          |       |           |        |                |
+| 200  | Soffits, pine, 1" x 4"                                    | 2 Carp  | 420          | .038        | LF     | .62      | 2.14  |           | 2.76   | 3.88           |
+| 210  | 1" x 6"                                                   |         | 420          | .038        |        | .97      | 2.14  |           | 3.11   | 4.26           |
+| 220  | 1" x 8"                                                   |         | 420          | .038        |        | 1.35     | 2.14  |           | 3.49   | 4.67           |
+| 230  | 1" x 10"                                                  |         | 400          | .040        |        | 1.84     | 2.25  |           | 4.09   | 5.40           |
+| 240  | 1" x 12"                                                  |         | 400          | .040        |        | 2.58     | 2.25  |           | 4.83   | 6.20           |
+| 250  | STK cedar, 1" x 4"                                        |         | 420          | .038        |        | .86      | 2.14  |           | 3.00   | 4.14           |
 
 Building Construction Costs with RSMeans data, call 800.448.8182.  
 For customer support on your
 
 # 06 06 Millwork
 
-02222 13 - StMillworkattern Wood Trim  
-06 22 13.60 Moldings, Soffits
+## 06 22 13.60 Moldings, Soffits
 
 | ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2806,7 +2783,7 @@ For customer support on your
 | 1050  | 3/8" thick                                                           |              | 400          | 0.040       |      | 2.06     | 2.25  |           | 4.31  |                |
 | 1100  | 1/2" thick                                                           |              | 400          | 0.040       |      | 2.75     | 2.25  |           | 5     |                |
 | 1150  | Polyvinyl chloride, white, solid                                     | 1 Carp       | 230          | 0.035       |      | 1.56     | 1.96  |           | 3.52  |                |
-| 1160  | Perforated                                                           | P            | 230          | 0.035       |      | 1.71     | 1.96  |           | 3.67  | 4              |
+| 1160  | Perforated                                                           |              | 230          | 0.035       |      | 1.71     | 1.96  |           | 3.67  | 4              |
 | 1170  | Accessories, "J" channel 5/8"                                        | 2 Carp       | 700          | 0.023       | L.F. | 0.66     | 1.29  |           | 1.95  |                |
 
 # 06 25 Prefinished Paneling
@@ -2816,7 +2793,7 @@ For customer support on your
 | ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | PANELING, HARDBOARD                                                  |              |              |             |      |          |       |           |       |                |
-| 0050  | Not incl.furring or trim, hardboard, tempered, 1/8" thick            | 55G55GGGG2GGCarp | 500      | 0.032       | S.F. | 2232334556225 | 1.80 |         | 2.12  | 3.             |
+| 0050  | Not incl.furring or trim, hardboard, tempered, 1/8" thick            | 2 Carp       | 500          | 0.032       | S.F. | 0.32     | 1.80  |           | 2.12  | 3.             |
 | 0100  | 1/4" thick                                                           |              | 500          | 0.032       |      | 0.70     | 1.80  |           | 2.50  | 3.             |
 | 0300  | Tempered pegboard, 1/8" thick                                        |              | 500          | 0.032       |      |          | 1.80  |           | 2.33  | 3.             |
 | 0400  | 1/4" thick                                                           |              | 500          | 0.032       |      | 0.96     | 1.80  |           | 2.761 | 3.             |
@@ -2837,7 +2814,7 @@ For customer support on your
 
 | ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | PANELING, PLYWOOD                                                    | R061636-20   |              |             |      |          |       |           |       |                |
+| 0010  | PANELING, PLYWOOD                                                    |     |              |             |      |          |       |           |       |                |
 | 2400  | Plywood, prefinished, 1/4" thick, 4' x 8' sheets                     |              |              |             |      |          |       |           |       |                |
 | 2410  | with vertical grooves. Birch faced, economy                          | 2 Carp       | 500          | 0.032       | S.F. | 0.88     | 1.80  |           | 2.68  | 3.634          |
 | 2420  | Average                                                              |              | 420          | 0.038       |      | 1.53     | 2.14  |           | 33.6756| 4.            |
@@ -2861,14 +2838,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 6 25 16.10 Paneling, Plywood
 
-Architectural grade, custom  
-Luxury  
-Plywood, "A" face, birch, VC, 1/2" thick, natural  
-Select  
-Veneer core, 3/4" thick, natural  
-
-### Daily Labor-
-
 | ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 300  | Architectural grade, custom                               | 2 Carp  | 224          | .071        | S.F. | 6.90     | 4.02  |           | 10.92 | 13.60          |
@@ -2878,8 +2847,8 @@ Veneer core, 3/4" thick, natural
 | 00   | Veneer core, 3/4" thick, natural                          |         | 320          | .050        |      | 2.89     | 2.82  |           | 5.71  | 7.35           |
 | 000  | Select                                                    |         | 320          | .050        |      | 3.40     | 2.82  |           | 6.22  | 7.95           |
 | 200  | Lumber core, 3/4" thick, natural                          |         | 320          | .050        |      | 3.81     | 2.82  |           | 6.63  | 8.40           |
-| 500  | Plywood, knotty pine, 1/4" thick, A2 grade                |         | 450          | .036        |      | 2.08     | 222222|           | 4.08  | 5.25           |
-| 500  | A3 grade                                                  |         | 450          | .036        |      | 2.40     |       |           | 4.40  | 5.60           |
+| 500  | Plywood, knotty pine, 1/4" thick, A2 grade                |         | 450          | .036        |      | 2.08     | 2|           | 4.08  | 5.25           |
+| 500  | A3 grade                                                  |         | 450          | .036        |      | 2.40     |  2     |           | 4.40  | 5.60           |
 | 300  | 3/4" thick, veneer core, A2 grade                         |         | 320          | .050        |      | 3.09     | 2.82  |           | 5.91  | 7.60           |
 | 900  | A3 grade                                                  |         | 320          | .050        |      | 2.81     | 2.82  |           | 5.63  | 7.30           |
 | 100  | Aromatic cedar, 1/4" thick, plywood                       |         | 400          | 1.040       |      | 2.94     | 2.25  |           | 5.19  | 6.60           |
@@ -2892,18 +2861,18 @@ Veneer core, 3/4" thick, natural
 | ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor         | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|---------------|-----------|-------|----------------|
 | 010  | PANEL SYSTEMS                                                        |         |              |             |      |          |               |           |       |                |
-| 100  | Raised panel, eng. wood core w/ wood veneer, std, paint grade        | 2 Carp  | 300          | .053        | S.F. | 14.50    | 333333333333  |           | 17.50 | 20.50          |
-| 110  | Oak veneer                                                           | 2 Carp  | 300          | .053        | S.F. | 28       |               |           | 31    | 35.50          |
-| 120  | Maple veneer                                                         |         | 300          | .053        |      | 39       |               |           | 42    | 47.50          |
-| 130  | Cherry veneer                                                        |         | 300          | .053        | 1    | 38.50    |               |           | 41.50 | 46.50          |
-| 300  | Class I fire rated, paint grade                                      |         | 300          | .053        |      | 16.75    |               |           | 19.75 | 23             |
-| 310  | Oak veneer                                                           |         | 300          | .053        |      | 37.50    |               |           | 40.50 | 45.50          |
-| 320  | Maple veneer                                                         |         | 300          | .053        |      | 42.50    |               |           | 45.50 | 51             |
-| 330  | Cherry veneer                                                        |         | 300          | .053        |      | 61       |               |           | 64    | 71.50          |
-| 510  | Beadboard, 5/8" MDF, standard, primed                                |         | 300          | .053        |      | 9.60     |               |           | 12.60 | 15             |
-| 520  | Oak veneer, unfinished                                               |         | 300          | .053        |      | 17.15    |               |           | 20.15 | 23.50          |
-| 530  | Maple veneer, unfinished                                             |         | 300          | .053        |      | 24.50    |               |           | 27.50 | 31.50          |
-| 610  | Rustic paneling, 5/8" MDF, standard, maple veneer, unfinished        |         | 300          | .053        | I    | 21       |               |           | 24    | 27.50          |
+| 100  | Raised panel, eng. wood core w/ wood veneer, std, paint grade        | 2 Carp  | 300          | .053        | S.F. | 14.50    | 3              |           | 17.50 | 20.50          |
+| 110  | Oak veneer                                                           | 2 Carp  | 300          | .053        | S.F. | 28       | 3              |           | 31    | 35.50          |
+| 120  | Maple veneer                                                         |         | 300          | .053        |      | 39       | 3              |           | 42    | 47.50          |
+| 130  | Cherry veneer                                                        |         | 300          | .053        | 1    | 38.50    | 3              |           | 41.50 | 46.50          |
+| 300  | Class I fire rated, paint grade                                      |         | 300          | .053        |      | 16.75    | 3              |           | 19.75 | 23             |
+| 310  | Oak veneer                                                           |         | 300          | .053        |      | 37.50    | 3              |           | 40.50 | 45.50          |
+| 320  | Maple veneer                                                         |         | 300          | .053        |      | 42.50    | 3              |           | 45.50 | 51             |
+| 330  | Cherry veneer                                                        |         | 300          | .053        |      | 61       | 3              |           | 64    | 71.50          |
+| 510  | Beadboard, 5/8" MDF, standard, primed                                |         | 300          | .053        |      | 9.60     | 3              |           | 12.60 | 15             |
+| 520  | Oak veneer, unfinished                                               |         | 300          | .053        |      | 17.15    | 3              |           | 20.15 | 23.50          |
+| 530  | Maple veneer, unfinished                                             |         | 300          | .053        |      | 24.50    | 3              |           | 27.50 | 31.50          |
+| 610  | Rustic paneling, 5/8" MDF, standard, maple veneer, unfinished        |         | 300          | .053        | I    | 21       | 3              |           | 24    | 27.50          |
 
 # 6 26 13 - Profile Board Paneling
 
@@ -2912,9 +2881,9 @@ Veneer core, 3/4" thick, natural
 | ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 010  | PANELING, BOARDS                                          |         |              |             |      |          |       |           |       |                |
-| 400  | Wood board paneling, 3/4" thick, knotty pine              | 2 Carp  | 300          | .053        | S.F. | 2.33     | 3333  |           | 5.33  | 7.05           |
-| 500  | Rough sawn cedar                                          |         | 300          | .053        |      | 5.15     |       |           | 8.15  | 10.10          |
-| 700  | Redwood, clear, 1" x 4" boards                            |         | 300          | .053        |      | 14.05    |       |           | 17.05 | 19.90          |
+| 400  | Wood board paneling, 3/4" thick, knotty pine              | 2 Carp  | 300          | .053        | S.F. | 2.33     | 3  |           | 5.33  | 7.05           |
+| 500  | Rough sawn cedar                                          |         | 300          | .053        |      | 5.15     |  3     |           | 8.15  | 10.10          |
+| 700  | Redwood, clear, 1" x 4" boards                            |         | 300          | .053        |      | 14.05    |   3    |           | 17.05 | 19.90          |
 | 700  | Aromatic cedar, closet lining, boards                     |         | 275          | .058        | I    | 2.48     | 3.28  |           | 5.76  | 7.60           |
 
 # 6 43 13 - Wood Stairs
@@ -2925,8 +2894,8 @@ Veneer core, 3/4" thick, natural
 |------|----------------------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|-----------|----------------|
 | 010  | PREFABRICATED WOOD STAIRS                                            |         |              |             |       |          |        |           |           |                |
 | 100  | Box stairs, prefabricated, 3'-0" wide                                |         |              |             |       |          |        |           |           |                |
-| 110  | Oak treads, up to 14 risers                                          | 2 Carp  | 39           | .410        | Riser | 1,500    | 223    |           | 1,523     | 1,675          |
-| 600  | With pine treads for carpet, up to 14 risers                         | "       | 39           | .410        | "     | 1,000    |        |           | 1,023     | 1,125          |
+| 110  | Oak treads, up to 14 risers                                          | 2 Carp  | 39           | .410        | Riser | 1,500    | 23    |           | 1,523     | 1,675          |
+| 600  | With pine treads for carpet, up to 14 risers                         | "       | 39           | .410        | "     | 1,000    |   23     |           | 1,023     | 1,125          |
 | 100  | For 4' wide stairs, add                                              |         |              |             | Flight| 25 %     |        |           |           |                |
 | 550  | Stairs, prefabricated stair handrail with balusters                  | 1 Carp  | 30           | 267         | LF    | 82.50    | 15     |           | 97.50     | 114            |
 | 700  | Basement stairs, prefabricated, pine treads                          |         |              |             |       |          |        |           |           |                |
@@ -2936,28 +2905,20 @@ Veneer core, 3/4" thick, natural
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 06063 Wood Stai43 and RailiWood06 43 13
 
-Wood StairStairs3 13.20 Prefabrianded Wood StairRailings200  
-4400  
-4500  
-Residential, wood, oak treads, prefabricated  
-Built in place  
-Spiral, oak, 4'-6" diameter, unfinished, prefabricated,  
-incl. railing, 9' high
-
-06 43 13 - Wood Stairs
-
-Daily Labor- 2022 Bare Costs Total
+## 06 43 13.20 Prefabricated Wood Stairs
 
 | ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|---------|----------|--------|-----------|---------|----------------|
-| 06 43 13.20 | Prefabricated Wood Stairs                                       |         |              |             |         |          |        |           |         |                |
 | 4000  | Residential, wood, oak treads, prefabricated                         | 2 Carp  | 1.50         | 10.667      | Flight  | 28,000   | 600    |           | 28,600  | 31,700         |
 | 4200  | Built in place                                                       |         | .44          | 36.364      | "       | 2,725    | 2,050  |           | 4,775   | 6,050          |
 | 4400  | Spiral, oak, 4'-6" diameter, unfinished, prefabricated,              |         |              |             |         |          |        |           |         |                |
 | 4500  | incl. railing, 9' high                                               | 2 Carp  | 1.50         | 10.667      | Flight  | 2,325    | 6000   |           | 2,925   | 3,450          |
-| 06 43 13.40 | Wood Stair Parts                                               |         |              |             |         |          |        |           |         |                |
+
+## 06 43 13.40 Wood Stair Parts         
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|---------|----------|--------|-----------|---------|----------------|
 | 0010  | WOOD STAIR PARTS                                                     |         |              |             |         |          |        |           |         |                |
 | 0020  | Pin top balusters, 1-1 / 4 ",oak, 34 "                              | 1 Carp  | 96           | .083        | Ea .    | 7.10     | 4.69   |           | 11.79   | 14.            |
 | 0030  | 38 "                                                                 |         | 96           | .083        |         | 7.75     | 4.69   |           | 12.44   | 15 .           |
@@ -3008,12 +2969,7 @@ Daily Labor- 2022 Bare Costs Total
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 06Ο  
-## 6 43 43od Stairs aWoodailings  
-## 5 43 13 WoodStairss  
--  
-### 43 13.40 Woodandair Parts  
-AveRailingstom  
+### 05 43 13.40 Wood stair Parts  
 
 | ID  | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-----|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|---------|----------------|
@@ -3077,7 +3033,6 @@ For customer support on your Building
 
 # 06 43 16 - Wood Railings  
 ## 06 43 16.10 Wood Handrails and Railings  
-### 10 WOOD HANDRAILS AND RAILINGS
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
@@ -3141,10 +3096,10 @@ For customer support on your Building
 | 0010 | COLUMNS                                                              |        |             |             |        |          |        |           |         |                |
 | 0050 | Aluminum, round colonial, 6" diameter                                | 2 Carp | 80          | .200        | V.LF.  | 11.60    | 11.25  |           | 22.85   | 29.5           |
 | 0100 | 8" diameter                                                          |        | 62.25       | .257        |        | 17.60    | 14.45  |           | 32.05   | 41             |
-| 0200 | 10" diameter                                                         |        | 55          | .291        | 1      | 27.50    | 16.40  |           | 43.90   | 55             |
-| 0250 | Fir, stock units, hollow round, 6" diameter                          |        | 80          | .200        | ]      | 35.50    | 11.25  |           | 46.75   | 56             |
+| 0200 | 10" diameter                                                         |        | 55          | .291        |       | 27.50    | 16.40  |           | 43.90   | 55             |
+| 0250 | Fir, stock units, hollow round, 6" diameter                          |        | 80          | .200        |       | 35.50    | 11.25  |           | 46.75   | 56             |
 | 0300 | 8" diameter                                                          |        | 80          | .200        |        | 32.50    | 11.25  |           | 43.75   | 52             |
-| 0350 | 10" diameter                                                         |        | 70          | .229        | | I    | 50       | 12.85  |           | 62.85   | 74             |
+| 0350 | 10" diameter                                                         |        | 70          | .229        |     | 50       | 12.85  |           | 62.85   | 74             |
 | 0360 | 12" diameter                                                         |        | 65.246      |             |        | 73       | 13.85  |           | 86.85   | 101            |
 | 0400 | Solid turned, to 8' high, 3-1/2" diameter                            |        | 80          | .200        |        | 12       | 11.25  |           | 23.25   | 30             |
 | 0500 | 4-1/2" diameter                                                      |        | 75          | .213        |        | 14.95    | 12     |           | 26.95   | 34             |
@@ -3223,19 +3178,13 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 00648 Wood Fr48es
 
-## 06 48 16 Wooderior Wood Door FrameFrames8 16.10 Interior Wood Door Jamb and Frames
-
-### 0010 INTERIOR WOOD DOOR JAMB AND FRAMES
-
-Interior frame, pine, 11/16" x 3-5/8" deep  
-4-9/16" deep
-
 ---
+
+## 06 48 16 Interior Wood Door Frames            
+## 06 48 16.10 Interior Wood Door Jamb and Frames
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 06    | 48 16 Interior Wood Door Frames                                      |        |              |             |      |          |       |           |        |                |
-| 06    | 48 16.10 Interior Wood Door Jamb and Frames                          |        |              |             |      |          |       |           |        |                |
 | 0010  | INTERIOR WOOD DOOR JAMB AND FRAMES                                   |        |              |             |      |          |       |           |        |                |
 | 3000  | Interior frame, pine, 11/16" x 3-5/8" deep                           | 2 Carp | 375          | .043        | LF   | 5.80     | 2.40  |           | 8.20   | 10             |
 | 3020  | 4-9/16" deep                                                         |        | 375          | .043        |      | 6.70     | 2.40  |           | 9.10   | 11             |
@@ -3245,10 +3194,10 @@ Interior frame, pine, 11/16" x 3-5/8" deep
 | 3400  | Walnut, 11/16" x 3-5/8" deep                                         |        | 350          | .046        |      | 15.15    | 2.57  |           | 17.72  | 20.            |
 | 3420  | 4-9/16" deep                                                         |        | 350          | .046        |      | 12.50    | 2.57  |           | 15.07  | 17.            |
 | 3440  | 5-3/16" deep                                                         |        | 350          | .046        |      | 12.10    | 2.57  |           | 14.67  | 17.            |
-| 3600  | Pocket door frame                                                    |        | 16           | 1           | Ea.  | 69       | 56.50 |           | 125.50 | 161225         |
+| 3600  | Pocket door frame                                                    |        | 16           | 1           | Ea.  | 69       | 56.50 |           | 125.50 | 160         |
 | 3800  | Threshold, oak, 5/8" x 3-5/8" deep                                   |        | 200          | .080        | L.F. | 2.75     | 4.50  |           | 7.25   | 9.             |
-| 3820  | 4-5/8" deep                                                          |        | 190          | .084        |      | 4.50     | 4.74  |           | 9.24   |                |
-| 3840  | 5-5/8" deep                                                          |        | 180          | .089        |      | 7.15     | 5     |           | 12.15  |                |
+| 3820  | 4-5/8" deep                                                          |        | 190          | .084        |      | 4.50     | 4.74  |           | 9.24   |    12            |
+| 3840  | 5-5/8" deep                                                          |        | 180          | .089        |      | 7.15     | 5     |           | 12.15  |      15          |
 
 ---
 
@@ -3261,7 +3210,7 @@ Interior frame, pine, 11/16" x 3-5/8" deep
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010  | SHUTTERS, EXTERIOR                                                   |        |              |             |      |          |       |           |        |                |
-| 0012  | Aluminum, louvered, 1'-4" wide, 3'-0" long                           | 1 Carp | 10           | .800        | Pr.  | 320      | 454444|           | 365    |                |
+| 0012  | Aluminum, louvered, 1'-4" wide, 3'-0" long                           | 1 Carp | 10           | .800        | Pr.  | 320      | 45 |           | 365    |                |
 | 0400  | 6'8" long                                                            |        | 9            | .889        |      | 525      | 50    |           | 575    |                |
 | 1000  | Pine, louvered, primed, each 1'-2" wide, 3'-3" long                  |        | 10           | .800        |      | 251      |       |           | 296    |                |
 | 1100  | 4'7" long                                                            |        | 10           | .800        |      | 330      | 45    |           | 375    |                |
@@ -3270,7 +3219,7 @@ Interior frame, pine, 11/16" x 3-5/8" deep
 | 1620  | Cedar, louvered, 1'-2" wide, 5'-7" long                              |        | 10           | 1.800       |      | 390      | 45    |           | 435    |                |
 | 1630  | Each 1'4" wide, 2'-2" long                                           |        | 10           | .800        |      | 205      | 45    |           | 250    |                |
 | 1670  | 4'-3" long                                                           |        | 10           | .800        |      | 350      | 45    |           | 395    |                |
-| 1690  | 5'-11" long                                                          |        | 10           | .800        |      | 465      | 45244488444448|        | 510    |                |
+| 1690  | 5'-11" long                                                          |        | 10           | .800        |      | 465      | 45    |        | 510    |                |
 | 1700  | Door blinds, 6'-9" long, each 1'-3" wide                             |        | 9            | .889        |      | 615      | 50    |           | 665    |                |
 | 1710  | 1'-6" wide                                                           |        | 9            | 1.889       |      | 725      | 50    |           | 775    |                |
 | 1720  | Cedar, solid raised panel, each 1'-4" wide, 3'-3" long               |        | 10           | .800        |      | 315      | 45    |           | 360    |                |
@@ -3291,36 +3240,36 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 06 51 13 - Plastic Lumber
 
-## Recycled Plastic Lumber
+## 06 51 13.10 Recycled Plastic Lumber
 
-| ID   | Name                                      | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 010  | Sheeting, recycled plastic, black or white, 4' x 8' x 1/8" | 2GCarp      | 1100        | .015        | S.F. | 1.35     | .82   |           | 2.17  | 2.71           |
-| 010  | 4' x 8' x 3/16"                          |              | 1100        | .015        |      | 1.76     | .82   |           | 2.58  | 3.16           |
-| 020  | 4' x 8' x 1/4"                           |              | 950         | .017        |      | 1.87     | .95   |           | 2.82  | 3.47           |
-| 030  | 4' x 8' x 3/8"                           |              | 950         | .017        |      | 3.44     | .95   |           | 4.39  | 5.20           |
-| 040  | 4' x 8' x 1/2"                           |              | 900         | .018        |      | 4.57     | 1     |           | 5.57  | 6.55           |
-| 050  | 4' x 8' x 5/8"                           |              | 900         | .018        |      | 7.95     | 1     |           | 8.95  | 10.25          |
-| 060  | 4' x 8' x 3/4"                           |              | 850         | .019        |      | 8.90     | 1.06  |           | 9.96  | 11.40          |
-| 070  | Add for colors                            |              |             |             | Ea.  | 5%       |       |           |       |                |
-| 500  | 100% recycled plastic, var colors, NLB, 2" x 2" |         |             |             | L.F.| 2.16     |       |           | 2.16  | 2.38           |
-| 510  | 2" x 4"                                   |              |             |             |      | 4.46     |       |           | 4.46  | 4.91           |
-| 520  | 2" x 6"                                   |              |             |             |      | 6.70     |       |           | 6.70  | 7.40           |
-| 530  | 2" x 8"                                   |              |             |             |      | 9.90     |       |           | 9.90  | 10.85          |
-| 540  | 2" x 10"                                  |              |             |             |      | 14       |       |           | 14    | 15.40          |
-| 550  | 5/4" x 4"                                 |              |             |             |      | 4.70     |       |           | 4.70  | 5.15           |
-| 560  | 5/4" x 6"                                 |              |             |             |      | 6.55     |       |           | 6.55  | 7.20           |
-| 570  | 1" x 6"                                   |              |             |             |      | 3.22     |       |           | 3.22  | 3.54           |
-| 580  | 1/2" x 8"                                 |              |             |             |      | 3.80     |       |           | 3.80  | 4.18           |
-| 1590 | 2" x 10" T&G                              |              |             |             |      | 14       |       |           | 14    | 15.40          |
-| 600  | 3" x 10" T&G                              |              |             |             |      | 24       |       |           | 24    | 26.50          |
-| 610  | Add for premium colors                    |              |             |             |      | 20%      |       |           |       |                |
+| ID   | Name                                                    | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 010  | Sheeting, recycled plastic, black or white, 4' x 8' x 1/8" | 2 Carp | 1100        | .015        | S.F. | 1.35     | .82   |           | 2.17  | 2.71           |
+| 010  | 4' x 8' x 3/16"                                        |        | 1100        | .015        |      | 1.76     | .82   |           | 2.58  | 3.16           |
+| 020  | 4' x 8' x 1/4"                                         |        | 950         | .017        |      | 1.87     | .95   |           | 2.82  | 3.47           |
+| 030  | 4' x 8' x 3/8"                                         |        | 950         | .017        |      | 3.44     | .95   |           | 4.39  | 5.20           |
+| 040  | 4' x 8' x 1/2"                                         |        | 900         | .018        |      | 4.57     | 1     |           | 5.57  | 6.55           |
+| 050  | 4' x 8' x 5/8"                                         |        | 900         | .018        |      | 7.95     | 1     |           | 8.95  | 10.25          |
+| 060  | 4' x 8' x 3/4"                                         |        | 850         | .019        |      | 8.90     | 1.06  |           | 9.96  | 11.40          |
+| 070  | Add for colors                                          |        |             |             | Ea.  | 5%       |       |           |       |                |
+| 500  | 100% recycled plastic, var colors, NLB, 2" x 2"         |        |             |             | L.F. | 2.16     |       |           | 2.16  | 2.38           |
+| 510  | 2" x 4"                                                 |        |             |             |      | 4.46     |       |           | 4.46  | 4.91           |
+| 520  | 2" x 6"                                                 |        |             |             |      | 6.70     |       |           | 6.70  | 7.40           |
+| 530  | 2" x 8"                                                 |        |             |             |      | 9.90     |       |           | 9.90  | 10.85          |
+| 540  | 2" x 10"                                                |        |             |             |      | 14       |       |           | 14    | 15.40          |
+| 550  | 5/4" x 4"                                               |        |             |             |      | 4.70     |       |           | 4.70  | 5.15           |
+| 560  | 5/4" x 6"                                               |        |             |             |      | 6.55     |       |           | 6.55  | 7.20           |
+| 570  | 1" x 6"                                                 |        |             |             |      | 3.22     |       |           | 3.22  | 3.54           |
+| 580  | 1/2" x 8"                                               |        |             |             |      | 3.80     |       |           | 3.80  | 4.18           |
+| 1590 | 2" x 10" T&G                                            |        |             |             |      | 14       |       |           | 14    | 15.40          |
+| 600  | 3" x 10" T&G                                            |        |             |             |      | 24       |       |           | 24    | 26.50          |
+| 610  | Add for premium colors                                  |        |             |             |      | 20%      |       |           |       |                |
 
 ---
 
-## Structural Plastic Lumber
+## 06 51 13.12 Structural Plastic Lumber
 
-| ID   | Name                                      | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 320  | Plastic lumber, posts or columns, 4" x 4" | 2 Carp       | 390         | .041        | LF   | 17.40    | 2.31  |           | 19.71 | 222.50         |
 | 325  | 4" x 6"                                   |              | 275         | .058        |      | 16.10    | 3.28  |           | 19.38 | 22.50          |
@@ -3354,7 +3303,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 06061 Structural Plastic Shapes
 
-## 06 51 13 - Plastic Lumber
+## 06 51 13.12 - Plastic Lumber
 
 | ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -3363,6 +3312,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 06 52 Plastic Structural Assemblies
 
 ### 06 52 10 - Fiberglass Structural Assemblies
+
+### 06 52 10.10 Castings, Fiberglass
 
 | ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -3422,6 +3373,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # 06 52 10 Fiberglass Structural Assemblies
+### 06 52 10.30 Fiberglass Grating
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
@@ -3487,8 +3439,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 06 65 10 Plastic Trim
 
 ### 06 65 10.10 PVC Trim, Exterior
-
-#### 2022 Bare Costs
 
 | ID   | Name                | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|---------------------|---------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|

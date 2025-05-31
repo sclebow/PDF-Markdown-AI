@@ -1267,11 +1267,11 @@ X-ray barriers, modular, panels mounted within framework for
 ---
 
 ## 13 49 33 - Radio Frequency Shielding
+### 13 49 33    -    Radio Frequency Shielding
+### 13 49 33.50 Shielding, Radio Frequency
 
 | ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit      | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|-----------------------------------------------------------|-------|--------------|-------------|-----------|----------|-------|-----------|---------|----------------|
-| 13    | 49    | 33    -    Radio Frequency Shielding              |       |              |             |           |          |       |           |         |                |
-| 13    | 49    | 33.50 Shielding, Radio Frequency                  |       |              |             |           |          |       |           |         |                |
 | 0010  | SHIELDING, RADIO FREQUENCY                                |       |              |             |           |          |       |           |         |                |
 | 0020  | Prefabricated, galvanized steel                           | 2 Carp| 375          | .043        | SF Surf'  | 6.70     | 2.40  |           | 9.10    | 11             |
 | 0040  | 5 oz., copper floor panel                                 |       | 480          | .033        |           | 5.45     | 1.88  |           | 7.33    | 8.80           |
@@ -1298,19 +1298,13 @@ X-ray barriers, modular, panels mounted within framework for
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 11342 Building 42 Modules
+# 13 42 Building Modules
 
-## 13 4 Building Retention Cell Modules
-
-### 13 Modules 16 Steel Detention Cell Modules
-
-#### 0010 STEEL DETENTION CELL MODULES
-
-Cells, prefab., 5' to 6' wide, 7' to 8' high, 7' to 8' deep, bar front, cot, not incl. plumbing
+## 13 42 63.16 Steel Detention Cell Modules
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit    | Material | Labor  | Equipment | Total     | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|---------|----------|--------|-----------|-----------|----------------|
-| 13 42 63.16 | Steel Detention Cell Modules                                         | E-4  | 1.50         | 21.333      | Ea.     | 9,750    | 1,325  | 98.50     | 11,173.50 | 12,900         |
+|  | Cells, prefab., 5' to 6' wide, 7' to 8' high, 7' to 8' deep, bar front, cot, not incl. plumbing                                         | E-4  | 1.50         | 21.333      | Ea.     | 9,750    | 1,325  | 98.50     | 11,173.50 | 12,900         |
 
 ---
 
@@ -1553,15 +1547,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 13 34 19 - Metal Building Engineered  
 ## 13 34 19.50 Pre-Engineered Steel Structures
 
-Triple post 4-span frame, 26 ga. colored roofing and siding  
-160' wide, 14' eave height  
-4300  
-4400  
-16' eave height  
-Daily Labor-  
-2022 B
-
-### 13 34 19 - Metal Building Systems
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit      | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|-----------|----------|-------|-----------|--------|----------------|
