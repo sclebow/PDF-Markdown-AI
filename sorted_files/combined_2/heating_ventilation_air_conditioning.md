@@ -15,13 +15,21 @@ For meter, add
 Bronze
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+### 23 21 20 - Hydronic HVAC Piping Specialties
+
+#### 23 21 20.88 Venturi Flow
+
+| ID    | Name           | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0280  | 6" diameter    | Q-6  | 3.50         | 6.857       | Ea.  | 1,200    | 450   |           | 1,650 | 2,000          |
+| 0500  | For meter, add |      |              |             |      | 2,500    |       |           | 2,500 | 2,725          |
+
+### 23 21 23 - Hydronic Pumps
+
+#### 23 21 23.13 In-Line Centrifugal Hydronic Pumps
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23 21 20 - | Hydronic HVAC Piping Specialties                                    |      |              |             |      |          |       |           |       |                |
-| 23 21 20.88 | Venturi Flow                                                        |      |              |             |      |          |       |           |       |                |
-| 0280  | 6" diameter                                                           | Q-6  | 3.50         | 6.857       | Ea.  | 1,200    | 450   |           | 1,650 | 2,000          |
-| 0500  | For meter, add                                                        |      |              |             |      | 2,500    |       |           | 2,500 | 2,725          |
-| 23 21 23 | Hydronic Pumps                                                         |      |              |             |      |          |       |           |       |                |
-| 23 21 23.13 | In-Line Centrifugal Hydronic Pumps                                   |      |              |             |      |          |       |           |       |                |
 | 0010  | IN-LINE CENTRIFUGAL HYDRONIC PUMPS                                    |      |              |             |      |          |       |           |       |                |
 | 0600  | Bronze, sweat connections, 1/40 HP, in line                           |      |              |             |      | 27       |       |           |       |                |
 | 0640  | 3/4" size                                                             | -1   | 16           | 1           | Ea.  | 257      | 63    |           | 320   | 375            |
@@ -42,9 +50,10 @@ Bronze
 
 ## 23 21 29 - Automatic Condensate Pump Units
 
+### 23 21 29.10 Condensate Removal Pump System
+
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23 21 29.10 | Condensate Removal Pump System                                      |      |              |             |      |          |       |           |       |                |
 | 0010  | CONDENSATE REMOVAL PUMP SYSTEM                                       |      |              |             |      |          |       |           |       |                |
 | 0020  | Pump with 1 gal. ABS tank                                            |      |              |             |      |          |       |           |       |                |
 | 0100  | 115 V                                                                |      |              |             |      |          |       |           |       |                |
@@ -58,20 +67,21 @@ Bronze
 ## 23 22 Steam and Condensate Piping and Pumps
 
 ### 23 22 13 - Steam and Condensate Heating Piping
+### 23 22 13.23 Aboveground Steam and Condensate Piping
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23 22 13.23 | Aboveground Steam and Condensate Piping                             |      |              |             |      |          |       |           |       |                |
 | 0010  | ABOVEGROUND STEAM AND CONDENSATE HEATING PIPING                      |      |              |             |      |          |       |           |       |                |
 | 0020  | Condensate meter                                                     |      |              |             |      |          |       |           |       |                |
 | 0100  | 500 lb. per hour                                                     | 1 Stpi| 14          | .571        | Ea.  | 4,200    | 40    |           | 4,240 | 4,650          |
 | 0140  | 1500 lb. per hour                                                    |      | 7            | 1.143       | 17   | 4,900    | 80.50 |           | 4,980.50| 5,500         |
 
-### 23 22 23 Steam Condensate Pumps
+### 23 22 23 - Steam Condensate Pumps
+
+#### 23 22 23.10 Condensate Return System
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23 22 23.10 | Condensate Return System                                            |      |              |             |      |          |       |           |       |                |
 | 0010  | CONDENSATE RETURN SYSTEM                                             |      |              |             |      |          |       |           |       |                |
 | 2000  | Simplex                                                             |      |              |             |      |          |       |           |       |                |
 | 2010  | With pump, motor, Cl receiver, float switch                         |      |              |             |      |          | 50    |           |       |                |
@@ -174,123 +184,136 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 23 31 HVAC Ducts and Casings
 
 ## 23 31 13 - Metal Ducts
-
 ### 23 31 13.13 Rectangular Metal Ducts
 
-| ID    | Name/Description                                                                                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|-------|--------------------------------------------------------------------------------------------------------------------|------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 0010  | RECTANGULAR METAL DUCTS                                                                                            |      |             |             |      |          |        |           |        |                |
-| 0020  | Fabricated rectangular, includes fittings, joints, supports,                                                        |      |             |             |      |          |        |           |        |                |
-| 0021  | allowance for flexible connections and field sketches.                                                             |      |             |             |      |          |        |           |        |                |
-| 0030  | Does not include "as-built dwgs." or insulation.                                                                   |      |             |             |      |          |        |           |        |                |
-| 0031  | NOTE: Fabrication and installation are combined                                                                    |      |             |             |      |          |        |           |        |                |
-| 0040  | as LABOR cost. Approx. 25% fittings assumed.                                                                       |      |             |             |      |          |        |           |        |                |
-| 0042  | Fabrication/Inst. is to commercial quality standards                                                               |      |             |             |      |          |        |           |        |                |
-| 0043  | (SMACNA or equiv) for structure, sealing, leak testing, etc.                                                       |      |             |             |      |          |        |           |        |                |
-| 0050  | Add to labor for elevated installation                                                                             |      |             |             |      |          |        |           |        |                |
-| 0051  | of fabricated ductwork                                                                                             |      |             |             |      |          |        |           |        |                |
-| 0052  | 10' to 15' high                                                                                                    |      |             |             |      |          |        |           | 6%     |                |
-| 0053  | 15' to 20' high                                                                                                    |      |             |             |      |          |        |           | 12%    |                |
-| 0054  | 20' to 25' high                                                                                                    |      |             |             |      |          |        |           | 15%    |                |
-| 0055  | 25' to 30' high                                                                                                    |      |             |             |      |          |        |           | 21%    |                |
-| 0056  | 30' to 35' high                                                                                                    |      |             |             |      |          |        |           | 24%    |                |
-| 0057  | 35' to 40' high                                                                                                    |      |             |             |      |          |        |           | 30%    |                |
-| 0058  | Over 40' high                                                                                                      |      |             |             |      |          |        |           | 33%    |                |
-| 0072  | For duct insulation see Line 23 07 13.10 3000                                                                      |      |             |             |      |          |        |           |        |                |
-| 0100  | Aluminum, alloy 3003-H14, under 100 lb.                                                                            | Q-10 | 75          | .320        | Lb.  | 3.18     | 20     |           | 23.18  | 3422           |
-| 0110  | 100 to 500 lb.                                                                                                     |      | 80          | .300        |      | 1.80     | 18.90  |           | 20.70  | 30.50           |
-| 0120  | 500 to 1,000 lb.                                                                                                   |      | 95          | .253        |      | 2.04     | 15.95  |           | 17.99  | 26              |
-| 0140  | 1,000 to 2,000 lb.                                                                                                 |      | 120         | .200        |      | 1.98     | 12.60  |           | 14.58  | 21              |
-| 0150  | 2,000 to 5,000 lb.                                                                                                 |      | 130         | .185        |      | 1.92     | 11.65  |           | 13.57  | 19.65           |
-| 0160  | Over 5,000 lb.                                                                                                     | Q-10 | 145         | 166         | Lb.  | 1.98     | 10.45  |           | 12.43  | 17.90           |
-| 0500  | Galvanized steel, under 200 lb.                                                                                    |      | 235         | .102        |      | .63      | 6.45   |           | 7.08   | 10.40           |
-| 0520  | 200 to 500 lb.                                                                                                     |      | 245         | .098        |      | .70      | 6.20   |           | 6.90   | 10.05           |
-| 0540  | 500 to 1,000 lb.                                                                                                   |      | 255         | .094        |      | .66      | 5.95   |           | 6.61   | 9.70            |
-| 0560  | 1,000 to 2,000 lb.                                                                                                 |      | 265         | .091        |      | .68      | 5.70   |           | 6.38   | 9.35            |
-| 0570  | 2,000 to 5,000 lb.                                                                                                 |      | 275         | .087        |      | .56      | 5.50   |           | 6.06   | 8.90            |
-| 0580  | Over 5,000 lb.                                                                                                     |      | 285         | .084        |      | .68      | 5.30   |           | 5.98   | 8.75            |
-| 1000  | Stainless steel, type 304, under 100 lb.                                                                          |      | 165         | .145        |      | 5.20     | 9.15   |           | 14.35  | 19.50           |
-| 1020  | 100 to 500 lb.                                                                                                     |      | 175         | .137        |      | 4.17     | 8.65   |           | 12.82  | 17.65           |
-| 1030  | 500 to 1,000 lb.                                                                                                   |      | 190         | .126        |      | 3.03     | 7.95   |           | 10.98  | 15.35           |
-| 1040  | 1,000 to 2,000 lb.                                                                                                 |      | 200         | .120        |      | 2.70     | 7.55   |           | 10.25  | 14.35           |
-| 1050  | 2,000 to 5,000 lb.                                                                                                |      | 225         | .107        |      | 2.33     | 6.75   |           | 9.08   | 12.70           |
-| 1060  | Over 5,000 lb.                                                                                                     |      | 235         | .102        |      | 2.93     | 6.45   |           | 9.38   | 12.90           |
-| 1100  | For medium pressure ductwork, add                                                                                  |      |             |             |      |          |        |           | 15%    |                |
-| 1200  | For high pressure ductwork, add                                                                                    |      |             |             |      |          |        |           | 40%    |                |
-| 1210  | For welded ductwork, add                                                                                           |      |             |             |      |          |        |           | 85%    |                |
-| 1220  | For 30% fittings, add                                                                                              |      |             |             |      |          |        |           | 11%    |                |
-| 1224  | For 40% fittings, add                                                                                              |      |             |             |      |          |        |           | 34%    |                |
-| 1228  | For 50% fittings, add                                                                                              |      |             |             |      |          |        |           | 56%    |                |
-| 1232  | For 60% fittings, add                                                                                              |      |             |             |      |          |        |           | 79%    |                |
-| 1236  | For 70% fittings, add                                                                                              |      |             |             |      |          |        |           | 101%   |                |
+| ID    | Name/Description                                                                                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | RECTANGULAR METAL DUCTS                                                                                            |       |              |             |      |          |        |           |        |                |
+| 0020  | Fabricated rectangular, includes fittings, joints, supports,                                                        |       |              |             |      |          |        |           |        |                |
+| 0021  | allowance for flexible connections and field sketches.                                                             |       |              |             |      |          |        |           |        |                |
+| 0030  | Does not include "as-built dwgs." or insulation.                                                                   |       |              |             |      |          |        |           |        |                |
+| 0031  | NOTE: Fabrication and installation are combined                                                                    |       |              |             |      |          |        |           |        |                |
+| 0040  | as LABOR cost. Approx. 25% fittings assumed.                                                                       |       |              |             |      |          |        |           |        |                |
+| 0042  | Fabrication/Inst. is to commercial quality standards                                                               |       |              |             |      |          |        |           |        |                |
+| 0043  | (SMACNA or equiv) for structure, sealing, leak testing, etc.                                                       |       |              |             |      |          |        |           |        |                |
+| 0050  | Add to labor for elevated installation                                                                             |       |              |             |      |          |        |           |        |                |
+| 0051  | of fabricated ductwork                                                                                             |       |              |             |      |          |        |           |        |                |
+| 0052  | 10' to 15' high                                                                                                    |       |              |             |      |          |        |           | 6%     |                |
+| 0053  | 15' to 20' high                                                                                                    |       |              |             |      |          |        |           | 12%    |                |
+| 0054  | 20' to 25' high                                                                                                    |       |              |             |      |          |        |           | 15%    |                |
+| 0055  | 25' to 30' high                                                                                                    |       |              |             |      |          |        |           | 21%    |                |
+| 0056  | 30' to 35' high                                                                                                    |       |              |             |      |          |        |           | 24%    |                |
+| 0057  | 35' to 40' high                                                                                                    |       |              |             |      |          |        |           | 30%    |                |
+| 0058  | Over 40' high                                                                                                      |       |              |             |      |          |        |           | 33%    |                |
+| 0072  | For duct insulation see Line 23 07 13.10 3000                                                                      |       |              |             |      |          |        |           |        |                |
+| 0100  | Aluminum, alloy 3003-H14, under 100 lb.                                                                            | Q-10  | 75           | .320        | Lb.  | 3.18     | 20     |           | 23.18  | 34.22           |
+| 0110  | 100 to 500 lb.                                                                                                     |       | 80           | .300        |      | 1.80     | 18.90  |           | 20.70  | 30.50           |
+| 0120  | 500 to 1,000 lb.                                                                                                   |       | 95           | .253        |      | 2.04     | 15.95  |           | 17.99  | 26.00           |
+| 0140  | 1,000 to 2,000 lb.                                                                                                 |       | 120          | .200        |      | 1.98     | 12.60  |           | 14.58  | 21.00           |
+| 0150  | 2,000 to 5,000 lb.                                                                                                 |       | 130          | .185        |      | 1.92     | 11.65  |           | 13.57  | 19.65           |
+| 0160  | Over 5,000 lb.                                                                                                     | Q-10  | 145          | 1.66        | Lb.  | 1.98     | 10.45  |           | 12.43  | 17.90           |
+| 0500  | Galvanized steel, under 200 lb.                                                                                    |       | 235          | .102        |      | .63      | 6.45   |           | 7.08   | 10.40           |
+| 0520  | 200 to 500 lb.                                                                                                     |       | 245          | .098        |      | .70      | 6.20   |           | 6.90   | 10.05           |
+| 0540  | 500 to 1,000 lb.                                                                                                   |       | 255          | .094        |      | .66      | 5.95   |           | 6.61   | 9.70            |
+| 0560  | 1,000 to 2,000 lb.                                                                                                 |       | 265          | .091        |      | .68      | 5.70   |           | 6.38   | 9.35            |
+| 0570  | 2,000 to 5,000 lb.                                                                                                 |       | 275          | .087        |      | .56      | 5.50   |           | 6.06   | 8.90            |
+| 0580  | Over 5,000 lb.                                                                                                     |       | 285          | .084        |      | .68      | 5.30   |           | 5.98   | 8.75            |
+| 1000  | Stainless steel, type 304, under 100 lb.                                                                          |       | 165          | .145        |      | 5.20     | 9.15   |           | 14.35  | 19.50           |
+| 1020  | 100 to 500 lb.                                                                                                     |       | 175          | .137        |      | 4.17     | 8.65   |           | 12.82  | 17.65           |
+| 1030  | 500 to 1,000 lb.                                                                                                   |       | 190          | .126        |      | 3.03     | 7.95   |           | 10.98  | 15.35           |
+| 1040  | 1,000 to 2,000 lb.                                                                                                 |       | 200          | .120        |      | 2.70     | 7.55   |           | 10.25  | 14.35           |
+| 1050  | 2,000 to 5,000 lb.                                                                                                |       | 225          | .107        |      | 2.33     | 6.75   |           | 9.08   | 12.70           |
+| 1060  | Over 5,000 lb.                                                                                                     |       | 235          | .102        |      | 2.93     | 6.45   |           | 9.38   | 12.90           |
+| 1100  | For medium pressure ductwork, add                                                                                  |       |              |             |      |          |        |           | 15%    |                |
+| 1200  | For high pressure ductwork, add                                                                                    |       |              |             |      |          |        |           | 40%    |                |
+| 1210  | For welded ductwork, add                                                                                           |       |              |             |      |          |        |           | 85%    |                |
+| 1220  | For 30% fittings, add                                                                                              |       |              |             |      |          |        |           | 11%    |                |
+| 1224  | For 40% fittings, add                                                                                              |       |              |             |      |          |        |           | 34%    |                |
+| 1228  | For 50% fittings, add                                                                                              |       |              |             |      |          |        |           | 56%    |                |
+| 1232  | For 60% fittings, add                                                                                              |       |              |             |      |          |        |           | 79%    |                |
+| 1236  | For 70% fittings, add                                                                                              |       |              |             |      |          |        |           | 101%   |                |
 
 Building Construction Costs with RSMeans data, call 800.448.8182.
 
 For customer support on your
 
-# 23 23 Hydronic P21ing and PumHydronic 20 - Hydronic HVAC Piping Pipinglties
+## 23 21 20.18 Automatic Air Vent Pumps
 
-## 23 21 20.18 Automatic Air VentPumps  
-1-1/2" NPT inlet, 250 psi
+| ID                | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------------------|---------------------|------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 1-1/2" NPT inlet, 250 psi | Q-5  | 12           | 1.333       | Ea.  | 1,150    | 84.50  |           | 1,234.50 | 1,375          |
+
 
 ## 23 21 20.42 Expansion Joints  
-0010 EXPANSION JOINTS
+## 0010 EXPANSION JOINTS
+### 23 21 20 - Hydronic HVAC Piping Specialties
+### 23 21 20.18 Automatic Air Vent
+### 23 21 20.42 Expansion Joints
 
-| ID   | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
-|------|----------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
-| 23   | 21 20 - Hydronic HVAC Piping Specialties |       |              |             |      |          |        |           |          |                |
-| 23   | 21 20.18 Automatic Air Vent            | Q 5   | 12           | 1.333       | Ea.  | 1,150    | 84.50  |           | 1,234.50 | 1,375          |
-| 23   | 21 20.42 Expansion Joints              |       |              |             |      |          |        |           |          |                |
-| 0010 | EXPANSION JOINTS                       |       |              |             |      |          |        |           |          |                |
-| 0100 | Bellows type, neoprene cover, flanged spool | 1 Stpi | 11           | .727        | Eo.  | 345      | 51     |           | 396      | 455            |
-| 0140 | 6" face to face, 1-1/4" diameter       |       |              |             |      |          |        |           |          |                |
-| 0160 | 1-1/2" diameter                        | п     | 10.60        | .755        |      | 345      | 53     |           | 398      | 460            |
-| 0180 | 2" diameter                            | I Q-5 | 13.30        | 1.203       |      | 350      | 76     |           | 426      | 500            |
-| 0190 | 2-1/2" diameter                        | ||    | 12.40        | 1.290       |      | 365      | 81.50  |           | 446.50   | 520            |
-| 0200 | 3" diameter                            | 111.40| 1.404        |             |      | 405      | 89     |           | 494      | 585            |
-| 0480 | 10" face to face, 2" diameter          |       | 13           | 1.231       |      | 505      | 78     |           | 583      | 670            |
-| 0500 | 2-1/2" diameter                        |       | 12           | 1.333       |      | 530      | 84.50  |           | 614.50   | 710            |
-| 0520 | 3" diameter                            |       | 11           | 1.455       |      | 540      | 92     |           | 632      | 730            |
-| 0540 | 4" diameter                            |       | 8            | 2           |      | 615      | 127    |           | 742      | 870            |
-| 0560 | 5" diameter                            |       | 7            | 2.286       |      | 735      | 145    |           | 880      | 1,025          |
-| 0580 | 6" diameter                            |       | 6            | 2.667       |      | 760      | 169    |           | 929      | 1,075          |
-| 23   | 21 20.46 Expansion Tanks               |       |              |             |      |          |        |           |          |                |
-| 0010 | EXPANSION TANKS                        |       |              |             |      |          |        |           |          |                |
-| 1507 | Underground fuel-oil storage tanks, see Section 23 13 13 | | | | | | | | | |
-| 1512 | Tank leak detection systems, see Section 28 33 33.50 | | | | | | | | | |
-| 2000 | Steel, liquid expansion, ASME, painted, 15 gallon capacity | Q-5 | 17 | .941 | Eo. | 935 | 59.50 | | 994.50 | 1,125 |
-| 2020 | 24 gallon capacity                     |       | 14           | 1.143       |      | 765      | 72.50  |           | 837.50   | 950            |
-| 2040 | 30 gallon capacity                     |       | 12           | 1.333       |      | 1,125    | 84.50  |           | 1,209.50 | 1,350          |
-| 2060 | 40 gallon capacity                     |       | 10           | 1.600       |      | 1,300    | 101    |           | 1,401    | 1,575          |
-| 2080 | 60 gallon capacity                     | Q-5   | 8            | 2           | Ea.  | 1,550    | 127    |           | 1,677    | 1,925          |
-| 2100 | 80 gallon capacity                     |       | 7            | 2.286       |      | 1,675    | 145    |           | 1,820    | 2,075          |
-| 2120 | 100 gallon capacity                    |       | 6            | 2.667       |      | 2,275    | 169    |           | 2,444    | 2,750          |
-| 3000 | Steel ASME expansion, rubber diaphragm, 19 gal. cap. accept. | | 28 | 1.333 | | 3,550 | 84.50 | | 3,634.50 | 4,025 |
-| 3020 | 31 gallon capacity                     |       |              | 2           |      | 3,950    | 127    |           | 4,077    | 4,550          |
-| 3040 | 61 gallon capacity                     |       | 6            | 2.667       |      | 5,925    | 169    |           | 6,094    | 6,775          |
-| 3080 | 119 gallon capacity                    |       | 4            |             |      | 5,975    | 253    |           | 6,228    | 6,950          |
-| 3100 | 158 gallon capacity                    |       | 3.80         | 4.211       |      | 8,325    | 267    |           | 8,592    | 9,550          |
-| 3140 | 317 gallon capacity                    |       | 2.80         | 5.714       |      | 12,500   | 360    |           | 12,860   | 14,300         |
-| 3180 | 528 gallon capacity                    |       | 2.40         | 6.667       |      | 20,400   | 420    |           | 20,820   | 23,000         |
-| 23   | 21 20.58 Hydronic Heating Control Valves |     |              |             |      |          |        |           |          |                |
-| 0010 | HYDRONIC HEATING CONTROL VALVES        |       |              |             |      |          |        |           |          |                |
-| 0050 | Hot water, nonelectric, thermostatic   |       |              |             |      |          |        |           |          |                |
-| 0100 | Radiator supply, 1/2" diameter         | Stpi  | 22225        | .333        | Eo.  | 37       | 23.50  |           | 60.50    | 75.50          |
-| 0120 | 3/4" diameter                          |       | 20           | .400        |      | 41.50    | 28     |           | 69.50    | 87.50          |
-| 0140 | 1" diameter                            |       | 19           | .421        |      | 121      | 29.50  |           | 150.50   | 177            |
-| 0160 | 1-1/4" diameter                        |       | 15           | .533        |      | 104      | 37.50  |           | 141.50   | 171            |
-| 0500 | For low pressure steam, add            |       |              |             |      | 25%      |        |           |          |                |
-| 23   | 21 20.70 Steam Traps                   |       |              |             |      |          |        |           |          |                |
-| 0010 | STEAM TRAPS                            |       |              |             |      |          |        |           |          |                |
-| 0030 | Cast iron body, threaded               |       |              |             |      |          |        |           |          |                |
-| 0040 | Inverted bucket                        |       |              |             |      |          |        |           |          |                |
-| 0050 | 1/2" pipe size                         | 1 Stpi| 12           | .667        | Eo.  | 170      | 47     |           | 217      | 257            |
-| 0070 | 3/4" pipe size                         |       | 10           | .800        |      | 296      | 56.50  |           | 352.50   | 410            |
-| 0100 | 1" pipe size                           |       | 9            | .889        |      | 455      | 62.50  |           | 517.50   | 595            |
-| 0120 | 1-1/4" pipe size                       |       | 8            | 1           |      | 690      | 70.50  |           | 760.50   | 865            |
-| 1000 | Float & thermostatic, 15 psi           |       |              |             |      |          |        |           |          |                |
-| 1010 | 3/4" pipe size                         | 1 Stpi| 65           | .500        | Eo.  | 202      | 35     |           | 237      | 275            |
-| 1020 | 1" pipe size                           |       | 15           | .533        |      | 194      | 37.50  |           | 231.50   | 270            |
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 0010 | EXPANSION JOINTS                             |        |              |             |      |          |        |           |          |                |
+| 0100 | Bellows type, neoprene cover, flanged spool  | 1 Stpi | 11           | .727        | Ea.  | 345      | 51     |           | 396      | 455            |
+| 0140 | 6" face to face, 1-1/4" diameter             |        |              |             |      |          |        |           |          |                |
+| 0160 | 1-1/2" diameter                              |        | 10.60        | .755        |      | 345      | 53     |           | 398      | 460            |
+| 0180 | 2" diameter                                  | Q-5    | 13.30        | 1.203       |      | 350      | 76     |           | 426      | 500            |
+| 0190 | 2-1/2" diameter                              |        | 12.40        | 1.290       |      | 365      | 81.50  |           | 446.50   | 520            |
+| 0200 | 3" diameter                                  |        | 11.40        | 1.404       |      | 405      | 89     |           | 494      | 585            |
+| 0480 | 10" face to face, 2" diameter                |        | 13           | 1.231       |      | 505      | 78     |           | 583      | 670            |
+| 0500 | 2-1/2" diameter                              |        | 12           | 1.333       |      | 530      | 84.50  |           | 614.50   | 710            |
+| 0520 | 3" diameter                                  |        | 11           | 1.455       |      | 540      | 92     |           | 632      | 730            |
+| 0540 | 4" diameter                                  |        | 8            | 2           |      | 615      | 127    |           | 742      | 870            |
+| 0560 | 5" diameter                                  |        | 7            | 2.286       |      | 735      | 145    |           | 880      | 1,025          |
+| 0580 | 6" diameter                                  |        | 6            | 2.667       |      | 760      | 169    |           | 929      | 1,075          |
+
+### 23 21 20.46 Expansion Tanks
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 0010  | EXPANSION TANKS                                           |        |              |             |      |          |        |           |          |                |
+| 1507  | Underground fuel-oil storage tanks, see Section 23 13 13  |        |              |             |      |          |        |           |          |                |
+| 1512  | Tank leak detection systems, see Section 28 33 33.50      |        |              |             |      |          |        |           |          |                |
+| 2000  | Steel, liquid expansion, ASME, painted, 15 gal. capacity  | Q-5    | 17           | .941        | Ea.  | 935      | 59.50  |           | 994.50   | 1,125          |
+| 2020  | 24 gallon capacity                                        |        | 14           | 1.143       |      | 765      | 72.50  |           | 837.50   | 950            |
+| 2040  | 30 gallon capacity                                        |        | 12           | 1.333       |      | 1,125    | 84.50  |           | 1,209.50 | 1,350          |
+| 2060  | 40 gallon capacity                                        |        | 10           | 1.600       |      | 1,300    | 101    |           | 1,401    | 1,575          |
+| 2080  | 60 gallon capacity                                        | Q-5    | 8            | 2           | Ea.  | 1,550    | 127    |           | 1,677    | 1,925          |
+| 2100  | 80 gallon capacity                                        |        | 7            | 2.286       |      | 1,675    | 145    |           | 1,820    | 2,075          |
+| 2120  | 100 gallon capacity                                       |        | 6            | 2.667       |      | 2,275    | 169    |           | 2,444    | 2,750          |
+| 3000  | Steel ASME expansion, rubber diaphragm, 19 gal. cap.      |        | 28           | 1.333       |      | 3,550    | 84.50  |           | 3,634.50 | 4,025          |
+| 3020  | 31 gallon capacity                                        |        |              | 2           |      | 3,950    | 127    |           | 4,077    | 4,550          |
+| 3040  | 61 gallon capacity                                        |        | 6            | 2.667       |      | 5,925    | 169    |           | 6,094    | 6,775          |
+| 3080  | 119 gallon capacity                                       |        | 4            |             |      | 5,975    | 253    |           | 6,228    | 6,950          |
+| 3100  | 158 gallon capacity                                       |        | 3.80         | 4.211       |      | 8,325    | 267    |           | 8,592    | 9,550          |
+| 3140  | 317 gallon capacity                                       |        | 2.80         | 5.714       |      | 12,500   | 360    |           | 12,860   | 14,300         |
+| 3180  | 528 gallon capacity                                       |        | 2.40         | 6.667       |      | 20,400   | 420    |           | 20,820   | 23,000         |
+
+## 23 21 20.58 Hydronic Heating Control Valves
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | HYDRONIC HEATING CONTROL VALVES      |        |              |             |      |          |        |           |         |                |
+| 0050 | Hot water, nonelectric, thermostatic |        |              |             |      |          |        |           |         |                |
+| 0100 | Radiator supply, 1/2" diameter       | Stpi   | 22           | .333        | Ea.  | 37       | 23.50  |           | 60.50   | 75.50          |
+| 0120 | 3/4" diameter                        |        | 20           | .400        |      | 41.50    | 28     |           | 69.50   | 87.50          |
+| 0140 | 1" diameter                          |        | 19           | .421        |      | 121      | 29.50  |           | 150.50  | 177            |
+| 0160 | 1-1/4" diameter                      |        | 15           | .533        |      | 104      | 37.50  |           | 141.50  | 171            |
+| 0500 | For low pressure steam, add          |        |              |             |      | 25%      |        |           |         |                |
+
+## 23 21 20.70 Steam Traps
+
+| ID   | Name                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | STEAM TRAPS            |        |              |             |      |          |        |           |         |                |
+| 0030 | Cast iron body, threaded|       |              |             |      |          |        |           |         |                |
+| 0040 | Inverted bucket        |        |              |             |      |          |        |           |         |                |
+| 0050 | 1/2" pipe size         | 1 Stpi | 12           | .667        | Ea.  | 170      | 47     |           | 217     | 257            |
+| 0070 | 3/4" pipe size         |        | 10           | .800        |      | 296      | 56.50  |           | 352.50  | 410            |
+| 0100 | 1" pipe size           |        | 9            | .889        |      | 455      | 62.50  |           | 517.50  | 595            |
+| 0120 | 1-1/4" pipe size       |        | 8            | 1           |      | 690      | 70.50  |           | 760.50  | 865            |
+| 1000 | Float & thermostatic, 15 psi |  |              |             |      |          |        |           |         |                |
+| 1010 | 3/4" pipe size         | 1 Stpi | 65           | .500        | Ea.  | 202      | 35     |           | 237     | 275            |
+| 1020 | 1" pipe size           |        | 15           | .533        |      | 194      | 37.50  |           | 231.50  | 270            |
 
 540 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -379,56 +402,64 @@ DaiWorkabor-
 for upgrade to SEER 14 add  
 0020
 
-### 23 05 05 Selective Demolition for HV
+### 23 05 05 - Selective Demolition for HVAC
+
+#### 23 05 02 - HVAC General
+
+#### 23 05 02.10 - Air Conditioning, General
 
 | ID           | Name                                         | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |--------------|----------------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
-| 23 05 02     | HVAC General                                 |        |             |             |       |          |       |           |       |                |
-| 23 05 02.10  | Air Conditioning, General                    |        |             |             |       |          |       |           |       |                |
 | 0010         | AIR CONDITIONING, GENERAL Prices are for standard efficiencies (SEER 13) |        |             |             |       |          |       |           |       |                |
 | 0020         | for upgrade to SEER 14 add                   |        |             |             |       |          |       |           |       | 10 %           |
-| 23 05 05     | Selective Demolition for HVAC                |        |             |             |       |          |       |           |       |                |
-| 23 05 05.10  | HVAC Demolition                              |        |             |             |       |          |       |           |       |                |
-| 0010         | HVAC DEMOLITION                              |        |             |             |       |          |       |           |       |                |
-| 0100         | Air conditioner, splitunit, 3 ton            | 0-5    | 23          | 88          | Eo.   |          | 505   |           | 505   | 755            |
-| 0150         | Package unit, 3 ton                          | 0-6    |             |             | #F    |          | 525   |           | 525   | 785            |
-| 0298         | Boilers                                      |        |             |             |       |          |       |           |       |                |
-| 0300         | Electric, up thru 148 kW                     | Q༣-19  | 2           | 12          | Ea.   |          | 770   |           | 770   | 1,150          |
-| 0310         | 150 thru 518 kW                              | ་ "    | 1           | 24          |       |          | 1,550 |           | 1,550 | [ 2,300        |
-| 0320         | 550 thru 2,000 kW                            | ནྟ-21 | .40         | 80          |       |          | 5,275 |           | 5,275 | 7,850          |
-| 0330         | 2,070 kW and up                              |        | .30         | 107         |       |          | 7,025 |           | 7,025 | 10,500         |
-| 0340         | Gas and/or oil, up thru 150 MBH              | ༤      | 2.20        | 14.545      |       |          | 975   |           | 975   | 1,450          |
-| 0350         | 160 thru 2,000 MBH                           |        | .80         | 40          |       |          | 2,675 |           | 2,675 | 4,000          |
-| 0360         | 2,100 thru 4,500 MBH                         |        | .50         | 64          |       |          | 4,275 |           | 4,275 | 6,400          |
-| 0370         | 4,600 thru 7,000 MBH                         |        | .30         | 107         |       |          | 7,150 |           | 7,150 | 10,700         |
-| 0380         | 7,100 thru 12,000 MBH                        |        | .16         | 200         |       |          | 13,400|           | 13,400| 20,000         |
-| 0390         | 12,200 thru 25,000 MBH                       |        | .12         | 267         |       |          | 17,900|           | 17,900| 26,600         |
-| 1000         | Ductwork, 4" high, 8" wide                   | 1 Clab | 200         | .040        | い.F. |          | 1.82  |           | 1.82  | 2.72           |
-| 1100         | 6" high, 8" wide                             |        | 165.048     |             |       |          | 2.21  |           | 2.21  | 3.29           |
-| 1200         | 10" high, 12" wide                           |        | 125         | .064        |       |          | 2.92  |           | 2.92  | 4.35           |
-| 1300         | 12"-14" high, 16"-18" wide                   |        | 85          | .094        |       |          | 4.29  |           | 4.29  | 6.40           |
-| 1400         | 18" high, 24" wide                           |        | 67          | .119        |       |          | 5.45  |           | 5.45  | 8.10           |
-| 1500         | 30" high, 36" wide                           |        | 56          | .143        |       |          | 6.50  |           | 6.50  | 9.70           |
-| 1540         | 72" wide                                     |        | 50.160      |             |       |          | 7.30  |           | 7.30  | 10.85          |
-| 3000         | Mechanical equipment, light items. Unit is weight, not cooling. | 0-5    | .90         | 17.778      | Ton   | 1,125    |         | 1,125     | 1,675          |
-| 3600         | Heavy items                                  | "      | 1.10        | 14.545      | "     | 920      |         | 920       | 1,375          |
-| 5090         | Remove refrigerant from system                | 1 Stpi | 40          | .200        | Lb.   | 14.05    |         | 14.05     | 21             |
 
----
+### 23 05 05 - Selective Demolition for HVAC
+
+#### 23 05 05.10 - HVAC Demolition
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|---------|----------------|
+| 0010  | HVAC DEMOLITION                                           |        |              |             |       |          |       |           |         |                |
+| 0100  | Air conditioner, split unit, 3 ton                        | 0-5    | 23           | 88          | Ea.   |          | 505   |           | 505     | 755            |
+| 0150  | Package unit, 3 ton                                       | 0-6    |              |             | #F    |          | 525   |           | 525     | 785            |
+| 0298  | Boilers                                                   |        |              |             |       |          |       |           |         |                |
+| 0300  | Electric, up thru 148 kW                                  | Q-19   | 2            | 12          | Ea.   |          | 770   |           | 770     | 1,150          |
+| 0310  | 150 thru 518 kW                                           |        | 1            | 24          |       |          | 1,550 |           | 1,550   | 2,300          |
+| 0320  | 550 thru 2,000 kW                                         | Q-21   | 0.40         | 80          |       |          | 5,275 |           | 5,275   | 7,850          |
+| 0330  | 2,070 kW and up                                           |        | 0.30         | 107         |       |          | 7,025 |           | 7,025   | 10,500         |
+| 0340  | Gas and/or oil, up thru 150 MBH                           | 4      | 2.20         | 14.545      |       |          | 975   |           | 975     | 1,450          |
+| 0350  | 160 thru 2,000 MBH                                        |        | 0.80         | 40          |       |          | 2,675 |           | 2,675   | 4,000          |
+| 0360  | 2,100 thru 4,500 MBH                                      |        | 0.50         | 64          |       |          | 4,275 |           | 4,275   | 6,400          |
+| 0370  | 4,600 thru 7,000 MBH                                      |        | 0.30         | 107         |       |          | 7,150 |           | 7,150   | 10,700         |
+| 0380  | 7,100 thru 12,000 MBH                                     |        | 0.16         | 200         |       |          | 13,400|           | 13,400  | 20,000         |
+| 0390  | 12,200 thru 25,000 MBH                                    |        | 0.12         | 267         |       |          | 17,900|           | 17,900  | 26,600         |
+| 1000  | Ductwork, 4" high, 8" wide                                | 1 Clab | 200          | 0.040       | L.F.  |          | 1.82  |           | 1.82    | 2.72           |
+| 1100  | 6" high, 8" wide                                          |        | 165.048      |             |       |          | 2.21  |           | 2.21    | 3.29           |
+| 1200  | 10" high, 12" wide                                        |        | 125          | 0.064       |       |          | 2.92  |           | 2.92    | 4.35           |
+| 1300  | 12"-14" high, 16"-18" wide                                |        | 85           | 0.094       |       |          | 4.29  |           | 4.29    | 6.40           |
+| 1400  | 18" high, 24" wide                                        |        | 67           | 0.119       |       |          | 5.45  |           | 5.45    | 8.10           |
+| 1500  | 30" high, 36" wide                                        |        | 56           | 0.143       |       |          | 6.50  |           | 6.50    | 9.70           |
+| 1540  | 72" wide                                                  |        | 50.160       |             |       |          | 7.30  |           | 7.30    | 10.85          |
+| 3000  | Mechanical equipment, light items. Unit is weight, not cooling. | 0-5    | 0.90         | 17.778      | Ton   | 1,125    |       |           | 1,125   | 1,675          |
+| 3600  | Heavy items                                               |        | 1.10         | 14.545      | Ton   | 920      |       |           | 920     | 1,375          |
+| 5090  | Remove refrigerant from system                            | 1 Stpi | 40           | 0.200       | Lb.   | 14.05    |       |           | 14.05   | 21             |
 
 ## 23 05 23 - General-Duty Valves for HVAC Piping
 
+### 23 05 23.30 Valves, Iron Body
+
+#### Schedule
+
 | ID           | Name                                         | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
 |--------------|----------------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
-| 23 05 23.30  | Valves, Iron Body                            |        |             |             |       |          |       |           |       |                |
 | 0010         | VALVES, IRON BODY                            |        |             |             |       |          |       |           |       |                |
 | 1020         | Butterfly, wafer type, gear actuator, 200 lb.|        |             |             |       |          |       |           |       |                |
-| 1030         | 2"                                           | 1 Plum | 14          | .571        | Ea.   | 118      | 40    |           | 158   | が 190         |
+| 1030         | 2"                                           | 1 Plum | 14          | .571        | Ea.   | 118      | 40    |           | 158   |    190         |
 | 1040         | 2-1/2"                                       | Q-1    | 9           | 1.778       |       | 120      | 112   |           | 232   | 299            |
 | 1050         | 3"                                           | 1 1    | 8           | 12          |       | 124      | 126   |           | 250   | 325            |
 | 1060         | 4"                                           |        | 5           | 13.200      |       | 138      | 201   |           | 339   | 450            |
 | 1070         | 5"                                           | Q-2    | 5           | 4.800       |       | 155      | 315   |           | 470   | 635            |
-| 1080         | 6"                                           | "      | 5           | 4.800       |       | 176      | 315   |           | 491   | 660            |
+| 1080         | 6"                                           |        | 5           | 4.800       |       | 176      | 315   |           | 491   | 660            |
 | 1650         | Gate, 125 lb., N.R.S.                        |        |             |             |       |          |       |           |       |                |
 | 2150         | Flanged                                      |        |             |             |       |          |       |           |       |                |
 | 2200         | 2"                                           | 1 Plum | 5           | 1.600       | Ea.   | 960      | 112   |           | 1,072 | 1,225          |
@@ -439,9 +470,9 @@ for upgrade to SEER 14 add
 | 3550         | OS & Y, 125 lb, flanged                      |        |             |             |       |          |       |           |       |                |
 | 3600         |                                              | 1 Plum | 5           | 1.600       | Ea.   | 700      | 112   |           | 812   | 935            |
 | 3660         | 3"                                           | Q-1    | 4.50        | 3.556       |       | 780      | 223   |           | 1,003 | 1,200          |
-| 3680         | 4"                                           | "      | 3           | 5.333       |       | 980      | 335   |           | 1,315 | 1,575          |
+| 3680         | 4"                                           |        | 3           | 5.333       |       | 980      | 335   |           | 1,315 | 1,575          |
 | 3700         | 6"                                           | 0-2    | 3           | 8           |       | 1,875    | 520   |           | 2,395 | 2,825          |
-| 3900         | For 175 lb., flanged, add                    |        |             |             |       | 200 %    | 10 %  | -         |       |                |
+| 3900         | For 175 lb., flanged, add                    |        |             |             |       | 200 %    | 10 %  |           |       |                |
 | 5450         | Swing check, 125 lb, threaded                |        |             |             |       |          |       |           |       |                |
 
 ---
@@ -450,61 +481,38 @@ for upgrade to SEER 14 add
 
 # 23 07 HVAC Insulation
 
-## 23 07 HVAC-  
-- Duct Insulation  
-- Insulation 3.10 Duct Thermal Insulation
+## 23 07 13 Duct Insulation
+### 23 07 13.10 Duct Thermal Insulation
 
-3110  
-3120  
-1/2" x 24" x 25'  
-1/2" x 48" x 25'  
-3126  
-1/2" x 48" x 25"  
-3140  
-FSK vapor barrier wrap, .75 lb. density  
-3160  
-1" thick  
-3170  
-1-1/2" thick  
-3180  
-2" thick  
-3190  
-3"
-
----
-
-## 23 07 13 -- Duct Insulation
-
-| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
-|-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 23    | 07 13.10 Duct Thermal Insulation                                     |         |              |             |      |          |       |           |        |                |
-| 3110  | 1/2" x 24" x 25'                                                     | Q-14    | 98           | .163        | S.F. | 3.81     | 9.25  |           | 13.06  | 18.40          |
-| 3120  | 1/2" x 48" x 25'                                                     |         | 1.04         | 15.385      | Roll | 375      | 875   |           | 1,250  | 1,750          |
-| 3126  | 1/2" x 48" x 25"                                                     |         | 104          | .154        | S.F. | 3.77     | 8.75  |           | 12.52  | 17.50          |
-| 3140  | FSK vapor barrier wrap, .75 lb. density                              |         |              |             |      |          |       |           |        |                |
-| 3160  | 1" thick                                                             | Q-14    | 350          | .046        | S.F. | .22      | 2.59  |           | 2.81   | 4.21           |
-| 3170  | 1-1/2" thick                                                         |         | 320          | .050        |      | .55      | 2.84  |           | 3.39   | 4.95           |
-| 3180  | 2" thick                                                             |         | 300          | .053        |      | .77      | 3.03  |           | 3.80   | 5.50           |
-| 3190  | 3" thick                                                             |         | 260          | .062        |      | 1.33     | 3.49  |           | 4.82   | 6.80           |
-| 3200  | 4" thick                                                             |         | 242          | .066        |      | .70      | 3.75  |           | 4.45   | 6.50           |
-| 3210  | Vinyl jacket, same as FSK                                            |         |              |             |      |          |       |           |        |                |
-| 3280  | Unfaced, 1 lb. density                                               |         |              |             |      |          |       |           |        |                |
-| 3310  | 1" thick                                                             | Q-14    | 360          | .044        | S.F. | .28      | 2.52  |           | 2.80   | 4.17           |
-| 3320  | 1-1/2" thick                                                         |         | 330          | .048        |      | .37      | 2.75  |           | 3.12   | 4.62           |
-| 3330  | 2" thick                                                             | G       | 310          | .052        |      | .49      | 2.93  |           | 3.42   | 5              |
-| 3400  | FSK facing, 1 lb. density                                            |         |              |             |      |          |       |           |        |                |
-| 3420  | 1-1/2" thick                                                         | Q-14    | 310          | .052        | S.F. | .87      | 2.93  |           | 3.80   | 5.45           |
-| 3430  | 2" thick                                                             | G H     | 300          | .053        | 2    | .73      | 3.03  |           | 3.76   | 5.45           |
-| 3450  | FSK facing, 1.5 lb. density                                          |         |              |             |      |          |       |           |        |                |
-| 3470  | 1-1/2" thick                                                         | Q-14    | 300          | .053        | S.F. | 1259     | 3.03  |           | 4.23   | 5.95           |
-| 3480  | 2" thick                                                             | "       | 290          | .055        | 群   | 1.59     | 3.13  |           | 4.72   | 6.55           |
-| 3795  | Finishes                                                             |         |              |             |      |          |       |           |        |                |
-| 3800  | Stainless steel woven mesh                                           | Q-14    | 100.160      |             | S.F. | 1.14     | 9.10  |           | 10.24  | 15.15          |
-| 3810  | For .010" stainless steel, add                                       |         | 11160        |             | 100  | 11       | 3.29  | 5.70      | 8.99   | 12.30          |
-| 3820  | 18 oz. fiberglass cloth, pasted on                                   |         | 170.094      |             |      | 1.16     | 5.35  |           | 6.51   | 9.45           |
-| 3900  | 8 oz. canvas, pasted on                                              |         | 180          | .089        |      | .34      | 5.05  |           | 5.39   | 8.05           |
-| 3940  | For .016" aluminum jacket, add                                       |         | 200          | .080        |      | 1.12     | 4.54  |           | 5.66   | 8.20           |
-| 7878  | Contact cement, quart can                                            |         |              |             | Ea.  | 14.75    |       |           | 14.75  | 16.20          |
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3110  | 1/2" x 24" x 25'                             | Q-14   | 98           | .163        | S.F. | 3.81     | 9.25  |           | 13.06  | 18.40          |
+| 3120  | 1/2" x 48" x 25'                             |        | 1.04         | 15.385      | Roll | 375      | 875   |           | 1,250  | 1,750          |
+| 3126  | 1/2" x 48" x 25'                             |        | 104          | .154        | S.F. | 3.77     | 8.75  |           | 12.52  | 17.50          |
+| 3140  | FSK vapor barrier wrap, .75 lb. density      |        |              |             |      |          |       |           |        |                |
+| 3160  | 1" thick                                     | Q-14   | 350          | .046        | S.F. | .22      | 2.59  |           | 2.81   | 4.21           |
+| 3170  | 1-1/2" thick                                 |        | 320          | .050        |      | .55      | 2.84  |           | 3.39   | 4.95           |
+| 3180  | 2" thick                                     |        | 300          | .053        |      | .77      | 3.03  |           | 3.80   | 5.50           |
+| 3190  | 3" thick                                     |        | 260          | .062        |      | 1.33     | 3.49  |           | 4.82   | 6.80           |
+| 3200  | 4" thick                                     |        | 242          | .066        |      | .70      | 3.75  |           | 4.45   | 6.50           |
+| 3210  | Vinyl jacket, same as FSK                    |        |              |             |      |          |       |           |        |                |
+| 3280  | Unfaced, 1 lb. density                       |        |              |             |      |          |       |           |        |                |
+| 3310  | 1" thick                                     | Q-14   | 360          | .044        | S.F. | .28      | 2.52  |           | 2.80   | 4.17           |
+| 3320  | 1-1/2" thick                                 |        | 330          | .048        |      | .37      | 2.75  |           | 3.12   | 4.62           |
+| 3330  | 2" thick                                     | G      | 310          | .052        |      | .49      | 2.93  |           | 3.42   | 5.00           |
+| 3400  | FSK facing, 1 lb. density                    |        |              |             |      |          |       |           |        |                |
+| 3420  | 1-1/2" thick                                 | Q-14   | 310          | .052        | S.F. | .87      | 2.93  |           | 3.80   | 5.45           |
+| 3430  | 2" thick                                     | G H    | 300          | .053        | 2    | .73      | 3.03  |           | 3.76   | 5.45           |
+| 3450  | FSK facing, 1.5 lb. density                  |        |              |             |      |          |       |           |        |                |
+| 3470  | 1-1/2" thick                                 | Q-14   | 300          | .053        | S.F. | 1.259    | 3.03  |           | 4.23   | 5.95           |
+| 3480  | 2" thick                                     |        | 290          | .055        |     | 1.59     | 3.13  |           | 4.72   | 6.55           |
+| 3795  | Finishes                                     |        |              |             |      |          |       |           |        |                |
+| 3800  | Stainless steel woven mesh                   | Q-14   | 100.16       |             | S.F. | 1.14     | 9.10  |           | 10.24  | 15.15          |
+| 3810  | For .010" stainless steel, add               |        | 11160        |             | 100  | 11       | 3.29  | 5.70      | 8.99   | 12.30          |
+| 3820  | 18 oz. fiberglass cloth, pasted on           |        | 170.094      |             |      | 1.16     | 5.35  |           | 6.51   | 9.45           |
+| 3900  | 8 oz. canvas, pasted on                      |        | 180          | .089        |      | .34      | 5.05  |           | 5.39   | 8.05           |
+| 3940  | For .016" aluminum jacket, add               |        | 200          | .080        |      | 1.12     | 4.54  |           | 5.66   | 8.20           |
+| 7878  | Contact cement, quart can                    |        |              |             | Ea.  | 14.75    |       |           | 14.75  | 16.20          |
 
 ---
 
@@ -560,65 +568,78 @@ Demand limiting
 Enthalpy program  
 8200  
 Boiler optimization  
-8220  
 Chiller optimization  
 8  
 
+## 23 09 23 Direct-Digital Control System for HVAC 
+## 23 09 23.10 Control Components / DDC Systems    
+
 | ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
-| 23    | 09 23 Direct - Digital Control System for HVAC |      |             |             |        |          |       |           |        |                |
-| 23    | 09 23.10 Control Components /DDC Systems      |      |             |             |        |          |       |           |        |                |
-| 8140  | Optimum start/ stop                          |      |             |             | Point  |          |       |           | 41.50  | 41.50          |
+| 8140  | Optimum start/stop                           |      |             |             | Point  |          |       |           | 41.50  | 41.50          |
 | 8160  | Demand limiting                              |      |             |             |        |          |       |           | 20.50  | 20.50          |
 | 8180  | Enthalpy program                             |      |             |             |        |          |       |           | 41.50  | 41.50          |
-| 8200  | Boiler optimization                          |      |             |             | Eo .   |          |       |           | 1,225  | 1,225          |
-| 8220  | Chiller optimization                         |      |             |             |   "    |          |       |           | 1,625  | 1,625          |
+| 8200  | Boiler optimization                          |      |             |             | Eo.    |          |       |           | 1,225  | 1,225          |
+| 8220  | Chiller optimization                         |      |             |             | "      |          |       |           | 1,625  | 1,625          |
 | 8240  | Custom applications                          |      |             |             |        |          |       |           |        |                |
 | 8260  | Cost varies with complexity                  |      |             |             |        |          |       |           |        |                |
-| 23    | 09 43 - Pneumatic Control System for HVAC     |      |             |             |        |          |       |           |        |                |
-| 23    | 09 43.10 Pneumatic Control Systems           |      |             |             |        |          |       |           |        |                |
-| 0010  | PNEUMATIC CONTROL SYSTEMS                    |      |             |             |        |          |       |           |        |                |
-| 0011  | Including a nominal 50 ' of tubing. Add control panelboard if req'd. | |         |             |        |          |       |           |        |                |
-| 0100  | Heating and ventilating, splitsystem          |      |             |             |        |          |       |           |        |                |
-| 0200  | Mixed aircontrol, economizer cycle, panel readout, tubing | |         |             |        |          |       |           |        |                |
-| 0220  | Up to 10 tons                                | 5G5  | Q -19       | 68          | 35.294 | Eg .     | 5,200 | 2,275     |        | 7,475 | 9,100 |
-| 0240  | For 10 to 20 tons                            | G    |             | .63         | 37.915 |          | 5,850 | 2,425     |        | 8,275 | 10,100 |
-| 0260  | For over 20 tons                             | G    |             | .58         | 41.096 |          | 6,350 | 2,650     |        | 9,000 | 10,900 |
-| 0300  | Heating coi, hot water, 3 way valve,          |      |             |             |        |          |       |           |        |                |
-| 0320  | Freezestat, limit control on discharge, readout | 0-5 | .69        | 23.088      | Ea .   | 3,875    | 1,450 |           | 5,325  | 6,425          |
-| 0500  | Cooling coil, chilled water, room             |      |             |             |        |          |       |           |        |                |
-| 0520  | Thermostat, 3 way valve                      | Q-52 |             | 8           | Eq .   | 1,675    | 505   |           | 2,180  | 2,575          |
-| 0600  | Cooling tower, fan cycle, damper control,     |      |             |             |        |          |       |           |        |                |
-| 0620  | Control system including water readout in/out at panel | Q -19 | .67 | 35.821      | Ea .   | 6,850    | 2,300 |           | 9,150  | 11,000         |
-| 1000  | Unit ventilator, day / night operation,       |      |             |             |        |          |       |           |        |                |
-| 1100  | freezestat, ASHRAE, cycle 2                  | Q-19 | .91         | 26.374      | Ea .   | 3,650    | 1,700 |           | 5,350  | 6,550          |
-| 2000  | Compensated hot water from boiler, valve control, | |             |             |        |          |       |           |        |                |
-| 2100  | readout and reset at panel, up to 60 GPM      | Q-19 | .55         | 43.956      | Ea .   | 7,425    | 2,825 |           | 10,250 | 12,400         |
-| 2120  | For 120 GPM                                  |      | .51         | 47.059      |        | 7,325    | 3,025 |           | 10,350 | # 12,600        |
-| 2140  | For 240 GPM                                  |      | .49         | 49.180      |        | 8,325    | 3,150 |           | 11,475 | 13,900          |
-| 3000  | Boiler room combustion air, damper to 5 S.F., controls | | 1.37 | 17.582      |        | 3,425    | 1,125 |           | 4,550  | 5,450           |
-| 3500  | Fan coil, heating and cooling valves, 4 pipe control system | | 3 | 8 |        | 1,625    | 515   |           | 2,140  | 2,550           |
-| 3600  | Heat exchanger system controls                |      | .86         | 27.907      |        | 3,200    | 1,800 |           | 5,000  | 6,200           |
-| 4000  | Pneumatic thermostat, including controlling room radiator valve | Q-5 | 2.43 | 6.593 |        | 995      | 420   |           | 1,415  | 1,725           |
-| 4060  | Pump control system                          | Q-19 | 3           | 8           |        | 1,525    | 515   |           | 2,040  | 2,450           |
-| 4500  | Air supply for pneumatic control system       |      |             |             |        |          |       |           |        |                |
-| 4600  | Tank mounted duplex compressor, starter, alternator, | |           |             |        |          |       |           |        |                |
-| 4620  | piping, dryer, PRV station and filter         |      |             |             |        |          |       |           |        |                |
-| 4630  | 1/2 HP                                       | Q-19 | .68         | 35.139      | Ea .   | 13,400   | 2,250 |           | 15,650 | 18,100          |
-| 4660  | 1-1 / 2 HP                                   |      | .58         | 41.739      |        | 15,000   | 2,675 |           | 17,675 | 20,500          |
-| 4690  | 5 HP                                         |      | 1.42        | 57.143      |        | 38,800   | 3,675 |           | 42,475 | 48,200          |
-| 23    | 13 Facility Fuel - Storage Tanks              |      |             |             |        |          |       |           |        |                |
-| 23    | 13 13 - Facility Underground Fuel - Oil, Storage Tanks | |         |             |        |          |       |           |        |                |
-| 23    | 13 13.09 Single - Wall Steel Fuel -Oil Tanks  |      |             |             |        |          |       |           |        |                |
-| 0010  | SINGLE -WALL STEEL FUEL -OIL TANKS           |      |             |             |        |          |       |           |        |                |
-| 5000  | Tanks, steel ugnd., st-p3, not incl.hold down bars | |           |             |        |          |       |           |        |                |
-| 5500  | Excavation, pad, pumps and piping not included |     |             |             |        |          |       |           |        |                |
-| 5510  | Single wall, 500 gallon capacity, 7 ga .shell | -5   | 2.70        | 5.926       | Ea .   | 2,275    | 375   |           | 2,650  | 3,075           |
-| 5520  | 1,000 gallon capacity, 7 shell                |  "   | 2.50        | 6.400       |   I    | 3,300    | 405   |           | 3,705  | 4,225           |
-| 5530  | 2,000 gallon capacity, 1/4 " thick shell      | Q-7  | 4.60        | 6.957       |        | 4,750    | 465   |           | 5,215  | 5,925           |
-| 5535  | 2,500 gallon capacity, 7 ga . shell           | 0-5  | 3           | 5.333       |        | 6,400    | 340   |           | 6,740  | 7,550           |
 
-For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 . 537
+## 23 09 43 - Pneumatic Control System for HVAC
+
+### 23 09 43.10 Pneumatic Control Systems
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | PNEUMATIC CONTROL SYSTEMS                                            |      |             |             |        |          |       |           |         |                |
+| 0011  | Including a nominal 50' of tubing. Add control panelboard if req'd.  |      |             |             |        |          |       |           |         |                |
+| 0100  | Heating and ventilating, split system                                |      |             |             |        |          |       |           |         |                |
+| 0200  | Mixed air control, economizer cycle, panel readout, tubing           |      |             |             |        |          |       |           |         |                |
+| 0220  | Up to 10 tons                                                        |      | Q-19        | 68          | 35.294 | Eg.      | 5,200 | 2,275     | 7,475   | 9,100          |
+| 0240  | For 10 to 20 tons                                                    |      |             | .63         | 37.915 |          | 5,850 | 2,425     | 8,275   | 10,100         |
+| 0260  | For over 20 tons                                                     |      |             | .58         | 41.096 |          | 6,350 | 2,650     | 9,000   | 10,900         |
+| 0300  | Heating coil, hot water, 3-way valve                                 |      |             |             |        |          |       |           |         |                |
+| 0320  | Freezestat, limit control on discharge, readout                      | 0-5  | .69         | 23.088      | Ea.    | 3,875    | 1,450 |           | 5,325   | 6,425          |
+| 0500  | Cooling coil, chilled water, room                                    |      |             |             |        |          |       |           |         |                |
+| 0520  | Thermostat, 3-way valve                                              | Q-52 |             | 8           | Eq.    | 1,675    | 505   |           | 2,180   | 2,575          |
+| 0600  | Cooling tower, fan cycle, damper control                             |      |             |             |        |          |       |           |         |                |
+| 0620  | Control system including water readout in/out at panel               | Q-19 | .67         | 35.821      | Ea.    | 6,850    | 2,300 |           | 9,150   | 11,000         |
+| 1000  | Unit ventilator, day/night operation                                 |      |             |             |        |          |       |           |         |                |
+| 1100  | Freezestat, ASHRAE, cycle 2                                          | Q-19 | .91         | 26.374      | Ea.    | 3,650    | 1,700 |           | 5,350   | 6,550          |
+| 2000  | Compensated hot water from boiler, valve control                     |      |             |             |        |          |       |           |         |                |
+| 2100  | Readout and reset at panel, up to 60 GPM                             | Q-19 | .55         | 43.956      | Ea.    | 7,425    | 2,825 |           | 10,250  | 12,400         |
+| 2120  | For 120 GPM                                                          |      | .51         | 47.059      |        | 7,325    | 3,025 |           | 10,350  | 12,600         |
+| 2140  | For 240 GPM                                                          |      | .49         | 49.180      |        | 8,325    | 3,150 |           | 11,475  | 13,900         |
+| 3000  | Boiler room combustion air, damper to 5 S.F., controls               |      | 1.37        | 17.582      |        | 3,425    | 1,125 |           | 4,550   | 5,450          |
+| 3500  | Fan coil, heating and cooling valves, 4 pipe control system          |      | 3           | 8           |        | 1,625    | 515   |           | 2,140   | 2,550          |
+| 3600  | Heat exchanger system controls                                       |      | .86         | 27.907      |        | 3,200    | 1,800 |           | 5,000   | 6,200          |
+| 4000  | Pneumatic thermostat, including controlling room radiator valve      | Q-5  | 2.43        | 6.593       |        | 995      | 420   |           | 1,415   | 1,725          |
+| 4060  | Pump control system                                                  | Q-19 | 3           | 8           |        | 1,525    | 515   |           | 2,040   | 2,450          |
+| 4500  | Air supply for pneumatic control system                              |      |             |             |        |          |       |           |         |                |
+| 4600  | Tank mounted duplex compressor, starter, alternator                  |      |             |             |        |          |       |           |         |                |
+| 4620  | Piping, dryer, PRV station and filter                                |      |             |             |        |          |       |           |         |                |
+| 4630  | 1/2 HP                                                               | Q-19 | .68         | 35.139      | Ea.    | 13,400   | 2,250 |           | 15,650  | 18,100         |
+| 4660  | 1-1/2 HP                                                             |      | .58         | 41.739      |        | 15,000   | 2,675 |           | 17,675  | 20,500         |
+| 4690  | 5 HP                                                                 |      | 1.42        | 57.143      |        | 38,800   | 3,675 |           | 42,475  | 48,200         |
+
+---
+
+## 23 13 Facility Fuel - Storage Tanks
+
+### 23 13 13 - Facility Underground Fuel-Oil Storage Tanks
+
+#### 23 13 13.09 Single-Wall Steel Fuel-Oil Tanks
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | SINGLE-WALL STEEL FUEL-OIL TANKS                          |      |             |             |        |          |       |           |        |                |
+| 5000  | Tanks, steel underground, st-p3, not incl. hold down bars |      |             |             |        |          |       |           |        |                |
+| 5500  | Excavation, pad, pumps and piping not included            |      |             |             |        |          |       |           |        |                |
+| 5510  | Single wall, 500 gallon capacity, 7 ga. shell             | -5   | 2.70        | 5.926       | Ea.    | 2,275    | 375   |           | 2,650  | 3,075          |
+| 5520  | 1,000 gallon capacity, 7 ga. shell                        | "    | 2.50        | 6.400       | I      | 3,300    | 405   |           | 3,705  | 4,225          |
+| 5530  | 2,000 gallon capacity, 1/4" thick shell                   | Q-7  | 4.60        | 6.957       |        | 4,750    | 465   |           | 5,215  | 5,925          |
+| 5535  | 2,500 gallon capacity, 7 ga. shell                        | 0-5  | 3           | 5.333       |        | 6,400    | 340   |           | 6,740  | 7,550          |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # 23233 Air Duct Accessories
 
@@ -626,53 +647,53 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1940 | 6" diameter         | G    | Q-9         | 260         | .062 | L.F.     | 3.81  | 3.74      |       | 7.55           | 9.85           |
-| 1960 | 7" diameter         | G    | Q-9         | 220         | .073 | L.F.     | 4.41  | 4.42      |       | 8.83           | 11.50          |
-| 1980 | 8" diameter         | G    |             | 180         | .089 |          | 4.48  | 5.40      |       | 9.88           | 13.10          |
-| 2020 | 10" diameter        | G    |             | 140         | .114 |          | 5.40  | 6.95      |       | 12.35          | 16.40          |
-| 2040 | 12" diameter        | G    |             | 100         | .160 |          | 6.30  | 9.75      |       | 16.05          | 21.50          |
+| 1940 | 6" diameter         | G    | Q-9         | 260         | .062 | L.F.     | 3.81  | 3.74      | 7.55  | 9.85           |
+| 1960 | 7" diameter         | G    | Q-9         | 220         | .073 | L.F.     | 4.41  | 4.42      | 8.83  | 11.50          |
+| 1980 | 8" diameter         | G    |             | 180         | .089 |          | 4.48  | 5.40      | 9.88  | 13.10          |
+| 2020 | 10" diameter        | G    |             | 140         | .114 |          | 5.40  | 6.95      | 12.35  | 16.40          |
+| 2040 | 12" diameter        | G    |             | 100         | .160 |          | 6.30  | 9.75      | 16.05  | 21.50          |
 
 ---
 
 ## 23 33 53 - Duct Liners
 
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 3340 | Board type fiberglass liner, FSK, 1-1/2 lb. density | | | | | | | | | |
-| 3344 | 1" thick            | 555555GGGGQ-14 | 150 | .107 | S.F. | 1.08 | 6.05 | | 7.13 | 10.45 |
-| 3345 | 1-1/2" thick        | G    |             | 130         | .123 |        | 1.19  | 7         |       | 8.19           | 12              |
-| 3346 | 2" thick            |      |             | 120         | .133 |        | 1.37  | 7.55      |       | 8.92           | 13.10           |
-| 3348 | 3" thick            |      |             | 110         | .145 |        | 1.78  | 8.25      |       | 10.03          | 14.60           |
-| 3350 | 4" thick            |      |             | 100         | .160 |        | 2.17  | 9.10      |       | 11.27          | 16.30           |
-| 3356 | 3 lb. density, 1" thick |  |             | 150         | .107 |        | 2.76  | 6.05      |       | 8.81           | 12.30           |
-| 3358 | 1-1/2" thick        |      |             | 130         | .123 |        | 3.49  | 7         |       | 10.49          | 14.55           |
-| 3360 | 2" thick            |      |             | 120         | .133 |        | 4.10  | 7.55      |       | 11.65          | 16.10           |
-| 3362 | 2-1/2" thick        |      |             | 110         | .145 |        | 2.49  | 8.25      |       | 10.74          | 15.40           |
-| 3364 | 3" thick            |      |             | 100         | .160 |        | 2.85  | 9.10      |       | 11.95          | 17.05           |
-| 3366 | 4" thick            |      |              | 90         | .178 |        | 3.57  | 10.10     |       | 13.67          | 19.40           |
-| 3370 | 6 lb. density, 1" thick |  |             | 140         | .114 |        | 1.94  | 6.50      |       | 8.44           | 12.05           |
-| 3374 | 1-1/2" thick        |      |             | 120         | .133 |        | 2.58  | 7.55      |       | 10.13          | 14.45           |
-| 3378 | 2" thick            |      |             | 100         | .160 |        | 3.26  | 9.10      |       | 12.36          | 17.50           |
+| ID    | Name                                         | Crew           | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|----------------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3340  | Board type fiberglass liner, FSK, 1-1/2 lb. density |         |             |             |      |          |       |           |        |                |
+| 3344  | 1" thick                                     |           Q-14 | 150         | .107        | S.F. | 1.08     | 6.05  |           | 7.13   | 10.45          |
+| 3345  | 1-1/2" thick                                 |                | 130         | .123        |      | 1.19     | 7     |           | 8.19   | 12             |
+| 3346  | 2" thick                                     |                | 120         | .133        |      | 1.37     | 7.55  |           | 8.92   | 13.10          |
+| 3348  | 3" thick                                     |                | 110         | .145        |      | 1.78     | 8.25  |           | 10.03  | 14.60          |
+| 3350  | 4" thick                                     |                | 100         | .160        |      | 2.17     | 9.10  |           | 11.27  | 16.30          |
+| 3356  | 3 lb. density, 1" thick                      |                | 150         | .107        |      | 2.76     | 6.05  |           | 8.81   | 12.30          |
+| 3358  | 1-1/2" thick                                 |                | 130         | .123        |      | 3.49     | 7     |           | 10.49  | 14.55          |
+| 3360  | 2" thick                                     |                | 120         | .133        |      | 4.10     | 7.55  |           | 11.65  | 16.10          |
+| 3362  | 2-1/2" thick                                 |                | 110         | .145        |      | 2.49     | 8.25  |           | 10.74  | 15.40          |
+| 3364  | 3" thick                                     |                | 100         | .160        |      | 2.85     | 9.10  |           | 11.95  | 17.05          |
+| 3366  | 4" thick                                     |                | 90          | .178        |      | 3.57     | 10.10 |           | 13.67  | 19.40          |
+| 3370  | 6 lb. density, 1" thick                      |                | 140         | .114        |      | 1.94     | 6.50  |           | 8.44   | 12.05          |
+| 3374  | 1-1/2" thick                                 |                | 120         | .133        |      | 2.58     | 7.55  |           | 10.13  | 14.45          |
+| 3378  | 2" thick                                     |                | 100         | .160        |      | 3.26     | 9.10  |           | 12.36  | 17.50          |
 
 ---
 
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 3490 | Board type, fiberglass liner, 3 lb. density | | | | | | | | | |
-| 3680 | No finish           |      |             |             |      |          |       |           |       |                |
-| 3700 | 1" thick            | GGG  | Q-14        | 170         | .094 | S.F.     | .77   | 5.35      |       | 6.12           | 9               |
-| 3710 | 1-1/2" thick        |      |             | 140         | .114 |          | 1.15  | 6.50      |       | 7.65           | 11.15           |
-| 3720 | 2" thick            |      |             | 130         | .123 |          | 1.51  | 7         |       | 8.51           | 12.35           |
+| ID   | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3490 | Board type, fiberglass liner, 3 lb. density |       |             |             |      |          |       |           |        |                |
+| 3680 | No finish                              |       |             |             |      |          |       |           |        |                |
+| 3700 | 1" thick                               | Q-14  | 170         | .094        | S.F. | .77      | 5.35  |           | 6.12   | 9              |
+| 3710 | 1-1/2" thick                           |       | 140         | .114        |      | 1.15     | 6.50  |           | 7.65   | 11.15          |
+| 3720 | 2" thick                               |       | 130         | .123        |      | 1.51     | 7     |           | 8.51   | 12.35          |
 
 ---
 
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 3940 | Board type, non-fibrous foam | | | | | | | | | |
-| 3950 | Temperature, bacteria and fungi resistant | | | | | | | | | |
-| 3960 | 1" thick            | GGG  | Q-14        | 150         | .107 | S.F.     | 3.05  | 6.05      |       | 9.10           | 12.60           |
-| 3970 | 1-1/2" thick        |      |             | 130         | .123 |          | 5.30  | 7         |       | 12.30          | 16.55           |
-| 3980 | 2" thick            |      |             | 120         | .133 |          | 4.25  | 7.55      |       | 11.80          | 16.30           |
+| ID   | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3940 | Board type, non-fibrous foam           |       |             |             |      |          |       |           |        |                |
+| 3950 | Temperature, bacteria and fungi resistant |     |             |             |      |          |       |           |        |                |
+| 3960 | 1" thick                               | Q-14  | 150         | .107        | S.F. | 3.05     | 6.05  |           | 9.10   | 12.60          |
+| 3970 | 1-1/2" thick                           |       | 130         | .123        |      | 5.30     | 7     |           | 12.30  | 16.55          |
+| 3980 | 2" thick                               |       | 120         | .133        |      | 4.25     | 7.55  |           | 11.80  | 16.30          |
 
 ---
 
@@ -731,7 +752,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
 |------|--------------|--------|-------------|-------------|------|----------|-------|-----------|----------|----------------|
-| 1370 | 1"           | 1 Plum | 10          | .800        | Eo.  | 880      | 56    |           | 936      | 1,050          |
+| 1370 | 1"           | 1 Plum | 10          | .800        | Ea.  | 880      | 56    |           | 936      | 1,050          |
 | 1400 | 2"           | "      | 8           | 1           |      | 850      | 70    |           | 920      | 1,050          |
 | 1440 | 2-1/2"       | Q-1    | 5           | 3.200       |      | 980      | 201   |           | 1,181    | 1,375          |
 | 1450 | 3"           |        | 4.50        | 3.556       |      | 1,025    | 223   |           | 1,248    | 1,450          |
@@ -772,7 +793,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|--------|--------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 5700 | 1/4"   | 1 Plum | 22420       | .333        | Eo.  | 76.50    | 23.50 |           | 100     | 119            |
+| 5700 | 1/4"   | 1 Plum | 22420       | .333        | Ea.  | 76.50    | 23.50 |           | 100     | 119            |
 | 5720 | 3/8"   |        | 24          | .333        |      | 76.50    | 23.50 |           | 100     | 119            |
 | 5730 | 1/2"   |        | 24          | .333        |      | 45       | 23.50 |           | 68.50   | 84             |
 | 5740 | 3/4"   |        |             | .400        |      | 53.50    | 28    |           | 81.50   | 101            |
@@ -791,7 +812,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1000 | Centrifugal fans, utilitysets     |      |             |             | Eo.  |          |       |           | 420   | 420            |
+| 1000 | Centrifugal fans, utilitysets     |      |             |             | Ea.  |          |       |           | 420   | 420            |
 | 1100 | Heating and ventilating unit      |      |             |             |      |          |       |           | 630   | 630            |
 | 1200 | Inline fan                        |      |             |             |      |          |       |           | 630   | 630            |
 | 1300 | Propeller and wall fan            |      |             |             |      |          |       |           | 119   | 119            |
@@ -816,51 +837,51 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 23 37 13.30 Grilles
 
-| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor        | Equipment | Total | Total Incl O&P |
-|------|-------------------------------------------|--------|--------------|-------------|------|----------|--------------|-----------|-------|----------------|
-| 0010 | GRILLES                                   |        |              |             |      |          |              |           |       |                |
-| 0020 | Aluminum, unless noted otherwise          |        |              |             |      |          |              |           |       |                |
-| 1000 | Air return, steel, 6" x 6"                | 1 Shee | 26           | .308        | Ea . | 24       | 21223332233  |           | 45    | 58             |
-| 1020 | 10" x 6"                                  |        | 24           | .333        |      | 24       | 22.50        |           | 46.50 | 60.50          |
-| 1080 | 16" x 8"                                  |        | 22           | 1.364       |      | 35       | 24.50        |           | 59.50 | 75.50          |
-| 1100 | 12" x 12"                                 |        | 22           | .364        |  ||  | 35       | 24.50        |           | 59.50 | 75.50          |
-| 1120 | 24" x 12"                                 |        | 18.444       |             |  ]   | 45.50    | 30           |           | 75.50 | 95             |
-| 1220 | 24" x 18"                                 |        | 16.500       |             |      | 56.50    | 34           |           | 90.50 | 114            |
-| 1280 | 36" x 24"                                 |        | 14           | .571        |      | 97.50    | 38.50        |           | 136   | 165            |
-| 3000 | Filter grille with filter, 12" x 12"      |        | 24           | .333        |      | 69.50    | 22.50        |           | 92    | 111            |
-| 3020 | 18" x 12"                                 | 1 Shee | 20           | .400        | Eo . | 86.50    | 27           |           | 113.50| 136            |
-| 3040 | 24" x 18"                                 |        | 18           | .444        |      | 112      | 30           |           | 142   | 168            |
-| 3060 | 24" x 24"                                 |        | 16           | 1.500       |      | 135      | 34           |           | 169   | 199            |
-| 6000 | For steel grilles instead of aluminum in above, deduct |        |              |             |      | 10 %     |              |           |       |                |
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor     | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|-----------|-----------|--------|----------------|
+| 0010 | GRILLES                                   |        |              |             |      |          |           |           |        |                |
+| 0020 | Aluminum, unless noted otherwise          |        |              |             |      |          |           |           |        |                |
+| 1000 | Air return, steel, 6" x 6"                | 1 Shee | 26           | .308        | Ea.  | 24       | 21        |           | 45     | 58             |
+| 1020 | 10" x 6"                                  |        | 24           | .333        |      | 24       | 22.50     |           | 46.50  | 60.50          |
+| 1080 | 16" x 8"                                  |        | 22           | 1.364       |      | 35       | 24.50     |           | 59.50  | 75.50          |
+| 1100 | 12" x 12"                                 |        | 22           | .364        |      | 35       | 24.50     |           | 59.50  | 75.50          |
+| 1120 | 24" x 12"                                 |        | 18.444       |             |      | 45.50    | 30        |           | 75.50  | 95             |
+| 1220 | 24" x 18"                                 |        | 16.500       |             |      | 56.50    | 34        |           | 90.50  | 114            |
+| 1280 | 36" x 24"                                 |        | 14           | .571        |      | 97.50    | 38.50     |           | 136    | 165            |
+| 3000 | Filter grille with filter, 12" x 12"      |        | 24           | .333        |      | 69.50    | 22.50     |           | 92     | 111            |
+| 3020 | 18" x 12"                                 | 1 Shee | 20           | .400        | Ea.  | 86.50    | 27        |           | 113.50 | 136            |
+| 3040 | 24" x 18"                                 |        | 18           | .444        |      | 112      | 30        |           | 142    | 168            |
+| 3060 | 24" x 24"                                 |        | 16           | 1.500       |      | 135      | 34        |           | 169    | 199            |
+| 6000 | For steel grilles instead of aluminum in above, deduct |        |             |      |          | 10 %      |           |        |                |
 
 ## 23 37 13.60 Registers
 
-| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | REGISTERS                                 |        |              |             |      |          |       |           |       |                |
-| 0980 | Air supply                                |        |              |             |      |          |       |           |       |                |
-| 1000 | Ceiling/wall, O.B. damper, anodized aluminum |        |              |             |      |          |       |           |       |                |
-| 1010 | One or two way deflection, adj. curved face bars |        |              |             |      |          |       |           |       |                |
-| 1020 | 8" x 4"                                   | 11 Shee| 26           | .308        | Ea . | 32.50    | 21    |           | 53.50 | 67.50          |
-| 1120 | 12" x 12"                                 | I      | 18           | .444        |      | 56.50    | 30    | 1         | 86.50 | 107            |
-| 1240 | 20" x 6"                                  |        | 18.444       |             |      | 48       | 30    |           | 781   | 97.50          |
-| 1340 | 24" x 8"                                  |        | 13           | 1.615       |      | 64.50    | 41.50 |           | 106   | 134            |
-| 1350 | 24" x 18"                                 |        | 12           | .667        |      | 119      | 45    |           | 164   | 199            |
-| 2700 | Above registers in steel instead of aluminum, deduct |        |              |             |      | 10 %     |       |           |       |                |
-| 4000 | Floor, toe operated damper, enameled steel |        |              |             |      |          |       |           |       |                |
-| 4020 | 4" x 8"                                   | 1 Shee | 32           | .250        | Ea . | 20       | 16.90 |           | 36.90 | 47.50          |
-| 4100 | 8" x 10"                                  |        | 22           | .364        | | 1  | 24.501   | 24.50 | 49        | 1     | 64             |
-| 4140 | 10" x 10"                                 |        | 20           | .400        |   1  | 29.50    | 27    |           | 56.50 | 73             |
-| 4220 | 14" x 14"                                 |        | 16           | .500        |      | 73       | 34    |           | 107   | 132            |
-| 42401| 14" x 20"                                 |        | 15.533       |             |  I   | 69       | 36    |           | 105   | 130            |
-| 49801| Air return                                |        |              |             |      |          |       |           |       |                |
-| 5000 | Ceiling or wall, fixed 45° face blades     |        |              |             |      |          |       |           |       |                |
-| 5010 | Adjustable O.B. damper, anodized aluminum |        |              |             |      |          |       |           |       |                |
-| 5020 | 4" x 8"                                   | 1 Shee | 26           | .308        | Ea.  | 30       | 21    |           | 51    | 64.50          |
-| 5060 | 6" x 10"                                  |        |              | .421        |      | 36       | 28.50 |           | 64.50 | 82.50          |
-| 5280 | 24" x 24"                                 |        |              | .727        |      | 165      | 49    |           | 2141  | 255            |
-| 5300 | 24" x 36"                                 |        |              |             |      | 262      | 67.50 |           | 329.50| 390            |
-| 6000 | For steel construction instead of aluminum, deduct |        |              |             |      | 10 %     |       |           |       |                |
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | REGISTERS                                         |        |             |             |      |          |       |           |        |                |
+| 0980  | Air supply                                        |        |             |             |      |          |       |           |        |                |
+| 1000  | Ceiling/wall, O.B. damper, anodized aluminum      |        |             |             |      |          |       |           |        |                |
+| 1010  | One or two way deflection, adj. curved face bars  |        |             |             |      |          |       |           |        |                |
+| 1020  | 8" x 4"                                           | 1 Shee | 26          | .308        | Ea.  | 32.50    | 21    |           | 53.50  | 67.50          |
+| 1120  | 12" x 12"                                         |        | 18          | .444        |      | 56.50    | 30    | 1         | 86.50  | 107            |
+| 1240  | 20" x 6"                                          |        | 18.444      |             |      | 48       | 30    |           | 78     | 97.50          |
+| 1340  | 24" x 8"                                          |        | 13          | 1.615       |      | 64.50    | 41.50 |           | 106    | 134            |
+| 1350  | 24" x 18"                                         |        | 12          | .667        |      | 119      | 45    |           | 164    | 199            |
+| 2700  | Above registers in steel instead of aluminum, deduct |     |             |             |      | 10 %     |       |           |        |                |
+| 4000  | Floor, toe operated damper, enameled steel        |        |             |             |      |          |       |           |        |                |
+| 4020  | 4" x 8"                                           | 1 Shee | 32          | .250        | Ea.  | 20       | 16.90 |           | 36.90  | 47.50          |
+| 4100  | 8" x 10"                                          |        | 22          | .364        |      | 24.50    | 24.50 |           | 49     | 64             |
+| 4140  | 10" x 10"                                         |        | 20          | .400        |      | 29.50    | 27    |           | 56.50  | 73             |
+| 4220  | 14" x 14"                                         |        | 16          | .500        |      | 73       | 34    |           | 107    | 132            |
+| 4240  | 14" x 20"                                         |        | 15.533      |             |      | 69       | 36    |           | 105    | 130            |
+| 4980  | Air return                                        |        |             |             |      |          |       |           |        |                |
+| 5000  | Ceiling or wall, fixed 45° face blades            |        |             |             |      |          |       |           |        |                |
+| 5010  | Adjustable O.B. damper, anodized aluminum         |        |             |             |      |          |       |           |        |                |
+| 5020  | 4" x 8"                                           | 1 Shee | 26          | .308        | Ea.  | 30       | 21    |           | 51     | 64.50          |
+| 5060  | 6" x 10"                                          |        |             | .421        |      | 36       | 28.50 |           | 64.50  | 82.50          |
+| 5280  | 24" x 24"                                         |        |             | .727        |      | 165      | 49    |           | 214    | 255            |
+| 5300  | 24" x 36"                                         |        |             |             |      | 262      | 67.50 |           | 329.50 | 390            |
+| 6000  | For steel construction instead of aluminum, deduct |       |             |             |      | 10 %     |       |           |        |                |
 
 # 23 37 15 Air Outlets and Inlets, HVAC Louvers
 
@@ -887,73 +908,83 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 33 13.16 Fire Dampers
 
-0010 FIRE DAMPERS  
-3000  
-3020  
-3240  
-Fire damper, curtain type, 1-1/2 hr. rated, vertical, 6" x 6"  
-8" x 6"  
-16" x 14"  
-3400 |  
-24" x 20"
+### 23 33 13.13  Volume - Control Dampers
 
----
+| ID    | Name         | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 8260  | 30" x 18"    | 1 Shee | 7           | 1.143       | Eo .  | 229      | 77    |           | 306   | 370            |
 
-## Table
+### 23 33 13.16 Fire Dampers
 
-| ID      | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+| ID      | Name         | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |---------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
-| 23 33 13.13 | Volume - Control Dampers                                              |        |              |             |        |          |        |           |         |                |
-| 8260    | 30" x 18"                                                           | 1 Shee | 7            | 1.143       | Eo .   | 229      | 77     |           | 306     | 370            |
-| 23 33 13.16 | Fire Dampers                                                          |        |              |             |        |          |        |           |         |                |
 | 0010    | FIRE DAMPERS                                                         |        |              |             |        |          |        |           |         |                |
 | 3000    | Fire damper, curtain type, 1-1/2 hr. rated, vertical, 6" x 6"        | 1 Shee | 248          | .333        | Eq .   | 2467     | 22.50  |           | 46.50   | 60.50          |
 | 3020    | 8" x 6"                                                              |        | 22           | .364        |        | 32       | 24.50  |           | 56.50   | 72.50          |
 | 3240    | 16" x 14"                                                            | 1      | 18           | .444        |        | 78       | 30     |           | 108     | 131            |
 | 3400    | 24" x 20"                                                            |        | 811          |             |        | 67.50    | 67.50  |           | 135     | 177            |
-| 23 33 13.28 | Splitter Damper Assembly                                              |        |              |             |        |          |        |           |         |                |
+
+## 23 33 13.28 Splitter Damper Assembly
+
+| ID      | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|---------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
 | 0010    | SPLITTER DAMPER ASSEMBLY                                              |        |              |             |        |          |        |           |         |                |
 | 7000    | Self locking, 1' rod                                                  | 1 Shee | 24           | .333        | Eo . * | 33.50    | 22.50  |           | 56      | 70.50          |
 | 7020    | 3' rod                                                                | 1 Shee | 22           | .364        | Eo . ! | 45       | 24.50  |           | 69.50   | 87             |
 | 7040    | 4' rod                                                                |        | 20           | .400        |        | 50.50    | 27     |           | 77.50   | 96             |
 | 7060    | 6' rod                                                                |        | 18           | .444        |        | 61.50    | 30     |           | 91.50   | 113            |
-| 23 33 19 | Duct Silencers                                                           |        |              |             |        |          |        |           |         |                |
-| 23 33 19.10 | Duct Silencers                                                          |        |              |             |        |          |        |           |         |                |
-| 0010    | DUCT SILENCERS                                                        |        |              |             |        |          |        |           |         |                |
-| 9000    | Silencers, noise control for air flow, duct                           |        |              |             | MCFM   | 94.50    |        |           | 94.50   | 104            |
-| 23 33 33 | Duct-Mounting Access Doors                                               |        |              |             |        |          |        |           |         |                |
-| 23 33 33.13 | Duct Access Doors                                                       |        |              |             |        |          |        |           |         |                |
-| 0010    | DUCT ACCESS DOORS                                                     |        |              |             |        |          |        |           |         |                |
-| 1000    | Duct access door, insulated, 6" x 6"                                  | 1 Shee | 14           | .571        | Ea .   | 20.50    | 38.50  |           | 59      | 80.50          |
-| 1020    | 10" x 10"                                                             |        | 11           | .727        |        | 23.50    | 49     |           | 72.50   | 100            |
-| 1040    | 12" x 12"                                                             |        | 10           | .800        |        | 23       | 54     |           | 77      | 107            |
-| 1050    | 12" x 18"                                                             |        | 9            | 1.889       |        | 40.50    | 60     |           | 100.501 | 135            |
-| 1070    | 18" x 18"                                                             | 181    |              |             |        | 37       | 67.50  |           | 104.50  | 143            |
-| 1074    | 24" x 18"                                                             |        | 8            |             |        | 65.50    | 67.50  |           | 133     | 175            |
-| 23 33 46 | Flexible Ducts                                                           |        |              |             |        |          |        |           |         |                |
-| 23 33 46.10 | Flexible Air Ducts                                                       |        |              |             |        |          |        |           |         |                |
-| 0010    | FLEXIBLE AIR DUCTS                                                     |        |              |             |        |          |        |           |         |                |
-| 1280    | Add to labor for elevated installation                                 |        |              |             |        |          |        |           |         |                |
-| 1282    | of prefabricated purchased ) ductwork                                  |        |              |             |        |          |        |           |         |                |
-| 1283    | 10' to 15' high                                                        |        |              |             |        |          | 10%    |           |         |                |
-| 1284    | 15' to 20' high                                                        |        |              |             |        |          | 20%    |           |         |                |
-| 1285    | 20' to 25' high                                                        |        |              |             |        |          | 25%    |           |         |                |
-| 1286    | 25' to 30' high                                                        |        |              |             |        |          | 35%    |           |         |                |
-| 1287    | 30' to 35' high                                                        |        |              |             |        |          | 40%    |           |         |                |
-| 1288    | 35' to 40' high                                                        |        |              |             |        |          | 50%    |           |         |                |
-| 1289    | Over 40' high                                                          |        |              |             |        |          | 55%    |           |         |                |
-| 1300    | Flexible, coated fiberglass fabric on corr.resist.metal helix           |        |              |             |        |          |        |           |         |                |
-| 1400    | pressure to 12" (WG) UL-181                                            |        |              |             |        |          |        |           |         |                |
-| 1500    | Noninsulated, 3" diameter                                              | Q- 9   | 400          | .040        | LF . | 1.42     | 2.43   |           | 3.85    | 5.20           |
-| 1540    | 5" diameter                                                            |        | 320          | .050        |        | 1.65 !   | 3.04   |           | 4.69    | 6.40           |
-| 1560    | 6" diameter                                                            |        | 280          | .057        |        | 1.941    | 3.47   |           | 5.41    | 7.40           |
-| 1580    | 7" diameter                                                            |        | 240.067      |             |        | 2.19     | 4.05   |           | 6.24    | 8.50           |
-| 1600    | 8" diameter                                                            |        | 200          | .080        |        | 2.45     | 4.86   |           | 7.31    | 10.05          |
-| 1640    | 10" diameter                                                           |        | 160          | .100        |        | 3.12     | 6.10   |           | 9.22    | 12.60          |
-| 1660    | 12" diameter                                                           |        | 120          | .133        |        | 3.67     | 8.10   |           | 11.77   | 16.25          |
-| 1900    | Insulated, 1" thick, PE jacket, 3" diameter                            | 5G5    | 380          | .042        |        | 2.93     | 2.56   |           | 5.49    | 7.10           |
-| 1910    | 4" diameter                                                            |        | 340          | .047        |        | 3.44     | 2.86   |           | 6.30    | 8.10           |
-| 1920    | 5" diameter                                                            | G      | 300          | .053        |        | 3.60     | 3.24   |           | 6.84    | 8.85           |
+## 23 33 19 Duct Silencers
+### 23 33 19.10 Duct Silencers
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010  | DUCT SILENCERS                               |        |              |             |       |          |       |           |        |                |
+| 9000  | Silencers, noise control for air flow, duct  |        |              |             | MCFM  | 94.50    |       |           | 94.50  | 104            |
+
+---
+
+## 23 33 33 Duct-Mounting Access Doors
+### 23 33 33.13 Duct Access Doors
+
+| ID    | Name                              | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|----------|----------------|
+| 0010  | DUCT ACCESS DOORS                 |        |              |             |       |          |        |           |          |                |
+| 1000  | Duct access door, insulated, 6" x 6"  | 1 Shee | 14           | .571        | Ea.   | 20.50    | 38.50  |           | 59       | 80.50          |
+| 1020  | 10" x 10"                         |        | 11           | .727        |       | 23.50    | 49     |           | 72.50    | 100            |
+| 1040  | 12" x 12"                         |        | 10           | .800        |       | 23       | 54     |           | 77       | 107            |
+| 1050  | 12" x 18"                         |        | 9            | 1.889       |       | 40.50    | 60     |           | 100.50   | 135            |
+| 1070  | 18" x 18"                         |        |              |             |       | 37       | 67.50  |           | 104.50   | 143            |
+| 1074  | 24" x 18"                         |        | 8            |             |       | 65.50    | 67.50  |           | 133      | 175            |
+
+---
+
+## 23 33 46 Flexible Ducts
+### 23 33 46.10 Flexible Air Ducts
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010  | FLEXIBLE AIR DUCTS                          |        |              |             |       |          |       |           |        |                |
+| 1280  | Add to labor for elevated installation       |        |              |             |       |          |       |           |        |                |
+| 1282  | of prefabricated purchased ductwork          |        |              |             |       |          |       |           |        |                |
+| 1283  | 10' to 15' high                              |        |              |             |       |          | 10%   |           |        |                |
+| 1284  | 15' to 20' high                              |        |              |             |       |          | 20%   |           |        |                |
+| 1285  | 20' to 25' high                              |        |              |             |       |          | 25%   |           |        |                |
+| 1286  | 25' to 30' high                              |        |              |             |       |          | 35%   |           |        |                |
+| 1287  | 30' to 35' high                              |        |              |             |       |          | 40%   |           |        |                |
+| 1288  | 35' to 40' high                              |        |              |             |       |          | 50%   |           |        |                |
+| 1289  | Over 40' high                                |        |              |             |       |          | 55%   |           |        |                |
+| 1300  | Flexible, coated fiberglass fabric on corrugated, resist. metal helix |        |              |             |       |          |       |           |        |                |
+| 1400  | Pressure to 12" (WG) UL-181                  |        |              |             |       |          |       |           |        |                |
+| 1500  | Noninsulated, 3" diameter                    | Q-9    | 400          | .040        | LF    | 1.42     | 2.43  |           | 3.85   | 5.20           |
+| 1540  | 5" diameter                                  |        | 320          | .050        |       | 1.65     | 3.04  |           | 4.69   | 6.40           |
+| 1560  | 6" diameter                                  |        | 280          | .057        |       | 1.94     | 3.47  |           | 5.41   | 7.40           |
+| 1580  | 7" diameter                                  |        | 240.07       |             |       | 2.19     | 4.05  |           | 6.24   | 8.50           |
+| 1600  | 8" diameter                                  |        | 200          | .080        |       | 2.45     | 4.86  |           | 7.31   | 10.05          |
+| 1640  | 10" diameter                                 |        | 160          | .100        |       | 3.12     | 6.10  |           | 9.22   | 12.60          |
+| 1660  | 12" diameter                                 |        | 120          | .133        |       | 3.67     | 8.10  |           | 11.77  | 16.25          |
+| 1900  | Insulated, 1" thick, PE jacket, 3" diameter  |     | 380          | .042        |       | 2.93     | 2.56  |           | 5.49   | 7.10           |
+| 1910  | 4" diameter                                  |        | 340          | .047        |       | 3.44     | 2.86  |           | 6.30   | 8.10           |
+| 1920  | 5" diameter                                  |       | 300          | .053        |       | 3.60     | 3.24  |           | 6.84   | 8.85           |
 
 ---
 
@@ -1059,7 +1090,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 0240 | 2,000 gallon capacity                                     | 0-7  | 4.57         | 7.002       | Eo.  | 9,950    | 470   |           | 10,420  | 11,600         |
+| 0240 | 2,000 gallon capacity                                     | 0-7  | 4.57         | 7.002       | Ea.  | 9,950    | 470   |           | 10,420  | 11,600         |
 | 0245 | 3,000 gallon capacity                                     |      | 3.90         | 8.205       |      | 10,100   | 550   |           | 10,650  | 11,900         |
 | 0250 | 4,000 gallon capacity                                     |      | 3.55         | 9.014       |      | 13,400   | 605   |           | 14,005  | 15,700         |
 | 0255 | 5,000 gallon capacity                                     |      | 3.20         | 10          |      | 12,300   | 670   |           | 12,970  | 14,500         |
@@ -1078,7 +1109,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 1040 | 600 gallon capacity                                       | 0-5  | 2.42         | 6.612       | Eo.  | 10,600   | 420   |           | 11,020  | 12,200         |
+| 1040 | 600 gallon capacity                                       | 0-5  | 2.42         | 6.612       | Ea.  | 10,600   | 420   |           | 11,020  | 12,200         |
 | 1050 | 1,000 gallon capacity                                     | "    | 2.25         | 7.111       |      | 14,500   | 450   |           | 14,950  | 16,700         |
 | 1060 | 2,500 gallon capacity                                     | 0-7  | 4.16         | 7.692       |      | 20,000   | 515   |           | 20,515  | 22,800         |
 | 1070 | 3,000 gallon capacity                                     |      | 3.90         | 8.205       |      | 22,400   | 550   |           | 22,950  | 25,500         |
@@ -1094,7 +1125,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 2240 | 2,000 gallon capacity                                     | Q 7  | 3.55         | 9.014       | Eo.  | 10,500   | 605   |           | 11,105  | 12,400         |
+| 2240 | 2,000 gallon capacity                                     | Q 7  | 3.55         | 9.014       | Ea.  | 10,500   | 605   |           | 11,105  | 12,400         |
 | 2250 | 4,000 gallon capacity                                     |      | 2.90         | 11.034      |      | 14,000   | 740   |           | 14,740  | 16,500         |
 | 2260 | 6,000 gallon capacity                                     |      | 2.00         | 16          |      | 12,500   | 1,075 |           | 13,575  | 15,400         |
 | 2280 | 10,000 gallon capacity                                    |      | 1.60         | 20          |      | 19,200   | 1,350 |           | 20,550  | 23,100         |
@@ -1110,7 +1141,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 3040 | 600 gallon capacity                                       | Q 5  | 1.86         | 8.602       | Ea.  | 11,100   | 545   |           | 11,645  | 13,000         |
 | 3050 | 1,000 gallon capacity                                     | "    | 1.70         | 9.412       |      | 15,000   | 595   |           | 15,595  | 17,400         |
 | 3060 | 2,500 gallon capacity                                     | 2-7  | 3.29         | 9.726       |      | 20,500   | 650   |           | 21,150  | 23,600         |
-| 3070 | 3,000 gallon capacity                                     | Q 7  | 3.13         | 10.224      | Eo.  | 22,900   | 685   |           | 23,585  | 26,200         |
+| 3070 | 3,000 gallon capacity                                     | Q 7  | 3.13         | 10.224      | Ea.  | 22,900   | 685   |           | 23,585  | 26,200         |
 | 3080 | 4,000 gallon capacity                                     |      | 2.93         | 10.922      |      | 23,900   | 730   |           | 24,630  | 27,400         |
 | 3090 | 6,000 gallon capacity                                     |      | 1.86         | 17.204      |      | 30,100   | 1,150 |           | 31,250  | 34,800         |
 | 3100 | 8,000 gallon capacity                                     |      | 1.65         | 19.394      |      | 38,000   | 1,300 |           | 39,300  | 43,700         |
@@ -1295,162 +1326,153 @@ Note: Fittings add includes time for detailing and installation.
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 23 37 Air Outlets and Inlets
-
-23 37 23  
-POutletsC Gravity Ventilators  
-2and7 23.10 HVAC Inletsy Air Ventilators  
-5680  
-5880  
-7000  
-7100  
-3,000 CFM, 20" x 42"  
 Size is throat area, volume is at 500 fpm  
 Note: sizes based on exhaust. Intake, with 0.125" SP loss, ap
 
+## 23 37 23    POSI HVAC Gravity Ventilators
+## 23 37 23.10 HVAC Gravity Air Ventilators
+
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 37           | 23   | POSI        | HVAC        | Gravity Ventilators | | | | | |
-| 23   | 37           | 23.10| HVAC        | Gravity Air Ventilators | | | | | | |
 | 5680 |              |      | 3,000 CFM, 20" x 42" | Q-9 | 44 | Ea. | 1,850 | 243 |  | 2,093 | 2,425 |
 | 5880 |              |      | Size is throat area, volume is at 500 fpm | | | | | | | |
 | 7000 |              |      | Note: sizes based on exhaust. Intake, with 0.125" SP | | | | | | | |
 | 7100 |              |      | loss, approximately twice listed capacity. | | | | | | | |
 
 # 23 38 Ventilation Hoods
+## 23 38       Ventilation Hoods
+## 23 38 13    Commercial - Kitchen Hoods
+## 23 38 13.10 Hood and Ventilation Equipment
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 38           |      | Ventilation Hoods | | | | | | | |
-| 23   | 38           | 13   | Commercial - Kitchen Hoods | | | | | | | |
-| 23   | 38           | 13.10| Hood and Ventilation Equipment | | | | | | | |
-| 0010 | HOOD AND VENTILATION EQUIPMENT | | | | | | | | | |
-| 2970 | Exhaust hood, sst, gutter on all sides, 4' x 4' x 2' | 1 Carp | 1.80 | 4.444 | Ea. | 2,325 | 200 |  | 2,575 | 2,925 |
-| 2980 | 4' x 4' x 7' | 11 | 1.60 | 5 | " | 6,775 | 282 |  | 7,057 | 7,875 |
+| ID   | Name                                              | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|---------------------------------------------------|---------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | HOOD AND VENTILATION EQUIPMENT                    |         |             |             |      |          |       |           |        |                |
+| 2970 | Exhaust hood, sst, gutter on all sides, 4' x 4' x 2' | 1 Carp | 1.80        | 4.444       | Ea.  | 2,325    | 200   |           | 2,575  | 2,925          |
+| 2980 | 4' x 4' x 7'                                      | 11      | 1.60        | 5           | "    | 6,775    | 282   |           | 7,057  | 7,875          |
 
 # 23 41 Particulate Air Filtration
+## 23 41 Particulate Air Filtration
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 41           |      | Particulate Air Filtration | | | | | | | |
-| 23   | 41           | 13   | - Panel Air Filters | | | | | | | |
-| 23   | 41           | 13.10| Panel Type Air Filters | | | | | | | |
-| 0010 | PANEL TYPE AIR FILTERS | | | | | | | | | |
-| 2950 | Mechanical media filtration units | | | | | | | | | |
-| 3000 | High efficiency type, with frame, non supported | ว | | MCFM | 32.50 | | | | 32.50 | 36 |
-| 3100 | Supported type | ค | | " | 47 | | | | 47 | 52 |
-| 5500 | Throwaway glass or paper media type, 12" x 36" x 1" | | | Ea. | 2.29 | | | | 2.29 | 2.52 |
+### 23 41 13 Panel Air Filters
 
-# 23 41 16 Renewable - Media Air Filters
+#### 23 41 13.10 Panel Type Air Filters
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 41           | 16   | Renewable - Media Air Filters | | | | | | | |
-| 23   | 41           | 16.10| Disposable Media Air Filters | | | | | | | |
-| 0010 | DISPOSABLE MEDIA AIR FILTERS | | | | | | | | | |
-| 5000 | 1 Renewable disposable roll | | | C.S.F. | 5.10 | | | | 5.10 | 5.60 |
+### 23 41 13.10 Panel Type Air Filters
 
-# 23 41 19 Washable Air Filters
+| ID   | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | PANEL TYPE AIR FILTERS                                    |      |             |             |        |          |       |           |        |                |
+| 2950 | Mechanical media filtration units                         |      |             |             |        |          |       |           |        |                |
+| 3000 | High efficiency type, with frame, non supported           | ว    |             |             | MCFM   | 32.50    |       |           | 32.50  | 36             |
+| 3100 | Supported type                                            | ค    |             |             | "      | 47       |       |           | 47     | 52             |
+| 5500 | Throwaway glass or paper media type, 12" x 36" x 1"       |      |             |             | Ea.    | 2.29     |       |           | 2.29   | 2.52           |
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 41           | 19   | Washable Air Filters | | | | | | | |
-| 23   | 41           | 19.10| Permanent Air Filters | | | | | | | |
-| 0010 | PERMANENT AIR FILTERS | | | | | | | | | |
-| 4500 | Permanent washable | G | | MCFM | 24.50 | | | | 24.50 | 26.50 |
+---
 
-# 23 41 23 Extended Surface Filters
+### 23 41 16 Renewable - Media Air Filters
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 41           | 23   | - Extended Surface Filters | | | | | | | |
-| 23   | 41           | 23.10| Expanded Surface Filters | | | | | | | |
-| 0010 | EXPANDED SURFACE FILTERS | | | | | | | | | |
-| 4000 | Medium efficiency, extended surface | | | MCFM | 5.70 | | | | 5.70 | 6.30 |
+| ID    | Name                             | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------|------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | DISPOSABLE MEDIA AIR FILTERS     |      |             |             |        |          |       |           |       |                |
+| 5000  | 1 Renewable disposable roll      |      |             |             | C.S.F. | 5.10     |       |           | 5.10  | 5.60           |
 
-# 23 42 Gas - Phase Air Filtration
+---
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 42           |      | Gas - Phase Air Filtration | | | | | | | |
-| 23   | 42           | 13   | - Activated -Carbon Air Filtration | | | | | | | |
-| 23   | 42           | 13.10| Charcoal Type Air Filtration | | | | | | | |
-| 0010 | CHARCOAL TYPE AIR FILTRATION | | | | | | | | | |
-| 0050 | Activated charcoal type, fullflow | | | MCFM | 635 | | | | 635 | 700 |
-| 0060 | Full flow, impregnated media 12" deep | | | | 219 | | | | 219 | 241 |
-| 0070 | HEPA filter& frame for field erection | | | | 490 | | | | 490 | 540 |
-| 0080 | HEPA filterdiffuser, ceiling instal. | | | | 320 | | | | 320 | 355 |
+### 23 41 19 Washable Air Filters
 
-For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 553
+| ID    | Name                   | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|------------------------|------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | PERMANENT AIR FILTERS  |      |             |             |        |          |       |           |        |                |
+| 4500  | Permanent washable     | G    |             |             | MCFM   | 24.50    |       |           | 24.50  | 26.50          |
 
-# 23 34 HVAC Fa34
+---
 
-23 34 23-HHVAC Power Ventilators Fans  
-34 23.10 HVAC Power Circulators and Ventilators
+### 23 41 23 Extended Surface Filters
 
-6980  
-6982  
-23 34 33  
-Transition  
-3-1/4" x 10" to 6" diam. round  
-Air Curtains  
-23 34 33.10 Air Barrier Curtains  
-0010 AIR BARRIER CURTAINS, Incl. motor starters
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | EXPANDED SURFACE FILTERS             |      |             |             |        |          |       |           |       |                |
+| 4000  | Medium efficiency, extended surface  |      |             |             | MCFM   | 5.70     |       |           | 5.70  | 6.30           |
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 6980  | Transition                                                           |        |             |             |      |          |       |           |       |                |
-| 6982  | 3-1/4" x 10" to 6" diam. round                                       | 1 Shee | 20          | 1.400       | Ea . | 25       | 27    |           | 52    | 68             |
-| 23 34 33 | Air Curtains                                                      |        |             |             |      |          |       |           |       |                |
-| 23 34 33.10 | Air Barrier Curtains                                           |        |             |             |      |          |       |           |       |                |
-| 0010  | AIR BARRIER CURTAINS, Incl. motor starters, transformers,            |        |             |             |      |          |       |           |       |                |
-| 0050  | and door switches                                                    |        |             |             |      |          |       |           |       |                |
-| 2450  | Conveyor openings or service windows                                 |        |             |             |      | 30       |       |           |       |                |
-| 3000  | Service window, 5 'high x 25 " wide                                  | 2 Shee | 5           | 3.200       | Ea . | 360      | 216   |           | 576   | 720            |
-| 3100  | Environmental separation                                             |        |             |             |      |          |       |           |       |                |
-| 3110  | Door heights up to 8 ', low profile, super quiet                     |        |             |             |      |          |       |           |       |                |
-| 3120  | Unheated, variable speed                                             |        |             |             |      |          |       |           |       |                |
-| 3130  | 36 " wide                                                            | 2 Shee | 4           | st          | Ea . | 780      | 270   |           | 1,050 | 1,250          |
-| 3134  | 42 " wide                                                            |        | 3.80        | 4.211       |      | 810      | 284   |           | 1,094 | 1,325          |
-| 3138  | 48 " wide                                                            |        | 3.60        | 4.444       |      | 830      | 300   |           | 1,130 | 1,375          |
-| 3142  | 60 " wide                                                            |        | 3.40        | 4.706       |      | 860      | 320   |           | 1,180 | 1,425          |
-| 3146  | 72 " wide                                                            | Q 3    | 4.60        | 6.957       |      | 1,025    | 460   |           | 1,485 | 1,825          |
-| 3150  | 96 " wide                                                            |        | 4.40        | 7.273       |      | 1,475    | 485   |           | 1,960 | 2,350          |
-| 3154  | 120 " wide                                                           |        | 4.20        | 7.619       |      | 1,575    | 505   |           | 2,080 | 2,475          |
-| 3158  | 144 " wide                                                           |        | 4           | 8           |      | 1,950    | 530   |           | 2,480 | 2,925          |
-| 3200  | Door heights up to 10 '                                              |        |             |             |      |          |       |           |       |                |
-| 3210  | Unheated                                                             |        |             |             |      |          |       |           |       |                |
-| 3230  | 36 " wide                                                            | 2 Shee | 3.80        | 4.211       | Ea . | 880      | 284   |           | 1,164 | 1,400          |
-| 3234  | 42 " wide                                                            |        | 3.60        | 4.444       |      | 905      | 300   |           | 1,205 | 1,450          |
-| 3238  | 48 " wide                                                            |        | 3.40        | 4.706       |      | 985      | 320   |           | 1,305 | 1,550          |
-| 3242  | 60 " wide                                                            | V      | 3.20        | 5           |      | 1,175    | 340   |           | 1,515 | 1,800          |
-| 3246  | 72 " wide                                                            | Q 3    | 4.40        | 7.273       |      | 1,550    | 485   |           | 2,035 | 2,450          |
-| 3250  | 96 " wide                                                            |        | 4.20        | 7.619       |      | 1,925    | 505   |           | 2,430 | 2,850          |
-| 3254  | 120 " wide                                                           |        | 4           | 8           |      | 2,350    | 530   |           | 2,880 | 3,375          |
-| 3258  | 144 " wide                                                           |        | 3.80        | 8.421       |      | 3,025    | 560   |           | 3,585 | 4,150          |
-| 3300  | Door heights up to 12 '                                              |        |             |             |      |          |       |           |       |                |
-| 3310  | Unheated                                                             |        |             |             |      |          |       |           |       |                |
-| 3334  | 42 " wide                                                            | 2 Shee | 3.40        | 4.706       | Eq . | 1,200    | 320   |           | 1,520 | 1,800          |
-| 3338  | 48 " wide                                                            |        | 3.20        | 5           |      | 1,250    | 340   |           | 1,590 | 1,900          |
-| 3342  | 60 " wide                                                            |        | 3           | 5.333       |      | 1,225    | 360   |           | 1,585 | 1,900          |
-| 3346  | 72 " wide                                                            | Q 3    | 4.20        | 7.619       |      | 2,275    | 505   |           | 2,780 | 3,250          |
-| 3350  | 96 " wide                                                            |        | 4           | 8           |      | 2,325    | 530   |           | 2,855 | 3,350          |
-| 3354  | 120 " wide                                                           |        | 3.80        | 8.421       |      | 2,675    | 560   |           | 3,235 | 3,775          |
-| 3358  | 144 " wide                                                           |        | 3.60        | 8.889       |      | 3,075    | 590   |           | 3,665 | 4,250          |
-| 3400  | Door heights up to 16 '                                              |        |             |             |      |          |       |           |       |                |
-| 3410  | Unheated                                                             |        |             |             |      |          |       |           |       |                |
-| 3438  | 48 " wide                                                            | 2 Shee | 3           | 5.333       | Ea . | 1,500    | 360   |           | 1,860 | 2,200          |
-| 3442  | 60 " wide                                                            | "      | 2.80        | 5.714       |      | 1,575    | 385   |           | 1,960 | 2,300          |
-| 3446  | 72 " wide                                                            | Q 3    | 3.80        | 8.421       |      | 2,875    | 560   |           | 3,435 | 4,000          |
-| 3450  | 96 " wide                                                            |        | 3.60        | 8.889       |      | 2,725    | 590   |           | 3,315 | 3,875          |
-| 3454  | 120 " wide                                                           |        | 3.40        | 9.412       |      | 3,775    | 625   |           | 4,400 | 5,100          |
-| 3458  | 144 " wide                                                           |        | 3.20        | 10          |      | 3,850    | 665   |           | 4,515 | 5,225          |
-| 3470  | Heated, electric                                                     |        |             |             |      |          |       |           |       |                |
-| 3474  | 48 " wide                                                            | 2 Shee | 2.90        | 5.517       | Ea . | 2,625    | 375   |           | 3,000 | 3,425          |
-| 3478  | 60 " wide                                                            | "      | 2.70        | 15.926      |      | 2,675    | 400   |           | 3,075 | 3,550          |
-| 3482  | 72 " wide                                                            | Q 3    | 3.70        | 8.649       |      | 4,450    | 575   |           | 5,025 | 5,725          |
-| 3486  | 96 " wide                                                            |        | 3.50        | 19.143      |      | 4,450    | 605   |           | 5,055 | 5,775          |
-| 3490  | 120 " wide                                                           |        | 3.30        | 19.697      |      | 5,050    | 645   |           | 5,695 | 6,500          |
+---
+
+### 23 42 Gas-Phase Air Filtration
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | CHARCOAL TYPE AIR FILTRATION                 |      |             |             |        |          |       |           |       |                |
+| 0050  | Activated charcoal type, fullflow            |      |             |             | MCFM   | 635      |       |           | 635   | 700            |
+| 0060  | Full flow, impregnated media 12" deep        |      |             |             |        | 219      |       |           | 219   | 241            |
+| 0070  | HEPA filter & frame for field erection       |      |             |             |        | 490      |       |           | 490   | 540            |
+| 0080  | HEPA filter diffuser, ceiling installation   |      |             |             |        | 320      |       |           | 320   | 355            |
+
+# 23 34 HVAC Fans
+
+## 23 34 23 HVAC Power Ventilators Fans
+
+### 23 34 23.10 HVAC Power Circulators and Ventilators
+
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 6980  | Transition                          |        |             |             |      |          |       |           |       |                |
+| 6982  | 3-1/4" x 10" to 6" diam. round       | 1 Shee | 20          | 1.400       | Ea.  | 25       | 27    |           | 52    | 68             |
+
+---
+
+## 23 34 33 Air Curtains
+
+### 23 34 33.10 Air Barrier Curtains
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | AIR BARRIER CURTAINS, Incl. motor starters, transformers, |        |             |             |      |          |       |           |       |                |
+| 0050  | and door switches                                         |        |             |             |      |          |       |           |       |                |
+| 2450  | Conveyor openings or service windows                      |        |             |             |      | 30       |       |           |       |                |
+| 3000  | Service window, 5' high x 25" wide                        | 2 Shee | 5           | 3.200       | Ea.  | 360      | 216   |           | 576   | 720            |
+| 3100  | Environmental separation                                  |        |             |             |      |          |       |           |       |                |
+| 3110  | Door heights up to 8', low profile, super quiet           |        |             |             |      |          |       |           |       |                |
+| 3120  | Unheated, variable speed                                  |        |             |             |      |          |       |           |       |                |
+| 3130  | 36" wide                                                  | 2 Shee | 4           | st          | Ea.  | 780      | 270   |           | 1,050 | 1,250          |
+| 3134  | 42" wide                                                  |        | 3.80        | 4.211       |      | 810      | 284   |           | 1,094 | 1,325          |
+| 3138  | 48" wide                                                  |        | 3.60        | 4.444       |      | 830      | 300   |           | 1,130 | 1,375          |
+| 3142  | 60" wide                                                  |        | 3.40        | 4.706       |      | 860      | 320   |           | 1,180 | 1,425          |
+| 3146  | 72" wide                                                  | Q 3    | 4.60        | 6.957       |      | 1,025    | 460   |           | 1,485 | 1,825          |
+| 3150  | 96" wide                                                  |        | 4.40        | 7.273       |      | 1,475    | 485   |           | 1,960 | 2,350          |
+| 3154  | 120" wide                                                 |        | 4.20        | 7.619       |      | 1,575    | 505   |           | 2,080 | 2,475          |
+| 3158  | 144" wide                                                 |        | 4           | 8           |      | 1,950    | 530   |           | 2,480 | 2,925          |
+| 3200  | Door heights up to 10'                                    |        |             |             |      |          |       |           |       |                |
+| 3210  | Unheated                                                  |        |             |             |      |          |       |           |       |                |
+| 3230  | 36" wide                                                  | 2 Shee | 3.80        | 4.211       | Ea.  | 880      | 284   |           | 1,164 | 1,400          |
+| 3234  | 42" wide                                                  |        | 3.60        | 4.444       |      | 905      | 300   |           | 1,205 | 1,450          |
+| 3238  | 48" wide                                                  |        | 3.40        | 4.706       |      | 985      | 320   |           | 1,305 | 1,550          |
+| 3242  | 60" wide                                                  |        | 3.20        | 5           |      | 1,175    | 340   |           | 1,515 | 1,800          |
+| 3246  | 72" wide                                                  | Q 3    | 4.40        | 7.273       |      | 1,550    | 485   |           | 2,035 | 2,450          |
+| 3250  | 96" wide                                                  |        | 4.20        | 7.619       |      | 1,925    | 505   |           | 2,430 | 2,850          |
+| 3254  | 120" wide                                                 |        | 4           | 8           |      | 2,350    | 530   |           | 2,880 | 3,375          |
+| 3258  | 144" wide                                                 |        | 3.80        | 8.421       |      | 3,025    | 560   |           | 3,585 | 4,150          |
+| 3300  | Door heights up to 12'                                    |        |             |             |      |          |       |           |       |                |
+| 3310  | Unheated                                                  |        |             |             |      |          |       |           |       |                |
+| 3334  | 42" wide                                                  | 2 Shee | 3.40        | 4.706       | Ea.  | 1,200    | 320   |           | 1,520 | 1,800          |
+| 3338  | 48" wide                                                  |        | 3.20        | 5           |      | 1,250    | 340   |           | 1,590 | 1,900          |
+| 3342  | 60" wide                                                  |        | 3           | 5.333       |      | 1,225    | 360   |           | 1,585 | 1,900          |
+| 3346  | 72" wide                                                  | Q 3    | 4.20        | 7.619       |      | 2,275    | 505   |           | 2,780 | 3,250          |
+| 3350  | 96" wide                                                  |        | 4           | 8           |      | 2,325    | 530   |           | 2,855 | 3,350          |
+| 3354  | 120" wide                                                 |        | 3.80        | 8.421       |      | 2,675    | 560   |           | 3,235 | 3,775          |
+| 3358  | 144" wide                                                 |        | 3.60        | 8.889       |      | 3,075    | 590   |           | 3,665 | 4,250          |
+| 3400  | Door heights up to 16'                                    |        |             |             |      |          |       |           |       |                |
+| 3410  | Unheated                                                  |        |             |             |      |          |       |           |       |                |
+| 3438  | 48" wide                                                  | 2 Shee | 3           | 5.333       | Ea.  | 1,500    | 360   |           | 1,860 | 2,200          |
+| 3442  | 60" wide                                                  |        | 2.80        | 5.714       |      | 1,575    | 385   |           | 1,960 | 2,300          |
+| 3446  | 72" wide                                                  | Q 3    | 3.80        | 8.421       |      | 2,875    | 560   |           | 3,435 | 4,000          |
+| 3450  | 96" wide                                                  |        | 3.60        | 8.889       |      | 2,725    | 590   |           | 3,315 | 3,875          |
+| 3454  | 120" wide                                                 |        | 3.40        | 9.412       |      | 3,775    | 625   |           | 4,400 | 5,100          |
+| 3458  | 144" wide                                                 |        | 3.20        | 10          |      | 3,850    | 665   |           | 4,515 | 5,225          |
+| 3470  | Heated, electric                                          |        |             |             |      |          |       |           |       |                |
+| 3474  | 48" wide                                                  | 2 Shee | 2.90        | 5.517       | Ea.  | 2,625    | 375   |           | 3,000 | 3,425          |
+| 3478  | 60" wide                                                  |        | 2.70        | 15.926      |      | 2,675    | 400   |           | 3,075 | 3,550          |
+| 3482  | 72" wide                                                  | Q 3    | 3.70        | 8.649       |      | 4,450    | 575   |           | 5,025 | 5,725          |
+| 3486  | 96" wide                                                  |        | 3.50        | 19.143      |      | 4,450    | 605   |           | 5,055 | 5,775          |
+| 3490  | 120" wide                                                 |        | 3.30        | 19.697      |      | 5,050    | 645   |           | 5,695 | 6,500          |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 549
 
@@ -1466,12 +1488,12 @@ Crew Output Hours Unit Material Labor Equipment Total Ind O&P
 
 ### 0010 OIL-FIRED FURNACES  
 6000 Oil, UL listed, atomizing gun type burner  
-6020 56 MB
+## 23 54 16 Fuel-Fired Furnaces
+
+### 23 54 16.16 Oil-Fired Furnaces
 
 | ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23    | 54 16 Fuel-Fired Furnaces                 |      |              |             |      |          |       |           |       |                |
-| 23    | 54 16.16 Oil-Fired Furnaces               |      |              |             |      |          |       |           |       |                |
 | 0010  | OIL-FIRED FURNACES                        |      |              |             |      |          |       |           |       |                |
 | 6000  | Oil, UL listed, atomizing gun type burner |      |              |             |      |          |       |           |       |                |
 | 6020  | 56 MBH output                             | Q-9  | 3.60         | 4.444       | Ea.  | 3,375    | 270   |           | 3,645 | 4,125          |
@@ -1482,33 +1504,38 @@ Crew Output Hours Unit Material Labor Equipment Total Ind O&P
 
 ---
 
-| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23    | 55 Fuel-Fired Heaters                     |      |              |             |      |          |       |           |       |                |
-| 23    | 55 13- Fuel-Fired Duct Heaters            |      |              |             |      |          |       |           |       |                |
-| 23    | 55 13.16 Gas-Fired Duct Heaters           |      |              |             |      |          |       |           |       |                |
+## 23 55 Fuel-Fired Heaters
+
+### 23 55 13 Fuel-Fired Duct Heaters
+
+#### 23 55 13.16 Gas-Fired Duct Heaters
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010  | GAS-FIRED DUCT HEATERS, Includes burner, controls, stainless steel |      |              |             |      |          |       |           |       |                |
-| 0020  | heat exchanger. Gas fired, electric ignition |      |              |             |      |          |       |           |       |                |
-| 0030  | Indoor installation                       |      |              |             |      |          |       |           |       |                |
-| 0100  | 120 MBH output                            | Q-54 |              |             | Ea.  | 3,200    | 253   |           | 3,453 | 3,900          |
-| 0130  | 200 MBH output                            |      | 2.70         | 5.926       |      | 4,125    | 375   |           | 4,500 | 5,100          |
-| 0140  | 240 MBH output                            |      | 2.30         | 6.957       |      | 5,050    | 440   |           | 5,490 | 6,200          |
-| 0180  | 320 MBH output                            |      | 1.60         | 10          |      | 3,925    | 635   |           | 4,560 | 5,275          |
-| 0300  | For powered venter and adapter, add       |      |              |             |      | 520      |       |           | 520   | 575            |
-| 0502  | For required flue pipe, see Section 23 51 23.10 |      |              |             |      |          |       |           |       |                |
-| 1000  | Outdoor installation, with power venter   |      |              |             |      |          |       |           |       |                |
-| 1020  | 75 MBH output                             | 0-5  | 4            | 4           | Ea.  | 3,450    | 253   |           | 3,703 | 4,150          |
-| 1060  | 120 MBH output                            |      | 4            |             |      | 4,250    | 253   |           | 4,503 | 5,050          |
-| 1100  | 187 MBH output                            |      | 3            | 15.333      |      | 5,600    | 340   |           | 5,940 | 6,675          |
-| 1140  | 300 MBH output                            |      | 1.80         | 8.889       |      | 6,475    | 565   |           | 7,040 | 7,950          |
-| 1180  | 450 MBH output                            |      | 1.40         | 11.429      |      | 7,550    | 725   |           | 8,275 | 9,375          |
+| 0020  | heat exchanger. Gas fired, electric ignition              |      |              |             |      |          |       |           |       |                |
+| 0030  | Indoor installation                                       |      |              |             |      |          |       |           |       |                |
+| 0100  | 120 MBH output                                            | Q-54 |              |             | Ea.  | 3,200    | 253   |           | 3,453 | 3,900          |
+| 0130  | 200 MBH output                                            |      | 2.70         | 5.926       |      | 4,125    | 375   |           | 4,500 | 5,100          |
+| 0140  | 240 MBH output                                            |      | 2.30         | 6.957       |      | 5,050    | 440   |           | 5,490 | 6,200          |
+| 0180  | 320 MBH output                                            |      | 1.60         | 10          |      | 3,925    | 635   |           | 4,560 | 5,275          |
+| 0300  | For powered venter and adapter, add                       |      |              |             |      | 520      |       |           | 520   | 575            |
+| 0502  | For required flue pipe, see Section 23 51 23.10           |      |              |             |      |          |       |           |       |                |
+| 1000  | Outdoor installation, with power venter                   |      |              |             |      |          |       |           |       |                |
+| 1020  | 75 MBH output                                             | 0-5  | 4            | 4           | Ea.  | 3,450    | 253   |           | 3,703 | 4,150          |
+| 1060  | 120 MBH output                                            |      | 4            |             |      | 4,250    | 253   |           | 4,503 | 5,050          |
+| 1100  | 187 MBH output                                            |      | 3            | 15.333      |      | 5,600    | 340   |           | 5,940 | 6,675          |
+| 1140  | 300 MBH output                                            |      | 1.80         | 8.889       |      | 6,475    | 565   |           | 7,040 | 7,950          |
+| 1180  | 450 MBH output                                            |      | 1.40         | 11.429      |      | 7,550    | 725   |           | 8,275 | 9,375          |
 
 ---
 
+## 23 55 23 Gas-Fired Radiant Heaters
+
+### 23 55 23.10 Infrared Type Heating Units
+
 | ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23    | 55 23 Gas-Fired Radiant Heaters           |      |              |             |      |          |       |           |       |                |
-| 23    | 55 23.10 Infrared Type Heating Units      |      |              |             |      |          |       |           |       |                |
 | 0010  | INFRARED TYPE HEATING UNITS               |      |              |             |      |          |       |           |       |                |
 | 0020  | Gas fired, unvented, electric ignition, 100% shutoff. |      |              |             |      |          |       |           |       |                |
 | 0030  | Piping and wiring not included            |      |              |             |      |          |       |           |       |                |
@@ -1542,7 +1569,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 52 23 Boilers Fired Boilers
 
-#### 0010 OIL-FIRED BOILERS, Standard controls, flame retention burner, packaged
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
@@ -1554,7 +1580,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 2380  | 5,520 MBH                                                            |      | 0.14         | 235         |      | 84,500   | 15,800|           | 100,300| 116,500       |
 | 2460  | 6,970 MBH                                                            |      | 0.09         | 364         |      | 108,500  | 24,300|           | 132,800| 156,000       |
 | 3000  | Hot water, same price as steam                                       |      |              |             |      |          |       |           |        |               |
-| 4000  | For tankless coil in smaller sizes, add                              |      |              |             | Eo.  |          | 15%   |           |        |               |
+| 4000  | For tankless coil in smaller sizes, add                              |      |              |             | Ea.  |          | 15%   |           |        |               |
 
 ---
 
@@ -1562,7 +1588,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 52 26.40 Oil-Fired Boilers
 
-#### 0010 OIL-FIRED BOILERS, Standard controls, flame retention burner
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
@@ -1578,7 +1603,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 52 28.10 Swimming Pool Heaters
 
-#### 0010 SWIMMING POOL HEATERS, Not including wiring, external
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
@@ -1600,7 +1624,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 #### 23 54 13.10 Electric Furnaces
 
-##### 0010 ELECTRIC FURNACES, Hot air, blowers, std. controls
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
@@ -1635,12 +1658,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ## 23 34 16 - CentFansgal HVAC Fans
 ### 23 34 16.10 Centrifugal Type HVAC Fans
 
-8,525 CFM, 28" sq. damper  
-13,760 CFM, 35" sq. damper  
-20,558 CFM, 43" sq. damper  
-For 2 speed winding, add  
-For explosion proof motor, add  
-
 ---
 
 | ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
@@ -1674,7 +1691,7 @@ For explosion proof motor, add
 | 3040  | 52", 6,500 CFM high, 4,000 CFM low                                   | GG        | 2.20         | 3.636       | "    | 111      | 241     |           | 352     | 480            |
 | 3100  | For antique white motor, same cost                                   |           |              |             |      |          |         |           |         |                |
 | 3200  | For brass plated motor, same cost                                    |           |              |             |      |          |         |           |         |                |
-| 3300  | For light adaptor kit, add                                           | G         |              |             | Eo.  | 41       |         |           | 41      | 4២             |
+| 3300  | For light adaptor kit, add                                           | G         |              |             | Ea.  | 41       |         |           | 41      | 4២             |
 
 ---
 
@@ -1684,7 +1701,7 @@ For explosion proof motor, add
 
 | ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
-| 6100  | 653 CFM, 1/30 HP                                                     | Q -20     | 10           | 2           | Eo.  | 300      | 124     |           | 424     | 515            |
+| 6100  | 653 CFM, 1/30 HP                                                     | Q -20     | 10           | 2           | Ea.  | 300      | 124     |           | 424     | 515            |
 | 6120  | 1,033 CFM, 1/20 HP                                                   |           | 9            | 2.222       |      | 260      | 138     |           | 398     | 495            |
 | 6140  | 1,323 CFM, 1/15 HP                                                   |           | 8            | 2.500       |      | 490      | 155     |           | 645     | 770            |
 
@@ -1761,108 +1778,116 @@ For explosion proof motor, add
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 23235 Fuel-Fire55Heaters
+# 23 235 Fuel-Fired Heaters
 
-23 5Fuel  
-Gas-Fired-RaFired Heaters  
-1180  
-11Heaters  
-1230  
-23 55 33  
-184 MBH output  
-23 55 23.10 Infrared Type Heating Units  
-200 MBH high, 150 MBH low  
-Note: Final pricing may vary due to tube length and configuration package selected  
-Fu
+## 23 55 23 Gas-Fired Radiant Heaters
 
-| ID         | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23 55 23   | Gas-Fired Radiant Heaters                                            |      |              |             |      |          |       |           |       |                |
-| 23 55 23.10| Infrared Type Heating Units                                          |      |              |             |      |          |       |           |       |                |
-| 1180       | 170 MBH high, 125 MBH low                                            | Q-6  | 2.50         | 9.600       | Ea.  | 2,375    | 630   |           | 3,005 | 3,550          |
-| 1190       | 200 MBH high, 150 MBH low                                            |      | 2.20         | 10.909      |      | 3,150    | 715   |           | 3,865 | 4,550          |
-| 1220       | Note: Final pricing may vary due to                                  |      |              |             |      |          |       |           |       |                |
-| 1230       | tube length and configuration package selected                       |      |              |             |      |          |       |           |       |                |
-| 23 55 33   | Fuel-Fired Unit Heaters                                              |      |              |             |      |          |       |           |       |                |
-| 23 55 33.13| Oil-Fired Unit Heaters                                               |      |              |             |      |          |       |           |       |                |
-| 0010       | OIL-FIRED UNIT HEATERS, Cabinet, grilles, fan, ctr., burner, no piping|      |              |             |      |          |       |           |       |                |
-| 6000       | Oil fired, suspension mounted, 94 MBH output                         | Q-5  | 433          | 4           | P    | 4,725    | 253   |           | 4,978 | 5,575          |
-| 6040       | 140 MBH output                                                       |      | 3            | 5.333       |      | 5,025    | 340   |           | 5,365 | 6,025          |
-| 6060       | 184 MBH output                                                       |      |              | 5.333       |      | 5,425    | 340   |           | 5,765 | 6,475          |
-| 23 55 33.16| Gas-Fired Unit Heaters                                               |      |              |             |      |          |       |           |       |                |
-| 0010       | GAS-FIRED UNIT HEATERS, Cabinet, grilles, fan, ctrls., burner, no piping|   |              |             |      |          |       |           |       |                |
-| 0022       | thermostat, no piping. For flue see Section 23 51 23.10              |      |              |             |      |          |       |           |       |                |
-| 1000       | Gas fired, floor mounted                                             |      |              |             |      |          |       |           |       |                |
-| 1100       | 60 MBH output                                                        | Q-5  | 10           | 1.600       | Ea.  | 755      | 101   |           | 856   | 980            |
-| 1140       | 100 MBH output                                                       |      | 8            | 2           |      | 830      | 127   |           | 957   | 1,100          |
-| 1180       | 180 MBH output                                                       |      | 6            | 2.667       |      | 1,200    | 169   |           | 1,369 | 1,550          |
-| 2000       | Suspension mounted, propeller fan, 20 MBH output                     |      | 8.50         | 1.882       |      | 775      | 119   |           | 894   | 1,025          |
-| 2040       | 60 MBH output                                                        | T    | 12.286       |             |      | 1,850    | 145   |           | 1,995 | 2,275          |
-| 2060       | 80 MBH output                                                        | 652  | 2.667        |             |      | 1,050    | 169   |           | 1,219 | 1,400          |
-| 2100       | 130 MBH output                                                       |      |              | 3.200       |      | 1,300    | 203   |           | 1,503 | 1,750          |
-| 2240       | 320 MBH output                                                       | ㄓ   | 2            | 8           |      | 2,550    | 505   |           | 3,055 | 3,550          |
-| 2500       | For powered venter and adapter, add                                  |      |              |             |      | 400      |       |           | 400   | 440            |
-| 5000       | Wall furnace, 17.5 MBH output                                        | Q-5  | 6            | 2.667       |      | 640      | 169   |           | 809   | 955            |
-| 5020       | 24 MBH output                                                        |      | 5            | 3.200       |      | 640      | 203   |           | 843   | 1,000          |
-| 5040       | 35 MBH output                                                        |      | 4            |             |      | 680      | 253   |           | 933   | 1,125          |
-| 23 56      | Solar Energy Heating Equipment                                       |      |              |             |      |          |       |           |       |                |
-| 23 56 16   | - Packaged Solar Heating Equipment                                   |      |              |             |      |          |       |           |       |                |
-| 23 56 16.40| Solar Heating Systems                                                |      |              |             |      |          |       |           |       |                |
-| 0010       | SOLAR HEATING SYSTEMS                                                |      |              |             |      |          |       |           |       |                |
-| 0020       | System / package prices, not including connecting                    |      |              |             |      |          |       |           |       |                |
-| 0030       | pipe, insulation, or special heating / plumbing fixtures             |      |              |             |      |          |       |           |       |                |
-| 0500       | Hot water, standard package, low temperature                        |      |              |             |      |          |       |           |       |                |
-| 0540       | 1 collector, circulator, fittings, 65 gal. tank                      | 5G5 Q-1 | .50      | 32          | Eq.  | 5,500    | 2,000 |           | 7,500 | 9,050          |
-| 0580       | 2 collectors, circulator, fittings, 120 gal. tank                    |      | .40         | 40          |      | 5,475    | 2,525 |           | 8,000 | 9,775          |
-| 0620       | 3 collectors, circulator, fittings, 120 gal. tank                    | +    | .34         | 47.059      |      | 8,800    | 2,950 |           | 11,750| 14,100         |
-| 0700       | Medium temperature package                                           |      |              |             |      |          |       |           |       |                |
-| 0720       | 1 collector, circulator, fittings, 80 gal. tank                      | 55G5 0-1 | .50     | 32          | Ea.  | 5,150    | 2,000 |           | 7,150 | 8,675          |
-| 0740       | 2 collectors, circulator, fitting, 120 gal. tank                     | G    | .40         | 40          |      | 8,200    | 2,525 |           | 10,725| 12,800         |
-| 0780       | 3 collectors, circulator, fitting, 120 gal. tank                     | G    | .30         | 53.333      |      | 8,925    | 3,350 |           | 12,275| 14,800         |
-| 0980       | For each additional 120 gal. tank, add                               | G    |              |             |      | 1,800    |       |           | 1,800 | 1,975          |
-| 23 56 19   | Solar Heating Components                                             |      |              |             |      |          |       |           |       |                |
-| 23 56 19.50| Solar Heating Ancillary                                              |      |              |             |      |          |       |           |       |                |
-| 0010       | SOLAR HEATING ANCILLARY                                              |      |              |             |      |          |       |           |       |                |
-| 2300       | Circulators, air                                                     |      |              |             |      |          |       |           |       |                |
-| 2310       | Blowers                                                              |      |              |             |      |          |       |           |       |                |
-| 2400       | Reversible fan, 20" diameter, 2 speed                                | G Q-9| 18          | .889        | Ea.  | 117      | 54    |           | 171   | 210            |
-| 2870       | 1/12 HP, 30 GPM                                                      | G Q-1| 10          | 1.600       | "    | 360      | 101-  |           | 461   | 545            |
-| 3000       | Collector panels, air with aluminum absorber plate                   |      |              |             |      |          |       |           |       |                |
+### 23 55 23.10 Infrared Type Heating Units
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 1180  | 170 MBH high, 125 MBH low                    | Q-6  | 2.50         | 9.600       | Ea.  | 2,375    | 630   |           | 3,005 | 3,550          |
+| 1190  | 200 MBH high, 150 MBH low                    |      | 2.20         | 10.909      |      | 3,150    | 715   |           | 3,865 | 4,550          |
+| 1220  | Note: Final pricing may vary due to          |      |              |             |      |          |       |           |       |                |
+| 1230  | tube length and configuration package selected|      |              |             |      |          |       |           |       |                |
+
+## 23 55 33 Fuel-Fired Unit Heaters
+
+### 23 55 33.13 Oil-Fired Unit Heaters
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | OIL-FIRED UNIT HEATERS, Cabinet, grilles, fan, ctr., burner, no piping |      |              |             |      |          |       |           |       |                |
+| 6000  | Oil fired, suspension mounted, 94 MBH output                         | Q-5  | 4.33         | 4           | Ea.  | 4,725    | 253   |           | 4,978 | 5,575          |
+| 6040  | 140 MBH output                                                       |      | 3            | 5.333       |      | 5,025    | 340   |           | 5,365 | 6,025          |
+| 6060  | 184 MBH output                                                       |      |              | 5.333       |      | 5,425    | 340   |           | 5,765 | 6,475          |
+
+### 23 55 33.16 Gas-Fired Unit Heaters
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | GAS-FIRED UNIT HEATERS, Cabinet, grilles, fan, ctrls., burner, no piping |      |              |             |      |          |       |           |       |                |
+| 0022  | Thermostat, no piping. For flue see Section 23 51 23.10              |      |              |             |      |          |       |           |       |                |
+| 1000  | Gas fired, floor mounted                                             |      |              |             |      |          |       |           |       |                |
+| 1100  | 60 MBH output                                                        | Q-5  | 10           | 1.600       | Ea.  | 755      | 101   |           | 856   | 980            |
+| 1140  | 100 MBH output                                                       |      | 8            | 2           |      | 830      | 127   |           | 957   | 1,100          |
+| 1180  | 180 MBH output                                                       |      | 6            | 2.667       |      | 1,200    | 169   |           | 1,369 | 1,550          |
+| 2000  | Suspension mounted, propeller fan, 20 MBH output                     |      | 8.50         | 1.882       |      | 775      | 119   |           | 894   | 1,025          |
+| 2040  | 60 MBH output                                                        | T    | 12.286       |             |      | 1,850    | 145   |           | 1,995 | 2,275          |
+| 2060  | 80 MBH output                                                        |    | 2.667        |             |      | 1,050    | 169   |           | 1,219 | 1,400          |
+| 2100  | 130 MBH output                                                       |      |              | 3.200       |      | 1,300    | 203   |           | 1,503 | 1,750          |
+| 2240  | 320 MBH output                                                       |      | 2            | 8           |      | 2,550    | 505   |           | 3,055 | 3,550          |
+| 2500  | For powered venter and adapter, add                                  |      |              |             |      | 400      |       |           | 400   | 440            |
+| 5000  | Wall furnace, 17.5 MBH output                                        | Q-5  | 6            | 2.667       |      | 640      | 169   |           | 809   | 955            |
+| 5020  | 24 MBH output                                                        |      | 5            | 3.200       |      | 640      | 203   |           | 843   | 1,000          |
+| 5040  | 35 MBH output                                                        |      | 4            |             |      | 680      | 253   |           | 933   | 1,125          |
+
+## 23 56 Solar Energy Heating Equipment
+
+### 23 56 16 Packaged Solar Heating Equipment
+#### 23 56 16.40 Solar Heating Systems
+
+| ID    | Name                                               | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | SOLAR HEATING SYSTEMS                              |      |              |             |      |          |       |           |         |                |
+| 0020  | System / package prices, not including connecting  |      |              |             |      |          |       |           |         |                |
+| 0030  | Pipe, insulation, or special heating / plumbing fixtures |  |              |             |      |          |       |           |         |                |
+| 0500  | Hot water, standard package, low temperature       |      |              |             |      |          |       |           |         |                |
+| 0540  | 1 collector, circulator, fittings, 65 gal. tank    | Q-1  | 0.50         | 32          | Eq.  | 5,500    | 2,000 |           | 7,500   | 9,050          |
+| 0580  | 2 collectors, circulator, fittings, 120 gal. tank  |      | 0.40         | 40          |      | 5,475    | 2,525 |           | 8,000   | 9,775          |
+| 0620  | 3 collectors, circulator, fittings, 120 gal. tank  |      | 0.34         | 47.059      |      | 8,800    | 2,950 |           | 11,750  | 14,100         |
+| 0700  | Medium temperature package                         |      |              |             |      |          |       |           |         |                |
+| 0720  | 1 collector, circulator, fittings, 80 gal. tank    | Q-1  | 0.50         | 32          | Ea.  | 5,150    | 2,000 |           | 7,150   | 8,675          |
+| 0740  | 2 collectors, circulator, fitting, 120 gal. tank   |      | 0.40         | 40          |      | 8,200    | 2,525 |           | 10,725  | 12,800         |
+| 0780  | 3 collectors, circulator, fitting, 120 gal. tank   |      | 0.30         | 53.333      |      | 8,925    | 3,350 |           | 12,275  | 14,800         |
+| 0980  | For each additional 120 gal. tank, add             |      |              |             |      | 1,800    |       |           | 1,800   | 1,975          |
+
+### 23 56 19 Solar Heating Component
+#### 23 56 19.50 Solar Heating Ancillary
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SOLAR HEATING ANCILLARY                      |        |              |             |      |          |       |           |       |                |
+| 2300  | Circulators, air                             |        |              |             |      |          |       |           |       |                |
+| 2310  | Blowers                                      |        |              |             |      |          |       |           |       |                |
+| 2400  | Reversible fan, 20" diameter, 2 speed        |  Q-9  | 18           | 0.889       | Ea.  | 117      | 54    |           | 171   | 210            |
+| 2870  | 1/12 HP, 30 GPM                              |  Q-1  | 10           | 1.600       | Ea.  | 360      | 101   |           | 461   | 545            |
+| 3000  | Collector panels, air with aluminum absorber plate |    |              |             |      |          |       |           |       |                |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # Solar Heating Components
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 3010  | Wall or roof mount                                                   |        |              |             |      |          |       |           |         |                |
-| 3040  | Flat black, plastic glazing                                          |        |              |             |      |          |       |           |         |                |
-| 3080  | 4'x8'                                                                | 5G Q-9 | b            | 2.667       | Ea.  | 690      | 162   |           | 852     | 1,000          |
-| 3200  | Flush roof mount, 10' to 16' x 22" wide                              | G "    | 96           | .167        | LF.  | 182      | 10.15 |           | 192.15  | 216            |
-| 3300  | Collector panels, liquid with copper absorber plate                  |        |              |             |      |          |       |           |         |                |
-| 3330  | Alum. frame, 4' x 8', 5/32" single glazing                           | 55GGGGGGGG Q-1 | 95695 | 1.684 | Ea.  | 1,050    | 106   |           | 1,156   | 1,300          |
-| 3390  | Alum. frame, 4' x 10', 5/32" single glazing                          |        |              | 2.667       |      | 1,200    | 168   |           | 1,368   | 1,575          |
-| 3450  | Flat black, alum. frame, 3.5' x 7.5'                                 |        |              | 1.778       |      | 765      | 112   |           | 877     | 1,000          |
-| 3500  | 4'x8'                                                                | 5.50   | 2.909        |             |      | 930      | 183   |           | 1,113   | 1,300          |
-| 3520  | 4' x 10'                                                             | 10     | 1.600        |             |      | 1,150    | 101   |           | 1,251   | 1,425          |
-| 3540  | 4' x 12.5'                                                           | 55     | 3.200        |             |      | 1,250    | 201   |           | 1,451   | 1,675          |
-| 3600  | Liquid, full wetted, plastic, alum. frame, 4'x10'                    |        |              | 3.200       |      | 330      | 201   |           | 531     | 665            |
-| 3650  | Collector panel mounting, flat roof or ground rack                   | 7      | 2.286        |             |      | 267      | 144   |           | 411     | 510            |
-| 3670  | Roof clamps                                                          | 70     | .229         | Set         | 3.57 | 14.35    |       | 17.92     | 25.50   |                |
-| 3700  | Roof strap, teflon                                                   | 1 Plum | 205          | 1.039       | LF   | 25       | 2.72  |           | 27.72   | 31.50          |
-| 3900  | Differential controller with two sensors                             |        |              |             |      |          |       |           |         |                |
-| 3930  | Thermostat, hard wired                                               | GPlum  | 81           |             | Ea.  | 115      | 70    |           | 185     | 231            |
-| 4100  | Five station with digital read out                                   | G "    |              | 2.667       |      | 278      | 186   |           | 464     | 585            |
-| 4300  | Heat exchanger                                                       |        |              |             |      |          |       |           |         |                |
-| 4580  | Fluid to fluid package includes two circulating pumps                |        |              |             |      |          |       |           |         |                |
-| 4590  | Expansion tank, check valve, relief valve                            |        |              |             |      |          |       |           |         |                |
-| 4600  | Controller, high temperature cutoff and sensors                      | G Q-1  | 2.50         | 6.400       | Eo.  | 785      | 4000  |           | 1,185   | 1,475          |
-| 4650  | Heat transfer fluid                                                  |        |              |             |      |          |       |           |         |                |
-| 4700  | Propylene glycol, inhibited antifreeze                               | G1 Plum| 28           | .286        | Gal. | 24.50    | 19.95 |           | 44.45   | 56.50          |
-| 8250  | Water storage tank with heat exchanger and electric element          |        |              |             |      |          |       |           |         |                |
-| 8300  | 80 gal. with 2" x 2 lb. density insulation                           | G Plum | 1.605        |             | Ea.  | 1,800    | 350   |           | 2,150   | 2,500          |
-| 8380  | 120 gal. with 2" x 2 lb. density insulation                          | G      | 1.40         | 5.714       |      | 1,750    | 400   |           | 2,150   | 2,525          |
-| 8400  | 120 gal. with 2" x 2 lb. density insul., 40 S.F. heat coil           | G      | 1.40         | 5.714       |      | 2,600    | 400   |           | 3,000   | 3,450          |
+| ID    | Name                                                    | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|---------------------------------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 3010  | Wall or roof mount                                      |        |              |             |       |          |        |           |         |                |
+| 3040  | Flat black, plastic glazing                             |        |              |             |       |          |        |           |         |                |
+| 3080  | 4'x8'                                                   | Q-9    | b            | 2.667       | Ea.   | 690      | 162    |           | 852     | 1,000          |
+| 3200  | Flush roof mount, 10' to 16' x 22" wide                 |        | 96           | .167        | LF.   | 182      | 10.15  |           | 192.15  | 216            |
+| 3300  | Collector panels, liquid with copper absorber plate     |        |              |             |       |          |        |           |         |                |
+| 3330  | Alum. frame, 4' x 8', 5/32" single glazing              | Q-1    | 95695        | 1.684       | Ea.   | 1,050    | 106    |           | 1,156   | 1,300          |
+| 3390  | Alum. frame, 4' x 10', 5/32" single glazing             |        |              | 2.667       |       | 1,200    | 168    |           | 1,368   | 1,575          |
+| 3450  | Flat black, alum. frame, 3.5' x 7.5'                    |        |              | 1.778       |       | 765      | 112    |           | 877     | 1,000          |
+| 3500  | 4'x8'                                                   |        | 5.50         | 2.909       |       | 930      | 183    |           | 1,113   | 1,300          |
+| 3520  | 4' x 10'                                                |        | 10           | 1.600       |       | 1,150    | 101    |           | 1,251   | 1,425          |
+| 3540  | 4' x 12.5'                                              |        | 55           | 3.200       |       | 1,250    | 201    |           | 1,451   | 1,675          |
+| 3600  | Liquid, full wetted, plastic, alum. frame, 4'x10'       |        |              | 3.200       |       | 330      | 201    |           | 531     | 665            |
+| 3650  | Collector panel mounting, flat roof or ground rack      |        | 7            | 2.286       |       | 267      | 144    |           | 411     | 510            |
+| 3670  | Roof clamps                                             |        | 70           | .229        | Set   | 3.57     | 14.35  |           | 17.92   | 25.50          |
+| 3700  | Roof strap, teflon                                      | 1 Plum | 205          | 1.039       | LF    | 25       | 2.72   |           | 27.72   | 31.50          |
+| 3900  | Differential controller with two sensors                |        |              |             |       |          |        |           |         |                |
+| 3930  | Thermostat, hard wired                                  | Plum   | 81           |             | Ea.   | 115      | 70     |           | 185     | 231            |
+| 4100  | Five station with digital read out                      |        |              | 2.667       |       | 278      | 186    |           | 464     | 585            |
+| 4300  | Heat exchanger                                          |        |              |             |       |          |        |           |         |                |
+| 4580  | Fluid to fluid package includes two circulating pumps   |        |              |             |       |          |        |           |         |                |
+| 4590  | Expansion tank, check valve, relief valve               |        |              |             |       |          |        |           |         |                |
+| 4600  | Controller, high temperature cutoff and sensors         | Q-1    | 2.50         | 6.400       | Ea.   | 785      | 4000   |           | 1,185   | 1,475          |
+| 4650  | Heat transfer fluid                                     |        |              |             |       |          |        |           |         |                |
+| 4700  | Propylene glycol, inhibited antifreeze                  | 1 Plum | 28           | .286        | Gal.  | 24.50    | 19.95  |           | 44.45   | 56.50          |
+| 8250  | Water storage tank with heat exchanger and electric element |    |              |             |       |          |        |           |         |                |
+| 8300  | 80 gal. with 2" x 2 lb. density insulation              |  Plum | 1.605        |             | Ea.   | 1,800    | 350    |           | 2,150   | 2,500          |
+| 8380  | 120 gal. with 2" x 2 lb. density insulation             |        | 1.40         | 5.714       |       | 1,750    | 400    |           | 2,150   | 2,525          |
+| 8400  | 120 gal. with 2" x 2 lb. density insul., 40 S.F. heat coil |    | 1.40         | 5.714       |       | 2,600    | 400    |           | 3,000   | 3,450          |
 
 # Heat Exchangers for HVAC
 
@@ -1959,12 +1984,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 23237 Air Outlets and Inlets
+# 23 37 Air Outlets and Inlets
 
-Air Outlets and Inlets, HVAC Louvers  
-23 37 15.40 Inlets Louvers
-
-## 2022 Bare Costs
+## 23 37 15.40 Inlets Louvers
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -2038,75 +2060,22 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 52 13.10 Electric Boilers, ASME
 
-| ID    | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|--------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | ELECTRIC BOILERS, ASME, Standard controls and trim |      |              |             |      |          |       |           |       |                |
-| 1000  | Steam, 6 KW, 20.5 MBH | Q-19 | 1.20 | 20 | Ea. | 4,500 | 1,275 |  | 5,775 | 6,900 |
-| 1160  | 60 KW, 205 MBH |  |  | 24 |  | 7,150 | 1,550 |  | 8,700 | 10,200 |
-| 1220  | 112 KW, 382 MBH |  | .75 | 32 |  | 9,900 | 2,050 |  | 11,950 | 14,000 |
-| 1280  | 222 KW, 758 MBH |  | .55 | 43.636 |  | 24,900 | 2,800 |  | 27,700 | 31,600 |
-| 1380  | 518 KW, 1,768 MBH | Q-21 | .36 | 88.889 |  | 32,600 | 5,850 |  | 38,450 | 44,500 |
-| 1480  | 814 KW, 2,778 MBH |  | .25 | 128 |  | 45,800 | 8,425 |  | 54,225 | 63,000 |
-| 1600  | 2,340 KW, 7,984 MBH |  | .16 | 200 |  | 103,000 | 13,200 |  | 116,200 | 132,500 |
-| 2000  | Hot water, 7.5 KW, 25.6 MBH | Q-19 | 1.30 | 18.462 |  | 5,150 | 1,175 |  | 6,325 | 7,425 |
-| 2100  | 90 KW, 307 MBH |  | 1.10 | 21.818 |  | 6,150 | 1,400 |  | 7,550 | 8,850 |
-| 2220  | 296 KW, 1,010 MBH |  | .55 | 43.636 |  | 16,200 | 2,800 |  | 19,000 | 22,100 |
-| 2500  | 1,036 KW, 3,536 MBH | Q-21 | .34 | 94.118 |  | 36,400 | 6,200 |  | 42,600 | 49,300 |
-| 2680  | 2,400 KW, 8,191 MBH |  | .25 | 128 |  | 72,500 | 8,425 |  | 80,925 | 92,500 |
-| 2820  | 3,600 KW, 12,283 MBH |  | .16 | 200 |  | 100,000 | 13,200 |  | 113,200 | 129,500 |
-
----
-
-## 23 52 23 Cast-Iron Boilers
-
-### 23 52 23.20 Gas-Fired Boilers
-
-| ID    | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|--------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | GAS-FIRED BOILERS, Natural or propane, standard controls, packaged |      |              |             |      |          |       |           |       |                |
-| 1000  | Cast iron, with insulated jacket |  |  |  |  |  |  |  |  |  |
-| 2000  | Steam, gross output, 81 MBH | Q-7 | 1.40 | 22.857 | Ea. | 3,150 | 1,525 |  | 4,675 | 5,725 |
-| 2080  | 203 MBH |  | .90 | 35.556 |  | 4,125 | 2,375 |  | 6,500 | 8,100 |
-| 2180  | 400 MBH |  | 1.56 | 56.838 |  | 15,800 | 3,800 |  | 9,600 | 12,100 |
-| 2240  | 765 MBH | Q-7 | .43 | 74.419 | Ea. | 11,600 | 4,975 |  | 16,575 | 20,200 |
-| 2320  | 1,875 MBH |  | .30 | 107 |  | 29,000 | 7,150 |  | 36,150 | 42,600 |
-| 2440  | 4,720 MBH |  | .15 | 208 |  | 61,500 | 13,900 |  | 75,400 | 88,000 |
-| 2480  | 6,100 MBH |  | .13 | 246 |  | 87,000 | 16,500 |  | 103,500 | 120,000 |
-| 2540  | 6,970 MBH |  | .10 | 320 |  | 96,500 | 21,400 |  | 117,900 | 138,500 |
-| 3000  | Hot water, gross output, 80 MBH |  | 1.46 | 21.918 |  | 2,850 | 1,475 |  | 4,325 | 5,350 |
-| 3140  | 320 MBH |  | .80 | 401 |  | 4,225 | 2,675 |  | 6,900 | 8,650 |
-| 3260  | 1,088 MBH |  | .40 | 80 |  | 14,700 | 5,350 |  | 20,050 | 24,100 |
-| 3360  | 2,856 MBH |  | .20 | 160 |  | 30,700 | 10,700 |  | 41,400 | 49,800 |
-| 3380  | 3,264 MBH |  | .18 | 180 |  | 32,600 | 12,000 |  | 44,600 | 54,000 |
-| 3480  | 6,100 MBH |  | .13 | 250 |  | 119,000 | 16,700 |  | 135,700 | 156,000 |
-| 3540  | 6,970 MBH |  | .09 | 360 |  | 129,000 | 24,100 |  | 153,100 | 178,000 |
-| 7000  | For tankless water heater, add 10% |  |  |  |  |  |  |  |  |  |
-
----
-
-### 23 52 23.30 Gas/Oil Fired Boilers
-
-| ID    | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|--------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | GAS/OIL FIRED BOILERS, Combination with burners and controls, packaged |      |              |             |      |          |       |           |       |                |
-| 1000  | Cast iron with insulated jacket |  |  |  |  |  |  |  |  |  |
-| 2000  | Steam, gross output, 720 MBH | 0-7 | .43 | 74.074 | Ea. | 16,100 | 4,950 |  | 21,050 | 25,100 |
-| 2080  | 1,600 MBH |  | .30 | 107 |  | 20,000 | 7,175 |  | 27,175 | 32,700 |
-| 2140  | 2,700 MBH |  | .19 | 166 |  | 26,200 | 11,100 |  | 37,300 | 45,400 |
-| 2280  | 5,520 MBH |  | .14 | 235 |  | 99,000 | 15,800 |  | 114,800 | 132,000 |
-| 2340  | 6,390 MBH |  | .11 | 296 |  | 106,000 | 19,800 |  | 125,800 | 146,000 |
-| 2380  | 6,970 MBH |  | .60 | 372 |  | 112,000 | 24,900 |  | 136,900 | 160,500 |
-| 2900  | Hot water, gross output |  |  |  |  |  |  |  |  |  |
-| 2910  | 200 MBH | 0-6 | .62 | 39.024 | Ea. | 11,700 | 2,575 |  | 14,275 | 16,700 |
-| 2920  | 300 MBH |  | 1.49 | 49.080 |  | 11,700 | 3,225 |  | 14,925 | 17,700 |
-| 2930  | 400 MBH |  | .41 | 57.971 |  | 13,700 | 3,800 |  | 17,500 | 20,800 |
-| 2940  | 500 MBH |  | 1.36 | 67.039 |  | 14,800 | 4,400 |  | 19,200 | 22,900 |
-| 3000  | 584 MBH | 0-7 | .44 | 72.072 |  | 14,900 | 4,825 |  | 19,725 | 23,500 |
-| 3060  | 1,460 MBH |  | .28 | 113 |  | 30,800 | 7,575 |  | 38,375 | 45,200 |
-| 3160  | 4,088 MBH |  | .16 | 195 |  | 68,500 | 13,100 |  | 81,600 | 95,000 |
-| 3300  | 13,500 MBH, 403.3 BHP |  | .04 | 727 |  | 212,500 | 48,700 |  | 261,200 | 306,000 |
-
----
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | ELECTRIC BOILERS, ASME, Standard controls and trim        |      |              |             |      |          |       |           |         |                |
+| 1000  | Steam, 6 KW, 20.5 MBH                                     | Q-19 | 1.20         | 20          | Ea.  | 4,500    | 1,275 |           | 5,775   | 6,900          |
+| 1160  | 60 KW, 205 MBH                                            |      |              | 24          |      | 7,150    | 1,550 |           | 8,700   | 10,200         |
+| 1220  | 112 KW, 382 MBH                                           |      | 0.75         | 32          |      | 9,900    | 2,050 |           | 11,950  | 14,000         |
+| 1280  | 222 KW, 758 MBH                                           |      | 0.55         | 43.636      |      | 24,900   | 2,800 |           | 27,700  | 31,600         |
+| 1380  | 518 KW, 1,768 MBH                                         | Q-21 | 0.36         | 88.889      |      | 32,600   | 5,850 |           | 38,450  | 44,500         |
+| 1480  | 814 KW, 2,778 MBH                                         |      | 0.25         | 128         |      | 45,800   | 8,425 |           | 54,225  | 63,000         |
+| 1600  | 2,340 KW, 7,984 MBH                                       |      | 0.16         | 200         |      | 103,000  | 13,200|           | 116,200 | 132,500        |
+| 2000  | Hot water, 7.5 KW, 25.6 MBH                               | Q-19 | 1.30         | 18.462      |      | 5,150    | 1,175 |           | 6,325   | 7,425          |
+| 2100  | 90 KW, 307 MBH                                            |      | 1.10         | 21.818      |      | 6,150    | 1,400 |           | 7,550   | 8,850          |
+| 2220  | 296 KW, 1,010 MBH                                         |      | 0.55         | 43.636      |      | 16,200   | 2,800 |           | 19,000  | 22,100         |
+| 2500  | 1,036 KW, 3,536 MBH                                       | Q-21 | 0.34         | 94.118      |      | 36,400   | 6,200 |           | 42,600  | 49,300         |
+| 2680  | 2,400 KW, 8,191 MBH                                       |      | 0.25         | 128         |      | 72,500   | 8,425 |           | 80,925  | 92,500         |
+| 2820  | 3,600 KW, 12,283 MBH                                      |      | 0.16         | 200         |      | 100,000  | 13,200|           | 113,200 | 129,500        |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -2138,7 +2107,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 2160  | Duct high temperature thermostat                                     |        |              |             |          |          |       |           | 570    | 570            |
 | 2170  | Duct smoke detector                                                  |        |              |             |          |          |       |           | 705    | 705            |
 | 2200  | Digital output (avg. 50' run in 1/2" EMT)                            |        |              |             |          |          |       |           |        |                |
-| 2210  | Start/stop                                                           |        |              |             | Eo.      |          |       |           | 340    | 340            |
+| 2210  | Start/stop                                                           |        |              |             | Ea.      |          |       |           | 340    | 340            |
 | 2220  | On/off (maintained contact)                                          |        |              |             | "1       |          |       |           | 585    | 585            |
 | 3000  | Controller MUX panel, incl. function boards                          |        |              |             |          |          |       |           |        |                |
 | 3100  | 48 point                                                             |        |              |             | Ea.      |          |       |           | 5,275  | 5,275          |
@@ -2154,7 +2123,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 3281  | Package complete with PC, keyboard                                   |        |              |             |          |          |       |           |        |                |
 | 3282  | printer, monitor, basic software                                     |        |              |             | Ea.      |          |       |           | 3,150  | 3,150          |
 | 4000  | Front end costs                                                      |        |              |             |          |          |       |           |        |                |
-| 4100  | Computer (P.C.) with software program                                |        |              |             | Eo.      |          |       |           | 6,350  | 6,350          |
+| 4100  | Computer (P.C.) with software program                                |        |              |             | Ea.      |          |       |           | 6,350  | 6,350          |
 | 4200  | Color graphics software                                              |        |              |             |          |          |       |           | 3,925  | 3,925          |
 | 4300  | Color graphics slides                                                |        |              |             |          |          |       |           | 490    | 490            |
 | 4350  | Additional printer                                                   |        |              |             |          |          |       |           | 980    | 980            |
@@ -2287,7 +2256,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0900  | 1,600 CFM                                                                        | Q-5  | 1.20         | 13.333      | Ea.  | 5,650    | 845   |           | 6,495   | 7,450          |
 | 0920  | 5,000 CFM                                                                        | Q-6  | 1.40         | 17.143      |      | 16,400   | 1,125 |           | 17,525  | 19,700         |
 | 0940  | 11,500 CFM                                                                       |      | 1            | 24          |      | 40,900   | 1,575 |           | 42,475  | 47,400         |
-| 0970  | 22,000 CFM                                                                       | Q-6  | .60          | 40          | Eo.  | 82,500   | 2,625 |           | 85,125  | 94,500         |
+| 0970  | 22,000 CFM                                                                       | Q-6  | .60          | 40          | Ea.  | 82,500   | 2,625 |           | 85,125  | 94,500         |
 | 1000  | 40,000 CFM                                                                       |      | .30          | 80          |      | 105,000  | 5,250 |           | 110,250 | 123,500        |
 
 ---
@@ -2312,32 +2281,21 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ---
 
-For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 563
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 22384 Humidity84ontrol EquipHumidity84 13 Humidifiers
+# 23 84 13 Humidifiers
 
-## 23 84 13.Controldifier Units
+## 23 84 13.10 Humidifier Units
 
-### Daily LabEquipmentOutput Hours Unit
-
-2022 Bare Costs  
-Total  
-Material  
-Labor Equipment  
-Total  
-Incl O&P
-
-| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 23   | 84 13 Humidifiers   |      |              |             |      |          |       |           |       |                |
-| 23   | 84 13.10 Humidifier Units |      |              |             |      |          |       |           |       |                |
-| 0010 | HUMIDIFIER UNITS    |      |              |             |      |          |       |           |       |                |
-| 0520 | Steam, room or duct, filter, regulators, auto. controls, 220 V |      |              |             |      |          |       |           |       |                |
-| 0540 | 11 lb./hr.          | Q-5  | 6            | 2.667       | Eq.  | 2,825    | 169   |           | 2,994 | 3,375          |
-| 0560 | 22 lb./hr.          |      | 5            | 3.200       |      | 3,125    | 203   |           | 3,328 | 3,750          |
-| 0580 | 33 lb./hr.          |      |              | 4           |      | 3,200    | 253   |           | 3,453 | 3,900          |
-| 0600 | 50 lb./hr.          |      | 4            | 4           |      | 3,575    | 253   |           | 3,828 | 4,300          |
-| 0620 | 100 lb./hr.         |      | 3            | 5.333       |      | 5,275    | 340   |           | 5,615 | 6,300          |
+| ID   | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | HUMIDIFIER UNITS                                            |      |              |             |      |          |       |           |        |                |
+| 0520 | Steam, room or duct, filter, regulators, auto. controls, 220 V |      |              |             |      |          |       |           |        |                |
+| 0540 | 11 lb./hr.                                                  | Q-5  | 6            | 2.667       | Eq.  | 2,825    | 169   |           | 2,994  | 3,375          |
+| 0560 | 22 lb./hr.                                                  |      | 5            | 3.200       |      | 3,125    | 203   |           | 3,328  | 3,750          |
+| 0580 | 33 lb./hr.                                                  |      |              | 4           |      | 3,200    | 253   |           | 3,453  | 3,900          |
+| 0600 | 50 lb./hr.                                                  |      | 4            | 4           |      | 3,575    | 253   |           | 3,828  | 4,300          |
+| 0620 | 100 lb./hr.                                                 |      | 3            | 5.333       |      | 5,275    | 340   |           | 5,615  | 6,300          |
 
 570 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -2347,10 +2305,6 @@ Incl O&P
 
 ### 23 81 19.20 Self-Contained HVAC Single Package
 
-FoEquipmentunting, no price change  
-For steam heating coils, add  
-Water cooled for free blow or duct, not including tower  
-Consta
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -2435,9 +2389,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 23 57 19.16 Shell Type, Liquid HVAC-Liquid Heat Exchangers
 
-### 0010 SHELL-TYPE, LIQUID-TO-LIQUID HEAT EXCHANGERS
 
-Hot water 40°F to 140°F, by water at 200°F
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -2569,18 +2521,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 23 81 46 - Water-Source Unitary Heat PuUnitary81 46.10 Water Source HVAC Pumps
 
-4000  
-4020  
-Equipmentase in capacity thru use of solar collector, size boiler at 60%
-
----
-
 ## 23 81 46 - Water-Source Unitary Heat Pumps
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 4000 | For increase incapacity thru use | | | | | | | | | |
-| 4020 | of solar collector, size boiler at 60% | | | | | | | | | |
+| ID   | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 4000 | For increase in capacity through use             |      |             |             |      |          |       |           |       |                |
+| 4020 | of solar collector, size boiler at 60%           |      |             |             |      |          |       |           |       |                |
 
 ---
 
@@ -2590,33 +2536,33 @@ Equipmentase in capacity thru use of solar collector, size boiler at 60%
 
 #### 23 82 16.10 - Flanged Coils
 
-| ID   | Name/Description | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | FLANGED COILS | | | | | | | | | |
-| 0500 | Chilled water cooling, 6 rows, 24" x 48" | Q-5 | 3.20 | 5 | Ea. | 5,225 | 315 | | 5,540 | 6,225 |
-| 1000 | Direct expansion cooling, 6 rows, 24" x 48" | | 2.80 | 5.714 | | 6,050 | 360 | | 6,410 | 7,225 |
-| 1500 | Hot water heating, 1 row, 24" x 48" | | 4 | 4 | | 2,075 | 253 | | 2,328 | 2,675 |
-| 2000 | Steam heating, 1 row, 24" x 48" | | 3.06 | 5.229 | | 2,950 | 330 | | 3,280 | 3,750 |
+| ID   | Name/Description                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | FLANGED COILS                                 |      |             |             |      |          |       |           |        |                |
+| 0500 | Chilled water cooling, 6 rows, 24" x 48"      | Q-5  | 3.20        | 5           | Ea.  | 5,225    | 315   |           | 5,540  | 6,225          |
+| 1000 | Direct expansion cooling, 6 rows, 24" x 48"   |      | 2.80        | 5.714       |      | 6,050    | 360   |           | 6,410  | 7,225          |
+| 1500 | Hot water heating, 1 row, 24" x 48"           |      | 4           | 4           |      | 2,075    | 253   |           | 2,328  | 2,675          |
+| 2000 | Steam heating, 1 row, 24" x 48"               |      | 3.06        | 5.229       |      | 2,950    | 330   |           | 3,280  | 3,750          |
 
 ---
 
 ### 23 82 16.20 - Duct Heaters
 
-| ID   | Name/Description | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | DUCT HEATERS, Electri, 480 V, 3 Ph. | | | | | | | | | |
-| 0020 | Finned tubular insert, 500 °F | | | | | | | | | |
-| 0100 | 8" wide x 6" high, 4.0 kW | Q-20 | 16 | 1.250 | Ea. | 920 | 77.50 | | 997.50 | 1,125 |
-| 0120 | 12" high, 8.0 kW | | 15 | 1.333 | | 1,525 | 82.50 | | 1,607.50 | 1,800 |
-| 0140 | 18" high, 12.0 kW | | 14 | 1.429 | | 2,150 | 88.50 | | 2,238.50 | 2,475 |
-| 0160 | 24" high, 16.0 kW | | 13 | 1.538 | | 2,750 | 95 | | 2,845 | 3,175 |
-| 0180 | 30" high, 20.0 kW | | 12 | 1.667 | | 3,350 | 103 | | 3,453 | 3,850 |
-| 0300 | 12" wide x 6" high, 6.7 kW | | 15 | 1.333 | | 975 | 82.50 | | 1,057.50 | 1,200 |
-| 0360 | 24" high, 26.7 kW | | 12 | 1.667 | | 2,850 | 103 | | 2,953 | 3,275 |
-| 0700 | 24" wide x 6" high, 17.8 kW | | 13 | 1.538 | | 1,175 | 95 | | 1,270 | 1,450 |
-| 0760 | 24" high, 71.1 kW | | 10 | 2 | | 3,550 | 124 | | 3,674 | 4,075 |
+| ID   | Name/Description                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|------|-----------------------------------------------|------|-------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 0010 | DUCT HEATERS, Electric, 480 V, 3 Ph.          |      |             |             |      |          |        |           |          |                |
+| 0020 | Finned tubular insert, 500 °F                 |      |             |             |      |          |        |           |          |                |
+| 0100 | 8" wide x 6" high, 4.0 kW                     | Q-20 | 16          | 1.250       | Ea.  | 920      | 77.50  |           | 997.50   | 1,125          |
+| 0120 | 12" high, 8.0 kW                              |      | 15          | 1.333       |      | 1,525    | 82.50  |           | 1,607.50 | 1,800          |
+| 0140 | 18" high, 12.0 kW                             |      | 14          | 1.429       |      | 2,150    | 88.50  |           | 2,238.50 | 2,475          |
+| 0160 | 24" high, 16.0 kW                             |      | 13          | 1.538       |      | 2,750    | 95     |           | 2,845    | 3,175          |
+| 0180 | 30" high, 20.0 kW                             |      | 12          | 1.667       |      | 3,350    | 103    |           | 3,453    | 3,850          |
+| 0300 | 12" wide x 6" high, 6.7 kW                    |      | 15          | 1.333       |      | 975      | 82.50  |           | 1,057.50 | 1,200          |
+| 0360 | 24" high, 26.7 kW                             |      | 12          | 1.667       |      | 2,850    | 103    |           | 2,953    | 3,275          |
+| 0700 | 24" wide x 6" high, 17.8 kW                   |      | 13          | 1.538       |      | 1,175    | 95     |           | 1,270    | 1,450          |
+| 0760 | 24" high, 71.1 kW                             |      | 10          | 2           |      | 3,550    | 124    |           | 3,674    | 4,075          |
 
-8000 To obtain BTU multiply kW by 3413
+*To obtain BTU multiply kW by 3413*
 
 ---
 
@@ -2624,36 +2570,36 @@ Equipmentase in capacity thru use of solar collector, size boiler at 60%
 
 #### 23 82 19.10 - Fan Coil Air Conditioning
 
-| ID   | Name/Description | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | FAN COIL AIR CONDITIONING | | | | | | | | | |
-| 0030 | Fan coilAC, cabinet mounted, filters and controls | | | | | | | | | |
-| 0100 | Chilled water, 1/2 ton cooling | Q-5 | 8 | 2 | Ea. | 750 | 127 | | 877 | 1,025 |
-| 0120 | 1 ton cooling | | 6 | 2.667 | | 860 | 169 | | 1,029 | 1,200 |
-| 0140 | 1-1/2 ton cooling | | 5.50 | 2.909 | | 905 | 184 | | 1,089 | 1,275 |
-| 0150 | 2 ton cooling | | 5.25 | 3.048 | | 1,225 | 193 | | 1,418 | 1,650 |
-| 0180 | 3 ton cooling | | 4 | | | 2,625 | 253 | | 2,878 | 3,250 |
-| 0262 | For hot water coil, add | | | | | 40% | 10% | | | |
-| 0320 | 1 ton cooling | Q-5 | 653 | 2.667 | Ea. | 2,000 | 169 | | 2,169 | 2,450 |
-| 0940 | Direct expansion, for use w/ air cooled condensing unit, 1-1/2 ton cooling | Q-5 | | 3.200 | Ea. | 770 | 203 | | 973 | 1,150 |
-| 1000 | 5 ton cooling | " | | 5.333 | | 1,375 | 340 | | 1,715 | 2,025 |
-| 1040 | 10 ton cooling | Q-6 | 2.60 | 9.231 | | 2,400 | 605 | | 3,005 | 3,550 |
-| 1060 | 20 ton cooling | " | .70 | 34.286 | | 4,750 | 2,250 | | 7,000 | 8,575 |
-| 1500 | For hot water coil, add | | | | | 40% | 10% | | | |
+| ID   | Name/Description                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | FAN COIL AIR CONDITIONING                                |      |             |             |      |          |       |           |        |                |
+| 0030 | Fan coil AC, cabinet mounted, filters and controls       |      |             |             |      |          |       |           |        |                |
+| 0100 | Chilled water, 1/2 ton cooling                           | Q-5  | 8           | 2           | Ea.  | 750      | 127   |           | 877    | 1,025          |
+| 0120 | 1 ton cooling                                            |      | 6           | 2.667       |      | 860      | 169   |           | 1,029  | 1,200          |
+| 0140 | 1-1/2 ton cooling                                        |      | 5.50        | 2.909       |      | 905      | 184   |           | 1,089  | 1,275          |
+| 0150 | 2 ton cooling                                            |      | 5.25        | 3.048       |      | 1,225    | 193   |           | 1,418  | 1,650          |
+| 0180 | 3 ton cooling                                            |      | 4           |             |      | 2,625    | 253   |           | 2,878  | 3,250          |
+| 0262 | For hot water coil, add                                  |      |             |             |      | 40%      | 10%   |           |        |                |
+| 0320 | 1 ton cooling                                            | Q-5  | 653         | 2.667       | Ea.  | 2,000    | 169   |           | 2,169  | 2,450          |
+| 0940 | Direct expansion, for use w/ air cooled condensing unit, 1-1/2 ton cooling | Q-5  |             | 3.200       | Ea.  | 770      | 203   |           | 973    | 1,150          |
+| 1000 | 5 ton cooling                                            | "    |             | 5.333       |      | 1,375    | 340   |           | 1,715  | 2,025          |
+| 1040 | 10 ton cooling                                           | Q-6  | 2.60        | 9.231       |      | 2,400    | 605   |           | 3,005  | 3,550          |
+| 1060 | 20 ton cooling                                           | "    | .70         | 34.286      |      | 4,750    | 2,250 |           | 7,000  | 8,575          |
+| 1500 | For hot water coil, add                                  |      |             |             |      | 40%      | 10%   |           |        |                |
 
 ---
 
 ### 23 82 19.20 - Heating and Ventilating Units
 
-| ID   | Name/Description | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | HEATING AND VENTILATING UNITS, Classroom units | | | | | | | | | |
-| 0020 | Includes filte, heating/cooling coils, standard controls | | | | | | | | | |
-| 0080 | 750 CFM, 2 tons cooling | Q-6 | 2 | 12 | Ea. | 5,425 | 790 | | 6,215 | 7,125 |
-| 0120 | 1,250 CFM, 3 tons cooling | | 1.40 | 17.143 | | 6,450 | 1,125 | | 7,575 | 8,775 |
-| 0140 | 1,500 CFM, 4 tons cooling | | .80 | 30 | | 6,900 | 1,975 | | 8,875 | 10,600 |
-| 0500 | For electric heat, add | | | | | 35% | | | | |
-| 1000 | For no cooling, deduct | | | | | 25% | 10% | | | |
+| ID   | Name/Description                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | HEATING AND VENTILATING UNITS, Classroom units           |      |             |             |      |          |       |           |        |                |
+| 0020 | Includes filter, heating/cooling coils, standard controls|      |             |             |      |          |       |           |        |                |
+| 0080 | 750 CFM, 2 tons cooling                                  | Q-6  | 2           | 12          | Ea.  | 5,425    | 790   |           | 6,215  | 7,125          |
+| 0120 | 1,250 CFM, 3 tons cooling                                |      | 1.40        | 17.143      |      | 6,450    | 1,125 |           | 7,575  | 8,775          |
+| 0140 | 1,500 CFM, 4 tons cooling                                |      | .80         | 30          |      | 6,900    | 1,975 |           | 8,875  | 10,600         |
+| 0500 | For electric heat, add                                   |      |             |             |      | 35%      |       |           |        |                |
+| 1000 | For no cooling, deduct                                   |      |             |             |      | 25%      | 10%   |           |        |                |
 
 ---
 
@@ -2859,7 +2805,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0010  | SELF-CONTAINED SINGLE PACKAGE                                        |      |             |             |      |          |       |           |        |                |
 | 0100  | Air cooled, for free blow or duct, not incl. remote condenser        |      |             |             |      |          |       |           |        |                |
 | 0110  | Constant volume                                                      |      |             |             |      |          |       |           |        |                |
-| 0200  | 3 ton cooling                                                        | Q-5  | 1           | 720         | Eo.  | 4,100    | 1,025 |           | 5,125  | 6,000          |
+| 0200  | 3 ton cooling                                                        | Q-5  | 1           | 720         | Ea.  | 4,100    | 1,025 |           | 5,125  | 6,000          |
 | 0220  | 5 ton cooling                                                        | Q-6  | 1.20        |             |      | 4,800    | 1,325 |           | 6,125  | 7,225          |
 | 0240  | 10 ton cooling                                                       | Q-7  | 1           | 32          |      | 8,450    | 2,150 |           | 10,600 | 12,500         |
 | 0260  | 20 ton cooling                                                       |      | .90         | 35.556      |      | 13,600   | 2,375 |           | 15,975 | 18,600         |
@@ -2874,9 +2820,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## Radiant Floor Heating
 
-Radiant floor heating, zone control panel  
-4 zone actuator valve control, expandable  
-6 zone actuator valve control, expandable  
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
@@ -2919,8 +2862,6 @@ Radiant floor heating, zone control panel
 | 7430  | 1" x 1"                                                              |        | 82           | .098        |      | 1.14     | 6.85    |           | 7.99    | 11.50          |
 
 # 23 83 33 - Electric Radiant Heaters
-
-## Electric Heating
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
