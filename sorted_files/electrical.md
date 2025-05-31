@@ -89,12 +89,7 @@ Crew Output Hours Unit Material Labor of 022 Bar Electrical Equipment Total Tota
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 26   | 01                                                                   | 02     | -            | Labor       | Adjustment | | | | | |
-| 26   | 01                                                                   | 02.20  | Labor        | Adjustment  | Factors | Crew | Output | Hours | Unit | Material | Labor | Equipment | Total | Incl O & P |
-| 7030 | Max security w/facilities & correctional officer escort (no inmate contact) | | | | | | | | 50% | | |
-| 26   | 05                                                                   | Common | Work         | Results     | for  | Electrical | | | | | |
-| 26   | 05                                                                   | 05     | -            | Selective   | Demolition | for | Electrical | | | | | |
-| 26   | 05                                                                   | 05.10  | Electrical   | Demolition  | | | | | | | |
+| 7030 | Max security w/facilities & correctional officer escort (no inmate contact) | |              |             |      |          |       |           | 50%   |                |
 | 0010 | ELECTRICAL DEMOLITION                                                |        |              |             |      |          |       |           |       |                |
 | 0020 | Electrical demolition, conduit to 10' high, inc. fittings & hangers  |        |              |             |      |          |       |           |       |                |
 | 0100 | Rigid galvanized steel, 1/2" to 1" diameter                          | 1 Elec | 242          | .033        | LF   |          | 2.19  |           | 2.19  | 3.25           |

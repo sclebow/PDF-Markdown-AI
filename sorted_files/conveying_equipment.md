@@ -137,12 +137,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # Escalato31
 
 ## 14 31 10 Glass and Steel Escalators
-
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|---------|-----------|----------|----------------|
-| 14   | 31 10        | Glass and Steel Escalators | | | | | | | | |
-| 14   | 31 10.10     | Escalators     | M-1  | .04        | 800         | Eg.  | 152,000  | 71,000  | 8,550     | 231,550 | 282,500 |
-| 2500 | 48" wide x 25' floor to floor height | | | | | | | | | |
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|------|--------------------------------------|------|-------------|-------------|-------|----------|---------|-----------|----------|----------------|
+| 14   | 31 10                                | Glass and Steel Escalators |      |             |             |       |          |         |           |          |                |
+| 14   | 31 10.10                             | Escalators                 | M-1  | .04        | 800         | Eg.   | 152,000  | 71,000  | 8,550     | 231,550  | 282,500        |
+| 2500 | 48" wide x 25' floor to floor height |      |             |             |       |          |         |           |          |                |
 
 ## 14 32 Moving Walks
 
@@ -308,34 +307,34 @@ For cla
 
 ## Hydraulic Passenger Elevators
 
-| ID   | Name      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------|------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 14   | 24        | 23   | -           | Hydraulic   | Passenger | Elevators | | | | |
-| 14   | 24        | 23.10| Hydraulic   | Passenger   | Elevators and Options | | | | | |
-| 0010 | HYDRAULIC PASSENGER ELEVATORS AND OPTIONS | | | | R142000-10 | | | | | |
-| 2050 | Hyd. pass., base unit, 1,500 lb., 100 fpm, 2 stop, std. fin. | R142000-20 | 2 Elev | .10 | 160 | Eg. # | 46,900 | 15,000 | | 61,900 | 73,500 |
-| 2075 | For 2,000 lb. capacity, add | R142000-30 | | | | 890 | | | 890 | 980 |
-| 2100 | For 2,500 lb. capacity, add | R142000-40 | | | | 3,325 | | | 3,325 | 3,675 |
-| 2125 | For 3,000 lb. capacity, add | | | | | 4,800 | | | 4,800 | 5,275 |
-| 2150 | For 3,500 lb. capacity, add | | | | | 8,000 | | | 8,000 | 8,800 |
-| 2175 | For 4,000 lb. capacity, add | | | | Ea. | 9,625 | | | 9,625 | 10,600 |
-| 2200 | For 4,500 lb. capacity, add | | | | | 12,700 | | | 12,700 | 14,000 |
-| 2225 | For 5,000 lb. capacity, add | | | | | 17,900 | | | 17,900 | 19,700 |
-| 2250 | For increased speed, 125 fpm, add | | | | | 1,300 | | | 1,300 | 1,425 |
-| 2275 | 150 fpm, add | | | | | 2,875 | | | 2,875 | 3,175 |
-| 2300 | 175 fpm, add | | | | | 5,600 | | | 5,600 | 6,175 |
-| 2325 | 200 fpm, add | | | | | 10,800 | | | 10,800 | 11,900 |
-| 2350 | For travel over 12 V.L.F., add | 12 Elev | 7.25 | 2.207 | V.L.F | 765 | 206 | | 971 | 1,150 |
-| 2375 | For number of stops over 2, add | | | .27 | 59.259 | Stop | 1,175 | 5,550 | | 6,725 | 9,475 |
-| 2725 | Hydraulic hospital, base unit, 4,000 lb., 100 fpm, 2 stop, std. fin. | | .10 | 160 | Ea. | 77,000 | 15,000 | | 92,000 | 107,000 |
-| 2775 | For 4,500 lb. capacity, add | | | | | 8,125 | | | 8,125 | 8,950 |
-| 2800 | For 5,000 lb. capacity, add | | | | | 11,800 | | | 11,800 | 13,000 |
-| 2825 | For increased speed, 125 fpm, add | | | | | 2,425 | | | 2,425 | 2,675 |
-| 2850 | 150 fpm, add | | | | | 4,050 | | | 4,050 | 4,450 |
-| 2875 | 175 fpm, add | | | | | 6,825 | | | 6,825 | 7,500 |
-| 2900 | 200 fpm, add | | | | | 10,000 | | | 10,000 | 11,000 |
-| 2925 | For travel over 12 V.L.F., add | 12 Elev | 7.25 | 2.207 | V.L.F. | 445 | 206 | | 651 | 795 |
-| 2950 | For number of stops over 2, add | | | .27 | 59.259 | Stop | 5,375 | 5,550 | | 10,925 | 14,100 |
+| ID    | Name                                                                                   | Crew      | Daily Output | Labor-Hours | Unit    | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------------------------|-----------|--------------|-------------|---------|----------|--------|-----------|---------|----------------|
+| 14    | 24 23 - Hydraulic Passenger Elevators                                                  |           |              |             |         |          |        |           |         |                |
+| 14    | 24 23.10 - Hydraulic Passenger Elevators and Options                                   |           |              |             |         |          |        |           |         |                |
+| 0010  | HYDRAULIC PASSENGER ELEVATORS AND OPTIONS                                              |           |              |             | R142000-10 |          |        |           |         |                |
+| 2050  | Hyd. pass., base unit, 1,500 lb., 100 fpm, 2 stop, std. fin.                          | 2 Elev    | .10          | 160         | Ea.     | 46,900   | 15,000 |           | 61,900  | 73,500         |
+| 2075  | For 2,000 lb. capacity, add                                                           |           |              |             |         | 890      |        |           | 890     | 980            |
+| 2100  | For 2,500 lb. capacity, add                                                           |           |              |             |         | 3,325    |        |           | 3,325   | 3,675          |
+| 2125  | For 3,000 lb. capacity, add                                                           |           |              |             |         | 4,800    |        |           | 4,800   | 5,275          |
+| 2150  | For 3,500 lb. capacity, add                                                           |           |              |             |         | 8,000    |        |           | 8,000   | 8,800          |
+| 2175  | For 4,000 lb. capacity, add                                                           |           |              |             | Ea.     | 9,625    |        |           | 9,625   | 10,600         |
+| 2200  | For 4,500 lb. capacity, add                                                           |           |              |             |         | 12,700   |        |           | 12,700  | 14,000         |
+| 2225  | For 5,000 lb. capacity, add                                                           |           |              |             |         | 17,900   |        |           | 17,900  | 19,700         |
+| 2250  | For increased speed, 125 fpm, add                                                     |           |              |             |         | 1,300    |        |           | 1,300   | 1,425          |
+| 2275  | 150 fpm, add                                                                          |           |              |             |         | 2,875    |        |           | 2,875   | 3,175          |
+| 2300  | 175 fpm, add                                                                          |           |              |             |         | 5,600    |        |           | 5,600   | 6,175          |
+| 2325  | 200 fpm, add                                                                          |           |              |             |         | 10,800   |        |           | 10,800  | 11,900         |
+| 2350  | For travel over 12 V.L.F., add                                                        | 12 Elev   | 7.25         | 2.207       | V.L.F   | 765      | 206    |           | 971     | 1,150          |
+| 2375  | For number of stops over 2, add                                                       |           | .27          | 59.259      | Stop    | 1,175    | 5,550  |           | 6,725   | 9,475          |
+| 2725  | Hydraulic hospital, base unit, 4,000 lb., 100 fpm, 2 stop, std. fin.                  |           | .10          | 160         | Ea.     | 77,000   | 15,000 |           | 92,000  | 107,000        |
+| 2775  | For 4,500 lb. capacity, add                                                           |           |              |             |         | 8,125    |        |           | 8,125   | 8,950          |
+| 2800  | For 5,000 lb. capacity, add                                                           |           |              |             |         | 11,800   |        |           | 11,800  | 13,000         |
+| 2825  | For increased speed, 125 fpm, add                                                     |           |              |             |         | 2,425    |        |           | 2,425   | 2,675          |
+| 2850  | 150 fpm, add                                                                          |           |              |             |         | 4,050    |        |           | 4,050   | 4,450          |
+| 2875  | 175 fpm, add                                                                          |           |              |             |         | 6,825    |        |           | 6,825   | 7,500          |
+| 2900  | 200 fpm, add                                                                          |           |              |             |         | 10,000   |        |           | 10,000  | 11,000         |
+| 2925  | For travel over 12 V.L.F., add                                                        | 12 Elev   | 7.25         | 2.207       | V.L.F.  | 445      | 206    |           | 651     | 795            |
+| 2950  | For number of stops over 2, add                                                       |           | .27          | 59.259      | Stop    | 5,375    | 5,550  |           | 10,925  | 14,100         |
 
 ---
 
