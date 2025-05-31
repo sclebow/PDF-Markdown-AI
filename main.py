@@ -107,7 +107,7 @@ def calculate_patches(image_file_path):
 
     return num_patches
 
-def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=30000, tokens_per_call=3500, last_call_time=[0], calls_this_minute=[0]):
+def convert_ocr_lines_to_markdown(ocr_lines, client, log_dir, rate_limit_tpm=30000, tokens_per_call=14000, last_call_time=[0], calls_this_minute=[0]):
     """
     Convert OCR lines to markdown format using ChatGPT, with token-per-minute rate limiting.
     """
