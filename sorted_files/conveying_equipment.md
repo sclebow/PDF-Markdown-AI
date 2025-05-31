@@ -137,11 +137,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # Escalato31
 
 ## 14 31 10 Glass and Steel Escalators
-| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total    | Total Incl O&P |
-|------|--------------------------------------|------|-------------|-------------|-------|----------|---------|-----------|----------|----------------|
-| 14   | 31 10                                | Glass and Steel Escalators |      |             |             |       |          |         |           |          |                |
-| 14   | 31 10.10                             | Escalators                 | M-1  | .04        | 800         | Eg.   | 152,000  | 71,000  | 8,550     | 231,550  | 282,500        |
-| 2500 | 48" wide x 25' floor to floor height |      |             |             |       |          |         |           |          |                |
+
+| ID   | Name                                 | Crew                       | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|------|--------------------------------------|----------------------------|--------------|-------------|-------|----------|---------|-----------|----------|----------------|
+| 14   | 31 10                                | Glass and Steel Escalators |              |             |       |          |         |           |          |                |
+| 14   | 31 10.10                             | Escalators                 | M-1          | .04         | 800   |  152,000 | 71,000  | 8,550     | 231,550  | 282,500        |
+| 2500 | 48" wide x 25' floor to floor height |                            |              |             |       |          |         |           |          |                |
 
 ## 14 32 Moving Walks
 

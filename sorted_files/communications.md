@@ -48,10 +48,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ---
 
 ### Master Antenna Television Systems
-| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|--------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 27   | 41 33.10     | TV Systems | 1 Elec | 4           | 2           | Outlet | 286      | 132   |           | 418   | 510            |
-| 27   | 41 33.10     | TV Systems |        | 5.30        | 1.509       |        | 275      | 100   |           | 375   | 455            |
+| ID   | Name       | Crew       | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------------|------------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 27   | 41 33.10   | TV Systems | 1 Elec       | 4           | 2      | Outlet   | 286   | 132       | 418   | 510            |
+| 27   | 41 33.10   | TV Systems |              | 5.30        | 1.509  |          | 275   | 100       | 375   | 455            |
 
 ---
 
