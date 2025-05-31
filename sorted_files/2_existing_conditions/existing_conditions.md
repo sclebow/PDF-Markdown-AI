@@ -1,0 +1,4814 @@
+# 02 41 Demolition
+
+## 02 41 13.23 Utility Line Removal
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | UTILITY LINE REMOVAL                                                 |        |              |             |      |          |        |           |         |                |
+| 0015 | No hauling, abandon catch basin or manhole                           | B-6    | 7            | 3.429       | Ea.  |          | 169    | 47        | 216     | 305            |
+| 0020 | Remove existing catch basin or manhole, masonry                      |        | 4            | 6           |      |          | 296    | ...       | 82      | 378            | 530            |
+| 0030 | Catch basin or manhole frames and covers, stored                     |        | 13           | 1.846       |      |          | 91     | 25.50     | 116.50  | 164            |
+| 0040 | Remove and reset                                                     | B-6    | 7            | 3.429       | Ea.  |          | 169    | 47        | 216     | 305            |
+| 0900 | Hydrants, fire, remove only                                          | B 21A  | 5            | 8           |      |          | 450    | 114       | 564     | 800            |
+| 0950 | Remove and reset                                                     | "      | 2            | 20          |      |          | 1,125  | 286       | 1,411   | 2,000          |
+| 2900 | Pipe removal, sewer/water, no excavation, 12" diameter               | B-6    | 175          | .137        | LF   |          | 6.75   | 1.88      | 8.631   | 12.15          |
+| 2930 | 15"-18" diameter                                                     | B-12Z  | 150          | .160        |      |          | 8.25   | 8.95      | 17.20   | 22             |
+| 2960 | 21"-24" diameter                                                     |        | 120          | .200        |      |          | 10.30  | 11.15     | 21.45   | 27.50          |
+| 3000 | 27"-36" diameter                                                     |        | 90           | .267        |      |          | 13.75  | 14.90     | 28.65   | 37             |
+| 3200 | Steel, welded connections, 4" diameter                               | B-6    | 160          | .150        |      |          | 7.40   | 2.06      | 9.46    | 13.30          |
+| 3300 | 10" diameter                                                         |        | 80           | .300        |      |          | 14.80  | 4.11      | 18.911  | 26.50          |
+
+## 02 41 13.30 Minor Site Demolition
+
+| ID   | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | MINOR SITE DEMOLITION                                                | R024119-10|              |             |      |          |        |           |         |                |
+| 0100 | Roadside delineators, remove only                                    | B 80     | 175          | 183         | Ea.  | 9.15     | 3.10   | 12.25     | 17.05   |                |
+| 0110 | Remove and reset                                                     |          | 100          | .320        | "    | 16.05    | 5.40   | 21.45     | 30      |                |
+| 0800 | Guiderail, corrugated steel, remove only                             | B-80A    | 100          | .240        | L.F. | 10.95    | 3.77   | 14.72     | 20.50   |                |
+| 0850 | Remove and reset                                                     | "        | 40           | .600        | "    | 27.50    | 9.45   | 36.951    | 51      |                |
+| 0860 | Guide posts, remove only                                             | B 80B    | 120          | .267        | Ea.  | 12.90    | 4.75   | 17.651    | 24.50   |                |
+| 0870 | Remove and reset                                                     | B 55     | 50           | .480        | "    | 22.50    | 15.30  | 37.80     | 51      |                |
+| 1000 | Masonry walls, block, solid                                          | B-5      | 1800         | .031        | C.F. | 1.56     | .84    | 2.401     | 3.24    |                |
+| 1200 | Brick, solid                                                         |          | 900          | .062        |      | 3.12     | 1.68   | 4.80      | 6.50    |                |
+| 1400 | Stone, with mortar                                                   |          | 900          | .062        |      | 3.12     | 1.68   | 4.80      | 6.50    |                |
+| 1500 | Dry set                                                              |          | 1500         | .037        |      | 1.87     | 1.01   | 2.88      | 3.89    |                |
+| 1600 | Median barrier, precast concrete, remove and store                   | B-3      | 430          | .112        | LF   | 5.70     | 6.30   | 12        | =15.40  |                |
+| 1610 | Remove and reset                                                     | "T       | 390          | .123        | "    | 6.25     | 6.95   | 13.201    | 17      |                |
+| 4000 | Sidewalk removal, bituminous, 2" thick                               | B 6      | 350          | .069        | S.Y. | 3.39     | .94    | 4.331     | 6.10    |                |
+| 4010 | 2-1/2" thick                                                         |          | 325          | .074        |      | 3.65     | 1.01   | 4.66      | 6.55    |                |
+| 4050 | Brick, set in mortar                                                 |          | 185          | .130        |      | 6.40     | 1.78   | 8.181     | 11.50   |                |
+| 4100 | Concrete, plain, 4"                                                  |          | 160          | .150        |      | 7.40     | 2.06   | 9.46      | 13.30   |                |
+| 4110 | Plain, 5"                                                            |          | 140          | .171        |      | 8.45     | 2.35   | 10.80     | 15.20   |                |
+| 4120 | Plain, 6"                                                            |          | 120          | .200        |      | 9.90     | 2.74   | 12.64     | 17.70   |                |
+| 4200 | Mesh reinforced, concrete, 4"                                        |          | 150          | .160        |      | 7.90     | 2.19   | 10.09     | 14.15   |                |
+| 4210 | 5" thick                                                             |          | 131          | .183        |      | 9.05     | 2.51   | 11.56     | 16.20   |                |
+| 4220 | 6" thick                                                             |          | 112          | 214         | "    | 10.60    | 2.94   | 13.541    | 19      |                |
+| 4300 | Slab on grade removal, plain                                         | B-5      | 45           | 1.244       | C.Y. | 62.50    | 33.50  | 96        | 130     |                |
+| 4310 | Mesh reinforced                                                      |          | 33           | 1.697       |      | 85       | 46     | 131       | 178     |                |
+| 4320 | Rod reinforced                                                       |          | 25           | 2.240       |      | 112      | 60.50  | 172.50    | 234     |                |
+| 4400 | For congested sites or small quantities, add up to                   |          |              |             |      |          |        |           | 200 %   | 200 %          |
+| 4450 | For disposal on site, add                                            | B-11A    | 232          | .069        |      | 3.66     | 5.80   | 9.46      | 11.85   |                |
+| 4500 | To 5 miles, add                                                      | B-34D    | 76           | .105        | C.Y. | 5.60     | 8.85   | 14.45     | 18.05   |                |
+
+## 02 41 13.33 Railtrack Removal
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | RAILTRACK REMOVAL                                                    |        |              |             |      |          |        |           |         |                |
+| 3500 | Railroad track removal, ties and track                               | B-13   | 330          | .170        | L.F  | 8.40     | 6.35   | 14.75     | 19.50   |                |
+| 3600 | Ballast                                                              | B-14   | 500          | .096        | C.Y. | 4.59     | .66    | 5.25      | 7.55    |                |
+| 3700 | Remove and re-install, ties & track using new bolts & spikes         |        | 50           | .960        | LF.  | 46       | 6.60   | 52.60     | 76      |                |
+| 3800 | Turnouts using new bolts and spikes                                  | W      |              | 48          | Eo.  | 2,300    | 330    | 2,630     | 3,775   |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 02 Underground 65 Storage Tank Underground 2 65 10 - Underground Tank and Contaminated Storage Removal
+
+## 02 65 10.30 Removal of Underground Storage Tanks
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2050 | Disposal of decontaminated soil, minimum                             |      |              |             | C.Y. |          |       |           | 135   | 150            |
+| 2055 | Maximum                                                              |      |              |             | C.Y. |          |       |           | 400   | 440            |
+
+---
+
+# 02 81 Transportation and Disposal of Hazardous Materials
+
+## 02 81 20 - Hazardous Waste Handling
+
+### 02 81 20.10 Hazardous Waste Cleanup / Pickup / Disposal
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | HAZARDOUS WASTE CLEANUP / PICKUP / DISPOSAL                          |      |              |             |      |          |       |           |       |                |
+| 0100 | For contractor rental equipment, i.e, dozer,                         |      |              |             |      |          |       |           |       |                |
+| 0110 | Front end loader, dump truck, etc., see 01 54 33 Reference Section   |      |              |             |      |          |       |           |       |                |
+| 1000 | Solid pickup                                                         |      |              |             |      |          |       |           |       |                |
+| 1100 | 55 gal. drums                                                        |      |              |             | Ea.  |          |       |           | 240   | 265            |
+| 1120 | Bulk material, minimum                                               |      |              |             | Ton  |          |       |           | 190   | 210            |
+| 1130 | Maximum                                                              |      |              |             |      |          |       |           | 595   | 655            |
+| 1200 | Transportation to disposal site                                      |      |              |             |      |          |       |           |       |                |
+| 1220 | Truckload 80 drums or 25 C.Y. or 18 tons                             |      |              |             |      |          |       |           |       |                |
+| 1260 | Minimum                                                              |      |              |             | Mile |          |       |           | 2.255 | 4.45           |
+| 1270 | Maximum                                                              |      |              |             |      |          |       |           | 7.25  | 7.98           |
+| 3000 | Liquid pickup, vacuum truck, stainless steel tank                    |      |              |             |      |          |       |           |       |                |
+| 3100 | Minimum charge, 4 hours                                              |      |              |             |      |          |       |           |       |                |
+| 3110 | 1 compartment, 2200 gallon                                           |      |              |             | Hr.  |          |       |           | 140   | 155            |
+| 3120 | 2 compartment, 5000 gallon                                           |      |              |             | "    |          |       |           | 200   | 225            |
+| 3400 | Transportation in 6900 gallon bulk truck                             |      |              |             | Mile |          |       |           | 7.95  | 8.75           |
+| 3410 | In teflon lined truck                                                |      |              |             | "    |          |       |           | 10.20 | 11.25          |
+| 5000 | Heavy sludge or dry vacuumable material                              |      |              |             | Hr.  |          |       |           | 140   | 155            |
+| 6000 | Dumpsite disposal charge, minimum                                    |      |              |             | Ton  |          |       |           | 140   | 155            |
+| 6020 | Maximum                                                              |      |              |             | >    |          |       |           | 415   | 455            |
+
+---
+
+# 02 82 Asbestos Remediation
+
+## 02 82 13 Asbestos Abatement
+
+### 02 82 13.39 Asbestos Remediation Plans and Methods
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ASBESTOS REMEDIATION PLANS AND METHODS                               |      |              |             |      |          |       |           |       |                |
+| 0100 | Building Survey - Commercial Building                                |      |              |             | Ea.  |          |       |           | 2,200 | 2,400          |
+| 0200 | Asbestos Abatement Remediation Plan                                  |      |              |             | "    |          |       |           | 1,350 | 1,475          |
+
+---
+
+## 02 82 13.41 Asbestos Abatement Equipment
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ASBESTOS ABATEMENT EQUIPMENT                                         |      |              |             |      |          |       |           |       |                |
+| 0011 | Equipment and supplies, buy                                          |      |              |             |      |          |       |           |       |                |
+| 0200 | Airfiltration device, 2000 CFM                                       |      |              |             | Eq.  | 1,100    |       |           | 1,100 | 1,200          |
+| 0250 | Large volume airsampling pump, minimum                               |      |              |             |      | 435      |       |           | 435   | 480            |
+| 0260 | Maximum                                                              |      |              |             |      | 460      |       |           | 460   | 505            |
+| 0300 | Airless sprayer unit, 2 gun                                          |      |              |             |      | 2,600    |       |           | 2,600 | 2,850          |
+| 0350 | Light stand, 500 watt                                                |      |              |             |      | 48       |       |           | 48    | 52.50          |
+| 0400 | Personal respirators                                                 |      |              |             |      |          |       |           |       |                |
+| 0410 | Negative pressure, 1/2 face, dual operation, minimum                 |      |              |             | Eg.  | 28       |       |           | 28    | 31             |
+| 0420 | Maximum                                                              |      |              |             |      | 22       |       |           | 22    | 24.50          |
+| 0450 | P.A.P.R., fullface, minimum                                          |      |              |             |      | 710      |       |           | 710   | 780            |
+| 0460 | Maximum                                                              |      |              |             |      | 1,275    |       |           | 1,275 | 1,400          |
+| 0470 | Supplied air, fullface, including airline, minimum                   |      |              |             |      | 211      |       |           | 211   | 233            |
+| 0480 | Maximum                                                              |      |              |             |      | 845      |       |           | 845   | 930            |
+| 0500 | Personnel sampling pump                                              |      |              |             |      | 215      |       |           | 215   | 236            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 41 19 Selective Demolition
+
+## 02 41 19.20 Selective Demolition, Dump Charges
+
+| ID   | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0500 | Reclamation station, usual charge      |      |              |             | Ton  |          | 74    |           | 74    | 81             |
+
+## 02 41 19.21 Selective Demolition, Gutting
+
+| ID   | Name                                   | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010 | SELECTIVE DEMOLITION, GUTTING          |      |              |             |        |          |       |           |       |                |
+| 0020 | Building interior, including disposal, dumpster fees not included |      |              |             |        |          |       |           |       |                |
+| 0500 | Residential building                   |      |              |             |        |          |       |           |       |                |
+| 0560 | Minimum                                | B-16 | 400          | .080        | SF Fl. |          | 3.84  | 1.92      | 5.76  | 7.80           |
+| 0580 | Maximum                                | "    | 360          | .089        | "      |          | 4.261 | 2.13      | 6.39  | 8.70           |
+| 0900 | Commercial building                    |      |              |             |        |          |       |           |       |                |
+| 1000 | Minimum                                | B-16 | 350          | .091        | SF Fl. |          | 4.38  | 2.19      | 6.57  | 8.95           |
+| 1020 | Maximum                                |      | 250.128      |             |        |          | 6.15  | 3.07      | 9.22  | 12.55          |
+
+## 02 41 19.25 Selective Demolition, Saw Cutting
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION, SAW CUTTING                         | R024119-10 |              |             |        |          |       |           |       |                |
+| 0012  | For concrete saw cutting, see Section 03 81               |       |              |             |        |          |       |           |       |                |
+| 0015  | Asphalt, up to 3" deep                                    | B 89  | 1050         | .015        | LF     | 23335    | .82   | .60       | 1.52  | 1.99           |
+| 0020  | Each additional inch of depth                             | B 89  | 1800         | .009        | LF     | .03      | .48   | .35       | .86   | 1.13           |
+| 1200  | Masonry walls, hydraulic saw, brick, per inch of depth    | B 89B | 300          | .053        |        | .03      | 2.86  | 3.58      | 6.47  | 8.25           |
+| 1220  | Block walls, solid, per inch of depth                     | It    | 250          | .064        |        | .03      | 3.44  | 4.30      | 7.77  | 9.85           |
+| 2000  | Brick or masonry w/ hand held saw, per inch of depth      | A 1   | 125          | 1.064       |        | .05      | 2.92  | .88       | 3.85  | 5.40           |
+| 5000  | Wood sheathing to 1" thick, on walls                      | 1 Carp| 200          | .040        |        |          | 2.25  |           | 2.25  | 3.35           |
+| 5020  | On roof                                                   | #     | 250          | .032        |        |          | 1.80  |           | 1.80  | 2.68           |
+
+## 02 41 19.27 Selective Demolition, Torch Cutting
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION, TORCH CUTTING                       | R024119-10 |              |             |      |          |       |           |       |                |
+| 0020  | Steel, 1" thick plate                                     | E-25   | 333          | .024        | LF   | 2.22     | 1.54  | .04       | 3.80  | 4.86           |
+| 0040  | 1" diameter bar                                           | If     | 600          | .013        | Ea.  | .37      | .85   | .02       | 1.24  | 1.74           |
+| 1000  | Oxygen lance cutting, reinforced concrete walls            |        |              |             |      |          |       |           |       |                |
+| 1040  | 12"-16" thick walls                                       | 11 Clab| 10           | 1.800       | LF.  |          | 36.50 |           | 36.50 | 54.50          |
+| 1080  | 24" thick walls                                           | "      | 6            | 11.333      |      |          | 61    |           | 61    | 90.50          |
+
+# 02 42 Removal and Diversion of Construction Materials
+
+## 02 42 10 Building Deconstruction
+
+### 02 42 10.10 Estimated Salvage Value or Savings
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | ESTIMATED SALVAGE VALUE OR SAVINGS     |      |              |             |      |          |       |           |       |                |
+| 0015  | Excludes material handling, packaging, container costs and |      |              |             |      |          |       |           |       |                |
+| 0020  | transportation for salvage or disposal |      |              |             |      |          |       |           |       |                |
+| 0050  | All items in Section 02 42 10.10 are credit deducts and not costs |      |              |             |      |          |       |           |       |                |
+| 0100  | Copper wire salvage value              | G    |              |             | Lb.  | 1.63     |       |           | 1.63  | 1.79           |
+| 0200  | Brass salvage value                    | G    |              |             |      | 1.20     |       |           | 1.20  | 1.32           |
+| 0250  | Bronze                                 |      |              |             |      | 1.39     |       |           | 1.39  | 1.53           |
+| 0300  | Steel                                  | G    |              |             |      | .05      |       |           | .05   | .06            |
+| 0304  | 304 Stainless Steel                    |      |              |             |      | .29      |       |           | .29   | .32            |
+| 0316  | 316 Stainless Steel                    |      |              |             |      | .43      |       |           | .43   | .47            |
+| 0400  | Cast Iron                              | G    |              |             |      | .06      |       |           | .06   | .07            |
+| 0600  | Aluminum siding                        | G    |              |             |      | .32      |       |           | .32   | .35            |
+| 0610  | Aluminum wire                          |      |              |             |      | .45      |       |           | .45   | .50            |
+
+# 02 02 Structure43oving
+
+## 02 43 Structurecture Relocation
+
+### 02 43 13.1Movingding Relocation
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | BUILDING RELOCATION                                                  |        |              |             |        |          |        |           |         |                |
+| 0011  | One day move, up to 24' wide                                         |        |              |             |        |          |        |           |         |                |
+| 0020  | Reset on existing foundation                                         |        |              |             |        |          |        |           | 11,500  | 11,500         |
+| 0040  | Wood or steel frame bldg., based on ground floor area                | GG B-4 | 185          | .259        | S.F.   |          | 12.25  | 2.78      | 15.03   | 21.50          |
+| 0060  | Masonry bldg., based on ground floor area                            |   "    | 137          | .350        |        |          | 16.55  | 3.75      | 20.30   | 28.50          |
+| 0200  | For 24-42' wide, add                                                 |        |              |             |        |          |        |           | 15 %    | 15 %           |
+
+---
+
+## 02 56 Site Containment
+
+### 02 56 13 Waste Containment
+
+#### 02 56 13.10 Containment of Hazardous Waste
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | CONTAINMENT OF HAZARDOUS WASTE                                      |        |              |             |        |          |        |           |         |                |
+| 0020  | OSHA Hazard level C                                                  |        |              |             |        |          |        |           |         |                |
+| 0030  | OSHA Hazard level D decrease labor and equipment, deduct             |        |              |             |        |          | 45 %   |           | 45%     |                |
+| 0035  | OSHA Hazard level B increase labor and equipment, add                |        |              |             |        |          | 22 %   |           | 22 %    |                |
+| 0040  | OSHA Hazard level A increase labor and equipment, add                |        |              |             |        |          | 71 %   |           | 71 %    |                |
+| 0100  | Excavation of contaminated soil & waste                              |        |              |             |        |          |        |           |         |                |
+| 0105  | Includes one respirator filterand two disposable suitsper work day   |        |              |             |        |          |        |           |         |                |
+| 0110  | 3/4 C.Y. excavator to 10' deep                                      | B-12F  | 51           | 314         | B.C.Y. | 1.81     | 17.10  | 17.15     | 36.06   | 46.50          |
+| 0120  | Labor crew to 6' deep                                                | B-2    | 19           | 2.105       |        | 12.20    | 97     |           | 109.20  | 157            |
+| 0130  | 6'-12' deep                                                          |   "    | 12           | 3.333       |        | 19.30    | 153    |           | 172.30  | 249            |
+| 0200  | Move contaminated soil/ waste up to 150' on-site with 2.5 C.Y. loader| B-10T  | 300          | .040        | LCY    | .31      | 2.22   | 2.14      | 4.67    | 6              |
+| 0210  | 300'                                                                 |   "    | 186          | .065        |   "    | .50      | 3.58   | 3.46      | 7.54    | 9.65           |
+| 0300  | Secure burial cell construction                                      |        |              |             |        |          |        |           |         |                |
+| 0310  | Various liner and cover materials                                    |        |              |             |        |          |        |           |         |                |
+| 0400  | Very low density polyethylene (VLDPE)                                |        |              |             |        |          |        |           |         |                |
+| 0410  | 50 mil top cover                                                     | B 47H  | 4000         | .008        | S.F    | .69      | .品8   | .09       | 1.26    | 1.56           |
+| 0420  | 80 mil liner                                                         | 07     | 4000         | .008        | FY     | 1.58     | .48    | .09       | 2.15    | 2.55           |
+| 0500  | Chlorosulfonated polyethylene                                        |        |              |             |        |          |        |           |         |                |
+| 0510  | 36 mil hypalon top cover                                             | B 47H  | 4000         | .008        | S.F.   | 3.30     | 498    | .09       | 3.87    | 4.44           |
+| 0520  | 45 mil hypalon liner                                                 |   "    | 4000         | .008        |   "    | 3.16     | .48    | .09       | 3.73    | 4.29           |
+| 0600  | Polyvinyl chloride PVC                                               |        |              |             |        |          |        |           |         |                |
+| 0610  | 60 mil top cover                                                     | B 47H  | 4000         | .008        | S.F.   | 1.10     | .48    | .09       | 1.67    | 2.02           |
+| 0620  | 80 mil liner                                                         |   "    | 4000         | .008        |   "    | 1.57     | .48 :  | .09       | 2.14    | 2.54           |
+| 0700  | Rough textured H.D. polyethylene (HDPE)                              |        |              |             |        |          |        |           |         |                |
+| 0710  | 40 mil top cover                                                     | B 47H  | 4000         | .008        | S.F.   | 1.15     | .48    | .09       | 1.72    | 2.07           |
+| 0720  | 60 mil top cover                                                     |        | 4000         | .008        |        | 1.36     | .48    | .09       | 1.93    | 2.30           |
+| 0722  | 60 mil liner                                                         |        | 4000         | .008        |        | 1.31     | .48    | .09       | 1.88    | 2.25           |
+| 0730  | 80 mil liner                                                         |        | 3800         | .008        |        | 1.83     | .50    | .10       | 2.43    | 2.87           |
+| 1000  | 3/4" crushed stone, 6" deep ballast around liner                     | B-6    | 30           | .800        | L.C.Y. | 20.50    | 39.550 | 10.95     | 70.95   | 93.50          |
+| 1100  | Hazardous waste, ballast cover with common borrow material           | B-63   | 56           | .714        |        | 12.55    | 34     | 4.70      | 51.25   | 70             |
+| 1110  | Mixture of common borrow & topsoil                                   |        | 56           | .714        |        | 16.40    | 34     | 4.70      | 55.10   | 74             |
+| 1120  | Bank sand                                                            |        | 56           | .714        |        | 21.50    | 34     | 4.70      | 60.20   | 79.50          |
+| 1130  | Medium priced clay                                                   |        | 44           | .909        |        | 35       | 43.50  | 6         | 84.50   | 110            |
+| 1140  | Mixture of common borrow & medium priced clay                        |        | 56           | .714        | 4-     | 24       | 34     | 4.70      | 62.70   | 82             |
+
+---
+
+38 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 58 Snow Co58rol
+
+## 02 58 1Snownow Fencing
+
+## 02 58 Controlnow Fencing System
+
+### 0010 SNOW FENCING SYSTEM
+
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 7001  | Snow fence on steel posts 10' OC, 4' high | B-1  | 500          | .048        | LF   | 3.67     | 2.22  |           | 5.89  | 7.35           |
+
+---
+
+# 02 65 Underground Storage Tank Removal
+
+## 02 65 10 Underground Tank and Contaminated Soil Removal
+
+## 02 65 10.30 Removal of Underground Storage Tanks
+
+| ID    | Name                                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | REMOVAL OF UNDERGROUND STORAGE TANKS R026510-20   |      |              |             |      |          |       |           |       |                |
+| 0011  | Petroleum storage tanks, non-leaking               |      |              |             |      |          |       |           |       |                |
+| 0100  | Excavate & load onto trailer                      |      |              |             |      |          |       |           |       |                |
+| 0110  | 3,000 gal. to 5,000 gal. tank                     | 5G5 B-14 | 732        | 12          | 811. |          | 575   | 82        | 657   | 945            |
+| 0120  | 6,000 gal. to 8,000 gal. tank                     | G B-3A   | 3          | 13.333      |      |          | 645   | 330       | 975   | 1,325          |
+| 0130  | 9,000 gal. to 12,000 gal. tank                    | G        |             | 20          |      |          | 970   | 495       | 1,465 | 2,000          |
+| 0190  | Known leaking tank, add                           |         |             |             |      |          |       |           | 100%  | 100%           |
+| 0200  | Remove sludge, water and remaining product from bottom |      |             |             |      |          |       |           |       |                |
+| 0201  | of tank with vacuum truck                         |         |             |             |      |          |       |           |       |                |
+| 0300  | 3,000 gal. to 5,000 gal. tank                     | G A 13   | 533        | 1.600       | Ea.  |          | 91    | 154       | 245   | 305            |
+| 0310  | 6,000 gal. to 8,000 gal. tank                     | G A-13   | 4          | 2           | Ea.  |          | 114   | 192       | 306   | 380            |
+| 0320  | 9,000 gal. to 12,000 gal. tank                    | G "      | 3          | 2.667       | 群   |          | 152   | 257       | 409   | 510            |
+| 0390  | Dispose of sludge off-site, average                |         |             |             | Gal. |          |       |           | 6.25  | 6.80           |
+| 0400  | Insert inert solid CO, "dry ice" into tank         |         |             |             |      |          |       |           |       |                |
+| 0401  | For cleaning / transporting tanks (1.5 lb./100 gal. cap) | 55G1555555 Clab | 500 | .016 | Lb.  | 1.26     | .73   |           | 1.99  | 2.48           |
+| 0503  | Disconnect and remove piping                       | G 1 Plum | 160        | .050        | LF.  |          | 3.49  |           | 3.49  | 5.20           |
+| 0603  | Transfer liquids, 10% of volume                    | "        | 1600       | .005        | Gal. |          | .35   |           | .35   | .52            |
+| 0703  | Cut accessway into underground storage tank        | 1 Clob   | 5.33       | 1.501       | Ea.  | 68.50    |       |           | 68.50 | 102            |
+| 0813  | Remove sludge, wash and wipe tank, 500 gal.        | G 1 Plum | 8          | 1           |      | 70       |       |           | 70    | 104            |
+| 0823  | 3,000 gal.                                        |         | 6.67       | 1.199       |      | 83.50    |       |           | 83.50 | 125            |
+| 0833  | 5,000 gal.                                        |         | 6.15       | 1.301       |      | 91       |       |           | 91    | 135            |
+| 0843  | 8,000 gal.                                        |         | 5.33       | 1.501       |      | 105      |       |           | 105   | 156            |
+| 0853  | 10,000 gal.                                       |         | 4.57       | 1.751       |      | 122      |       |           | 122   | 182            |
+| 0863  | 12,000 gal.                                       |         | 4.21       | 1.900       |      | 133      |       |           | 133   | 198            |
+| 1020  | Haul tank to certified salvage dump, 100 miles round trip | |           |             |      |          |       |           |       |                |
+| 1023  | 3,000 gal. to 5,000 gal. tank                     |         |             |             | Ea.  |          |       |           | 760   | 830            |
+| 1026  | 6,000 gal. to 8,000 gal. tank                     |         |             |             |      |          |       |           | 880   | 960            |
+| 1029  | 9,000 gal. to 12,000 gal. tank                    |         |             |             |      |          |       |           | 1,050 | 1,150          |
+| 1100  | Disposal of contaminated soil to landfill          |         |             |             |      |          |       |           |       |                |
+| 1110  | Minimum                                           |         |             |             | C.Y. | 1        |       |           | 145   | 160            |
+|       | Maximum                                           |         |             |             |      |          |       |           | 400   | 440            |
+| 1120  | Disposal of contaminated soil to                   |         |             |             |      |          |       |           |       |                |
+| 1121  | bituminous concrete batch plant                    |         |             |             |      |          |       |           |       |                |
+| 1130  | Minimum                                           |         |             |             | C.Y. |         |       |           | 80    | 88             |
+| 1131  | Maximum                                           |         |             |             | ་   |         |       |           | 115   | 125            |
+| 1203  | Excavate, pull & load tank, backfill hole, 8,000 gal. + | 55555 B-12C | .50 | 326288 | Ea. | 1,750 | 1,950 | 3,700 | 4,725 |
+| 1213  | Haul tank to certified dump, 100 miles r, 8,000 gal. + | B-34K | 1 | | | 425 | 890 | 1,315 | 1,625 |
+| 1223  | Excavate, pull & load tank, backfill hole, 500 gal. | B-11C | 1 | 16 | | 850 | 330 | 1,180 | 1,600 |
+| 1233  | Excavate, pull & load tank, backfill hole, 3,000-5,000 gal. | G B-11M | 50 | | | 1,700 | 805 | 2,505 | 3,400 |
+| 1243  | Houl tank to certified dump, 100 miles r, 500 gal. | B-34L | 1 | | | 455 | 340 | 795 | 1,050 |
+| 1253  | Haul tank to certified dump, 100 miles rt, 3,000-5,000 gal. | G B-34M | 1 | | | 455 | 375 | 830 | 1,100 |
+| 2010  | Decontamination of soil on site incl poly tarp on top/ bottom | | | | | | | | | |
+| 2011  | Soil containment berm and chemical treatment       |         |             |             |      |          |       |           |       |                |
+| 2020  | Minimum                                           | G B-11C | 100 | .160 | C.Y. | 7.90 | 8.50 | 3.29 | 19.69 | 225 |
+| 2021  | Maximum                                           | G "     | 100.160 | | | 10.20 | 8.50 | 3.29 | 21.99 | 27.50 |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 02 02 Surveys
+
+## 02 21 13 Site Surveys
+
+### 02 21 13.09 Topographical Surveys
+
+| ID   | Name                                             | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------------------|------|-------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 0010 | TOPOGRAPHICAL SURVEYS                            |      |             |             |       |          |        |           |         |                |
+| 0020 | Topographical surveying, conventional, minimum   | A-7  | 3.30        | 7.273       | Acre  | 45       | 445    | 11.05     | 501.05  | 725            |
+| 0050 | Average                                          |      | 1.95        | 12.308      |       | 67.50    | 750    | 18.70     | 836.20  | 1,225          |
+| 0100 | Maximum                                          | A-8  | .60         | 53.333      |       | 90       | 3,175  | 61        | 3,326   | 4,900          |
+
+## 02 21 13.13 Boundary and Survey Markers
+
+| ID   | Name                                             | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------------------|------|-------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 0010 | BOUNDARY AND SURVEY MARKERS                      |      |             |             |       |          |        |           |         |                |
+| 0300 | Lot location and lines, large quantities, minimum | A-7  | 2           | # 12        | Acre  | 33       | 735    | 18.25     | 786.25  | 1,150          |
+| 0320 | Average                                          | F    | 1.25        | 19.200      |       | 66       | 1,175  | 29        | 1,270   | 1,850          |
+| 0400 | Small quantities, maximum                        | A-8  | 1           | 32          |       | 66       | 1,900  | 36.50     | 2,002.50| 2,950          |
+| 0600 | Monuments, 3' long                               | A-7  | 10          | 2.400       | Ea.   | 36       | 147    | 3.65      | 186.65  | 263            |
+| 0800 | Property lines, perimeter, cleared land          | "    | 1000        | .024        | LF.   | .09      | 1.47   | .04       | 1.60    | 2.33           |
+| 0900 | Wooded land                                      | A-8  | 875         | .037        | "     | .12      | 2.171  | .04       | 2.33    | 3.42           |
+
+## 02 21 13.16 Aerial Surveys
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 0010 | AERIAL SURVEYS                                                       |      |             |             |       |          |        |           |         |                |
+| 1500 | Aerial surveying, including ground control, minimum fee, 10 acres    |      |             |             | Tfagy |          |        |           | 4,700   | 4,700          |
+| 1510 | 100 acres                                                            |      |             |             |       |          |        |           | 9,400   | 9,400          |
+| 1550 | From existing photography, deduct                                     |      |             |             |       |          |        |           | 1,625   | 1,625          |
+| 1600 | 2' contours, 10 acres                                                |      |             |             | Acre  |          |        |           | 470     | 470            |
+| 1850 | 100 acres                                                            |      |             |             |       |          |        |           | 94      | 94             |
+| 2000 | 1000 acres                                                           |      |             |             |       |          |        |           | 90      | 90             |
+| 2050 | 10,000 acres                                                         |      |             |             |       |          |        |           | 85      | 85             |
+
+## 02 31 Geophysical Investigations
+
+### 02 31 23 - Electromagnetic Investigations
+
+#### 02 31 23.10 Ground Penetrating Radar
+
+| ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | GROUND PENETRATING RADAR    |      |             |             |      |          |       |           |       |                |
+| 0100 | Ground Penetrating Radar    |      |             |             | Hr.  |          | 210   |           | 210   | 235            |
+
+## 02 32 Geotechnical Investigations
+
+### 02 32 13 Subsurface Drilling and Sampling
+
+#### 02 32 13.10 Boring and Exploratory Drilling
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|--------|-----------|----------|----------------|
+| 0010 | BORING AND EXPLORATORY DRILLING                                      |      |             |             |       |          |        |           |          |                |
+| 0020 | Borings, initial field stake out & determination of elevations        | A-6  | 1           | 16          | Day   |          | 905    | 36.50     | 941.50   | 1,400          |
+| 0100 | Drawings showing boring details                                      | 3    |             |             | Total |          | 335    |           | 335      | 425            |
+| 0200 | Report and recommendations from P.E.                                 |      |             |             |       |          | 775    |           | 775      | 970            |
+| 0300 | Mobilization and demobilization                                      | 1 B-55| 416        |             |       |          | 283    | 191       | 474      | 630            |
+| 0350 | For over 100 miles, per added mile                                   |      | 450         | .053        | Mile  |          | 2.52   | 1.70      | 4.22     | 5.60           |
+| 0600 | Auger holes in earth, no samples, 2-1/2" diameter                    |      | 78.60       | .305        | L.F.  |          | 14.40  | 9.75      | 24.15    | 32             |
+| 0650 | 4" diameter                                                          |      | 67.50       | .356        |       |          | 16.80  | 11.35     | 28.15    | 37.50          |
+| 0800 | Cased borings in earth, with samples, 2-1/2" diameter                |      | 55.50       | .432        |       | 14.75    | 20.50  | 13.80     | 49.05    | 62             |
+| 0850 | 4" diameter                                                          |      | 32.60       | .736        |       | 14.45    | 33533  | 23.50     | 72.95    | 94             |
+| 1000 | Drilling in rock, "BX" core, no sampling                             | B-56 | 34.90       | .458        |       |          | 23.50  | 45.50     | 69       | 85             |
+| 1050 | With casing & sampling                                               |      | 31.70       | .505        |       | 14.75    | 26     | 50        | 90.75    | 110            |
+| 1200 | "NX" core, no sampling                                               |      | 25.92       | .617        |       |          | 31.50  | 61.50     | 93       | 115            |
+| 1250 | With casing and sampling                                             |      | 25          | .640        |       | 10.90    |        | 63.50     | 107.40   | 131            |
+| 1400 | Borings, earth, drill rig and crew with truck mounted auger          | B-55 | 1           | 24          | Day   |          | 1,125  | 765       | 1,890    | 2,550          |
+| 1450 | Rock using crawler type drill                                        | B-56 |             | 16          |       |          | 820    | 1,600     | 2,420    | 2,975          |
+| 1500 | For inner city borings, add, minimum                                 |      |             |             |       |          |        |           | 10 %     | 10 %           |
+| 1510 | Maximum                                                             |      |             |             |       |          |        |           | 20 %     | 20 %           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00242 Removal 42d DiversionRemovalstruction Materials
+
+## 02 42 and Building DecDiversionon
+
+### 02 42 10.20 Deconstructiof of BuilConstructionnts
+
+#### Main roof framing
+
+Daily Labor-  
+5MaterialsGGGGGGGG 550  
+2022 Bare Costs  
+Total  
+Crew Output Hours Unit Material  
+Labor  
+E
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 02    | 42                                                                   | 10-          | Building Deconstruction |             |             |        |          |       |       |                |
+| 02    | 42                                                                   | 10.20        | Deconstruction of Building Components | Crew | Output | Hours | Unit | Material | Labor | Equipment | Total | Ind O& P |
+| 2020  | Main roof framing                                                    | 555555GGG2GGClabGG | 760         | .021        | L.F.   |          | .96   |           | .96   | 1.43           |
+| 2030  | Porch roof framing                                                   | ˊ            | 445         | .036        |        |          | 1.64  |           | 1.64  | 2.44           |
+| 2040  | Beams 4" x 8"                                                        | ㄓ- 1        | 375         | .064        |        |          | 2.96  |           | 2.96  | 4.41           |
+| 2050  | 4" x 10"                                                             |              | 300         | .080        |        |          | 3.70  |           | 3.70  | 5.50           |
+| 2055  | 4" x 12"                                                             |              | 250         | .096        |        |          | 4.44  |           | 4.44  | 6.60           |
+| 2060  | 6" x 8"                                                              |              | 250         | .096        |        |          | 4.44  |           | 4.44  | 6.60           |
+| 2065  | 6" x 10"                                                             |              | 200         | .120        |        |          | 5.55  |           | 5.55  | 8.25           |
+| 2070  | 6" x 12"                                                             |              | 170         | .141        |        |          | 6.55  |           | 6.55  | 9.70           |
+| 2075  | 8" x 12"                                                             |              | 126         | .190        |        |          | 8.80  |           | 8.80  | 13.10          |
+| 2080  | 10" x 12"                                                            |              | 100         | .240        |        |          | 11.10 |           | 11.10 | 16.55          |
+| 2100  | Ceiling joists                                                       | 2 Clab       | 800         | .020        |        |          | .91   |           | .91   | 1.36           |
+| 2150  | Wall framing, interior                                               |              | 1230        | .013        |        |          | .59   |           | .59   | .88            |
+| 2160  | Sub-floor                                                            |              | 2000        | .008        | S.F.   |          | .36   |           | .36   | .54            |
+| 2170  | Floor joists                                                         |              | 2000        | .008        | LF .;  |          | .36   |           | .36   | .54            |
+| 2200  | Wood siding (no lead or asbestos)                                    |              | 1300        | .012        | S.F.   |          | .56   |           | .56   | .84            |
+| 2300  | Wall framing, exterior                                               |              | 1600        | .010        | LF     |          | .46   |           | .46   | .68            |
+| 2400  | Stair risers                                                         |              | 53          | .302        | Ea.    |          | 13.75 |           | 13.75 | 20.50          |
+| 2500  | Posts                                                                |              | 800         | .020        | L.F.   |          | .91   |           | .91   | 1.36           |
+| 3000  | Deconstruction of exterior brick walls                               |              |             |             |        |          |       |           |       |                |
+| 3010  | Exterior brick walls, first floor                                    | 550 2 Clab   | 200         | .080        | .S.F.  |          | 3.65  |           | 3.65  | 5.45           |
+| 3020  | Second floor                                                         |              | 64          | .250        | "      |          | 11.40 |           | 11.40 | 17             |
+| 3030  | Brick chimney                                                        | J            | 100         | .160        | C.F    |          | 7.30  |           | 7.30  | 10.85          |
+| 4000  | Deconstruction of concrete                                           |              |             |             |        |          |       |           |       |                |
+| 4010  | Slab on grade, 4" thick, plain concrete                              | 55555G B -9  | 500         | .080        | S.F.   |          | 3.68  | .66       | 4.34  | 6.25           |
+| 4020  | Wire mesh reinforced                                                 |              | 470         | .085        |        |          | 3.91  | .71       | 4.62  | 6.65           |
+| 4030  | Rod reinforced                                                       |              | 400         | .100        |        |          | 4.60  | .83       | 5.43  | 7.75           |
+| 4110  | Foundation wall, 6" thick, plain concrete                            |              | 160         | 250         |        |          | 11.50 | 2.08      | 13.58 | 19.40          |
+| 4120  | 8" thick                                                             |              | 140         | .286        |        |          | 13.15 | 2.37      | 15.52 | 22              |
+| 4130  | 10" thick                                                            |              | 120         | .333        |        |          | 15.35 | 2.77      | 18.12 | 26              |
+| 9000  | Deconstruction process, support equipment as needed                  |              |             |             |        |          |       |           |       |                |
+| 9010  | Daily use, portal to portal, 12-ton truck mounted hydraulic crane crew| GGG A -3H    | 1           | 888         | Day    | 505      | 1,575 | 2,080     | 2,475 |                |
+| 9020  | Daily use, skid steer and operator                                   | A-3C         | 1           |             | "      | 455      | 420   | 875       | 1,150 |                |
+| 9030  | Daily use, backhoe 48 HP, operator and labor                         | A -3C        | 1           |             | Day    | 455      | 420   | 875       | 1,150 |                |
+| 02    | 42 10.30 Deconstruction Material Handling                            |              |             |             |        |          |       |           |       |                |
+| 0010  | DECONSTRUCTION MATERIAL HANDLING                                     |              |             |             |        |          |       |           |       |                |
+| 0012  | Buildings one or two stories only                                    |              |             |             |        |          |       |           |       |                |
+| 0100  | Clean and stack brick on pallet                                      | 6G66 2 Clab  | 1200        | .013        | Ea.    |          | .61   |           | .61   | .91            |
+| 0200  | Haul 50' and load rough lumber up to 2" x 8" size                    | G            | 2000        | .008        | "      |          | .36   |           | .36   | .54            |
+| 0210  | Lumber larger than 2" x 8"                                           | G            | 3200        | .005        | B.F.   |          | .23   |           | .23   | .34            |
+| 0300  | Finish wood for recycling stack and wrap per pallet                  | G            | 8           | 2           | Ea.    | 167      | 91    |           | 107   | 154            |
+| 0350  | Light fixtures                                                       |              | 6           | 2.667       |        | 29       | 122   |           | 151   | 213            |
+| 0375  | Windows                                                              |              | 89          | 2.667       |        | 27       | 122   |           | 149   | 211            |
+| 0400  | Miscellaneous materials                                              |              |             | 2           |        | 8        | 91    |           | 99    | 145            |
+| 1000  | See Section 02 41 19.19 for bulk material handling                   |              |             |             |        |          |       |           |       |                |
+
+For customer support on your eng Construction Costs with RSMeans data, call 800.448.8182. 37
+
+# 02 41 16 - Demolition
+
+## 02 41 16.17 Building Demolition Footings and Foundations
+
+For horizontal reinforcing, add  
+For vertical reinforcing, add  
+Concrete, plain concrete, 6" thick  
+8" thick  
+10" thick  
+12" t
+
+## 02 41 16 - Structure Demolition
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2200  | For horizontal reinforcing, add                                      |        |              |             | S.F. |          |       |           | 10 %  | 10 %           |
+| 2220  | For vertical reinforcing, add                                        |        |              |             |      |          |       |           | 20 %  | 20 %           |
+| 2400  | Concrete, plain concrete, 6" thick                                   | B-13L  | 4000         | .004        |      | 2224     | .65   | .90       | 1.09  |                |
+| 2420  | 8" thick                                                             |        | 3500         | .005        |      | .29      | .74   | 1.03      | 1.24  |                |
+| 2440  | 10" thick                                                            |        | 3000         | .005        |      | .34      | .86   | 1.20      | 1.45  |                |
+| 2500  | 12" thick                                                            |        | 1 2500       | .006        |      | .41      | 1.04  | 1.451     | 1.74  |                |
+| 2600  | For average reinforcing, add                                         |        |              |             |      |          |       |           | 10 %  | 10 %           |
+| 2620  | For heavy reinforcing, add                                           |        |              |             |      |          |       |           | 20 %  | 20 %           |
+| 4000  | For congested sites or small quantities, add up to                   |        |              |             |      |          |       |           | 200 % | 200 %          |
+| 4200  | Add for disposal, on site                                            | B-11A  | 232          | .069        | C.Y. | 3.66     | 5.80  | 9.46      | 11.85 |                |
+| 4250  | To five miles                                                        | 1 B-30 | 220          | .109        |      | 6.05     | 11.45 | 17.50     | 21.50 |                |
+
+# 02 41 19 - Selective Demolition
+
+## 02 41 19.13 Selective Building Demolition
+
+0010 SELECTIVE BUILDING DEMOLITION  
+0020 Costs related to selective demolition of specific building components  
+0025 are included under Common Work Results (XX 05)  
+0030 in the component's appropriate division.
+
+## 02 41 19.16 Selective Demolition, Cutout
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION, CUTOUT                                         | R024119-10 |            |             |      |          |       |           |       |                |
+| 0020  | Concrete, elev. slab, light reinforcement, under 6 C.F.              | B 9    | 65           | .615        | C.F. | 28.50    | 5.10  | 33.60     | 47.50 |                |
+| 0050  | Light reinforcing, over 6 C.F.                                       | B 9    | 75           | .533        | C.F. | 24.50    | 4.43  | 28.93     | 41.50 |                |
+| 0200  | Slab on grade to 6" thick, not reinforced, under 8 S.F.              |        | 85           | .471        | S.F. | 21.50    | 3.91  | 25.41     | 36.50 |                |
+| 0250  | 8-16 S.F.                                                            |        | 175          | .229        | "1   | 10.50    | 1.90  | 12.40     | 17.75 |                |
+| 0255  | For over 16 S.F. see Line 02 41 16.17 0400                           |        | 880          |             |      |          |       |           |       |                |
+| 0600  | Walls, not reinforced, under 6 C.F.                                  | B 9    | 60           | .667        | C.F. | 30.50    | 5.55  | 36.05     | 51.50 |                |
+| 0650  | 6-12 C.F.                                                            | 11     |              | .500        | "    | 23       | 4.15  | 27.15     | 39    |                |
+| 0655  | For over 12 C.F. see Line 02 41 16.17 2500                           |        |              |             |      |          |       |           |       |                |
+| 1000  | Concrete, elevated slab, bar reinforced, under 6 C.F.                | B 9    | 45           | .889        | C.F. | 41       | 7.40  | 48.40     | 69    |                |
+| 1050  | Bar reinforced, over 6 C.F.                                          |        | 50           | .800        | "    | 37       | 6.65  | 43.65     | 62.50 |                |
+| 1200  | Slab on grade to 6" thick, bar reinforced, under 8 S.F.              |        | 75           | .533        | S.F. | 24.50    | 4.43  | 28.93     | 41.50 |                |
+| 1250  | 8-16 S.F.                                                            | -      | 150          | .267        | "    | 12.25    | 2.21  | 14.46     | 20.50 |                |
+| 1255  | For over 16 S.F. see Line 02 41 16.17 0440                           |        | 550          |             |      |          |       |           |       |                |
+| 1400  | Walls, bar reinforced, under 6 C.F.                                  | B-9    |              | .800        | C.F. | 37       | 6.65  | 43.651    | 62.50 |                |
+| 1450  | 6-12 C.F.                                                            |        | 70           | .571        | "    | 26.50    | 4.74  | 31.241    | 44    |                |
+| 1455  | For over 12 C.F. see Lines 02 41 16.17 2500 and 2600                 |        |              |             |      |          |       |           |       |                |
+| 2000  | Brick, to 4 S.F. opening, not including toothing                     |        |              |             |      |          |       |           |       |                |
+| 2040  | 4" thick                                                             | B-9    | 30           | 1.333       | Ea.  | 61.50    | 11.05 | 72.55     | 104   |                |
+| 2060  | 8" thick                                                             |        | 18           | 2.222       |      | 102      | 18.45 | 120.45    | 173   |                |
+| 2080  | 12" thick                                                            |        | 10           | 4           |      | 184      | 33    | 217       | 310   |                |
+| 2400  | Concrete block, to 4 S.F. opening, 2" thick                          |        | 35           | 1.143       |      | 52.50    | 9.50  | 62 1      | 89    |                |
+| 2420  | 4" thick                                                             |        | 30           | 1.333       |      | 61.50    | 11.05 | 72.551    | 104   |                |
+| 2440  | 8" thick                                                             |        | 27           | 11.481      |      | 68       | 12.30 | 80.30     | 115   |                |
+| 2460  | 12" thick                                                            |        | 24           | 1.667       |      | 76.50    | 13.85 | 90.35     | 129   |                |
+| 2600  | Gypsum block, to 4 S.F. opening, 2" thick                            |        | 80           | .500        |      | 23       | 4.15  | 27.15     | 39    |                |
+| 2620  | 4" thick                                                             |        | 70           | .571        |      | 26.50    | 4.74  | 31.24     | 44    |                |
+| 2640  | 8" thick                                                             |        | 55           | .727        |      | 33.50    | 6.05  | 39.55     | 56.50 |                |
+| 2800  | Terra cotta, to 4 S.F. opening, 4" thick                             |        | 70           | .571        |      | 26.50    | 4.74  | 31.241    | 44    |                |
+| 2840  | 8" thick                                                             |        | 65           | .615        |      | 28.50    | 5.10  | 33.60     | 47.50 |                |
+| 28801 | 12" thick                                                            |        | 50           | 1.800       |      | 37       | 6.65  | 43.65     | 62.50 |                |
+| 3000  | Toothing masonry cutouts, brick, soft old mortar                     | 1 Brhe | 40           | .200        | V.L.F.| 9        |       | 9         | 13.50 |                |
+| 3100  | Hard mortar                                                          |        | 30           | .267        |      | 12       |       | 12        | 18.05 |                |
+| 3200  | Block, soft old mortar                                               |        | 70           | .114        |      | 5.15     |       | 5.15      | 7.75  |                |
+
+32 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 32 Geotech32cal InvestiGeotechnical2 19 - Exploratory Excavations
+
+## 02 32 19.Investigations010 TEST PITS
+
+Subsurface exploration, mobilization  
+0020  
+Hand digging, light soil  
+0100  
+Heavy soil  
+0120  
+0130  
+Loader-backhoe, light soil  
+Heavy soil  
+1000  
+1010  
+1020  
+
+---
+
+## 02 32 19 - Exploratory Excavations
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 02 32 19.10 Test Pits                                   |        |             |             |        |          |         |           |         |                |
+| 0010  | TEST PITS                                       |        |             |             |        |          |         |           |         |                |
+| 0020  | Hand digging, light soil                        | 1 Clab | 4.50        | 1.778       | C.Y.   |          | 81      |           | 81      | 121            |
+| 0100  | Heavy soil                                      | "      | 2.50        | 3.200       |        |          | 146     |           | 146     | 217            |
+| 0120  | Loader-backhoe, light soil                      | B-11M  | 28          | .571        |        |          | 30.50   | 14.35     | 44.85   | 61             |
+| 0130  | Heavy soil                                      | "      | 20          | .800        |        |          | 42.50   | 20        | 62.50   | 85             |
+| 1000  | Subsurface exploration, mobilization            |        |             |             | Mile   |          |         |           | 6.75    | 8.40           |
+| 1010  | Difficult access for rig, add                   |        |             |             | Hr.    |          |         |           | 260     | 320            |
+| 1020  | Auger borings, drill ri, incl. samples          |        |             |             | LF     |          |         |           | 26.50   | 33             |
+| 1030  | Hand auger                                      |        |             |             |        |          |         |           | 31.50   | 40             |
+| 1050  | Drill and sample every 5', split spoon          |        |             |             |        |          |         |           | 31.50   | 40             |
+| 1060  | Extra samples                                   |        |             |             | Ea.    |          |         |           | 36      | 45.50          |
+
+---
+
+# 02 41 Demolition
+
+## 02 41 13 - Selective Site Demolition
+
+### 02 41 13.15 Hydrodemolition
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 0010  | HYDRODEMOLITION                                 |        |             |             |        |          |         |           |         |                |
+| 0015  | Hydrodemolition, concrete pavement              |        |             |             |        |          |         |           |         |                |
+| 0120  | Includes removal but excludes disposal of concrete|        |             |             |        |          |         |           |         |                |
+| 0130  | 2" depth                                        | B-5E   | 1000        | .064        | S.F.   | 3.23     | 3       | 6.23      | 8.10    |                |
+| 0410  | 4" depth                                        |        | 800         | .080        |        | 4.04     | 3.75    | 7.79      | 10.15   |                |
+| 0420  | 6" depth                                        |        | 600         | .107        |        | 5.40     | 50      | 10.40     | 13.50   |                |
+| 0520  | 8" depth                                        |        | 300         | 213         |        | 10.75    | 10      | 20.75     | 27      |                |
+
+---
+
+### 02 41 13.16 Hydroexcavation
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 0010  | HYDROEXCAVATION                                 |        |             |             |        |          |         |           |         |                |
+| 0015  | Hydroexcavation                                 |        |             |             |        |          |         |           |         |                |
+| 0105  | Assumes onsite disposal                         |        |             |             |        |          |         |           |         |                |
+| 0110  | Mobilization or Demobilization                  | B-6D   | 8           | 2.500       | Ea.    | 130      | 165     | 295       | 375     |                |
+| 0130  | Normal Conditions                               |        | 48          | .417        | B.C.Y. | 21.50    | 27.50   | 49        | 62      |                |
+| 0140  | Adverse Conditions                              |        | 30          | .667        | "      | 34.50    | 44      | 78.50     | 100     |                |
+| 0160  | Minimum labor / equipment charge                |        | 4           | 5           | Eq.    | 260      | 330     | 590       | 750     |                |
+
+---
+
+### 02 41 13.17 Demolish, Remove Pavement and Curb
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 0010  | DEMOLISH, REMOVE PAVEMENT AND CURB R024119-10   |        |             |             |        |          |         |           |         |                |
+| 5010  | Pavement removal, bituminous roads, up to 3" thick| B 38  | 690         | .058        | S.Y.   | 2.97     | 1.94    | 4.91      | 6.55    |                |
+| 5050  | 4"-6" thick                                     |        | 420         | .095        |        | 4.88     | 3.20    | 8.08      | 10.75   |                |
+| 5100  | Bituminous driveways                            |        | 640         | .063        |        | 3.20     | 2.10    | 5.30      | 7.10    |                |
+| 5200  | Concrete to 6" thick, hydraulic hammer, mesh reinforced| | 255 | .157 |        | 8.05     | 5.25    | 13.30     | 17.75   |                |
+| 5300  | Rod reinforced                                  |        | 200         | .200        |        | 10.25    | 6.70    | 16.95     | 22.50   |                |
+| 5400  | Concrete, 7"-24" thick, plain                   |        | 33          | 1.212       | C.Y.   | 52       | 40.50   | 102.50    | 137     |                |
+| 5500  | Reinforced                                      |        | 24          | 11.667      | "      | 85.53246 | 56      | 141.50    | 189     |                |
+| 5600  | With hand held air equipment, bituminous, to 6" thick| B-39 | 1900 | .025 | S.F.   | 1.21     | .17     | 1.38      | 1.99    |                |
+| 5700  | Concrete to 6" thick, no reinforcing            |        | 1600        | .030        |        | 1.43     | .21     | 1.64      | 2.37    |                |
+| 5800  | Mesh reinforced                                 |        | 1400        | .034        |        | 1.64     | .24     | 1.88      | 2.70    |                |
+| 5900  | Rod reinforced                                  |        | 765         | .063        | +      | 3        | .43     | 3.43      | 4.95    |                |
+| 6000  | Curbs, concrete, plain                          | B-6    | 360         | .067        | ALF.   | 3.29     | .91     | 4.20      | 5.90    |                |
+| 6100  | Reinforced                                      |        | 275         | .087        |        | 4.31     | 1.20    | 5.51      | 7.70    |                |
+| 6200  | Granite                                         |        | 360         | .067        |        | 3.29     | .91     | 4.20      | 5.90    |                |
+| 6300  | Bituminous                                      |        | 528         | .045        |        | 2.25     | .62     | 2.87      | 4.03    |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 41 Demolition
+
+## 02 41 13 Demolitione Site Demolition
+
+### 02 41 13.60 Selective Demolition Fencing
+
+| ID    | Name                          | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION FENCING  | R024119-10 |        |              |      |          |       |           |       |                |
+| 1600  | Fencing, barbed wire, 3 strand| 2 Clab | 430          | .037        | LF.  |          | 1.70  |           | 1.70  | 2.53           |
+| 1650  | 5 strand                      | "      | 280          | .057        |      |          | 2.61  |           | 2.61  | 3.88           |
+| 1700  | Chain link, posts & fabric, 8 - 10' high, remove only | B 6 | 445 | .054 |      |          | 2.66  | .74       | 3.40  | 4.78           |
+
+## 02 41 16 Structure Demolition
+
+### 02 41 16.13 Building Demolition
+
+| ID    | Name                          | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | BUILDING DEMOLITION Large urban projects, incl.20 mi. haul | R024119-10 |        |              |      |          |       |           |       |                |
+| 0011  | No foundation or dump fees, C.F. isvol. of building standing |        |              |             |      |          |       |           |       |                |
+| 0020  | Steel                         | B 8    | 21500        | .003        | C.F. |          | .16   | .22       | .38   | 28554844       |
+| 0050  | Concrete                      |        | 15300        | .004        |      |          | .22SEE| .31       | .53   | .68            |
+| 0080  | Masonry                       |        | 20100        | .003        |      |          | ..17  | .24       | .41   | .51            |
+| 0100  | Mixture of types              |        | 20100        | .003        |      |          | .17   | .24       | .41   | .51            |
+| 0500  | Small bldgs, or single bldgs, no salvage included, steel | B 3 | 14800 | .003 |      |          | .17   | .18       | .35   |                |
+| 0600  | Concrete                      |        | 11300        | .004        |      |          | 22    | .24       | .46   |                |
+| 0650  | Masonry                       |        | 14800        | .003        |      |          | .17   | .18       | .35   |                |
+| 0700  | Wood                          | 1      | 14800        | .003        |      |          | .17   | .18       | .35   |                |
+| 0750  | For buildings with no interiorwalls, deduct |        |              |             |      |          |       |           |       | 30 %           |
+| 1000  | Demolition single family house, one story, wood 1600 S.F. | B 3 | 1 | 48 | Ea.  | 2,450    | 2,725 | 5,175     | 6,650 |                |
+| 1020  | 3200 S.F.                     |        | .50          | 96          | 1    | 4,875    | 5,425 | 10,300    | 13,300|                |
+| 1200  | Demolition two family house, two story, wood 2400 S.F. |        | .67 | 71.964 | I    | 3,650    | 4,075 | 7,725     | 9,925 |                |
+| 1220  | 4200 S.F.                     |        | .38          | 128         |      | 6,525    | 7,250 | 13,775    | 17,700|                |
+| 1300  | Demolition three family house, three story, wood 3200 S.F. |        | .5096 |             |      | 4,875    | 5,425 | 10,300    | 13,300|                |
+| 1320  | 5400 S.F.                     |        | .30          | 160         |      | 8,150    | 9,050 | 17,200    | 22,100|                |
+| 5000  | For buildings with no interiorwalls, deduct |        |              |             |      |          |       |           |       | 30 %           |
+
+## 02 41 16.15 Explosive / Implosive Demolition
+
+| ID    | Name                          | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | EXPLOSIVE / IMPLOSIVE DEMOLITION | R024119-10 |        |              |      |          |       |           |       |                |
+| 0011  | Large projects,               |        |              |             |      |          |       |           |       |                |
+| 0020  | No disposal fee based on building volume, steel building | B 5B | 16900 | .003 | C.F. | .16 | .20 | .36 | .45 |
+| 0100  | Concrete building             |        | 16900        | .003        |      | .16      | .20   | .36       | .45   |                |
+| 0200  | Masonry building              |        | 16900        | .003        |      | .161     | .20   | .36       | .45   |                |
+| 0400  | Disposal of material, minimum | B 3    | 445          | .108        | C.Y. | 5.50     | 6.10  | 11.60     | 14.90 |                |
+| 0500  | Maximum                       |        | 365.132      |             |      | 6.70     | 7.45  | 14.15     | 18.15 |                |
+
+## 02 41 16.17 Building Demolition Footings and Foundations
+
+| ID    | Name                          | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | BUILDING DEMOLITION FOOTINGS AND FOUNDATIONS | R024119-10 |        |              |      |          |       |           |       |                |
+| 0200  | Floors, concrete slab on grade, |        |              |             |      |          |       |           |       |                |
+| 0240  | 4" thick, plain concrete       | B -13L | 5000         | .003        | S.F. | .20      | .52   | .72       | .87   |                |
+| 0280  | Reinforced, wire mesh          |        | 4000         | .004        |      | .25      | .65   | .90       | 1.09  |                |
+| 0300  | Rods                           |        | 4500         | .004        |      | .23      | .58   | .81       | .97   |                |
+| 0400  | 6" thick, plain concrete       |        | 4000.004     |             |      | .25      | .65   | .90       | 1.09  |                |
+| 0420  | Reinforced, wire mesh          |        | 3200         | .005        |      | .32      | .81   | 1.13      | 1.36  |                |
+| 0440  | Rods                           |        | 3600.004     |             |      | .28      | .72   | 1         | 1.21  |                |
+| 1000  | Footings, concrete, 1' thick, 2' wide |        | 300          | .053        | LF.  | 3.38     | 8.65  | 12.03     | 14.55 |                |
+| 1080  | 1'-6" thick, 2' wide           |        | 250          | .064        |      | 4.06     | 10.35 | 14.41     | 17.45 |                |
+| 1120  | 3' wide                        |        | 200          | .080        |      | 5.05     | 12.95 | 18        | 22    |                |
+| 1140  | 2' thick, 3' wide              |        | 175          | .091        |      | 5.80     | 14.80 | 20.60     | 25    |                |
+| 1200  | Average reinforcing, add        |        |              |             |      |          |       |           |       | 10 %           |
+| 1220  | Heavy reinforcing, add          |        |              |             |      |          |       |           |       | 20 %           |
+| 2000  | Walls, block, 4" thick         | B -13L | 8000         | 002         | S.F. | .13      | .32   | .45       | .55   |                |
+| 2040  | 6" thick                       |        | 6000         | .003        |      | .17      | .43   | .60       | .73   |                |
+| 2080  | 8" thick                       |        | 4000         | .004        |      | .25      | .65   | .90       | 1.09  |                |
+| 2100  | 12" thick                      |        | 3000         | .005        |      | .34      | .86   | 1.20      | 1.45  |                |
+
+Construction Costs with RSMeans data, call 800.448.8182
+
+For customer support on your Building
+
+# 00242 Removal 42d DiversionRemovalstruction Materials
+
+## 02 42 1and Building DecDiversionon
+
+## 02 42 10.20 Deconstructiof of BuilConstructionnts
+
+### Daily Labor-
+Crew Output Hours UniMaterialsl
+
+### 2022 Bare Costs
+Labor Equipment
+Total
+Total
+Ind O&P
+
+---
+
+## 0010 DECONSTRUCTION O
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor      | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|------------|-----------|------------|----------------|
+| 02 42 10 - | Building Deconstruction                                         |              |              |             |        |          |            |           |            |                |
+| 02 42 10.20 | Deconstruction of Building Components                          |              |              |             |        |          |            |           |            |                |
+| 0010  | DECONSTRUCTION OF BUILDING COMPONENTS                                |              |              |             |        |          |            |           |            |                |
+| 0012  | Buildings one or two stories only                                    |              |              |             |        |          |            |           |            |                |
+| 0015  | Excludes material handling, packaging, container costs and           |              |              |             |        |          |            |           |            |                |
+| 0020  | transportation for salvage or disposal                               |              |              |             |        |          |            |           |            |                |
+| 0050  | Deconstruction of plumbing fixtures                                  |              |              |             |        |          |            |           |            |                |
+| 0100  | Wall hung or countertop lavatory                                     | 6666666626Clab| 1644         | 1           | Ea.    |          | 45.50      |           | 45.50      | 68             |
+| 0110  | Single or double compartment kitchen sink                            |              | 1.143        |             |        |          | 52         | 25242462126| 77.50     |                |
+| 0120  | Wall hung urinal                                                     |              | 1.143        |             |        |          | 52         |           | 52         | 77.50          |
+| 0130  | Floor mounted                                                        | G 2 Clab     |              | 2           | Eo.    |          | 91         |           | 91         | 136            |
+| 0140  | Floor mounted water closet                                           |              | 16           | 1           |        |          | 45.50      |           | 45.50      | 68             |
+| 0150  | Wall hung                                                            | G            | 14           | 1.143       |        |          | 52         |           | 52         | 77.50          |
+| 0160  | Water fountain, free standing                                        |              | 16           | 1           |        |          | 45.50      |           | 45.50      | 68             |
+| 0170  | Wall hung or deck mounted                                            |              | 12           | 1.333       |        |          | 61         |           |            | 90.50          |
+| 0180  | Bathtub, steel or fiberglass                                         |              | 10           | 1.600       |        |          | 73         |           | 73         | 109            |
+| 0190  | Cast iron                                                            |              |              | 2           |        |          | 91         |           | 91         | 136            |
+| 0200  | Shower, single                                                       | G            |              | 2.667       |        |          | 122        |           |            | 181            |
+| 0210  | Group                                                                | G            | 7            | 2.286       |        |          | 104        |           |            | 155            |
+| 0300  | Deconstruction of electrical fixtures                                |              |              |             |        |          |            |           |            |                |
+| 0310  | Surface mounted incandescent fixtures                                | 5G5555G 2 Clab| 48           | .333        | Ea.    |          | 15.20      |           | 15.20      | 22.50          |
+| 0320  | Fluorescent, 2 lamp                                                  |              | 32           | .500        |        |          | 23         |           | 23         |                |
+| 0330  | 4 lamp                                                               |              | 24           | .667        |        |          | 30.50      |           | 30.50      | 45.50          |
+| 0340  | Strip fluorescent, 1 lamp                                            |              | 40           | .400        |        |          | 18.25      |           | 18.25      | 27             |
+| 0350  | 2 lamp                                                               |              | 32           | .500        |        |          | 23         | 223       | 34         |                |
+| 0400  | Recessed drop-in fluorescent fixture, 2 lamp                         |              | 27           | .593        |        |          | 27         |           | 27         | 40             |
+| 0410  | 4 lamp                                                               |              | 18           | .889        |        |          | 40.50      |           | 40.50      | 60.50          |
+| 0500  | Deconstruction of appliances                                         |              |              |             |        |          |            |           |            |                |
+| 0510  | Cooking stoves                                                       | GG 2 Clab    | 26           | 615         | Ea.    | 225      | 28         |           | 442        |                |
+| 0520  | Dishwashers                                                          | "            | 26           | .615        | "      | 28       |            |           | 28         | 42             |
+| 0600  | Deconstruction of millwork and trim                                  |              |              |             |        |          |            |           |            |                |
+| 0610  | Cabinets, wood                                                       | G55555 2 Carp| 40           | .400        | LF     | 22.50    |            | 22.50     | 33.50      |                |
+| 0620  | Countertops                                                          | G            | 100          | .160        | "      | 2        |            |           |            | 13.40          |
+| 0630  | Wall paneling, 1" thick                                              | G            | 500          | .032        | S.F.   | 12225    |            | 1.80      | 2.68       |                |
+| 0640  | Ceiling trim                                                         | G            | 500          | .032        | LF.    | 1.80     |            | 1.80      | 2.68       |                |
+| 0650  | Wainscoting                                                          | G            | 500          | .032        | S.F    | 1.80     |            | 1.80      | 2.68       |                |
+| 0660  | Base, 3/4" -1" thick                                                 | G            | 600          | .027        | LF.    | 1.50     |            | 1.50      | 2.23       |                |
+| 0700  | Deconstruction of doors and windows                                  |              |              |             |        |          |            |           |            | 62             |
+| 0710  | Doors, wrap, interior, wood, single, no closers                      | 5G55 2 Carp  | 21           | .762        | Ea.    | 24       | 43         | 4345      | 66         |                |
+| 0720  | Double                                                               | G            | 13           | 1.231       |        |          | 69.50      | 73.50     | 107        |                |
+| 0730  | Solid core, single, exterior or interior                             | G            | 10           | 1.600       |        | 24       | 90         |           | 92         | 136            |
+| 0740  | Double                                                               |              | 8            | 2           |        |          | 113        | 117       | 172        |                |
+| 0810  | Windows, wrap, wood, single                                          |              |              |             |        |          |            |           |            |                |
+| 0812  | with no casement or cladding                                         | GG 2 Carp    | 21           | .762        | Eo.    | 22       | 43         | 425       | 66         |                |
+| 0820  | with casement and/or cladding                                        | "            | 18           | .889        | "      | 50       |            |           |            | 76.50          |
+| 0900  | Deconstruction of interior finishes                                  |              |              |             |        |          |            |           |            |                |
+| 0910  | Drywall for recycling                                                | G25 Clab     | 1775         | .009        | S.F.   | .41      |            | .41       | .61        |                |
+| 0920  | Plaster wall, firstfloor                                             | G "          | 1775         | .009        | #      | .41      |            |           |            | .61            |
+| 0930  | Second floor                                                         | G 2 Clab     | 1330         | .012        | S.F.   | .55      |            | .55       | .82        |                |
+| 1000  | Deconstruction of roofing and accessories                            |              |              |             |        |          |            |           |            |                |
+| 1010  | Builtup roofs                                                        | G 2 Clab     | 570          | .028        | S.F.   | 1.28     |            | 1.28      | 1.91       |                |
+| 1020  | Gutters, fascia and rakes                                            | G            | 1140         | .014        | LF     | .64      |            | .64       | .95        |                |
+| 2000  | Deconstruction of wood components                                    |              |              |             |        |          |            |           |            |                |
+| 2010  | Roof sheeting                                                        | G 2 Clab     | 570          | .028        | S.F.   | 1.28     |            | 1.28      | 1.91       |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 41 19 - Demolition  
+## 02 41 19.19 Selective Demolition
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|--------|-----------|----------|----------------|
+| 0158  | 1500 lb.                                                             | B-1    | 2.67        | 8.989       | Ea.    | 13,300   | 415    |           | 13,715   | 15,300         |
+| 0160  | Chute warning light system, 5 stories                                | B 1C   | 4           | 62          |        | 8,175    | 278    | 92        | 8,545    | 9,525          |
+| 0162  | 10 stories                                                           | P      | 2           | 12          |        | 15,200   | 555    | 184       | 15,939   | 17,700         |
+| 0164  | Dust control device for dumpsters                                    | 1 Clab | 8           | 1           |        | 93       | 45.50  |           | 138.50   | 170            |
+| 0166  | Install or replace breakaway cord                                    |        | 8           |             |        | 27.50    | 45.50  |           | 73       | 98.50          |
+| 0168  | Install or replace warning sign                                      |        | 16          | .500        |        | 10       | 23     |           | 33       | 45             |
+| 0600  | Dumpster, weekly rental, 1 dump/week, 6 C.Y. capacity (2 tons)       |        |             |             | Week   | 415      |        |           | 415      | 455            |
+| 0700  | 10 C.Y. capacity (3 tons)                                            |        |             |             |        | 480      |        |           | 480      | 530            |
+| 0725  | 20 C.Y. capacity (5 tons)                                            |        |             |             |        | 565      |        |           | 565      | 625            |
+| 0800  | 30 C.Y. capacity (7 tons)                                            |        |             |             |        | 730      |        |           | 730      | 800            |
+| 0840  | 40 C.Y. capacity (10 tons)                                           |        |             |             |        | 775      |        |           | 775      | 850            |
+| 2000  | Load, haul, dump and return, 0'-50' haul, hand carried               | 2 Clab | 24          | .667        | C.Y.   |          | 30.50  |           | 30.50    | 45.50          |
+| 2005  | Wheeled                                                              | 137    |             | .432        |        |          | 19.70  |           | 19.70    | 29.50          |
+| 2040  | 0'-100' haul, hand carried                                           | 1      | 16.50       | .970        |        |          | 44     |           | 44        | 66             |
+| 2045  | Wheeled                                                              |        | 25          | .640        |        |          | 29     |           | 29        | 43.50          |
+| 2050  | Forklift                                                             | A 3R   | 25          | .320        |        |          | 18.25  | 11.35     | 29.60    | 39.50          |
+| 2080  | Haul and return, add per each extra 100' haul, hand carried          | 2 Clab | 35.50       | .451        |        |          | 20.50  |           | 20.50    | 30.50          |
+| 2085  | Wheeled                                                              |        | 54          | .296        |        |          | 13.50  |           | 13.50    | 20             |
+| 2120  | For travel in elevators, up to 10 floors, add                        |        | 140         | .114        |        |          | 5.20   |           | 5.20     | 7.75           |
+| 2130  | 0'-50' haul, incl. up to 5 riser stairs, hand carried                |        | 23          | .696        |        |          | 31.50  |           | 31.50    | 47             |
+| 2135  | Wheeled                                                              |        | 35          | .457        |        |          | 21     |           | 21       | 31             |
+| 2140  | 6-10 riser stairs, hand carried                                      |        | 22          | .727        |        |          | 33     |           | 33       | 49.50          |
+| 2145  | Wheeled                                                              |        | 34          | .471        |        |          | 21.50  |           | 21.50    | 32             |
+| 2150  | 11-20 riser stairs, hand carried                                     |        | 20          | 1.800       |        |          | 36.50  |           | 36.50    | 54.50          |
+| 2155  | Wheeled                                                              |        | 31          | .516        |        |          | 23.50  |           | 23.50    | 35             |
+| 2160  | 21-40 riser stairs, hand carried                                     |        | 16          | 1           |        |          | 45.50  |           | 45.50    | 68             |
+| 2165  | Wheeled                                                              |        | 24          | .667        |        |          | 30.50  |           | 30.50    | 45.50          |
+| 2170  | 0'-100' haul, incl. 5 riser stairs, hand carried                     | 2 Clab | 15          | 1.067       | C.Y.   |          | 48.50  |           | 48.50    | 72.50          |
+| 2175  | Wheeled                                                              |        | 23          | .696        |        |          | 31.50  |           | 31.50    | 47             |
+| 2180  | 6-10 riser stairs, hand carried                                      |        | 14          | 1.143       |        |          | 52     | 22        | 77.50    |                |
+| 2185  | Wheeled                                                              |        | 21          | .762        |        |          | 34.50  |           | 34.50    | 51.50          |
+| 2190  | 11-20 riser stairs, hand carried                                     |        | 12          | 1.333       |        |          | 61     |           | 61       | 90.50          |
+| 2195  | Wheeled                                                              |        | 18          | .889        |        |          | 40.50  |           | 40.50    | 60.50          |
+| 2200  | 21-40 riser stairs, hand carried                                     |        | 8           | 2           |        |          | 91     |           | 91       | 136            |
+| 2205  | Wheeled                                                              |        | 12          | 1.333       |        |          | 61     |           | 61       | 90.50          |
+| 2210  | Haul and return, add per each extra 100' haul, hand carried          |        | 35.50       | .451        |        |          | 20.50  |           | 20.50    | 30.50          |
+| 2215  | Wheeled                                                              |        | 54          | 296         |        |          | 13.50  |           | 13.50    | 20             |
+| 2220  | For each additional flight of stairs, up to 5 risers, add            |        | 550         | .029        | Flight |          | 1.33   |           | 1.33     | 1.98           |
+| 2225  | 6-10 risers, add                                                     |        | 275         | .058        |        |          | 2.65   |           | 2.65     | 3.95           |
+| 2230  | 11-20 risers, add                                                    |        | 138         | .116        |        |          | 5.30   |           | 5.30     | 7.85           |
+| 2235  | 21-40 risers, add                                                    |        | 69          | .232        |        |          | 10.55  |           | 10.55    | 15.75          |
+| 3000  | Loading & trucking, including 2 mile haul, chute loaded              | B-16   | 45          | .711        | C.Y.   |          | 34     | 17.05     | 51.05    | 715            |
+| 3040  | Hand loading truck, 50' haul                                         |        | 48          | .667        |        |          | 32     | 16        | 48       | 65             |
+| 3080  | Machine loading truck                                                | B-17   | 120         | .267        |        |          | 13.40  | 6         | 19.40    | 26.50          |
+| 5000  | Haul, per mile, up to 8 C.Y. truck                                  | B-34B  | 1165        | .007        |        |          | .36    | .66       | 1.02     | 1.26           |
+| 5100  | Over 8 C.Y. truck                                                    |        | 1550        | .005        |        |          | .27    | .50       | .77      | .95            |
+
+---
+
+## 02 41 19.20 Selective Demolition, Dump Charges
+
+| ID    | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SELECTIVE DEMOLITION, DUMP CHARGES R024119-10               |      |             |             |      |          |       |           |       |                |
+| 0020  | Dump charges, typical urban city, tipping fees only          |      |             |             |      |          |       |           |       |                |
+| 0100  | Building construction materials                              |      |             |             | Ton  | 74       |       |           | 74    | 81             |
+| 0200  | Trees, brush, lumber                                         |      |             |             |      | 63       |       |           | 63    | 69.50          |
+| 0300  | Rubbish only                                                 |      |             |             |      | 63       |       |           | 63    | 69.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00241 Demolit41n
+
+## 02 41 19 - Demolition Demolition  
+02 41 19.16 Selective Demolition, Cutout  
+Hard mortar  
+Walls, interior, not including re-framing,  
+3400  
+6000  
+6010  
+openings to 5 S.F.  
+6100  
+Drywall to 5/8" thick  
+6200  
+Paneling to 3/4" thick  
+6300  
+Plaster, on gy  
+
+---
+
+## 02 41 19 - Selective Demolition
+
+| ID    | Name                                              | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|-----------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 3400  | Hard mortar                                       | 1 Brhe    | 50          | .160        | V.LF   |          | 7.20  |           | 7.20   | 10.80          |
+| 6000  | Walls, interior, not including reframing,         |           |             |             |        |          |       |           |        |                |
+| 6010  | openings to 5 S.F.                                |           |             |             |        |          |       |           |        |                |
+| 6100  | Drywall to 5/8" thick                             | 1 Clab    | 24          | .333        | Ea.    |          | 15.20 |           | 15.20  | 22.50          |
+| 6200  | Paneling to 3/4" thick                            | 1 Clab    | 20          | .400        | Ea.    |          | 18.25 |           | 18.25  | 27             |
+| 6300  | Plaster, on gypsum lath                           |           | 20          | .400        |        |          | 18.25 |           | 18.25  | 27             |
+| 6340  | On wire lath                                      |           | 14          | .571        |        |          | 26    |           | 26     | 39             |
+| 7000  | Wood frame, not including re-framing, openings to 5 S.F. |   |             |             |        |          |       |           |        |                |
+| 7200  | Floors, sheathing and flooring to 2" thick        | 1 Clab    | 5           | 1.600       | Ea.    |          | 373   |           | 73     | 109            |
+| 7310  | Roofs, sheathing to 1" thick, not including roofing |         | 6           | 1.333       |        |          | 61    |           | 61     | 90.50          |
+| 7410  | Walls, sheathing to 1" thick, not including siding |         | 7           | 1.143       |        |          | 52    |           | 52     | 77.50          |
+
+---
+
+## 02 41 19.18 - Selective Demolition, Disposal Only
+
+| ID    | Name                                              | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|-----------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | SELECTIVE DEMOLITION, DISPOSAL ONLY               | R024119-10|             |             |        |          |       |           |        |                |
+| 0015  | Urban bldg w / salvage value allowed              |           |             |             |        |          |       |           |        |                |
+| 0020  | Including loading and 5 mile haul to dump         |           |             |             |        |          |       |           |        |                |
+| 0200  | Steel frame                                       | B 3       | 430         | .112        | C.Y.   |          | 5.70  | 6.30      | 12     | 15.40          |
+| 0300  | Concrete frame                                    |           | 365.132     |             |        |          | 6.70  | 7.45      | 14.15  | 18.15          |
+| 0400  | Masonry construction                              |           | 445.108     |             |        |          | 5.50  | 6.10      | 11.60  | 14.90          |
+| 0500  | Wood frame                                        |           | 247.194     |             |        |          | 9.90  | 11        | 20.90  | 27             |
+
+---
+
+## 02 41 19.19 - Selective Demolition
+
+| ID    | Name                                              | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|---------------------------------------------------|-----------|-------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | SELECTIVE DEMOLITION, Rubbish Handling            | R024119-10|             |             |        |          |       |           |          |                |
+| 0020  | The following are to be added to the demolition prices |      |             |             |        |          |       |           |          |                |
+| 0050  | The following are components for a complete chute system |   |             |             |        |          |       |           |          |                |
+| 0100  | Top chute circular steel, 4' long, 18" diameter   | B -1C     | 15          | 1.600       | Ea.    | 279      | 74    | 24.50     | 377.50   | 440            |
+| 0102  | 23" diameter                                      |           | 15          | 1.600       |        | 305      | 74    | 24.50     | 403.50   | 470            |
+| 0104  | 27" diameter                                      |           | 15          | 1.600       |        | 325      | 74    | 24.50     | 423.50   | 495            |
+| 0106  | 30" diameter                                      |           | 15          | 11.600      |        | 350      | 74    | 24.50     | 448.50   | 520            |
+| 0108  | 33" diameter                                      |           | 15          | 1.600       |        | 370      | 74    | 24.50     | 468.50   | 545            |
+| 0110  | 36" diameter                                      |           | 15          | 1.600       |        | 395      | 74    | 24.50     | 493.50   | 570            |
+| 0112  | Regular chute, 18" diameter                       |           | 15          | 1.600       |        | 210      | 74    | 24.50     | 308.50   | 370            |
+| 0114  | 23" diameter                                      |           | 15          | 1.600       |        | 233      | 74    | 24.50     | 331.50   | 395            |
+| 0116  | 27" diameter                                      |           | 15          | 1.600       |        | 256      | 74    | 24.50     | 354.50   | 420            |
+| 0118  | 30" diameter                                      | 1 ☐       | 15          | 1.600       |        | 268      | 74    | 24.50     | 366.50   | 430            |
+| 0120  | 33" diameter                                      |           | 15          | 1.600       |        | 305      | 74    | 24.50     | 403.50   | 470            |
+| 0122  | 36" diameter                                      |           | 15          | 1.600       |        | 325      | 74    | 24.50     | 423.50   | 495            |
+| 0124  | Control door chute, 18" diameter                  |           | 15          | 1.600       |        | 395      | 74    | 24.50     | 493.50   | 570            |
+| 0126  | 23" diameter                                      |           | 15          | 1.600       |        | 420      | 74    | 24.50     | 518.50   | 595            |
+| 0128  | 27" diameter                                      |           | 15          | 1.600       |        | 440      | 74    | 24.50     | 538.50   | 620            |
+| 0130  | 30" diameter                                      |           | 15          | 1.600       |        | 465      | 74    | 24.50     | 563.50   | 645            |
+| 0132  | 33" diameter                                      |           | 15          | 1.600       |        | 490      | 74    | 24.50     | 588.50   | 670            |
+| 0134  | 36" diameter                                      |           | 15          | 1.600       |        | 510      | 74    | 24.50     | 608.50   | 700            |
+| 0136  | Chute liners, 14 ga., 18"-30" diameter            |           | 15          | 1.600       |        | 214      | 74    | 24.50     | 312.50   | 375            |
+| 0138  | 33"-36" diameter                                  | B- LC     | 15          | 1.600       | Ea.    | 268      | 74    | 24.50     | 366.50   | 430            |
+| 0140  | 17% thinner chute, 30" diameter                   |           | 15          | 1.600       |        | 233      | 74    | 24.50     | 331.50   | 395            |
+| 0142  | 33% thinner chute, 30" diameter                   |           | 15          | 1.600       |        | 174      | 745   | 24.50     | 272.50   | 330            |
+| 0144  | Top chute cover                                   | 1 Clab    | 24          | .333        |        | 247      | 15.20 |           | 262.20   | 295            |
+| 0146  | Door chute cover                                  | "         | 24          | .333        |        | 146      | 15.20 |           | 161.20   | 184            |
+| 0148  | Top chute trough                                  | 2 Clab    | 12          | 1.333       |        | 495      | 61    |           | 556      | 635            |
+| 0150  | Bolt down frame & counter weights, 250 lb.        | B 1       | 4           | 6           |        | 4,300    | 278   |           | 4,578    | 5,150          |
+| 0152  | 500 lb.                                           |           | 4           | 6           |        | 6,350    | 278   |           | 6,628    | 7,400          |
+| 0154  | 750 lb.                                           |           | 4           | 6           |        | 10,800   | 278   |           | 11,078   | 12,300         |
+| 0156  | 1000 lb.                                          |           | 2.67        | 8.989       |        | 10,600   | 415   |           | 11,015   | 12,200         |
+
+---
+
+Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building Construction
+
+# 03 11 Concrete Forming
+
+## 03 Concrete Insulating Concrete Forming
+
+### Forming 9.10 Insulating Forms, Left In Place
+
+#### Daily Labor
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit     | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|----------|----------|-------|-----------|-------|----------------|
+| 1700 | 2" x 4" lumber for top & middle rails for work platform              |        |              |             |          |          |       |           |       |                |
+| 1710 | Railing material cost pro rated over 20 uses                         |        |              |             | Ea.      | .03      |       | .03        | .04   |                |
+| 1720 | Labor (includes installing & removing)                               | 2 Corp | 2400         | .007        | LF.      |          | .388  |           | .38   | .56            |
+| 1800 | ICF accessories                                                      |        |              |             |          |          |       |           |       |                |
+| 1810 | Wire clip to secure forms inplace                                    | 2 Carp | 2100         | .008        | Ea.      | .60      | .43   |           | 1.03  | 1.30           |
+| 1820 | Masonry anchor embedment (excludes ties by mason)                    |        | 1600         | .010        |          | 1.66     | .56   |           | 2.22  | 2.67           |
+| 1830 | Ledger anchor embedment (excludes timber hanger & screws)            |        | 128 125      | 1           |          | 10.10    | 7.05  |           | 17.15 | 21.50          |
+
+#### References
+
+- See section 01 54 23.70 for mason's scaffolding components
+- See section 03 15 19.05 for anchor bolt sleeves
+- See section 03 15 19.10 for anchor bolts
+- See section 03 15 19.20 for dovetail anchor components
+- See section 03 15 19.30 for embedded inserts
+- See section 03 21 05.10 for rebar accessories
+- See section 03 21 11.60 for reinforcing bars in place
+- See section 03 31 13.35 for ready-mix concrete material
+- See section 03 31 13.70 for placement and consolidation of concrete
+- See section 06 05 23.60 for timber connectors
+
+---
+
+## 03 11 19.60 Roof Deck Form Boards
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010 | ROOF DECK FORM BOARDS                        |        |              |             |        |          |       |           |       | R051223-50     |
+| 0050 | Includes bulb tee sub-purlins @ 32-5/8" OC   |        |              |             |        |          |       |           |       |                |
+| 0070 | Non asbestos fiber cement, 5/16" thick       | C 13   | 2950         | .008        | S.F.   | 3.15     | .49   | 555       | 3.69  | 4.25           |
+| 0100 | Fiberglass, 1" thick                         |        | 2700         | .009        |        | 3.72     | .53   | .05       | 4.30  | 4.96           |
+| 0500 | Wood fiber, 1" thick                         | G      | 2700         | .009        |        | 2.45     | .53   | .05       | 3.03  | 3.56           |
+
+---
+
+## 03 11 23 Permanent Stair Forming
+
+### 03 11 23.75 Forms In Place, Stairs
+
+| ID   | Name                                             | Crew   | Daily Output | Labor-Hours | Unit        | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------|--------|--------------|-------------|-------------|----------|--------|-----------|--------|----------------|
+| 0010 | FORMS IN PLACE, STAIRS                           |        |              |             |             |          |        |           |        | R031113-40     |
+| 0015 | (Slant length x width), 1 use                    | C-2    | 165          | .291        | S.F.        | 9.20     | 15.95  |           | 25.15  | 3422222        |
+| 0050 | 2 use                                            |        | 170          | .282        |             | 5.20     | 15.50  |           | 20.70  | 29             |
+| 0100 | 3 use                                            |        | 180          | .267        |             | 3.88     | 14.65  |           | 18.53  | 26.50          |
+| 0150 | 4 use                                            | [      | 190          | .253        |             | 3.21     | 13.85  |           | 17.06  | 24             |
+| 1000 | Alternate pricing method (1.0 L.F./S.F.), 1 use  | | | | 100 | .480 | LF Riser | 9.20 | 26.50 | | 35.70 | 49 |
+| 1050 | 2 use                                            |        | 105          | .4571       |             | 5.20     | 25     |           | 30.20  | 43.50          |
+| 1100 | 3 use                                            |        | 110          | .436        |             | 3.88     | 24     |           | 27.88  | 40             |
+| 1150 | 4 use                                            |        | 115          | .417        | H           | 3.21     | 23     |           | 26.21  | 37.50          |
+| 2000 | Stairs, cast on sloping ground (length x width), 1 use |        | 220          | .218        | S.F.        | 3.69     | 11.95  |           | 15.64  | 22             |
+| 2025 | 2 use                                            |        | 232          | .207        |             | 2.03     | 11.35  |           | 13.38  | 19.15          |
+| 2050 | 3 use                                            |        | 244          | .197        |             | 1.48     | 10.80  |           | 12.28  | 17.65          |
+| 2100 | 4 use                                            |        | 256          | .188        |             | 1.20     | 10.30  |           | 11.50  | 16.60          |
+
+---
+
+## 03 15 Concrete Accessories
+
+### 03 15 05 - Concrete Forming Accessories
+
+#### 03 15 05.12 Chamfer Strips
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010 | CHAMFER STRIPS                               |        |              |             |        |          |       |           |       |                |
+| 2000 | Polyvinyl chloride, 1/2" wide with leg       | 1 Carp | 535          | .015        | LF.    | .80      | .84   |           | 1.64  | 2.13           |
+| 2200 | 3/4" wide with leg                           |        | 525          | .015        |        | .89      | .86   |           | 1.75  | 2.26           |
+| 2400 | 1" radius with leg                           |        | 515          | .016        |        | 1.10     | .87   |           | 1.97  | 2.51           |
+| 2800 | 2" radius with leg                           |        | 500          | .016        | |      | 1.88     | .90   |           | 2.78  | 3.41           |
+| 5000 | Wood, 1/2" wide                              |        | 535          | .015        |        | .11      | .84   |           | .95   | 1.37           |
+| 5200 | 3/4" wide                                    |        | 525.015      |             |        | .14      | .86   | 1         |       | 1.43           |
+| 5400 | 1" wide                                      |        | 515, .016    |             |        | .24      | .87   | !         | 1.11  | 1.56           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 11 16 Architectural Cast-in-Place Concrete Forming
+
+## 03 11 16.13 Concrete Form Liners
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 6200 | 4 use                                | 1 Carp | 224         | .036        | SFCA  | 2.14     | 2.01  |           | 4.15  | 5.35           |
+| 6300 | Rustic brick pattern, 1 use          |        | 224         | .036        |       | 4.54     | 2.01  |           | 6.55  | 8              |
+| 6325 | 2 use                                |        | 224         | .036        |       | 2.50     | 2.01  |           | 4.51  | 5.75           |
+| 6350 | 3 use                                |        | 224         | .036        |       | 1.82     | 2.01  |           | 3.83  | 4.99           |
+| 6400 | 4 use                                |        | 224         | .036        |       | 1.48     | 2.01  |           | 3.49  | 4.61           |
+| 6500 | 3/8" striated, random, 1 use         |        | 224         | .036        |       | 4.54     | 2.01  |           | 6.55  | 8              |
+| 6525 | 2 use                                |        | 224         | .036        |       | 2.50     | 2.01  |           | 4.51  | 5.75           |
+| 6550 | 3 use                                |        | 224         | .036        |       | 1.82     | 2.01  |           | 3.83  | 4.99           |
+| 6600 | 4 use                                |        | 224         | .036        |       | 1.48     | 2.01  |           | 3.49  | 4.61           |
+| 6850 | Random vertical rustication, 1 use   |        | 384         | .021        |       | 8.65     | 1.17  |           | 9.82  | 11.25          |
+| 6900 | 2 use                                |        | 384         | .021        |       | 4.75     | 1.17  |           | 5.92  | 7              |
+| 6925 | 3 use                                |        | 384         | .021        |       | 3.46     | 1.17  |           | 4.63  | 5.55           |
+| 6950 | 4 use                                |        | 384         | .021        |       | 2.81     | 1.17  |           | 3.98  | 4.84           |
+| 7050 | Wood, beveled edge, 3/4" deep, 1 use |        | 384         | .021        | LF    | .14      | 1.17  |           | 1.31  | 1.90           |
+| 7100 | 1" deep, 1 use                       |        | 384         | .021        | FF    | .24      | 1.17  |           | 1.41  | 2.01           |
+| 7200 | 4" wide aged cedar, 1 use            |        | 256         | .031        | SFCA  | 4.54     | 1.76  |           | 6.30  | 7.60           |
+| 7300 | 4" variable depth rough cedar         |        | 224.036     |             | "     | 6.60     | 2.01  |           | 8.61  | 10.25          |
+
+# 03 11 19 Insulating Concrete Forming
+
+## 03 11 19.10 Insulating Forms, Left In Place
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0110 | 4" core wall                         | 14 Carp| 1984        | .016        | S.F.  | 5.25     | .91   |           | 6.16  | 7.10           |
+| 0120 | 6" core wall                         |        | 1808        | .018        |       | 5.25     |       |           | 6.25  | 7.25           |
+| 0130 | 8" core wall                         |        | 1536        | .021        |       | 5.45     | 1.17  |           | 6.62  | 7.70           |
+| 0140 | 10" core wall                        |        | 1152        | .028        |       | 6.70     | 1.56  |           | 8.26  | 9.75           |
+| 0150 | 12" core wall                        |        | 992         | .032        | -     | 6.80     | 1.82  |           | 8.62  | 10.20          |
+
+### 90 degree corner blocks or panels, molded, walls up to 4' high
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0210 | 4" core wall                         | 4 Carp | 1880        | .017        | S.F.; | 4.88     | .96   |           | 5.84  | 6.80           |
+| 0220 | 6" core wall                         |        | 1708        | .019        |       | 4.88     | 1.05  |           | 5.93  | 6.90           |
+| 0230 | 8" core wall                         |        | 1324        | .024        |       | 6        | 1.36  |           | 7.36  | 8.65           |
+| 0240 | 10" core wall                        |        | 987         | .032        |       | 6.80     | 1.83  |           | 8.63  | 10.20          |
+| 0250 | 12" core wall                        |        | 884         | .036        |       | 6.70     | 2.04  |           | 8.74  | 10.45          |
+
+### 45 degree corner blocks or panels, molded, walls up to 4' high
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0310 | 4" core wall                         | 4 Carp | 1880        | .017        | S.F   | 6.05     | .96   |           | 7.01  | 8.15           |
+| 0320 | 6" core wall                         |        | 1712        | .019        |       | 6.55     | 1.05  |           | 7.60  | 8.75           |
+| 0330 | 8" core wall                         |        | 1324        | .024        |       | 6.55     | 1.36  |           | 7.91  | 9.25           |
+
+### I blocks or panels, molded, walls up to 4' high
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0420 | 6" core wall                         | 4 Carp | 1540        | .021        | S.F.  | 6.35     | 1.17  |           | 7.52  | 8.75           |
+| 0430 | 8" core wall                         |        | 1325        | .024        |       | 6.45     | 1.36  |           | 7.81  | 9.10           |
+| 0440 | Non-standard corners or Ts requiring trimming & strapping | | 192.167     |         |       | 6.80     | 9.40  |           | 16.20 | 21.50          |
+
+### Radius blocks or panels, molded, walls up to 4' high, 6" core wall
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0520 | 5' to 10' diameter, molded blocks or panels | 4 Carp | 2400        | .013        | S.F   | 7.85     | .75   |           | 8.60  | 9.75           |
+| 0530 | 10' to 15' diameter, requiring trimming and strapping, add | | 500         | .064        |       | 6.40     | 3.60  |           | 10    | 12.35          |
+| 0540 | 15'-1" to 30' diameter, requiring trimming and strapping, add | | 1200        | .027        |       | 6.40     | 1.50  |           | 7.90  | 9.25           |
+| 0550 | 30'-1" to 60" diameter, requiring trimming and strapping, add | | 1600..020   |             |       | 6.40     | 1.13  |           | 7.53  | 8.70           |
+| 0560 | 60'-1" to 100' diameter, requiring trimming and strapping, add | | 2800..011   |             |       | 6.40     | .64   |           | 7.04  | 7.95           |
+
+### Additional labor for blocks/panels in higher walls (excludes scaffolding)
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0610 | 4' 1" to 9'-4" high, add             |        |             |             |       |          | 10%   |           |       |                |
+| 0620 | 9' 5" to 12'-0" high, add            |        |             |             |       |          | 20%   |           |       |                |
+
+# 03 15 Concrete Accessories Concrete
+
+## Cast-In Concrete Anchors Accessories - 2022 Bare Costs
+
+### 03 15 19.20 Dovetail Anchor System
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3000  | Dovetail furring anchors, corrugated, galvanized, 1-1/2" long, 16 ga. | 6G66 1 Bric | 10.50        | .762        |      | 29       | 42    |           | 71    | 95             |
+| 3100  | 12 ga.                                   | G      | 10.50        | .762        |      | 33.50    | 42    |           | 75.50 | 99.50          |
+| 6000  | Dovetail stone panel anchors, galvanized, 1/8" x 1" wide, 3-1/2" long | G      | 10.50        | .762        |      | 94       | 42    |           | 136   | 167            |
+| 6100  | 1/4" x 1" wide                           | G      | 10.50.762    |             |      | 184      | 42    |           | 226   | 265            |
+
+### 03 15 19.30 Inserts
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | INSERTS                                   |        |              |             |      |          |       |           |       |                |
+| 1000  | Inserts, slotted nut type for 3/4" bolts, 4" long | 5G5555GGG1 Carp | 84           | .095        | Ea.  | 24.50    | 5.35  |           | 29.85 | 34.50          |
+| 2100  | 6" long                                   |        | 84           | .095        |      | 24.50    | 5.35  |           | 29.85 | 35             |
+| 2150  | 8" long                                   |        | 84           | .095        |      | 55.50    | 5.35  |           | 60.85 | 69.50          |
+| 2200  | Slotted, strap type, 4" long              |        | 84           | .095        |      | 21       | 5.35  |           | 26.35 | 31             |
+| 2250  | 6" long                                   |        | 84           | .095        |      | 15.55    | 5.35  |           | 20.90 | 25             |
+| 2300  | 8" long                                   |        | 84           | .095        |      | 46       | 5.35  |           | 51.35 | 58.50          |
+| 2350  | Strap for slotted insert, 4" long         |        | 84           | .095        |      | 12.65    | 5.35  |           | 18    | 22             |
+| 4100  | 6" long                                   |        | 84           | .095        |      | 13.75    | 5.35  |           | 19.10 | 23             |
+| 4150  | 8" long                                   |        | 84           | .095        |      | 19.40    | 5.35  |           | 24.75 | 29.50          |
+| 4200  | 10" long                                  |        | 84           | .095        |      | 20.50    | 5.35  |           | 25.85 | 30.50          |
+| 7000  | Loop ferrule type                         |        |              |             |      |          |       |           |       |                |
+| 7100  | 1/4" diameter bolt                        | GG 1 Carp | 84        | .095        | Ea.  | 1.96     | 5.35  |           | 7.31  | 10.15          |
+| 7350  | 7/8" diameter bolt                        |        | 84           | .095        | "    | 10.90    | 5.35  |           | 16.25 | 19.95          |
+| 9000  | Wedge type                                |        |              |             |      |          |       |           |       |                |
+| 9100  | For 3/4" diameter bolt                    | G 1 Carp | 60         | 133         | Ea.  | 9.35     | 7.50  |           | 16.85 | 21.50          |
+| 9800  | Cut washers, black                        |        |              |             |      |          |       |           |       |                |
+| 9900  | 3/4" bolt                                 | G      |              |             | Ea.  | .30      |       |           | .30   | .33            |
+| 9950  | For galvanized inserts, add               |        |              |             |      | 30%      |       |           |       |                |
+
+### 03 15 19.45 Machinery Anchors
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | MACHINERY ANCHORS, heavy duty, incl. sleeve, floating base nut, |        |              |             |      |          |       |           |       |                |
+| 0020  | lower stud & coupling nut, fiber plug, connecting stud, washer & nut. |        |              |             |      |          |       |           |       |                |
+| 0030  | For flush mounted embedment in poured concrete heavy equip. pads. |        |              |             |      |          |       |           |       |                |
+| 0200  | Stud & bolt, 1/2" diameter                | 5G5555 4-16 | 40         | .400        | Eq.  | R70ENE   | 25    | 3.68      | 98.68 | 120            |
+| 0300  | 5/8" diameter                             | G      | 35           | .457        |      | 82       | 29    | 4.21      | 115.21| 139            |
+| 0500  | 3/4" diameter                             | G      | 30           | .533        |      | 99       | 33.50 | 4.91      | 137.41| 166            |
+| 0600  | 7/8" diameter                             | G      | 25           | .640        |      | 111      | 40.50 | 5.90      | 157.40| 191            |
+| 0800  | 1" diameter                               | G      | 20           | .800        |      | 121      | 50.50 | 7.35      | 178.85| 219            |
+| 0900  | 1-1/4" diameter                           | G      | 15           | 1.067       |      | 161      | 67    | 9.80      | 237.80| 291            |
+
+---
+
+# 03 21 Reinforcement Bars
+
+## 03 21 05 Reinforcing Steel Accessories
+
+### 03 21 05.10 Rebar Accessories
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | REBAR ACCESSORIES                         |        |              |             |      |          |       |           |       |                |
+| 0030  | Steel & plastic made from recycled materials |      |              |             |      |          |       |           |       |                |
+| 0100  | Beam bolsters (BB), lower, 1-1/2" high, plain steel | 5555555555 |              |             | C.L.F.| 22       |       |           | 22    | 24             |
+| 0102  | Galvanized                                |        |              |             |      | 58       |       |           | 58    | 64             |
+| 0104  | Stainless tipped legs                     |        |              |             |      | 480      |       |           | 480   | 530            |
+| 0106  | Plastic tipped legs                       |        |              |             |      | 38       |       |           | 38    | 42             |
+| 0108  | Epoxy dipped                              |        |              |             |      | 82       |       |           | 82    | 90             |
+| 0110  | 2" high, plain                            |        |              |             |      | 40.50    |       |           | 40.50 | 44.50          |
+| 0120  | Galvanized                                |        |              |             |      | 74       |       |           | 74    | 81.50          |
+| 0140  | Stainless tipped legs                     |        |              |             |      | 590      |       |           | 590   | 645            |
+| 0160  | Plastic tipped legs                       |        |              |             |      | 58.50    |       |           | 58.50 | 64.50          |
+| 0162  | Epoxy dipped                              |        |              |             |      | 93       |       |           | 93    | 102            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 Bars Reinforcement Bars
+
+## 03 21 11 - Plain Steel Reinforcement Bars
+
+### 03 21 11.60 Reinforcing In Place
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2750 | Impalement protective, plastic, #4 to #9                    | 2 Rodm | 800          | .020        | Ea.  | 1.60     | 1.21  |           | 2.81  | 3.57           |
+
+---
+
+## 03 21 13 - Galvanized Reinforcement Steel Bars
+
+### 03 21 13.10 Galvanized Reinforcing
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | GALVANIZED REINFORCING                                      |        |              |             |      |          |       |           |       |                |
+| 0150 | Add to plain steel rebar pricing for galvanized rebar        |        |              |             | Ton  | 570      |       |           | 570   | 625            |
+
+---
+
+## 03 21 16 - Epoxy-Coated Reinforcement Steel Bars
+
+### 03 21 16.10 Epoxy-Coated Reinforcing
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | EPOXY-COATED REINFORCING                                    |        |              |             |      |          |       |           |       |                |
+| 0100 | Add to plain steel rebar pricing for epoxy-coated rebar      |        |              |             | Ton  | 1,125    |       |           | 1,125 | 1,250          |
+
+---
+
+## 03 21 21 Composite Reinforcement Bars
+
+### 03 21 21.11 Glass Fiber-Reinforced Polymer Reinf. Bars
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor      | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|------------|-----------|-------|----------------|
+| 0010 | GLASS FIBER-REINFORCED POLYMER REINFORCEMENT BARS           |        |              |             |      |          |            |           |       |                |
+| 0020 | Includes labor, but not material cost, to install accessories|        |              |             |      |          |            |           |       |                |
+| 0050 | #2 bar, .043 lb./L.F.                                       | 4 Rodm | 9500         | .003        | LF   | .43      | .20222223  |           | .63   | .78            |
+| 0100 | #3 bar, .092 lb./L.F.                                       |        | 9300         | .003        |      | .70      | .21        |           | .91   | 1.08           |
+| 0150 | #4 bar, .160 lb./L.F.                                       |        | 9100         | .004        |      |          | .21        |           | 1.21  | 1.42           |
+| 0200 | #5 bar, .258 lb./L.F.                                       |        | 8700         | .004        |      | 1.23     |            |           | 1.45  | 1.68           |
+| 0250 | #6 bar, .372 lb./L.F.                                       |        | 8300         | .004        |      | 2.15     |            |           | 2.38  | 2.72           |
+| 0300 | #7 bar, .497 lb./L.F.                                       |        | 7900         | .004        |      | 2.65     | .25        |           | 2.90  | 3.29           |
+| 0350 | #8 bar, .620 lb./L.F.                                       |        | 7400         | .004        |      | 2.41     | .26        |           | 2.67  | 3.04           |
+| 0400 | #9 bar, .800 lb./L.F.                                       |        | 6800         | .005        |      | 4.37     | .29        |           | 4.66  | 5.25           |
+| 0450 | #10 bar, 1.08 lb./LF.                                       |        | 5800         | .006        |      | 3.97     | .33        |           | 4.30  | 4.87           |
+| 0500 | For bends, add per bend                                     |        |              |             | Ea.  | 1.67     |            |           | 1.67  | 1.84           |
+
+---
+
+## 03 22 Fabric and Grid Reinforcing
+
+### 03 22 11 1000 Plain Welded Wire Fabric Reinforcing
+
+#### 03 22 11.10 Plain Welded Wire Fabric
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010 | PLAIN WELDED WIRE FABRIC ASTM A185 R032205-30               |        |              |             |       |          |       |           |       |                |
+| 0020 | Includes labor, but not material cost, to install accessories|        |              |             |       |          |       |           |       |                |
+| 0030 | Made from recycled materials                                |        |              |             |       |          |       |           |       |                |
+| 0050 | Sheets                                                      |        |              |             |       |          |       |           |       |                |
+| 0100 | 6x6 -W1.4 x W1.4 (10 x 10) 21 lb./C.S.F.                    | 5G255555 Rodm | .35 | .457 | C.S.F. | 222348 | 28    |           | 50    | 66             |
+| 0200 | 6x6 -W2.1 x W2.1 (8 x 8) 30 lb./C.S.F.                      | G      | 31           | .516        |       | 31.50    |       |           | 63.50 | 82             |
+| 0300 | 6x6 -W2.9 x W2.9 (6 x 6) 42 lb./C.S.F.                      |        | 29           | .552        |       | 33.50    |       |           | 76.50 | 97.50          |
+| 0400 | 6x6 -W4 x W4 (4 x 4) 58 lb./C.S.F.                          |        | 27           | 593         |       | 52       | 36    |           | 88    | 111            |
+| 0500 | 4x4 -W1.4 x W1.4 (10 x 10) 31 lb./C.S.F.                    | G      | 31           | .516        |       | 35.50    | 31.50 |           | 67    | 86             |
+| 0600 | 4x4 -W2.1 x W2.1 (8 x 8) 44 lb./C.S.F.                      | G      | 29           | .552        |       | 44.50    | 33.50 |           | 78    | 99             |
+| 0650 | 4x4 -W2.9 x W2.9 (6 x 6) 61 lb./C.S.F.                      | G      | 27           | .593        |       | 71       | 36    |           | 107   | 132            |
+| 0700 | 4x4 -W4 x W4 (4 x 4) 85 lb./C.S.F.                          | G      | 25           | .640        |       | 88.50    | 39    |           | 127.50| 156            |
+| 0750 | Rolls                                                       |        |              |             |       |          |       |           |       | 33             |
+| 0800 | 2x2- #14 galv., 21 lb./C.S.F., beam & column wrap           | G2 Rodm| 6.50         | 2.462       | C.S.F.| 64       | 149   |           | 2332  | 294            |
+| 0900 | 2x2- #12 galv. for gunite reinforcing                       | G      | 6.50         | 2.462       |       | 89       | 149   |           |       | 320            |
+
+---
+
+## 03 22 13 Galvanized Welded Wire Fabric Reinforcing
+
+### 03 22 13.10 Galvanized Welded Wire Fabric
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | GALVANIZED WELDED WIRE FABRIC                               |        |              |             |      |          |       |           |       |                |
+| 0100 | Add to plain welded wire pricing for galvanized welded wire  |        |              |             | Lb.  | .29      |       |           | .29   | .31            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 21 Reinforcement Bars  
+## 03 21 05 - Reinforcing Steel Accessories  
+### 03 21 05.10 Rebar Accessories
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 1900 | For continuous bottom wire runners, add                              | G    |             |             | C.L.F | 49.50   |       |           | 49.50 | 54.50          |
+| 1940 | For continuous bottom plate, add                                     |      |             |             |      | 264      |       |           | 264   | 290            |
+| 2200 | Screed chair base, 1/2" coilthread diam., 2-1/2" high, plain steel   | C    |             |             |      | 410      |       |           | 410   | 455            |
+| 2210 | Galvanized                                                           |      |             |             |      | 495      |       |           | 495   | 540            |
+| 2220 | 5-1/2" high, plain                                                   |      |             |             |      | 495      |       |           | 495   | 545            |
+| 2250 | Galvanized                                                           |      |             |             |      | 585      |       |           | 585   | 645            |
+| 2300 | 3/4" coil thread diam., 2-1/2" high, plain steel                     | G    |             |             |      | 535      |       |           | 535   | 590            |
+| 2310 | Galvanized                                                           |      |             |             |      | 615      |       |           | 615   | 675            |
+| 2320 | 5-1/2" high, plain steel                                             |      |             |             |      | 675      |       |           | 675   | 740            |
+| 2350 | Galvanized                                                           |      |             |             |      | 835      |       |           | 835   | 915            |
+| 2400 | Screed holder, 1/2" coil thread diam. for pipe screed, plain steel, 6" long | G    |             |             |      | 500      |       |           | 500   | 550            |
+| 2420 | 12" long                                                             | C    |             |             |      | 760      |       |           | 760   | 840            |
+| 2500 | 3/4" coil thread diam. for pipe screed, plain steel, 6" long         | G    |             |             |      | 665      |       |           | 665   | 735            |
+| 2520 | 12" long                                                             | G    |             |             |      | 1,075    |       |           | 1,075 | 1,175          |
+| 2700 | Screw anchor for bolts, plain steel, 3/4" diameter x 4" long         |      |             |             |      | 610      |       |           | 610   | 670            |
+| 2720 | 1" diameter x 6" long                                                |      |             |             |      | 1,125    |       |           | 1,125 | 1,250          |
+| 2740 | 1-1/2" diameter x 8" long                                            |      |             |             |      | 1,550    |       |           | 1,550 | 1,700          |
+| 2800 | Screw anchor eye bolts, 3/4" x 3" long                               |      |             |             |      | 3,600    |       |           | 3,600 | 3,950          |
+| 2820 | 1" x 3-1/2" long                                                     |      |             |             |      | 4,650    |       |           | 4,650 | 5,100          |
+| 2840 | 1-1/2" x 6" long                                                     | G    |             |             |      | 14,200   |       |           | 14,200| 15,600         |
+| 2900 | Screw anchor bolts, 3/4" x 9" long                                   | G    |             |             |      | 2,275    |       |           | 2,275 | 2,500          |
+| 2920 | 1" x 12" long                                                        |      |             |             |      | 4,375    |       |           | 4,375 | 4,825          |
+| 3001 | Slab lifting inserts, single pickup, galv, 3/4" diam., 5" high       |      |             |             |      | 2,400    |       |           | 2,400 | 2,650          |
+| 3010 | 6" high                                                              |      |             |             |      | 2,375    |       |           | 2,375 | 2,600          |
+| 3030 | 7" high                                                              |      |             |             |      | 2,425    |       |           | 2,425 | 2,650          |
+| 3100 | 1" diameter, 5-1/2" high                                             |      |             |             |      | 2,450    |       |           | 2,450 | 2,700          |
+| 3120 | 7" high                                                              | G    |             |             |      | 2,425    |       |           | 2,425 | 2,675          |
+| 3200 | Double pickup lifting inserts, 1" diameter, 5-1/2" high               | 5555GGGGGGGG |   |             |      | 4,750    |       |           | 4,750 | 5,225          |
+| 3220 | 7" high                                                              |      |             |             |      | 5,275    |       |           | 5,275 | 5,800          |
+| 3330 | 1-1/2" diameter, 8" high                                             |      |             |             |      | 6,550    |       |           | 6,550 | 7,200          |
+| 3800 | Subgrade chairs, #4 bar head, 3-1/2" high                            |      |             |             |      | 46       |       |           | 46    | 50.50          |
+| 3850 | 12" high                                                             |      |             |             |      | 54       |       |           | 54    | 59.50          |
+| 3900 | #6 bar head, 3-1/2" high                                             |      |             |             |      | 46       |       |           | 46    | 50.50          |
+| 3950 | 12" high                                                             |      |             |             |      | 54       |       |           | 54    | 59.50          |
+| 4200 | Subgrade stakes, no nail holes, 3/4" diameter, 12" long              |      |             |             |      | 298      |       |           | 298   | 330            |
+| 4250 | 24" long                                                             |      |             |             |      | 445      |       |           | 445   | 485            |
+| 4300 | 7/8" diameter, 12" long                                              |      |             |             |      | 475      |       |           | 475   | 525            |
+| 4350 | 24" long                                                             |      |             |             |      | 505      |       |           | 505   | 555            |
+| 4500 | Tie wire, 16 ga. annealed steel                                      |      |             |             | Cwt. | 167      |       |           | 167   | 183            |
+
+---
+
+## 03 21 05.75 Splicing Reinforcing Bars
+
+| ID   | Name                                                                 | Crew           | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|----------------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SPLICING REINFORCING BARS R032110-70                                 |                |             |             |      |          |       |           |       |                |
+| 0020 | Including holding bars in place while splicing                       |                |             |             |      |          |       |           |       |                |
+| 0100 | Standard, self-aligning type, taper threaded, #4 bars                | 0G55555555C-25 | 190         | .168        | Eo   | 25.80    | 8.25  |           | 21.05 | 27             |
+| 0105 | #5 bars                                                              | G              | 170         | .188        |      | 15       | 9.20  |           | 24.20 | 30.50          |
+| 0110 | #6 bars                                                              | G              | 150         | .213        |      | 17.70    | 10.45 |           | 28.15 | 35.50          |
+| 0120 | #7 bars                                                              | G              | 130         | .246        |      | 21       | 12.05 |           | 33.05 | 41.50          |
+| 0300 | #8 bars                                                              | G              | 115         | .278        |      | 24.50    | 13.65 |           | 38.15 | 48             |
+| 0305 | #9 bars                                                              | G C -5         | 105         | 533         |      | 27.50    | 32    | 19.95     | 79.45 | 100            |
+| 0310 | #10 bars                                                             | G "            | 95          | .589        | 皂   | 34.50    | 35.50 | 22        | 92    | 115            |
+| 0320 | #11 bars                                                             | G ( -5         | 85          | .659        | Ea.  | 32.50    | 40    | 24.50     | 97    | 123            |
+| 0330 | #14 bars                                                             | G              | 65          | .862        |      | 51.50    | 52    | 32        | 135.50| 170            |
+| 0340 | #18 bars                                                             | G              | 45          | 1.244       |      | 78.50    | 75    | 46.50     | 200   | 250            |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 03 30 Ca30-In-Place CCastete  
+## 03 30 53--Iniscell-nPlaceCast-In-Place ConConcrete  
+### 30 53.40 Concrete In Place
+
+1:6 (3000 psi) for ground slab with radiant heat  
+1:3:2 (2000 psi) with sand aggregate, roof deck  
+Ground slab (2000 psi)  
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit        | Material | Labor | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|-------------|----------|-------|-----------|----------|----------------|
+| 5600 | 1 6  (3000 psi) for ground slab with radiant heat                    | C-14F  | 92          | .783        | C.Y.        | 119      | 403   | .31       | 159.31   | 190            |
+| 5650 | 1:3 :2  (2000 psi ) with sand aggregate ,roof deck                   | C-14B  | 260         | .800        |             | 113      | 45    | 3.01      | 161.01   | 194            |
+| 5700 | Ground slab (2000 psi)                                               | C-14F  | 107         | .673        |             | 113      | 34    | .26       | 147.26   | 175            |
+| 5900 | Pile caps (3000 psi), incl. forms and reinf., sq. or rect., under 10 C.Y. | C-14C  | 54.14       | 2.069       |             | 265      | 111   | .52       | 376.52   | 460            |
+| 5950 | Over 10 C.Y.                                                         |        | 75          | 1.493       |             | 246      | 80.50 | .37       | 326.87   | 390            |
+| 6000 | Triangular or hexagonal, under 10 C.Y.                               |        | 53          | 2.113       |             | 193      | 114   | .53       | 307.53   | 380            |
+| 6050 | Over 10 C.Y.                                                         |        | 85          | 1.318       |             | 216      | 71    | .33       | 287.33   | 340            |
+| 6200 | Retaining walls (3000 psi), gravity, 4' high see Section 32 32       | C-14D  | 66.20       | 3.021       |             | 214      | 169   | 11.80     | 394.80   | 500            |
+| 6250 | 10 'high                                                             |        | 125         | 1.600       |             | 206      | 89.50 | 6.25      | 301.75   | 365            |
+| 6300 | Cantilever, level backfill loading, 8' high                          |        | 70          | 2.857       |             | 228      | 160   | 11.15     | 399.15   | 500            |
+| 6350 | 16 'high                                                             |        | 91          | 2.198       |             | 222      | 123   | 8.60      | 353.60   | 435            |
+| 6800 | Stairs (3500 psi), not including safety treads, free standing, 3'-6" wide | C-14H  | 83          | .578        | LF Nose     | 8.65     | 32    | .34       | 40.99    | 57.50           |
+| 6850 | Cast on ground                                                       |        | 125         | .384        | "           | 7.10     | 21    | .22       | 28.32    | 39.50           |
+| 7000 | Stair landings, free standing                                        |        | 200         | .240        | S.F.        | 6.95     | 13.20 | .14       | 20.29    | 27.50           |
+| 7050 | Cast on ground                                                       |        | 475         | .101        | 17          | 5.40     | 5.55  | .06       | 11.01    | 14.25           |
+
+---
+
+# 03 31 Structural Concrete  
+## 03 31 13 Heavyweight Structural Concrete  
+### 03 31 13.25 Concrete, Hand Mix
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CONCRETE, HAND MIX for small quantities or remote areas              |        |             |             |      |          |       |           |       |                |
+| 0050 | Includes bulk local aggregate, bulk sand, bagged Portland            |        |             |             |      |          |       |           |       |                |
+| 0060 | cement (Type 1) and water, using gas powered cement mixer            |        |             |             |      |          |       |           |       |                |
+| 0125 | 2500 psi                                                            | C-30   | 135         | .059        | C.F  | 4.21     | 2.70  | 1.04      | 7.95  | 9.80           |
+| 0130 | 3000 psi                                                            |        | 135         | .059        |      | 4.54     | 2.70  | 1.04      | 8.28  | 10.15          |
+| 0135 | 3500 psi                                                            |        | 135         | .059        |      | 4.78     | 2.70  | 1.04      | 8.52  | 10.40          |
+| 0140 | 4000 psi                                                            |        | 135         | .059        |      | 5.05     | 2.70  | 1.04      | 8.79  | 10.70          |
+| 0145 | 4500 psi                                                            |        | 135         | .059        |      | 5.40     | 2.70  | 1.04      | 9.141 | 11.10          |
+| 0150 | 5000 psi                                                            |        | 135         | .059        |      | 5.70     | 2.70  | 1.04      | 9.44  | 11.40          |
+| 0300 | Using pre-bagged dry mix and wheelbarrow (80 - b. bag = 0.6 C.F.)   |        |             |             |      |          |       |           |       |                |
+| 0340 | 4000 psi                                                            | 1 Clab | 48          | .167        | C.F. | 11.75    | 7.60  |           | 19.35 | 24             |
+
+---
+
+### 03 31 13.30 Concrete, Volumetric Site - Mixed
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CONCRETE, VOLUMETRIC SITE -MIXED                                     |        |             |             |      |          |       |           |       |                |
+| 0015 | Mixed on-site in volumetric truck                                    |        |             |             |      |          |       |           |       |                |
+| 0020 | Includes local aggregate, sand, Portland cement (Type 1) and water   |        |             |             |      |          |       |           |       |                |
+| 0025 | Excludes all additives and treatments                                |        |             |             |      |          |       |           |       |                |
+| 0100 | 3000 psi, 1 C.Y. mixed and discharged                               |        |             |             | C.Y. | 220      |       |           | 220   | 242            |
+| 0110 | 1 2 C.Y.                                                            |        |             |             |      | 162      |       |           | 162   | 178            |
+| 0120 | 3 C.Y.                                                               |        |             |             |      | 147      |       |           | 147   | 161            |
+| 0130 | 4 C.Y.                                                               |        |             |             |      | 129      |       |           | 129   | 142            |
+| 0140 | 5 C.Y.                                                               |        |             |             |      | 126      |       |           | 126   | 139            |
+| 0200 | For truck holding /waiting time past first 2 on-site hours, add      |        |             |             | Hr.  | 94       |       |           | 94    | 103            |
+| 0210 | For trip charge beyond first 20 miles, each way, add                 |        |             |             | Mile | 3.72     |       |           | 3.72  | 4.09           |
+| 0220 | For each additional increase of 500 psi, add                         |        |             |             | Ea.  | 4.78     |       |           | 4.78  | 5.25           |
+
+---
+
+### 03 31 13.35 Heavyweight Concrete, Ready Mix
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | HEAVYWEIGHT CONCRETE, READY MIX, delivered R033105-10                |        |             |             |      |          |       |           |       |                |
+| 0012 | Includes local aggregate, sand, Portland cement (Type 1) and water   |        |             |             |      |          |       |           |       |                |
+| 0015 | Excludes all additives and treatments R033105-20                     |        |             |             |      |          |       |           |       |                |
+| 0020 | 2000 psi                                                             |        |             |             | CPD. | 152      |       |           | 152   | 167            |
+| 0100 | 2500 psi R033105-30                                                  |        |             |             |      | 155      |       |           | 155   | 170            |
+| 0150 | 3000 psi                                                             |        |             |             |      | 159      |       |           | 159   | 175            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 23 05 - Prestressing Tendon
+
+## 03 23 05.50 Prestressing Reinforcing
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3235  | Stressing                                                            | C-4A   | 4920         | 003         | S.F. |          | .20   | .01       | .21   | .3            |
+| 3240  | 42" OC, placing                                                      | 2 Rodm | 4190         | .004        |      | .57      | .23   |           | .80   | .97           |
+| 3245  | Stressing                                                            | C-4A   | 5410         | .003        |      |          | .18   | .01       | .19   | .25           |
+| 3250  | 48" OC, placing                                                      | 2 Rodm | 4520         | .004        |      | .51      | .21   |           | .72   | .8            |
+| 3255  | Stressing                                                            | C-4A   | 5790         | .003        |      |          | .17   | .01       | .18   | .20           |
+| 3260  | 30'x50' slab, strands @ 36" OC, placing                              | 2 Rodm | 4300         | .004        |      | .61      | .23   |           | .84   | 1.0           |
+| 3265  | Stressing                                                            | C-4A   | 5650         | .003        |      |          | .17   | .01       | .18   | .2            |
+| 3270  | 42" OC, placing                                                      | 2 Rodm | 4720         | .003        |      | .54      | .21   |           | .75   | .9            |
+| 3275  | Stressing                                                            | C-4A   | 6150         | .003        |      |          | .16   | .011      | .17   | 282           |
+| 3280  | 48" OC, placing                                                      | 2 Rodm | 5240         | .003        |      | .48      | .19   |           | 457   | .81           |
+| 3285  | Stressing                                                            | C-4A   | 6760         | .002        |      |          | .14   | .01       | .15   | 22            |
+
+# 03 24 05 - Reinforcing Fibers
+
+## 03 24 05.30 Synthetic Fibers
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SYNTHETIC FIBERS                            |      |              |             |      |          |       |           |       |                |
+| 0100  | Synthetic fibers, add to concrete            |      |              |             | Lb.  | 1        | 63225 |           | 6.25  | 6.85           |
+| 0110  | 1-1/2 lb./C.Y.                              |      |              |             | C.Y. |          | 9.65  |           | 9.65  | 10.60          |
+
+## 03 24 05.70 Steel Fibers
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | STEEL FIBERS                                                         |      |              |             |      |          |       |           |       |                |
+| 0140  | ASTM A850, Type V, continuously deformed, 1-1/2" long x 0.045" diam. |      |              |             |      |          |       |           |       |                |
+| 0150  | Add to price of ready mix concrete                                   |      |              |             | Lb.  |          | 1.22  |           | 1.22  | 1.34           |
+| 0205  | Alternate pricing, dosing at 5 lb./C.Y., add to price of RMC         |      |              |             | C.Y. |          | 6.10  |           | 6.10  | 6.70           |
+| 0210  | 10 lb./C.Y.                                                          |      |              |             |      |          | 12.20 |           | 12.20 | 13.40          |
+| 0215  | 15 lb./C.Y.                                                          |      |              |             |      |          | 18.30 |           | 18.30 | 20             |
+| 0220  | 20 lb./C.Y.                                                          |      |              |             |      |          | 24.50 |           | 24.50 | 27             |
+| 0225  | 25 lb./C.Y.                                                          |      |              |             |      |          | 30.50 |           | 30.50 | 33.50          |
+| 0230  | 30 lb./C.Y.                                                          |      |              |             |      |          | 36.50 |           | 36.50 | 40.50          |
+| 0235  | 35 lb./C.Y.                                                          |      |              |             |      |          | 42.50 |           | 42.50 | 47             |
+| 0240  | 40 lb./C.Y.                                                          |      |              |             | C.Y. | 49       |       |           | 49    | 53.50          |
+| 0250  | 50 lb./C.Y.                                                          |      |              |             |      |          | 61    |           | 61    | 67             |
+| 0275  | 75 lb./C.Y.                                                          |      |              |             |      |          | 91.50 |           | 91.50 | 101            |
+| 0300  | 100 lb./C.Y.                                                         |      |              |             |      |          | 122   |           | 122   | 134            |
+
+# 03 30 53 - Miscellaneous Cast-In-Place Concrete
+
+## 03 30 53.40 Concrete In Place
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE IN PLACE                                                    |        |              |             |      |          |       |           |         |                |
+| 0020  | Including forms (4 uses), Grade 60 rebar, concrete Portland cement   |        |              |             |      |          |       |           |         |                |
+| 0050  | Type I), placement and finishing unless otherwise indicated          |        |              |             |      |          |       |           |         |                |
+| 0300  | Beams (3500 psi), 5 kip/L.F., 10' span                              | C-14A  | 15.62        | 12.804      | C.Y. | 485      | 720   | 5540      | 1,255   | 1,675          |
+| 0350  | 25' span                                                             | "      | 18.55        | 10.782      |      | 510      | 605   | 42        | 1,157   | 1,500          |
+| 0500  | Chimney foundations (5000 psi), over 5 C.Y.                         | C-14C  | 32.22        | 3.476       |      | 193      | 187   | .87       | 380.87  | 490            |
+| 0510  | (3500 psi), under 5 C.Y.                                             | "      | 23.71        | 4.724       |      | 230      | 254   | 1.18      | 485.18  | 635            |
+| 0700  | Columns, square (4000 psi), 12"x12", up to 1% reinforcing by area    | C-14A  | 11.96        | 16.722      |      | 535      | 940   | 65.50     | 1,540.50| 2,050          |
+| 0720  | Up to 2% reinforcing by area                                         |        | 10.13        | 19.743      |      | 835      | 1,100 | 77        | 2,012   | 2,650          |
+| 0740  | Up to 3% reinforcing by area                                         |        | 9.03         | 22.148      |      | 1,250    | 1,250 | 86.50     | 2,586.50| 3,325          |
+| 0800  | 16"x16", up to 1% reinforcing by area                                |        | 16.22        | 12.330      |      | 7425     | 695   | 48        | 1,168   | 1,550          |
+| 0820  | Up to 2% reinforcing by area                                         |        | 12.57        | 15.911      |      | 715      | 895   | 62        | 1,672   | 2,175          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 35 43 Polished Concrete Finishing
+
+## 03 35 43.10 Polished Concrete Floors
+
+### 0010 POLISHED CONCRETE FLOORS
+
+Processing of cured concrete to include grinding, honing, and polishing of interior floors with 22" segmented diamond planetary floor grinder (2 passes in different directions per grit)
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0110  | Glue, adhesive or tar                                                | J 4    | 1.60        | 15          | M.S.F. | 222      | 760   | 144       | 926     | 1,300          |
+| 0120  | Paint, epoxy, 1 coat                                                 |        | 3.60        | 6.667       |        | 22       | 340   | 64        | 426     | 590            |
+| 0130  | 2 coats                                                              |        | 1.80        | 13.333      |        | 22       | 675   | 128       | 825     | 1,150          |
+| 0210  | 40-grit diamond / metal matrix                                       | J-4A   | 1.60        | 20          | M.S.F. | 37.50    | 990   | 263       | 1,290.50| 1,775          |
+| 0220  | 80 grit diamond / metal matrix                                       |        | 2           | 16          |        | 37.50    | 790   | 210       | 1,037.50| 1,450          |
+| 0230  | 120 grit diamond / metal matrix                                      |        | 2.40        | 13.333      |        | 37.50    | 660   | 175       | 872.50  | 1,200          |
+| 0240  | 200 grit diamond / metal matrix                                      |        | 2.80        | 11.429      |        | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0300  | Spray on dye or stain (1 coat)                                       | 1 Cefi | 16 / 500    |             |        | 202      | 26.50 |           | 228.50  | 261            |
+| 0400  | Spray on densifier / hardener (2 coats)                              | "      | 8 # 1       |             |        | 330      | 53    |           | 383     | 445            |
+| 0410  | Auto scrubbing after 2nd coat, when dry                              | J4B    | 16          | .500        |        |          | 23    | 11.90     | 34.90   | 47             |
+| 0510  | 100 grit diamond / resin matrix                                      | J-4A   | 2.80        | 11.429      | M.S.F. | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0520  | 200 grit diamond / resin matrix                                      |        | 12.80       | 11.429      |        | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0540  | 400 grit diamond / resin matrix                                      | J-4A   | 2.80        | 11.429      | M.S.F. | 37.50    | 565   | 110       | 752.50  | 1,025          |
+| 0610  | 800 grit diamond / resin matrix                                      | J-4A   | 2.80        | 11.429      | M.S.F. | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0620  | 1500 grit diamond / resin matrix                                     |        | 2.80        | 11.429      |        | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0630  | 3000 grit diamond / resin matrix                                     |        | 2.80        | 11.429      |        | 37.50    | 565   | 150       | 752.50  | 1,025          |
+| 0700  | Auto scrubbing after final polishing step                            | J-4B   | 16          | .500        |        |          | 23    | 11.90     | 34.90   | 47             |
+
+---
+
+# 03 37 Specialty Placed Concrete
+
+## 03 37 13 Shotcrete
+
+### 03 37 13.30 Gunite (Dry-Mix)
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | GUNITE (DRY-MIX)                                                     |        |             |             |        |          |       |           |         |                |
+| 0020  | Typical in place, 1" layers, no mesh included                        | C-16   | 2000        | .028        | S.F.   | .52      | 1.40  | 211       | 2.13    | 2.89           |
+| 0100  | Mesh for gunite 2 x 2, #12                                           | 2 Rodm | 800         | .020        |        | .89      | 1.21  |           | 2.10    | 2.79           |
+| 0150  | #4 reinforcing bars @ 6" each way                                    |        | 500         | .032        |        | 2.43     | 1.94  |           | 4.37    | 5.55           |
+| 0300  | Typical in place, including mesh, 2" thick, flat surfaces            | C-16   | 1000        | .056        |        | 1.94     | 2.81  | .41       | 5.16    | 6.75           |
+| 0350  | Curved surfaces                                                      |        | 500         | .112        |        | 1.94     | 5.60  | .83       | 8.37    | 11.35          |
+| 0500  | 4" thick, flat surfaces                                              |        | 750         | .075        |        | 2.98     | 3.75  | .55       | 7.28    | 9.45           |
+| 0550  | Curved surfaces                                                      |        | 350         | .160        |        | 2.98     | 8.05  | 1.18      | 12.21   | 16.50          |
+| 0900  | Prepare old walls, no scaffolding, good condition                    | C-10   | 1000        | .024        |        |          | 1.22  |           | 1.22    | 1.79           |
+| 0950  | Poor condition                                                       | "      | 275         | .087        |        |          | 4.42  |           | 4.42    | 6.50           |
+| 1100  | For high finish requirement or close tolerance, add                  |        |             |             |        |          |       |           | 50 %    |                |
+| 1150  | Very high                                                           |        |             |             |        |          |       |           | 110 %   |                |
+
+---
+
+### 03 37 13.60 Shotcrete (Wet-Mix)
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | SHOTCRETE (WET-MIX)                                                  |        |             |             |        |          |       |           |         |                |
+| 0020  | Wet mix, placed up to 12 C.Y./hour, 3000 psi                         | C-8C   | 80          | .600        | C.Y.   | 169      | 30    | 12.70     | 211.70  | 244            |
+| 0100  | Up to 35 C.Y./hour                                                   | C 8E   | 240         | .200        | "      | 152      | 9.80  | 4.87      | 166.67  | 188            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 37 Specialty Placed Concrete  
+## 03 37 13 - Shotcrete  
+### 03 37 13.Placedtcrete (Wet-Mix)  
+FiberConcreterced, 1" thick  
+2" thick  
+3" thick  
+4" thick  
+
+# 03 39 Concrete Curing  
+## 03 39 13 - Water Concrete Curing  
+### 03 39 13.50 Water Curing  
+0010 WATER CURI  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 03    | 37 13 - Shotcrete                                                    |        |              |             |       |          |       |           |       |                |
+| 03    | 37 13.60 Shotcrete (Wet-Mix)                                         |        |              |             |       |          |       |           |       |                |
+| 1010  | Fiber reinforced, 1" thick                                           | C-8C   | 1740         | .028        | S.F.  | 1.24     | 1.37  | .58       | 3.19  | 4.04           |
+| 1020  | 2" thick                                                             |        | 900          | .053        |       | 2.48     | 2.65  | 1.13      | 6.26  | 7.90           |
+| 1030  | 3" thick                                                             |        | 825          | .058        |       | 3.72     | 2.89  | 1.23      | 7.84  | 9.75           |
+| 1040  | 4" thick                                                             |        | 750          | .064        |       | 4.97     | 3.18  | 1.35      | 9.50  | 11.65          |
+| 03    | 39 Concrete Curing                                                   |        |              |             |       |          |       |           |       |                |
+| 03    | 39 13 - Water Concrete Curing                                        |        |              |             |       |          |       |           |       |                |
+| 03    | 39 13.50 Water Curing                                                |        |              |             |       |          |       |           |       |                |
+| 0010  | WATER CURING                                                         | 2 Clab | 555          | .291        | C.S.F.| 14.90    | 13.25 |           | 28.15 | 36             |
+| 0015  | With burlap, 4 uses assumed, 7.5 oz.                                 |        | 55           | .291        | "     | 27       | 13.25 |           | 40.25 | 49.50          |
+| 0400  | Curing blankets, 1" to 2" thick, buy                                 |        |              |             | S.F.  | .64      |       |           | .64   | .70            |
+| 03    | 39 23 - Membrane Concrete Curing                                     |        |              |             |       |          |       |           |       |                |
+| 03    | 39 23.13 Chemical Compound Membrane Concrete Curing                  |        |              |             |       |          |       |           |       |                |
+| 0010  | CHEMICAL COMPOUND MEMBRANE CONCRETE CURING                           |        |              |             |       |          |       |           |       |                |
+| 0300  | Sprayed membrane curing compound                                     | 2 Clab | 95           | .168        | មីS.F.| 13.55    | 7.70  |           | 21.25 | 226.50         |
+| 0700  | Curing compound, solvent based, 400 S.F./gal., 55 gallon lots        |        |              |             | ៖Gol. | 22       |       |           | 22    | 24.50          |
+| 0720  | 5 gallon lots                                                        |        |              |             |       | 30       |       |           | 30    |                |
+| 0800  | Curing compound, water based, 250 S.F./gal, 55 gallon lots           |        |              |             |       | 27       |       |           | 27    | 30             |
+| 0820  | 5 gallon lots                                                        |        |              |             |       | 25       |       |           | 25    | 27.50          |
+| 03    | 39 23.23 Sheet Membrane Concrete Curing                              |        |              |             |       |          |       |           |       |                |
+| 0010  | SHEET MEMBRANE CONCRETE CURING                                       |        |              |             |       |          |       |           |       |                |
+| 0200  | Curing blanket, burlap / poly, 2 ply                                 | 2 Clab | 70           | .229        | C.S.F.| 24.50    | 10.40 |           | 34.90 | 42.50          |
+| 03    | 41 Precast Structural Concrete                                       |        |              |             |       |          |       |           |       |                |
+| 03    | 41 13 - Precast Concrete Hollow Core Planks                          |        |              |             |       |          |       |           |       |                |
+| 03    | 41 13.50 Precast Slab Planks                                         |        |              |             |       |          |       |           |       |                |
+| 0010  | PRECAST SLAB PLANKS R034105-30                                       |        |              |             |       |          |       |           |       |                |
+| 0020  | Prestressed roof/floor members, grouted, solid, 4" thick             | C-11   | 2400         | .030        | S.F.  | 8.20     | 1.84  | .99       | 11.03 | 12.95          |
+| 0050  | 6" thick                                                             |        | 2800         | .026        |       | 8.35     | 1.58  | .85       | 10.78 | 12.50          |
+| 0100  | Hollow, 8" thick                                                     |        | 3200         | .023        |       | 10.65    | 1.38  | .75       | 12.78 | 14.70          |
+| 0150  | 10" thick                                                            |        | 3600         | .020        |       | 9.70     | 1.23  | .66       | 11.59 | 13.25          |
+| 0200  | 12" thick                                                            |        | 4000..018    |             |       | 11.40    | 1.10  | .60       | 13.10 | 14.90          |
+| 03    | 41 16 - Precast Concrete Slabs                                       |        |              |             |       |          |       |           |       |                |
+| 03    | 41 16.20 Precast Concrete Channel Slabs                              |        |              |             |       |          |       |           |       |                |
+| 0010  | PRECAST CONCRETE CHANNEL SLABS                                       |        |              |             |       |          |       |           |       |                |
+| 0335  | Lightweight concrete channel slab, long runs, 2-3/4" thick           | C-12   | 1575         | .030        | S.F.  | 12.45    | 1.71  | 1.26      | 15.42 | 17.60          |
+| 0375  | 3-3/4" thick                                                         |        | 1550         | .031        |       | 13.65    | 1.74  | 1.28      | 16.67 | 19.05          |
+| 0475  | 4-3/4" thick                                                         |        | 1525         | .031        |       | 12.50    | 1.76  | 1.30      | 15.56 | 17.80          |
+| 1275  | Short pieces, 2-3/4" thick                                           |        | 785          | 1.061       |       | 18.70    | 3.43  | 2.53      | 24.66 | 28.50          |
+| 1375  | 3-3/4" thick                                                         |        | 770          | .062        |       | 20.50    | 3.49  | 2.58      | 26.57 | 30.50          |
+| 1475  | 4-3/4" thick                                                         |        | 762          | .063        |       | 18.75    | 3.53  | 2.60      | 24.88 | 28.50          |
+| 03    | 41 16.50 Precast Lightweight Concrete Plank                          |        |              |             |       |          |       |           |       |                |
+| 0010  | PRECAST LIGHTWEIGHT CONCRETE PLANK                                   |        |              |             |       |          |       |           |       |                |
+| 0015  | Lightweight plank, nailable, T&G, 2" thick                           | C-12   | 1800         | .027        | S.F.  | 9.70     | 1.49  | 1.10      | 12.29 | 14.15          |
+| 0150  | For premium ceiling finish, add                                      |        |              |             | "     | 10%      |       |           |       |                |
+| 0200  | For sloping roofs, slope over 4 in 12, add                           |        |              |             |       |          | 25%   |           |       |                |
+| 0250  | Slope over 6 in 12, add                                              |        |              |             |       |          | 150%  |           |       |                |
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 00322 Fabric a22 Grid ReinfFabric  
+03 22 16 - Epoxy-andted Welded WiGridabric ReinforcReinforcing  
+6.10 Epoxy-Coated Welded Wire Fabric  
+0010 EPOXY-COATED WELDED WIRE FABRIC  
+Daily Labor-  
+0100  
+Add to plain welded wire pricing for epoxy-coated welded wire  
+2022
+
+| ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 22 16 - Epoxy-Coated Welded Wire Fabric Reinforcing                  |           |              |             |      |          |       |           |       |                |
+| 03    | 22 16.10 Epoxy-Coated Welded Wire Fabric                             |           |              |             |      |          |       |           |       |                |
+| 0010  | EPOXY-COATED WELDED WIRE FABRIC                                      |           |              |             |      |          |       |           |       |                |
+| 0100  | Add to plain welded wire pricing for epoxy-coated welded wire         |           |              |             | Lb.  | .57      |       |           | .57   | .62            |
+| 03    | 23 Stressed Tendon Reinforcing                                       |           |              |             |      |          |       |           |       |                |
+| 03    | 23 05 Prestressing Tendons                                           |           |              |             |      |          |       |           |       |                |
+| 03    | 23 05.50 Prestressing Steel                                          |           |              |             |      |          |       |           |       |                |
+| 0010  | PRESTRESSING STEEL R034136-90                                        | 5G5555 C-3| 1200         | .053        | tb.  | 2.94     | 3.02  | .12       | 6.08  | 7.85           |
+| 0150  | 300 kip                                                              | G         | 2700         | .024        |      | 1.24     | 1.34  | .05       | 2.63  | 3.43           |
+| 0300  | 100' span, 100 kip                                                   | G         | 1700         | .038        |      | 2.94     | 2.13  | .08       | 5.15  | 6.50           |
+| 0350  | 300 kip                                                              |           | 3200         | .020        |      | 2.52     | 1.13  | .04       | 3.69  | 4.51           |
+| 0500  | 200' span, 100 kip                                                   | G         | 2700         | .024        |      | 2.93     | 1.34  | .05       | 4.32  | 5.30           |
+| 0550  | 300 kip                                                              | G         | 3500         | .018        |      | 2.51     | 1.04  | .04ྲཟུ     | 3.59  | 4.36           |
+| 0800  | Grouted bars, in beams, 50' span, 42 kip                             | GGGGGGG   | 2600         | .025        |      | 1.36     | 1.40  | .05       | 2.81  | 3.64           |
+| 0850  | 143 kip                                                              |           | 3200         | .020        |      | 1.31     | 1.13  | .04       | 2.48  | 3.18           |
+| 1000  | 75' span, 42 kip                                                     |           | 3200         | .020        |      | 1.38     | 1.13  | .04       | 2.55  | 3.26           |
+| 1050  | 143 kip                                                              |           | 4200         | .015        |      | 1.18     | .86   | .03       | 2.07  | 2.63           |
+| 1200  | Ungrouted strand, in beams, 50' span, 100 kip                        |           | 1275         | .025        |      | .66      | 1.54  | .04       | 2.24  | 3.06           |
+| 1250  | 300 kip                                                              |           | 1475         | .022        |      | .66      | 1.33  | .03       | 2.02  | 2.75           |
+| 1400  | 100' span, 100 kip                                                   |           | 1500         | .021        |      | .66      | 1.31  | .03       | 2     | 2.72           |
+| 1450  | 300 kip                                                              | G         | 1650         | .019        |      | .66      | 1.19  | .03       | 1.888 | 2.53           |
+| 1600  | 200' span, 100 kip                                                   | JGGGGGGG  | 1500         | .021        |      | .66      | 1.31  | .03       | 2     | 2.72           |
+| -1650 | 300 kip                                                              |           | 1700         | .019        |      | .66      | 1.15  | .03       | 1.84  | 2.48           |
+| 1800  | Ungrouted bars, in beams, 50' span, 42 kip                           |           | 1400         | .023        |      | .73      | 1.40  | .03       | 2.16  | 2.93           |
+| 1850  | 143 kip                                                              |           | 1700         | .019        |      | .73      | 1.15  | .03       | 1.91  | 2.55           |
+| 2000  | 75' span, 42 kip                                                     |           | 1800         | .018        |      | .73      | 1.09  | .03       | 1.85  | 2.45           |
+| 2050  | 143 kip                                                              |           | 2200         | .015        |      | .366     | .89   | .02       | 1.64  | 2.15           |
+| 2220  | Ungrouted single strand, 100' elevated slab, 25 kip                  |           | 1200         | .027        |      | .66      | 1.63  | .04       | 2.33  | 3.21           |
+| 2250  | 35 kip                                                               |           | 1475         | .022        |      | .66      | 1.33  | .03       | 2.02  | 2.75           |
+| 3000  | Slabs on grade, 0.5-inch diam. non-bonded strands, HDPE sheathed,    |           |              |             |      |          |       |           |       |                |
+| 3050  | attached dead end anchors, loose stressing-end anchors               |           |              |             |      |          |       |           |       |                |
+| 3100  | 25' x 30' slab, strands @ 36" OC, placing                            | 2 Rodm    | 2940         | .005        | S.F. | .10      | 32222222220|        | 3222222222| 1.26           |
+| 3105  | Stressing                                                            | C-4A      | 3750         | .004        |      |          | .26   | .02       | .28   | .41            |
+| 3110  | 42" OC, placing                                                      | 2 Rodm    | 3200         | .005        |      | .62      |       |           | .92   | 1.13           |
+| 3115  | Stressing                                                            | C-4A      | 4040         | .004        |      |          | .24   | .02       | .26   | .38            |
+| 3120  | 48" OC, placing                                                      | 2 Rodm    | 3510         | .005        |      | .54      | .28   |           | .82   | 1              |
+| 3125  | Stressing                                                            | C-4A      | 4390         | .004        |      |          |       | .01       |       | .35            |
+| 3150  | 25' x 40' slab, strands @ 36" OC, placing                            | 2 Rodm    | 3370         | .005        |      | .67      | .29   |           | .96   | 1.17           |
+| 3155  | Stressing                                                            | C-4A      | 4360         | .004        | S.F. |          |       | .01       |       | .35            |
+| 3160  | 42" OC, placing                                                      | 2 Rodm    | 3760         | .004        |      | .58      | .26   |           | .84   | 1.03           |
+| 3165  | Stressing                                                            | C-4A      | 4820         | .003        |      |          |       | .01       | .21   | .31            |
+| 3170  | 48" OC, placing.                                                     | 2 Rodm    | 4090         | .004        |      | .52      | .24   |           | .76   | .92            |
+| 3175  | Stressing                                                            | C 4A      | 5190         | .003        |      |          | .19   | .01       | .2082222| .29         |
+| 3200  | 30' x 30' slab, strands @ 36" OC, placing                            | 2 Rodm    | 3260         | 005         |      | .67      | .30   |           | .97   | 1.18           |
+| 3205  | Stressing                                                            | C-4A      | 4190         | .004        |      |          | .23   | .02       | .25   | .37            |
+| 3210  | 42" OC, placing                                                      | 12 Rodm   | 3530         | .005        |      | .50      | 28    |           | .88   | 1.07           |
+| 3215  | Stressing                                                            | C-4A      | 4500         | .004        |      |          | .22   | .01       | .23   | .34            |
+| 3220  | 48" OC, placing                                                      | 2 Rodm    | 3840         | .004        |      | .54      | .25   |           | .79   | .97            |
+| 3225  | Stressing                                                            | C 4A      | 4850         | .003        |      |          | .20   | .01       | .21   | .31            |
+| 3230  | 30' x 40' slab, strands @ 36" OC, placing                            | 2 Rodm    | 3780         | .004        |      | .65      | .26   |           | .91   | 1.09           |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 31 13 Heavyweight Structural Concrete
+
+## 2022 Bare Costs
+
+### 03 31 13.70 Placing Concrete
+
+| ID    | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 2600  | Over 5 C.Y., direct chute                                            | C-6   | 120          | .400        | C.Y. |          | 18.90  | .46       | 19.36  | 28.50          |
+| 2650  | Pumped                                                               | C-20  | 150          | 427         |      |          | 21     | 5.40      | 26.40  | 37             |
+| 2700  | With crane and bucket                                                | C7    | 100          | .720        |      |          | 35.50  | 23.50     | 59     | 78.50          |
+| 2900  | Foundation mats, over 20 C.Y., direct chute                          | C-6   | 350          | .137        |      |          | 6.45   | .16       | 6.61   | 9.80           |
+| 2950  | Pumped                                                               | C-20  | 400          | 160         |      |          | 7.80   | 2.03      | 9.83   | 13.80          |
+| 3000  | With crane and bucket                                                | C7    | 300          | .240        |      |          | 11.80  | 7.90      | 19.70  | 26.50          |
+| 3200  | Grade beams, direct chute                                            | C-6   | 150          | .320        |      |          | 15.10  | .37       | 15.47  | 23             |
+| 3250  | Pumped                                                               | C-20  | 180          | .356        |      |          | 17.30  | 4.50      | 21.80  | 30.50          |
+| 3300  | With crane and bucket                                                | G-7   | 120          | .600        |      |          | 29.50  | 19.75     | 49.25  | 65.50          |
+| 3500  | High rise, for more than 5 stories, pumped, add per story            | C-20  | 2100         | .030        |      |          | 1.48   | .39       | 1.87   | 2.62           |
+| 3510  | With crane and bucket, add per story                                 | G-7   | 2100         | .034        |      |          | 1.69   | 1.13      | 2.82   | 3.75           |
+| 3700  | Pile caps, under 5 C.Y., direct chute                                | C-6   | 90           | .533        |      |          | 25     | .62       | 25.62  | 38             |
+| 3750  | Pumped                                                               | C-20  | 110          | .582        |      |          | 28.50  | 7.35      | 35.85  | 50             |
+| 3800  | With crane and bucket                                                | C-7   | 80           | .900        |      |          | 44.50  | 29.50     | 74     | 98.50          |
+| 3850  | Pile cap, 5 C.Y. to 10 C.Y., direct chute                            | C-6   | 175          | .274        |      |          | 12.95  | .32       | 13.27  | 19.55          |
+| 3900  | Pumped                                                               | C-20  | 200          | 320         |      |          | 15.55  | 4.05      | 19.60  | 27.50          |
+| 3950  | With crane and bucket                                                | G-7   | 150          | .480        |      |          | 23.50  | 15.80     | 39.30  | 52.50          |
+| 4000  | Over 10 C.Y., direct chute                                           | C-6   | 215          | .223        |      |          | 10.55  | .26       | 10.81  | 15.95          |
+| 4050  | Pumped                                                               | C-20  | 240          | .267        |      |          | 12.95  | 3.38      | 16.33  | 23             |
+| 4100  | With crane and bucket                                                | G-7   | 185          | .389        |      |          | 19.15  | 12.80     | 31.95  | 42.50          |
+| 4300  | Slab on grade, up to 6" thick, direct chute                          | C-6   | 110          | .436        |      |          | 20.50  | .51       | 21.01  | 31             |
+| 4350  | Pumped                                                               | C-20  | 130          | .492        |      |          | 24.4   | 6.25      | 30.25  | 42.50          |
+| 4400  | With crane and bucket                                                | C-7   | 110          | .655        |      |          | 32     | 21.50     | 53.50  | 71.50          |
+| 4600  | Over 6" thick, direct chute                                          | C-6   | 165          | .291        |      |          | 13.75  | .34       | 14.09  | 21             |
+| 4650  | Pumped                                                               | C-20  | 185          | .346        |      |          | 16.85  | 4.38      | 21.23  | 30             |
+| 4700  | With crane and bucket                                                | G-7   | 145          | .497        |      |          | 24.50  | 16.35     | 40.85  | 54.50          |
+| 4900  | Walls, 8" thick, direct chute                                        | C-6   | 90           | .533        | C.Y. |          | 25     | .62       | 25.62  | 38             |
+| 4950  | Pumped                                                               | C-20  | 100          | .640        |      |          | 31     | 8.10      | 39.10  | 55             |
+| 5000  | With crane and bucket                                                | C-7   | 80           | .900        |      |          | 44.50  | 29.50     | 74     | 98.50          |
+| 5050  | 12" thick, direct chute                                              | C-6   | 100          | .480        |      |          | 22.50  | .56       | 23.06  | 34             |
+| 5100  | Pumped                                                               | C-20  | 110          | .582        |      |          | 28.50  | 7.35      | 35.85  | 50             |
+| 5200  | With crane and bucket                                                | C-7   | 90           | .800        |      |          | 39.50  | 26.50     | 66     | 87.50          |
+| 5300  | 15" thick, direct chute                                              | C-6   | 105          | .457        |      |          | 21.50  | .53       | 22.03  | 32.50          |
+| 5350  | Pumped                                                               | C-20  | 120          | .533        |      |          | 26     | 6.75      | 32.75  | 46             |
+| 5400  | With crane and bucket                                                |       | 95           | .758        | P    |          | 37.50  | 25        | 62.50  | 83             |
+| 5600  | Wheeled concrete dumping, add to placing costs above                 |       |              |             |      |          |        |           |        |                |
+| 5610  | Walking cart, 50' haul, add                                          | C-18  | 32           | .281        | HDY. |          | 12.90  | 3.72      | 16.62  | 23.50          |
+| 5620  | 150' haul, add                                                       |       | 24           | .375        |      |          | 17.20  | 4.95      | 22.15  | 31             |
+| 5700  | 250' haul, add                                                       |       | 18           | .500        |      |          | 23     | 6.60      | 29.60  | 41.50          |
+| 5800  | Riding cart, 50' haul, add                                           | C-19  | 80           | .113        |      |          | 5.15   | 1.75      | 6.90   | 9.60           |
+| 5810  | 150' haul, add                                                       |       | 60           | .150        |      |          | 6.85   | 2.33      | 9.18   | 12.80          |
+| 5900  | 250' haul, add                                                       |       | 45           | .200        |      |          | 9.15   | 3.10      | 12.25  | 17.05          |
+| 6000  | Concrete in-fill for pan-type metal stairs and landings. Manual placement |   |              |             |      |          |        |           |        |                |
+| 6010  | includes up to 50' horizontal haul from point of concrete discharge.  |      |              |             |      |          |        |           |        |                |
+| 6100  | Stair pan treads, 2" deep                                            |       |              |             |      |          |        |           |        |                |
+| 6110  | Flights in 1st floor level up/down from discharge point               | C-8A  | 3200         | .015        | S.F. | .73      |        |           | .73    | 1.08           |
+| 6120  | 2nd floor level                                                      |       | 2500         | .019        |      | .93      |        |           | .93    | 1.38           |
+| 6130  | 3rd floor level                                                      |       | 2000         | .024        |      | 1.16     |        |           | 1.16   | 1.72           |
+| 6140  | 4th floor level                                                      |       | 1800         | .027        |      | 1.29     |        |           | 1.29   | 1.91           |
+| 6200  | Intermediate stair landings, pan type 4" deep                        |       |              |             |      |          |        |           |        |                |
+| 6210  | Flights in 1st floor level up/down from discharge point               | C-8A  | 2000         | .024        | S.F. | 1.16     |        |           | 1.16   | 1.72           |
+| 6220  | 2nd floor level                                                      |       | 1500         | .032        |      | 1.55     |        |           | 1.55   | 2.29           |
+| 6230  | 3rd floor level                                                      |       | 1200         | .040        |      | 1.94     |        |           | 1.94   | 2.87           |
+
+# 03030 Cast-In-Place Concrete  
+## 03 30 53 - Miscellaneous Cast-In-Place Concrete
+
+Concrete.40 Concrete In Place  
+Daily Labor-  
+2022 Bare Costs  
+Total
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 3850  | Over 5 C.Y.                                                          | C-14C  | 75           | 1.493       | C.Y.   | 287      | 80.50  |           | 367.87  | 435            |
+| 3900  | Footings, strip (3000 psi), 18" x 9", unreinforced                   | C-14L  | 40           | 2.400       |        | 195      | 126    | .70       | 321.70  | 405            |
+| 3920  | 18" x 9", reinforced                                                 | C-14C  | 35           | 3.200       |        | 230      | 172    | .80       | 402.80  | 510            |
+| 3925  | 20" x 10", unreinforced                                              | C-14L  | 45           | 2.133       |        | 189      | 112    | .62       | 301.62  | 375            |
+| 3930  | 20" x 10", reinforced                                                | C-14C  | 40           | 2.800       |        | 218      | 151    | .70       | 369.70  | 465            |
+| 3935  | 24" x 12", unreinforced                                              | C-14L  | 55           | 1.745       |        | 188      | 92     | .51       | 280.51  | 345            |
+| 3940  | 24" x 12", reinforced                                                | C-14C  | 48           | 2.333       |        | 217      | 126    | .58       | 343.58  | 425            |
+| 3945  | 36" x 12", unreinforced                                              | C-14L  | 70           | 1.371       |        | 181      | 72     | .40       | 253.40  | 305            |
+| 3950  | 36" x 12", reinforced                                                | C-14C  | 60           | 1.867       |        | 208      | 100    | .47       | 308.47  | 380            |
+| 4000  | Foundation mat (3000 psi), under 10 C.Y.                             |        | 38.67        | 2.896       |        | 315      | 156    | .72       | 471.72  | 580            |
+| 4200  | Wall, free-standing (3000 psi), 8" thick, 8' high                    | C-14D  | 45.83        | 4.364       |        | 244      | 244    | 17.05     | 505.05  | 650            |
+| 4250  | 14' high                                                             |        | 27.26        | 7.337       |        | 289      | 410    | 28.50     | 727.50  | 960            |
+| 4260  | 12" thick, 8' high                                                   |        | 64.32        | 3.109       |        | 221      | 174    | 12.15     | 407.15  | 515            |
+| 4270  | 14' high                                                             |        | 40.01        | 4.999       |        | 236      | 279    | 19.55     | 534.55  | 695            |
+| 4300  | 15" thick, 8' high                                                   |        | 80.02        | 2.499       |        | 214      | 140    | 9.75      | 363.75  | 455            |
+| 4350  | 12' high                                                             |        | 51.26        | 3.902       |        | 214      | 218    | 15.25     | 447.25  | 580            |
+| 4500  | 18' high                                                             |        | 48.85        | 4.094       |        | 241      | 229    | 16        | 486     | 625            |
+| 4520  | Handicap access ramp (4000 psi), railing both sides, 3' wide         | C-14H  | 14.58        | 3.292       | LF     | 435      | 181    | 1.91      | 617.91  | 750            |
+| 4525  | 5' wide                                                              |        | 12.22        | 3.928       |        | 450      | 216    | 2.28      | 668.28  | 820            |
+| 4530  | With 6" curb and rails both sides, 3' wide                           |        | 8.55         | 5.614       |        | 450      | 310    | 3.26      | 763.26  | 960            |
+| 4535  | 5' wide                                                              |        | 7.31         | 6.566       |        | 455      | 360    | 3.81      | 818.81  | 1,050          |
+| 4650  | Slab on grade (3500 psi), not including finish, 4" thick             | C-14E  | 60.75        | 1.449       | C.Y.   | 191      | 79.50  | .46       | 270.96  | 330            |
+| 4700  | 6" thick                                                             |        | 92.957       |             | "      | 183      | 52.50  | .31       | 235.81  | 280            |
+| 4701  | Thickened slab edge (3500 psi), for slab on grade poured             |        |              |             |        |          |        |           |         |                |
+| 4702  | monolithically with slab; depth is in addition to slab thickness;    |        |              |             |        |          |        |           |         |                |
+| 4703  | formed vertical outside edge, earthen bottom and inside slope        |        |              |             |        |          |        |           |         |                |
+| 4705  | 8" deep x 8" wide bottom, unreinforced                               | C-14L  | 2190         | .044        | LF     | 5.35     | 2.31   | .01       | 7.67    | 9.35           |
+| 4710  | 8" x 8", reinforced                                                  | C-14C  | 1670         | .067        |        | 8.80     | 3.61   | .02       | 12.43   | 15             |
+| 4715  | 12" deep x 12" wide bottom, unreinforced                             | C-14L  | 1800         | .053        |        | 10.85    | 2.81   | .02       | 13.68   | 16.15          |
+| 4720  | 12" x 12", reinforced                                                | C-140  | 1310         | .086        |        | 17.10    | 4.60   | .02       | 21.72   | 25.50          |
+| 4725  | 16" deep x 16" wide bottom, unreinforced                             | C-14L  | 1440         | .067        |        | 18.25    | 3.51   | .02       | 21.78   | 25             |
+| 4730  | 16" x 16", reinforced                                                | C-14C  | 1120         | .100        |        | 25.50    | 5.40   | .03       | 30.93   | 36.50          |
+| 4735  | 20" deep x 20" wide bottom, unreinforced                             | C-14L  | 1150         | .083        |        | 27.50    | 4.39   | .02       | 31.91   | 37             |
+| 4740  | 20" x 20", reinforced                                                | C-14C  | 920          | .122        |        | 375      | 6.55   | .03       | 43.58   | 51             |
+| 4745  | 24" deep x 24" wide bottom, unreinforced                             | C-14L  | 930          | .103        | LE     | 39       | 5.45   | .03       | 44.48   | 51             |
+| 4750  | 24" x 24", reinforced                                                | C-140  | 740          | .151        | "      | 51       | 8.151  | .04       | 59.19   | 68.50          |
+| 4751  | Slab on grade (3500 psi), incl. troweled finish, not incl. forms     |        |              |             |        |          |        |           |         |                |
+| 4760  | or reinforcing, over 10,000 S.F., 4" thick                           | C-14F  | 3425         | .021        | S.F.   | 2.09     | 1.07   | 5         | 3.17    | 3.880          |
+| 4820  | 6" thick                                                             |        | 3350         | .021        |        | 3.05     | 1.09   | .01       | 4.15    | 4.97           |
+| 4840  | 8" thick                                                             |        | 3184         | .023        |        | 4.17     | 1.15   | .51       | 5.33    | 6.30           |
+| 4900  | 12" thick                                                            |        | 2734         | .026        |        | 6.25     | 1.34   | .01       | 7.60    | 8.90           |
+| 4950  | 15" thick                                                            |        | 2505         | .029        |        | 7.85     | 1.46   | .01       | 9.32    | 19.80          |
+| 5000  | Slab on grade (3000 psi), incl. broom finish, not incl. forms        |        |              |             |        |          |        |           |         |                |
+| 5001  | or reinforcing, 4" thick                                             | C-146  | 2873         | .019        | S.F.   | 2.07     | .98    | .01       | 3.06    | 3.7225         |
+| 5010  | 6" thick                                                             |        | 2590         | .022        |        | 3.24     | 1.09   | .01       | 4.34    | 5.20           |
+| 5020  | 8" thick                                                             |        | 2320         | .024        |        | 4.23     | 1.21   | .01       | 5.45    | 6.45           |
+| 5200  | Lift slab in place above the foundation, incl. forms, reinforcing,   |        |              |             |        |          |        |           |         |                |
+| 5210  | concrete (4000 psi) and columns, over 20,000 S.F./floor              | C-14B  | 2113         | .098        | S.F.   | 9.25     | 5.55   | .37       | 15.17   | 118.75         |
+| 5250  | 10,000 S.F. to 20,000 S.F./floor                                     |        | 1650         | .126        |        | 10.05    | 7.10   | .47       | 17.62   |                |
+| 5300  | Under 10,000 S.F./floor                                              |        | 1500         | .139        |        | 10.80    | 7.80   | .52       | 19.12   | 24             |
+| 5500  | Lightweight, ready mix, including screed finish only,                |        |              |             |        |          |        |           |         |                |
+| 5510  | not including forms or reinforcing                                   |        |              |             |        |          |        |           |         |                |
+| 5550  | 1:4 (2500 psi) for structural roof decks                             | C-14B  | 260          | .800        | C.Y.   | 127      | 45     | 3.01      | 175.01  | 210            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182
+
+# Division Notes
+
+| ID | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|----|------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+|    |      |      |              |             |      |          |       |           |       |                |
+
+# 00291 Chemical Sampling, Chemical and Analysis
+
+## 02 91 10 Monitoring, Sampling, Testing and Analysis
+
+### 02 91 10.10 Monitoring, Chemical Sampling, Testing & Analysis
+
+| ID   | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0500 | Radioactivity gross alpha              |      |              |             | Ea.  |          | 149   |           | 149   | 164            |
+| 0510 | Gross alpha & beta                     |      |              |             | Ea.  |          | 149   |           | 149   | 164            |
+| 0520 | Radium 226                             |      |              |             |      |          | 100   |           | 100   | 110            |
+| 0530 | Radium 228                             |      |              |             |      |          | 118   |           | 118   | 130            |
+| 0540 | Radon                                  |      |              |             |      |          | 144   |           | 144   | 159            |
+| 0550 | Uranium                                |      |              |             |      |          | 130   |           | 130   | 143            |
+| 0600 | Volatile organics without GC / MS      |      |              |             |      |          | 151   |           | 151   | 166            |
+| 0610 | Volatile organics including GC / MS    |      |              |             |      |          | 315   |           | 315   | 345            |
+| 0630 | Synthetic organic compounds            |      |              |             |      |          | 1,025 |           | 1,025 | 1,125          |
+| 0640 | Herbicides                             |      |              |             |      |          | 204   |           | 204   | 224            |
+| 0650 | Pesticides                             |      |              |             |      |          | 145   |           | 145   | 160            |
+| 0660 | PCB's                                  |      |              |             |      |          | 156   |           | 156   | 172            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Estimating Concrete
+
+## EstimaTips Tips
+
+### General
+
+- Carefully check all the plans and specifications to ensure that all special accessory requirements have been included in the cost estimate, such as anchor bolts, inserts, and hangers.
+- Concrete often appears on drawings other than structural drawings, including mechanical and electrical drawings for equipment pads. The cost of cutting and patching is often difficult to estimate. See Subdivision 03 81 for Concrete Cutting, Subdivision 02 41 19.16 for Cutout Demolition, Subdivision 03 05 05.10 for Concrete Demolition, and Subdivision 02 41 19.19 for Rubbish Handling (handling, loading, and hauling of debris).
+- Always obtain concrete prices from suppliers near the job site. A volume discount can often be negotiated, depending upon competition in the area. Remember to add for waste, particularly for slabs and footings on grade.
+
+### 03 10 00 Concrete Forming and Accessories
+
+A primary cost for concrete construction is forming. Most jobs today are constructed with prefabricated forms. The selection of the forms best suited for the job and the total square feet of forms required for efficient concrete forming and placing are key elements in estimating concrete construction. Enough forms must be available for erection to make efficient use of the concrete placing equipment and crew. Concrete accessories for forming and placing depend upon the specifications.
+
+### 03 20 00 Concrete Reinforcing
+
+- Ascertain that the reinforcing steel supplier has included all accessories, cutting, bending, and an allowance for lapping, splicing, and waste. A good rule of thumb is 10% for lapping, splicing, and waste. Also, 10% waste should be allowed for welded wire fabric.
+- The unit price items in the subdivisions for Reinforcing In Place, Glass Fiber Reinforcing, and Welded Wire Fabric include the labor to install accessories such as beam and slab bolsters, high chairs, and bar ties and tie wire. The material cost for these accessories is not included; they may be obtained from the Accessories Subdivisions.
+
+### 03 30 00 Cast-In-Place Concrete
+
+- When estimating structural concrete, pay particular attention to requirements for concrete additives, curing methods, and surface treatments. Special consideration for climate, hot or cold, must be included in your estimate. Be sure to include requirements for concrete placing equipment and concrete finishing.
+- Included within costs for forms-in-place are all necessary bracing and shoring.
+- For faster estimating, Subdivision 03 30 53.40 for Concrete-In-Place can be used; here, various items of concrete work are presented that include the costs of all five major components (unless specifically stated otherwise).
+
+### 03 40 00 Precast Concrete
+
+The cost of hauling precast concrete structural members is often an important factor. For this reason, it is important to get a quote from the nearest supplier. It may become economically feasible to set up precasting beds on the site if the hauling costs are prohibitive.
+
+### 03 50 00 Cast Decks and Concrete Underlayment
+
+### Reference Numbers
+
+Reference numbers are shown at the beginning of some major classifications. These numbers refer to related items in the Reference Section. The reference information may be an estimating procedure, an alternate pricing method, or technical information.
+
+Note: Not all subdivisions listed here necessarily appear.
+
+---
+
+Same Data. Simplified.
+
+Enjoy the convenience and efficiency of accessing your costs anywhere:
+- Skip the multiplier by setting your location
+- Quickly search, edit, favorite and share costs
+- Stay on top of price changes with automatic updates
+
+Discover more at rsmeans.com/online
+
+No part of this cost data may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without prior written permission of Gordian.
+
+# Asbestos Abatement
+
+## 02 82 Asbestos Remediation Asbestos
+
+Asbestos Abatement  
+Daily Remediation 2 Bare Costs  
+Total
+
+### 02 82 13.41 Asbestos Abatement Equipment
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 1500 | Power panel, 20 unit, including GFI                                  |      |              |             | Ea.  | 565      |       |           | 565    | 620           |
+| 1600 | Shower unit, including pump and filters                              |      |              |             |      | 960      |       |           | 960    | 1,050         |
+| 1700 | Supplied air system (type C)                                         |      |              |             |      | 3,525    |       |           | 3,525  | 3,875         |
+| 1750 | Vacuum cleaner, HEPA, 16 gal., stainless steel, wet/dry              |      |              |             |      | 1,450    |       |           | 1,450  | 1,600         |
+| 1760 | 55 gallon                                                            |      |              |             |      | 1,550    |       |           | 1,550  | 1,700         |
+| 1800 | Vacuum loader, 9-18 ton/hr.                                          |      |              |             |      | 113,000  |       |           | 113,000| 124,000       |
+| 1900 | Water atomizer unit, including 55 gal. drum                          |      |              |             |      | 325      |       |           | 325    | 355           |
+| 2000 | Worker protection, whole body, foot, head cover & gloves, plastic    |      |              |             |      | 10.50    |       |           | 10.50  | 11.55         |
+| 2500 | Respirator, single use                                               |      |              |             |      | 28       |       |           | 28     | 30.50         |
+| 2550 | Cartridge for respirator                                             |      |              |             |      | 4.24     |       |           | 4.24   | 4.66          |
+| 2570 | Glove bag, 7 mil, 50" x 64"                                          |      |              |             |      | 11.90    |       |           | 11.90  | 13.05         |
+| 2580 | 10 mil, 44" x 60"                                                    |      |              |             |      | 9.15     |       |           | 9.15   | 10.10         |
+| 2590 | 6 mil, 44" x 60"                                                     |      |              |             |      | 5.60     |       |           | 5.60   | 6.20          |
+| 6000 | Disposable polyethylene bags, 6 mil, 3 C.F.                          |      |              |             |      | 1.20     |       |           | 1.20   | 1.32          |
+| 6300 | Disposable fiber drums, 3 C.F.                                       |      |              |             |      | 220      |       |           | 220    | 22            |
+| 6400 | Pressure sensitive caution labels, 3" x 5"                           |      |              |             |      | 3.57     |       |           | 3.57   | 3.93          |
+| 6450 | 11" x 17"                                                            |      |              |             |      | 13.10    |       |           | 13.10  | 914.40        |
+| 6500 | Negative air machine, 1800 CFM                                       |      |              |             |      | 900      |       |           | 900    | 990           |
+
+---
+
+### 02 82 13.42 Preparation of Asbestos Containment Area
+
+| ID    | Name                                                                                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|---------------|
+| 0010  | PREPARATION OF ASBESTOS CONTAINMENT AREA                                                              |       |              |             |      |          |       |           |       |               |
+| 0100  | Pre-cleaning, HEPA vacuum and wet wipe, flat surfaces                                                  | A-9   | 12000        | .005        | S.F. | .00      | .34   |           | .36   | .53            |
+| 0200  | Protect carpeted area, 2 layers 6 mil poly on 3/4" plywood                                             | "     | 1000         | .064        |      | 2.67     | 4.04  |           | 6.71  | 9.15           |
+| 0300  | Separation barrier, 2" x 4" @ 16", 1/2" plywood ea. side, 8' high                                      | 2 Carp| 400          | .040        |      | 3.48     | 2.25  |           | 5.73  | 7.15           |
+| 0310  | 12' high                                                                                               |       | 320          | .050        |      | 3.39     | 2.82  |           | 6.21  | 7.90           |
+| 0320  | 16' high                                                                                               |       | 200          | .080        |      | 3.35     | 4.50  |           | 7.85  | 10.40          |
+| 0400  | Personnel decontam. chamber, 2" x 4" @ 16", 3/4" ply ea. side                                          |       | 280          | .057        |      | 3.76     | 3.22  |           | 6.98  | 8.95           |
+| 0450  | Waste decontam. chamber, 2" x 4" studs @ 16", 3/4" ply ea. side                                        |       | 360          | .044        |      | 3.76     | 2.50  |           | 6.26  | 7.85           |
+| 0500  | Cover surfaces with polyethylene sheeting                                                              |       |              |             |      |          |       |           |       |                |
+| 0501  | Including glue and tape                                                                                |       |              |             |      |          |       |           |       |                |
+| 0550  | Floors, each layer, 6 mil                                                                              | A-9   | 8000         | .008        | S.F. | 2525     | .50   |           | .56   | .84            |
+| 0551  | 4 mil                                                                                                  |       | 9000         | .007        |      | .05      | .45   |           | .50   | .74            |
+| 0560  | Walls, each layer, 6 mil                                                                               |       | 6000         | .011        |      | .06      | .67   |           | .73   | 1.10           |
+| 0561  | 4 mil                                                                                                  | +     | 7000         | .009        |      | .05      | .58   |           | .63   | .93            |
+| 0570  | For heights above 14', add                                                                             |       |              |             |      |          | 20%   |           |       |                |
+| 0575  | For heights above 20', add                                                                             |       |              |             |      |          | 30%   |           |       |                |
+| 0580  | For fire retardant poly, add                                                                           |       |              |             |      | 100%     |       |           |       |                |
+| 0590  | For large open areas, deduct                                                                           |       |              |             |      | 10%      | 20%   |           |       |                |
+| 0600  | Seal floor penetrations with foam firestop to 36 sq. in.                                               | 2 Carp| 200          | .080        | Ea.  | 16.05    | 4.50  |           | 20.55 | 24.502         |
+| 0610  | 36 sq. in. to 72 sq. in.                                                                               |       | 125          | .128        |      | 32       | 7.20  |           | 39.20 | 46.50          |
+| 0615  | 72 sq. in. to 144 sq. in.                                                                              |       | 80           | .200        |      | 64       | 11.25 |           | 75.25 | 87.50          |
+| 0620  | Wall penetrations, to 36 sq. in.                                                                       |       | 180          | .089        |      | 16.05    | 525   |           | 21.05 | 25              |
+| 0630  | 36 sq. in. to 72 sq. in.                                                                               |       | 100          | .160        |      | 32       |       |           | 41    | 49             |
+| 0640  | 72 sq. in. to 144 sq. in.                                                                              |       | 60           | .267        |      | 64       | 15    |           | 79    | 93             |
+| 0800  | Caulk seams with latex                                                                                 | 1 Carp| 230          | .035        | LF.  | .18      | 1.96  |           | 2.14  | 3.11           |
+| 0900  | Set up neg. air machine, 1-2k CFM / 25 M.C.F. volume                                                   | 1 Asbe| 4.30         | 1.860       | Ea.  |          | 117   |           | 117   | 179            |
+| 0950  | Set up and remove portable shower unit                                                                 | 2 Asbe| 4            | 4           |      |          | 252   |           | 252   | 385            |
+
+---
+
+### 02 82 13.43 Bulk Asbestos Removal
+
+| ID    | Name                                                                                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|---------------|
+| 0010  | BULK ASBESTOS REMOVAL                                                                                  |       |              |             |      |          |       |           |       |               |
+| 0020  | Includes disposable tools and 2 suits and 1 respirator filte/ day / worker                             |       |              |             |      |          |       |           |       |               |
+| 0100  | Beams, W 10 x 19                                                                                       | A-9   | 235          | .272        | LF.  | .86      | 17.20 |           | 18.06 | 27.50          |
+| 0110  | W 12 x 22                                                                                              |       | 210          | .305        |      | .96      | 19.25 |           | 20.21 | 30.50          |
+| 0120  | W 14 x 26                                                                                              |       | 180          | .356        | i    | 1.12     | 22.50 |           | 23.62 | 35.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 87 Bioh87ard RemediaBiohazard7 13 - Mold Remediation
+
+## DailyRemediation87 13.16 Mold Remediation Preparation and Containment
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0060  | Tape sample                                                          |        |              |             |        |          |        |           | 125     | 140            |
+| 0070  | Post remediation air test                                            |        |              |             |        |          |        |           | 126     | 139            |
+| 0080  | Mold abatement plan, area to 2,500 S.F.                              |        |              |             |        |          |        |           | 1,225   | 1,325          |
+| 0090  | Areas to 5,000 S.F.                                                  |        |              |             |        |          |        |           | 1,625   | 1,775          |
+| 0095  | Areas to 10,000 S.F.                                                 |        |              |             |        |          |        |           | 2,550   | 2,800          |
+| 0100  | Packup & removal of contents, average 3 bedroom home, excl. storage  |        |              |             |        |          |        |           | 8,150   | 8,975          |
+| 0110  | Average 5 bedroom home, excl. storage                                |        |              |             |        |          |        |           | 15,300  | 16,800         |
+| 0600  | For demolition in mold contaminated areas, see Section 02 87 13.33   |        |              |             |        |          |        |           |         |                |
+| 0610  | For personal protection equipment, see Section 02 82 13.41           |        |              |             |        |          |        |           |         |                |
+| 6010  | Preparation of mold containment area                                 |        |              |             |        |          |        |           |         |                |
+| 6100  | Pre-cleaning, HEPA vacuum and wet wipe, flat surfaces                | A-9    | 12000        | .005        | S.F.   | .02      | .34    |           | .36     | .53            |
+| 6300  | Separation barrier, 2" x 4" @ 16", 1/2" plywood ea. side, 8' high    | 2 Carp | 400          | .040        |        | 5.20     | 2.25   |           | 7.45    | 9535           |
+| 6310  | 12' high                                                             |        | 320          | .050        |        | 6.15     | .2.82  |           | 8.97    | 11             |
+| 6320  | 16' high                                                             |        | 200          | .080        |        | 2.54     | 4.50   |           | 7.04    | 9.50           |
+| 6400  | Personnel decontam. chamber, 2" x 4" @ 16", 3/4" ply ea. side        |        | 280          | .057        |        | 5.15     | 3.22   |           | 8.37    | 10.50          |
+| 6450  | Waste decontam. chamber, 2" x 4" studs @ 16", 3/4" ply each side     |        | 360          | .044        |        | 20.50    | 2.50   |           | 223     | 26.50          |
+| 6500  | Cover surfaces with polyethylene sheeting                            |        |              |             |        |          |        |           |         |                |
+| 6501  | Including glue and tape                                              |        |              |             |        |          |        |           |         |                |
+| 6550  | Floors, each layer, 6 mil                                            | A 9    | 8000         | .008        | S.F.   | .06      | 3448   |           | .5236   | .84            |
+| 6551  | 4 mil                                                               |        | 9000         | .007        |        | .05      | .45    |           | .50     | .74            |
+| 6560  | Walls, each layer, 6 mil                                             |        | 6000         | .011        |        | .06      | .67    |           | .73     | 1.10           |
+| 6561  | 4 mil                                                               |        | 7000         | .009        |        | .05      | .58    |           | .63     | .93            |
+| 6570  | For heights above 14', add                                           |        |              |             |        |          | 20 %   |           |         |                |
+| 6575  | For heights above 20', add                                           |        |              |             |        |          | 30 %   |           |         |                |
+| 6580  | For fireretardant poly, add                                          |        |              |             |        | 100 %    |        |           |         |                |
+| 6590  | For large open areas, deduct                                         |        |              |             |        | 10 %     | 20 %   |           |         |                |
+| 6600  | Seal floor penetrations with foam firestop to 36 sq. in.             | 2 Carp | 200          | .080        | Ea.    | 16.05    | 4.50   |           | 20.55   | 24.50          |
+| 6610  | 36 sq. in. to 72 sq. in.                                             |        | 125          | .128        |        | 32       | 7.20   |           | 39.20   | 46.50          |
+| 6615  | 72 sq. in. to 144 sq. in.                                            |        | 80           | .200        |        | 64       | 11.25  |           | 75.25   | 87.50          |
+| 6620  | Wall penetrations, to 36 sq. in.                                     |        | 180          | .089        |        | 16.05    | 565    |           | 21.05   | 25             |
+| 6630  | 36 sq. in. to 72 sq. in.                                             |        | 100          | .160        |        | 32       |        |           | 41      | 49             |
+| 6640  | 72 sq. in. to 144 sq. in.                                            |        | 60           | .267        |        | 64       | 15     |           | 79      | 93             |
+| 6800  | Caulk seams with latex caulk                                         | 1 Carp | 230          | .035        | L.F.   | .18      | 1.96   |           | 2.14    | 3.11           |
+| 6900  | Set up neg. air machine, 1-2k CFM / 25 M.C.F. volume                 | 1 Asbe | 4.30         | 1.860       | Ea.    |          | 117    |           | 117     | 179            |
+
+---
+
+## 02 87 13.33 Removal and Disposal of Materials With Mold
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | REMOVAL AND DISPOSAL OF MATERIALS WITH MOLD                          |        |              |             |        |          |        |           |         |                |
+| 0015  | Demolition in mold contaminated area                                 |        |              |             |        |          |        |           |         |                |
+| 0200  | Ceiling, including suspension system, plaster and lath               | A 9    | 2100         | .030        | S.F.   | .10      | 1.92   |           | 2.02    | 3.05           |
+| 0210  | Finished plaster, leaving wire lath                                  |        | 585          | .109        |        | .35      | 6.90   |           | 7.25    | 10.95          |
+| 0220  | Suspended acoustical tile                                            |        | 3500         | .018        |        | .06      | 1.15   |           | 1.21    | 1.83           |
+| 0230  | Concealed tilegrid system                                            |        | 3000         | .021        |        | .07      | 1.35   |           | 1.42    | 2.13           |
+| 0240  | Metal pan grid system                                                | A 9    | 1500         | .043        | S.F.   | .13      | 2.69   |           | 2.82    | 4.27           |
+| 0250  | Gypsum board                                                        |        | 2500         | .026        |        | .08      | 1.62   |           | 1.70    | 2.56           |
+| 0255  | Plywood                                                              |        | 2500         | .026        |        | .08      | 1.62   |           | 1.70    | 2.56           |
+| 0260  | Lighting fixtures up to 2' x 4'                                     |        | 72           | .889        | Ea.    | 2.81     | 56     |           | 58.81   | 89             |
+| 0400  | Partitions, non load bearing                                        |        |              |             |        |          |        |           |         |                |
+| 0410  | Plaster, lath, and studs                                            | A-9    | 690          | .093        | S.F.   | 355222   | 5.85   |           | 6.58    | 9.75           |
+| 0450  | Gypsum board and studs                                              |        | 1390         | .046        |        | .15      | 2.91   |           | 3.06    | 4.61           |
+| 0465  | Carpet & pad                                                        |        | 1390         | .046        | P      | .15      | 2.91   |           | 3.06    | 4.61           |
+| 0600  | Pipe insulation, air cell type, up to 4" diameter pipe              |        | 900          | .071        | L.F.   |          | 4.49   |           | 4.71    | 7.10           |
+| 0610  | 4" to 8" diameter pipe                                              |        | 800          | .080        |        |          | 5.05   |           | 5.30    | 8              |
+| 0620  | 10" to 12" diameter pipe                                            |        | 700          | .091        |        | .29      | 5.75   |           | 6.04    | 9.15           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02027 Biohazard87emediation
+
+0Biohazard Bio-Hazard and Infectious DiRemediationol Remediation  
+02 87 19.30 Infectious Control Equipment and Supplies
+
+---
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|-----------|----------------|
+| 0205 | 5' x 10'                                                             | 2 Skwk | 24           | .667        | Ea.    | 2,500    | 39.50  |           | 2,539.50  | 2,800          |
+| 0210 | 10' x 10'                                                            |        | 24           | .667        |        | 3,125    | 39.50  |           | 3,164.50  | 3,475          |
+| 0220 | 13' x 26'                                                            |        | 12           | 1.333       |        | 9,350    | 78.50  |           | 9,428.50  | 10,400         |
+| 0230 | 13' x 26', flat roof infirmary                                       |        | 12           | 1.333       |        | 7,600    | 78.50  |           | 7,678.50  | 8,475          |
+| 0240 | 13' x 26', drive through screening                                   |        | 12           | 1.333       |        | 8,800    | 78.50  |           | 8,878.50  | 9,800          |
+| 0242 | LED light kit for tents, 15 watt                                     | 1 Elec | 48           | 167         |        | 199      | 11.05  |           | 210.05    | 235            |
+| 0244 | Halogen heating kit, 1500 watt                                       | 1      | 48           | .167        |        | 500      | 11.05  |           | 511.05    | 565            |
+| 0250 | Medical partition system, including frame, drapes, 5' x 5'           | 2 Skwk | 48           | .333        |        | 1,300    | 19.65  |           | 1,319.65  | 1,450          |
+
+---
+
+02 87 19.40 Infectious Control Cleaning, Includes Ppe  
+0010 INFECTIOUS CONTROL CLEANING, Includes PPE
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|-----------|----------------|
+| 0100 | Infectious control cleaning, including PPE and antimicrobial spray, floors | 1 Skwk | 3600         | .002        | S.F.   | .338     | .13    |           | 1767      | .23            |
+| 0110 | Walls                                                                |        | 3000         | .003        |        | .03      | .16    |           | .19       | .27            |
+| 0120 | Ceilings                                                             |        | 2700         | .003        |        | .03      | .17    |           | .20       | .29            |
+| 0130 | Countertops                                                          |        | 3300         | .002        |        | .03      | .14    |           | .17       | .24            |
+| 0140 | Other surfaces                                                       | 11 Skwk| 2600         | .003        | S.F.   | .03      | .18    |           | .211      | .30            |
+| 0150 | Plumbing fixtures                                                    |        | 14           | .571        | Ea.    | 2.31     | 33.50  |           | 35.81     | 53             |
+| 0160 | Bathroom accessories                                                 |        | 30           | .267        |        | 1.06     | 15.70  |           | 16.76     | 24.50          |
+| 0170 | Kitchen appliance                                                    |        | 9            | .889        |        | 3.88     | 52.50  |           | 56.38     | 83             |
+| 0180 | Electrical switches and receptacles                                  |        | 140          | .057        |        | 23       | 3.37   |           | 3.60      | 5.30           |
+| 0190 | Work station                                                         |        | 9            | .889        |        | 4.08     | 52.50  |           | 56.58     | 83             |
+| 0200 | Door and window hardware                                             |        | 88           | .091        |        | .36      | 5.35   |           | 5.71      | 8.45           |
+| 0250 | Supply / return ductwork, up to 2 S.F. cross section                 |        | 240          | .033        | LF     | .24      | 1.96   |           | 2.20      | 3.22           |
+| 0260 | 2 to 4 S.F. cross section                                            |        | 192          | .042        |        | .35      | 2.45   |           | 2.80      | 4.08           |
+| 0270 | 4 to 8 S.F. cross section                                            |        | 144          | .056        |        | .44      | 3.27   |           | 3.71      | 5.40           |
+| 0280 | 8 SF cross section                                                   |        | 102          | .078        |        | .67      | 4.62   |           | 5.29      | 7.70           |
+| 0300 | Duct coil                                                            |        | 5            | 1.600       | Ea.    | 6.70     | 94     |           | 100.70    | 149            |
+| 0310 | Duct damper and vane set                                             |        | 77           | .104        |        | .78      | 6.10   |           | 6.88      | 10.05          |
+| 0320 | Fan coilunit or VAV box                                              |        | 8            | 1           |        | 4.09     | 59     |           | 63.09     | 93             |
+| 0330 | Air handling unit and coil                                           |        | 2            | 4           |        | 16.35    | 236    |           | 252.35    | 375            |
+| 0340 | Grill / diffuser or register                                         |        | 32           | .250        |        | 1.16     | 14.75  |           | 15.91     | 23.50          |
+
+---
+
+02 91 Chemical Sampling, Testing and Analysis  
+02 91 10 - Monitoring, Sampling, Testing and Analysis  
+02 91 10.10 Monitoring, Chem. Sampling, Testing & Analysis  
+0010 MONITORING, CHEMICAL SAMPLING, TESTING AND ANALYSIS  
+0015 Field sampling of waste
+
+| ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|-------|-------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|-----------|----------------|
+| 0100  | Field samples, sample collection, sludge                    | 1 Skwk | 32           | .250        | Ea.    |          | 14.75  |           | 14.75     | 2222           |
+| 0110  | Contaminated soils                                          |        | 32           | .250        |        |          | 14.75  |           | 14.75     |                |
+| 0200  | Vials and bottles                                           |        |              |             |        |          |        |           |           |                |
+| 0210  | 32 oz. clear wide mouth jar (case of 12)                    |        |              |             | Ea.    | 16.80    |        |           | 16.80     | 18.50           |
+| 0220  | 32 oz. Boston round bottle (case of 12)                     |        |              |             |        | 37.50    |        |           | 37.50     | 41              |
+| 0230  | 32 oz. HDPE bottle (case of 12)                             |        |              |             |        | 28.50    |        |           | 28.50     | 31.50           |
+| 0300  | Laboratory analytical services                              |        |              |             |        |          |        |           |           |                |
+| 0310  | Laboratory testing 13 metals                                |        |              |             | Ea.    | 207      |        |           | 207       | 228             |
+| 0312  | 13 metals + mercury                                         |        |              |             |        | 210      |        |           | 210       | 231             |
+| 0314  | 8 metals                                                    |        |              |             |        | 154      |        |           | 154       | 169             |
+| 0316  | Mercury only                                                |        |              |             |        | 56.50    |        |           | 56.50     | 62.50           |
+| 0318  | Single metal (only Cs, L, Sr, Ta)                           |        |              |             |        | 44.50    |        |           | 44.50     | 49              |
+| 0320  | Single metal (excludes Hg, Cs, L, Sr, Ta)                   |        |              |             |        | 44.50    |        |           | 44.50     | 49              |
+| 0400  | Hydrocarbons standard                                       |        |              |             |        | 177      |        |           | 177       | 195             |
+| 0410  | Hydrocarbons fingerprint                                    |        |              |             |        | 248      |        |           | 248       | 273             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 01 30 - Maintenance of Cast-In-Place Concrete  
+## Concrete Patching
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03 01 30.62 | Concrete Patching                                               |        |              |             |      |          |       |           |       |                |
+| 0010  | CONCRETE PATCHING                                                    |        |              |             |      |          |       |           |       |                |
+| 0100  | Floors, 1/4" thick, small areas, regular grout                       | 1 Cefi | 100          | .047        | S.F. | 1.34     | 2.50  |           | 3.84  | 5.15           |
+| 0150  | Epoxy grout                                                          |        | 100          | .080        | "    | 11.60    | 4.25  |           | 15.85 | 18.95          |
+| 2000  | Walls, including chipping, cleaning and epoxy grout                  |        |              |             |      |          |       |           |       |                |
+| 2100  | 1/4" deep                                                            | 1 Cefi | 65           | 123         | S.F. | 4.55     | 6.55  |           | 11.10 | 14.55          |
+| 2150  | 1/2" deep                                                            |        | 50           | .160        |      | 9.10     | 8.50  |           | 17.60 | 22.50          |
+| 2200  | 3/4" deep                                                            |        | 40           | .200        |      | 13.65    | 10.65 |           | 24.30 | 30.50          |
+
+---
+
+## 03 05 05 - Selective Demolition for Concrete
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03 05 05.10 | Selective Demolition, Concrete                                 |        |              |             |      |          |       |           |       |                |
+| 0010  | SELECTIVE DEMOLITION, CONCRETE                                       | R024119-10 |            |             |      |          |       |           |       |                |
+| 0012  | Excludes saw cutting, torch cutting, loading or hauling              |        |              |             |      |          |       |           |       |                |
+| 0050  | Break into small pieces, reinf. less than 1% of cross sectional area | B 9    | 24           | 1.667       | C.Y. |          | 76.50 | 13.85     | 90.35 | 129            |
+| 0060  | Reinforcing 1% to 2% of cross-sectional area                         |        | 16           | 2.500       |      |          | 115   | 21        | 136   | 194            |
+| 0070  | Reinforcing more than 2% of cross-sectional area                     |        | 8            | 5           |      |          | 230   | 41.50     | 271.50| 385            |
+| 0150  | Remove whole pieces, up to 2 tons per piece                          | E-18   | 36           | 1.111       | Ea.  |          | 69    | 22.50     | 91.50 | 130            |
+| 0160  | 2-5 tons per piece                                                   |        | 30           | 1.333       |      |          | 82.50 | 27        | 109.50| 156            |
+| 0170  | 5-10 tons per piece                                                  |        | 24           | 1.667       |      |          | 103   | 34        | 137   | 196            |
+| 0180  | 10-15 tons per piece                                                 |        | 18           | 2.222       |      |          | 138   | 45.50     | 183.50| 261            |
+| 0250  | Precast unit embedded in masonry, up to 1 C.F                        | D-1    | 16           | 1           |      |          | 50    |           | 50    | 75.50          |
+| 0260  | 1-2 C.F.                                                             |        | 12           | 1.333       |      |          | 67    |           | 67    | 100            |
+| 0270  | 2-5 C.F.                                                             |        | 10           | 1.600       |      |          | 80    |           | 80    | 120            |
+| 0280  | 5-10 C.F.                                                            |        | 8            | 2           |      |          | 100   |           | 100   | 151            |
+| 0990  | For hydrodemolition see Section 02 41 13.15                          |        |              |             |      |          |       |           |       |                |
+
+---
+
+## 03 05 13 - Basic Concrete Materials
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03 05 13.20 | Concrete Admixtures and Surface Treatments                     |        |              |             |      |          |       |           |       |                |
+| 0010  | CONCRETE ADMIXTURES AND SURFACE TREATMENTS                           |        |              |             |      |          |       |           |       |                |
+| 0040  | Abrasives, aluminum oxide, over 20 tons                              |        |              |             | Lb.  | 1.47     |       |           | 1.47  | 1.62           |
+| 0050  | 1 to 20 tons                                                         |        |              |             |      | 1.53     |       |           | 1.53  | 1.68           |
+| 0070  | Under 1 ton                                                          |        |              |             |      | 1.59     |       |           | 1.59  | 1.75           |
+| 0100  | Silicon carbide, black, over 20 tons                                 |        |              |             |      | 2.27     |       |           | 2.27  | 2.50           |
+| 0110  | 1 to 20 tons                                                         |        |              |             |      | 2.36     |       |           | 2.36  | 2.60           |
+| 0120  | Under 1 ton                                                          |        |              |             |      | 2.45     |       |           | 2.45  | 2.70           |
+| 0200  | Air entraining agent, .7 to 1.5 oz. per bag, 55 gallon drum          |        |              |             | Gol. | 17.70    |       |           | 17.70 | 19.45          |
+| 0220  | 5 gallon pail                                                        |        |              |             |      | 32       |       |           | 32    | 35.50          |
+| 0300  | Bonding agent, acrylic latex, 250 S.F./gallon, 5 gallon pail         |        |              |             | Ea.  | 27       |       |           | 27    | 29.50          |
+| 0320  | Epoxy resin, 80 S.F./gallon, 4 gallon case                           |        |              |             |      | 66       |       |           | 66    | 72.50          |
+| 0400  | Calcium chloride, 50 lb. bags, T.L.lots                              |        |              |             | Ton  | 950      |       |           | 950   | 1,050          |
+| 0420  | Less than truckload lots                                             |        |              |             | Bag  | 19.95    |       |           | 19.95 | 22             |
+| 0500  | Carbon black, liquid, 2 to 8 lb. per bag of cement                   |        |              |             | Lb.  | 11.50    |       |           | 11.50 | 12.65          |
+| 0600  | Concrete admixture, integral colors, dry pigment, 5 lb. bag          |        |              |             | Ea.  | 29.50    |       |           | 29.50 | 32.50          |
+| 0610  | 10 lb. bag                                                           |        |              |             |      | 51.50    |       |           | 51.50 | 57             |
+| 0620  | 25 lb. bag                                                           |        |              |             |      | 80       |       |           | 880   | 88             |
+| 0920  | Dustproofing compound, 250 S.F./gal., 5 gallon pail                  |        |              |             | Gal. | 11.40    |       |           | 11.40 | 12.55          |
+| 1010  | Epoxy based, 125 S.F./gal, 5 gallon pail                             |        |              |             | "    | 30.50    |       |           | 30.50 | 33.50          |
+| 1100  | Hardeners, metallic, 55 lb. bags, natural (grey)                     |        |              |             | Lb.  | 1.66     |       |           | 1.66  | 1.82           |
+| 1200  | Colors                                                               |        |              |             |      | 1.42     |       |           | 1.42  | 1.57           |
+| 1300  | Non-metallic, 55 lb. bags, natural grey                              |        |              |             |      | .37      |       |           | .37   | .41            |
+| 1320  | Colors                                                               |        |              |             |      | 1.06     |       |           | 1.06  | 1.16           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 83 Lead Remediation
+
+## 02 Lead9 - Lead-Based Remediation
+
+### 02 83 19.26 Removal of Lead-Based Paint
+
+#### Daily Labor-Crew Output Hours Unit Material 2022 Bare Costs Total Labor Equipment Total Incl O&P
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|---------|----------|---------|-----------|---------|----------------|
+| 0010  | REMOVAL OF LEAD-BASED PAINT                                          | R028319-60 |              |             |         |          |         |           |         |                |
+| 0011  | By chemicals, per application                                        |         |              |             |         |          |         |           |         |                |
+| 0050  | Baseboard, to 6" wide                                                | 1 Pord  | 64           | .125        | LF      | *        | .85     | 6         | 6.85    | 9.80           |
+| 0070  | To 12" wide                                                          |         | 32           | .250        | "       | 1.53     | 11.95   |           | 13.48   | 19.40          |
+| 0200  | Balustrades, one side                                                |         | 28           | .286        | S.F     | 1.49     | 13.65   |           | 15.14   | 21.50          |
+| 1400  | Cabinets, simple design                                              |         | 32           | .250        |         | 1.41     | 11.95   |           | 13.36   | 19.25          |
+| 1420  | Ornate design                                                        |         | 25           | .320        |         | 1.70     | 15.30   |           | 17      | 24.50          |
+| 1600  | Cornice, simple design                                               |         | 60           | .133        |         | 1.57     | 6.35    |           | 7.92    | 11.20          |
+| 1620  | Ornate design                                                        |         | 20           | .400        |         | 5.50     | 19.10   |           | 24.60   | 34.50          |
+| 2800  | Doors, one side, flush                                               |         | 84           | .095        |         | 1.58     | 4.55    |           | 6.13    | 8.50           |
+| 2820  | Two panel                                                            |         | 80           | .100        |         | 1.37     | 4.78    |           | 6.15    | 8.60           |
+| 2840  | Four panel                                                           |         | 45           | .178        |         | 1.40     | 8.50    |           | 9.90    | 14.15          |
+| 2880  | For trim, one side, add                                              |         | 64           | .125        | L.F.    | .81      | 6       |           | 6.81    | 9.75           |
+| 3000  | Fence, picket, one side                                              |         | 30           | 267         | S.F.    | 1.37     | 12.75   |           | 14.12   | 20.50          |
+| 3200  | Grilles, one side, simple design                                     |         | 30           | .267        |         | 1.37     | 12.75   |           | 14.12   | 20.50          |
+| 3220  | Ornate design                                                        |         | 25           | .320        |         | 1.46     | 15.30   |           | 16.76   | 24             |
+| 3240  | Handrails                                                            | 1 Pord  | 90           | .089        | LF.     | 1.37     | 4.25    |           | 5.62    | 7.80           |
+| 4400  | Pipes, to 4" diameter                                                |         | 90           | .089        |         | 1.58     | 4.25    |           | 5.83    | 8.05           |
+| 4420  | To 8" diameter                                                       |         | 50           | .160        |         | 3.16     | 7.65    |           | 10.81   | 14.85          |
+| 4440  | To 12" diameter                                                      |         | 36           | .222        |         | 4.74     | 10.60   |           | 15.34   | 21             |
+| 4460  | To 16" diameter                                                      | 1       | 20           | .400        |         | 6.30     | 19.10   |           | 25.40   | 35.50          |
+| 4500  | For hangers, add                                                     |         | 40           | .200        | Ea.     | 2.52     | 9.55    |           | 12.07   | 16.90          |
+| 4800  | Siding                                                               |         | 90           | 1.089       | S.F.    | 1.37     | 4.25    |           | 5.62    | 7.80           |
+| 5000  | Trusses, open                                                        |         | 55           | .145        | SF Face | 2.11     | 6.95    |           | 9.06    | 12.60          |
+| 6200  | Windows, one side only, double-hung, 1/1 light, 24" x 48" high       |         | 4            | 2           | Eo.     | 27.50    | 95.50   |           | 123     | 173            |
+| 6220  | 30" x 60" high                                                       | 35225   | 2.667        |             |         | 34.50    | 127     |           | 161.50  | 227            |
+| 6240  | 36" x 72" high                                                       | 2.50    | 3.200        |             |         | 39.50    | 153     |           | 192.50  | 270            |
+| 6280  | 40" x 80" high                                                       |         | 44           |             |         | 52       | 191     |           | 243     | 340            |
+| 6400  | Colonial window, 6/6 light, 24" x 48" high                           |         |              |             |         | 55       | 191     |           | 246     | 345            |
+| 6420  | 30" x 60" high                                                       | 1.50    | 5.333        |             |         | 69       | 255     |           | 324     | 455            |
+| 6440  | 36" x 72" high                                                       |         | 8            |             |         | 96.50    | 380     |           | 476.50  | 670            |
+| 6480  | 40" x 80" high                                                       |         | 8            |             |         | 96.50    | 380     |           | 476.50  | 670            |
+| 6600  | 8/8 light, 24" x 48" high                                            | 2       | 4            |             |         | 50       | 191     |           | 241     | 340            |
+| 6620  | 40" x 80" high                                                       |         | 88           |             |         | 96.50    | 380     |           | 476.50  | 670            |
+| 6800  | 12/12 light, 24" x 48" high                                          | 1       | 8            |             |         | 96.50    | 380     |           | 476.50  | 670            |
+| 6820  | 40" x 80" high                                                       | .75     | 10.667       |             |         | 138      | 510     |           | 648     | 905            |
+| 6840  | Window frame & trim items, included in pricing above                 |         |              |             |         |          |         |           |         |                |
+| 7000  | Hand scraping and HEPA vacuum, less than 4 S.F.                      | 1 Pord  | 8            | 1           | Ea.     | 1.20     | 48      |           | 49.20   | 72.50          |
+| 8000  | Collect and bag bulk material, 3 C.F. bags, by hand                  | "       | 30.267       |             | "       | 1.20     | 12.75   |           | 13.95   | 20             |
+
+---
+
+# 02.87 Biohazard Remediation
+
+## 02 87 13 Mold Remediation
+
+### 02 87 13.16 Mold Remediation Preparation and Containment
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | MOLD REMEDIATION PREPARATION AND CONTAINMENT              |      |              |             |      |          |       |           |       |                |
+| 0015  | Mold remediation plans and methods                        |      |              |             |      |          |       |           |       |                |
+| 0020  | Initial inspection, areas to 2,500 S.F.                   |      |              |             |      |          |       |           | 268   | 295            |
+| 0030  | Areas to 5,000 S.F.                                       |      |              |             |      |          |       |           | 440   | 485            |
+| 0032  | Areas to 10,000 S.F.                                      |      |              |             |      |          |       |           | 440   | 485            |
+| 0040  | Testing, air sample each                                  |      |              |             |      |          |       |           | 126   | 139            |
+| 0050  | Swab sample                                               |      |              |             |      |          |       |           | 115   | 127            |
+|       |                                                          |      |              |             |      |          |       |           |       | 445            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00287 Biohaza87 RemediationBiohazard
+
+## Mold Remediation
+
+### 02 87 13.3 Remediation and Disposal of Materials With Mold
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0630 | 14" to 16" diameter pipe                                  | A-9    | 550          | .116        | LF   | 337      | 7.35  |           | 7.72  | 11.65          |
+| 0650 | Over 16" diameter pipe                                    | 4      | 650          | .098        | S.F. | .31      | 6.20  |           | 6.51  | 9.85           |
+| 9000 | For type B (supplied air) respirator equipment, add       |        |              |             |      |          |       |           | 10%   | 10%            |
+
+---
+
+### 02 87 19 · Bio-Hazard and Infectious Disease Control Remediation
+
+#### 02 87 19.10 Temporary Barriers, Including PPE
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | TEMPORARY BARRIERS, including PPE                         |        |              |             |      |          |       |           |         |                |
+| 0100 | Infectious control partition, adjustable to 10' high, obscured, 4' panel | 2 Carp | 75           | .213        | Ea.  | 580      | 222   |           | 592     | 660            |
+| 0110 | 3' panel                                                  |        | 75           | .213        |      | 550      | 12    |           | 562     | 625            |
+| 0120 | 2' panel                                                  |        | 75           | .213        |      | 430      | 12    |           | 442     | 495            |
+| 0130 | 1' panel                                                  | 11 Carp| 75           | 1.107       |      | 285      | 6     |           | 291     | 325            |
+| 0140 | 6" panel                                                  |        | 175          | .107        |      | 265      | 6     |           | 271     | 300            |
+| 0150 | 2' panel with HEPA filtered discharge port                | 2 Carp | 75           | .213        |      | 500      | 12    |           | 512     | 570            |
+| 0160 | 3' panel with 32" door                                    |        | 75           | .213        |      | 895      | 11223 |           | 907     | 1,000          |
+| 0170 | 4' panel with 36" door                                    |        | 75           | .213        |      | 995      | 12    |           | 1,007   | 1,125          |
+| 0180 | 4'-6" panel with 44" door                                 |        | 75           | .213        |      | 1,200    | 12    |           | 1,212   | 1,350          |
+| 0190 | Hinged corner                                             |        | 68           | .235        |      | 186      | 13.25 |           | 199.25  | 224            |
+| 0200 | Outside corner                                            |        | 68           | .235        |      | 151      | 13.25 |           | 164.25  | 186            |
+| 0210 | T post                                                    |        | 68           | .235        |      | 151      | 13.25 |           | 164.25  | 186            |
+| 0220 | Accessories, ceiling grid clip                            |        | 300          | .053        |      | 7.65     | 3     |           | 10.65   | 12.85          |
+| 0230 | Panel locking clip                                        |        | 300          | .053        |      | 5.35     | 3     |           | 8.35    | 10.35          |
+| 0240 | Panel joint closure strip                                 |        | 300          | .053        |      | 8.20     | 3     |           | 11.20   | 13.45          |
+| 0250 | Screw jack                                                |        | 300          | .053        |      | 6.85     | 3     |           | 9.85    | 12             |
+| 0260 | Digital pressure difference guage                         |        |              |             |      | 275      |       |           | 275     | 305            |
+| 0280 | Combination lockset                                       | 1 Corp | 11           | .727        |      | 207      | 41    |           | 248     | 289            |
+| 0285 | Sealant tape, 2" wide                                     | 1 Clab | 165          | .048        | CLF  | 11.10    | 2.21  |           | 13.31   | 15.55          |
+| 0290 | System in place, including door and accessories           |        |              |             |      |          |       |           |         |                |
+| 0300 | Based upon 25 uses                                        | 2 Carp | 43           | .372        | LF   | 11.25    | 212   |           | 32.25   | 43.50          |
+| 0310 | Based upon 50 uses                                        | 2 Corp.| 43           | .372        | L.F. | 6.30     | 21    |           | 27.30   | 38             |
+| 0330 | Based upon 100 uses                                       |        | 43           | 372         |      | 3.84     | 21    |           | 24.84   | 35             |
+| 0400 | Separation barrier, 2" x 4" @ 16" O.C., 1/2" plywood each side, 8' high |        | 340          | .047        | S.F. | 3.65     | 2.65  |           | 6.30    | 7.95           |
+| 0410 | 12' high                                                  |        | 275          | .058        |      | 3.61     | 3.28  |           | 6.89    | 8.85           |
+| 0420 | 16' high                                                  |        | 170          | .094        |      | 3.70     | 5.30  |           | 9       | 11.95          |
+| 0430 | 5/8" FR GWB each side, 8' high                            |        | 290          | .055        |      | 2.57     | 3.11  |           | 5.68    | 7.45           |
+| 0440 | 12' high                                                  |        | 235          | .068        |      | 2.49     | 3.83  |           | 6.32    | 8.45           |
+| 0450 | 16' high                                                  |        | 144          | J11         |      | 2.45     | 6.25  |           | 8.70    | 12             |
+
+---
+
+#### 02 87 19.20 Temporary Protection, Including PPE
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | TEMPORARY PROTECTION, including PPE                       |        |              |             |      |          |       |           |       |                |
+| 0100 | Infectious control protection, 6 mil plastic sheeting, applied to floors | 1 Skwk | 1900         | .004        | S.F. | .06      | .25   |           | .31    | .455           |
+| 0110 | Applied to walls                                          |        | 1400         | .006        |      | .06      | .34   |           | .40    | .58            |
+| 0120 | Applied to ceilings                                       |        | 1000         | .008        |      | .06      | .47   |           | .53    | .78            |
+| 0130 | Sealant tape, 2" wide                                     | 1 Clab | 165          | .048        | C.LF.| 11.10    | 2.21  |           | 13.31  | 15.55          |
+| 0140 | Floor covering, 1/8" tempered hardboard                   | 2 Carp | 878          | .018        | S.F. | .51      | 1.03  |           | 1.54   | 2.10           |
+| 0150 | 1/2" CDX                                                  |        | 878          | .018        |      | .95      | 1.03  |           | 1.98   | 2.58           |
+| 0160 | 3/4" CDX                                                  |        | 755.021      |             |      | 1.14     | 1.19  |           | 2.33   | 3.03           |
+
+---
+
+#### 02 87 19.30 Infectious Control Equipment and Supplies
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | INFECTIOUS CONTROL EQUIPMENT AND SUPPLIES                 |        |              |             |      |          |       |           |         |                |
+| 0100 | Entry/exit decontamination chamber, portable, 10 uses     | A-10C  | 12           | 2-          | Eg.  | 228      | 266   | 28.50     | 382.50  | 475            |
+| 0105 | Negative air machine, 1800 CFM                            |        |              |             |      | 900      |       |           | 900     | 990            |
+| 0110 | Disposable polyethylene bags, 6 mil, 3 C.F.               |        |              |             |      | 1.20     |       |           | 1.20    | 1.32           |
+| 0130 | Paper towels, carton of 12, 350' rolls                    |        |              |             |      | 77.50    |       |           | 77.50   | 85             |
+| 0140 | Heavy duty wipes, 160 per box                             |        |              |             |      | 28       |       |           | 28      | 30.50          |
+| 0200 | Tent, including frame, weights, roof, walls, 5' x 5'      | 2 Skwk | 32           | .500        |      | 2,150    | 29.50 |           | 2,179.50| 2,425          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02 02 Asbestos Remediation
+
+## 0 Asbestos - Asbestos Abatement
+
+### 02 82 13 Remediations Encapsulation With Sealants
+
+Maximum
+
+02101
+
+0300
+
+0310
+
+Pipes to 12" diameter including minor repairs, minimum
+
+Maximum
+
+## 02 83 Lead Remediation
+
+### 02 83 19 - Lead-Based Paint Remediation
+
+---
+
+| ID         | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|------------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 02 82 13   | Asbestos Abatement                                                   |        |              |             |      |          |        |           |          |                |
+| 02 82 13.48| Asbestos Encapsulation With Sealants                                 |        |              |             |      |          |        |           |          |                |
+| 02101      | Maximum                                                              | I A 9  | 5325         | .012        | S.F. | .65      | .76    |           | 1.411    | 1.88           |
+| 0300       | Pipes to 12" diameter including minor repairs, minimum               |        | 800          | .080        | LF   | .65      | 5.05   |           | 5.70     | 8.40           |
+| 0310       | Maximum                                                              |        | 400          | 1.160       |      | 1.27     | 10.10  |           | 11.371   | 16.85          |
+| 02 83      | Lead Remediation                                                     |        |              |             |      |          |        |           |          |                |
+| 02 83 19   | Lead-Based Paint Remediation                                         |        |              |             |      |          |        |           |          |                |
+| 02 83 19.21| Lead Paint Remediation Plans and Methods                             |        |              |             |      |          |        |           |          |                |
+| 0010       | LEAD PAINT REMEDIATION PLANS AND METHODS                             |        |              |             |      |          |        |           | 2,050    | 2,250          |
+| 0100       | Building Survey Commercial Building                                  |        |              |             | Eg.  |          |        |           | 2,050    | 2,250          |
+| 0200       | Lead Abatement Remediation Plan                                      |        |              |             |      |          |        |           | 1,225    | 1,350          |
+| 0300       | Lead Paint Testing, AAS Analysis                                     |        |              |             |      |          |        |           | 51       | 56             |
+| 0400       | Lead Point Testing, X Ray Fluorescence                               |        |              |             |      |          |        |           | 51       | 56             |
+| 02 83 19.23| Encapsulation of Lead-Based Paint                                    |        |              |             |      |          |        |           |          |                |
+| 0010       | ENCAPSULATION OF LEAD-BASED PAINT                                    |        |              |             |      |          |        |           |          |                |
+| 0020       | Interior, brushwork, trim, under 6"                                  | 1 Pord | 240          | .033        | LF   | 2.34     | 1.59   |           | 3.924C   | 4.93           |
+| 0030       | 6"-12" wide                                                          |        | 180          | .044        |      | 3.16     | 2.12   |           | 5.28     | 6.65           |
+| 0040       | Balustrades                                                          |        | 300          | .027        |      | 2.14     | 1.27   |           | 3.41     | 4.24           |
+| 0050       | Pipe to 4" diameter                                                  |        | 500          | .016        |      | 1.31     | .76    |           | 2.07     | 2.57           |
+| 0060       | To 8" diameter                                                       |        | 375          | .021        |      | 1.55     | 1.02   |           | 2.57     | 3.22           |
+| 0070       | To 12" diameter                                                      |        | 250          | .032        |      | 2.33     | 1.53   |           | 3.861    | 4.83           |
+| 0080       | To 16" diameter                                                      |        | 170          | .047        |      | 3.46     | 2.25   |           | 5.71     | 7.15           |
+| 0090       | Cabinets, ornate design                                              |        | 200          | .040        | S.F. | 3.29     | 1.91   |           | 5.20     | 6.45           |
+| 0100       | Simple design                                                        |        | 250          | .032        |      | 2.54     | 1.53   |           | 4.07     | 5.05           |
+| 0110       | Doors, 3' x 7', both sides, incl. frame & trim                       |        |              |             |      |          |        |           |          |                |
+| 0120       | Flush                                                                | 1 Pord | 6            | 1.333       | Eq.  | 29.50    | 63.50  |           | 93       | 127            |
+| 0130       | French, 10-15 lite                                                   |        | 3            | 2.667       |      | 6.65     | 127    |           | 133.65   | 196            |
+| 0140       | Panel                                                                | Pord   | 4            | 2           | Ea.  | 33.50    | 95.50  |           | 129      | 179            |
+| 0150       | Louvered                                                             |        | 2.75         | 2.909       |      | 31.50    | 139    |           | 170.50   | 241            |
+| 0160       | Windows, per interior side, per 15 S.F.                              |        |              |             |      |          |        |           |          |                |
+| 0170       | 1-6 lite                                                             | 1 Pord | 14           | .571        | Ea.  | 23       | 27.50  |           | 50.50    | 65.50          |
+| 0180       | 7-10 lite                                                            |        | 7.50         | 1.067       |      | 23       | 51     |           | 74       | 101            |
+| 0190       | 12 lite                                                              |        | 5.75         | 1.391       |      | 34       | ཧ66.50 |           | 100.50   | 136            |
+| 0200       | Radiators                                                            |        | 8            |             |      | 72.ཞཱ    | ་48    |           | 120.50   | 151            |
+| 0210       | Grilles, vents                                                       |        | 275          | .029        | S.F. | 2ཋ10     | ཧི1.39 |           | 3.49     | 4.37           |
+| 0220       | Walls, roller, drywall or plaster                                    |        | 1000         | .008        |      | ེ.67     | ཧིཾ.38 |           | 1.05     | 1.31           |
+| 0230       | With spunbonded reinforcing fabric                                   |        | 720          | .011        |      | ི.82     | ཧཱི.53 |           | 1.35     | 1.69           |
+| 0240       | Wood                                                                 |        | 800          | .010        |      | ང        | ༈.48   |           | 1.19     | 1.49           |
+| 0250       | Ceilings, roller, drywall or plaster                                 |        | 900          | .009        |      | ི.82     | ཧི.42  |           | 1.24     | 1.53           |
+| 0260       | Wood                                                                 |        | 700          | .011        |      | .93      | ཀྐ.55  |           | 1.48     | 1.83           |
+| 0270       | Exterior, brushwork, gutters and downspouts                          |        | 300          | .027        | L.F. | ༷09      | པེ1.27 |           | 3.36     | 4.19           |
+| 0280       | Columns                                                              |        | 400          | .020        | S.F. | 1.41     | ནཱཾ.96 |           | 2.37     | 2.97           |
+| 0290       | Spray, siding                                                        |        | 600          | .013        |      | 1.08     | .64    |           | 1.72     | 2.13           |
+| 0300       | Miscellaneous                                                        |        |              |             |      |          |        |           |          |                |
+| 0310       | Electrical conduit, brushwork, to 2" diameter                        | 1 Pord | 500          | .016        | LF   | 1.3354   | .76    |           | 211333   | 2.57           |
+| 0320       | Brick, block or concrete, spray                                      |        | 500          | .016        | S.F. | 1.35     | .76    |           | 2.11     | 2.62           |
+| 0330       | Steel, flat surfaces and tanks to 12"                                |        | 500          | .016        |      | 1.54     | .76    |           | 2.30     | 2.82           |
+| 0340       | Beams, brushwork                                                     |        | 400          | .020        |      | 1.41     | .96    |           | 2.37     | 2.97           |
+| 0350       | Trusses                                                              |        | 400          | .020        | +    | 1.41     | .96    |           | 2.37     | 2.97           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03.05 Common Work Results for Concrete
+
+## 03 05 13 - Basic Concrete Materials
+
+### 03 05 13.20 Concrete Admixtures and Surface Treatments
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 1550  | Release agent, for tilt slabs, 5 gallon pail                         |      |              |             | Gal.   | 17.15    |       |           | 17.15  | 18.85          |
+| 1570  | For forms, 5 gallon pail                                             |      |              |             |        | 13.95    |       |           | 13.95  | 15.35          |
+| 1590  | Concrete release agent for forms, 100% biodegradable, zero VOC, 5 gal. pail | G    |              |             |        | 20.50    |       |           | 20.50  | 22.50          |
+| 1595  | 55 gallon drum                                                       | G    |              |             |        | 15.50    |       |           | 15.50  | 17.05          |
+| 1600  | Sealer, hardener and dustproofer, epoxy based, 125 S.F./gal, 5 gallon unit |      |              |             |        | 30.50    |       |           | 30.50  | 33.50          |
+| 1620  | 3 gallon unit                                                        |      |              |             |        | 33.50    |       |           | 33.50  | 36.50          |
+| 1630  | Sealer, solvent-based, 250 S.F./gal., 55 gallon drum                 |      |              |             |        | 22       |       |           | 22     | 24.50          |
+| 1640  | 5 gallon pail                                                        |      |              |             |        | 30       |       |           | 30     | 33             |
+| 1650  | Sealer, water based, 350 S.F., 55 gallon drum                        |      |              |             |        | 27       |       |           | 27     | 30             |
+| 1660  | 5 gallon pail                                                        |      |              |             |        | 25       |       |           | 25     | 27.50          |
+| 1900  | Set retarder, 100 S.F./gal., 1 gallon pail                           |      |              |             |        | 6.15     |       |           | 6.15   | 6.80           |
+| 2000  | Waterproofing, integral 1 lb. per bag of cement                      |      |              |             | Lb.    | 1.36     |       |           | 1.36   | 1.50           |
+| 2100  | Powdered metallic, 40 lbs. per 100 S.F., standard colors             |      |              |             |        | 4.19     |       |           | 4.19   | 4.61           |
+| 21201 | Premium colors                                                        |      |              |             |        | 5.90     |       |           | 5.90   | 6.50           |
+| 3000  | For colored ready-mix concrete, add to prices in section 03 31 13.35 |      |              |             |        |          |       |           |        |                |
+| 3100  | Subtle shades, 5 lb. dry pigment per C.Y., add                       |      |              |             | C.Y.   | 29.50    |       |           | 29.50  | 32.50          |
+| 3400  | Medium shades, 10 lb. dry pigment per C.Y., add                      |      |              |             |        | 51.50    |       |           | 51.50  | 57             |
+| 3700  | Deep shades, 25 lb. dry pigment per C.Y., add                        |      |              |             |        | 80       |       |           | 80     | 88             |
+| 6000  | Concrete ready mix additives, recycled coal fly ash, mixed at plant  | G    |              |             | Ton    | 59       |       |           | 59     | 65             |
+| 6010  | Recycled blast furnace slag, mixed at plant                          |      |              |             | "      | 89       |       |           | 89     | 98             |
+
+---
+
+### 03 05 13.25 Aggregate
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | AGGREGATE                                                            |      |              |             |        |          |       |           |        |                |
+| 0100  | Lightweight vermiculite or perlite, 4 C.F. bag, C.L. lots            |      |              |             | Bag    | 29.50    |       |           | 23.50  | 32.50          |
+| 0150  | LC.L. lots                                                           | G    |              |             | #t     | 33       |       |           | 33     | 36.50          |
+| 0250  | Sand & stone, loaded at pi, crushed bank gravel                      |      |              |             | Ton    | 15.65    |       |           | 15.65  | 17.20          |
+| 0350  | Sand, washed, for concrete                                           |      |              |             |        | 33.50    |       |           | 33.50  | 37             |
+| 0400  | For plaster or brick                                                 |      |              |             |        | 33.50    |       |           | 33.50  | 37             |
+| 0450  | Stone, 3/4" to 1-1/2"                                                |      |              |             |        | 13.90    |       |           | 13.90  | 15.30          |
+| 0470  | Round, river stone                                                   |      |              |             |        | 20       |       |           | 220    | 22             |
+| 0500  | 3/8" roofing stone & 1/2" pea stone                                  |      |              |             |        | 24       |       |           | 24     | 26.50          |
+| 0550  | For trucking 10 mile round trip, add to the above                    | B-34B| 117          | .068        |        | 3.63     | 6.55  | 10.18     | 12.60  |                |
+| 0600  | For trucking 30-mile round trip, add to the above                    | "    | 72           | .111        | →      | 5.90     | 10.65 | 16.55     | 20.50  |                |
+| 0850  | Sand & stone, loaded at pi, crushed bank gravel                      |      |              |             | C.Y.   | 22       |       |           | 22     | 24             |
+| 0950  | Sand, washed, for concrete                                           |      |              |             |        | 47       |       |           | 47     | 51.50          |
+| 1000  | For plaster or brick                                                 |      |              |             |        | 47       |       |           | 47     | 51.50          |
+| 1050  | Stone, 3/4" to 1-1/2"                                                |      |              |             |        | 26.50    |       |           | 26.50  | 29.50          |
+| 1055  | Round, river stone                                                   |      |              |             |        | 33.50    |       |           | 33.50  | 37             |
+| 1100  | 3/8" roofing stone & 1/2" pea stone                                  |      |              |             |        | 21       |       |           | 21     | 23             |
+| 1150  | For trucking 10-mile round trip, add to the above                    | B-34B| 78           | .103        |        | 5.45     | 9.85  | 15.30     | 18.95  |                |
+| 1200  | For trucking 30-mile round trip, add to the above                    | "    | 48           | .167        |        | 8.85     | 16    | 24.85     | 31     |                |
+| 1310  | Onyx chips, 50 lb. bags                                              |      |              |             | Cwt.   | 88.50    |       |           | 88.50  | 97.50          |
+| 1330  | Quartz chips, 50 lb. bags                                            |      |              |             |        | 38       |       |           | 38     | 42             |
+| 1410  | White marble, 3/8" to 1/2", 50 lb. bags                              |      |              |             |        | 9.15     |       |           | 9.15   | 10.10          |
+| 1430  | 3/4", bulk                                                           |      |              |             | Ton    | 112      |       |           | 172    | 189            |
+
+---
+
+### 03 05 13.30 Cement
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | CEMENT                                                               |      |              |             |        |          |       |           |        |                |
+| 0240  | Portland, Type / II, T.L. lots, 94 lb. bags                          |      |              |             | Bag    | 14.40    |       |           | 14.40  | 15.85          |
+| 0250  | L.T.L / L.C.L. lots                                                  |      |              |             | 群     | 16.90    |       |           | 16.90  | 18.60          |
+| 0300  | Trucked in bulk, per cwt.                                            |      |              |             | Cwt.   | 9.40     |       |           | 9.40   | 10.35          |
+| 0400  | Type II, high early strength, T.L. lots, 94 lb. bags                 |      |              |             | Bag    | 15.80    |       |           | 15.80  | 17.35          |
+| 0420  | L.T.L. or L.C.L. lots                                                |      |              |             |        | 24       |       |           | 24     | 26.50          |
+| 0500  | White, type III, high early strength, T.L. or C.L. lots, bags        |      |              |             |        | 31.50    |       |           | 31.50  | 34.50          |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 00282 Asbesto82RemediationAsbestos3
+
+## Asbestos Abatement
+
+### 02 82 Remediationition In Asbestos Contaminated Area
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 02 82 13.44 | Demolition In Asbestos Contaminated Area                        |        |              |             |      |          |       |           |       |                |
+| 0400  | Partitions, non load bearing                                         | A 9    | 690          | .093        | S.F. | .73      | 5.85  |           | 6.58  | 9.75           |
+| 0410  | Plaster, lath, and studs                                             |        | 1390         | .046        | 11   | .15      | 12.91 |           | 3.06  | 4.61           |
+| 0450  | Gypsum board and studs                                               |        |              |             |      |          |       |           |       |                |
+| 9000  | For type B (supplied air) respirator equipment, add                  |        |              |             | %    |          |       |           | 10 %  | 10 %           |
+| 02 82 13.45 | OSHA Testing                                                   |        |              |             |      |          |       |           |       |                |
+| 0010  | OSHA TESTING                                                         |        |              |             |      |          |       |           |       |                |
+| 0100  | Certified technician, minimum                                        |        |              |             | Day  |          | 340   |           | 340   | 340            |
+| 0110  | Maximum                                                              |        |              |             |      |          | 670   |           | 670   | 670            |
+| 0121  | Industrial hygienist, minimum                                        |        |              |             |      |          | 385   |           | 385   | 385            |
+| 0130  | Maximum                                                              |        |              |             |      |          | 755   |           | 755   | 755            |
+| 0200  | Asbestos sampling and PCM analysis, NIOSH 7400, minimum              | 1 Asbe | 848          | 1           | Ea.  | 18       | 63    |           | 81    | 116            |
+| 0210  | Maximum                                                              |        | 27           |             |      | 24       | 126   |           | 150   | 220            |
+| 1000  | Cleaned area samples                                                 |        | 1            |             |      | 18       | 63    |           | 81    | 116            |
+| 1100  | PCM air sample analysis, NIOSH 7400, minimum                         |        | 8            | 1           |      | 18       | 63    |           | 81    | 116            |
+| 1110  | Maximum                                                              |        | 4            | 2           |      | 24       | 126   |           | 150   | 220            |
+| 1200  | TEM air sample analysis, NIOSH 7402, minimum                         |        |              |             |      |          |       |           | 80    | 106            |
+| 1210  | Maximum                                                              |        |              |             |      |          |       |           | 360   | 450            |
+| 02 82 13.46 | Decontamination of Asbestos Containment Area                   |        |              |             |      |          |       |           |       |                |
+| 0010  | DECONTAMINATION OF ASBESTOS CONTAINMENT AREA                         |        |              |             |      |          |       |           |       |                |
+| 0100  | Spray exposed substrate with surfactant (bridging)                   |        |              |             |      |          |       |           |       |                |
+| 0200  | Flat surfaces                                                        | A-9    | 6000         | .011        | S.F. | .44      | .67   |           | 1.11  | 1.51           |
+| 0250  | Irregular surfaces                                                   |        | 4000         | .016        | 1    | .47      | 1.01  |           | 1.48  | 2.06           |
+| 0300  | Pipes, beams, and columns                                            |        | 2000         | .032        | LF   | .63      | 2.02  |           | 2.65  | 3.78           |
+| 1000  | Spray encapsulate polyethylene sheeting                              |        | 8000         | .008        | S.F. | .46      | .50   |           | .96   | 1.28           |
+| 1100  | Roll down polyethylene sheeting                                      |        | 8000         | .008        | "    |          | .50   |           | .501  | .77            |
+| 1500  | Bag polyethylene sheeting                                            |        | 400          | .160        | Ea.  | 1.05     | 10.10 |           | 11.151| 16.60          |
+| 2000  | Fine clean exposed substrate, with nylon brush                       |        | 2400         | .027        | S.F. |          | 1.68  |           | 1.68  | 2.57           |
+| 2500  | Wet wipe substrate                                                   |        | 4800         | .013        |      |          | .84   |           | .84   | 1.29           |
+| 2600  | Vacuum surfaces, fine brush                                          |        | 6400         | .010        |      |          | .63   |           | .63   | .97            |
+| 3000  | Structural demolition                                                |        |              |             |      |          |       |           |       |                |
+| 3100  | Wood stud walls                                                      | A-9    | 2800         | .023        | S.F. |          | 1.44  |           | 1.44  | 2.21           |
+| 3500  | Window manifolds, not incl. window replacement                       |        | 4200         | .015        |      |          | .96   |           | .961  | 1.47           |
+| 3600  | Plywood carpet protection                                            |        | 2000         | .032        |      |          | 2.02  |           | 2.02  | 3.09           |
+| 4000  | Remove custom decontamination facility                               | A-10A  | 8            | 3           | Ea.  | 16.35    | 190   |           | 206.35| 310            |
+| 4100  | Remove portable decontamination facility                             | 3 Asbe | 12           | 2           | "    | 15       | 126   |           | 141   | 210            |
+| 5000  | HEPA vacuum, shampoo carpeting                                       | A-9    | 4800         | .013        | S.F. | .12      | .84   |           | .96   | 1.42           |
+| 9000  | Final cleaning of protected surfaces                                 | A-10A  | 8000         | .003        | "    |          | .19   |           | .19   | .29            |
+| 02 82 13.47 | Asbestos Waste Pkg., Handling, and Disp.                       |        |              |             |      |          |       |           |       |                |
+| 0010  | ASBESTOS WASTE PACKAGING, HANDLING, AND DISPOSAL                     |        |              |             |      |          |       |           |       |                |
+| 0100  | Collect and bag bulk material, 3 C.F. bags, by hand                  | A-9    | 400          | .160        | Ea.  | 1.20     | 10.10 |           | 11.30 | 16.75          |
+| 0200  | Large production vacuum loader                                       | A 12   | 880          | .073        |      | 1.01     | 4.59  | .87        | 6.47  | 9.05           |
+| 1000  | Double bag and decontaminate                                         | A-9    | 960          | .067        |      | 1.20     | 4.21  |           | 5.41  | 7.75           |
+| 2000  | Containerize bagged material in drums, per 3 C.F. drum               | "      | 800          | .080        |      | 20 1     | 5.05  |           | 25.05 | 29.50          |
+| 3000  | Cart bags 50' to dumpster                                            | 2 Asbe | 400          | .040        | F    |          | 2.52  |           | 2.52  | 3.86           |
+| 5000  | Disposal charges, not including haul, minimum                        |        |              |             | C.Y. |          |       |           | 61 I  | 67             |
+| 5020  | Maximum                                                              |        |              |             |      |          |       |           | 355 1 | 395            |
+| 9000  | For type B (supplied air) respirator equipment, add                  |        |              |             |      |          |       |           | 10 %  | 10 %           |
+| 02 82 13.48 | Asbestos Encapsulation With Sealants                           |        |              |             |      |          |       |           |       |                |
+| 0010  | ASBESTOS ENCAPSULATION WITH SEALANTS                                 |        |              |             |      |          |       |           |       |                |
+| 0100  | Ceilings and walls, minimum                                          | A-9    | 21000        | .003        | S.F. | .54      | .19   |           | .73   | .88            |
+| 0110  | Maximum                                                              |        | 10600        | .006        |      | .58      | .38   |           | .96   | 1.22           |
+| 0200  | Columns and beams, minimum                                           |        | 13300        | .005        |      | .54      | .30   |           | .84   | 1.05           |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 02022 Asbestos Remediation
+
+## Asbestos Abatement
+
+### 02 82 13.4 Remediation Asbestos Removal
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|-------|----------|-------|-----------|---------|----------------|
+| 0130  | W 16 x 31                                                 | A-9   | 160          | 400         | L.F.  | 1.26     | 25    | 1         | 26.26   | 40             |
+| 0140  | W 18 x 40                                                 |       | 140          | .457        |       | 1.44     | 29    | 1         | 30.44   | 45.50          |
+| 0150  | W 24 x 55                                                 |       | 110.582      |             |       | 1.841    | 36.50 |           | 38.34   | 58             |
+| 0160  | W 30 x 108                                                |       | 85           | .753        |       | 2.38     | 47.50 |           | 49.88   | 75             |
+| 0170  | W 36 x 150                                                |       | 72           | .889        |       | 2.81     | 56    |           | 58.81   | 89             |
+| 0200  | Boiler insulation                                         |       | 480          | .133        | S.F.  | .56      | 8.00  |           | 8.96    | 13.45          |
+| 0210  | With metal lath, add                                      |       |              |             |       |          |       |           |         | 50 %           |
+| 0300  | Boiler breeching or flue insulation                       | A-9   | 520          | 1.123       | S.F.  | .39      | 7.75  |           | 8.141   | 12.35          |
+| 0310  | For active boiler, add                                    |       |              |             | %     |          |       |           |         | 100 %          |
+| 0400  | Duct or AHU insulation                                    | A10B  | 440          | .073        | S.F.  | .23      | 4.59  |           | 4.821   | 7.30           |
+| 0500  | Duct vibration isolation joints, up to 24 sq. in. duct    | A-9   | 56           | 1.143       | Ea.   | 3.611    | 72    |           | 75.611  | 114            |
+| 0520  | 25 sq. in. to 48 sq. in. duct                             |       | 48           | 1.333       |       | 4.21     | 84    |           | 88.21   | 134            |
+| 0530  | 49 sq. in. to 76 sq. in. duct                             |       | 40           | 1.600       |       | 5.05     | 101   |           | 106.05  | 160            |
+| 0600  | Pipe insulation, air cell type, up to 4" diameter pipe    |       | 900          | .071        | LF    | .22      | 4.49  |           | 4.71    | 7.10           |
+| 0610  | 4" to 8" diameter pipe                                    |       | 800          | .080        | "     | .25      | 5.05  |           | 5.30    | 8              |
+| 0620  | 10" to 12" diameter pipe                                  | A-9   | 700          | .091        | LF    | .29      | 5.75  |           | 6.041   | 9.15           |
+| 0630  | 14" to 16" diameter pipe                                  |       | 550.116      |             | "     | .37      | 7.35  |           | 7.721   | 11.65          |
+| 0650  | Over 16" diameter pipe                                    |       | 650          | .098        | S.F.  | .311     | 6.20  |           | 6.511   | 9.85           |
+| 0700  | With glove bag up to 3" diameter pipe                     |       | 200          | .320        | L.F.  | 3.20     | 20    |           | 23.20   | 34.50          |
+| 1000  | Pipe fitting insulation up to 4" diameter pipe            |       | 320          | .200        | Ea.   | .63      | 12.60 |           | 13.23   | 20             |
+| 1100  | 6" to 8" diameter pipe                                    |       | 304          | .211        |       | .66      | 13.30 |           | 13.96   | 21             |
+| 1110  | 10" to 12" diameter pipe                                  |       | 192          | .333        |       | 1.05     | 21    |           | 22.05   | 33             |
+| 1120  | 14" to 16" diameter pipe                                  |       | 128          | .500        |       | 1.58     | 31.50 |           | 33.08   | 50             |
+| 1130  | Over 16" diameter pipe                                    |       | 176          | .364        | S.F.  | 1.151    | 23    |           | 24.151  | 36.50          |
+| 1200  | With glove bag, up to 8" diameter pipe                    |       | 75           | .853        | LF.   | 8.05     | 54    |           | 62.05   | 91.50          |
+| 2000  | Scrape foam fireproofing from flat surface                |       | 2400         | .027        | S.F.  | .08      | 1.68  |           | 1.76    | 2.66           |
+| 2100  | Irregular surfaces                                        |       | 1200         | .053        |       | .171     | 3.371 |           | 3.541   | 5.35           |
+| 3000  | Remove cementitious material from flat surface            |       | 1800         | .036        |       | .11      | 2.24  |           | 2.35    | 3.55           |
+| 3100  | Irregular surface                                         |       | 1000         | .064        |       | .14      | 4.04  |           | 4.18    | 6.35           |
+| 4000  | Scrape acoustical coating/fireproofing, from ceiling      |       | 3200         | .020        |       | .06      | 1.26  |           | 1.32    | 2              |
+| 5000  | Remove VAT and mastic from floor by hand                  |       | 2400         | .027        |       | .08      | 1.68  |           | 1.76    | 2.66           |
+| 5100  | By machine                                                | A-11  | 4800         | .013        |       | .04      | .84   | .01        | .89     | 1.35           |
+| 5150  | For 2 layers, add                                         |       |              |             |       |          |       |           |         | 50 %           |
+| 6000  | Remove contaminated soil from crawl space by hand         | A-9   | 400          | .160        | C.F.  | .522222  | 10.10 |           | 10.61   | 16             |
+| 6100  | With large production vacuum loader                       | A-12  | 700          | .091        | "     | .291     | 5.75  | 1.10       | 7.141   | 10.40          |
+| 7000  | Radiator backing, not including radiator removal          | A-9   | 1200         | .053        | S.F.  | .17      | 3.37  |           | 3529    | 5.35           |
+| 8000  | Cement-asbestos transite board and cement wall board      | 2Asbe | 1000         | .016        |       | .21      | 1.01  |           | 1.22    | 1.77           |
+| 8100  | Transite shingle siding                                   | A10B  | 750          | .043        |       | .29      | 2.70  |           | 2.99    | 4.44           |
+| 8200  | Shingle roofing                                           | "     | 2000         | .016        |       | .10      | 1.01  |           | 1=11    | 1.66           |
+| 8250  | Built-up, no gravel, non friable                          | B-2   | 1400         | .029        |       | .10      | 1.31  |           | 1.41    | 2.07           |
+| 8260  | Bituminous flashing                                       | 1Rofc | 300          | 1.027       |       | .10      | 1.32  |           | 1.421   | 2.25           |
+| 8300  | Asbestos millboard, flat board and VAT contaminated plywood| 2Asbe | 1000         | .016        |       | .09      | 1.01  |           | 1.101   | 1.64           |
+| 9000  | For type B (supplied air) respirator equipment, add       |       |              |             |       |          |       |           |         | 10 %           |
+
+---
+
+## 02 82 13.44 Demolition In Asbestos Contaminated Area
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|-------|----------|-------|-----------|---------|----------------|
+| 0010  | DEMOLITION IN ASBESTOS CONTAMINATED AREA                 |       |              |             |       |          |       |           |         |                |
+| 0200  | Ceiling, including suspension system, plaster and lath    | A-9   | 2100         | .030        | S.F.  | .10      | 1.92  |           | 2.02    | 3.05           |
+| 0210  | Finished plaster, leaving wire lath                       |       | 585          | .109        |       | .35      | 6.90  |           | 7.25    | 10.95          |
+| 0220  | Suspended acoustical tile                                 |       | 3500         | .018        |       | .06      | 1.15  |           | 1.21    | 1.83           |
+| 0230  | Concealed tilegrid system                                 |       | 3000         | .021        |       | .07      | 1.35  |           | 1.42    | 2.13           |
+| 0240  | Metal pan grid system                                     |       | 1500         | .043        |       | .13      | 2.69  |           | 2.821   | 4.27           |
+| 0250  | Gypsum board                                             |       | 2500         | .026        |       | .08      | 1.62  |           | 1.70    | 2.56           |
+| 0260  | Lighting fixtures up to 2' x 4'                           | A-9   | 72           | .889        | Ea.   | 2.81     | 561   |           | 58.81   | 89             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03035 Common Wo05 Results foCommonrete
+
+## 03 05 13 - Basic ConcreWorkaterials
+
+03 05 13Resultsent  
+05201  
+LT.L. or L.Cfor lots  
+060Concrete type I, T.L. or C.L. lots, bags  
+0620  
+L.T.L. or L.C.L. lots  
+03 05 13.80 Waterproofing and Dampproofing  
+0010 WATERPROOFING AN
+
+## 03 05 13 - Basic Concrete Materials
+
+| ID        | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-----------|----------------------------------------------------------------------|----------|-------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 03 05 13.30 | Cement                                                             |          |             |             |        |          |         |           |         |                |
+| 05201    | LT.L. or L.C.L. lots                                                  |          |             |             | Bag    | 48       |         |           | 48      | 53             |
+| 0600     | White, type I, T.L. or C.L. lots, bags                                |          |             |             |        | 31       |         |           | 31      | 34.50          |
+| 0620     | L.T.L.or L.C.L. lots                                                  |          |             |             |        | 33       |         |           | 33      | 36             |
+| 03 05 13.80 | Waterproofing and Dampproofing                                     |          |             |             |        |          |         |           |         |                |
+| 0010     | WATERPROOFING AND DAMPPROOFING                                        |          |             |             |        |          |         |           |         |                |
+| 0050     | Integral waterproofing, add to cost of regular concrete               |          |             |             | C.Y.   | 8.15     |         |           | 8.15    | 9              |
+| 03 05 13.85 | Winter Protection                                                  |          |             |             |        |          |         |           |         |                |
+| 0010     | WINTER PROTECTION                                                     |          |             |             |        |          |         |           |         |                |
+| 0012     | For heated ready mix, add                                             |          |             |             | C.Y.   | 8.50     |         |           | 8.50    | 9.35           |
+| 0100     | Temporary heat to protect concrete, 24 hours                          | 2 Clab   | 50          | .320        | M.S.F. | 184      | 14.60   |           | 198.60  | 224            |
+| 0200     | Temporary shelter for slab on grade, wood frame / polyethylene sheeting|          |             |             |        |          |         |           |         |                |
+| 0201     | Build or remove, light framing for short spans                        | 2 Carp   | 10          | 1.600       | M.S.F. | 485      | 90      |           | 575     | 665            |
+| 0210     | Large framing for long spans                                          | #        | 3           | 5.333       | ! "    | 585      | 300     |           | 885     | [ 1,100        |
+| 0500     | Electrically heated pads, 110 volts, 15 watts / S.F., buy             |          |             |             | S.F.   | 12.90    | :       |           | 12.90   | 14.20          |
+| 0600     | 20 watts /S.F., buy                                                   |          |             |             |        | 17.15    |         |           | 17.15   | 18.85          |
+| 0710     | Electrically heated pads, 15 watts / S.F., 20 uses                    |          |             |             |        | .64      |         |           | .64     | .71            |
+
+## 03 11 Concrete Forming
+
+### 03 11 13 Structural Cast-In-Place Concrete Forming
+
+#### 03 11 13.20 Forms In Place, Beams and Girders
+
+| ID     | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|--------|----------------------------------------------------------------------|--------|-------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 0010   | FORMS IN PLACE, BEAMS AND GIRDERS R031113-40                         |        |             |             |       |          |        |           |         |                |
+| 0500   | Exterior spandrel, job-built plywood, 12" wide, 1 use                | C-2    | 225         | .213        | SFCA  | 4.82     | 11.70  |           | 16.52   | 22.50          |
+| 0550   | 2 use R031113-60                                                     |        | 275         | .175        |       | 2.53     | 9.55   |           | 12.08   | 17.05          |
+| 0600   | 3 use                                                                |        | 295         | .163        |       | 1.93     | 8.90   |           | 10.83   | 15.40          |
+| 0650   | 4 use                                                                |        | 310         | .155        |       | 1.57     | 8.50   |           | 10.07   | 14.35          |
+| 1000   | 18" wide, 1 use                                                      |        | 250         | .192        |       | 4.38     | 10.55  |           | 14.93   | 20.50          |
+| 1050   | 2 use                                                                |        | 275         | .175        |       | 2.41     | 9.55   |           | 11.96   | 16.90          |
+| 1100   | 3 use                                                                |        | 305         | .157        |       | 1.75     | 8.65   |           | 10.40   | 14.80          |
+| 1150   | 4 use                                                                |        | 315         | .152        |       | 1.44     | 8.35   |           | 9.79    | 14.05          |
+| 1500   | 24" wide, 1 use                                                      |        | 265         | .181        |       | 4.02     | 9.95   |           | 13.97   | 19.25          |
+| 1550   | 2 use                                                                |        | 290         | .166        |       | 2.28     | 9.10   |           | 11.38   | 16             |
+| 1600   | 3 use                                                                |        | 315         | .152        |       | 1.61     | 8.35   |           | 9.96    | 14.20          |
+| 1650   | 4 use                                                                |        | 325         | .148        |       | 1.31     | 8.10   |           | 9.41    | 13.50          |
+| 2000   | Interior beam, job built plywood, 12" wide, 1 use                    |        | 300         | .160        |       | 5.55     | 8.80   |           | 14.35   | 19.20          |
+| 2050   | 2 use                                                                |        | 340         | .141        |       | 2.68     | 7.75   |           | 10.43   | 14.50          |
+| 2100   | 3 use                                                                |        | 364         | .132        |       | 2.28136  | 7.25   |           | 9.48    | 13.20          |
+| 2150   | 4 use                                                                | C-2    | 377         | .127        | SFCA  | 1.81     | 7      |           | 8.81    | 12.40          |
+| 2500   | 24" wide, 1 use                                                      |        | 320         | .150        |       | 4.11     | 8.25   |           | 12.36   | 16.75          |
+| 2550   | 2 use                                                                |        | 365         | .132        |       | 2.32     | 7.20   |           | 9.52    | 13.30          |
+| 2600   | 3 use                                                                |        | 385         | .125        |       | 1.63     | 6.85   |           | 8.48    | 12             |
+| 2650   | 4 use                                                                |        | 395         | .122        |       | 1.33     | 6.65   |           | 7.989   | 11.35          |
+| 3000   | Encasing steel beam, hung, job-built plywood, 1 use                   |        | 325         | .148        |       | 4.60     | 8.10   |           | 12.70   | 17.10          |
+| 3050   | 2 use                                                                |        | 390         | .123        |       | 2.585    | 6.75   |           | 9.28    | 12.85          |
+| 31001  | 3 use                                                                |        | 415         | .116        |       | 1.84     | 6.35   |           | 8.19    | 11.50          |
+| 3150   | 4 use                                                                |        | 430         | .112        |       | 1.50     | 6.10   |           | 7.60    | 10.75          |
+| 3500   | Bottoms only, to 30" wide, job-built plywood, 1 use                   |        | 230         | .209        |       | 6.55     | 11.45  |           | 183     | 24.50          |
+| 3550   | 2 use                                                                |        | 265         | .181        |       | 3.67     | 9.95   |           | 13.62   | 18.85          |
+| 3600   | 3 use                                                                |        | 280         | .171        |       | 2.62     | 9.40   |           | 12.02   | 16.90          |
+| 3650   | 4 use                                                                |        | 290         | .166        |       | 2.13     | 9.10   |           | 11.23   | 15.85          |
+| 4000   | Sides only, vertical, 36" high, job-built plywood, 1 use              |        | 335         | .143        |       | 6.90     | 7.85   |           | 14.75   | 19.25          |
+
+544
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03035 Concrete Accessories
+
+## Waterstops
+
+### 03 15 13.50 Waterstops
+
+| ID    | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|---------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 03 15 13 | Waterstops        |        |             |             |      |          |        |           |        |                |
+| 03 15 13.50 | Waterstops     |        |             |             |      |          |        |           |        |                |
+| $7000 | Vertical tee, 6" wide | 1 Carp | 25          | .320        | Ea.  | 19.20    | 18     |           | 37.20  | 48             |
+| 17050 | 9" wide             |        | 25          | .320        |      | 32.50    | 18     |           | 50.50  | 62.50          |
+| 7500  | Vertical ell, 6" wide |      | 35          | .229        |      | 23.50    | 12.85  |           | 36.35  | 44.50          |
+| 7550  | 9" wide             |        | 35          | .229        |      | 44.50    | 12.85  |           | 57.35  | 88             |
+
+---
+
+## 03 15 16 Concrete Construction Joints
+
+### 03 15 16.20 Control Joints, Saw Cut
+
+| ID    | Name                                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | CONTROL JOINTS, SAW CUT                           |      |             |             |      |          |       |           |       |                |
+| 10100 | Sawcut control joints in green concrete           |      |             |             |      |          |       |           |       |                |
+| 0120  | 1" depth                                          | C-27 | 2000        | .008        | LF   | .03      | .43   | .08       | .54   | .74            |
+| 0140  | 1-1/2" depth                                      |      | 1800        | .009        |      | .04      | .47   | .09       | .60   | .84            |
+| 0160  | 2" depth                                          |      | 1600        | .010        | →    | .05      | .53   | .10       | .68   | .95            |
+| 0180  | Sawcut joint reservoir in cured concrete          |      |             |             |      |          |       |           |       |                |
+| 0182  | 3/8" wide x 3/4" deep, with single saw blade      | C-27 | 1000        | .016        | L.F. | .04      | .85   | .16       | 1.05  | 1.46           |
+| 0184  | 1/2" wide x 1" deep, with double saw blades       | "    | 900         | .018        | "    | .08      | .94   | .18       | 1.20  | 1.66           |
+| 0186  | 3/4" wide x 1-1/2" deep, with double saw blades   | C-27 | 800         | .020        | L.F. | .16      | 1.06  | .20       | 1.42  | 1.96           |
+| 0190  | Water blast joint to wash away laitance, 2 passes | C-29 | 2500        | .003        |      |          | .15   | .04       | .19   | .26            |
+| 0200  | Air blast joint to blow out debris and air dry, 2 passes | C-28 | 2000 | .004        |      |          | .21   | .02       | .23   | .33            |
+| 0300  | For backer rod, see Section 07 91 23.10           |      |             |             |      |          |       |           |       |                |
+| 0340  | For joint sealant, see Section 03 15 16.30 or 07 92 13.20 | |         |             |      |          |       |           |       |                |
+| 0900  | For replacement of joint sealant, see Section 07 01 90.81 | |         |             |      |          |       |           |       |                |
+
+---
+
+## 03 15 16.30 Expansion Joints
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | EXPANSION JOINTS                                                     |        |             |             |      |          |        |           |         |                |
+| 0020  | Keyed, cold, 24 ga., incl. stakes, 3-1/2" high                       | 55555  | 1 Carp      | 200         | .040 | LF       | 1.05   | 2.25      |         | 3.30    | 4.51           |
+| 0050  | 4-1/2" high                                                          |        | 200         | .040        |      | 1.18     | 2.25   |           | 3.43    | 4.65           |
+| 0100  | 5-1/2" high                                                          |        | 195         | .041        |      | 1.36     | 2.31   |           | 3.67    | 4.94           |
+| 0150  | 7-1/2" high                                                          | G      | 190         | .042        |      | 1.68     | 2.37   |           | 4.05    | 5.40           |
+| 0160  | 9-1/2" high                                                          |        | 185         | .043        |      | 1.83     | 2.43   |           | 4.26    | 5.65           |
+| 0300  | Poured asphalt, plain, 1/2" x 1"                                     | 1 Clab | 450         | .018        |      | .94      | .81    |           | 1.75    | 2.24           |
+| 0350  | 1" x 2"                                                              |        | 400         | .020        |      | 3.74     | .91    |           | 4.65    | 5.45           |
+| 0500  | Neoprene, liquid, cold applied, 1/2" x 1"                            |        | 450         | .018        |      | 2.13     | .81    |           | 2.94    | 3.55           |
+| 0550  | 1" x 2"                                                              |        | 400         | .020        |      | 8.50     | .91    |           | 9.41    | 10.70          |
+| 0700  | Polyurethane, poured, 2 part, 1/2" x 1"                              |        | 400         | .020        |      | 1.45     | .91    |           | 2.36    | 2.96           |
+| 0750  | 1" x 2"                                                              |        | 350         | .023        |      | 5.80     | 1.04   |           | 6.84    | 7.95           |
+| 0900  | Rubberized asphalt, hot or cold applied, 1/2" x 1"                   |        | 450         | .018        |      | .55      | .81    |           | 1.36    | 1.82           |
+| 0950  | 1" x 2"                                                              |        | 400         | .020        |      | 2.28     | .91    |           | 3.19    | 3.87           |
+| 1100  | Hot applied, fuel resistant, 1/2" x 1"                               |        | 450         | .018        |      | .83      | .81    |           | 1.64    | 2.12           |
+| 1150  | 1" x 2"                                                              |        | 400         | .020        |      | 3.42     | .91    |           | 4.33    | 5.10           |
+| 2000  | Premolded, bituminous fiber, 1/2" x 6"                               | 1 Corp | 375         | .021        |      | .41      | 1.20   |           | 1.61    | 2.24           |
+| 2050  | 1" x 12"                                                             |        | 300         | .027        |      | 2.04     | 1.50   |           | 3.54    | 4.47           |
+| 2140  | Concrete expansion joint, recycled paper and fiber, 1/2" x 6"        | GG     | 390         | .021        |      | .47      | 1.15   |           | 1.62    | 2.24           |
+| 2150  | 1/2" x 12"                                                           |        | 360         | .022        |      | .94      | 1.25   |           | 2.19    | 2.90           |
+| 2250  | Cork with resin binder, 1/2" x 6"                                    |        | 375         | .021        |      | 1.26     | 1.250  |           | 2.46    | 3.18           |
+| 2300  | 1" x 12"                                                             |        | 300         | .027        |      | 3.53     | 1.50   |           | 5.03    | 6.10           |
+| 2500  | Neoprene sponge, closed cell, 1/2" x 6"                              |        | 375         | .021        |      | 3.15     | 1.20   |           | 4.35    | 5.25           |
+| 2550  | 1" x 12"                                                             |        | 300         | .027        |      | 9.55     | 1.50   |           | 11.19411236 | 12.75      |
+| 2750  | Polyethylene foam, 1/2" x 6"                                         |        | 375         | .021        |      | .74      | 1.20   |           | 1.94    | 2.60           |
+| 2800  | 1" x 12"                                                             |        | 300         | .027        |      | 3.93     | 1.50   |           | 5.43    | 6.55           |
+| 3000  | Polyethylene backer rod, 3/8" diameter                               |        | 460         | .017        |      | .13      | .98    |           | 1.11    | 1.60           |
+| 3050  | 3/4" diameter                                                        |        | 460         | .017        |      | .17      | .98    |           | 1.15    | 1.65           |
+| 3100  | 1" diameter                                                          |        | 460         | .017        |      | .30      | .98    |           | 1.28    | 1.79           |
+| 3500  | Polyurethane foam, with polybutylene, 1/2" x 1/2"                    |        | 475         | .017        |      | 1.43     | .95    |           | 2.38    | 2.98           |
+| 3550  | 1" x 1"                                                              | 1 Carp | 450         | .018        | LF.  | 3.64     | 1      |           | 4.64    | 5.50           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 15 Concrete Accessories
+
+## Concrete Forming Accessories 05.70 Shores
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit     | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|----------|----------|-------|-----------|--------|----------------|
+| 1770 | Beams, 7-1/4" high x 4' to 30' span                                 | 555555GGGGGG |              |             | LF       | 25.50    |       |           | 25.50  | 28             |
+| 1810 | Horizontal, steel beam, W8x10, 7' span, buy                          |              |              |             | Ea       | 81.50    |       |           | 81.50  | 89.50          |
+| 1830 | 10' span                                                             |              |              |             |          | 110      |       |           | 110    | 121            |
+| 1920 | 15' span                                                             |              |              |             |          | 158      |       |           | 158    | 173            |
+| 1940 | 20' span                                                             |              |              |             |          | 190      |       |           | 190    | 209            |
+| 1970 | Steel stringer, W8x10, 4' to 16' span, buy                           |              |              |             | LF       | 10.85    |       |           | 10.85  | 11.95          |
+| 3000 | Rent for job duration, aluminum joist @ 2' OC, per ma.               |              |              |             | SF Flr.  | 0.53     |       |           | 0.53   | 0.59           |
+| 3050 | Steel W8x10                                                          |              |              |             |          | 0.27     |       |           | 0.27   | 0.30           |
+| 3060 | Steel adjustable                                                     |              |              |             |          | 0.28     |       |           | 0.28   | 0.30           |
+| 3500 | #1 post shore, steel, 5'-7" to 9'-6" high, 10,000# cap., buy         |              |              |             | Ea       | 209      |       |           | 209    | 230            |
+| 3550 | #2 post shore, 7'-3" to 12'-10" high, 7800# capacity                 |              |              |             |          | 242      |       |           | 242    | 266            |
+| 3600 | #3 8post shore, 8'-10" to 16"-1" high, 3800# capacity                |              |              |             |          | 265      |       |           | 265    | 291            |
+| 5010 | Frame shoring systems, steel, 12,000#/leg, buy                       |              |              |             |          |          |       |           |        |                |
+| 5040 | Frame, 2' wide x 6' high                                             | 55555        |              |             | Ea       | 72       |       |           | 72     | 79.50          |
+| 5250 | X-brace                                                              |              |              |             |          | 21.50    |       |           | 21.50  | 24             |
+| 5550 | Base plate                                                           |              |              |             |          | 18.30    |       |           | 18.30  | 20             |
+| 5600 | Screw jack                                                           |              |              |             |          | 25.50    |       |           | 25.50  |                |
+| 5650 | U-head, 8" x 8"                                                      |              |              |             |          | 13.75    |       |           | 13.75  | 15.15          |
+
+---
+
+## 03 15 05.75 Sleeves and Chases
+
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SLEEVES AND CHASES                        |        |              |             |      |          |       |           |       |                |
+| 0100 | Plastic, 1 use, 12" long, 2" diameter     | 1 Carp | 100          | 0.080       | Ea   | 7.15     | 4.50  |           | 11.65 | 14.60          |
+| 0150 | 4" diameter                               |        | 90           | 0.089       |      | 3.72     | 5     |           | 8.72  | 11.55          |
+| 0200 | 6" diameter                               |        | 75           | 0.107       |      | 16       | 6     |           | 22    | 26.50          |
+| 0250 | 12" diameter                              |        | 60           | 0.133       |      | 42.50    | 7.50  |           | 50    | 58             |
+
+---
+
+## 03 15 05.80 Snap Ties
+
+| ID   | Name                                                        | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------------------------|--------------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SNAP TIES, 8-1/4" L& W (Lumber and wedge)                   |              |              |             |      |          |       |           |        |                |
+| 0100 | 2250 lb., w/flat washer, 8" wall                            | 55555GGGGGGGGGGGG555 |      |             | C    | 77       |       |           | 77     | 84.50          |
+| 0150 | 10" wall                                                    |              |              |             |      | 80       |       |           | 80     | 88             |
+| 0200 | 12" wall                                                    |              |              |             |      | 85.50    |       |           | 85.50  | ར94            |
+| 0250 | 16" wall                                                    |              |              |             |      | 93.50    |       |           | 93.50  | 103            |
+| 0300 | 18" wall                                                    |              |              |             |      | 127      |       |           | 127    | 140            |
+| 0500 | With plastic cone, 8" wall                                  |              |              |             |      | 77       |       |           | 77     | 84.50          |
+| 0550 | 10" wall                                                    |              |              |             |      | 80       |       |           | 80     | ྨ88            |
+| 0600 | 12" wall                                                    |              |              |             |      | 85.50    |       |           | 85.50  | 94             |
+| 0650 | 16" wall                                                    |              |              |             |      | 93.50    |       |           | 93.50  | g103           |
+| 0700 | 18" wall                                                    |              |              |             |      | 96.50    |       |           | 96.50  | ༅106           |
+| 1000 | 3350 lb., w/ flat washer, 8" wall                           |              |              |             |      | 171      |       |           | 171    | ཧ188           |
+| 1100 | 10" wall                                                    |              |              |             |      | 187      |       |           | 187    | 205            |
+| 1150 | 12" wall                                                    |              |              |             |      | 199      |       |           | 199    | 219            |
+| 1200 | 16" wall                                                    |              |              |             | جـ   | 219      |       |           | 219    | བ241           |
+| 1250 | 18" wall                                                    |              |              |             | C    | 229      |       |           | 229    | 252            |
+| 1500 | With plastic cone, 8" woll                                  |              |              |             |      | 167      |       |           | 167    | ཚ              |
+| 1550 | 10" wall                                                    |              |              |             |      | 183      |       |           | 183    | ཏ201           |
+| 1600 | 12" wall                                                    |              |              |             |      | 187      |       |           | 187    | 206            |
+| 1650 | 16" wall                                                    |              |              |             |      | 215      |       |           | 215    | 237            |
+| 1700 | 18" wall                                                    |              |              |             |      | 221      |       |           | 221    | ཙྩ243          |
+
+---
+
+## 03 15 05.85 Stair Tread Inserts
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | STAIR TREAD INSERTS                                                  |        |              |             |      |          |       |           |        |                |
+| 0105 | Cast nosing insert, abrasive surface, pre-drilled, includes screws   |        |              |             |      |          |       |           |        |                |
+| 0110 | Aluminum, 3" wide x 3' long                                          | 1 Cefi | 32           | 0.250       | Eq   | 43.50    | 13.30 |           | 56.80  | 67             |
+| 0120 | 4' long                                                              |        | 31           | 0.258       |      | 67       | 13.70 |           | 80.70  | 93.50          |
+| 0130 | 5' long                                                              |        | 30           | 0.267       |      | 85.50    | 14.15 |           | 99.65  | 115            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 03 Concrete
+
+## 03 11 13 - Structural Cast-In-Place Concrete Forming
+
+### 03 11 13.85 Forms In Place, Walls
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 4350 | 2 use                                                                | C-2  | 355          | .135        | SFCA  | 1.49     | 7.40  |           | 8.89  | 12.70          |
+| 4400 | 3 use                                                                |      | 385          | .125        |       | 1.09     | 6.85  |           | 7.94  | 11.40          |
+| 4450 | 4 use                                                                |      | 400          | .120        |       | .88      | 6.60  |           | 7.48  | 10.75          |
+| 4500 | Over 8' to 16' high, 1 use                                           |      | 290          | .166        |       | .94      | 9.10  |           | 10.04 | 14.55          |
+| 4525 | 2 use                                                                |      | 355.135      |             |       | .521     | 7.40  |           | 7.92  | 11.60          |
+| 4550 | 3 use                                                                |      | 385 1.125    |             |       | .38      | 6.85  |           | 7.23  | 10.60          |
+| 4575 | 4 use                                                                |      | 400 1 .120   |             |       | .31      | 6.60  |           | 6.91  | 10.15          |
+| 4600 | Retaining wall, battered, job-built plyw'd, to 8' high, 1 use        |      | 300          | .160        |       | 2.521    | 8.80  |           | 11.32 | 15.80          |
+| 4650 | 2 use                                                                |      | 355          | .135        |       | 1.39     | 7.40  |           | 8.79  | 12.60          |
+| 4700 | 3 use                                                                |      | 375          | .128        |       | 1.01     | 7     |           | 8.01  | 11.55          |
+| 4750 | 4 use                                                                |      | 390          | .123        |       | .82      | 6.75  |           | 7.57  | 10.95          |
+| 4900 | Over 8' to 16' high, 1 use                                           |      | 240          | .200        |       | 2.81     | 10.95 |           | 13.76 | 19.45          |
+| 4950 | 2 use                                                                |      | 295 1.163    |             |       | 1.55     | 8.90  |           | 10.45 | 15             |
+| 5000 | 3 use                                                                |      | 305 1.157    |             |       | 1.121    | 8.65  |           | 9.77  | 14.10          |
+| 5050 | 4 use                                                                |      | 320 1.150    |             |       | .91      | 8.25  |           | 9.16  | 13.25          |
+| 5500 | For gang wall forming, 192 S.F. sections, deduct                     |      |              |             |       |          | 10 %  |           | 10 %  |                |
+| 5550 | 384 S.F. sections, deduct                                            |      |              |             |       |          | 20 %  |           | 20 %  |                |
+| 7500 | Lintel or sill forms, 1 use                                          | 1 Carp| 30          | .267        |       | 4.99     | 15    |           | 19.99 | 222            |
+| 7520 | 2 use                                                                |      | 34           | .235        |       | 2.74     | 13.25 |           | 15.99 | 22.50          |
+| 7540 | 3 use                                                                |      | 36           | .222        |       | 2        | 12.50 |           | 14.50 |                |
+| 7560 | 4 use                                                                |      | 37 1.216     |             |       | 1.62     | 12.15 |           | 13.77 | 19.90          |
+| 7800 | Modular prefabricated plywood, based on 20 uses of purchased         |      |              |             |       |          |       |           |       |                |
+| 7820 | forms, and 4 uses of bracing lumber                                  |      |              |             |       |          |       |           |       |                |
+| 7860 | To 8' high                                                           | C-2  | 1800         | .060        | SFCA  | 1.40     | 3.29  |           | 4.69  | 6.45           |
+| 8060 | Over 8' to 16' high                                                  |      | 600          | .080        |       | 1.48     | 4.39  |           | 5.87  | 8.20           |
+| 8600 | Pilasters, 1 use                                                     |      | 270          | .178        |       | 4.82     | 9.75  |           | 14.57 | 19.80          |
+| 8620 | 2 use                                                                |      | 330          | .145        |       | 2.65     | 8     |           | 10.65 | 14.80          |
+| 8640 | 3 use                                                                |      | 370          | .130        |       | 1.93     | 7.10  |           | 9.03  | 12.70          |
+| 8660 | 4 use                                                                |      | 385          | .125        |       | 1.57     | 6.85  |           | 8.42  | 11.90          |
+| 9010 | Steel framed plywood, based on 50 uses of purchased                  |      |              |             |       |          |       |           |       |                |
+| 9020 | forms, and 4 uses of bracing lumber                                  |      |              |             |       |          |       |           |       |                |
+| 9060 | To 8' high                                                           | C-2  | 600          | .080        | SFCA  | .66      | 4.39  |           | 5.05  | 7.30           |
+| 9260 | Over 8' to 16' high                                                  |      | 450          | .107        |       | .66      | 5.85  |           | 6.51  | 9.45           |
+| 9460 | Over 16' to 20' high                                                 |      | 400          | .120        |       | .66      | 6.60  |           | 7.26  | 10.55          |
+| 9475 | For elevated walls, add                                              |      |              |             |       |          | 1     |           | 10 %  |                |
+| 9480 | For battered walls, 1 side battered, add                             |      |              |             |       |          | 10 %  |           | 10 %  |                |
+| 9485 | For battered walls, 2 sides battered, add                            |      |              |             |       |          | 15 %  |           | 15 %  |                |
+
+---
+
+## 03 11 16 - Architectural Cast-in-Place Concrete Forming
+
+### 03 11 16.13 Concrete Form Liners
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010 | CONCRETE FORM LINERS                                                 |      |              |             |       |          |       |           |       |                |
+| 5750 | Liners for forms (add to wall forms), ABS plastic                    |      |              |             |       |          |       |           |       |                |
+| 5800 | Aged wood, 4" wide, 1 use                                            | 1 Corp| 256         | .031        | SFCA  | 4.54     | 1.76  |           | 6.30  | 7.60           |
+| 5820 | 2 use                                                                |      | 256          | .031        |       | 2.50     | 1.76  |           | 4.26  | 5.35           |
+| 5830 | 3 use                                                                |      | 256 1.031    |             |       | 1.82     | 1.76  |           | 3.58  | 4.62           |
+| 5840 | 4 use                                                                |      | 256          | .031        |       | 1.48     | 1.76  |           | 3.24  | 4.24           |
+| 5900 | Fractured rope ri, 1 use                                             |      | 192          | .042        |       | 6.60     | 2.35  |           | 8.95  | 10.75          |
+| 5925 | 2 use                                                                |      | 192          | .042        |       | 3.62     | 2.35  |           | 5.97  | 7.50           |
+| 5950 | 3 use                                                                |      | 192          | .042        |       | 2.64     | 2.35  |           | 4.99  | 6.40           |
+| 6000 | 4 use                                                                |      | 192          | .042        |       | 2.14     | 2.35  |           | 4.49  | 5.85           |
+| 6100 | Ribbed, 3/4" deep x 1-1/2" OC, 1 use                                |      | 224          | .036        |       | 6.60     | 2.01  |           | 8.61  | 10.25          |
+| 6125 | 2 use                                                                |      | 224          | .036        |       | 3.62     | 2.01  |           | 5.63  | 7              |
+| 6150 | 3 use                                                                |      | 224          | .036        |       | 2.64     | 2.01  |           | 4.65  | 5.90           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00315 Concrete Accessories
+
+## Concrete - Concrete Construction Joints
+
+### 16.30 Expansion Joints
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3750 | Polyurethane foam, regular, closed cell, 1/2" x 6"                   | 1 Carp | 375          | .021        | L.F. | 1.06     | 1.20  |           | 2.26  | 2.96           |
+| 3800 | 1" x 12"                                                             |        | 300          | .027        |      | 3.79     | 1.50  |           | 5.29  | 6.40           |
+| 4000 | Polyvinyl chloride foam, closed cell, 1/2" x 6"                      |        | 375          | .021        |      | 2.88     | 1.20  |           | 4.08  | 4.96           |
+| 4050 | 1" x 12"                                                             |        | 300          | .027        |      | 9.95     | 1.50  |           | 11.45 | 13.15          |
+| 4250 | Rubber, gray sponge, 1/2" x 6"                                       |        | 375          | .021        |      | 2.42     | 1.20  |           | 3.62  | 4.45           |
+| 4300 | 1" x 12"                                                             |        | 300          | .027        |      | 8.70     | 1.50  |           | 10.20 | 11.85          |
+| 4400 | Redwood heartwood, 1" x 4"                                           |        | 400          | .020        |      | 3.28     | 1.13  |           | 4.41  | 5.30           |
+| 4450 | 1" x 6"                                                              |        | 375          | .021        |      | 4.80     | 1.20  |           | 6     | 7.10           |
+| 5000 | For installation in walls, add                                       |        |              |             |      |          | 75%   |           |       |                |
+| 5250 | For installation in boxouts, add                                     |        |              |             |      |          | 25%   |           |       |                |
+
+---
+
+## 03 15 19 - Cast-In Concrete Anchors
+
+### 03 15 19.05 Anchor Bolt Accessories
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ANCHOR BOLT ACCESSORIES                                              |        |              |             |      |          |       |           |       |                |
+| 0015 | For anchor bolts set in fresh concrete, see Section 03 15 19.10      |        |              |             |      |          |       |           |       |                |
+| 8150 | Anchor bolt sleeve, plastic, 1" diameter bolts                       | 1 Carp | 60           | .133        | Ea.  | 9.20     | 7.50  |           | 16.70 | 21.50          |
+| 8500 | 1-1/2" diameter                                                      |        | 28           | .286        |      | 14.40    | 16.10 |           | 30.50 | 40             |
+| 8600 | 2" diameter                                                          |        | 24           | .333        |      | 16.55    | 18.75 |           | 35.30 | 46             |
+| 8650 | 3" diameter                                                          |        | 20           | .400        |      | 42       | 22.50 |           | 64.50 | 79.50          |
+
+---
+
+### 03 15 19.10 Anchor Bolts
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ANCHOR BOLTS                                                         |        |              |             |      |          |       |           |       |                |
+| 0015 | Made from recycled materials                                         |        |              |             |      |          |       |           |       |                |
+| 0025 | Single bolts installed in fresh concrete, no templates               |        |              |             |      |          |       |           |       |                |
+| 0030 | Hooked w/nut and washer, 1/2" diameter, 8" long                      | 1 Carp | 132          | .061        | Ea.  | 2.23     | 3.41  |           | 5.64  | 7.55           |
+| 0040 | 12" long                                                             |        | 131          | .061        |      | 2.48     | 3.44  |           | 5.92  | 7.85           |
+| 0050 | 5/8" diameter, 8" long                                               |        | 129          | .062        |      | 3.06     | 3.49  |           | 6.55  | 8.55           |
+| 0060 | 12" long                                                             |        | 127          | .063        |      | 3.76     | 3.55  |           | 7.31  | 9.45           |
+| 0070 | 3/4" diameter, 8" long                                               |        | 127          | .063        |      | 3.76     | 3.55  |           | 7.31  | 9.45           |
+| 0080 | 12" long                                                             |        | 125          | .064        | "    | 4.70     | 3.60  |           | 8.30  | 10.50          |
+| 0090 | 2-bolt pattern, including job-built 2-hole template, per set         |        |              |             |      |          |       |           |       |                |
+| 0100 | J type, inc. hex nut & washer, 1/2" diameter x 6" long               | 1 Carp | 21           | .381        | Set  | 8.80     | 21.50 |           | 30.30 | 41.50          |
+| 0110 | 12" long                                                             |        | 21           | .381        |      | 9.80     | 21.50 |           | 31.30 | 34442          |
+| 0120 | 18" long                                                             |        | 21           | .381        |      | 11.30    | 21.50 |           | 32.80 | 44.50          |
+| 0130 | 3/4" diameter x 8" long                                              |        | 20           | .400        |      | 12.40    | 22.50 |           | 34.90 | 47             |
+| 0140 | 12" long                                                             |        | 20           | .400        |      | 14.25    | 22.50 |           | 36.75 | 49             |
+| 0150 | 18" long                                                             |        | 20           | .400        |      | 17.10    | 22.50 |           | 39.60 | 52.50          |
+| 0160 | 1" diameter x 12" long                                               |        | 19           | .421        |      | 33       | 23.50 |           | 56.50 | 71.50          |
+| 0170 | 18" long                                                             |        | 19           | .421        |      | 38.50    | 23.50 |           | 62    | 78             |
+| 0180 | 24" long                                                             |        | 19           | .421        |      | 46       | 23.50 |           | 69.50 | 86             |
+| 0190 | 36" long                                                             | Carp   | 18           | .444        | Set  | 61       | 25    |           | 86     | 105            |
+| 0200 | 1-1/2" diameter x 18" long                                           |        | 17           | .471        |      | 52.50    | 26.50 |           | 79     | 97.50          |
+| 0210 | 24" long                                                             |        | 16           | .500        |      | 62       | 28    |           | 90     | 110            |
+| 0300 | L type, incl. hex nut & washer, 3/4" diameter x 12" long             |        | 20           | .400        |      | 19.75    | 22.50 |           | 42.25  | 55             |
+| 0310 | 18" long                                                             |        | 20           | .400        |      | 24       | 22.50 |           | 46.50  | 60             |
+| 0320 | 24" long                                                             |        | 20           | .400        |      | 28       | 22.50 |           | 50.50  | 64.50          |
+| 0330 | 30" long                                                             |        | 20           | .400        |      | 34.50    | 22.50 |           | 57     | 71.50          |
+| 0340 | 36" long                                                             |        | 20           | .400        |      | 38.50    | 22.50 |           | 61     | 76             |
+| 0350 | 1" diameter x 12" long                                               |        | 19           | .421        |      | 30       | 23.50 |           | 53.50  | 68.50          |
+| 0360 | 18" long                                                             |        | 19           | .421        |      | 36       | 23.50 |           | 59.50  | 75.50          |
+| 0370 | 24" long                                                             |        | 19           | .421        |      | 43.50    | 23.50 |           | 67     | 83.50          |
+| 0380 | 30" long                                                             |        | 19           | .421        |      | 50.50    | 23.50 |           | 74     | 91             |
+| 0390 | 36" long                                                             |        | 18           | 444         |      | 57       | 25    |           | 82     | 99.50          |
+| 0400 | 42" long                                                             |        | 18           | .444        |      | 68       | 25    |           | 93     | 112            |
+
+---
+
+68 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03035 Concrete Accessories
+
+## 03 15 05 - Concrete Forming Accessories
+
+### 03 15 05.15 Column Form Accessories
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010 | COLUMN FORM ACCESSORIES                                              |              |              |             |        |          |       |           |         |                |
+| 1000 | Column clamps, adjustable to 24" x 24", buy                          |              |              |             | Set    | 192      |       |           | 192     | 212            |
+| 1100 | Rent per month                                                       |              |              |             |        | 14.50    |       |           | 14.50   | 15.95          |
+| 1300 | For sizes to 30" x 30", buy                                          |              |              |             |        | 257      |       |           | 257     | 283            |
+| 1400 | Rent per month                                                       |              |              |             |        | 16.70    |       |           | 16.70   | 18.35          |
+| 1600 | For sizes to 36" x 36", buy                                          |              |              |             |        | 291      |       |           | 291     | 320            |
+| 1700 | Rent per month                                                       |              |              |             |        | 18.90    |       |           | 18.90   | 21             |
+| 2000 | Bar type with wedges, 36" x 36", buy                                 |              |              |             |        | 183      |       |           | 1883    | 202            |
+| 2100 | Rent per month                                                       |              |              |             |        | 15.60    |       |           | 15.60   | 17.15          |
+| 2300 | 48" x 48", buy                                                       |              |              |             |        | 253      |       |           | 253     | -278           |
+| 2400 | Rent per month                                                       |              |              |             |        | 20.50    |       |           | 20.50   | 22.50          |
+| 3000 | Scissor type with wedges, 36" x 36", buy                             |              |              |             |        | 174      |       |           | 174     | 191            |
+| 3100 | Rent per month                                                       |              |              |             |        | 16.45    |       |           | 16.45   | 18.10          |
+| 3300 | 60" x 60", buy                                                       |              |              |             |        | 247      |       |           | 247     | 272            |
+| 3400 | Rent per month                                                       |              |              |             |        | 23       |       |           | 23      | 25             |
+| 4000 | Friction collars 2' 6" diam., buy                                    |              |              |             | Set    | 4,450    |       |           | 4,450   | 4,900          |
+| 4100 | Rent per month                                                       |              |              |             |        | 184      |       |           | 184     | 202            |
+| 4300 | 4'-0" diam., buy                                                     |              |              |             |        | 5,450    |       |           | 5,450   | 6,000          |
+| 4400 | Rent per month                                                       |              |              |             |        | 227      |       |           | 227     | 249            |
+
+---
+
+### 03 15 05.30 Hangers
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010 | HANGERS                                                              |              |              |             |        |          |       |           |         |                |
+| 0020 | Slab and beam form                                                   |              |              |             |        |          |       |           |         |                |
+| 0500 | Banding iron                                                         |              |              |             |        |          |       |           |         |                |
+| 0550 | 3/4" x 22 ga., 14 L.F./lb. or 1/2" x 14 ga., 7 L.F./lb.              |              |              |             | Lb.    | 1.823    |       |           | 1.83    | 2.01           |
+| 1000 | Fascia ties, coil type, to 24" long                                  |              |              |             | C      | 520      |       |           | 520     | 570            |
+| 1500 | Frame ties to 8-1/8"                                                 |              |              |             |        | 600      |       |           | 600     | 660            |
+| 1550 | 8-1/8" to 10-1/8"                                                    | G            |              |             |        | 630      |       |           | 630     | 695            |
+| 5000 | Snap tiehanger, to 30" overall length, 3000 #                        | G            |              |             |        | 520      |       |           | 520     | 570            |
+| 5050 | To 36" overall length                                                | G            |              |             |        | 575      |       |           | 575     | 635            |
+| 5100 | To 48" overall length                                                | G.           |              |             |        | 740      |       |           | 740     | 815            |
+| 5500 | Steel beam hanger                                                    |              |              |             |        |          |       |           |         |                |
+| 5600 | Flange to 8-1/8"                                                     | JUG5555      |              |             |        | 600      |       |           | 600     | 660            |
+| 5650 | 8-1/8" to 10-1/8"                                                    | "            |              |             |        | 630      |       |           | 630     | 695            |
+| 5900 | Coil threaded rods, continuous, 1/2" diameter                        |              |              |             | L.F.   | 1.63     |       |           | 1.63    | 1.79           |
+| 6000 | Tie hangers to 30" overall length, 4000 #                            |              |              |             |        | 590      |       |           | 590     | 645            |
+| 6100 | To 36" overall length                                                |              |              |             |        | 645      |       |           | 645     | 710            |
+| 6500 | Tie back hanger, up to 12-1/8" flange                                |              |              |             |        | 1,600    |       |           | 1,600   | 1,775          |
+| 8500 | Wire, black annealed, 15 gauge                                       |              |              |             | Cwt.   | 159      |       |           | 159     | 175            |
+| 8600 | 16 gauge                                                             | "            |              |             |        | 167      |       |           | 167     | 183            |
+
+---
+
+### 03 15 05.70 Shores
+
+| ID   | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010 | SHORES                                                               |              |              |             |        |          |       |           |         |                |
+| 0020 | Erect and strip, by hand, horizontal members                         |              |              |             |        |          |       |           |         |                |
+| 0500 | Aluminum joists and stringers                                        | G 2 Carp     | 60           | .267        | Eo.    |          | 15    |           | 15882   | 22.50          |
+| 0600 | Steel, adjustable beams                                              | G            |              | 45          | .356   |          | 20    |           | 20      | 30             |
+| 0700 | Wood joists                                                          |              |              | 50          | .320   |          | 18    |           | 181     | 27             |
+| 0800 | Wood stringers                                                       |              |              | 30          | .533   |          | 30    |           | 30      | 44.50          |
+| 1000 | Vertical members to 10' high                                         | 5G5555       |              | 55          | .291   |          | 16.40 |           | 16.40   | 24.50          |
+| 1050 | To 13' high                                                          | G            |              | 50          | .320   |          | 18    |           | 18      | 27             |
+| 1100 | To 16' high                                                          | G            |              | 45          | .356   | V        | 20    |           | 20      | 30             |
+| 1500 | Reshoring                                                            | G            |              | 1400        | .011   | S.F.     | .82   | .64       | 1.655   | 1.86           |
+| 1600 | Flying truss system                                                  | G C-17D      | 9600         | .009        | SFCA   |          | .52   | .13       | .65     | .92            |
+| 1760 | Horizontal, aluminum joists, 6-1/4" high x 5' to 21' span, buy       | G            |              |             | LE     | 21.50    |       |           | 21.50   | 23.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03031 Concrete Forming
+
+## 03 11 Concretectural Cast-In-Place Concrete Forming
+
+### 03 11 13.45 Forms In Place, Footings
+
+#### 2022 Bare Costs
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 4150 | 4 use                                                                | C-1  | 315         | .102        | SFCA  | 1.68     | 5.45  |           | 7.13  | 9.95           |
+| 5000 | Spread footings, job-built lumber, 1 use                             |      | 305         | .105        |       | 3.13     | 5.65  |           | 8.78  | 11.85          |
+| 5050 | 2 use                                                                |      | 371         | .086        |       | 1.74     | 4.63  |           | 6.37  | 8.80           |
+| 5100 | 3 use                                                                |      | 401         | .080        |       | 1.25     | 4.28  |           | 5.53  | 7.75           |
+| 5150 | 4 use                                                                |      | 414         | .077        |       | 1.02     | 4.15  |           | 5.17  | 7.25           |
+| 6000 | Supports for dowels, plinths or templates, 2' x 2' footing           |      | 25          | 1.280       | Ea    | 9.35     | 68.50 |           | 77.85 | 112            |
+| 6050 | 4' x 4' footing                                                      |      | 22          | 1.455       |       | 18.75    | 78    |           | 96.75 | 137            |
+| 6100 | 8' x 8' footing                                                      |      | 20          | 1.600       |       | 37.50    | 86    |           | 123.50| 169            |
+| 6150 | 12' x 12' footing                                                    |      | 17          | 1.882       |       | 55.50    | 101   |           | 156.50| 211            |
+| 7000 | Plinths, job built plywood, 1 use                                    |      | 250         | .128        | SFCA  | 5.80     | 6.85  |           | 12.65 | 16.55          |
+| 7100 | 4 use                                                                |      | 270         | .119        |       | 1.90     | 6.35  |           | 8.25  | 11.55          |
+
+---
+
+### 03 11 13.47 Forms In Place, Gas Station Forms
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | FORMS IN PLACE, GAS STATION FORMS                                    |        |             |             |      |          |       |           |         |                |
+| 0050 | Curb fascia, with template, 12 ga. steel, left in place, 9" high     | 55G5555 1 Carp | 50          | .160        | LF   | 17.15    | 9     |           | 26.15   | 32.50          |
+| 1000 | Sign or lightbases, 18" diameter, 9" high                            | G      | 9           | .889        | Ea   | 108      | 50    |           | 158     | 194            |
+| 1050 | 30" diameter, 13" high                                               | G      | 8           |             |      | 172      | 56.50 |           | 228.50  | 273            |
+| 2000 | Island forms, 10' long, 9" high, 3'-6" wide                          | G (-1) | 10          | 3.200       |      | 480      | 172   |           | 652     | 785            |
+| 2050 | 4' wide                                                              | G      | 9           | 3.556       |      | 495      | 191   |           | 686     | 830            |
+| 2500 | 20' long, 9" high, 4' wide                                           | G      | 99          | 5.333       |      | 795      | 286   |           | 1,081   | 1,300          |
+| 2550 | 5' wide                                                              | G      |             | 6.400       |      | 830      | 345   |           | 1,175   | 1,425          |
+
+---
+
+### 03 11 13.50 Forms In Place, Grade Beam
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010 | FORMS IN PLACE, GRADE BEAM                                           |      |             |             |       |          |       |           |       |                |
+| 0020 | Job-built plywood, 1 use                                             | C-2  | 530         | .091        | SFCA  | 3.90     | 4.97  |           | 8.87  | 11.70          |
+| 0050 | 2 use                                                                |      | 580         | .083        |       | 2.15     | 4.54  |           | 6.69  | 9.10           |
+| 0100 | 3 use                                                                |      | 600         | .080        |       | 1.56     | 4.39  |           | 5.95  | 8.25           |
+| 0150 | 4 use                                                                |      | 605         | .079        |       | 1.27     | 4.35  |           | 5.62  | 7.90           |
+
+---
+
+### 03 11 13.55 Forms In Place, Mat Foundation
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010 | FORMS IN PLACE, MAT FOUNDATION                                       |      |             |             |       |          |       |           |       |                |
+| 0020 | Job-built plywood, 1 use                                             | C-2  | 290         | .166        | SFCA  | 4.42     | 9.10  |           | 13.52 | 18.35          |
+| 0050 | 2 use                                                                |      | 310         | .155        |       | 1.72     | 8.50  |           | 10.22 | 14.55          |
+| 0100 | 3 use                                                                |      | 330         | .145        |       | 1.14     | 8     |           | 9.14  | 13.15          |
+| 0120 | 4 use                                                                |      | 350         | .137        | T     | 1.02     | 7.50  |           | 8.52  | 12.30          |
+
+---
+
+### 03 11 13.65 Forms In Place, Slab On Grade
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010 | FORMS IN PLACE, SLAB ON GRADE                                        |      |             |             |       |          |       |           |       |                |
+| 1000 | Bulkhead forms w/keyway, wood, 6" high, 1 use                        | (-1) | 510         | .063        | LF    | 1.41     | 3.37  |           | 4.78  | 6.55           |
+| 1050 | 2 uses                                                               |      | 400         | .080        |       | .77      | 4.29  |           | 5.06  | 7.25           |
+| 1100 | 4 uses                                                               |      | 350         | .091        |       | .46      | 4.90  |           | 5.36  | 7.80           |
+| 1400 | Bulkhead form for slab, 4-1/2" high, exp metal, inc. keyway & stakes | 66G6 | 1200        | .027        |       | 1.18     | 1.43  |           | 2.61  | 3.43           |
+| 1410 | 5-1/2" high                                                          | G    | 1100        | .029        |       | 1.36     | 1.56  |           | 2.92  | 3.82           |
+| 1420 | 7-1/2" high                                                          | G    | 960         | .033        |       | 1.68     | 1.79  |           | 3.47  | 4.51           |
+| 1430 | 9-1/2" high                                                          | G    | 840         | .038        |       | 1.83     | 2.04  |           | 3.87  | 5.05           |
+| 2000 | Curb forms, wood, 6" to 12" high, on grade, 1 use                    |      | 215         | .149        | SFCA  | 3.56     | 8     |           | 11.56 | 15.80          |
+| 2050 | 2 use                                                                |      | 250         | .128        |       | 1.97     | 6.85  |           | 8.82  | 12.35          |
+| 2100 | 3 use                                                                |      | 265         | .121        |       | 1.43     | 6.50  |           | 7.93  | 11.20          |
+| 2150 | 4 use                                                                |      | 275         | .116        |       | 1.16     | 6.25  |           | 7.41  | 10.55          |
+| 3000 | Edge forms, wood, 4 use, on grade, to 6" high                        |      | 600         | .053        | LF    | .46      | 2.86  |           | 3.32  | 4.77           |
+| 3050 | 7" to 12" high                                                       |      | 435         | .074        | SFCA  | 1.22     | 3.95  |           | 5.17  | 7.20           |
+| 3060 | Over 12"                                                            |      | 350         | .091        |       | 1.45     | 4.90  |           | 6.35  | 8.90           |
+| 3500 | For depressed slabs, 4 use, to 12" high                              |      | 300         | .107        | LF    | 1.19     | 5.70  |           | 6.89  | 9.80           |
+| 3550 | To 24" high                                                          |      | 175         | .183        |       | 1.57     | 9.80  |           | 11.37 | 16.35          |
+| 4000 | For slab blockouts, to 12" high, 1 use                               |      | 200         | .160        |       | 1.27     | 8.60  |           | 9.87  | 14.15          |
+| 4050 | To 24" high, 1 use                                                   |      | 120         | .267        |       | 1.62     | 14.30 |           | 15.92 | 23.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 11 19 Insulating Concrete Forming  
+## 03 11 19.10 Insulating Forms, Left In Place
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0630  | 12'-1" to 20'-0" high, add                                           |         |              |             |        |          | 35%   |           |       |                |
+| 0640  | Over 20'-0" high, add                                                |         |              |             |        |          | 55%   |           |       |                |
+| 0700  | Taper block or panels, molded, single course                         |         |              |             |        |          |       |           |       |                |
+| 0720  | 6" core wall                                                         | 4 Carp  | 1600         | .020        | S.F.   | 5.20     | 1.13  |           | 6.33  | 7.45           |
+| 0730  | 8" core wall                                                         | "       | 1392         | .023        | "      | 5.25     | 1.29  |           | 6.54  | 7.75           |
+| 0800  | ICF brick ledge (corbel) block or panels, molded, single course      |         |              |             |        |          |       |           |       |                |
+| 0820  | 6" core wall                                                         | 14 Carp | 1200         | .027        | S.F.   | 5.75     | 1.50  |           | 7.25  | 8.55           |
+| 0830  | 8" core wall                                                         | "       | 1152         | .028        | "      | 5.85     | 1.56  |           | 7.41  | 8.80           |
+| 0900  | ICF curb (shelf) block or panels, molded, single course              |         |              |             |        |          |       |           |       |                |
+| 0930  | 8" core wall                                                         | 4 Carp  | 688          | .047        | S.F.   | 4.95     | 2.62  |           | 7.57  | 9.35           |
+| 0940  | 10" core wall                                                        | "       | 544          | .059        | F      | 5.65     | 3.31  |           | 8.96  | 11.20          |
+| 0950  | Wood form to hold back concrete to form shelf, 8" high               | 2 Carp  | 400          | .040        | LF     | 1.54     | 2.25  |           | 3.79  | 5.05           |
+| 1000  | ICF half height block or panels, molded, single course               |         |              |             |        |          |       |           |       |                |
+| 1010  | 4" core wall                                                         | 14 Carp | 1248         | .026        | S.F.   | 6.30     | 1.44  |           | 7.74  | 9.05           |
+| 1020  | 6" core wall                                                         |         | 1152         | .028        |        | 6.30     | 1.56  |           | 7.86  | 9.30           |
+| 1030  | 8" core wall                                                         |         | 942          | .034        |        | 6.35     | 1.91  |           | 8.26  | 9.85           |
+| 1040  | 10" core wall                                                        |         | 752          | .043        |        | 7        | 2.40  |           | 9.40  | 11.25          |
+| 1050  | 12" core wall                                                        |         | 648          | .049        |        | 6.95     | 2.78  |           | 9.73  | 11.80          |
+| 1100  | ICF half height block/panels, made by fieldsawing fullheight block/panels |         |              |             |        |          |       |           |       |                |
+| 1110  | 4" core wall                                                         | 4 Carp  | 800          | .040        | S.F.   | 2.62     | 2.25  |           | 4.87  | 6.25           |
+| 1120  | 6" core wall                                                         |         | 752          | .043        |        | 2.62     | 2.40  |           | 5.02  | 6.45           |
+| 1130  | 8" core wall                                                         |         | 600          | .053        |        | 2.72     | 3     |           | 5.72  | 7.45           |
+| 1140  | 10" core wall                                                        |         | 496          | .065        |        | 3.36     | 3.63  |           | 6.99  | 9.10           |
+| 1150  | 12" core wall                                                        |         | 400          | .080        |        | 3.41     | 4.50  |           | 7.91  | 10.45          |
+| 1200  | Additional insulation inserted into forms between ties                |         |              |             |        |          |       |           |       |                |
+| 1210  | 1 layer (2" thick)                                                   | 4 Carp  | 14000        | .002        | S.F.   | 1.56     | .13   |           | 1.69  | 1.91           |
+| 1220  | 2 layers (4" thick)                                                  |         | 7000         | .005        |        | 3.12     | .26   |           | 3.38  | 3.81           |
+| 1230  | 3 layers (6" thick)                                                  |         | 4622         | .007        |        | 4.68     | .39   |           | 5.07  | 5.75           |
+| 1300  | EPS window/door bucks, molded, permanent                             |         |              |             |        |          |       |           |       |                |
+| 1310  | 4" core wall (9" wide)                                               | 12 Carp | 200          | .080        | L.F.   | 3.98     | 4.50  |           | 8.48  | 11.10          |
+| 1320  | 6" core wall (11" wide)                                              |         | 200          | .080        |        | 3.92     | 4.50  |           | 8.42  | 11             |
+| 1330  | 8" core wall (13" wide)                                              |         | 176          | .091        |        | 4.37     | 5.10  |           | 9.47  | 12.40          |
+| 1340  | 10" core wall (15" wide)                                             |         | 152          | .105        |        | 4.85     | 5.95  |           | 10.80 | 14.15          |
+| 1350  | 12" core wall (17" wide)                                             |         | 152          | .105        |        | 5.55     | 5.95  |           | 11.50 | 14.90          |
+| 1360  | 2" x 6" temporary buck bracing (includes installing and removing)    |         | 400          | .040        |        | .96      | 2.25  |           | 3.21  | 4.40           |
+| 1400  | Wood window/door bucks (instead of EPS bucks), permanent             |         |              |             |        |          |       |           |       |                |
+| 1410  | 4" core wall (9" wide)                                               | 12 Carp | 400          | .040        | LF     | 1.96     | 2.25  |           | 4.21  | 5.50           |
+| 1420  | 6" core wall (11" wide)                                              |         | 400          | .040        |        | 2.75     | 2.25  |           | 51     | 6.35           |
+| 1430  | 8" core wall (13" wide)                                              |         | 350          | 1 .046      |        | 8.50     | 2.57  |           | 11.07 | 13.20          |
+| 1440  | 10" core wall (15" wide)                                             |         | 300          | .053        |        | 11.75    | 3     |           | 14.75 | 17.35          |
+| 1450  | 12" core wall (17" wide)                                             |         | 300          | .053        |        | 11.75    | 3     |           | 14.75 | 17.35          |
+| 1460  | 2" x 6" temporary buck bracing (includes installing and removing)    |         | 800          | .020        |        | .96      | 1.13  |           | 2.09  | 2.73           |
+| 1500  | ICF alignment brace (inc. stif-back, diagonal kick back, work platform |         |              |             |        |          |       |           |       |                |
+| 1501  | bracket & guard rail post), fastened to one face of wall forms @ 6' O.C. |         |              |             |        |          |       |           |       |                |
+| 1510  | 1st tier up to 10' tall                                              |         |              |             |        |          |       |           |       |                |
+| 1520  | Rental of ICF alignment brace set, per set                           |         |              |             | Week   | 13.35    |       |           | 13.35 | 14.70          |
+| 1530  | Labor includes installing & removing                                 | 12 Carp | 30           | .533        | Ea.    |          | 30    |           | 30    | 44.50          |
+| 1560  | 2nd tier from 10' to 20' tall (excludes mason's scaffolding up to 10' high) |         |              |             |        |          |       |           |       |                |
+| 1570  | Rental of ICF alignment brace set, per set                           |         |              |             | Week   | 13.35    |       |           | 13.35 | 14.70          |
+| 1580  | Labor (includes installing & removing)                               | 4 Carp  | 30           | 1.067       | Ea.    |          | 60    |           | 60    | 89.50          |
+| 1600  | 2" x 10" wood plank for work platform, 16' long                      |         |              |             |        |          |       |           |       |                |
+| 1610  | Plank material cost pro-rated over 20 uses                           |         |              |             | Ea.    | 1.57     |       |           | 1.57  | 1.73           |
+| 1620  | Labor includes installing & removing                                 | 12 Carp | 48           | .333        | "      |          | 18.75 |           | 18.75 | 28              |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 15 05 - Concrete Forming Accessories
+
+## 03 15 05.85 Stair Tread Inserts
+
+Extruded nosing insert, black abrasive strips, continuous anchor  
+Aluminum, 3" wide x 3' long  
+4' long  
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0135 | Extruded nosing insert, black abrasive strip, continuous anchor      |        |              |             |      |          |       |           |       |                |
+| 0140 | Aluminum, 3" wide x 3' long                                          | 1 Cefi | 645          | 0.125       | Ea.  | 34.50    | 6.65  |           | 41.15 | 47             |
+| 0150 | 4' long                                                              |        | 60           | 0.133       |      | 45       | 7.10  |           | 52.10 | 60             |
+| 0160 | 5' long                                                              |        | 56           | 0.143       |      | 53.50    | 7.60  |           | 61.10 | 70             |
+| 0165 | Extruded nosing insert, black abrasive strips, pre-drilled, incl. screws |        |              |             |      |          |       |           |       |                |
+| 0170 | Aluminum, 3" wide x 3' long                                          | 1 Cefi | 32           | 0.250       | Ea.  | 43.50    | 13.30 |           | 56.80 | 67             |
+| 0180 | 4' long                                                              |        | 31           | 0.258       |      | 55       | 13.70 |           | 68.70 | 80             |
+| 0190 | 5' long                                                              |        | 30           | 0.267       |      | 67       | 14.15 |           | 81.15 | 94             |
+
+---
+
+## 03 15 05.95 Wall and Foundation Form Accessories
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | WALL AND FOUNDATION FORM ACCESSORIES                                 |        |              |             |      |          |       |           |       |                |
+| 2000 | Footings, turnbuckle form aligner                                    | G@     |              |             | Ea.  | 23       |       |           | 23225 | 25             |
+| 2050 | Spreaders for footer, adjustable                                     |        |              |             | "    | 27       |       |           | 27    | 29.5           |
+| 3000 | Form oi, up to 1200 S.F./gallon coverage                             |        |              |             | Gal. | 13.60    |       |           | 13.60 | 15             |
+| 3050 | Up to 800 S.F./gallon                                                |        |              |             | "    | 22       |       |           |       | 24             |
+| 3500 | Form patches, 1-3/4" diameter                                        |        |              |             |      | 34       |       |           | 34    | 37.5           |
+| 3550 | 2-3/4" diameter                                                      |        |              |             | "    | 59       |       |           | 59    | 65             |
+| 4000 | Nail stakes, 3/4" diameter, 18" long                                 | 5555   |              |             | Ea.  | 3.79     |       |           | 3.79  | 4.1            |
+| 4050 | 24" long                                                             | G      |              |             |      | 4.35     |       |           | 4.35  | 4.7            |
+| 4200 | 30" long                                                             |        |              |             |      | 4.73     |       |           | 4.73  | 5.2            |
+| 4250 | 36" long                                                             | G      |              |             |      | 5.95     |       |           | 5.95  | 6.5            |
+
+---
+
+## 03 15 13 - Waterstops
+
+### 03 15 13.50 Waterstops
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | WATERSTOPS, PVC and Rubber                                           |        |              |             |      |          |       |           |       |                |
+| 0020 | PVC, ribbed 3/16" thick, 4" wide                                     | 1 Carp | 155          | 0.052       | LF   | 1.75     | 2.91  |           | 4.66  | 6.2            |
+| 0050 | 6" wide                                                              |        | 145          | 0.055       |      | 2.76     | 3.11  |           | 5.87  | 7.6            |
+| 0500 | With center bulb, 6" wide, 3/16" thick                               |        | 135          | 0.059       |      | 2.87     | 3.34  |           | 6.21  | 8.1            |
+| 0550 | 3/8" thick                                                           |        | 130          | 0.062       |      | 3.32     | 3.46  |           | 6.78  | 8.80           |
+| 0600 | 9" wide x 3/8" thick                                                 |        | 125.064      |             |      | 4.39     | 3.60  |           | 7.99  | 10.20          |
+| 0800 | Dumbbell type, 6" wide, 3/16" thick                                 | 1 Carp | 150          | 0.053       | L.F. | 5.10     | 3     |           | 8.10  | 10.10          |
+| 0850 | 3/8" thick                                                           |        | 145.055      |             |      | 4.52     | 3.11  |           | 7.63  | 9.60           |
+| 1000 | 9" wide, 3/8" thick, plain                                           |        | 130          | 0.062       |      | 6.95     | 3.46  |           | 10.41 | 12.80          |
+| 1050 | Center bulb                                                          |        | 130          | 0.062       |      | 10.45    | 3.46  |           | 13.91 | 16.65          |
+| 1250 | Ribbed type, split, 3/16" thick, 6" wide                             |        | 145          | 0.055       |      | 2.87     | 3.11  |           | 5.98  | 7.80           |
+| 1300 | 3/8" thick                                                           |        | 130          | 0.062       |      | 5.65     | 3.46  |           | 9.11  | 11.35          |
+| 2000 | Rubber, flat dumbbell, 3/8" thick, 6" wide                           |        | 145.055      |             |      | 5.90     | 3.11  |           | 9.01  | 11.10          |
+| 2050 | 9" wide                                                              |        | 135.059      |             |      | 11.95    | 3.34  |           | 15.29 | 18.10          |
+| 2500 | Flat dumbbell split, 3/8" thick, 6" wide                             |        | 145          | 0.055       |      | 2.87     | 3.11  |           | 5.98  | 7.80           |
+| 2550 | 9" wide                                                              |        | 135          | 0.059       |      | 5.65     | 3.34  |           | 8.99  | 11.15          |
+| 3000 | Center bulb, 1/4" thick, " wide                                      |        | 145          | 0.055       |      | 7.30     | 3.11  |           | 10.41 | 12.65          |
+| 3050 | 9" wide                                                              |        | 135          | 0.059       |      | 15.25    | 3.34  |           | 18.59 | 21.50          |
+| 3500 | Center bulb split, 3/8" thick, 6" wide                               |        | 145          | 0.055       |      | 5.65     | 3.11  |           | 8.76  | 10.85          |
+| 3550 | 9" wide                                                              |        | 135          | 0.059       |      | 9.45     | 3.34  |           | 12.79 | 15.35          |
+| 5000 | Waterstop fitting, rubber, flat                                      |        |              |             |      |          |       |           |       |                |
+| 5010 | Dumbbell or center bulb, 3/8" thick                                  |        |              |             |      |          |       |           |       |                |
+| 5200 | Field union, 6" wide                                                 | 1 Carp | 50           | 160         | Ea.  | 30.50    | 9     |           | 39.50 | 47             |
+| 5250 | 9" wide                                                              |        | 1150         | 0.160       |      | 34       | 9     |           | 43    | 51             |
+| 5500 | Flat cross, 6" wide                                                  |        | 30           | 0.267       |      | 45.50    | 15    |           | 60.50 | 72.50          |
+| 5550 | 9" wide                                                              |        | 30           | 0.267       |      | 68       | 15    |           | 883   | 97             |
+| 6000 | Flat tee, 6" wide                                                    |        | 30           | 0.267       |      | 49.50    | 15    |           | 64.50 | 77             |
+| 6050 | 9" wide                                                              |        | 30           | 0.267       |      | 65.50    | 15    |           | 80.50 | 94.50          |
+| 6500 | Flot ell, 6" wide                                                    |        | 40           | 0.200       |      | 49       | 11.25 |           | 60.25 | 71             |
+| 6550 | 9" wide                                                              |        | 40           | 0.200       |      | 60.50    | 11.25 |           | 71.75 | 83.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 11 Concrete Forming
+
+## 03 11 13 - Structural Cast-In-Place Concrete Forming
+
+### 03 11 13.35 Forms In Place, Elevated Slabs
+
+Box out for slab openings, over 16" deep, 1 use
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 5000 | Box out for slab openings, over 16" deep, 1 use                      | -2   | 190          | .253        | SFCA | 5.25     | 13.85  |           | 19.10  | 26.50          |
+| 5050 | 2 use                                                                |      | 240          | .200        | "    | 2.89     | 10.95  |           | 13.84  | 19.55          |
+| 5500 | Shallow slab box outs, to 10 S.F.                                    |      | 42           | 1.143       | Ea.  | 17.70    | 62.50  |           | 80.20  | 113            |
+| 5550 | Over 10 S.F. (use perimeter)                                         |      | 600          | .080        | LF   | 2.37     | 4.39   |           | 6.76   | 9.15           |
+| 6000 | Bulkhead forms for slab, with keyway, 1 use, 2 piece                 |      | 500.096      |             |      | 2.39     | 5.25   |           | 7.64   | 10.50          |
+| 6100 | 3 piece (see also edge forms)                                        | →    | 460.104      |             |      | 2.73     | 5.70   |           | 8.43   | 11.50          |
+| 6200 | Slab bulkhead form, 4-1/2" high, exp metal, w/keyway & stakes 5555   |      | 1200         | .027        |      | 1.18     | 1.43   |           | 2.61   | 3.43           |
+| 6210 | 5-1/2" high                                                          |      | 1100         | .029        |      | 1.36     | 1.56   |           | 2.92   | 3.82           |
+| 6215 | 7-1/2" high                                                          |      | 960          | .033        |      | 1.68     | 1.79   |           | 3.47   | 4.51           |
+| 6220 | 9-1/2" high                                                          |      | 840          | .038        |      | 1.83     | 2.04   |           | 3.87   | 5.05           |
+| 6500 | Curb forms, wood, 6" to 12" high, on elevated slabs, 1 use           |      | 180          | .178        | SFCA | 2.67     | 9.55   |           | 12.22  | 17.15          |
+| 6550 | 2 use                                                                |      | 205          | .156        |      | 1.47     | 8.35   |            | 9.82   | 14.05          |
+| 6600 | 3 use                                                                |      | 220          | .145        |      | 1.07     | 7.80   |           | 8.87   | 12.75          |
+| 6650 | 4 use                                                                |      | 225          | .142        |      | .87      | 7.65¹  |           | 8.521  | 12.30          |
+| 7000 | Edge forms to 6" high, on elevated slab, 4 use                       |      | 500          | .064        | L.F. | .31      | 3.43   |           | 3.74   | 5.45           |
+| 7070 | 7" to 12" high, 1 use                                                |      | 162          | .198        | SFCA | 2.02     | 10.60  |           | 12.62  | 17.95          |
+| 7080 | 2 use                                                                |      | 198          | .162        |      | 1.11     | 8.65   |           | 9.76   | 14.10          |
+| 7090 | 3 use                                                                |      | 222          | .144        |      | .81      | 7.75   |           | 8.56   | 12.40          |
+| 7101 | 4 use                                                                |      | 350          | .091        |      | .66      | 4.90   |           | 5.56   | 8              |
+| 7500 | Depressed area forms to 12" high, 4 use                              |      | 300          | .107        | LF   | 1.17     | 5.70   |           | 6.87   | 9.80           |
+| 7550 | 12" to 24" high, 4 use                                               |      | 175          | .183        |      | 1.59     | 9.80   |           | 11.39  | 16.35          |
+| 8000 | Perimeter deck and rail for elevated slabs, straight                  |      | 90           | .356        |      | 19.60    | 19.05  |           | 38.65  | 50             |
+| 8050 | Curved                                                               |      | 65           | .492        |      | 27       | 26.50  |           | 53.50  | 69             |
+| 8500 | Void forms, round plastic, 8" high x 3" diameter G55                 |      | 450          | .071        | Ea.  | 1.45     | 3.81   |           | 5.26   | 7.30           |
+| 8550 | 4" diameter                                                          |      | 425          | .075        |      | 2.16     | 4.04   |           | 6.20   | 8.40           |
+| 8600 | 6" diameter                                                          |      | 400          | .080        |      | 3.55     | 4.29   |           | 7.84   | 10.30          |
+| 8650 | 8" diameter G                                                        |      | 375          | .085        |      | 6.35     | 4.58   |           | 10.93  | 13.80          |
+
+---
+
+## 03 11 13.40 Forms In Place, Equipment Foundations
+
+| ID    | Name                                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|---------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | FORMS IN PLACE, EQUIPMENT FOUNDATIONS R031113-40  |      |              |             |      |          |        |           |        |                |
+| 0020  | 1 use                                             | C-2  | 160          | .300        | SFCA | 4.14     | 16.45  |           | 20.59  | 2292           |
+| 0050  | 2 use R031113-60                                  |      | 190          | .253        |      | 2.28     | 13.85  |           | 16.13  | 23             |
+| 0100  | 3 use                                             |      | 200          | .240        |      | 1.66     | 13.15  |           | 14.81  | 21.50          |
+| 0150  | 4 use                                             |      | 205          | .234        | →    | 1.35     | 12.85  |           | 14.20  | 20.50          |
+
+---
+
+## 03 11 13.45 Forms In Place, Footings
+
+| ID    | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|-------------------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | FORMS IN PLACE, FOOTINGS R031113-40                         |      |              |             |      |          |        |           |        |                |
+| 0020  | Continuous wall, plywood, 1 use G-1                         |      | 375          | .085        | SFCA | 7.85     | 4.58   |           | 12.43  | 15.45          |
+| 0050  | 2 use R031113-60                                            |      | 440          | .073        |      | 4.33     | 3.90   |           | 8.23   | 10.55          |
+| 0100  | 3 use                                                       |      | 470          | .068        | +    | 3.15     | 3.65   |           | 6.80   | 8.90           |
+| 0150  | 4 use G-T                                                   |      | 485          | .066        | SFCA | 2.57     | 3.54¹  |           | 6.11   | 8.05           |
+| 0500  | Dowel supports for footings or beams, 1 use                 |      | 500          | .064        | L.F. | 1.46     | 3.43   |           | 4.89   | 6.70           |
+| 1000  | Integral starter wall, to 4" high, 1 use                    |      | 400          | F .080      |      | 1.43     | 4.29   |           | 5.72   | 8              |
+| 1500  | Keyway, 4 use, tapered wood, 2" x 4" 1 Carp                 |      | 530          | .015        |      | .35      | .85    |           | 1.20   | 1.64           |
+| 1550  | 2" x 6"                                                     |      | 500          | .016        |      | .48      | .90    |           | 1.38   | 1.87           |
+| 2000  | Tapered plastic                                             |      | 530          | .015        |      | .61      | .85    |           | 1.46   | 1.93           |
+| 2250  | For keyway hung from supports, add                          |      | 150          | .053        |      | 1.46     | 3      |           | 4.46   | 6.05           |
+| 3000  | Pile cap, square or rectangular, job-built plywood, 1 use   | (-1  | 290          | .110        | SFCA | 4.40     | 5.90   |           | 10.30  | 13.65          |
+| 3050  | 2 use                                                       |      | 346          | .092        |      | 2.42     | 4.96   |           | 7.38   | 10.05          |
+| 3100  | 3 use                                                       |      | 371.086      |             |      | 1.76     | 4.63   |           | 6.39   | 8.85           |
+| 3150  | 4 use                                                       |      | 383          | .084        |      | 1.43     | 4.48   |           | 5.91   | 8.20           |
+| 4000  | Triangular or hexagonal, 1 use                              |      | 225          | .142        |      | 5.15     | 7.65   |           | 12.80  | 17.05          |
+| 4050  | 2 use                                                       |      | 280          | .114        |      | 2.84     | 6.15   |           | 8.99   | 12.20          |
+| 4100  | 3 use                                                       |      | 305          | .105        |      | 2.06     | 5.65   |           | 7.71   | 10.65          |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 03 11 13 - Structural Cast-In-Place Concrete Forming
+
+## 03 11 13.65 Forms In Place, Slab On Grade
+
+Plastic (extruded), to 6" high, multiple use, on grade  
+Screed, 24 ga. metal key joint, see Section 03 15 16.30
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 4100  | Plastic (extruded), to 6" high, multiple use, on grade               | -1     | 800          | .040        | LE   | 11.80    | 2.15  |           | 13.95 | 16.15          |
+| 5000  | Screed, 24 ga. metal key joint, see Section 03 15 16.30              |        |              |             |      |          |       |           |       |                |
+| 5020  | Wood, incl. wood stakes, 1" x 3"                                     | C-1    | 900          | .036        | LF   | .92      | 1.91  |           | 2.83  | 3.85           |
+| 5050  | 2" x 4"                                                              |        | 900          | .036        | "    | 1.11     | 1.91  |           | 3.02  | 4.06           |
+| 6000  | Trench forms in floor, wood, 1 use                                   |        | 160          | 1.200       | SFCA | 2.88     | 10.75 |           | 13.63 | 19.10          |
+| 6050  | 2 use                                                                |        | 175          | .183        |      | 1.59     | 9.80  |           | 11.39 | 16.35          |
+| 6100  | 3 use                                                                |        | 180          | .178        |      | 1.15     | 9.55  |           | 10.70 | 15.45          |
+| 6150  | 4 use                                                                |        | 185          | .173        |      | .94      | 9.30  |           | 10.24 | 14.85          |
+| 8760  | Void form, corrugated fiberboard, 4" x 12", 4' long                  | G      | 3000         | .011        | S.F. | 4.65     | .57   |           | 5.22  | 5.95           |
+| 8770  | 6" x 12", 4' long                                                    | $3000  | .011         |             |      | 5.05     | .565  |           | 5.62  | 6.40           |
+| 8780  | 1/4" thick hardboard protective cover for void form                  | 12 Corp| 1500         | .011        |      | .87      | .60   |           | 1.47  | 1.85           |
+
+---
+
+## 03 11 13.85 Forms In Place, Walls
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, WALLS                                                | R031113-10 | 24         | 2           | Ea.  | 34       | 110   |           | 144   | 200            |
+| 0100  | Box out for wall openings, to 16" thick, to 10 S.F.                  | C-2    | 24           | 2           | Ea.  | 34       | 110   |           | 144   | 200            |
+| 0150  | Over 10 S.F. (use perimeter)                                         | R031113-40 | 280        | .171        | LF.  | 3.07     | 9.40  |           | 12.47 | 17.35          |
+| 0250  | Brick shelf, 4" W, add to wall forms, use wall area above shelf      |        |              |             |      |          |       |           |       |                |
+| 0260  | 1 use                                                                | R031113-60 | C-2        | 240         | .200 | SFCA     | 3.49  | 10.95     | 14.44 | 20             |
+| 0300  | 2 use                                                                |        | 275          | .175        |      | 1.92     | 9.55  |           | 11.47 | 16.35          |
+| 0350  | 4 use                                                                |        | 300          | .160        |      | 1.40     | 8.80  |           | 10.20 | 14.60          |
+| 0500  | Bulkhead, wood with keyway, 1 use, 2 piece                           |        | 265          | .181        | LF   | 3.40     | 9.95  |           | 13.35 | 18.55          |
+| 0600  | Bulkhead forms with keyway, 1 piece expanded metal, 8" wall          | G      | 1000         | .032        |      | 1.68     | 1.72  |           | 3.40  | 4.40           |
+| 0610  | 10" wall                                                             | G      | 800          | .040        |      | 1.83     | 2.15  |           | 3.98  | 5.20           |
+| 0620  | 12" wall                                                             |        | 525          | .061        |      | 2.20     | 3.27  |           | 5.47  | 7.30           |
+| 0700  | Buttress, to 8' high, 1 use                                          | C-2    | 350          | .137        | SFCA | 5.80     | 7.50  |           | 13.30 | 17.60          |
+| 0750  | 2 use                                                                |        | 430          | .112        |      | 3.19     | 6.10  |           | 9.29  | 12.60          |
+| 0800  | 3 use                                                                |        | 1460         | .104        |      | 2.33     | 5.70  |           | 8.03  | 11.05          |
+| 0850  | 4 use                                                                |        | 480          | .100        |      | 1.91     | 5.50  |           | 7.411 | 10.25          |
+| 1000  | Corbel or haunch, to 12" wide, add to wall forms, 1 use              |        | 150          | .320        | L.F. | 3.68     | 17.55 |           | 21.23 | 30              |
+| 1050  | 2 use                                                                |        | 170          | .282        |      | 2.02     | 15.50 |           | 17.52 | 25              |
+| 1100  | 3 use                                                                |        | 175          | .274        |      | 1.47     | 15.05 |           | 16.52 | 24              |
+| 1150  | 4 use                                                                |        | 180          | .267        |      | 1.20     | 14.65 |           | 15.85 | 23.50           |
+| 2000  | Wall, job-built plywood, to 8' high, 1 use                           |        | 370          | .130        | SFCA | 4.16     | 7.10  |           | 11.26 | 15.15           |
+| 2050  | 2 use                                                                |        | 435.110      |             |      | 2.66     | 6.05  |           | 8.71  | 11.95           |
+| 2100  | 3 use                                                                |        | 495          | .097        |      | 1.93     | 5.30  |           | 7.23  | 10.05           |
+| 2150  | 4 use                                                                |        | 505          | -.095       |      | 1.57     | 5.20  |           | 6.77  | 9.50            |
+| 2400  | Over 8' to 16' high, 1 use                                           |        | 280.171      |             |      | 4.58     | 9.40  |           | 13.98 | 19.05           |
+| 2450  | 2 use                                                                |        | 345          | .139        |      | 1.70     | 7.65  |           | 9.35  | 13.20           |
+| 2500  | 3 use                                                                |        | 375          | .128        |      | 1.22     | 7     |           | 8.22  | 11.80           |
+| 2550  | 4 use                                                                |        | 395          | .122        |      | .99      | 6.65  |           | 7.64  | 11              |
+| 2700  | Over 16' high, 1 use                                                 |        | 235          | .204        |      | 3.52     | 11.20 |           | 14.72 | 20.50           |
+| 2750  | 2 use                                                                |        | 290.166      |             |      | 1.94     | 9.10  |           | 11.04 | 15.65           |
+| 2800  | 3 use                                                                |        | 315.152      |             |      | 1.41     | 8.35  |           | 9.76  | 14              |
+| 2850  | 4 use                                                                |        | 330.145      |             |      | 1.15     | 8     |           | 9.15  | 13.15           |
+| 4000  | Radial, smooth curved, job-built plywood, 1 use                      |        | 245.196      |             |      | 2.78     | 10.75 |           | 13.53 | 19.05           |
+| 4050  | 2 use                                                                |        | 300          | .160        |      | 1.53     | 8.80  |           | 10.33 | 14.75           |
+| 4100  | 3 use                                                                |        | 325          | .148        |      | 1.11     | 8.10  |           | 9.21  | 13.25           |
+| 4150  | 4 use                                                                |        | 335          | .143        |      | .90      | 7.85  |           | 8.75  | 12.70           |
+| 4200  | Below grade, job-built plywood, 1 use                                |        | 225          | .213        |      | 3.55     | 11.70 |           | 15.25 | 21.50           |
+| 4210  | 2 use                                                                |        | 225.213      |             |      | 1.96     | 11.70 |           | 13.66 | 19.55           |
+| 4220  | 3 use                                                                |        | 225.213      |             |      | 1.66     | 11.70 |           | 13.36 | 19.20           |
+| 4230  | 4 use                                                                | C-2    | 225.213      | . SFCA      |      | 1.16     | 11.70 |           | 12.86 | 18.65           |
+| 4300  | Curved, 2' chords, job-built plywood, to 8' high, 1 use              |        | 290          | .166        | 1    | 2.72     | 9.10  |           | 11.82 | 16.50           |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 03031 Reinforcement Bars
+
+## 03 Reinforcing Steel Accessories
+
+### 03 21 05.10 Rebar Accessories
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0200  | Upper (BBU), 1-1/2" high, plain steel                                | 55555GGGGGG5555 |             |             | C.L.F. | 105      |       |           | 105     | 116            |
+| 0210  | 3" high                                                              |              |             |             |        | 118      |       |           | 118     | 130            |
+| 0500  | Slab bolsters, continuous (SB), 1" high, plain steel                 |              |             |             |        | 27.50    |       |           | 27.50   | 30.50          |
+| 0502  | Galvanized                                                           |              |             |             |        | 46       |       |           | 46      | 50.50          |
+| 0504  | Stainless tipped legs                                                |              |             |             |        | 475      |       |           | 475     | 520            |
+| 0506  | Plastic tipped legs                                                  |              |             |             |        | 44       |       |           | 44      | 48.50          |
+| 0510  | 2" high, plain steel                                                 |              |             |             |        | 35.50    |       |           | 35.50   | 39             |
+| 0515  | Galvanized                                                           |              |             |             |        | 58       |       |           | 58      | 64             |
+| 0520  | Stainless tipped legs                                                |              |             |             |        | 560      |       |           | 560     | 615            |
+| 0525  | Plastic tipped legs                                                  |              |             |             |        | 51.50    |       |           | 51.50   | 56.50          |
+| 0530  | For bolsters with wire runners (SBR), add                            |              |             |             |        | 38.50    |       |           | 38.50   | 42.50          |
+| 0540  | For bolsters with plates (SBP), add                                  |              |             |             |        | 99.50    |       |           | 99.50   | 109            |
+| 0700  | Bag ties, 16 ga., plain, 4" long                                     |              |             |             |        | .71      |       |           | .71     | .78            |
+| 0710  | 5" long                                                              |              |             |             |        | .82      |       |           | .82     | 769            |
+| 0720  | 6" long                                                              |              |             |             |        | .93      |       |           | .93     | 1.02           |
+| 0730  | 7" long                                                              | G            |             |             |        | 1.02     |       |           | 1.02    | 1.12           |
+| 1200  | High chairs, individual (HC), 3" high, plain steel                   |              |             |             |        | 63       |       |           | 63      | 69.50          |
+| 1202  | Galvanized                                                           | G            |             |             |        | 131      |       |           | 131     | 144            |
+| 1204  | Stainless tipped legs                                                | G            |             |             |        | 540      |       |           | 540     | 595            |
+| 1206  | Plastic tipped legs                                                  | G            |             |             |        | 74       |       |           | 74      | 81.50          |
+| 1210  | 5" high, plain                                                       | G            |             |             |        | 85       |       |           | 85      | 93.50          |
+| 1212  | Galvanized                                                           | G            |             |             |        | 169      |       |           | 169     | 186            |
+| 1214  | Stainless tipped legs                                                | G            |             |             |        | 675      |       |           | 675     | 745            |
+| 1216  | Plastic tipped legs                                                  | 55G555555    |             |             |        | 98.50    |       |           | 98.50   | 108            |
+| 1220  | 8" high, plain                                                       | G            |             |             |        | 123      |       |           | 123     | 135            |
+| 1222  | Galvanized                                                           | G            |             |             |        | 206      |       |           | 206     | 227            |
+| 1224  | Stainless tipped legs                                                |              |             |             |        | 725      |       |           | 725     | 800            |
+| 1226  | Plastic tipped legs                                                  |              |             |             |        | 139      |       |           | 139     | 153            |
+| 1230  | 12" high, plain                                                      | G            |             |             |        | 263      |       |           | 263     | 289            |
+| 1232  | Galvanized                                                           | G            |             |             |        | 410      |       |           | 410     | 455            |
+| 1234  | Stainless tipped legs                                                | G            |             |             |        | 790      |       |           | 790     | 870            |
+| 1236  | Plastic tipped legs                                                  | G            |             |             |        | 289      |       |           | 289     | 315            |
+| 1400  | Individual high chairs, with plate (HCP), 5" high                    | G            |             |             |        | 139      |       |           | 139     | 153            |
+| 1410  | 8" high                                                              |              |             |             |        | 162      |       |           | 162     | 178            |
+| 1500  | Bar chair (BC), 1-1/2" high, plain steel                             | G            |             |             |        | 49       |       |           | 49      | 54             |
+| 1520  | Galvanized                                                           | G            |             |             |        | 56       |       |           | 56      | 61.50          |
+| 1530  | Stainless tipped legs                                                | G            |             |             |        | 485      |       |           | 485     | 530            |
+| 1540  | Plastic tipped legs                                                  | G            |             |             |        | 52       |       |           | 52      | 57             |
+| 1700  | Continuous high chairs (CHC), legs 8" OC, 4" high, plain steel       | G            |             |             | C.L.F. | 63.50    |       |           | 63.50   | 70             |
+| 1705  | Galvanized                                                           | G            |             |             |        | 72       |       |           | 72      | 79             |
+| 1710  | Stainless tipped legs                                                | G            |             |             |        | 640      |       |           | 640     | 705            |
+| 1715  | Plastic tipped legs                                                  | G            |             |             |        | 83       |       |           | 83      | 91.50          |
+| 1718  | Epoxy dipped                                                         | G            |             |             |        | 103      |       |           | 103     | 113            |
+| 1720  | 6" high, plain                                                       | G            |             |             |        | 87.50    |       |           | 87.50   | 96.50          |
+| 1725  | Galvanized                                                           | G            |             |             |        | 115      |       |           | 115     | 127            |
+| 1730  | Stainless tipped legs                                                | G            |             |             |        | 665      |       |           | 665     | 735            |
+| 1735  | Plastic tipped legs                                                  | G            |             |             |        | 111      |       |           | 111     | 122            |
+| 1738  | Epoxy dipped                                                         | G            |             |             |        | 137      |       |           | 137     | 150            |
+| 1740  | 8" high, plain                                                       | G            |             |             |        | 126      |       |           | 126     | 138            |
+| 1745  | Galvanized                                                           | 5G55         |             |             |        | 177      |       |           | 177     | 194            |
+| 1750  | Stainless tipped legs                                                | G            |             |             |        | 715      |       |           | 715     | 785            |
+| 1755  | Plastic tipped legs                                                  | G            |             |             |        | 138      |       |           | 138     | 152            |
+| 1758  | Epoxy dipped                                                         | G            |             |             |        | 153      |       |           | 153     | 168            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00315 Concrete Accessories
+
+## Concrete - Cast-In Concrete Anchors Accessories 0 Anchor Bolts
+
+| ID   | Name                                      | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 1360 | 18" long                                  | C5555GGGG1GCarpGGGGGG15555GGG.533G55555 | Set  | 67.50       | 30          |          | 97.50   | 119            |
+| 1370 | 24" long                                  |              | .533        | 82          | 30   |          | 112     | 135            |
+| 1380 | 30" long                                  |              | .533        | 96          | 30   |          | 126     | 151            |
+| 1390 | 36" long                                  |              | .533        | 109         | 30   |          | 139     | 165            |
+| 1400 | 42" long                                  | 14           | .571        | 132         | 32   |          | 164     | 193            |
+| 1410 | 48" long                                  | 14           | .571        | 147         | 32   |          | 179     | 210            |
+| 1420 | 1-1/4" diameter x 18" long                | 14           | .571        | 96.50       | 32   |          | 128.50  | 154            |
+| 1430 | 24" long                                  | 14           | .571        | 114         | 32   |          | 146     | 173            |
+| 1440 | 30" long                                  | 1322222      | .615        | 131         | 34.50|          | 165.50  | 196            |
+| 1450 | 36" long                                  | 13           | .615        | 148         | 34.50|          | 182.50  | 215            |
+| 1460 | 42" long                                  | G 2 Carp     | 25          | .640        | V    | 166      | 36      | 202     | 237            |
+| 1470 | 48" long                                  | 2 Carp       | 24          | .667        | Set  | 189      | 37.50   | 226.50  | 264            |
+| 1480 | 54" long                                  |              | .696        | 222         | 39   |          | 261     | 305            |
+| 1490 | 60" long                                  |              | .696        | 244         | 39   |          | 283     | 325            |
+| 1500 | 1-1/2" diameter x 18" long                | 25           | .640        | 153         | 36   |          | 189     | 222            |
+| 1510 | 24" long                                  | 24           | .667        | 177         | 37.50|          | 214.50  | 251            |
+| 1520 | 30" long                                  | 2322222      | .696        | 200         | 39   |          | 239     | 279            |
+| 1530 | 36" long                                  |              | .727        | 229         | 41   |          | 270     | 315            |
+| 1540 | 42" long                                  |              | .727        | 260         | 41   |          | 301     | 345            |
+| 1550 | 48" long                                  | 21           | .762        | 291         | 43   |          | 334     | 385            |
+| 1560 | 54" long                                  | 20           | .800        | 355         | 45   |          | 400     | 455            |
+| 1570 | 60" long                                  | 20           | .800        | 390         | 45   |          | 435     | 490            |
+| 1580 | 1-3/4" diameter x 18" long                |              | .727        | 224         | 41   |          | 265     | 305            |
+| 1590 | 24" long                                  | 21           | .762        | 262         | 43   |          | 305     | 350            |
+| 1600 | 30" long                                  | 222          | .762        | 305         | 43   |          | 348     | 400            |
+| 1610 | 36" long                                  | 20           | .800        | 345         | 45   |          | 390     | 445            |
+| 1620 | 42" long                                  | 19           | .842        | 390         | 47.50|          | 437.50  | 495            |
+| 1630 | 48" long                                  | 18           | .889        | 425         | 50   |          | 475     | 545            |
+| 1640 | 54" long                                  | 18           | .889        | 525         | 50   |          | 575     | 655            |
+| 1650 | 60" long                                  | 17           | .941        | 570         | 53   |          | 623     | 705            |
+| 1660 | 2" diameter x 24" long                    | 19           | .842        | 330         | 47.50|          | 377.50  | 430            |
+| 1670 | 30" long                                  | 18           | 889         | 370         | 50   |          | 420     | 480            |
+| 1680 | 36" long                                  | 18           | .889        | 405         | 50   |          | 455     | 520            |
+| 1690 | 42" long                                  | 17           | .941        | 450         | 53   |          | 503     | 575            |
+| 1700 | 48" long                                  | 16           |             | 520         | 56.50|          | 576.50  | 655            |
+| 1710 | 54" long                                  | 15           | 1.067       | 615         | 60   |          | 675     | 770            |
+| 1720 | 60" long                                  | 15           | 1.067       | 665         | 60   |          | 725     | 820            |
+| 1730 | 66" long                                  | 14           | 1.143       | 710         | 64.50|          | 774.50  | 875            |
+| 1740 | 72" long                                  | 14           | 1.143       | 775         | 64.50|          | 839.50  | 950            |
+| 1990 | For galvanized, add                       |              |             |             | Ea   | 75%      |        |           |        |                |
+
+---
+
+## 03 15 19.20 Dovetail Anchor System
+
+| ID   | Name                                                        | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------------------------|--------------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | DOVETAIL ANCHOR SYSTEM                                      |              |             |             |      |          |       |           |        |                |
+| 0500 | Dovetail anchor slot, galvanized, foam filled, 26 go.       | G555555515Carp | 425         | .019        | LE   | .69      | 1.06  |           | 1.75   | 2.34           |
+| 0600 | 24 go.                                                      |              | 400         | .020        |      | .83      | 1.13  |           | 1.96   | 2.59           |
+| 0625 | 22 ga.                                                      |              | 400         | .020        |      | .47      | 1.13  |           | 1.60   | 2.20           |
+| 0900 | Stainless steel, foam filled, 26 go.                        | G            | 375         | .021        | +4   | 1.10     | 1.20  |           | 2.30   | 3              |
+| 1200 | Dovetail brick anchor, corrugated, galvanized, 3-1/2" long, 16 ga. | 1 Bric      | 10.50       | .762        |      | 202      | 424   |           | 62     | 85             |
+| 1300 | 12 ga.                                                      |              | 10.50       | .762        |      | 24       | 42    |           | 66     | 89.50          |
+| 1500 | Seismic, galvanized, 3-1/2" long, 16 ga.                    |              | 10.50       | .762        |      | 77.50    | 42    |           | 119.50 | 148            |
+| 1600 | 12 ga.                                                      |              | 10.50       | .762        |      | 105      | 42    |           | 147    | 178            |
+| 2000 | Dovetail cavity wall, corrugated, galvanized, 5-1/2" long, 16 ga. |              | 10.50       | .762        | V    | 24       | 42    |           | 6635   | 89.50          |
+| 2100 | 12 ga.                                                      | 1 Bric       | 10.50       | .762        | C    | 31       | 42    |           | 73     | 97             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 15 Concrete Accessories
+
+## Concrete - Cast-In Concrete Anchors Accessories 0 Anchor Bolts
+
+| ID   | Name                                              | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor         | Equipment | Total         | Total Incl O&P |
+|------|---------------------------------------------------|--------------|-------------|-------------|------|----------|---------------|-----------|---------------|----------------|
+| 0410 | 48" long                                         | G5555GGGG1GCarpGGGGG818T22333.4442223322Set2222222222 | 76          | 225222222222222222223222332 | 101  | 121      |               |           |               |                |
+| 0420 | 1-1/4" diameter x 18" long                       |              | 18          | .444        |      | 50.50    | 25            |           | 75.50         | 92.50          |
+| 0430 | 24" long                                         |              | 18          | .444        |      | 59       | 25            |           | 84            | 102            |
+| 0440 | 30" long                                         |              | 17          | .471        |      | 68       | 26.50         |           | 94.50         | 114            |
+| 0450 | 36" long                                         |              |             | .471        |      | 76.50    | 26.50         |           | 103           | 124            |
+| 0460 | 42" long                                         | 2 Carp       | 32          | .500        |      | 85.50    | 28            |           | 113.50        | 136            |
+| 0470 | 48" long                                         |              |             | .500        |      | 97       | 28            |           | 125           | 149            |
+| 0480 | 54" long                                         |              | 31          | .516        |      | 114      | 29            |           | 143           | 169            |
+| 0490 | 60" long                                         |              | 31          | .516        |      | 124      | 29            |           | 153           | 181            |
+| 0500 | 1-1/2" diameter x 18" long                       |              |             | .485        |      | 78.50    | 27.50         |           | 106           | 127            |
+| 0510 | 24" long                                         |              |             | .500        |      | 91       | 28            |           | 119           | 142            |
+| 0520 | 30" long                                         |              | 31          | .516        |      | 102      | 29            |           | 131           | 156            |
+| 0530 | 36" long                                         |              | 30          | .533        |      | 117      | 30            |           | 147      1    | 173            |
+| 0540 | 42" long                                         |              | 30          | .533        |      | 132      | 30            |           | 162       I   | 191            |
+| 0550 | 48" long                                         |              | 29          | .552        |      | 148      | 31            |           | 179           | 209            |
+| 0560 | 54" long                                         |              |             | .571        |      | 179      |               |           | 211           | 245            |
+| 0570 | 60" long                                         |              |             | .571        |      | 196      |               |           | 228           | 264            |
+| 0580 | 1-3/4" diameter x 18" long                       |              | 31          | .516        |      | 114      | 29            |           | 143           | 170            |
+| 0590 | 24" long                                         |              | 30          | .533        |      | 133      | 30            |           | 163           | 192            |
+| 0600 | 30" long                                         |              | 29          | .552        |      | 154      | 31            |           | 185           | 216            |
+| 0610 | 36" long                                         |              |             | .571        |      | 175      |               |           | 207           | 241            |
+| 0620 | 42" long                                         |              | 27          | .593        |      | 196      | 33.50         |           | 229.50        | 266            |
+| 0630 | 48" long                                         |              | 26          | .615        |      | 215      | 34.50         |           | 249.50        | 289            |
+| 0640 | 54" long                                         |              | 26          | .615        |      | 266      | 34.50         |           | 300.50        | 345            |
+| 0650 | 60" long                                         |              | 25          | .640        |      | 287      | 36            |           | 323           | 370            |
+| 0660 | 2" diameter x 24" long                           | G 2 Carp     | 27          | .593        | Set  | 167      | 33.50         |           | 200.50        | 233            |
+| 0670 | 30" long                                         |              | 27          | .593        |      | 187      | 33.50         |           | 220.50        | 256            |
+| 0680 | 36" long                                         |              | 26          | .615        |      | 205      | 34.50         |           | 239.50        | 278            |
+| 0690 | 42" long                                         |              | 25          | .640        |      | 228      | 36            |           | 264           | 305            |
+| 0700 | 48" long                                         |              | 24          | .667        |      | 262      | 37.50         |           | 299.50        | 345            |
+| 0710 | 54" long                                         |              |             | .696        |      | 310      | !             | 39        | 349           | 400            |
+| 0720 | 60" long                                         |              |             | .696        |      | 335      | 39            |           | 374           | 425            |
+| 0730 | 66" long                                         |              |             | .727        |      | 355      | 41            |           | 396           | 455            |
+| 0740 | 72" long                                         |              | 21          | .762        |      | 390      | 43            |           | 433           | 495            |
+| 1000 | 4-bolt pattern, including job-built 4-hole template, per set |              |             |             |      |              |               |           |               |                |
+| 1100 | J-type, incl. hex nut & washer, 1/2" diameter x 6" long | GGGGGGGG1GCarpG550 | 19866        | .421        | Set  | 12.80    | 23.50         |           | 36.30         | 49.50          |
+| 1110 | 12" long                                         |              | 19          | .421        |      | 14.80    | 23.50         |           | 38.30         | 52             |
+| 1120 | 18" long                                         |              | 18          | .444        |      | 17.75    | 2522233333222222 |           | 42.75         | 56.50          |
+| 1130 | 3/4" diameter x 8" long                          |              |             | .471        |      | 19.90    | 26.50         |           | 46.40         | 61.50          |
+| 1140 | 12" long                                         |              | 17          | .471        |      | 23.50    | 26.50         |           | 50            | 65.50          |
+| 1150 | 18" long                                         |              | 17          | .471        |      | 29.50    | 26.50         |           | 56            | 71.50          |
+| 1160 | 1" diameter x 12" long                           |              | 16          | .500        |      | 61       | 28            |           | 89            | 109            |
+| 1170 | 18" long                                         |              | 15          | .533        |      | 72.50    | 30            |           | 102.50        | 124            |
+| 1180 | 24" long                                         |              | 15          | .533        |      | 87       | 30            |           | 117           | 141            |
+| 1190 | 36" long                                         |              | 15          | .533        |      | 118      | 30            |           | 148           | 174            |
+| 1200 | 1-1/2" diameter x 18" long                       |              | 13          | .615        |      | 100      | 34.50         |           | 134.50        | 162            |
+| 1210 | 24" long                                         |              | 12          | .667        |      | 119      | 37.50         |           | 156.50        | 187            |
+| 1300 | L-type, incl. hex nut & washer, 3/4" diameter x 12" long |              | 17          | .471        |      | 34.50    | 26.50         |           | 61            | 77.50          |
+| 1310 | 18" long                                         |              | 17          | .471        |      | 43       | 26.50         |           | 69.50         | 87             |
+| 1320 | 24" long                                         |              | 1166        | .471        |      | 51.50    | 26.50         |           | 78            | 96             |
+| 1330 | 30" long                                         |              |             | .500        |      | 64       | 28            |           | 92            | 113            |
+| 1340 | 36" long                                         |              |             | .500        |      | 72.50    | 28            |           | 100.50        | 122            |
+| 1350 | 1" diameter x 12" long                           |              | 16          | .500        |      | 55       | 28            |           | 83      |     | 103            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 31 13 Heavyweight Structural Concrete
+
+## 03 31 13.35 Heavyweight Concrete, Ready Mix
+
+| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0200 | 3500 psi     |      |             |             | C.Y. | 161      |       |           | 161   | 177            |
+| 0300 | 4000 psi     |      |             |             |      | 164      |       |           | 164   | 180            |
+| 0350 | 4500 psi     |      |             |             |      | 135      |       |           | 135   |                |
+| 0400 | 5000 psi     |      |             |             |      | 139      |       |           | 139   | 153            |
+| 0411 | 6000 psi     |      |             |             |      | 143      |       |           | 143   | 157            |
+| 0412 | 8000 psi     |      |             |             |      | 150      |       |           | 150   | 165            |
+| 0413 | 10,000 psi   |      |             |             | C.Y. | 158      |       |           | 158   | 174            |
+| 0414 | 12,000 psi   |      |             |             |      | 166      |       |           | 166   | 182            |
+| 1000 | For high early strength (Portland cement Type II), add | | | | | 10% | | | |  |
+| 1010 | For structural lightweight with regular sand, add | | | | | 25% | | | |  |
+| 1300 | For winter concrete (hot water), add | | | | | 8.50 | | | 8.50 | 94319 |
+| 1410 | For mid-range water reducer, add | | | | | 4.27 | | | 4.27 | 4.70 |
+| 1420 | For high-range water reducer / superplasticizer, add | | | | | 9 | | | 9 | 9.90 |
+| 1430 | For retarder, add | | | | | 5.10 | | | 5.10 | 5.60 |
+| 1440 | For non Chloride accelerator, add | | | | | 8.80 | | | 8.80 | 9.70 |
+| 1450 | For Chloride accelerator, per 1 %, add | | | | | 4 | | | 4 | 4.72 |
+| 1460 | For fiber reinforcing, synthetic (1 lb./C.Y.), add | | | | | 8.40 | | | 8.40 | 9.25 |
+| 1500 | For Saturday delivery, add | | | | → | 10 | | | 10 | 11 |
+| 1510 | For truck holding / waiting time past 1st hour per load, add | | | | Hr. | 115 | | | 115 | 127 |
+| 1520 | For short load (less than 4 C.Y.), add per load | | | | Fa. | 125 | | | 125 | 138 |
+| 2000 | For alllightweight aggregate, add | | | | C.Y. | 45% | | | | |
+
+---
+
+## 03 31 13.70 Placing Concrete
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | PLACING CONCRETE R033105-70                                          |      |             |             |      |          |       |           |       |                |
+| 0020 | Includes labor and equipment to place, level (strike off) and consolidate |      |             |             |      |          |       |           |       |                |
+| 0050 | Beams, elevated, small beams, pumped                                 | C-20 | 60          | 1.067       | C.Y. |          | 52    | 13.50     | 65.50 | 92             |
+| 0100 | With crane and bucket                                                | C-7  | 45          | 1.600       |      |          | 79    | 52.50     | 131.50| 175            |
+| 0200 | Large beams, pumped                                                  | C 20 | 90          | .711        |      |          | 34.50 | 9         | 43.50 | 61.50          |
+| 0250 | With crane and bucket                                                | C-7  | 65          | 1.108       |      |          | 54.50 | 36.50     | 91    | 121            |
+| 0400 | Columns, square or round, 12" thick, pumped                         | C-20 | 60          | 1.067       |      |          | 52    | 13.50     | 65.50 | 92             |
+| 0450 | With crane and bucket                                                | C-7  | 40          | 1.800       |      |          | 88.50 | 59        | 147.50| 197            |
+| 0600 | 18" thick, pumped                                                    | C 20 | 90          | .711        |      |          | 34.50 | 9         | 43.50 | 61.50          |
+| 0650 | With crane and bucket                                                | C-7  | 55          | 1.309       |      |          | 64.50 | 43        | 107.50| 144            |
+| 0800 | 24" thick, pumped                                                    | C-20 | 92          | .696-       |      |          | 34    | 8.80      | 42.80 | 60             |
+| 0850 | With crane and bucket                                                | C-7  | 70          | 1.029       |      |          | 50.50 | 34        | 84.50 | 112            |
+| 1000 | 36" thick, pumped                                                    | C 20 | 140         | .457        |      |          | 22    | 5.80      | 27.80 | 39.50          |
+| 1050 | With crane and bucket                                                | C-7  | 100         | 720         |      |          | 35.50 | 23.50     | 59    | 78.50          |
+| 1200 | Duct bank, direct chute                                              | C-6  | 155         | 310         |      |          | 14.60 | .36       | 14.96 | 22             |
+| 1400 | Elevated slabs, less than 6" thick, pumped                           | C-20 | 140         | 457         |      |          | 22    | 5.80      | 27.80 | 39.50          |
+| 1450 | With crane and bucket                                                | C-7  | 95          | .758        |      |          | 37.50 | 25        | 62.50 | 83             |
+| 1500 | 6" to 10" thick, pumped                                              | C 20 | 160         | 400         |      |          | 19.45 | 5.05      | 24.50 | 34.50          |
+| 1550 | With crane and bucket                                                | -7   | 110         | .655        |      |          | 32    | 21.50     | 53.50 | 71.50          |
+| 1600 | Slabs over 10" thick, pumped                                         | C-20 | 180         | .356        |      |          | 17.30 | 4.50      | 21.80 | 30.50          |
+| 1650 | With crane and bucket                                                | -7   | 130         | .554        | C.Y. |          | 27.50 | 18.25     | 45.75 | 60.50          |
+| 1900 | Footings, continuous, shallow, direct chute                          | C-6  | 120         | .400        |      |          | 18.90 | .46       | 19.36 | 28.50          |
+| 1950 | Pumped                                                               | C 20 | 150         | .427        |      |          | 21    | 5.40      | 26.40 | 37             |
+| 2000 | With crane and bucket                                                | C-7  | 90          | .800        |      |          | 39.50 | 26.50     | 66    | 87.50          |
+| 2100 | Footings, continuous, deep, direct chute                             | C-6  | 140         | .343        |      |          | 16.20 | .40       | 16.60 | 24.50          |
+| 2150 | Pumped                                                               | C 20 | 160         | .400        |      |          | 19.45 | 5.05      | 24.50 | 34.50          |
+| 2200 | With crane and bucket                                                | C-7  | 110         | .655        |      |          | 32    | 21.50     | 53.50 | 71.50          |
+| 2400 | Footings, spread, under 1 C.Y., direct chute                         | C-6  | 55          | .873        |      |          | 41    | 1.01      | 42.01 | 62             |
+| 2450 | Pumped                                                               | C 20 | 65          | .985        |      |          | 48    | 12.45     | 60.45 | 84.50          |
+| 2500 | With crane and bucket                                                | C-7  | 45          | 1.600       |      |          | 79    | 52.50     | 131.50| 175            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 03 Reinforcem21t Bars
+## 03 2Reinforcementrcing Steel Accessories
+### 03 21 05.75 SplicinBarsinforcing Bars
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0500 | Transition self-aligning, taper threaded, #18-14                     |      | 87           | 75          | 46.50| 208.50   | 259    |           |         |                |
+| 0510 | #18-11                                                               |      | 45           | 1.244       |      | 88.50    | 75     | 46.50     | 210     | 261            |
+| 0520 | #14-11                                                               |      | 65           | .862        |      | 58.50    | 52     | 32        | 142.50  | 178            |
+| 0540 | #11-10                                                               |      | 85           | .659        |      | 40.50    | 40     | 24.50     | 105     | 131            |
+| 0550 | #10-9                                                                |      | 95           | .589        |      | 38.50    | 35.50  | 22        | 96      | 119            |
+| 0560 | #9-8                                                                 | C 25 | 105          | .305        | 35   | 14.95    |        | 49.95     | 61.5    |                |
+| 0580 | #8-7                                                                 |      | 115          | .278        |      | 32.50    | 13.65  |           | 46.15   | 56.51          |
+| 0590 | #7-6                                                                 |      | 130          | .246        |      | 24.50    | 12.05  |           | 36.55   | 45.50          |
+| 0600 | Position coupler for curved bars, taper threaded, #4 bars            |      | 160          | .200        |      | 42       | 9.80   |           | 51.80   | 61             |
+| 0610 | #5 bars                                                              |      | 145          | .221        |      | 43.50    | 10.80  |           | 54.30   | 64.50          |
+| 0620 | #6 bars                                                              |      | 130          | .246        |      | 61       | 12.05  |           | 73.05   | 85.50          |
+| 0630 | #7 bars                                                              |      | 110          | .291        |      | 65       | 14.25  |           | 79.25   | 93.50          |
+| 0640 | #8 bars                                                              | +4   | 100          | .320        |      | 67.50    | 15.65  |           | 83.15   | 98             |
+| 0650 | #9 bars                                                              | (-5  | 90           | .622        |      | 73.50    | 37.50  | 23.50     | 134.50  | 162            |
+| 0660 | #10 bars                                                             |      | 80           | .700        |      | 79.50    | 42.50  | 26        | 148     | 179            |
+| 0670 | #11 bars                                                             |      | 70           | .800        |      | 82.50    | 48.50  | 30        | 161     | 196            |
+| 0680 | #14 bars                                                             |      | 55           | 1.018       |      | 111      | 61.50  | 38        | 210.50  | 256            |
+| 0690 | #18 bars                                                             |      | 40           | 1.400       |      | 171      | 84.50  | 52.50     | 308     | 370            |
+| 0700 | Transition position coupler for curved bars, taper threaded, #18-14  |      | 40           | 1.400       |      | 169      | 84.50  | 52.50     | 306     | 370            |
+| 0710 | #18-11                                                               |      | 40           | 1.400       |      | 159      | 84.50  | 52.50     | 296     | 360            |
+| 0720 | #14-11                                                               |      | 55           | 1.018       |      | 111      | 61.50  | 38        | 210.50  | 256            |
+| 0730 | #11-10                                                               |      | 70           | .800        |      | 89       | 48.50  | 30        | 167.50  | 203            |
+| 0740 | #10-9                                                                |      | 80           | .700        |      | 86       | 42.50  | 26        | 154.50  | 187            |
+| 0750 | #9-8                                                                 | C-25 | 90           | .356        |      | 80       | 17.40  |           | 97.40   | 115            |
+| 0760 | #8-7                                                                 |      | 100          | .320        |      | 73.50    | 15.65  |           | 89.15   | 105            |
+| 0770 | #7-6                                                                 |      | 110          | .291        |      | 71       | 14.25  |           | 85.25   | 100            |
+| 0800 | Sleeve type w/grout fille, for precast concrete, #6 bars             |      | 72           | .444        |      | 34.50    | 22     |           | 56.50   | 71.50          |
+| 0802 | #7 bars                                                              |      | 64           | .500        |      | 41.50    | 24.50  |           | 66      | 83.50          |
+| 0805 | #8 bars                                                              |      | 56           | .571        |      | 49       | 28     |           | 77      | 97             |
+| 0807 | #9 bars                                                              |      | 48           | .667        |      | 57       | 32.50  |           | 89.50   | 113            |
+| 0810 | #10 bars                                                             | C-5  | 40           | 1.400       |      | 69       | 84.50  | 52.50     | 206     | 260            |
+| 0900 | #11 bars                                                             |      | 32           | 1.750       |      | 76.50    | 106    | 65.50     | 248     | 315            |
+| 0920 | #14 bars                                                             |      | 24           | 2.333       |      | 119      | 141    | 87        | 347     | 435            |
+| 1000 | Sleeve type w/ferrous fille, for critical structures, #6 bars         | (-25 | 72           | .444        |      | 113      | 22     |           | 135     | 159            |
+| 1210 | #7 bars                                                              |      | 64           | .500        |      | 115      | 24.50  |           | 139.50  | 164            |
+| 1220 | #8 bars                                                              |      | 56           | .571        |      | 121      | 28     |           | 149     | 176            |
+| 1230 | #9 bars                                                              | C5   | 48           | 1.167       | Eq . | 124      | 70.50  | 43.50     | 238     | 290            |
+| 1240 | #10 bars                                                             |      | 40           | 1.400       |      | 132      | 84.50  | 52.50     | 269     | 330            |
+| 1250 | #11 bars                                                             |      | 32           | 1.750       |      | 160      | 106    | 65.50     | 331.50  | 405            |
+| 1260 | #14 bars                                                             |      | 24           | 2.333       |      | 201      | 141    | 87        | 429     | 525            |
+| 1270 | #18 bars                                                             |      | 16           | 3.500       |      | 290      | 211    | 131       | 632     | 780            |
+| 2000 | Weldable half coupler, taper threaded, #4 bars                       | E-16 | 120          | .133        |      | 13.65    | 8.40   | 1.23      | 23.28   | 29.50          |
+| 2100 | #5 bars                                                              |      | 112          | .143        |      | 16.05    | 9      | 1.32      | 26.37   | 33             |
+| 2200 | #6 bars                                                              |      | 104          | .154        |      | 25.50    | 9.70   | 1.42      | 36.62   | 44.50          |
+| 2300 | #7 bars                                                              |      | 96           | .167        |      | 29.50    | 10.50  | 1.54      | 41.54   | 50.50          |
+| 2400 | #8 bars                                                              |      | 88           | .182        |      | 31       | 11.45  | 1.67      | 44.12   | 53.50          |
+| 2500 | #9 bars                                                              |      | 80           | .200        |      | 34       | 12.60  | 1.84      | 48.44   | 59             |
+| 2600 | #10 bars                                                             |      | 72           | .222        |      | 35       | 14     | 2.05      | 51.05   | 62.50          |
+| 2700 | #11 bars                                                             |      | 64           | .250        |      | 37       | 15.75  | 2.30      | 55.05   | 67.50          |
+| 2800 | #14 bars                                                             |      | 56           | .286        |      | 43       | 18     | 2.63      | 63.63   | 78             |
+| 2900 | #18 bars                                                             |      | 48           | .333        |      | 70       | 21     | 3.07      | 94.07   | 113            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 35 Concrete Finishing
+
+## 03 35 19 - Colored Concrete Finishing
+
+### 03 35 19.30 Finishing Floors, Colored
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FINISHING FLOORS, COLORED            |        |             |             |      |          |       |           |       |                |
+| 3000 | Floor coloring, dry shake on fresh concrete (0.6 psf) | 1 Cefi | 1300        | .006        | S.F. | .63      | .38   |           | .96   | 1.18           |
+| 3050 | (1.0 psf)                            |        | 625         | .013        | "    | 1.06     | .68   |           | 1.74  | 2.16           |
+| 3100 | Colored dry shake powder only         |        |             |             | Lb.  | 1.06     |       |           | 1.06  | 1.16           |
+| 3600 | 1/2" topping using 0.6 psf dry shake powdered color | C-10B  | 590         | .068        | S.F. | 5        | 3.30  | .53       | 8.83  | 10.95          |
+| 3650 | 1.0 psf dry shake powdered color      |        | 590         | .068        |      | 5.45     | 3.30  | .53       | 9.28  | 11.40          |
+
+---
+
+## 03 35 23 - Exposed Aggregate Concrete Finishing
+
+### 03 35 23.30 Finishing Floors, Exposed Aggregate
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FINISHING FLOORS, EXPOSED AGGREGATE  |        |             |             |      |          |       |           |       |                |
+| 1600 | Exposed local aggregate finish, seeded on fresh concrete, 3 lb./S.F. | 1 Cefi | 625         | .013        | S.F. | .21      | .68   |           | .89   | 1.23           |
+| 1650 | 4 lb./S.F.                           |        | 465         | .017        | "    | .34      | .91   |           | 1.25  | 1.72           |
+
+---
+
+## 03 35 29 - Tooled Concrete Finishing
+
+### 03 35 29.30 Finishing Floors, Tooled
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FINISHING FLOORS, TOOLED             |        |             |             |      |          |       |           |       |                |
+| 4400 | # Stair finish, fresh concrete, float finish | 1 Cefi | 275         | .029        | S.F. |          | 1.55  |           | 1.55  | 2.26           |
+| 4500 | Steel trowel finish                  |        | 200         | .040        |      |          | 2.13  |           | 2.13  | 3.11           |
+| 4600 | Silicon carbide finish, dry shake on fresh concrete, .25 psf |        | 150         | .053        |      | .41      | 2.83  |           | 3.24  | 4.60           |
+
+### 03 35 29.60 Finishing Walls
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FINISHING WALLS                      |        |             |             |      |          |       |           |       |                |
+| 0020 | Break ties and patch voids           | 1 Cefi | 540         | .015        | S.F. | .04      | .79   |           | .83   | 1.19           |
+| 0050 | Burlap rub with grout                |        | 450         | .018        |      | .04      | .94   |           | .98   | 1.42           |
+| 0100 | Carborundum rub, dry                 |        | 270         | .030        |      |          | 1.57  |           | 1.57  | 2.30           |
+| 0150 | Wet rub                              |        | 175         | .046        |      |          | 2.43  |           | 2.43  | 3.55           |
+| 0300 | Bush hammer, green concrete          | B 39   | 1000        | .048        |      |          | 2.30  | 353       | 2.63  | 3.78           |
+| 0350 | Cured concrete                       |        | 650         | .074        |      |          | 3.53  | .511      | 4.04  | 5.80           |
+| 0500 | Acid etch                            | 11 Cefi| 575         | .014        |      | .11      | .74   |           | .851  | 1.21           |
+| 0600 | Float finish, 1/16" thick            |        | 300         | .027        |      | .33      | 1.42  |           | 1.75  | 2.44           |
+| 0700 | Sandblast, light penetration         | E-11   | 1100        | .029        |      | .57      | 1.46  | .880      | 2.31  | 3.19           |
+| 0750 | Heavy penetration                    |        | 375         | .085        |      | 1.14     | 4.28  | .83       | 6.25  | 8.75           |
+| 0850 | Grind form finsflush                 | 1 Clab | 700         | .011        | LE   |          | .52   |           | .52   | .78            |
+
+---
+
+## 03 35 33 Stamped Concrete Finishing
+
+### 03 35 33.50 Slab Texture Stamping
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SLAB TEXTURE STAMPING                |        |             |             |      |          |       |           |       |                |
+| 0050 | Stamping requires that concrete first be placed, struck off, consolidated, |        |             |             |      |          |       |           |       |                |
+| 0060 | bull floated and free of bleed water. Decorative stamping tasks include: |        |             |             |      |          |       |           |       |                |
+| 0100 | Step 1 - first application of dry shake colored hardener | 1 Cefi | 6400        | .001        | S.F. | .57      | .07   |           | .64   | .72            |
+| 0110 | Step 2 - bull float                   | 1 Cefi | 6400        | .001        | S.F. |          | .07   |           | .07   | .10            |
+| 0130 | Step 3 - second application of dry shake colored hardener |        | 6400        | .001        |      | .28      | .07   |           | .35   | .41            |
+| 0140 | Step 4 - bull float, manual float & steel trowel | 13 Cefi| 1280        | .019        |      |          | 1      |           | 1     | 1.46           |
+| 0150 | Step 5 - application of dry shake colored release agent | 1 Cefi | 6400        | .001        |      | .10      | .07   |           | .17   | .21            |
+| 0160 | Step 6 - place, tamp & remove mats    | 3 Cefi | 2400        | .010        |      | 1.14     | .53   |           | 1.67  | 2.04           |
+| 0170 | Step 7 - touch up edges, mat joints & simulated grout lines | 1 Cefi | 1280        | .006        |      |          | .33   |           | .33   | .49            |
+| 0300 | Alternate stamping estimating method includes all tasks above | 4 Cefi | 800         | .040        |      | 2.09     | 2.13  |           | 4.22  | 5.40           |
+| 0400 | Step 8 - pressure wash @ 3000 psi after 24 hours | 1 Cefi | 1600        | .005        |      |          | .27   |           | .27   | .39            |
+| 0500 | Step 9 - roll 2 coats cure / seal compound when dry |        | 800         | .010        |      | .64      | .53   |           | 1.17  | 1.49           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 Structural Concrete
+
+## 03 31 13 - Heavyweight Structural Concrete
+
+### 03 31 13.70 Placing Concrete
+
+| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 6240 | 4th floor level     | C-8A | 1000         | .048        | S.F. |          | 2.33  |           | 2.33  | 3.4            |
+
+---
+
+# 03 35 Concrete Finishing
+
+## 03 35 13 High-Tolerance Concrete Floor Finishing
+
+### 03 35 13.30 Finishing Floors, High Tolerance
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FINISHING FLOORS, HIGH TOLERANCE                                     |       |              |             |      |          |       |           |       |                |
+| 0012 | Finishing offresh concrete flatwork requires that concrete           |       |              |             |      |          |       |           |       |                |
+| 0013 | first be placed, struck off & consolidated                           |       |              |             |      |          |       |           |       |                |
+| 0015 | Basic finishing for various unspecified flatwork                     |       |              |             |      |          |       |           |       |                |
+| 0100 | Bull float only                                                      | C-10  | 4000         | .006        | S.F. |          | .30   |           | .30   | .45            |
+| 0125 | Bull float & manual float                                            | I     | 2000         | .012        | "    |          | .61   |           | .61   | .89            |
+| 0150 | Bull float, manual float & broom finish, w/ edging & joints          | C-10  | 1850         | .013        | S.F. |          | .66   |           | .66   | .97            |
+| 0200 | Bull float, manual float & manual steel trowel                       |       | 1265         | .019        | "    |          | .96   |           | .96   | 1.41           |
+| 0210 | For specified Random Access Floors in ACI Classes 1,2,3 and 4 to achieve |   |              |             |      |          |       |           |       |                |
+| 0215 | Composite Overall Floor Flatness and Levelness values up to FF35/FL25|       |              |             |      |          |       |           |       |                |
+| 0250 | Bull float, machine float & machine trowel (walk-behind)             | C-10C | 1715         | .014        | S.F. |          | .71   | .05        | .76   | 1.10           |
+| 0300 | Power screed, bull float, machine float & trowel (walk-behind)       | C-10D | 2400         | .010        |      |          | .51   | .07        | .58   | .82            |
+| 0350 | Power screed, bull float, machine float & trowel (ride on)           | C-10E | 4000         | .0061       |      |          | .30   | .08        | .38   | .54            |
+| 0352 | For specified Random Access Floors in ACI Classes 5,6,7 and 8 to achieve |   |              |             |      |          |       |           |       |                |
+| 0354 | Composite Overall Floor Flatness and Levelness values up to FF50/FL50|       |              |             |      |          |       |           |       |                |
+| 0356 | Add for two-dimensional restraightening after power float            | C-10  | 6000         | .004        | S.F. |          | .20   |           | .220  | 300            |
+| 0358 | For specified Random or Defined Access Floors in ACI Class 9 to achieve |   |              |             |      |          |       |           |       |                |
+| 0360 | Composite Overall Floor Flatness and Levelness values up to FF100/FL100|   |              |             |      |          |       |           |       |                |
+| 0362 | Add for two-dimensional restraightening after bull float & power float| C-10 | 3000         | .008        | S.F. |          |       |           | .10   |                |
+| 0364 | For specified Superflat Defined Access Floors in ACI Class 9 to achieve|    |              |             |      |          |       |           |       |                |
+| 0366 | Minimum Floor Flatness and Levelness values of FF100/FL100           |       |              |             |      |          |       |           |       |                |
+| 0368 | Add for 2 dim'l restraightening after bull float, power float, power trowel | C-10 | 2000 | .012 | S.F. | | .61 | | .61 | .89 |
+
+---
+
+## 03 35 16 - Heavy-Duty Concrete Floor Finishing
+
+### 03 35 16.30 Finishing Floors, Heavy-Duty
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor      | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|------------|-----------|-------|----------------|
+| 0010 | FINISHING FLOORS, HEAVY-DUTY                                         |        |              |             |      |          |            |           |       |                |
+| 1800 | Floor abrasives, dry shake on fresh concrete, .25 psf, aluminum oxide| 1 Cefi | 850          | .009        | S.F. | .41      | .2225572457|           | .91   | 1.18           |
+| 1850 | Silicon carbide                                                      |        | 850          | .009        |      | .62      | .50        |           | 1.12  | 1.41           |
+| 2000 | Floor hardeners, dry shake, metallic, light service, .50 psf         |        | 850          | .009        |      | .83      | .50        |           | 1.33  | 1.64           |
+| 2050 | Medium service, .75 psf                                              |        | 750          | .011        |      | 1.24     |            |           | 1.81  | 2.20           |
+| 2100 | Heavy service, 1.0 psf                                               | 1      | 650          | .012        |      | 1.66     | .65        |           | 2.31  | 2.78           |
+| 2150 | Extra heavy, 1.5 psf                                                 |        | 575          | .014        |      | 2.48     |            |           | 3.22  | 3.81           |
+| 2300 | Non-metallic, light service, .50 psf                                 |        | 850          | .009        |      | .18      | .50        |           | .68   | .93            |
+| 2350 | Medium service, .75 psf                                              |        | 750          | .011        |      | .28      |            |           | .85   | 1.13           |
+| 2400 | Heavy service, 1.0 psf                                               |        | 650          | .012        |      | .37      | .65        |           | 1.02  | 1.37           |
+| 2450 | Extra heavy, 1.5 psf                                                 |        | 575          | .014        |      | .55      |            |           | 1.29  | 1.69           |
+
+---
+
+## 03 35 28 - Trap Rock Wearing Surface
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2800 | Trap rock wearing surface, dry shake, for monolithic floors          |        |              |             |      |          |       |           |       |                |
+| 2810 | 2.0 psf                                                              | C-10B  | 1250         | .032        | S.F. | 22112    | 1.56  | .25       | 1.83  | 2.60           |
+
+---
+
+## 03 35 38 - Dustproofing
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3800 | Dustproofing, liquid, for cured concrete, solvent-based, 1 coat      | 1 Cefi | 1900         | .004        |      | .25      | .22   |           | .47   | .61            |
+| 3850 | 2 coats                                                              |        | 1300         | .006        |      | .91      | .33   |           | 1.24  | 1.48           |
+
+---
+
+## 03 35 40 - Epoxy-Based
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 4000 | Epoxy-based, 1 coat                                                  | 11 Cefi| 1500         | .005        | S.F. | .14      | .28   |           | .42   | 56             |
+| 4050 | 2 coats                                                              |        | 1500         | .005        |      | .27      | .28   |           | .55   | .71            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182
+
+# 03 41 Precast Structural Precast
+
+## 03 41 33 Precast Structural Pretensioned Concrete
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 03   | 41 33 Precast Structural Pretensioned Concrete                       |       |              |             |      |          |       |           |         |                |
+| 03   | 41 33.25 Precast Joists                                              |       |              |             |      |          |       |           |         |                |
+| 0150 | 12" deep for 24' spans                                               | C-12  | 525          | 091         | LF.  | 149      | 5.10  | 3.78      | 157.88  | 176            |
+| 03   | 41 33.60 Precast Tees                                                |       |              |             |      |          |       |           |         |                |
+| 0010 | PRECAST TEES R034105-30                                              |       |              |             |      |          |       |           |         |                |
+| 0020 | Quad tee, short spans, roof                                          | G-11  | 7200         | .010        | S.F. | 10.40    | .61   | .33       | 11.34   | 12.75          |
+| 0050 | Floor                                                                |       | 7200         | .010        |      | 10.40    | .61   | .33       | 11.34   | 12.75          |
+| 0200 | Double tee, floor members, 60' span                                  |       | 8400         | .009        |      | 11.60    | .53   | .28       | 12.41   | 13.85          |
+| 0250 | 80' span                                                             |       | 8000         | .009        |      | 16.60    | .55   | .30       | 17.45   | 19.40          |
+| 0300 | Roof members, 30' span                                               |       | 4800         | .015        |      | 14.25    | .92   | .50       | 15.67   | 17.60          |
+| 0350 | 50' span                                                             |       | 6400         | .011        |      | 11.95    | .69   | .37       | 13.01   | 14.60          |
+| 0400 | Wall members, up to 55' high                                         |       | 3600         | .020        |      | 16.25    | 1.23  | .66       | 18.14   | 20.50          |
+| 0500 | Single tee roof members, 40' span                                    |       | 3200         | .023        |      | 17.15    | 1.38  | .75       | 19.28   | 22             |
+| 0550 | 80' span                                                             |       | 5120         | .014        |      | 19.30    | .86   | .47       | 20.63   | 23.50          |
+| 0600 | 100' span                                                            |       | 6000         | .012        |      | 29.50    | .74   | .40       | 30.64   | 34             |
+| 0650 | 120' span                                                            |       | 6000         | .012        |      | 30.50    | .74   | .40       | 31.64   | 35             |
+| 1000 | Double tees, floor members                                           |       |              |             |      |          |       |           |         |                |
+| 1100 | Lightweight, 20" x 8' wide, 45' span                                 | C-11  | 20           | 3.600       | Ea.  | 4,125    | 221   | 119       | 4,465   | 5,000          |
+| 1150 | 24" x 8' wide, 50' span                                              |       | 18           | 4           |      | 4,575    | 245   | 133       | 4,953   | 5,575          |
+| 1200 | 32" x 10' wide, 60' span                                             |       | 16           | 4.500       |      | 6,875    | 276   | 149       | 7,300   | 8,125          |
+| 1250 | Standard weight, 12" x 8' wide, 20' span                             |       | 22           | 3.273       |      | 1,675    | 201   | 108       | 1,984   | 2,250          |
+| 1300 | 16" x 8' wide, 25' span                                              |       | 20           | 3.600       |      | 2,075    | 221   | 119       | 2,415   | 2,775          |
+| 1350 | 18" x 8' wide, 30' span                                              |       | 20           | 3.600       |      | 2,500    | 221   | 119       | 2,840   | 3,225          |
+| 1400 | 20" x 8' wide, 45' span                                              | 2     | 18           | 4           |      | 3,750    | 245   | 133       | 4,128   | 4,650          |
+| 1450 | 24" x 8' wide, 50' span                                              |       | 16           | 4.500       |      | 4,175    | 276   | 149       | 4,600   | 5,150          |
+| 1500 | 32" x 10' wide, 60' span                                             |       | 14           | 5.143       |      | 6,250    | 315   | 170       | 6,735   | 7,550          |
+| 2000 | Roof members                                                         |       |              |             |      |          |       |           |         |                |
+| 2050 | Lightweight, 20" x 8' wide, 40' span                                 | C-11  | 20           | 3.600       | Ea.  | 3,675    | 221   | 119       | 4,015   | 4,500          |
+| 2100 | 24" x 8' wide, 50' span                                              |       | 18           | 4           |      | 4,575    | 245   | 133       | 4,953   | 5,575          |
+| 2150 | 32" x 10' wide, 60' span                                             |       | 16           | 4.500       |      | 6,875    | 276   | 149       | 7,300   | 8,125          |
+| 2200 | Standard weight, 12" x 8' wide, 30' span                             |       | 22           | 3.273       |      | 2,500    | 201   | 108       | 2,809   | 3,175          |
+| 2250 | 16" x 8' wide, 30' span                                              |       | 20           | 3.600       |      | 2,625    | 221   | 119       | 2,965   | 3,350          |
+| 2300 | 18" x 8' wide, 30' span                                              |       | 20           | 3.600       |      | 2,750    | 221   | 119       | 3,090   | 3,500          |
+| 2350 | 20" x 8' wide, 40' span                                              |       | 18           | 4           |      | 3,325    | 245   | 133       | 3,703   | 4,200          |
+| 2400 | 24" x 8' wide, 50' span                                              |       | 16           | 4.500       |      | 4,175    | 276   | 149       | 4,600   | 5,150          |
+| 2450 | 32" x 10' wide, 60' span                                             |       | 14           | 5.143       |      | 6,250    | 315   | 170       | 6,735   | 7,550          |
+
+# 03 45 Precast Architectural Concrete
+
+## 03 45 13 - Faced Architectural Precast Concrete
+
+### 03 45 13.50 Precast Wall Panels
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | PRECAST WALL PANELS R034513-10                                       |       |              |             |      |          |       |           |         |                |
+| 0050 | Uninsulated, smooth gray                                             |       |              |             |      |          |       |           |         |                |
+| 0150 | Low rise, 4' x 8' x 4" thick                                         | -11   | 320          | .225        | S.F. | 33.50    | 13.80 | 7.45      | 54.75   | 65.50          |
+| 0210 | 8' x 8', 4" thick                                                    |       | 576          | .125        |      | 33       | 7.65  | 4.14      | 44.79   | 53             |
+| 0250 | 8' x 16' x 4" thick                                                  |       | 1024         | .070        |      | 32.50    | 4.32  | 2.33      | 39.15   | 45             |
+| 0600 | High rise, 4' x 8' x 4" thick                                        |       | 288          | .250        |      | 33.50    | 15.35 | 8.30      | 57.15   | 69             |
+| 0650 | 8' x 8' x 4" thick                                                   |       | 512          | .141        |      | 33       | 8.65  | 4.66      | 46.31   | 55             |
+| 0700 | 8' x 16' x 4" thick                                                  |       | 768          | .094        |      | 32.50    | 5.75  | 3.11      | 41.36   | 48             |
+| 0750 | 10' x 20', 6" thick                                                  |       | 1400         | .051        |      | 55.50    | 3.16  | 1.70      | 60.36   | 67.50          |
+| 0800 | Insulated panel, 2" polystyrene, add                                 |       |              |             |      | 1.45     |       |           | 1.45    | 1.60           |
+| 0850 | 2" urethane, add                                                     |       |              |             |      | 1.11     |       |           | 1.11    | 1.22           |
+| 1200 | Finishes, white, add                                                 |       |              |             |      | 3.64     |       |           | 3.64    | 4.01           |
+| 1250 | Exposed aggregate, add                                               |       |              |             |      | .65      |       |           | .65     | .72            |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 03 21 Reinforcement Bars
+
+0 Reinforcement Steel Reinforcement Bars  
+Daily Labor-  
+03 2Bars.60 Reinforcing In Place  
+Crew Output Hours Unit  
+Material  
+Labor  
+2022 Bare Costs  
+Equipment  
+Total  
+Total Incl O&P  
+
+0010 REINFORCING IN PLACE, 50-60 ton lots, A615 Grade 60  
+R0
+
+## 03 21 11 Plain Steel Reinforcement Bars
+
+### 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | REINFORCING IN PLACE, 50-60 ton lots, A615 Grade 60                  | R032110-10   |              |             |      |          |        |           |        |                |
+| 0020  | Includes labor, but not material cost, to install accessories         |              |              |             |      |          |        |           |        |                |
+| 0030  | Made from recycled materials                                         |              |              |             |      |          |        |           |        |                |
+| 0100  | Beams & Girders, #3 to #7                                            | 6G66666646Rodm667 | 1.60         | 20          | Ton  | 1,450    | 1,225  |           | 2,675  | 3,425          |
+| 0150  | #8 to #18                                                            | R032110-20   | G            | 2.70         | 11.852      |      | 1,450    | 720    |           | 2,170  | 2,675          |
+| 0200  | Columns, #3 to #7                                                    | G            | 1.50         | 21.333      |      | 1,450    | 1,300  |           | 2,750  | 3,525          |
+| 0250  | #8 to #18                                                            | G            | 2.30         | 13.913      |      | 1,450    | 845    |           | 2,295  | 2,850          |
+| 0300  | Spirals, hot rolled, 8" to 15" diameter                              |              | 2.20         | 14.545      |      | 1,850    | 885    |           | 2,735  | 3,375          |
+| 0320  | 15" to 24" diameter                                                  | R032110-40   |              | 2.20         | 14.545      |      | 1,775    | 885    |           | 2,660  | 3,275          |
+| 0330  | 24" to 36" diameter                                                  |              | 2.30         | 13.913      |      | 1,700    | 845    |           | 2,545  | 3,100          |
+| 0340  | 36" to 48" diameter                                                  | R032110-50   |              | 2.40         | 13.333      |      | 1,600    | 810    |           | 2,410  | 2,975          |
+| 0360  | 48" to 64" diameter                                                  |              | 2.50         | 12.800      |      | 1,775    | 775    |           | 2,550  | 3,100          |
+| 0380  | 64" to 84" diameter                                                  | R032110-70   |              | 2.60.12.308  |      | 1,850    | 745    |           | 2,595  | 3,175          |
+| 0390  | 84" to 96" diameter                                                  | M            | 2.70         | 11.852      |      | 1,950    | 720    |           | 2,670  | 3,200          |
+| 0400  | Elevated slabs, #4 to #7                                             | R032110-80   |              | 2.90         | 11.034      |      | 1,450    | 670    |           | 2,120  | 2,600          |
+| 0500  | Footings, #4 to #7                                                   |              | 2.10         | 15.238      |      | 1,450    | 925    |           | 2,375  | 2,975          |
+| 0550  | #8 to #18                                                            |              | 3.60         | 8.889       |      | 1,450    | 540    |           | 1,990  | 2,400          |
+| 0600  | Slab on grade, #3 to #7                                              |              | 2.30         | 13.913      |      | 1,450    | 845    |           | 2,295  | 2,850          |
+| 0700  | Walls, #3 to #7                                                      | G            | 3            | 10.667      |      | 1,450    | 645    |           | 2,095  | 2,575          |
+| 0750  | #8 to #18                                                            | G            | 4            | 8           |      | 1,450    | 485    |           | 1,935  | 2,325          |
+| 0900  | For other than 50-60 ton lots                                        |              |              |             |      |          |        |           |        |                |
+| 1000  | Under 10 ton job, #3 to #7, add                                      |              |              |             |      | 25%      | 10%    |           |        |                |
+| 1010  | #8 to #18, add                                                       |              |              |             |      | 20%      | 10%    |           |        |                |
+| 1050  | 10-50 ton job, #3 to #7, add                                         |              |              |             |      | 10%      |        |           |        |                |
+| 1060  | #8 to #18, add                                                       |              |              |             |      | 5%       |        |           |        |                |
+| 1100  | 60-100 ton job, #3 to #7, deduct                                     |              |              |             |      | 5%       |        |           |        |                |
+| 1110  | #8 to #18, deduct                                                    |              |              |             |      | 10%      |        |           |        |                |
+| 1150  | Over 100 ton job, #3 to #7, deduct                                   |              |              |             |      | 10%      |        |           |        |                |
+| 1160  | #8 to #18, deduct                                                    |              |              |             |      | 15%      |        |           |        |                |
+| 1200  | Reinforcing inplace, A615 Grade 75, add                              | G            |              |             | Ton  | 151      |        |           | 151    | 166            |
+| 1220  | Grade 90, add                                                        |              |              |             |      | 170      |        |           | 170    | 187            |
+| 2000  | Unloading & sorting, add to above                                    | C 5          | 100          | .560        |      |          | 34     | 2210      | 55     | 73.50          |
+| 2200  | Crane cost for handling, 90 picks/day, up to 1.5 tons/bundle, add to above |          | 135          | .415        |      |          | 25     | 15.50     | 40.50  | 54.50          |
+| 2210  | 1.0 ton/bundle                                                       |              | 92           | .609        |      |          | 37     | 23        | 60     | 80             |
+| 2220  | 0.5 ton/bundle                                                       |              | 35           | 1.600       |      |          | 96.50  | 60        | 156.50 | 210            |
+| 2400  | Dowels, 2 feet long, deformed, #3                                    | 5G5555552 Rodm | 520         | .031        | Eq.  | .60      | 1.87   |           | 2.47   | 3.45           |
+| 2410  | #4                                                                   | G            | 480          | .033        |      | 1.07     | 2.02   |           | 3.09   | 4.19           |
+| 2420  | #5                                                                   |              | 435          | .037        |      | 1.67     | 2.23   |           | 3.90   | 5.15           |
+| 2430  | #6                                                                   | G            | 360          | .044        |      | 2.40     | 2.70   |           | 5.10   | 6.65           |
+| 2450  | Longer and heavier dowels, add                                       | G            | 725          | .022        | Lb.  | .80      | 1.34   |           | 2.14   | 2.88           |
+| 2500  | Smooth dowels, 12" long, 1/4" or 3/8" diameter                       | G            | 140          | .114        | Ea.  | 1.02     | 6.95   |           | 7.97   | 11.50          |
+| 2520  | 5/8" diameter                                                        | G            | 125          | .128        |      | 1.79     | 7.75   |           | 9.54   | 13.55          |
+| 2530  | 3/4" diameter                                                        | G            | 110          | .145        |      | 2.22     | 8.85   |           | 11.07  | 15.65          |
+| 2600  | Dowel sleeves for CIP concrete, 2-part system                        |              |              |             |      |          |        |           |        |                |
+| 2610  | Sleeve base, plastic, for 5/8" smooth dowel sleeve, fasten to edge form | Rodm      | 200          | .040        | Ea.  | .57      | 2.43   |           | 3      | 4.26           |
+| 2615  | Sleeve, plastic, 12" long, for 5/8" smooth dowel, snap onto base     |              | 400          | .020        |      | 1.41     | 1.21   |           | 2.62   | 3.36           |
+| 2620  | Sleeve base, for 3/4" smooth dowel sleeve                            |              | 175          | .046        |      | .57      | 2.77   |           | 3.34   | 4.77           |
+| 2625  | Sleeve, 12" long, for 3/4" smooth dowel                              |              | 350          | .023        |      | 1.41     | 1.39   |           | 2.80   | 3.62           |
+| 2630  | Sleeve base, for 1" smooth dowel sleeve                              |              | 150          | .053        |      | .96      | 3.24   |           | 4.20   | 5.90           |
+| 2635  | Sleeve, 12" long, for 1" smooth dowel                                |              | 300          | .027        |      | 1.48     | 1.62   |           | 3.10   | 4.05           |
+| 2700  | Dowel caps, visual warning only, plastic, #3 to #8                   | 2 Rodm       | 800          | .020        |      | .64      | 1.21   |           | 1.85   | 2.51           |
+| 2720  | #8 to #18                                                            |              | 750          | .021        |      | 1.11     | 1.29   |           | 2.40   | 3.15           |
+|       |                                                                      |              |              |             |      |          |        |           |        | 775            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03035 Precast Architectural Precast  
+03 45 13  
+Faced Architectural Precast Concrete  
+03 45 13.50 Precast Wall Concrete  
+
+Granite faced, domestic, add
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 1300  | Granite faced, domestic, add                                         |        |              |             | S.F. | 27.50    |       |           | 27.50  | 30.50          |
+| 1350  | Brick faced, modular, red, add                                       |        |              |             |      | 9.15     |       |           | 9.15   | 10.05          |
+| 2200  | Fiberglass reinforced cement with urethane core                      |        |              |             |      |          |       |           | 433    |                |
+| 2210  | R20, 8' x 8', 5" plain finish                                        | E2     | 750          | .075        | S.F. | 30.50    | 4.57  | 3.31      | 38.38  | 44             |
+| 2220  | Exposed aggregate or brick finish                                    | "      | 600          | .093        | "    | 50.50    | 5.70  | 4.13      | 60.33  | 69             |
+
+---
+
+03 47 Site-Cast Concrete  
+03 47 13 - Tilt-Up Concrete  
+03 47 13.50 Tilt-Up Wall Panels  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | TILT-UP WALL PANELS                                                  | R034713-20 |            |             |      |          |       |           |        |                |
+| 0015  | Wall panel construction, walls only, 5-1/2" thick                    | C-14   | 1600         | .090        | S.F. | 8.10     | 4.94  | 1.52      | 14.56  | 17.95          |
+| 0100  | 7-1/2" thick                                                         |        | 1550         | .093        | 1    | 10.15    | 5.10  | 1.57      | 16.82  | 20.50          |
+| 0500  | Walls and columns, 5-1/2" thick walls, 12" x 12" columns             |        | 1565         | .092        |      | 12.15    | 5.05  | 1.56      | 18.76  | 22.50          |
+| 0550  | 7-1/2" thick wall, 12" x 12" columns                                 |        | 1370         | .105        |      | 14.95    | 5.75  | 1.78      | 22.48  | 27             |
+| 0800  | Columns only, site precast, 12" x 12"                                |        | 200          | .720        | LF   | 301      | 39.50 | 12.20     | 81.70  | 105            |
+| 0850  | 16" x 16"                                                            |        | 105          | 1.3711      |      | 43.50    | 75.50 | 23        | 142    | 186            |
+
+---
+
+03 48 Precast Concrete Specialties  
+03 48 43 Precast Concrete Trim  
+03 48 43.40 Precast Lintels  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | PRECAST LINTELS, smooth gray, prestressed, stock units only          |        |              |             |      |          |       |           |        |                |
+| 0800  | 4" wide x 8" high x 4' long                                          | D-10   | 28           | 1.143       | Ea.  | 39.50    | 63    | 20.502    | 123    | 161            |
+| 0850  | 8' long                                                              |        | 24           | 1.333       |      | 90       | 73.50 | 24        | 187.50 | 235            |
+| 1000  | 6" wide x 8" high x 4' long                                          |        | 26           | 1.231       |      | 66.50    | 68    |           | 156.50 | 200            |
+| 1050  | 10' long                                                             |        | 22           | 1.455       |      | 174      | 80.50 | 26        | 280.50 | 340            |
+| 1200  | 8" wide x 8" high x 4' long                                          |        | 24           | 1.333       |      | 64.50    | 73.50 | 24        | 162    | 207            |
+| 1250  | 12' long                                                             |        | 20           | 1.600       |      | 223      | 88.50 | 28.50     | 340    | 410            |
+| 1275  | For custom sizes, types, colors, or finishes of precast lintels, add |        |              |             | Ea.  | 150 %    |       |           |        |                |
+
+---
+
+03 48 43.90 Precast Window Sills  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | PRECAST WINDOW SILLS                                                 |        |              |             |      |          |       |           |        |                |
+| 0600  | Precast concrete, 4" tapers to 3", 9" wide                          | 3-1    | 70           | 2225        | LF   | 5.80     | 11.45 |           | 17.25  | 23.50          |
+| 0650  | 11" wide                                                             | =      | 60           | .267        | #    | 6.45     | 13.35 |           | 19.80  | 27             |
+
+---
+
+03 51 Cast Roof Decks  
+03 51 13 - Cementitious Wood Fiber Decks  
+03 51 13.50 Cementitious/Wood Fiber Planks  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|--------|----------------|
+| 0010  | CEMENTITIOUS / WOOD FIBER PLANKS                                     | R051223-50 |            |             |      |          |         |           |        |                |
+| 0050  | Plank, beveled edge, 1" thick                                        | 2 Carp | 1000         | .016        | S.F. | 3.68     | .2222   |           | 4.58   | 5.40           |
+| 0100  | 1-1/2" thick                                                         |        | 975          | .016        |      | 5.55     | .92     |           | 6.47   | 7.50           |
+| 0150  | T&G, 2" thick                                                        |        | 950          | .017        |      | 3.85     | .95     |           | 4.80   | 5.65           |
+| 0200  | 2-1/2" thick                                                         |        | 925          | .017        |      | 4.36     | .97     |           | 5.33   | 6.25           |
+| 0250  | 3" thick                                                             |        | 900          | .018        |      | 4.88     | 1       |           | 5.88   | 6.85           |
+| 1000  | Bulb tee, sub purlin and grout, 6' span, add                         | E-1    | 5000         | .005        |      | 2.01     | .23     | .03       | 2.33   | 2.69           |
+| 1100  | 8' span                                                              | "      | 4200         | .006        |      | 2.01     | .35     | .04       | 2.40   | 2.78           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03034 Cast Unde54ayment
+
+## 03 5Cast - Hydraulic CUnderlaymentayment  
+03 54 16.50 Cement Underlayment
+
+### Daily Labor-Crew Output Hours Unit  
+2022 Bare Costs
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CEMENT UNDERLAYMENT                                                  |       |              |             |      |          |       |           |       |                |
+| 2510 | Underlayment, P.C. based, self-leveling, 4100 psi, pumped, 1/4" thick| C 8   | 20000        | .003        | S.F. | 2.06     | .14   | .04       | 2.24  | 2.52           |
+| 2520 | 1/2" thick                                                           |       | 19000        | .003        |      | 4.12     | .15   | .04       | 4.31  | 4.79           |
+| 2530 | 3/4" thick                                                           |       | 18000        | .003        |      | 6.20     | .16   | .04       | 6.40  | 7.10           |
+| 2540 | 1" thick                                                             |       | 17000        | .003        |      | 8.25     | .17   | .04       | 8.46  | 9.35           |
+| 2550 | 1-1/2" thick                                                         |       | 15000        | .004        |      | 12.35    | .19   | .05       | 12.59 | 13.95          |
+| 2560 | Hand placed, 1/2" thick                                              | C-18  | 450          | .020        |      | 4.12     | .92   | .26       | 5.30  | 6.20           |
+| 2610 | Topping, P.C. based, self-leveling, 6100 psi, pumped, 1/4" thick     | C-8   | 20000        | 003         |      | 2.19     | .14   | .04       | 2.37  | 2.65           |
+| 2620 | 1/2" thick                                                           |       | 19000        | .003        |      | 4.37     | .15   | .04       | 4.56  | 5.05           |
+| 2630 | 3/4" thick                                                           |       | 18000        | .003        |      | 6.55     | .16   | .04       | 6.75  | 7.50           |
+| 2660 | 1" thick                                                             |       | 17000        | .003        |      | 8.75     | .17   | .04       | 8.96  | 9.90           |
+| 2670 | 1-1/2" thick                                                         |       | 15000        | .004        |      | 13.10    | .19   | .05       | 13.34 | 14.80          |
+| 2680 | Hand placed, 1/2" thick                                              | C-18  | 450          | .020        |      | 4.37     | .92   | .26       | 5.55  | 6.45           |
+
+---
+
+## 03 62 Non-Shrink Grouting
+
+### 03 62 13 • Non-Metallic Non-Shrink Grouting  
+03 62 13.50 Grout, Non-Metallic Non-Shrink
+
+| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | GROUT, NON-METALLIC NON-SHRINK                            |       |              |             |      |          |        |           |        |                |
+| 0300 | Non-shrink, non metallic, 1" deep                         | 1 Cefi| 35           | .229        | S.F. | 7.95     | 12.15  |           | 20.10  | 26.50          |
+| 0350 | 2" deep                                                   | "     | 25           | .320        | "    | 15.95    | 17     |           | 32.95  | 42.50          |
+
+---
+
+### 03 62 16 - Metallic Non-Shrink Grouting  
+03 62 16.50 Grout, Metallic Non-Shrink
+
+| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | GROUT, METALLIC NON-SHRINK                                |       |              |             |      |          |        |           |        |                |
+| 0020 | Column & machine bases, non-shrink, metallic, " deep      | 1 Cefi| 35           | .229        | S.F. | 9.25     | 12.15  |           | 21.40  | 28             |
+| 0050 | 2" deep                                                   | 1 Cefi| 25           | .320        | S.F. | 18.45    | 17     |           | 35.45  | 45.50          |
+
+---
+
+## 03 63 Epoxy Grouting
+
+### 03 63 05 Grouting of Dowels and Fasteners  
+03 63 05.10 Epoxy Only
+
+| ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | EPOXY ONLY                                                           |       |              |             |      |          |        |           |        |                |
+| 1500 | Chemical anchoring, epoxy cartridge, excludes layout, drilling, fastener |       |              |             |      |          |        |           |        |                |
+| 1530 | For fastener 3/4" diam. x 6" embedment                              | 2 Skwk| 72           | .222        | Eq.  | 4.23     | 13.10  |           | 17.33  | 24.50          |
+| 1535 | 1" diam. x 8" embedment                                              |       | 66           | .242        |      | 6.35     | 14.30  |           | 20.65  | 28.50          |
+| 1540 | 1-1/4" diam. x 10" embedment                                         |       | 60           | .267        |      | 12.70    | 15.70  |           | 28.40  | 37.50          |
+| 1545 | 1-3/4" diam. x 12" embedment                                         |       | 54           | .296        |      | 21       | 17.45  |           | 38.45  | 49.50          |
+| 1550 | 14" embedment                                                        |       | 48           | .333        |      | 25.50    | 19.65  |           | 45.15  | 57.50          |
+| 1555 | 2" diam. x 12" embedment                                             |       | 42           | .381        |      | 34       | 22.50  |           | 56.50  | 70.50          |
+| 1560 | 18" embedment                                                        |       | 32           | .500        |      | 42.50    | 29.50  |           | 72     | 90.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 51 Cast Ro51 Decks
+
+03 5Cast - Gypsum ConcRoof Roof Decks  
+03 5Decks50 Gypsum Roof Deck
+
+## 0010 GYPSUM ROOF DECK
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 51 16 - Gypsum Concrete Roof Decks     |      |             |             |      |          |       |           |       |                |
+| 03    | 51 16.50 Gypsum Roof Deck              |      |             |             |      |          |       |           |       |                |
+| 0010  | GYPSUM ROOF DECK                       |      |             |             |      |          |       |           |       |                |
+| 1000  | Poured gypsum, 2" thick                | C-8  | 6000        | .009        | S.F. | .75      | .47   | .136      | 1.35  | 1.66           |
+| 1100  | 3" thick                               | "    | 4800        | .012        |      | 1.13     | .59   | .16       | 1.88  | 2.28           |
+
+---
+
+# 03 52 Lightweight Concrete Roof Insulation
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 52 16 - Lightweight Insulating Concrete|      |             |             |      |          |       |           |       |                |
+| 03    | 52 16.13 Lightweight Cellular Insulating Concrete |      |             |             |      |          |       |           |       |                |
+| 0010  | LIGHTWEIGHT CELLULAR INSULATING CONCRETE R035216-10 |      |             |             |      |          |       |           |       |                |
+| 0020  | Portland cement and foaming agent      | G (-8| 50          | 1.120       | C.Y. | 136      | 56    | 15.10     | 207.10| 249            |
+| 03    | 52 16.16 Lightweight Aggregate Insulating Concrete |      |             |             |      |          |       |           |       |                |
+| 0010  | LIGHTWEIGHT AGGREGATE INSULATING CONCRETE R035216-10 |      |             |             |      |          |       |           |       |                |
+| 0100  | Poured vermiculite or perlite, field mix, |      |             |             |      |          |       |           |       |                |
+| 0110  | 1:6 field mix                          | 55G55 (-8| 50     | 1.120       | C.Y. | 330      | 56    | 15.10     | 401.10| 465            |
+| 0200  | Ready mix, 1 6 mix, roof fil, 2" thick | G    | 10000       | .006        | S.F. | 1.84     | .28   | .08       | 2.20  | 2.53           |
+| 0250  | 3" thick                               | G    | 7700        | .007        |      | 2.77     | .36   | .10       | 3.23  | 3.69           |
+| 0400  | Expanded volcanic glass rock, 1" thick | G 2 Carp | 1500   | .011        |      | .62      | .60   |           | 1.22  | 1.57           |
+| 0450  | 3" thick                               | G "  | 1200        | .013        |      | 1.85     | .75   |           | 2.60  | 3.15           |
+
+---
+
+# 03 53 Concrete Topping
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 53 16 Iron-Aggregate Concrete Topping  |      |             |             |      |          |       |           |       |                |
+| 03    | 53 16.50 Floor Topping                 |      |             |             |      |          |       |           |       |                |
+| 0010  | FLOOR TOPPING                          |      |             |             |      |          |       |           |       |                |
+| 0400  | Integral topping / finish, on fresh concrete, using 1:1 2 mix, 3/16" thick | C-10B | 1000 | .040 | S.F. | .13 | 1.94 | .333 | 2.38 | 3.36 |
+| 0450  | 1/2" thick                             |      | 950         | .042        |      | .34      | 2.05  | .33       | 2.72  | 3.76           |
+| 0500  | 3/4" thick                             |      | 850         | .047        |      |          | 2.29  |           | 3.17  | 4.35           |
+| 0600  | 1" thick                               |      | 750         | .053        |      | .68      | 2.591 | .42       | 3.69  | 5.05           |
+| 0800  | Granolithic topping, on fresh or cured concrete, 1:1:1-1/2 mix, 1/2" thick | [C-10B| 590 | .068 | S.F. | .38 | 3.30 | .53 | 4.21 | 5.90 |
+| 0820  | 3/4" thick                             | ] ]  | 580         | .069        |      | .57      | 3.35  | .54       | 4.46  | 6.20           |
+| 0850  | 1" thick                               |      | 575         | .070        |      | .77      | 3.38  | .55       | 4.701 | 6.45           |
+| 0950  | 2" thick                               |      | 500         | .080        |      | 1.53     | 3.89  | .63       | 6.05  | 8.10           |
+| 1200  | Heavy duty, 1:1:2, 3/4" thick, preshrunk, gray, 20 M.S.F. |      | 320 | .125 |      | .91 | 6.10 | .98 | 7.99 | 11.10 |
+| 1300  | 100 M.S.F.                             |      | 380         | .105        |      | .51      | 5.10  | .83       | 6.44  | 9              |
+
+---
+
+# 03 54 Cast Underlayment
+
+| ID    | Name                                   | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 03    | 54 13 - Gypsum Cement Underlayment     |      |             |             |      |          |       |           |       |                |
+| 03    | 54 13.50 Poured Gypsum Underlayment    |      |             |             |      |          |       |           |       |                |
+| 0010  | POURED GYPSUM UNDERLAYMENT             |      |             |             |      |          |       |           |       |                |
+| 0400  | Underlayment, gypsum based, self-leveling 2500 psi, pumped, 1/2" thick | C-8 | 24000 | .002 | S.F | .19 | .12 | .03 | .34 | .41 |
+| 0500  | 3/4" thick                             |      | 20000       | .003        |      | .28      | .14   | .04       | .46   | .56            |
+| 0600  | 1" thick                               |      | 16000       | .004        |      | .38      | .18   | .05       | .61   | .72            |
+| 1400  | Hand placed, 1/2" thick                | C-18 | 450         | .020        |      | .19      | .92   | .26       | 1.37  | 1.86           |
+| 1500  | 3/4" thick                             | "    | 300         | .030        |      | .28      | 1.37  | .40       | 2.05  | 2.80           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 11 Concrete Forming
+
+## 03 11 Concrete Structural Cast-In-Place Concrete Forming
+
+### Daily Labor
+
+Crew | Output | Hours | Unit
+--- | --- | --- | ---
+C-2 | 405 | 119 | SFCA
+
+---
+
+## 03 11 13.20 Forms In Place, Beams and Girders
+
+| ID   | Name                                              | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 4050 | 2 use                                             | C-2  | 405          | 119         | SFCA  | 3.78     | 6.50  |           | 10.28 | 13.85          |
+| 4100 | 3 use                                             |      | 430.112      |             |       | 2.75     | 6.10  |           | 8.85  | 12.15          |
+| 4150 | 4 use                                             |      | 445 .108     |             |       | 2.24     | 5.90  |           | 8.14  | 11.25          |
+| 4500 | Sloped sides, 36" high, 1 use                     |      | 305 .157     |             |       | 6.85     | 8.65  |           | 15.50 | 20.50          |
+| 4550 | 2 use                                             |      | 370 .130     |             |       | 3.83     | 7.10  |           | 10.93 | 14.80          |
+| 4600 | 3 use                                             |      | 405 .119     |             |       | 2.74     | 6.50  |           | 9.24  | 12.70          |
+| 4650 | 4 use                                             |      | 425.113      |             |       | 2.23     | 6.20  |           | 8.43  | 11.65          |
+| 5000 | Upstanding beams, 36" high, 1 use                 |      | 225.213      |             |       | 8        | 11.70 |           | 19.70 | 26             |
+| 5050 | 2 use                                             |      | 255.188      |             |       | 4.48     | 10.30 |           | 14.78 | 20.50          |
+| 5100 | 3 use                                             |      | 275          | .175        |       | 3.23     | 9.55  |           | 12.78 | 17.80          |
+| 5150 | 4 use                                             |      | 280 .171     |             |       | 2.62     | 9.40  |           | 12.02 | 16.90          |
+
+---
+
+## 03 11 13.25 Forms In Place, Columns
+
+| ID    | Name                                                        | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, COLUMNS                                     |      |              |             |       |          |       |           |       |                |
+| 0500  | Round fiberglass, 4 use per mo., rent, 12" diameter         |      | 160          | .200        | LF    | 3223     | 10.75 |           | 33.75 | 41.50          |
+| 0550  | 16" diameter                                                |      | 150          | .213        |       | 27       | 11.45 |           | 38.45 | 46.50          |
+| 0600  | 18" diameter                                                |      | 140          | .229        |       | 29.50    | 12.25 |           | 41.75 | 51             |
+| 0650  | 24" diameter                                                |      | 135.237      |             |       | 37       | 12.70 |           | 49.70 | 59.50          |
+| 0700  | 28" diameter                                                |      | 130          | .246        |       | 41.50    | 13.20 |           | 54.70 | 65             |
+| 0800  | 30" diameter                                                |      | 125          | .256        |       | 43.50    | 13.75 |           | 57.25 | 68.50          |
+| 0850  | 36" diameter                                                |      | 1120         | .267        |       | 57.50    | 14.30 |           | 71.80 | 84.50          |
+| 1500  | Round fiber tube, recycled paper, 1 use, 8" diameter        |      | 155          | .206        |       | 2.48     | 11.05 |           | 13.53 | 19.25          |
+| 1550  | 10" diameter                                                |      | 155          | .206        |       | 4.03     | 11.05 |           | 15.08 | 21             |
+| 1600  | 12" diameter                                                |      | 150          | .213        |       |          | 11.45 |           | 16.45 | 22.50          |
+| 1650  | 14" diameter                                                |      | 145          | .221        |       | 7.15     | 11.85 |           | 19    | 25.50          |
+| 1700  | 16" diameter                                                |      | 140          | .229        |       | 8.35     | 12.25 |           | 20.60 | 27.50          |
+| 1720  | 18" diameter                                                |      | 140          | .229        | L.F.  | 9.75     | 12.25 |           | 22    | 29             |
+| 1750  | 20" diameter                                                |      | 135          | .237        |       | 11.65    | 12.70 |           | 24.35 | 32             |
+| 1800  | 24" diameter                                                |      | 130          | .246        |       | 13.45    | 13.20 |           | 26.65 | 34.50          |
+| 1850  | 30" diameter                                                |      | 125          | .256        |       | 19.60    | 13.75 |           | 33.35 | 42             |
+| 1900  | 36" diameter                                                |      | 115          | .278        |       | 28.50    | 14.90 |           | 43.40 | 53             |
+| 1950  | 42" diameter                                                |      | 100          | .320        |       | 52.50    | 17.15 |           | 69.65 | 83             |
+| 2000  | 48" diameter                                                |      | 85           | .376        |       | 55.50    | 20    |           | 75.50 | 91.50          |
+| 2200  | For seamless type, add                                      |      |              |             |       | 15 %     |       |           |       |                |
+| 3000  | Round, steel, 4 use per mo., rent, regular duty, 14" diam.  |      | 145          | .221        | L.F.  | 18.45    | 11.85 |           | 30.30 | 38             |
+| 3050  | 16" diameter                                                |      | 125          | .256        |       | 18.80    | 13.75 |           | 32.55 | 41             |
+| 3100  | Heavy duty, 20" diameter                                    |      | 105          | .305        |       | 2218     | 16.35 |           | 37.35 | 47.50          |
+| 3150  | 24" diameter                                                |      | 85           | .376        |       | 22.50    | 20    |           | 42.50 | 55             |
+| 3200  | 30" diameter                                                |      | 70           | .457        |       | 26       | 24.50 |           | 50.50 | 65             |
+| 3250  | 36" diameter                                                |      | 60           | .533        |       |          | 28.50 |           | 56.50 | 73             |
+| 3300  | 48" diameter                                                |      | 50           | .640        |       | 41.50    | 34.50 |           | 76    | 96.50          |
+| 3350  | 60" diameter                                                |      | 45           | .711        |       | 51       | 38    |           | 89    | 113            |
+| 4500  | For second and succeeding months, deduct                    |      |              |             |       | 50 %     |       |           |       |                |
+| 5000  | Job-built plywood, 8" x 8" columns, 1 use                   | C-1  | 165          | .194        | SFCA  | 3.76     | 10.40 |           | 14.16 | 19.65          |
+| 5050  | 2 use                                                       |      | 195.164      |             |       | 2.16     | 8.80  |           | 10.96 | 15.45          |
+| 5100  | 3 use                                                       |      | 210          | .152        |       | 1.50     | 8.15  |           | 9.65  | 13.80          |
+| 5150  | 4 use                                                       |      | 215          | .149        |       | 1.23     | 8     |           | 9.23  | 13.25          |
+| 5500  | 12" x 12" columns, 1 use                                    |      | 180          | .178        |       | 3.76     | 9.55  |           | 13.31 | 18.35          |
+| 5550  | 2 use                                                       |      | 210          | .152        |       | 2.07     | 8.15  |           | 10.22 | 14.40          |
+| 5600  | 3 use                                                       |      | 220          | .145        |       | 1.50     | 7.80  |           | 9.30  | 13.25          |
+| 5650  | 4 use                                                       |      | 225.142      |             |       | 1.22     | 7.65  |           | 8.87  | 12.70          |
+| 6000  | 16" x 16" columns, 1 use                                    |      | 185          | .173        |       | 3.83     | 9.30  |           | 13.13 | 18             |
+| 6050  | 2 use                                                       |      | 215          | .149        |       | 2.03     | 8     | 1         | 10.03 | 14.15          |
+
+---
+
+Support your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer on
+
+# 03 03 Precast Structural Concrete
+
+## 03 41 23. Precast Concrete Structural  
+### 03 41 23.50 Precast Stairs
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | PRECAST STAIRS                                            |      |              |             |        |          |       |           |          |                |
+| 0020  | Precast concrete treads on steel stringers, 3' wide        | -12  | 75           | .640        | Riser  | 173      | 36    | 26.50     | 235.50   | 273            |
+| 0300  | 3 Front entrance, 5' wide with 48" platform, 2 risers      |      | 16           | 3           | Flight | 675      | 168   | 124       | 967      | 1,125          |
+| 0350  | 5 risers                                                  |      | 12           | 4           |        | 1,250    | 224   | 165       | 1,639    | 1,900          |
+| 0500  | 6' wide, 2 risers                                         |      | 15           | 3.200       |        | 720      | 179   | 132       | 1,031    | 1,200          |
+| 0550  | 5 risers                                                  |      |              | 4.364       |        | 1,375    | 244   | 180       | 1,799    | 2,100          |
+| 0700  | 7' wide, 2 risers                                         |      | 14           | 3.429       |        | 1,050    | 192   | 142       | 1,384    | 1,600          |
+| 0750  | 5 risers                                                  |      | 10           | 4.800       |        | 1,650    | 269   | 198       | 2,117    | 2,450          |
+| 1200  | Basement entrance stairwell, 6 steps, incl. steel bulkhead door | B 51 | 22      | 2.182       | Flight | 1,850    | 102   | 15.45     | 1,967.45 | 2,225          |
+| 1250  | 14 steps                                                  | "    | 11           | 4.364       | "      | 3,350    | 204   | 31        | 3,585    | 4,025          |
+
+---
+
+## 03 41 33 - Precast Structural Pretensioned Concrete  
+### 03 41 33.10 Precast Beams
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total     | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-----------|----------------|
+| 0010  | PRECAST BEAMS                                             | R034105-30 |            |             |      |          |       |           |           |                |
+| 0011  | L-shaped, 20' span, 12" x 20"                             | C-11   | 32           | 2.250       | Ea.  | 4,675    | 138   | 74.50     | 4,887.50  | 5,450          |
+| 0060  | 18" x 36"                                                 |        | 24           | 3           |      | 6,450    | 184   | 99.50     | 6,733.50  | 7,500          |
+| 0100  | 24" x 44"                                                 |        | 22           | 3.273       |      | 7,750    | 201   | 108       | 8,059     | 8,925          |
+| 0150  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 9,125    | 184   | 99.50     | 9,408.50  | 10,500         |
+| 0200  | 18" x 44"                                                 |        | 20           | 3.600       |      | 10,900   | 221   | 119       | 11,240    | 12,500         |
+| 0250  | 24" x 52"                                                 |        | 16           | 4.500       |      | 13,100   | 276   | 149       | 13,525    | 15,000         |
+| 0400  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 13,800   | 221   | 119       | 14,140    | 15,700         |
+| 0450  | 18" x 52"                                                 |        | 16           | 4.500       |      | 15,400   | 276   | 149       | 15,825    | 17,600         |
+| 0500  | 24" x 52"                                                 |        | 12           | 6           |      | 17,500   | 370   | 199       | 18,069    | 20,000         |
+| 1200  | Rectangular, 20' span, 12" x 20"                          |        | 32           | 2.250       |      | 4,050    | 138   | 74.50     | 4,262.50  | 4,775          |
+| 1250  | 18" x 36"                                                 |        | 24           | 3           |      | 5,900    | 184   | 99.50     | 6,183.50  | 6,900          |
+| 1300  | 24" x 44"                                                 |        | 22           | 3.273       |      | 6,875    | 201   | 108       | 7,184     | 8,000          |
+| 1400  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 6,725    | 184   | 99.50     | 7,008.50  | 7,775          |
+| 1450  | 18" x 44"                                                 |        | 20           | 3.600       |      | 9,350    | 221   | 119       | 9,690     | 10,800         |
+| 1500  | 24" x 52"                                                 |        | 16           | 4.500       |      | 11,400   | 276   | 149       | 11,825    | 13,100         |
+| 1600  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 11,200   | 221   | 119       | 11,540    | 12,800         |
+| 1650  | 18" x 52"                                                 |        | 16           | 4.500       |      | 13,200   | 276   | 149       | 13,625    | 115,100        |
+| 1700  | 24" x 52"                                                 |        | 12           | 6           |      | 15,200   | 370   | 199       | 15,769    | 17,500         |
+| 2000  | "T" shaped, 20' span, 12" x 20"                           |        | 32           | 2.250       |      | 5,650    | 138   | 74.50     | 5,862.50  | 6,525          |
+| 2050  | 18" x 36"                                                 |        | 24           | 3           |      | 17,425   | 184   | 99.50     | 7,708.50  | 8,575          |
+| 2100  | 24" x 44"                                                 |        | 22           | 3.273       |      | 7,625    | 201   | 108       | 7,934     | 8,825          |
+| 2200  | 30' span, 12" x 36"                                       |        | 24           | 3           |      | 10,100   | 184   | 99.50     | 10,383.50 | 11,500         |
+| 2250  | 18" x 44"                                                 |        | 20           | 3.600       |      | 12,800   | 221   | 119       | 13,140    | 14,600         |
+| 2300  | 24" x 52"                                                 |        | 16           | 4.500       |      | 12,500   | 276   | 149       | 12,925    | 14,300         |
+| 2500  | 40' span, 12" x 52"                                       |        | 20           | 3.600       |      | 16,500   | 221   | 119       | 16,840    | 18,600         |
+| 2550  | 18" x 52"                                                 |        | 16           | 4.500       |      | 15,500   | 276   | 149       | 15,925    | 17,700         |
+| 2600  | 24" x 52"                                                 |        | 12           | 6           |      | 16,600   | 370   | 199       | 17,169    | 19,100         |
+
+---
+
+### 03 41 33.15 Precast Columns
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 0010  | PRECAST COLUMNS                                           | R034105-30 |            |             |      |          |       |           |          |                |
+| 0020  | Rectangular to 12' high, 16" x 16"                        | C-11   | 120          | .600        | L.F. | 266      | 37    | 19.90     | 322.90   | 370            |
+| 0050  | 24" x 24"                                                 |        | 96           | .750        |      | 365      | 46    | 25        | 436      | 500            |
+| 0300  | 24' high, 28" x 28"                                       |        | 192          | .375        |      | 410      | 23    | 12.45     | 445.45   | 505            |
+| 0350  | 36" x 36"                                                 |        | 144          | .500        |      | 550      | 30.50 | 16.60     | 597.10   | 670            |
+
+---
+
+### 03 41 33.25 Precast Joists
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | PRECAST JOISTS                                            | R034105-30 |            |             |      |          |       |           |         |                |
+| 0015  | 40 psf L.L., 6" deep for 12' spans                        | C-12   | 600          | .080        | L.F. | 37.50    | 4.48  | 3.30      | 45.28   | 51.50           |
+| 0050  | 8" deep for 16' spans                                     |        | 575          | .083        |      | 62       | 4.68  | 3.45      | 70.13   | 79              |
+| 0100  | 10" deep for 20' spans                                    |        | 550          | .087        |      | 109      | 4.89  | 3.61      | 117.50  | 131             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Cast-In-Place Concrete
+
+## Daily Labor - 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|-----------|----------------|
+| 0840  | Up to 3% reinforcing by area                                         | C-14A  | 10.25        | 19.5        |       |          |        |           |           |                |
+| 0840  | Up to 3% reinforcing by area                                         | C-14A  | 10.25        | 19.512      | C.Y.  | 1,100    | 1,100  | 76.50     | 2,276.50  | 2,900          |
+| 0900  | 24" x 24", up to 1% reinforcing by area                              |        | 23.66        | 8.453       |       | 360      | 475    | 33        | 868       | 1,150          |
+| 0920  | Up to 2% reinforcing by area                                         |        | 17.71        | 11.293      |       | 635      | 635    | 44        | 1,314     | 1,700          |
+| 0940  | Up to 3% reinforcing by area                                         |        | 14.15        | 14.134      |       | 1,000    | 795    | 55.50     | 1,850.50  | 2,325          |
+| 1000  | 36" x 36", up to 1% reinforcing by area                              |        | 33.69        | 5.936       |       | 320      | 335    | 23        | 678       | 870            |
+| 10201 | Up to 2% reinforcing by area                                         |        | 23.32        | 8.576       |       | 560      | 485    | 33.50     | 1,078.50  | 1,375          |
+| 1040  | Up to 3% reinforcing by area                                         |        | 17.82        | 11.223      |       | 940      | 630    | 44        | 1,614     | 2,025          |
+| 1100  | Columns, round (4000 psi), tied, 12" diameter, up to 1% reinforcing  |        | 20.97        | 9.537       |       | 505      | 535    | 37.50     | 1,077.50  | 1,400          |
+| 1120  | Up to 2% reinforcing by area                                         |        | 15.27        | 13.098      |       | 805      | 735    | 51        | 1,591     | 2,050          |
+| 1140  | Up to 3% reinforcing by area                                         |        | 12.11        | 16.515      |       | 1,200    | 930    | 64.50     | 2,194.50  | 2,775          |
+| 1200  | 16" diameter, up to 1% reinforcing by area                           |        | 31.49        | 6.351       |       | 455      | 355    | 25        | 835       | 1,050          |
+| 1220  | Up to 2% reinforcing by area                                         |        | 19.12        | 10.460      |       | 760      | 590    | 41        | 1,391     | 1,750          |
+| 1240  | Up to 3% reinforcing by area                                         |        | 13.77        | 14.524      |       | 1,125    | 815    | 57        | 1,997     | 2,525          |
+| 1300  | 20" diameter, up to 1% reinforcing by area                           |        | 41.04        | 4.873       |       | 440      | 274    | 19.05     | 733.05    | 915            |
+| 1320  | Up to 2% reinforcing by area                                         |        | 24.05        | 8.316       |       | 715      | 470    | 32.50     | 1,217.50  | 1,525          |
+| 1340  | Up to 3% reinforcing by area                                         |        | 17.01        | 11.758      |       | 1,100    | 660    | 46        | 1,806     | 2,250          |
+| 1400  | 24" diameter, up to 1% reinforcing by area                           |        | 51.85        | 3.857       |       | 400      | 217    | 15.10     | 632.10    | 780            |
+| 1420  | Up to 2% reinforcing by area                                         | C-14A  | 27.06        | 7.391       | C.Y.  | 700      | 415    | 29        | 1,144     | 1,425          |
+| 1440  | Up to 3% reinforcing by area                                         |        | 18.29        | 10.935      |       | 1,075    | 615    | 43        | 1,733     | 2,125          |
+| 1500  | 36" diameter, up to 1% reinforcing by area                           |        | 75.04        | 2.665       |       | 410      | 150    | 10.40     | 570.40    | 690            |
+| 1520  | Up to 2% reinforcing by area                                         |        | 37.49        | 5.335       |       | 680      | 300    | 21        | 1,001     | 1,225          |
+| 1540  | Up to 3% reinforcing by area                                         |        | 22.84        | 8.757       |       | 1,050    | 495    | 34        | 1,579     | 1,925          |
+| 1900  | Elevated slab (4000 psi), flat slab with drops, 125 psf Sup. Load, 20' span | C-14B  | 38.45        | 5.410       |       | 395      | 305    | 20.50     | 720.50    | 910            |
+| 1950  | 30' span                                                             |        | 50.99        | 4.079       |       | 420      | 229    | 15.35     | 664.35    | 815            |
+| 2100  | Flat plate, 125 psf Sup. Load, 15' span                              |        | 30.24        | 6.878       |       | 360      | 385    | 26        | 771       | 1,000          |
+| 2150  | 25' span                                                             |        | 49.60        | 4.194       |       | 375      | 235    | 15.75     | 625.75    | 775            |
+| 2300  | Waffle const., 30" domes, 125 psf Sup. Load, 20' span                |        | 37.07        | 5.611       |       | 405      | 315    | 21        | 741       | 940            |
+| 2350  | 30' span                                                             |        | 44.07        | 4.720       |       | 375      | 265    | 17.75     | 657.75    | 830            |
+| 2500  | One way joists, 30" pans, 125 psf Sup. Load, 15' span                |        | 27.38        | 7.597       |       | 510      | 425    | 28.50     | 963.50    | 1,225          |
+| 2550  | 25' span                                                             |        | 31.15        | 6.677       |       | 470      | 375    | 25        | 870       | 1,100          |
+| 2700  | One way beam & slab, 125 psf Sup. Load, 15' span                     |        | 20.59        | 10.102      |       | 390      | 565    | 38        | 993       | 1,325          |
+| 2750  | 25' span                                                             |        | 28.36        | 7.334       |       | 370      | 410    | 27.50     | 807.50    | 1,050          |
+| 2900  | Two way beam & slab, 125 psf Sup. Load, 15' span                     |        | 24.04        | 8.652       |       | 375      | 485    | 32.50     | 892.50    | 1,175          |
+| 2950  | 25' span                                                             |        | 35.87        | 5.799       |       | 325      | 325    | 22        | 672       | 870            |
+| 3100  | Elevated slabs, flat plate, including finish, not                    |        |              |             |       |          |        |           |           |                |
+| 3110  | including forms or reinforcing                                       |        |              |             |       |          |        |           |           |                |
+| 3150  | Regular concrete (4000 psi), 4" slab                                 | C-8    | 2613         | .021        | S.F.  | 2.15     | 1.07   | .29       | 3.51      | 4.28           |
+| 3200  | 6" slab                                                              |        | 2585         | .022        |       | 3.16     | 1.09   | .29       | 4.54      | 5.40           |
+| 3250  | 2-1/2" thick floor fill                                              |        | 2685         | .021        |       | 1.40     | 1.05   | .28       | 2.73      | 3.40           |
+| 3300  | Lightweight, 110 #/C.F., 2-1/2" thick floor fill                     |        | 2585         | .022        |       | 1.34     | 1.09   | .29       | 2.72      | 3.40           |
+| 3400  | Cellular concrete, 1-5/8" fil, under 5000 S.F.                       |        | 2000         | .028        |       | .92      | 1.40   | .38       | 2.70      | 3.50           |
+| 3450  | Over 10,000 S.F.                                                     |        | 2200         | .025        |       | .88      | 1.28   | .34       | 2.50      | 3.24           |
+| 3500  | Add per floor for 3 to 6 stories high                                |        | 31800        | .002        |       |          | .09    | .02       | .11       | .16            |
+| 3520  | For 7 to 20 stories high                                             |        | 21200        | .003        |       |          | .13    | .04       | .17       | .24            |
+| 3540  | Equipment pad (3000 psi), 3' x 3' x 6" thick                         | C-14H  | 45           | 1.067       | Ea.   | 66.50    | 58.50  | .62       | 125.62    | 161            |
+| 3550  | 4' x 4' x 6" thick                                                   |        | 30           | 1.600       |       | 101      | 88     | .93       | 189.93    | 243            |
+| 3560  | 5' x 5' x 8" thick                                                   |        | 18           | 2.667       |       | 180      | 147    | 1.55      | 328.55    | 420            |
+| 3570  | 6' x 6' x 8" thick                                                   |        | 14           | 3.429       |       | 245      | 189    | 1.99      | 435.99    | 550            |
+| 3580  | 8' x 8' x 10" thick                                                  |        | 8            | 6           |       | 510      | 330    | 3.48      | 843.48    | 1,050          |
+| 3590  | 10' x 10' x 12" thick                                                |        | 5            | 9.600       |       | 895      | 530    | 5.55      | 1,430.55  | 1,775          |
+| 3800  | Footings (3000 psi), spread under 1 C.Y.                             | C-14C  | 28           |             | C.Y.  | 256      | 215    | 1         | 472       | 600            |
+| 3813  | Install new concrete (3000 psi) light pole base, 24" diam. x 8'      | C-1    | 2.66         | 12.030      |       | 405      | 645    |           | 1,050     | 1,400          |
+| 3825  | 1 C.Y. to 5 C.Y.                                                     | C-14C  | 43           | 2.605       |       | 315      | 140    | .65       | 455.65    | 555            |
+
+# 00381 Concrete Cutting
+
+## 03 81 Concrete Flat Concrete Sawing
+
+### 03 81 13 - Flat Concrete Sawing
+
+#### 03 81 13.50 Concrete Floor/Slab Cutting
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE FLOOR / SLAB CUTTING          |       |              |             |      |          |       |           |         |                |
+| 0050  | Includes blade cost, layout and set-up time |   |              |             |      |          |       |           |         |                |
+| 0300  | Saw cut concrete slabs, plain, up to 3" deep | B-89  | 1060         | .015        | LE   | .10      | .81   | 524262    | 1.50    | 1.97           |
+| 0320  | Each additional inch of depth           |       | 3180         | .005        |      | .03      | .27   | .20       | .50     | .66            |
+| 0400  | Mesh reinforced, up to 3" deep          |       | 980          | .016        |      | .11      | .88   |           | 1.63    | 2.13           |
+| 0420  | Each additional inch of depth           |       | 2940         | .005        |      | .04      | .29   | .21       | .54     | .71            |
+| 0500  | Rod reinforced, up to 3" deep           |       | 800          | .020        |      | .14      | 1.07  | .78       | 1.99    | 2.61           |
+| 0520  | Each additional inch of depth           |       | 2400         | .007        |      | .05      | .36   |           | .67     | .87            |
+
+#### 03 81 13.75 Concrete Saw Blades
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE SAW BLADES                    |       |              |             |      |          |       |           |         |                |
+| 3000  | Blades for saw cutting, included in cutting line items | | | | | | | | | |
+| 3020  | Diamond, 12" diameter                  |       |              |             | Eg. 1| 207      |       |           | 207     | 228            |
+| 3040  | 18" diameter                           |       |              |             |      | 325      |       |           | 325     | 360            |
+| 3080  | 24" diameter                           |       |              |             |      | 460      |       |           | 460     | 510            |
+| 3120  | 30" diameter                           |       |              |             |      | 820      |       |           | 820     | 900            |
+| 3160  | 36" diameter                           |       |              |             |      | 1,150    |       |           | 1,150   | 1,275          |
+| 3200  | 42" diameter                           |       |              |             |      | 1,750    |       |           | 1,750   | 1,925          |
+
+---
+
+## 03 81 16 - Track Mounted Concrete Wall Sawing
+
+### 03 81 16.50 Concrete Wall Cutting
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CONCRETE WALL CUTTING                  |       |              |             |      |          |       |           |         |                |
+| 0750  | Includes blade cost, layout and set-up time |   |              |             |      |          |       |           |         |                |
+| 0800  | Concrete walls, hydraulic saw, plain, per inch of depth | B-89B | 250 | .064 | LF   | 333      | 3.44  | 4.30      | 7.77    | 9.85           |
+| 0820  | Rod reinforcing, per inch of depth      |       | 150          | .107        |      | .05      | 5.75  | 7.15      | 12.95   | 16.50          |
+
+---
+
+## 03 82 Concrete Boring
+
+### 03 82 13 - Concrete Core Drilling
+
+#### 03 82 13.10 Core Drilling
+
+| ID    | Name                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | CORE DRILLING                          |       |              |             |      |          |       |           |         |                |
+| 0015  | Includes bit cost, layout and set up time |    |              |             |      |          |       |           |         |                |
+| 0020  | Reinforced concrete slab, up to 6" thick |     |              |             |      |          |       |           |         |                |
+| 0100  | 1" diameter core                       | B-89A| 17           | .941        | Ea.  | .22      | 49    | 7         | 56.22   | 81.50          |
+| 0150  | For each additional inch of slab thickness in same hole, add | | 1440 | .011 |   | .04      | .58   | .08       | .70     |                |
+| 0200  | 2" diameter core                       |      | 116.50       | .970        |      | .30      | 50.50 | 7.20      | 58      | 84.50          |
+| 0250  | For each additional inch of slab thickness in same hole, add | | 1080 | .015 |   | .05      | .77   | 11        | .93     | 1.33           |
+| 0300  | 3" diameter core                       |      | 91           | 11          |      | .42      | 52.50 | 7.45      | 60.37   | 86.50          |
+| 0350  | For each additional inch of slab thickness in same hole, add | | 720  | .022 |   | .07      | 1.16  | .17       | 1.40    | 2              |
+| 0500  | 4" diameter core                       |      | 15           | 1.067       |      | .56      | 55.50 | 7.95      | 64.01   | 93             |
+| 0550  | For each additional inch of slab thickness in same hole, add | | 480  | .033 |   | .09      | 1.74  | .25       | 2.08    | 2.98           |
+| 0700  | 6" diameter core                       |      | 14           | 1.143       |      | .89      | 59.50 | 8.50      | 68.89   | 100            |
+| 0750  | For each additional inch of slab thickness in same hole, add | | 360  | .044 |   | .15      | 2.32  | .33       | 2.80    | 3.99           |
+| 0900  | 8" diameter core                       |      | 13           | 1.231       |      | 1.30     | 64.50 | 9.15      | 74.95   | 108            |
+| 0950  | For each additional inch of slab thickness in same hole, add | | 288  | .056 |   | .22      | 2.90  | .41       | 3.53    | 5.05           |
+| 1100  | 10" diameter core                      |      | 12           | 1.333       |      | 1.60     | 69.50 | 9.95      | 81.05   | 117            |
+| 1150  | For each additional inch of slab thickness in same hole, add | | 240  | .067 |   | .27      | 3.48  | .50       | 4.25    | 6.05           |
+| 1300  | 12" diameter core                      |      | 11           | 1.455       |      | 1.83     | 76    | 10.85     | 88.68   | 128            |
+| 1350  | For each additional inch of slab thickness in same hole, add | | 206  | .078 |   | .30      | 4.06  | .58       | 4.94    | 7.05           |
+| 1500  | 14" diameter core                      |      | 10           | 1.600       |      | 2.26     | 83.50 | 11.90     | 97.66   | 141            |
+| 1550  | For each additional inch of slab thickness in same hole, add | | 180  | .089 |   | .38      | 4.64  | .66       | 5.68    | 8.10           |
+| 1700  | 18" diameter core                      |      | 9            | 1.778       |      | 2.94     | 93    | 13.25     | 109.19  | 157            |
+| 1750  | For each additional inch of slab thickness in same hole, add | | 144  | .1111|   | .49      | 5.80  | .83       | 7.12    | 10.15          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 03 03 Concrete Forming
+
+## 03 11 Concrete Structural Cast-In-Place Concrete Forming
+
+### 03 11 13.25 Forms In Place, Columns
+
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 6100  | 3 use                                | C-1  | 230          | .139        | SFCA | 1.54     | 7.45  |           | 8.99  | 12.80          |
+| 6150  | 4 use                                |      | 235          | .136        |      | 1.25     | 7.30  |           | 8.55  | 12.25          |
+| 6500  | 24" x 24" columns, 1 use             |      | 190          | .168        |      | 4.39     | 9.05  |           | 13.44 | 18.25          |
+| 6550  | 2 use                                |      | 216          | .148        |      | 2.41     | 7.95  |           | 10.36 | 14.50          |
+| 6600  | 3 use                                |      | 230          | .139        |      | 1.75     | 7.45  |           | 9.20  | 13.05          |
+| 6650  | 4 use                                |      | 238.134      |             |      | 1.43     | 7.20  |           | 8.63  | 12.30          |
+| 7000  | 36" x 36" columns, 1 use             |      | 200          | 1.160       |      | 3.71     | 8.60  |           | 12.31 | 16.85          |
+| 7050  | 2 use                                |      | 230          | .139        |      | 2.08     | 7.45  |           | 9.53  | 13.40          |
+| 7100  | 3 use                                |      | 245          | .131        |      | 1.48     | 7     |           | 8.48  | 12.10          |
+| 7150  | 4 use                                |      | 250          | .128        |      | 1.20     | 6.85  |           | 8.05  | 11.55          |
+
+### Steel framed plywood, based on 50 uses of purchased forms, and 4 uses of bracing lumber
+
+| ID    | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 7500  | 8" x 8" column      | G-1  | 340          | .094        | SFCA | 2.39     | 5.05  |           | 7.44  | 10.15          |
+| 7550  | 10" x 10"           |      | 350          | .091        |      | 2.12     | 4.90  |           | 7.02  | 9.65           |
+| 7600  | 12" x 12"           |      | 370          | .086        |      | 1.80     | 4.64  |           | 6.44  | 8.90           |
+| 7650  | 16" x 16"           |      | 400          | .080        |      | 1.40     | 4.29  |           | 5.69  | 7.95           |
+| 7700  | 20" x 20"           |      | 420          | .076        |      | 1.24     | 4.09  |           | 53707 | 7.45           |
+| 7750  | 24" x 24"           |      | 440          | .073        |      | .87      | 3.90  |           | 4.77  | 6.75           |
+| 7755  | 30" x 30"           |      | 440          | .073        |      | 1.11     | 3.90  |           | 5.01  | 7              |
+| 7760  | 36" x 36"           |      | 460          | .070        |      | .98      | 3.73  |           | 4.71  | 6.65           |
+
+---
+
+## 03 11 13.30 Forms In Place, Culvert
+
+| ID    | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, CULVERT              |      |              |             |      |          |       |           |       |                |
+| 0015  | 5' to 8' square or rectangular, 1 use| C-1  | 170          | .188        | SFCA | 6.15     | 10.10 |           | 16.25 | 22             |
+| 0050  | 2 use                                |      | 180          | .178        |      | 3.61     | 9.55  |           | 13.16 | 18.15          |
+| 0100  | 3 use                                |      | 190          | .168        |      | 2.76     | 9.05  |           | 11.81 | 16.50          |
+| 0150  | 4 use                                |      | 200          | .160        |      | 2.33     | 8.60  |           | 10.93 | 15.30          |
+
+---
+
+## 03 11 13.35 Forms In Place, Elevated Slabs
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FORMS IN PLACE, ELEVATED SLABS                            |      |              |             |      |          |       |           |       |                |
+| 1000  | Flat plate, job-built plywood, to 15' high, 1 use         | C-2  | 470          | .102        | S.F. | 5.75     | 5.60  |           | 11.35 | 14.70          |
+| 1050  | 2 use                                                     |      | 520          | .092        |      | 3.17     | 5.05  |           | 8.22  | 11.05          |
+| 1100  | 3 use                                                     |      | 545          | .088        |      | 2.31     | 4.83  |           | 7.14  | 9.75           |
+| 1150  | 4 use                                                     |      | 560          | .086        |      | 1.87     | 4.70  |           | 6.57  | 9.05           |
+| 1500  | 15' to 20' high ceilings, 4 use                           |      | 495          | .097        |      | 2.01     | 5.30  |           | 7.31  | 10.10          |
+| 1600  | 21' to 35' high ceilings, 4 use                           |      | 450          | .107        |      | 2.44     | 5.85  |           | 8.29  | 11.40          |
+| 2000  | Flat slab, drop panels, job-built plywood, to 15' high, 1 use |      | 449          | : .107      |      | 6.75     | 5.85  |           | 12.60 | 16.20          |
+| 2050  | 2 use                                                     |      | 509          | .094        |      | 3.73     | 5.15  |           | 8.88  | 11.80          |
+| 2100  | 3 use                                                     |      | 532          | .090        |      | 2.71     | 4.95  |           | 7.66  | 10.35          |
+| 2150  | 4 use                                                     |      | 544          | .088        |      | 2.20     | 4.84  |           | 7.04  | 9.60           |
+| 2250  | 15' to 20' high ceilings, 4 use                           |      | 480          | .100        |      | 3.64     | 5.50  |           | 9.14  | 12.15          |
+| 2350  | 20' to 35' high ceilings, 4 use                           |      | 435.110      |             |      | 4.05     | 6.05  |           | 10.10 | 13.45          |
+| 3000  | Floor slab hung from steel beams, 1 use                   |      | 485          | .099        |      | 3.89     | 5.45  |           | 9.34  | 12.40          |
+| 3050  | 2 use                                                     |      | 535          | 1.090       |      | 2.85     | 4.921 |           | 7.77  | 10.50          |
+| 3100  | 3 use                                                     |      | 550          | .087        |      | 2.50     | 4.79  |           | 7.29  | 9.90           |
+| 3150  | 4 use                                                     |      | 565          | .085        |      | 2.33     | 4.66  |           | 6.99  | 9.50           |
+| 3500  | Floor slab, with 1-way joist pans, 1 use                  |      | 415          | .116        |      | 10.55    | 6.35  |           | 16.90 | 21              |
+| 3550  | 2 use                                                     |      | 445          | .108        |      | 7.50     | 5.90  |           | 13.40 | 17.05          |
+| 3600  | 3 use                                                     |      | 475          | .101        |      | 6.45     | 5.55  |           | 12    | 15.35          |
+| 3650  | 4 use                                                     |      | 500          | 1.096       |      | 5.95     | 5.25  |           | 11.20 | 14.40          |
+| 4500  | With 2 way waffle domes, 1 use                            |      | 405.119      |             |      | 11.15    | 6.50  |           | 17.65 | 22              |
+| 4520  | 2 use                                                     |      | 450.107      |             |      | 8.05     | 5.85  |           | 13.90 | 17.60          |
+| 4530  | 3 use                                                     |      | 460.104      |             |      | 7.05     | 5.70  |           | 12.75 | 16.25          |
+| 4550  | 4 use                                                     | (-2  | 470          | .102        | S.F. | 6.55     | 5.60  |           | 12.15 | 15.55          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+

@@ -1,33 +1,15 @@
-# This python script merges multiple markdown files into a single markdown file.
+# This python script merges multiple markdown files into a single markdown file using a Streamlit GUI.
 # It takes a directory path as input and merges all markdown files in that directory.
 
 import os
 import sys
 from tqdm import tqdm
 from loguru import logger
-import tkinter as tk
-from tkinter import filedialog, simpledialog
+import streamlit as st
 from typing import List
 
-# Prompt the user for a directory path and file name using a GUI
-def prompt_for_directory_and_filename():
-    root = tk.Tk()
-    root.withdraw()  # Hide the root window
-
-    directory = tk.filedialog.askdirectory(title="Select Directory")
-    if not directory:
-        logger.error("No directory selected.")
-        sys.exit(1)
-
-    filename = tk.simpledialog.askstring("Input", "Enter the output file name (without .md):")
-    if not filename:
-        logger.error("No file name provided.")
-        sys.exit(1)
-
-    return directory, os.path.join(directory, filename + ".md")
-
 # Function to merge markdown files
-def merge_markdown_files(directory: str, output_file: str, exclude_files: List[str] = None) -> None:
+def merge_markdown_files(directory: str, output_file: str, exclude_files: List[str] = None) -> int:
     if exclude_files is None:
         exclude_files = []
 
@@ -44,17 +26,38 @@ def merge_markdown_files(directory: str, output_file: str, exclude_files: List[s
             with open(file_path, 'r', encoding='utf-8') as infile:
                 content = infile.read()
                 outfile.write(content + "\n\n")  # Add double newline between files
-    logger.info(f"Merged {len(markdown_files)} files into {output_file}")
+    return len(markdown_files)
+
+# Streamlit GUI
+def main():
+    st.title("Markdown File Merger")
+    st.write("This app merges all markdown (.md) files in a selected directory into a single markdown file.")
+
+    directory = st.text_input("Enter the directory path containing markdown files:", value=os.getcwd())
+    output_filename = st.text_input("Enter the output file name (without .md):", value="merged_output")
+
+    exclude_files = st.text_area("Files to exclude (comma-separated):", value="")
+    exclude_list = [f.strip() for f in exclude_files.split(",") if f.strip()]
+
+    if st.button("Merge Markdown Files"):
+        if not os.path.isdir(directory):
+            st.error("Invalid directory path.")
+            return
+        if not output_filename:
+            st.error("Please provide an output file name.")
+            return
+        output_file = os.path.join(directory, output_filename + ".md")
+        with st.spinner("Merging files..."):
+            num_files = merge_markdown_files(directory, output_file, exclude_list)
+        st.success(f"Merged {num_files} files into {output_file}")
+        st.download_button(
+            label="Download merged markdown file",
+            data=open(output_file, 'rb').read(),
+            file_name=output_filename + ".md",
+            mime="text/markdown"
+        )
 
 if __name__ == "__main__":
-    # Set up logging
     logger.add(sys.stderr, level="INFO", format="{time} {level} {message}")
-    logger.info("Starting the markdown file merger.")
-
-    # Prompt for directory and output file name
-    directory, output_file = prompt_for_directory_and_filename()
-
-    # Merge markdown files
-    merge_markdown_files(directory, output_file)
-    
-    logger.info("Markdown file merger completed.")
+    logger.info("Starting the Streamlit markdown file merger.")
+    main()
