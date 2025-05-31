@@ -34,7 +34,10 @@ def main():
     st.write("This app merges all markdown (.md) files in a selected directory into a single markdown file.")
 
     directory = st.text_input("Enter the directory path containing markdown files:", value=os.getcwd())
-    output_filename = st.text_input("Enter the output file name (without .md):", value="merged_output")
+    output_filename = st.text_input("Enter the output file name (without .md):", value="_".join(directory.split(os.sep)[-1].split("_")[1:]))
+    output_directory = st.text_input("Output directory (One folder up):", value=os.path.dirname(directory))
+    if not output_directory:
+        output_directory = os.path.dirname(directory)
 
     exclude_files = st.text_area("Files to exclude (comma-separated):", value="")
     exclude_list = [f.strip() for f in exclude_files.split(",") if f.strip()]
@@ -46,7 +49,7 @@ def main():
         if not output_filename:
             st.error("Please provide an output file name.")
             return
-        output_file = os.path.join(directory, output_filename + ".md")
+        output_file = os.path.join(output_directory, output_filename + ".md")
         with st.spinner("Merging files..."):
             num_files = merge_markdown_files(directory, output_file, exclude_list)
         st.success(f"Merged {num_files} files into {output_file}")

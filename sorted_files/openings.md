@@ -1,0 +1,4109 @@
+# 08085 Common Work Results for Openings
+
+## 08 05 05 Selective Demolition for Openings
+
+### 08 05 05.10 Selective Demolition Doors
+
+| ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit      | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-----------|--------------|-------------|-----------|----------|---------|-----------|---------|----------------|
+| 0010  | SELECTIVE DEMOLITION DOORS                                           | R024119-10|              |             |           |          |         |           |         |                |
+| 0200  | Doors, exterior, 1-3/4" thick, single, 3' x 7' high                  | 1 Clab    | 16212        | .500        | Ea.       |          | 23      |           | 23      | ཆ 34           |
+| 0220  | Double, 6' x 7' high                                                 |           |              | .667        |           |          | 30.50   |           | 30.50   | . ཤ 45         |
+| 0500  | Interior, 1-3/8" thick, single, 3' x 7' high                         |           | 20           | .400        |           |          | 18.25   |           | 18.25   | རྦ 27          |
+| 0520  | Double, 6' x 7' high                                                 |           | 16           | .500        |           |          | 23      |           | 23      | རྞ 34          |
+| 0700  | Bifolding, 3' x 6'-8" high                                           |           | 20           | .400        |           |          | 18.25   |           | 18.25   | བེ 27          |
+| 0720  | 6' x 6'-8" high                                                      |           | 18           | .444        |           |          | 20.50   |           | 20.50   | ྂ 30           |
+| 0900  | Bipassing, 3' x 6'8" high                                            |           | 16           | .500        |           |          | 23      |           | 23      | ཆ              |
+| 0940  | 6' x 6'-8" high                                                      |           | 14           | .571        |           |          | 26      |           | 26      | ི              |
+| 0960  | Interior metal door 1-3/4" thick, 3'0" x 6'-8"                       |           | 18           | .444        |           |          | 20.50   |           | 20.50   | ྂ 30           |
+| 0980  | Interior metal door 1-3/4" thick, 3'-0" x 7'-0"                      | 1 Clab    | 18           | :444        | Eg.       |          | 20.50   |           | 20.50   | བྷ 30          |
+| 1000  | Interior wood door 1-3/4" thick, 3'-0" x 6'-8"                       |           | 20           | .400        |           |          | 18.25   |           | 18.25   | སེ             |
+| 1020  | Interior wood door 1-3/4" thick, 3'-0" x 7'-0"                       |           | 20           | 400         |           |          | 18.25   |           | 18.25   | སེ             |
+| 1100  | Door demo, floor door                                                | 12 Sswk   | 5            | 3.200       |           |          | 198     |           | 198     | བྷ 305         |
+| 1500  | Remove and reset, hollow core                                        | 1 Carp    | 8            |             |           |          | 56.50   |           | 56.50   | ཆ 84           |
+| 1520  | Solid                                                                |           | 6            | 1.333       |           |          | 75      |           | 75      | ཌི 112         |
+| 2000  | Frames, including trim, metal                                        |           | 8            |             |           |          | 56.50   |           | 56.50   | ཚ 84           |
+| 2200  | Wood                                                                 | 2 Corp    | 32           | .500        |           |          | 28      |           | 28      | ཤྲཱི42         |
+| 3000  | Special doors, counter doors                                         |           | 6            | 2.667       |           |          | 150     |           | 150     | མྲྀ223         |
+| 3100  | Double acting                                                        |           | 10           | 1.600       |           |          | 90      |           | 90      | ཎྜ             |
+| 3200  | Floor door (trap type), or access type                               |           | 8            | 2           |           |          | 113     |           | 113     | ༔ 168          |
+| 3300  | Glass, sliding, including frames                                     |           | 12           | 1.333       |           |          | 75      |           | 75      | ཎྜ 112         |
+| 3400  | Overhead, commercial, 12' x 12' high                                 |           | 4            | 4           |           |          | 225     |           | 225     | བྷ 335         |
+| 3440  | up to 20' x 16' high                                                 |           | 3            | 5.333       |           |          | 300     |           | 300     | ཤྲཱ445         |
+| 3445  | up to 35' x 30' high                                                 |           | 1            | 162         |           |          | 900     |           | 900     | 1,350           |
+| 3500  | Residential, 9' x 7' high                                            |           | 8            |             |           |          | 113     |           | 113     | ༈ 168           |
+| 3540  | 16' x 7' high                                                        |           | 7            | 2.286       |           |          | 129     |           | 129     | ༤ 192           |
+| 3620  | Large                                                                |           | 2.50         | 6.400       |           |          | 360     |           | 360     | ཿ 535           |
+| 3700  | Roll-up grille                                                       |           | 5            | 3.200       |           |          | 180     |           | 180     | ཿ 268           |
+| 3800  | Revolving door, no wire or connections                               | 12        |              | 8           |           |          | 450     |           | 450     | 670             |
+| 3900  | Storefront swing door                                                |           | 3            | 5.333       |           |          | 300     |           | 300     | བྷྲ445         |
+| 6600  | Demo flexible transparent strip entrance                             | 3 Shee    | 115          | 209         | SF Surf   |          | 14.10   |           | 14.10   | བྷྱཿ 21         |
+| 7100  | Remove double swing pneumatic doors, openers and sensors             | 2 Skwk    | .50          | 32          | Opng      |          | 1,875   |           | 1,875   | 2,825           |
+| 7110  | Remove automatic operators, industrial, sliding doors, to 12' wide   | #         | .40          | 40          |           |          | 2,350   |           | 2,350   | 3,550           |
+| 7550  | Hangar door demo                                                     | 2 Sswk    | 330          | .048        | S.F.      |          | 3       |           | 3       | ་ 4.            |
+| 7570  | Remove shock absorbing door                                          |           | 1.90         | 8.421       | Opng      |          | 520     |           | 520     | ༔ 800           |
+
+---
+
+### 08 05 05.20 Selective Demolition of Windows
+
+| ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit      | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-----------|--------------|-------------|-----------|----------|---------|-----------|---------|----------------|
+| 0010  | SELECTIVE DEMOLITION OF WINDOWS                                      | R024119-10|              |             |           |          |         |           |         |                |
+| 0200  | Aluminum, including trim, to 12 S.F.                                 | 1 Clab    | 16           | .500        | Ea.       | 333372   | 23      |           | 23      | 34             |
+| 0240  | To 25 S.F.                                                           |           | 11           | .727        |           |          |         |           | 33      | 49             |
+| 0280  | To 50 S.F.                                                           |           |              | 1.600       |           |          |         |           | 73      | 109            |
+| 0320  | Storm windows/screens, to 12 S.F.                                    |           | 27           | .296        |           |          | 13.50   |           | 13.50   | 20             |
+| 0360  | To 25 S.F.                                                           |           | 21.381       |             |           |          | 17.35   |           | 17.35   | 26             |
+| 0400  | To 50 S.F.                                                           |           | 16           | 1.500       |           |          | 23      | 1         | 23      | 34             |
+| 0600  | Glass, up to 10 S.F./window                                          |           | 200          | .040        | S.F.      |          | 1.82    |           | 1.82    | 2              |
+| 0620  | Over 10 S.F./window                                                  |           | 150          | .053        | "         |          | 2.43    |           | 2.43    | 3              |
+| 1000  | Steel, including trim, to 12 S.F.                                    |           | 13           | .615        | Ea.       |          | 28      |           | 28      | 42             |
+| 1020  | To 25 S.F.                                                           |           | 9            | .889        |           |          | 40.50   |           | 40.50   | 60             |
+| 1040  | To 50 S.F.                                                           |           | 4            | 2           |           |          | 91      |           | 91      | 136            |
+| 2000  | Wood, including trim, to 12 S.F.                                     |           | 22           | .364        |           |          | 16.60   |           | 16.60   | 24             |
+| 2020  | To 25 S.F.                                                           |           | 18           | .444        |           |          | 20.50   |           | 20.50   | 30             |
+| 2060  | To 50 S.F.                                                           |           | 13           | .615        |           |          | 28      |           | 28      | 42             |
+
+---
+
+268 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 05 05 Common Work Commons for Openings
+
+## Selective Demolition for Openings
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 065  | To 180 S.F.                                                          | 11 Clab | 8            | 1           | Ea   |          | 45.50  |           | 45.50   | 68             |
+| 300  | Remove bay /bow window                                               | 2 Carp  | 6            | 2.667       | V    |          | 150    |           | 150     | 223            |
+| 410  | Remove skylight ,plstc domes ,flush / curb mtd                       |         | 395          | .041        | S.E  |          | 2.28   |           | 2.28    | 3.39           |
+| 420  | Remove skylight ,plstc/ glass up to 2 ' x 3 '                        | 1 Carp  | 15           | .533        | Ea   |          | 30     |           | 30      | 44.50          |
+| 440  | Remove skylight ,plstc/ glass up to 4 ' x 6 '                        | 2 Carp  | 10           | 1.600       |      |          | 90     |           | 90      | 134            |
+| 480  | Remove roof window up to 3 'x 4 '                                    | 1 Carp  | 8            |             |      |          | 56.50  |           | 56.50   | 84             |
+| 500  | Remove roof window up to 4 ' x 6 '                                   | 12 Carp |              | 2.667       |      |          | 150    |           | 150     | 223            |
+| 020  | Remove and reset window , up to a 2 ' x 2 ' window                   | 1 Carp  | 6            | 1.333       |      |          | 75     |           | 75      | 112            |
+| 040  | Up to a 3 ' x 3 ' window                                             |         | 4            | 2           |      |          | 113    |           | 113     | 168            |
+| 080  | Up to a 4 ' x 5 ' window                                             |         | 2            | 4           |      |          | 225    |           | 225     | 335            |
+
+---
+
+# 08 11 16 Aluminum Doors and Frames
+
+## Entrance Doors
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 010  | ENTRANCE DOORS and frame, aluminum, narrow stile                     | 2 Sswk  | 2            | 8           | Ea   | 1,125    | 4465   |           | 1,620   | 1,975          |
+| 025  | Anodizing aluminum entr. door & frame, add                           |         |              |             |      | 110      |        |           | 110     | 121            |
+| 030  | 3'-6 " x 7 '-0 " opening                                             | 2 Sswk  | 28           |             |      | 880      | 495    |           | 1,375   | 1,725          |
+| 100  | 3 '0 " x 10 '-0" opening, 3 ' high transom                           |         | 1.80         | 8.889       |      | 1,375    | 550    |           | 1,925   | 2,350          |
+| 200  | 3' 6 " x 10 '-0" opening, 3 ' high transom                           |         | 1.80         | 8.889       |      | 1,500    | 550    |           | 2,050   | 2,500          |
+| 280  | 5 '0 " x 7 '-0 " opening                                             |         | 2            | 8           |      | 1,600    | 495    |           | 2,095   | 2,525          |
+| 300  | 6 '-0" x 7 ' 0 " opening                                             |         | 1.30         | 12.308      |      | 1,100    | 760    |           | 1,860   | 2,375          |
+| 301  | 6 -0 " x 7 '-0" opening                                              |         | 1.30         | 12.308      | Pr.  | 1,100    | 760    |           | 1,860   | 2,375          |
+| 400  | 6 '0" x 10 '-0" opening, 3 ' high transom                            |         | 1.10         | 14.545      | 11   | 1,650    | 900    |           | 2,550   | 3,175          |
+| 520  | 3 '0" x 7 '-0 " opening, wide stile                                  |         | 2            | 8           | Ea   | 930      | 495    |           | 1,425   | 1,775          |
+| 540  | 3 -6" x 7 '-0 " opening                                              |         | 2            | 8           |      | 1,025    | 495    |           | 1,520   | 1,875          |
+| 560  | 5 '0 " x 7 '-0 " opening                                             |         | 2            | 8           |      | 1,525    | 495    |           | 2,020   | 2,450          |
+| 580  | 6 '0 " x 7 '-0 " opening                                             |         | 1.30         | 12.308      | Pr.  | 1,675    | 760    |           | 2,435   | 3,025          |
+| 600  | 7 -0 " x 7 '-0 " opening                                             |         |              | 16          | #    | 2,375    | 990    |           | 3,365   | 4,125          |
+| 200  | For non-standard size, add                                           |         |              |             | Leaf | 80 %     |        |           |         |                |
+| 2501 | For installation of non-standard size, add                           |         |              |             |      |          | 2206%  |           |         |                |
+| 300  | Light bronze finish, add                                             |         |              |             | Leaf | 36 %     |        |           |         |                |
+| 400  | Dark bronze finish, add                                              |         |              |             |      | 25 %     |        |           |         |                |
+| 500  | For black finish, add                                                |         |              |             |      | 40 %     |        |           |         |                |
+| 600  | Concealed panic device, add                                          |         |              |             |      | 1,125    |        |           | 1,125   | 1,225          |
+| 700  | Electricstriker release, add                                         |         |              |             | Opng | 335      |        |           | 335     | 370            |
+| 800  | Floor check, add                                                     |         |              |             | Leaf | 720      |        |           | 720     | 790            |
+| 900  | Concealed closer, add                                                |         |              |             |      | 575      |        |           | 575     | 635            |
+
+---
+
+# 08 11 63 Metal Screen and Storm Doors and Frames
+
+## Aluminum Screen and Storm Doors and Frames
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 420  | Clear anodic coating, 2 '-8 " wide                                   | 2 Carp  | 14           | 1.143       | Es   | 243      | 64.50  |           | 307.50  | 365            |
+| 440  | 3 '-0" wide                                                          |         | 14           | 1.143       |      | 197      | 64.50  |           | 261.50  | 310            |
+| 500  | For 7 '-0 " door height, add                                         |         |              |             |      | 8%       |        |           |         |                |
+| 020  | Mill finish, 2 '-8 " wide                                            | 2 Carp  | 14           | 1.143       | Ea   | 254      | 64.50  |           | 318.50  | 375            |
+| 040  | 3 '0 " wide                                                          |         | 14           | 11.143      |      | 274      | 64.50  |           | 338.50  | 395            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08081 Metal Doors and Frames
+
+## 08 11 63 Metal Screen Doorstorm Doors and Frames
+
+### 08 11 63.23 Aluminum Screen and Storm Doors and Frames
+
+For 7'-0" door, add  
+White painted, 2'-8" wide
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 1100 | For 7 '-0" door, add                                                 |        |              |             | Ea.  |          |        |           |         | 8%             |
+| 1520 | White painted, 2 '-8" wide                                           | 2 Carp | 14           | 1.143       |      | 266      | 64.50  |           | 330.50  |                |
+| 1540 | 3 '-0 " wide                                                         |        | 14           | 1.143       |      | 300      | 64.50  |           | 364.50  | 4              |
+| 1600 | For 7 '-0" door, add                                                 |        |              |             |      |          |        |           |         | 8%             |
+| 2000 | Wood door & screen, see Section 08 14 33.20                          |        |              |             |      |          |        |           |         |                |
+
+---
+
+## 08 12 Metal Frames
+
+### 08 12 13 G Hollow Metal Frames
+
+#### 08 12 13.13 Standard Hollow Metal Frames
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | STANDARD HOLLOW METAL FRAMES                              |        |              |             |      |          |        |           |         |                |
+| 0020  | 16 ga., up to 5-3/4" jamb depth                           |        |              |             |      |          |        |           |         |                |
+| 0025  | 3 '-0 " x 6 '-8" single                                   | 5G555JUG2GGCarpGGGGGG16GGGGGGGG1G |      |          | Eo.  | 216      | 56.50  |           | 272.50  |                |
+| 0028  | 3 -6" wide, single                                        |        | 16           | 1           |      | 213      | 56.50  |           | 269.50  |                |
+| 0030  | 4 '0 " wide, single                                       |        | 16           | 1           |      | 226      | 56.50  |           | 282.50  |                |
+| 0040  | 6'-0" wide, double                                        |        | 14           | 1.143       |      | 236      | 64.50  |           | 300.50  |                |
+| 0045  | 8'-0 " wide, double                                       |        | 14           | 1.143       |      | 275      | 64.50  |           | 339.50  |                |
+| 0100  | 3 '-0 " x 7 '-0" single                                   |        | 16           | 1           |      | 175      | 56.50  |           | 231.50  |                |
+| 0110  | 3 '6 " wide, single                                       |        | 16           | 1           |      | 184      | 56.50  |           | 240.50  |                |
+| 0112  | 4  -0 " wide, single                                      |        | 16           | 1           |      | 184      | 56.50  |           | 240.50  |                |
+| 0140  | 6'-0 " wide, double                                       |        | 14           | 1.143       |      | 261      | 64.50  |           | 325.50  |                |
+| 0145  | 8'-0 " wide, double                                       |        | 14           | 1.143       |      | 260      | 64.50  |           | 324.50  |                |
+| 1000  | 16 ga., up to 4-7/8 " deep, 3 '0 " x 7 ' 0 " single       |        | 16           | 1           |      | 195      | 56.50  |           | 251.50  |                |
+| 1140  | 6 -0 " wide, double                                       | 2 Corp | 14           | 1.143       | Ea.  | 240      | 64.50  |           | 304.50  |                |
+| 1200  | 16 ga., 8-3 / 4" deep, 3 '-0" x  7 '-0" single            |        | 16           |             |      | 325      | 56.50  |           | 381.50  |                |
+| 1240  | 6 '0 " wide, double                                       |        | 14           | 1.143       |      | 310      | 64.50  |           | 374.50  |                |
+| 2800  | 14 ga., up to 3-7 /8 " deep, 3 '0 " x 7 ' 0 " single      |        | 16           | 1           |      | 219      | 56.50  |           | 275.50  |                |
+| 2840  | 6' 0 " wide, double                                       |        | 14           | 1.143       |      | 305      | 64.50  |           | 369.50  |                |
+| 3000  | 14 ga., up to 5-3 / 4" deep, 3 '0 " x 6 ' 8 " single      |        | 16           | 1           |      | 175      | 56.50  |           | 231.50  |                |
+| 3002  | 3 '-6" wide, single                                       |        | 166          | 1           |      | 226      | 56.50  |           | 282.50  |                |
+| 3005  | 4  '0 " wide, single                                      |        | 16           | 1           |      | 226      | K56.50OKKOKOKOK |           | 282.50  |                |
+| 3600  | up to 5-3 /4 " jamb depth, 4 '-0 " x 7 '0 " single        |        | 15           | 1.067       |      | 251      | 60     |           | 311     |                |
+| 3620  | 6 -0 " wide, double                                       |        | 12           | 1.333       |      | 235      | 75     |           | 310     |                |
+| 3640  | 8 -0 " wide, double                                       |        | 12           | 1.333       |      | 385      | 75     |           | 460     |                |
+| 3700  | 8 '-0 " high, 4 ' 0" wide, single                         |        | 15           | 1.067       |      | 287      | 60     |           | 347     |                |
+| 3740  | 8 '0 " wide, double                                       |        | 12           | 1.333       |      | 390      | 75     |           | 465     |                |
+| 4000  | 6-3 /4 " deep, 4' 0 " x 7  '0 " single                    |        | 15           | 1.067       |      | 300      | 60     |           | 360     |                |
+| 4020  | 6 '0 " wide, double                                       |        | 12           | 1.333       |      | 315      | 75     |           | 390     |                |
+| 4040  | 8 -0 " wide, double                                       |        | 12           | 1.333       |      | 315      | 75     |           | 390     |                |
+| 4100  | 8 '-0" high, 4 ' 0 " wide, single                         |        | 15           | 1.067       |      | 345      | 60     |           | 405     |                |
+| 4140  | 8 '0 " wide, double                                       |        | 12           | 1.333       |      | 505      | 75     |           | 580     |                |
+| 4400  | 8-3 /4 " deep, 4 '-0" x  7' 0 ", single                   |        | 15           | 1.067       |      | 380      | 60     |           | 440     |                |
+| 4440  | 8 -0 " wide, double                                       |        | 12           | 1.333       |      | 495      | 75     |           | 570     |                |
+| 4500  | 4 '-0" x 8 '-0", single                                   |        | 15           | 1.067       |      | 425      | 60     |           | 485     |                |
+| 4540  | 8 '0 " wide, double                                       |        | 12           | 1.333       |      | 535      | 75     |           | 610     |                |
+| 4900  | For welded frames, add                                    |        |              |             |      | 124      |        |           | 124     |                |
+| 5400  | 14 ga., "B" label, up to 5-3 / 4" deep, 4 '-0" x  7 '0 " single | 2 Carp | 15           | 1.067       |      | 310      | 60AK   |           | 370     |                |
+| 5440  | 8 -0 " wide, double                                       |        | 12           | 1.333       |      | 425      | 75     |           | 500     |                |
+| 5800  | 6-3 /4 " deep, 7 '-0" high, 4 '-0" wide, single           |        | 15           | 1.067       |      | 187      | 60     |           | 247     |                |
+| 5840  | 8 -0 " wide, double                                       |        | 12           | 1.333       |      | 390      | 75     |           | 465     |                |
+| 6200  | 8-3 /4 " deep, 4 '-0" x 7 '-0 " single                    |        | 15           | 1.067       |      | 435      | 60     |           | 495     |                |
+| 6240  | 8 '-0 " wide, double                                      |        | 12           | 1.333       |      | 445      | 75     |           | 520     |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 0088 12 Me12l Frames
+
+8 Metal - Hollow Metal FrFrames  
+12 13.13 Standard Hollow Metal Frames  
+For "A" label use same price as "B" label  
+Daily Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor Equipment  
+Total  
+Incl O&P  
+For baked enamel fin
+
+| ID  | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-----|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 8   | 12 13 - Hollow Metal Frames               |        |              |             |      |          |       |           |         |                |
+|     |                                           |        |              |             |      |          |       |           |         |                |
+| 3   | 12 13.13 Standard Hollow Metal Frames     |        |              |             |      |          |       |           |         |                |
+|     | For "A" label use same price as "B" label |        |              |             |      |          |       |           |         |                |
+|     | For baked enamel finish, odd              |        |              |             |      | 30%      | 15%   |           |         |                |
+|     | For galvanizing, add                      |        |              |             |      | 20%      |       |           |         |                |
+|     | For hospital stop, add                    | Eq.    |              |             |      | 284      |       |           | 284     | 315            |
+| 20  | For hospital stop, stainless steel, add   | "      |              |             |      | 156      |       |           | 156     | 172            |
+|     | Transom liteframes, fixed, add            | 2 Carp | 155          | .103        | S.F. | 60       | 5.80  |           | 65.80   | 74.50           |
+| 100 | Movable, add                              |        | 130          | .123        |      | 80.50    | 6.95  |           | 87.45   | 99             |
+| 3   | 12 13.25 Channel Metal Frames             |        |              |             |      |          |       |           |         |                |
+| 110 | CHANNEL METAL FRAMES                      |        |              |             |      |          |       |           |         |                |
+| 120 | Steel channels with anchors and bar stops |        |              |             |      |          |       |           |         |                |
+| 00  | 6" channel @ 8.2 #/L.F., 3' x 7' door, weighs 150 # | 55G5555 E-4 | 13 | 2.462 | Ea. | 295 | 153 | 11.35 | 459.35 | 575 |
+| 00  | 8" channel @ 11.5 #/L.F., 6' x 8' door, weighs 275 # | G | 9 | 3.556 | | 540 | 222 | 16.40 | 778.40 | 955 |
+| 00  | 8' x 12' door, weighs 400 #               | G      | 6.50         | 4.923       |      | 785      | 305   | 22.50     | 1,112.50| 1,375          |
+| 00  | 10" channel @ 15.3 #/LF., 10' x 10' door, weighs 500 # | G | 6 | 5.333 | | 980 | 335 | 24.50 | 1,339.50 | 1,600 |
+| 00  | 12' x 12' door, weighs 600 #              | G      | 5.50         | 5.818       |      | 1,175    | 365   | 27        | 1,567   | 1,900          |
+|     | 12" channel @ 20.7 #/L.F., 12' x 12' door, weighs 825 # | G | 4.50 | 7.111 | | 1,625 | 445 | 33 | 2,103 | 2,500 |
+|     | 12' x 16' door, weighs 1000 #             | G      |              | 8           |      | 1,975    | 500   | 37        | 2,512   | 2,950          |
+| 00  | For frames without bar stops, light sections, deduct | | | | | 15% | | | | |
+| 00  | Heavy sections, deduct                    |        |              |             |      | 10%      |       |           |         |                |
+| 08  | 13 Metal Doors                            |        |              |             |      |          |       |           |         |                |
+| 8   | 13 13 - Hollow Metal Doors                |        |              |             |      |          |       |           |         |                |
+| 3   | 13 13.13 Standard Hollow Metal Doors      |        |              |             |      |          |       |           |         |                |
+| 110 | STANDARD HOLLOW METAL DOORS               | R081313-20 |         |             |      |          |       |           |         |                |
+| 115 | Flush, full panel, hollow core            |        |              |             |      |          |       |           |         |                |
+| 17  | When noted doors are prepared but do not include glass or louvers | | | | | | | | | |
+| 120 | 1-3/8" thick, 20 ga., 2'-0" x 6'-8"       | GGGG 2 Carp | 2011   | .800        | Ea.  | 525      | 4522  |           | 570     | 640            |
+| 140 | 2'-8" x 6'8"                              |         | 18          | .889        |      | 485      | 50    |           | 535     | 610            |
+| 960 | 3'0" x 6'8"                               |         | 17          | .941        |      | 535      | 53    |           | 588     | 670            |
+| 00  | 3'0" x 7'0"                               |         | 17          | .941        |      | 540      | 53    |           | 593     | 675            |
+| 20  | For vision lit, add                       |         |              |             |      | 310      |       |           | 310     | 340            |
+| 40  | For narrow lite, add                      |         |              |             |      | 42       |       |           | 42      | 46             |
+| 20  | Half glass, 20 ga., 2'-0" x 6'-8"         | 5G55555 2 Carp | 20   | .800        |      | 860      |       |           | 905     | 1,000          |
+| 40  | 2'-8" x 6'8"                              |         | 18          | .889        |      | 900      | S     |           | 950     | 1,075          |
+| 60  | 3'-0" x 6'8"                              |         | 17          | .941        |      | 860      | 53    |           | 913     | 1,025          |
+| 00  | 3'-0" x 7'0"                              |         | 17          | .941        |      | 870      | 53    |           | 923     | 1,025          |
+| 10  | 1-3/8" thick, 18 ga., 2'0" x 6'-8"        |         | 20          | .800        |      | 705      | 45    |           | 750     | 840            |
+| 20  | 3'-0" x 6'-8"                             |         | 17          | .941        |      | 420      | 53    |           | 473     | 545            |
+| 25  | 3'0" x 7'0"                               |         | 17          | .941        |      | 550      | 53    |           | 603     | 685            |
+| $50 | For vision lit, add                       |         |              |             |      | 310      |       |           | 310     | 340            |
+| 52  | For narrow life, add                      |         |              |             |      | 42       |       |           | 42      | 46             |
+| 60  | Half glass, 18 go., 2'0" x 6'-8"          | 5555555552 Corp | 20 | .800        |      | 955      | 4453233243 |           | 1,000   | 1,125          |
+| 65  | 2'-8" x 6'8"                              |         | 18          | .889        |      | 990      | 50    |           | 1,040   | 1,150          |
+| .70 | 3'-0" x 6'-8"                             |         | 17          | .941        |      | 965      | 53    |           | 1,018   | 1,125          |
+| .75 | 3'-0" x 7'0"                              |         | 17          | .941        |      | 805      | 53    |           | 858     | 965            |
+| 100 | Hollow core, 1-3/4" thick, fullpanel, 20 ga, 2'-8" x 6'8" | | 18 | .889 | | 550 | 50 | | 600 | 680 |
+| $20 | 3'-0" x 6'-8"                             | 2 Carp  | 17          | .941        | 8o.  | 550      | 53    |           | 603     | 685            |
+| 40  | 3'0" x 7-0"                               |         | 17          | .941        |      | 560      | 53    |           | 613     | 695            |
+| 80  | 4'0" x 7-0"                               |         | 15          | 1.067       |      | 760      | 60    |           | 820     | 925            |
+| 00  | 4'0" x 8'0"                               |         | 13          | 1.231       |      | 915      | 69.50 |           | 984.50  | 1,100          |
+| 100 | 18 ga, 2'-8" x 6'-8"                      |         | 17          | .941        |      | 650      | 53    |           | 703     | 795            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08083 Metal Doo13
+
+## 08 13 13 Metalw Metal Doors
+
+### 08 13 13 Standard Hollow Metal Doors
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 1020  | 3'-0" x 6'-8"                                                        | 5G55 2 Carp  | 16           | 1           | Ea.  | 665      | 56.50  |           | 721.50   | {              |
+| 1120  | 3'-0" x 7'-0"                                                        | G            | 17           | 1.941       |      | 665      | 53     |           | 718      | {              |
+| 1180  | 4'-0" x 7'-0"                                                        | G            | 14           | 1.143       |      | 780      | 64.50  |           | 844.50   | (              |
+| 1200  | 4'-0" x 8'-0"                                                        | G            | 17           | 1.941       |      | 1,150    | 53     |           | 1,203    | 1,8            |
+| 1212  | For vision lite, add                                                 |              |              |             |      | 310      |        |           | 310      |                |
+| 1214  | For narrow lit, add                                                  |              |              |             |      | 42       |        |           | 42       |                |
+| 1230  | Half glass, 20 ga., 2'8" x 6'8"                                      | 55G 2 Carp   | 20           | .800        |      | 775      | 45     |           | 820      |                |
+| 1240  | 3'-0" x 6'8"                                                         | G            | 18           | .889        |      | 735      | 50     |           | 785      | E              |
+| 1260  | 3'-0" x 7'0"                                                         | G            | 18           | 1.889       |      | 870      | 50     |           | 920      | 1,0            |
+| 1280  | Embossed panel, 1-3/4" thick, poly core, 20 ga, 3'-0" x 7'0"         |              | 18           | 1.889       |      | 9801     | 50     |           | 1,030    | 1,1            |
+| 1290  | Half glass, 1-3/4" thick, poly core, 20 ga, 3'-0" x 7'0"             | 555555 888854| .889         |             |      | 890      | 50     |           | 940      | 1,C            |
+| 1320  | 18 ga., 2'-8" x 6'-8"                                                | G            | 18           | .889        |      | 830      | 50     |           | 880      | 9              |
+| 1340  | 3'-0" x 6'-8"                                                        | G            | 17           | .941        |      | 820      | 53     |           | 873      | 9              |
+| 1360  | 3'-0" x 7'0"                                                         | G            | 17           | .941        |      | 835      | 53     |           | 888      | 1C             |
+| 1380  | 4'-0" x 7'-0"                                                        | G            | 15           | 1.067       |      | 1,050    | 60     |           | 1,170    | 1,2            |
+| 1400  | 4'-0" x 8'0"                                                         | G            | 14           | 1.143       |      | 1,125    | 64.50  |           | 1,189.50 | 1,3            |
+| 1500  | Flush fullpanel, 16 ga., steel hollow core                            |              |              |             |      |          |        |           |          |                |
+| 1520  | 2'-0" x 6'-8"                                                        | G5G55GGGG2GGCarpGGG| 20      | .800        | Ea.  | 865      | 45     |           | 910      | 1,0            |
+| 1530  | 2'-8" x 6'-8"                                                        |              | 20           | .800        |      | 865      | 45     |           | 910      | 1,0            |
+| 1540  | 3'-0" x 6'-8"                                                        |              | 20           | 1.800       |      | 865      | 45     |           | 910      | 1,0            |
+| 1560  | 2'-8" x 7'0"                                                         |              | 18           | .889        |      | 910      | 50     |           | 960      | 1,0            |
+| 1570  | 3'-0" x 7'0"                                                         |              | 18           | .889        |      | 910      | 50     |           | 960      | 1 ,C           |
+| 1580  | 3'-6" x 7'-0"                                                        |              | 18           | .889        |      | 1,050    | 50     |           | 1,100    | 1,2            |
+| 1590  | 4'-0" x 7'-0"                                                        |              | 18           | .889        |      | 1,175    | 50     |           | 1,225    | 1,3            |
+| 1600  | 2'-8" x 8'0"                                                         |              | 18           | 1.889       |      | 1,100    | 50     |           | 1,150    | 1,2            |
+| 1620  | 3'-0" x 8'-0"                                                        |              | 18           | 1.889       |      | 1,200    | 50     |           | 1,250    | 1,4            |
+| 1630  | 3'-6" x 8'-0"                                                        |              | 18           | 889         |      | 1,275    | 50     |           | 1,325    | 1,5            |
+| 1640  | 4'-0" x 8'-0"                                                        |              | 18           | 1.889       |      | 1,400    | 50     |           | 1,450    | 1,6            |
+| 1720  | Insulated, 1-3/4" thick, full panel, 18 ga., 3'0" x 6'-8"            |              | 15           | 1.067       |      | 720      | 60     |           | 780      | 8              |
+| 1740  | 2'-8" x 7'-0"                                                        |              | 16           | 1           |      | 660      | 56.50  |           | 716.50   | 8              |
+| 1760  | 3'-0" x 7'-0"                                                        |              | 15           | 1.067       |      | 560      | 60     |           | 620      | 7              |
+| 1800  | 4'-0" x 8'-0"                                                        |              | 13           | 1.231       |      | 550      | 69.50  |           | 619.50   | 7              |
+| 1820  | Half glass, 18 ga., 3'0" x 6'8"                                      |              |              |             |      | 835      | 56.50  |           | 891.50   | 1,0            |
+| 1840  | 2'-8" x 7'-0"                                                        | G2 Carp      | 17           | .941        | Ea.  | 865      | 53     |           | 918      | 1,0            |
+| 1860  | 3'-0" x 7'-0"                                                        |              | 16           | 1           |      | 930      | 56.50  |           | 986.50   | 1,1            |
+| 1900  | 4'-0" x 8'-0"                                                        |              | 14           | 1.143       |      | 800      | 64.50  |           | 864.50   | 9              |
+| 2000  | For vision lite, add                                                 |              |              |             |      | 310      |        |           | 310      |                |
+| 2010  | For narrow lite, add                                                 |              |              |             |      | 42       |        |           | 42       |                |
+| 8100  | For bottom louver, add                                               |              |              |             |      | 440      |        |           | 440      | 4              |
+| 8110  | For baked enamel finish, add                                         |              |              |             |      | 30 %     | 15 %   |           |          |                |
+| 8120  | For galvanizing, add                                                 |              |              |             |      | 20 %     |        |           |          |                |
+
+---
+
+## 08 13 13.15 Metal Fire Doors
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 0010  | METAL FIRE DOORS                                                     | R081313-20   |              |             |      |          |        |           |          |                |
+| 0015  | Steel, flush, "B" label, 90 minutes                                  |              |              |             |      |          |        |           |          |                |
+| 0020  | Full panel, 20 ga., 2'-0" x 6'8"                                     | 2 Carp       | 20           | .800        | Ea.  | 565      | 45     |           | 610      |                |
+| 0040  | 2'-8" x 6'-8"                                                        |              | 18           | .889        |      | 565      | 50     |           | 615      |                |
+| 0060  | 3'-0" x 6'-8"                                                        |              | 17           | .941        |      | 570      | 53     |           | 623      |                |
+| 0080  | 3'-0" x 7'-0"                                                        |              | 17           | 1.941       |      | 590      | 53     |           | 643      |                |
+| 0140  | 18 ga., 3'-0" x 6'-8"                                                |              | 16           | 1           |      | 785      | 56.50  |           | 841.50   |                |
+| 0160  | 2'-8" x 7'-0"                                                        |              | 171.941      |             |      | 830      | 53     |           | 883      |                |
+| 0180  | 3'0" x 7'-0"                                                         |              | 16           | 1           |      | 690      | 56.50  |           | 746.50   | 8              |
+| 0200  | 4'0" x 7'-0"                                                         |              | 15           | 1.067       |      | 1,225    | 60     |           | 1,285    | 1,4            |
+
+---
+
+272 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 8 83 Metal Doors
+
+## 18 13 1 Metal Hollow Metal Doors
+
+### Doors 13.15 Metal Fire Doors
+
+For "A" label, 3 hour, 18 ga., use same price as "B" label  
+For vision l
+
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 18   | 13 13 - Hollow Metal Doors                |        |              |             |      |          |       |           |         |                |
+|      |                                           |        |              |             |      |          |       |           |         |                |
+| 8    | 13 13.15 Metal Fire Doors                 |        |              |             |      |          |       |           |         |                |
+|      |                                           |        |              |             |      |          |       |           |         |                |
+|      |                                           |        |              |             |      |          |       |           |         |                |
+| 220  | For "A" label, 3 hour, 18 ga., use same price as "B" label | | | | | | | | | |
+| 40   | For vision lite, add                      |        |              |             | Eq.  | 232      |       | 232       | 255     |
+| 300  | Full panel, 16 ga, 2'-0" x 6'-8"          | 2 Carp | 20           | .800        |      | 830      | 45    |           | 875     | 975            |
+| 310  | 2' 8" x 6'-8"                             |        | 18.8891      |             |      | 850      | 50    |           | 900     | 1,025          |
+| 320  | 3' 0" x 6'-8"                             |        | 17.941       |             |      | 615      | 53    |           | 6681    | 755            |
+| 350  | 2'-8" x 7'-0"                             |        | 17.941       |             |      | 885      | 53    |           | 938     | 1,050          |
+| 360  | 3' 0" x 7'-0"                             |        | 16           |             |      | 885      | 56.50 |           | 941.50  | 1,050          |
+| 370  | 4' 0" x 7'-0"                             |        | 15 1.067     |             |      | 1,125    | 60    |           | 1,185   | 1,325          |
+| 520  | Flush, "B" label, 90 minutes, egress core, 20 ga, 2'-0" x 6'8" | | 18 .889 | | | 915 | 50 | | 965 | 1,075 |
+| $40  | 2' 8" x 6'-8"                             |        | 17.941       |             |      | 920      | 53    |           | 973     | 1,100          |
+| 560  | 3' 0" x 6'-8"                             |        | 16 1         |             |      | 925      | 56.50 |           | 981.50  | 1,100          |
+| 580  | 3' 0" x 7' 0"                             |        | 16 1         |             |      | 965      | 56.50 |           | 1,021.50| 1,125          |
+| 640  | Flush, "A" label, 3 hour, egress core, 18 ga, 3'-0" x 6'8" | | 15 1.067 | | | 1,000 | 60 | | 1,060 | 1,200 |
+| 560  | 2' 8" x 7'-0"                             |        | 16           |             |      | 1,050    | 56.50 |           | 1,106.50| 1,225          |
+| $80  | 3'-0" x 7'-0"                             |        | 15 1.067     |             |      | 555      | 60    |           | 615     | 700            |
+| 00   | 4'-0" x 7'-0"                             |        | 14 1.143     |             |      | 1,275    | 64.50 |           | 1,339.50| 1,500          |
+
+---
+
+## 8 13 13.20 Residential Steel Doors
+
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 010  | RESIDENTIAL STEEL DOORS                   |        |              |             |      |          |       |           |         |                |
+| 020  | Prehung, insulated, exterior              |        |              |             |      |          |       |           |         |                |
+| 030  | Embossed, full panel, 2'-8" x 6'-8"       | 5G555JUG2GGCarpGGGGGG17GG | .941 | Ea. | 480 | 53 | | 533 | 610 |
+| 040  | 3'-0" x 6'-8"                             | G 2 Carp | 15 | 1.067 | Ea. | 495 | 60 | | 555 | 630 |
+| 060  | 3' 0" x 7'-0"                             |        | 15           | 1.067       |      | 485      | 60    |           | 545     | 625            |
+| 070  | 5' 4" x 6'-8", double                     |        | 8            |             |      | 1,100    | 113   |           | 1,213   | 1,400          |
+| 220  | Half glass, 2'-8" x 6'-8"                 |        | 17           | .941        |      | 455      | 53    |           | 508     | 580            |
+| 240  | 3' 0" x 6'-8"                             |        | 16           | 1           |      | 455      | 56.50 |           | 511.50  | 585            |
+| 260  | 3' 0" x 7'-0"                             |        |              |             |      | 550      | 56.50 |           | 606.50  | 690            |
+| 270  | 5' 4" x 6'-8", double                     | 85587668 2 | | | | 1,300 | 113 | | 1,413 | 1,625 |
+| 320  | Flush face, full panel, 2'-8" x 6'-8"     |        | 16           | 1           |      | 475      | 56.50 |           | 531.50  | 605            |
+| 340  | 3'-0" x 6'-8"                             |        | 15           | 1.067       |      | 480      | 60    |           | 540     | 620            |
+| 360  | 3' 0" x 7'-0"                             |        | 15           | 1.067       |      | 420      | 60    |           | 480     | 555            |
+| 380  | 5'-4" x 6'-8", double                     |        | 2            |             |      | 1,075    | 113   |           | 1,188   | 1,375          |
+| 420  | Half glass, 2'-8" x 6'-8"                 |        | 17           | .941        |      | 470      | 53    |           | 523     | 595            |
+| 440  | 3'-0" x 6'-8"                             |        | 16           |             |      | 470      | 56.50 |           | 526.50  | 600            |
+| -460 | 3' 0" x 7'0"                              |        |              |             |      | 635      | 56.50 |           | 691.50  | 780            |
+| 480  | 5'-4" x 6'-8", double                     |        | 2            |             |      | 915      | 113   |           | 1,028   | 1,175          |
+| 500  | Sidelight, full lit, 1' 0" x 6' 8" with grille | | | | | 605 | | | 605 | 665 |
+| 510  | 1' 0" x 6'-8", low E                      |        |              |             |      | 515      |       |           | 515     | 570            |
+| 520  | 1' 0" x 6'-8", half lite                  |        |              |             |      | 415      |       |           | 415     | 455            |
+| 530  | 1' 0" x 6'-8", half lite, low E           |        |              |             |      | 405      |       |           | 405     | 445            |
+| 300  | Interior, residential, closet, bifold, 2' 0" x 6'-8" | G2 Carp | 16 | | | 120 | 56.50 | | 176.50 | 216 |
+| 330  | 3' 0" wide                                |        | 16           |             |      | 380      | 56.50 |           | 436.50  | 505            |
+| 360  | 4' 0" wide                                |        | 15           | 1.067       |      | 395      | 60    |           | 455     | 525            |
+| 400  | 5'-0" wide                                |        | 14           | 1.143       |      | 505      | 64.50 |           | 569.50  | 650            |
+| 420  | 6' 0" wide                                |        | 13           | 1.231       |      | 400      | 69.50 |           | 469.50  | 545            |
+
+---
+
+## B 13 13.25 Doors Hollow Metal
+
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 010  | DOORS HOLLOW METAL                        |        |              |             |      |          |       |           |         |                |
+| 500  | Exterior, commercial, flush, 20 ga, 1-3/4" x 7'-0" x 2'-6" wide | 1G555G 2 Corp | 15 | 1.067 | Ea. | 555 | 60 | | 615 | 705 |
+| 530  | 2' 8" wide                                |        | 15           | 1.067       |      | 555      | 60    |           | 615     | 705            |
+| 560  | 3' 0" wide                                |        | 14           | 1.143       |      | 560      | 64.50 |           | 624.50  | 710            |
+| 000  | 18 ga., 1-3/4" x 7'-0" x 2'-6" wide       |        | 15           | 1.067       |      | 635      | 60    |           | 695     | 790            |
+| 030  | 2' 8" wide                                |        | 15           | 1.067       |      | 635      | 60    |           | 695     | 790            |
+| 060  | 3'-0" wide                                |        | 14           | 1.143       |      | 635      | 64.50 |           | 699.50  | 795            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08083 Metal Doo13
+
+## 08 13 13 HMetal Metal Doors  
+08 13Doors5 Doors Hollow Metal
+
+### Daily Labor-  
+2022 Bare Costs  
+Total
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 08    | 13 13 Hollow Metal Doors                                             |              |              |             |      |          |         |           |          |                |
+| 08    | 13 13.25 Doors Hollow Metal                                          |              |              |             |      |          |         |           |          |                |
+| 1500  | 16 go., 1-3/4" x 7'-0" x 2'-6" wide                                 | 5G255555555Carp | 15           | 1.067       | Ea.  | 750      | 60      |           | 810      | 9              |
+| 1530  | 2' 8" wide                                                          | G            | 15           | 1.067       |      | 750      | 60      |           | 810      | 9              |
+| 1560  | 3' 0" wide                                                          | G            | 14           | 1.143       |      | 645      | 64.50   |           | 709.50   | 81             |
+| 1590  | 3' 6" wide                                                          | G            | 14           | 1.143       |      | 865      | 64.50   |           | 929.50   | 1,0 :          |
+| 2900  | Fire door ,"A" label, 18 gauge, 1-3/4" x 2'-6" x 7' 0"               | G            | 15           | 1.067       |      | 685      | 60      |           | 745      | 8 .            |
+| 2930  | 2' 8" wide                                                          | G            | 15           | 1.067       |      | 685      | 60      |           | 745      | 8 .            |
+| 2960  | 3' 0" wide                                                          | G            | 14           | 1.143       |      | 780      | 64.50   |           | 844.50   | 9              |
+| 2990  | 3' 6" wide                                                          | G            | 14           | 1.143       |      | 835      | 64.50   |           | 899.50   | 1,0            |
+| 3100  | "B" label, 2-6" wide                                                | G            | 15           | 1.067       |      | 610      | 60      |           | 670      | 7              |
+| 3130  | 2' 8" wide                                                          | G            | 15           | 1.067       |      | 610      | 60      |           | 670      |                |
+| 3160  | 3' 0" wide                                                          | G            | 14           | 1.143       |      | 610      | 64.50   |           | 674.50   |                |
+
+---
+
+## 08 13 16 - Aluminum Doors  
+08 13 16.10 Commercial Aluminum Doors
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | COMMERCIAL ALUMINUM DOORS, flush, no glazing                         |        |              |             |      |          |       |           |        |                |
+| 5000  | Flush panel doors, pair of 2' 6" x 7'-0"                             | 2 Sswk | 2            | 8           | Pr.  | 1,300    | 495   |           | 1,795  | 2,1            |
+| 5050  | 3'-0" x 7'-0", single                                                |        | 2.50         | 6.400       | Ea.  | 670      | 395   |           | 1,065  | 1,3            |
+| 5100  | Pair of 3'-0" x 7'0"                                                 | 2      | 8            | Pr.         |      | 1,450    | 495   |           | 1,945  | 2,3            |
+| 5150  | 3'-6" x 7'0", single                                                 | 2.50   | 6.400        | Eo.         |      | 880      | 395   |           | 1,275  | 1,5            |
+
+---
+
+## 08 14 Wood Doors  
+08 14 13 - Carved Wood Doors  
+08 14 13.10 Types of Wood Doors, Carved
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | TYPES OF WOOD DOORS, CARVED                                          |        |              |             |      |          |         |           |          |                |
+| 3000  | Solid wood, 1-3/4" thick stile and rail                              |        |              |             |      |          |         |           |          |                |
+| 3020  | Mahogany, 3'-0" x 7' 0", six panel                                   | 2 Carp | 14           | 1.143       | Ea.  | 1,350    | 64.50   |           | 1,414.50 | 1,5            |
+| 3030  | With two lites                                                       |        | 10           | 1.600       |      | 1,525    | 90      |           | 1,615    | 1,8            |
+| 3040  | 3-6" x 8'-0", six panel                                              |        | 10           | 1.600       |      | 1,050    | 90      |           | 1,140    | 1,2            |
+| 3050  | With two lites                                                       |        | 8            | 2           |      | 2,925    | 113     |           | 3,038    | 3,4            |
+| 3100  | Pine, 3'0" x 7' 0", six panel                                        |        | 14           | 1.143       |      | 1,350    | 64.50   |           | 1,414.50 | 1,5            |
+| 3110  | With two lites                                                       |        | 10           | 1.600       |      | 950      | 902222  |           | 1,040    | 1,1            |
+| 3120  | 3'6" x 8'-0", six panel                                              |        | 10           | 1.600       |      | 1,100    | 90      |           | 1,190    | 1,3            |
+| 3130  | With two lites                                                       |        | 8            | 2           |      | 1,675    | 113     |           | 1,788    | 2,0            |
+| 3200  | Red oak, 3'-0" x 7'-0", six panel                                    |        | 14           | 1.143       |      | 390      | 64.50   |           | 454.50   | ང             |
+| 3210  | With two lites                                                       |        | 10           | 1.600       |      | 2,550    | 90      |           | 2,640    | 2,9            |
+| 3220  | 3'6" x 8'-0", six panel                                              |        | 10           | 1.600       |      | 2,650    | 90      |           | 2,740    | 3,0            |
+| 3230  | With two lites                                                       |        | 8            | 2           |      | 3,450    | 113     |           | 3,563    |                |
+| 4000  | Hand carved door, mahogany                                           |        |              |             |      |          |         |           |          |                |
+| 4020  | 3'0" x 7'-0", simple design                                          | 12 Carp| 14           | 1.143       | Ea.  | 1,800    | 64.50   |           | 1,864.50 | 2,14           |
+| 4030  | Intricate design                                                     |        | 11           | 1.455       |      | 3,575    | 82      |           | 3,657    | 4,0            |
+| 4040  | 3'6" x 8'-0", simple design                                          |        | 10           | 1.600       |      | 3,250    | 90      |           | 3,340    | 3,7            |
+| 4050  | Intricate design                                                     |        | 8            | 2           |      | 3,775    | 113     |           | 3,888    |                |
+| 4400  | For custom finish, add                                               |        |              |             |      | 560      |         |           | 560      | 6              |
+| 4600  | Side light, mahogany, 7' 0" x 1' 6" wide, 4 lites                    | [2 Carp| 18           | 889         |      | 1,150    | 550     |           | 1,200    | 1,3            |
+| 4610  | 6 lites                                                              |        | 14           | 1.143       |      | 3,025    | 64.50   |           | 3,089.50 | 3,4            |
+| 4620  | 8'0" x 1'-6" wide, 4 lites                                           |        | 14           | 1.143       |      | 2,125    | 64.50   |           | 2,189.50 | 2,4            |
+| 4630  | 6 lites                                                              |        | 10           | 1.600       |      | 2,350    | 90      |           | 2,440    | 2,7            |
+| 4640  | Side light, oak, 7'0" x 1' 6" wide, 4 lites                          | 2 Carp | 18           | .889        | Ea.  | 1,475    | 50      |           | 1,525    | 1,7            |
+| 4650  | 6 lites                                                              |        | 14           | 1.143       |      | 2,450    | 64.50   |           | 2,514.50 | 2,8            |
+| 4660  | 8'-0" x 1'-6" wide, 4 lites                                          |        | 14           | 1.143       |      | 1,400    | 64.50   |           | 1,464.50 | 1,6            |
+| 4670  | 6 lites                                                              |        | 10           | 1.600       |      | 2,450    | 90      |           | 2,540    | 2,8            |
+
+---
+
+274 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Wood Doors
+
+| ID   | Name                                      | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|----------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 15   | Flush, interior, hollow core              |          |             |             |      |          |       |           |         |                |
+| 25   | Lauan face, 1-3/8", 3'-0" x 6'-8"         | 2 Carp   | 17          | .941        | Ea.  | 101      | 53    |           | 154     | 190            |
+| 30   | 4'-0" x 6'-8"                             |          | 16          |             |      | 156      | 56.50 |           | 212.50  | 255            |
+| 80   | 1-3/4", 2'-0" x 6'-8"                     |          | 17          | .941        |      | 75       | 53    |           | 128     | 162            |
+| 08   | 3'-0" x 7'-0"                             |          |             |             |      | 254      | 56.50 |           | 310.50  | 365            |
+| 12   | Pair of 3'0" x 7'-0"                      |          | 9           | 1.778       | Pr.  | 173      | 100   |           | 273     | 340            |
+| 40   | Birch face, 1-3/8", 2'-6" x 6'-8"         |          |             | .941        | Ea.  | 110      | 53    |           | 163     | 200            |
+| 80   | 3'-0" x 6'-8"                             |          |             | .941        |      | 121      | 53    |           | 174     | 213            |
+| 00   | 4'-0" x 6'-8"                             |          | 16          | 1           |      | 197      | 56.50 | Y         | 253.50  | 300            |
+| 02   | 1-3/4", 2'-0" x 6'-8"                     |          | 17          | .941        |      | 102      | 53    |           | 155     | 191            |
+| 10   | 3'-0" x 7'-0"                             |          | 16          |             |      | 200      | 56.50 |           | 256.50  | 305            |
+| 14   | Pair of 3'0" x 7'0"                       |          | 9           | 1.778       | Pr.  | 400      | 100   |           | 500     | 590            |
+| 20   | Oak face, 1-3/8", 2'-0" x 6'-8"           |          |             | .941        | Ea.  | 153      | 53    |           | 206     | 248            |
+| 80   | 3'-0" x 6'-8"                             |          |             | .941        |      | 201      | 53    |           | 254     | 300            |
+| 00   | 4'-0" x 6'-8"                             |          | 16          | 11          |      | 203      | 56.50 |           | 259.501 | 305            |
+| 05   | 1-3/4", 2'-6" x 6'-8"                     |          | 17          | .941        |      | 77       | 53    |           | 130     | 164            |
+| 10   | 3'-0" x 7'-0"                             |          | 16          | –           |      | 325      | 56.50 |           | 381.50  | 445            |
+| 20   | Walnut face, 1-3/8", 2'0" x 6'-8"         |          | 17          | .941        |      | 285      | 53    |           | 338     | 395            |
+| 40   | 2'-6" x 6'-8"                             |          |             | .941        |      | 267      | 53    |           | 320     | 370            |
+| 2824282488240 | 3'-0" x 6'-8"                    |          | 17          | 1.941       |      | 278      | 53    |           | 331     | 385            |
+| 00   | 4'-0" x 6'-8"                             |          | 16          | –           |      | 288      | 56.50 |           | 344.50  | 400            |
+| 30   | For 7'-0" high, add                       |          |             |             |      | 37.50    |       |           | 37.50   | 41             |
+|      | For 8'-0" high, add                       |          |             |             |      | 62       |       |           | 62      | 68             |
+|      | For prefinishing, clear, add              |          |             |             |      | 78.50    |       |           | 78.50   | 86.50          |
+| 00   | For prefinishing, stain, add               |          |             |             |      | 86.50    |       |           | 86.50   | 95             |
+| 20   | M.D. overlay on hardboard, 1-3/8", 2'0" x 6'8" | 2 Carp | 17        | .941        |      | 166      | 53    |           | 219     | 261            |
+|      | 2'-6" x 6'-8"                             |          | 17          | .941        |      | 183      |       |           | 236     | 281            |
+|      | 3'-0" x 6'-8"                             |          | 17          | .941        |      | 168      | 53    |           | 221     | 264            |
+| .00  | 4'-0" x 6'-8"                             |          | 16          |             |      | 280      | 56.50 |           | 336.50  | 395            |
+|      | For 7'-0" high, add                       |          |             |             |      | 25.50    |       |           | 25.50   | 28             |
+|      | For 8'-0" high, add                       |          |             |             |      | 57.50    |       |           | 57.50   | 63             |
+|      | H.P. plastic laminate, 1-3/8", 2'0" x 6'8"| 2 Carp   | 16          |             | Ea.  | 310      | 56.50 |           | 366.50  | 430            |
+| 40   | 2'-6" x 6'-8"                             |          | 16          |             |      | 305      | 56.50 |           | 361.50  | 420            |
+| 80   | 3'-0" x 6'-8"                             |          | 15          | 1.067       |      | 325      | 60    |           | 385     | 445            |
+| 100  | 4'-0" x 6'-8"                             |          | 14          | 1.143       |      | 425      | 64.50 |           | 489.50  | 565            |
+| 20   | For 7'-0" high, add                       |          |             |             |      | 25       |       |           | 25      | 28             |
+| 40   | For 8'-0" high, add                       |          |             |             |      | 34       |       |           | 34      | 37.50          |
+| 20   | Particle core, lauan face, 1-3/8", 2'-6" x 6'-8" | 12 Carp | 15   | 1.067       |      | 131      | 60    |           | 191     | 234            |
+| 40   | 3'-0" x 6'-8"                             |          | 14          | 1.143       |      | 102      | 64.50 |           | 166.50  | 208            |
+| 80   | 3'-0" x 7'-0"                             |          | 13          | 1.231       |      | 235      | 69.50 |           | 304.50  | 360            |
+| 185  | 4'-0" x 7'-0"                             |          | 12          | 1.333       |      | 200      | 75    |           | 275     | 330            |
+| 10   | 1-3/4", 3'0" x 7'0"                       |          | 13          | 1.231       |      | 254      | 69.50 |           | 323.50  | 380            |
+| 20   | Birch face, 1-3/8", 2'6" x 6'-8"          |          | 15          | 1.067       |      | 168      | 60    |           | 228     | 275            |
+| 40   | 3'-0" x 6'-8"                             |          | 14          | 1.143       |      | 198      | 64.50 |           | 262.50  | 315            |
+| 80   | 3'-0" x 7'-0"                             |          | 13          | 1.231       |      | 192      | 69.50 |           | 261.50  | 315            |
+| 00   | 4'-0" x 7'-0"                             |          | 12          | 1.333       |      | 219      | 75    |           | 294     | 350            |
+| :05  | 1-3/4", 3'0" x 7'0"                       |          | 13          | 1.231       |      | 260      | 69.50 |           | 329.50  | 390            |
+| 20   | Oak face, 1-3/8", 2'6" x 6'-8"            |          | 15          | 1.067       |      | 192      | 60    |           | 252     | 300            |
+| 140  | 3'-0" x 6'-8"                             |          | 14          | 1.143       |      | 180      | 64.50 |           | 244.50  | 294            |
+| 80   | 3'0" x 7'0"                               |          | 13          | 1.231       |      | 201      | 69.50 |           | 270.50  | 325            |
+| 100  | 4'-0" x 7'-0"                             |          | 12          | 1.333       |      | 247      | 75    |           | 322     | 385            |
+
+customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08084 Wood Door  
+## 08 14 16 - Woodsh Wood Doors  
+08 14 1 Doors Smooth Wood Doors
+
+Daily Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor  
+Equipment  
+Total  
+Incl O&P
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 2305  | 1-3/4", 3'-0" x 7'-0"                                                | 2 Carp  | 13          | 1.231       | Ea.  | 286      | 69.50  |           | 355.50  | 420            |
+| 2320  | Walnut face, 1-3/8", 2'-0" x 6'-8"                                   |         | 15          | 1.067       |      | 170      | 60     |           | 230     | 277            |
+| 2340  | 2'-6" x 6'-8"                                                        |         | 14          | 1.143       |      | 191      | 64.50  |           | 255.50  | 305            |
+| 2380  | 3'-0" x 6'-8"                                                        |         | 13          | 11.231      |      | 220      | 69.50  |           | 289.50  | 345            |
+| 2400  | 4'-0" x 6'-8"                                                        |         | 12          | 1.333       |      | 282      | 75     |           | 357     | 420            |
+| 2440  | For 8' 0" high, add                                                   |         |             |             |      | 61       |        |           | 61      | 67             |
+| 2460  | For 8' 0" high walnut, add                                            |         |             |             |      | 50       |        |           | 50      | 55             |
+| 2720  | For prefinishing, clear, add                                          |         |             |             |      | 58       |        |           | 58      | 63.50          |
+| 2740  | For prefinishing, stain, add                                          |         |             |             |      | 73.50    |        |           | 73.50   | 80.50          |
+| 3320  | M.D. overlay on hardboard, 1-3/8", 2'-6" x 6'-8"                      | 2 Carp  | 14          | 1.143       |      | 235      | 64.50  |           | 299.50  | 355            |
+| 3340  | 3'-0" x 6'-8"                                                        |         | 13          | 11.231      |      | 266      | 69.50  |           | 335.50  | 395            |
+| 3380  | 3'-0" x 7'-0"                                                        |         | 12          | 11.333      |      | 270      | 75     |           | 345     | 410            |
+| 3400  | 4'-0" x 7'-0"                                                        |         | 10          | 1.600       |      | 365      | 90     |           | 455     | 535            |
+| 3440  | For 8' 0" height, add                                                 |         |             |             |      | 56       |        |           | 56      | 62             |
+| 3460  | For solid wood core, add                                              |         |             |             |      | 95       |        |           | 95      | 105            |
+| 3720  | H.P. plastic laminate, 1-3/8", 2'-6" x 6'-8"                          | 2 Carp  | 13          | 1.231       |      | 232      | 69.50  |           | 301.50  | 360            |
+| 3740  | 3'-0" x 6'-8"                                                        |         | 12          | 1.333       |      | 247      | 75     |           | 322     | 385            |
+| 3780  | 3'-0" x 7'-0"                                                        | 2 Carp  | 11          | 1.455       | Ea.  | 263      | 82     |           | 345     | 410            |
+| 3800  | 4'-0" x 7'-0"                                                        |         | 18          | 12          |      | 595      | 113    |           | 708     | 825            |
+| 3840  | For 8'0" height, add                                                  |         |             |             |      | 56       |        |           | 56      | 62             |
+| 3860  | For solid wood core, add                                              |         |             |             |      | 56.50    |        |           | 56.50   | 62.50          |
+| 4000  | Exterior, flush, solid core, birch, 1-3/4" x 2' 6" x 7'-0"            | 2 Corp  | 15          | 1.067       |      | 199      | 60     |           | 259     | 310            |
+| 4020  | 2'-8" wide                                                            |         | 15          | 1.067       |      | 288      | 60     |           | 348     | 405            |
+| 4040  | 3'-0" wide                                                            |         | 14          | 1.143       |      | 225      | 64.50  |           | 289.50  | 345            |
+| 4100  | Oak faced 1-3/4" x 2'-6" x 7'-0"                                      |         | 15          | 1.067       |      | 268      | 60     |           | 328     | 385            |
+| 4120  | 2'-8" wide                                                            |         | 15          | 1.067       |      | 345      | 60     |           | 405     | 470            |
+| 41401 | 3'-0" wide                                                            |         | 141.143     |             |      | 286      | 64.50  |           | 350.50  | 410            |
+| 4200  | Walnut faced, 1-3/4" x 2'-6" x 7' 0"                                  |         | 15          | 1.067       |      | 445      | 60     |           | 505     | 580            |
+| 4220  | 2'-8" wide                                                            |         | 15          | 1.067       |      | 485      | 60     |           | 545     | 620            |
+| 4240  | 3'-0" wide                                                            |         | 14          | 1.143       |      | 425      | 64.50  |           | 489.50  | 560            |
+| 4300  | For 6'-8" high door, deduct from 7'-0" door                           |         |             |             |      | 23.50    |        |           | 23.50   | 26             |
+| 5000  | Wood doors, for vision lite, add                                      |         |             |             |      | 310      |        |           | 310     | 340            |
+| 5010  | Wood doors, for narrow lit, add                                       |         |             |             |      | 42       |        |           | 42      | 46             |
+| 5015  | Wood doors, for bottom (or top) louver, add                           |         |             |             |      | 440      |        |           | 440     | 485            |
+
+## 08 14 16.20 Wood Fire Doors
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | WOOD FIRE DOORS                                                      |         |             |             |      |          |        |           |         |                |
+| 0020  | Particle core, 7 face plys, "B" label,                               |         |             |             |      |          |        |           |         |                |
+| 0040  | 1 hour, birch face, 1-3/4" x 2'6" x 6'-8"                            | 2 Carp  | 14          | 1.143       | Ea.  | 515      | 64.50  |           | 579.50  | 660            |
+| 0080  | 3'0" x 6'-8"                                                         |         | 13          | 1.231       |      | 460      | 69.50  |           | 529.50  | 610            |
+| 0090  | 3'0" x 7'-0"                                                         |         | 12          | 1.333       |      | 475      | 75     |           | 550     | 635            |
+| 0100  | 4'-0" x 7'-0"                                                        |         | 12          | 1.333       |      | 800      | 75     | 1         | 875     | 990            |
+| 0140  | Ook face, 2'-6" x 6'-8"                                              |         | 14          | 1.143       |      | 635      | 64.50  |           | 699.50  | 790            |
+| 0180  | 3'0" x 6'-8"                                                         |         | 13          | 1.231       |      | 635      | 69.50  |           | 704.50  | 805            |
+| 0190  | 3'0" x 7'-0"                                                         |         | 12          | 1.333       |      | 655      | 75     |           | 730     | 830            |
+| 0200  | 4'-0" x 7'-0"                                                        |         | 12          | 1.333       |      | 750      | 75     |           | 825     | 935            |
+| 0240  | Walnut face, 2'6" x 6'-8"                                            |         | 14          | 1.143       |      | 600      | 64.50  |           | 664.50  | 755            |
+| 0280  | 3'-0" x 6'-8"                                                        |         | 13          | 1.231       |      | 610      | 69.50  |           | 679.50  | 775            |
+| 0290  | 3'0" x 7'-0"                                                         |         | 12          | 1.333       |      | 445      | 75     |           | 520     | 595            |
+| 0300  | 4'-0" x 7'-0"                                                        |         | 12          | 1.333       |      | 880      | 75     |           | 955     | 1,075          |
+| 0440  | M.D. overlay on hardboard, 2'-6" x 6'8"                              |         | 15          | 1.067       |      | 410      | 60     |           | 470     | 540            |
+| 0480  | 3'0" x 6'8"                                                          |         | 14          | 1.143       |      | 450      | 64.50  |           | 514.50  | 590            |
+| 0490  | 3-0" x 7-0"                                                          |         | 13          | 1.231       |      | 480      | 69.50  |           | 549.50  | 635            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 14 Wood Doors
+
+## 08 14 16 Flush Wood Doors
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 500  | 4'-0" x 7'-0" | 2 Carp | 12 | 1.333 | Ea. | 520 | 75 |  | 595 | 685 |
+| 740  | 90 minutes, birch face, 1-3/4" x 2'-6" x 6-8" |  | 14 | 1.143 |  | 515 | 64.50 |  | 579.50 | 660 |
+| 780  | 3' 0" x 6'-8" |  | 13 | 1.231 |  | 485 | 69.50 |  | 554.50 | 635 |
+| 790  | 3' 0" x 7' 0" | 2 Carp | 12 | 1.333 | Ea. | 500 | 75 |  | 575 | 660 |
+| 800  | 4' 0" x 7' 0" |  | 12 | 1.333 |  | 665 | 75 |  | 740 | 840 |
+| -840 | Oak face, 2'-6" x 6'-8" |  | 14 | 1.143 |  | 445 | 64.50 |  | 509.50 | 585 |
+| 880  | 3'-0" x 6'-8" |  | 13 | 1.2311 |  | 500 | 69.50 |  | 569.50 | 655 |
+| 890  | 3'-0" x 7'-0" |  | 12 | 1.333 |  | 535 | 75 |  | 610 | 695 |
+| 900  | 4' 0" x 7' 0" |  | 12 | 1.333 |  | 670 | 75 |  | 745 | 845 |
+| 940  | Walnut face, 2' 6" x 6' 8" |  | 14 | 1.143 |  | 575 | 64.50 |  | 639.50 | 725 |
+| 980  | 3' 0" x 6'-8" |  | 13 | 1.231 |  | 460 | 69.50 |  | 529.50 | 610 |
+| 990  | 3'-0" x 7'-0" |  | 12 | 1.333 |  | 635 | 75 |  | 710 | 810 |
+| 000  | 4'-0" x 7'-0" |  | 12 | 1.333 |  | 770 | 75 |  | 845 | 960 |
+| 140  | M.D. overlay on hardboard, 2'-6" x 6'-8" |  | 15 | 1.067 | 1 | 505 | 60 |  | 565 | 645 |
+| 180  | 3' 0" x 6' 8" |  | 14 | 1.143 |  | 490 | 64.50 |  | 554.50 | 635 |
+| 190  | 3' 0" x 7'-0" |  | 13 | 1.231 |  | 530 | 69.50 |  | 599.50 | 690 |
+| 200  | 4'0" x 7'-0" |  | 12 | 1.333 |  | 615 | 75 |  | 690 | 785 |
+| 240  | For 8'-0" height, add |  |  |  |  | 95.50 |  |  | 95.50 | 105 |
+| 260  | For 8'-0" height walnut, add |  |  |  |  | 106 |  |  | 106 | 117 |
+
+## 08 14 16 Custom Architectural "B" Label, Flush, 1-3/4" Thick, Birch, Solid Core
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 220  | 2' 6" x 7' 0" | 2 Carp | 15 | 1.067 | Ea. | 415 | 60 |  | 475 | 550 |
+| 260  | 3' 0" x 7'-0" |  | 14 | 1.143 |  | 540 | 64.50 |  | 604.50 | 690 |
+| 300  | 4' 0" x 7' 0" |  | 13 | 1.231 |  | 620 | 69.50 |  | 689.50 | 790 |
+| 420  | 4' 0" x 8'-0" |  | 11 | 1.455 |  | 475 | 82 |  | 557 | 640 |
+| 480  | For oak veneer, add |  |  |  |  | 50% |  |  |  |  |
+| 500  | For walnut veneer, add |  |  |  |  | 75% |  |  |  |  |
+
+## 08 14 33 Stile and Rail Wood Doors
+
+### 08 14 33.10 Wood Doors Paneled
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 040  | Molded hardboard, 2'-0" x 6'-8" | 2 Carp | 17 | .941 | Ea. | 108 | 53 |  | 161 | 198 |
+| 060  | 2' 6" x 6'-8" |  |  | .941 |  | 119 | 53 |  | 172 | 210 |
+| 070  | 2' 8" x 6'-8" |  | 17 | .941 |  | 91.50 | 53 |  | 144.50 | 180 |
+| 080  | 3'-0" x 6'-8" |  | 17.9411 |  |  | 106 | 53 |  | 159 | 195 |
+| 140  | Embossed print, molded hardboard, 2'-0" x 6'-8" |  | 17 | .941 |  | 88 | 53 |  | 141 | 176 |
+| 160  | 2' 6" x 6'-8" |  | 17.941 |  |  | 88 | 5SASSASASUSAKU |  | 141 | 176 |
+| 180  | 3' 0" x 6'-8" |  | 17 | .941 |  | 106 | 53 |  | 159 | 195 |
+| 540  | Six panel, solid, 1-3/8" thick, pine, 2'-0" x 6'-8" |  | 15 | 1.067 |  | 212 | 60 |  | 272 | 325 |
+| 560  | 2' 6" x 6'-8" |  | 14 | 1.143 |  | 227 | 64.50 |  | 291.50 | 345 |
+| 580  | 3' 0" x 6'-8" |  |  | 1.231 |  | 258 | 69.50 |  | 327.50 | 385 |
+
+### Two Panel, Bored Rail, Solid, 1-3/8" Thick, Pine
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 020  | 1'-6" x 6' 8" | 12 Carp | 16 | 1 | Eo. | 325 | 56.50 |  | 381.50 | 440 |
+| 040  | 2' 0" x 6'-8" |  | 15 | 1.067 |  | 435 | 60 |  | 495 | 570 |
+| 060  | 2' 6" x 6'-8" |  | 14 | 1.143 |  | 480 | 64.50 |  | 544.50 | 620 |
+
+### Two Panel, Solid, 1-3/8" Thick, FI
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 340  | 2'-0" x 6'-8" |  | 15 | 1.067 |  | 213 | 60 |  | 273 | 325 |
+| 360  | 2'-6" x 6'-8" |  | 14 | 1.143 |  | 287 | 64.50 |  | 351.50 | 410 |
+| 380  | 3' 0" x 6'-8" |  | 13 | 1.231 |  | 520 | 69.50 |  | 589.50 | 680 |
+
+### Five Panel, Solid, 1-3/8" Thick, FI
+
+| ID   | Name | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 740  | 2' 0" x 6'-8" |  | 15 | 1.067 |  | 385 | 60 |  | 445 | 515 |
+| 760  | 2'-6" x 6'-8" |  | 14 | 1.143 |  | 505 | 64.50 |  | 569.50 | 650 |
+| 780  | 3' 0" x 6'-8" |  | 13 | 1.231 |  | 505 | 69.50 |  | 574.50 | 660 |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08084  
+## 14 Wood D14rs  
+### 08 14 3 Wood Stile and Rail Wood Doors  
+### 08 14 33.20 Wood Doors Residential  
+
+#### Daily Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor  
+Equipment  
+Total  
+Incl 08  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor         | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|---------------|-----------|---------|----------------|
+| 08    | 14 33 - Stile and Rail Wood Doors                                    |        |              |             |        |          |               |           |         |                |
+| 08    | 14 33.20 Wood Doors Residential                                      |        |              |             |        |          |               |           |         |                |
+| 0010  | WOOD DOORS RESIDENTIAL                                               |        |              |             |        |          |               |           |         |                |
+| 0200  | Exterior, combination storm & screen, pine                           |        |              |             |        |          |               |           |         |                |
+| 0260  | 2'-8" wide                                                           | 2 Carp | 10           | 1.600       | Ea.    | 325      | 89088812121   |           | 415     | 4              |
+| 0280  | 3'-0" wide                                                           |        | 9            | 1.778       |        | 340      | 100           |           | 440     | 5              |
+| 0300  | 7'-1" x 3'0" wide                                                    |        | 9            | 1.778       |        | 365      | 100           |           | 465     |                |
+| 0400  | Full lite, 6'-9" x 2'-6" wide                                        |        | 11           | 1.455       |        | 350      |               |           | 432     |                |
+| 04201 | 2'-8" wide                                                           |        | 10           | 1.600       |        | 340      | 90            |           | 430     |                |
+| 0440  | 3'-0" wide                                                           |        | 9            | 1.778       |        | 350      | 100           |           | 450     |                |
+| 0500  | 7'-1" x 3'0" wide                                                    |        | 9            | 1.778       |        | 375      | 100           |           | 475     |                |
+| 0700  | Dutch door, pine, 1-3/4" x 2'8" x 6'-8", 6 panel                     |        | 12           | 1.333       |        | 1,175    | 75            |           | 1,250   | 1,3            |
+| 0720  | Half glass                                                           |        | 10           | 1.600       |        | 1,025    | 90            |           | 1,115   | 1,2            |
+| 0800  | 3'-0" wide, 6 panel                                                  |        | 12           | 1.333       |        | 650      | 75            |           | 725     | 8              |
+| 0820  | Half glass                                                           |        | 06565        | 1.600       |        | 1,150    | 90            |           | 1,240   | 1,4            |
+| 1000  | Entrance door, colonial, 1-3/4" x 6'8" x 2'8" wide                   |        | 16           |             |        | 630      | 56.50         |           | 686.50  | 7              |
+| 1020  | 6 panel pine, 3'-0" wide                                             |        |              | 1.067       |        | 169      | 60            |           | 229     |                |
+| 1100  | 8 panel pine, 2'-8" wide                                             |        | 16           |             |        | 740      | 56.50         |           | 796.50  | 9              |
+| 1120  | 3'-0" wide                                                           |        | 15           | 1.067       |        | 680      | 60            |           | 740     | 8              |
+| 1200  | For tempered safety glass lites (min. of 2), add                     |        |              |             |        | 144      |               |           | 144     |                |
+| 1300  | Flush, birch, solid core, 1-3/4" x 6'-8" x 2'8" wide                 | 2 Carp | 16           | 1           |        | 490      | 56.50         |           | 546.50  |                |
+| 1320  | *3'-0" wide                                                          |        | 15           | 1.067       |        | 505      | 60            |           | 565     |                |
+| 1350  | 7'-0" x 2'-8" wide                                                   |        | 161          |             |        | 140      | 56.50         |           | 196.50  |                |
+| 1360  | 3'-0" wide                                                           |        | 15           | 1.067       |        | 585      | 60            |           | 645     |                |
+| 1380  | For tempered safety glass lites, add                                 |        |              |             |        | 119      |               |           | 119     |                |
+| 1930  | For dutch door with shelf, add                                       |        |              |             |        | 140 %    |               |           |         |                |
+| 2700  | Interior, closet, bi-fold, w/hardware, no frame or trim incl.        |        |              |             |        |          |               |           |         |                |
+| 2720  | Flush, birch, 2'6" x 6'-8"                                           | 2 Carp | 13           | 1.231       | Ea.    | 172      | 69.50         |           | 241.50  |                |
+| 2740  | 3'-0" wide                                                           |        | 13           | 1.231       |        | 190      | 69.50         |           | 259.50  |                |
+| 2760  | 4'-0" wide                                                           |        | 12           | 1.333       |        | 299      | 75            |           | 374     |                |
+| 2780  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 330      | 82            |           | 412     | 4              |
+| 2800  | 6'0" wide                                                            |        | 10           | 1.600       |        | 365      | 90            |           | 455     |                |
+| 3000  | Raised panel pine, 6'-6" or 6'8" x 2'-6" wide                        |        | 13           | 1.231       | 1      | 540      | 69.50         |           | 609.50  | 7              |
+| 3020  | 3'-0" wide                                                           |        | 13           | 1.231       |        | 575      | 69.50         |           | 644.50  |                |
+| 3040  | 4'-0" wide                                                           |        | 12           | 1.333       |        | 930      | 75            |           | 1,005   | 1,1            |
+| 3060  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 425      | 82            |           | 507     |                |
+| 3080  | 6'-0" wide                                                           |        | 10           | 1.600       |        | 465      | 90            |           | 555     |                |
+| 3200  | Louvered, pine, 6'6" or 6'-8" x 2'-6" wide                           |        | 13           | 1.231       |        | 171      | 69.50         |           | 240.50  |                |
+| 3220  | 3'-0" wide                                                           |        | 13           | 1.231       |        | 270      | 69.50         |           | 339.50  |                |
+| 3240  | 4'-0" wide                                                           |        | 12           | 1.333       |        | 930      | 75            |           | 1,005   |                |
+| 3260  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 277      | 82            |           | 359     |                |
+| 3280  | 6'-0" wide                                                           |        | 10           | 1.600       |        | 340      | 90            |           | 430     |                |
+| 4400  | Bi-passing closet, incl. hardware and frame, no trim incl.           |        |              |             |        |          |               |           | 4       |                |
+| 4420  | Flush, lavan, 6-8" x 4'-0" wide                                      | 2 Carp | 12           | 1.333       | Opng.  | 192      | 752223222     |           | 267     |                |
+| 4440  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 258      | 82            |           | 340     |                |
+| 4460  | 6'-0" wide                                                           |        | 10           | 1.600       |        | 191      | 90            |           | 281     |                |
+| 4600  | Flush, birch, 6'8" x 4'0" wide                                       |        | 12           | 1.333       |        | 285      | 75            |           | 360     | A              |
+| 4620  | 5'-0" wide                                                           |        |              | 1.455       |        | 244      | 82            |           | 326     |                |
+| 4640  | 6'-0" wide                                                           |        | 10           | 1.600       |        | 400      | 90            |           | 490     |                |
+| 4800  | Louvered, pine, 6'8" x 4'-0" wide                                    |        | 12           | 1.333       |        | 490      | 75            |           | 565     | 6              |
+| 4820  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 585      | 82            |           | 667     |                |
+| 4840  | 6'-0" wide                                                           |        | 10           | 1.600       |        | 855      | 90            |           | 945     | 1,0            |
+| 5000  | Paneled, pine, 6'-8" x 4'-0" wide                                    |        | 12           | 1.333       |        | 545      | 75            |           | 620     | 7              |
+| 5020  | 5'-0" wide                                                           |        | 11           | 1.455       |        | 860      | 82            |           | 942     | 1,0            |
+
+278 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 14 Wood Doors
+
+## 08 14 33 - Stile and Rail Wood Doors
+
+### 08 14 33.20 Wood Doors Residential
+
+| ID    | Name                                                        | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 5040  | 6'-0" wide                                                  | 12 Carp  | 10           | 1.600       | Opng   | 1,000    | 90    |           | 1,090 | 1,225          |
+| 5042  | 8'-0" wide                                                  |          | 12           | 1.333       |        | 1,100    | 75    |           | 1,175 | 1,300          |
+
+---
+
+| ID    | Name                                                        | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 100   | Folding accordion, closet, including track and frame        |          |              |             |        |          |       |           |       |                |
+| 5120  | Vinyl, 2 layer, stock                                       | 12 Carp  | 10           | 1.600       | Ea.    | 32 675   | 2222  |           | 765   | 875            |
+| 5140  | Woven mahogany and vinyl, stock                             |          | 10           | 1.600       |        | 66       | 90    |           | 156   | 207            |
+| 5160  | Wood slats with vinyl overlay, stock                        |          | 10           | 1.600       |        | 173      | 90    |           | 263   | 325            |
+| 5180  | Economy vinyl, stock                                        |          | 10           | 1.600       |        | ¥ 42     | 90    |           | 132   | 180            |
+| $200  | Rigid PVC                                                   |          | 10           | 1.600       |        | སི 127  | 90    |           | 217   | 274            |
+
+---
+
+| ID    | Name                                                        | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 310   | Passage doors, flush, no frame included                     |          |              |             |        |          |       |           |       |                |
+| 320   | Hardboard, hollow core, 1-3/8" x 6'-8" x 1'6" wide          | 12 Carp  | 18           | .889        | Ea.    | ༄ 43     | 1     | 25022222222222REGGRESSOR | 93    | 122            |
+| 330   | 2'-0" wide                                                  |          | 18.889       |             |        | ༤ 48     | 50    |           | 98    | 127            |
+| 340   | 2'-6" wide                                                  |          | 18           | .889        |        | ན 54.50  | 50    |           | 104.50| 135            |
+| 350   | 2'-8" wide                                                  |          | 18           | .889        |        | ཨཽ 56.50 | 50    |           | 106.50| 137            |
+| 360   | 3'-0" wide                                                  |          | 17           | .941        |        | གཽ 56.50 | 53    |           | 109.50| 142            |
+| 420   | Lauan, hollow core, 1-3/8" x 6'-8" x 1'-6" wide             |          | 18           | .889        |        | ཤྩ 85   | 50    |           | 135   | 168            |
+| 440   | 2'-0" wide                                                  |          | 18           | .889        |        | ཀྲྀ 73.50| 50    |           | 123.50| 156            |
+| 450   | 2'-4" wide                                                  |          | 18           | .889        |        | རྞ 84   | 1     | 50        | 134   | 167            |
+| 460   | 2'-6" wide                                                  |          | 18           | .889        |        | རྨ 84   | 50    |           | 134   | 167            |
+| 480   | 2'-8" wide                                                  |          | 118          | .889        |        | ཚོ 96   | 50    |           | 146   | 181            |
+| 500   | 3'-0" wide                                                  |          | 17           | .941        |        | ཁི 72   | 53    |           | 125   | 158            |
+| 700   | Birch, hollow core, 1-3/8" x 6'-8" x 1'-6" wide             |          | 18           | .889        |        | ཎྜ 101  | 50    |           | 151   | 187            |
+| 720   | 2'-0" wide                                                  |          | 18           | .889        |        | ཀྲྀ115  | 50    |           | 165   | 202            |
+| 740   | 2'-6" wide                                                  |          | 18           | .889        |        | ཎྜ 109  | 50    |           | 159   | 195            |
+| 760   | 2'-8" wide                                                  |          | 18           | .889        |        | ཎྜ      | 50    |           | 174   | 212            |
+| 780   | 3'-0" wide                                                  |          | 17           | .941 *      |        | ཌ 117   | 53    |           | 170   | 208            |
+| 3000  | Pine louvered, 1-3/8" x 6'-8" x 1'-6" wide                  |          | 19           | .842 1      |        | ཧྨ 201  | 47.50 |           | 248.50| 292            |
+| 3020  | 2'-0" wide                                                  | #        | 18           | .889        |        | སྥ      | 50    |           | 273   | 320            |
+| 3040  | 2'-6" wide                                                  |          | 18           | .889 :      |        | ê 239    | 50    |           | 289   | 340            |
+| 3060  | 2'-8" wide                                                  |          | 18           | .889        |        | ཎྜ 274  | 50    |           | 324   | 375            |
+| 3080  | 3'-0" wide                                                  |          | 17           | .941        |        | སྒ245   | 53    |           | 298   | 350            |
+| 3300  | Pine paneled, 1-3/8" x 6'-8" x 1'-6" wide                   |          | 19           | .842        |        | ཥུ 222  | 47.50 |           | 269.50| 315            |
+| 8320  | 2'-0" wide                                                  |          | 18           | .889        |        | བྷུ     | 50    |           | 370   | 425            |
+| B3301 | 2'-4" wide                                                  | 1        | 18 : .889    |             |        | བྷུ320  | 50    |           | 370   | 425            |
+| 3340  | 2'-6" wide                                                  |          | 18           | .8891       |        | ཚོ     | 50    |           | 395   | 455            |
+| 360   | 2'-8" wide                                                  |          | 18           | .8891       |        | 345      | 50    |           | 395   | 450            |
+| 380   | 3'-0" wide                                                  |          | 17.941       |             |        | 370      | 53    |           | 423   | 490            |
+
+---
+
+# 08 14 35 O Torrified Doors
+
+## 08 14 35.10 Torrified Exterior Doors
+
+| ID    | Name                                                        | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | TORRIFIED EXTERIOR DOORS                                   |          |              |             |        |          |       |           |       |                |
+| 1020  | Wood doors made from torrified wood, exterior               |          |              |             |        |          |       |           |       |                |
+| 0030  | All doors require a finish be applied, all glass is insulated|         |              |             |        |          |       |           |       |                |
+| 1040  | All doors require pilot holes for all fasteners             |          |              |             |        |          |       |           |       |                |
+| 0100  | 6 panel, paint grade poplar, 1-3/4" x 3'-0" x 6'-8"         | 12 Carp  | 12           | 1.333       | . Ea.  | 1,325    | 75    |           | 1,400 | 1,550          |
+| 120   | Half glass 3'-0" x 6'-8"                                    |          | 12           | 1.333       |        | 1,425    | 75    |           | 1,500 | 1,650          |
+| 200   | Side lit, full glass, 1-3/4" x 1'-2" x 6'8"                 |          |              |             |        | 785      |       |           | 785   | 865            |
+| 2201  | Side lit, half glass, 1-3/4" x 1'-2" x 6'-8"                |          |              |             |        | 765      |       |           | 765   | 840            |
+| 300   | Raised face, 2 panel, paint grade poplar, 1-3/4" x 3'0" x 7'0"| 2 Carp | 12           | 1.333       |        | 1,550    | 75    |           | 1,625 | 1,825          |
+| 320   | Side lit, raised face, half glass, 1-3/4" x 1'-2" x 7'0"    | 99       |              |             |        | 890      |       |           | 890   | 980            |
+| 500   | 6 panel, Fir, 1-3/4" x 3'-0" x 6'-8"                        | 2 Carp   | 12           | 1.333       |        | 1,875    | 75    |           | 1,950 | 2,150          |
+| 520   | Half glass 3'-0" x 6'-8"                                    | "        | 12           | 1.333       |        | 1,700    | 75    |           | 1,775 | 1,975          |
+|       |                                                            |          |              |             |        |          |       |           |       | 875            |
+| 1600  | Side lite, full glass, 1-3/4" x 1'-2" x 6'-8"               |          |              |             | Ea.    | 795      |       |           | 795   |                |
+| 1620  | Side lite, half glass, 1-3/4" x 1'-2" x 6'-8"               |          |              |             |        | 825      |       |           | 825   | 905            |
+
+---
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 08084 Wood Door  
+## 08 14 35 - Woodified Doors  
+08 14 35 Doorsorrified Exterior Doors  
+0700  
+0800  
+0820  
+6 panel, Mahogany, 1-3/4" x 3'-0" x 6'-8"  
+Side lite, full glass, 1-3/4" x 1'-2" x 6'-8"  
+Side lite, half glass, 1-3/4" x 1'-2" x 6'-8"  
+08 14 40 - Interior Ca  
+
+## 08 14 35 - Torrified Doors
+
+| ID         | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------------|----------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 08 14 35.10| Torrified Exterior Doors                     |        |              |             |      |          |         |           |         |                |
+| 0700       | 6 panel, Mahogany, 1-3/4" x 3'-0" x 6'-8"    | 2 Carp | 12           | 1.333       | Ea.  | 2,475    | 75      |           | 2,550   | 2,8            |
+| 0800       | Side lite, fullglass, 1-3/4" x 1-2" x 6'-8"  |        |              |             |      | 900      |         |           | 900     | 9              |
+| 0820       | Side lite, half glass,1-3/4" x 1'-2" x 6'-8" |        |              |             |      | 910      |         |           | 910     | 1,0            |
+
+## 08 14 40 - Interior Cafe Doors
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 08 14 40.10 | Cafe Style Doors                       |        |              |             |      |          |         |           |         |                |
+| 0010  | CAFE STYLE DOORS                            |        |              |             |      |          |         |           |         |                |
+| 6520  | Interior cafe doors, 2'6" opening, stock, panel pine | 2 Carp | 16           | 1           | Ea.  | 430      | 56.50   |           | 486.50  | 55             |
+| 6540  | 3'0" opening                                | "      | 16           | 1           | 21   | 445      | 56.50   |           | 501.50  |                |
+| 6550  | Louvered pine                               |        |              |             |      |          |         |           |         |                |
+| 6560  | 2'6" opening                                | 12 Carp| 16           | 1           | Ea.  | 340      | 56.50   |           | 396.50  | 4.             |
+| 8000  | 3'0" opening                                |        | 16           | 1           |      | 335      | 56.50   |           | 391.50  | 4              |
+| 8010  | 2'-6" opening, hardwood                     |        | 16           | 1           |      | 380      | 56.50   |           | 436.50  | 50             |
+| 8020  | 3'0" opening                                |        | 1611         |             |      | 430:     | 56.50   |           | 486.50  | 5!             |
+
+## 08 16 Composite Doors
+
+### 08 16 13 - Fiberglass Doors
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 08 16 13.10 | Entrance Doors, Fibrous Glass          |        |              |             |      |          |         |           |         |                |
+| 0010  | ENTRANCE DOORS, FIBROUS GLASS               |        |              |             |      |          |         |           |         |                |
+| 0020  | Exterior, fiberglass, door, 2'-8" wide x 6'-8" high | 5G5555UGG2GCarp | 15 | 1.067 | Ea.  | 1,125    | 888888888 |           | 1,185   | 1,3            |
+| 0040  | 3'-0" wide x 6'-8" high                     |        | 15           | 1.067       |      | 281      | 60      |           | 341     | 40             |
+| 0060  | 3'-0" wide x 7'-0" high                     |        | 15           | 1.067       |      | 525      | 60      |           | 585     | 67             |
+| 0080  | 3'-0" wide x 6'-8" high, with two lites     |        | 15           | 1.067       |      | 720      | 60      |           | 780     | 88             |
+| 0100  | 3'-0" wide x 8'0" high, with two lites      |        | 15           | 1.067       |      | 550      | 60      |           | 610     | 69             |
+| 0110  | Half glass, 3'0" wide x 6'-8" high          |        | 15           | 1.067       |      | 485      | 60      |           | 545     | 62             |
+| 0120  | 3'-0" wide x 6'-8" high, low E              |        | 15           | 1.067       |      | 530      | 60      |           | 590     | 67             |
+| 0130  | 3'-0" wide x 8'0" high                      |        | 15           | 1.067       |      | 615      | 60      |           | 675     | 77             |
+| 0140  | 3'-0" wide x 8'0" high, low E               |        | 15           | 1.067       |      | 695      | 60      |           | 755     | 85             |
+| 0150  | Side lights, 1'-0" wide x 6'-8" high        |        |              |             |      | 285      |         |           | 285     | 31             |
+| 0160  | 1'-0" wide x 6'8" high, low E               |        |              |             |      | 280      |         |           | 280     | 31             |
+| 0180  | 1'-0" wide x 6'-8" high, full glass         |        |              |             |      | 375      |         |           | 375     |                |
+| 0190  | 1'-0" wide x 6'8" high, low E               |        |              |             |      | 395      |         |           | 395     | 43             |
+
+### 08 16 14 - French Doors
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 08 16 14.10 | Exterior Doors With Glass Lites        |        |              |             |      |          |         |           |         |                |
+| 0010  | EXTERIOR DOORS WITH GLASS LITES             |        |              |             |      |          |         |           |         |                |
+| 0020  | French, Fir, 1-3/4", 3'0" wide x 6'-8" high | 2 Carp | 12           | 1.333       | Ea.  | 1,250    | 75      |           | 1,325   | 1,47           |
+| 0025  | Double                                      |        | 12           | 1.333       |      | 2,525    | 75      |           | 2,600   | 2,87           |
+| 0030  | Maple, 1-3/4", 3'0" wide x 6'8" high        |        | 12           | 1.333       |      | 745      | 75      |           | 820     | 92             |
+| 0035  | Double                                      |        | 12           | 1.333       |      | 1,475    | 75      |           | 1,550   | 1,72           |
+| 0040  | Cherry, 1-3/4", 3'0" wide x 6'8" high       | 2 Corp | 12           | 1.333       | Ea.  | 865      | 75      |           | 940     | 1,07           |
+| 0045  | Double                                      |        | 12           | 1.333       |      | 1,725    | 7522222 |           | 1,800   | 2,00           |
+| 0100  | Mahogany, 1-3/4", 3'-0" wide x 8'-0" high   |        | 10           | 1.600       |      | 1,250    | 90      |           | 1,340   | 1,52           |
+| 0105  | Double                                      |        | 10           | 1.600       |      | 2,525    | 90      |           | 2,615   | 2,90           |
+| 0110  | Fir, 1-3/4", 3'-0" wide x 8'0" high         |        | 10           | 1.600       |      | 555      | 90      |           | 645     | 74             |
+| 0115  | Double                                      |        | 10           | 1.600       |      | 1,100    | 90      |           | 1,190   | 1,35           |
+| 0120  | Oak, 1-3/4", 3'-0" wide x 8'-0" high        |        | 10           | 1.600       |      | 600      | 90      |           | 690     | 79             |
+| 0125  | Double                                      |        | 10           | 1.600       |      | 1,200    | 90      |           | 1,290   | 1,45           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 17 Integrated Door Opening Assemblies
+
+## 08 17 13 - Integrated Metal Door Opening Assemblies
+
+### 08 17 13.20 Stainless Steel Assemblies Frames
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 010  | STAINLESS STEEL DOORS AND FRAMES                                     |        |              |             |      |          |       |           |        |                |
+| 500  | Stainless steel, prehung door, foam core, 14 ga., 3'-0" x 7'-0"      | G 2 Carp | 5            | 3.200       | Eg.  | 4,475    | 180   |           | 4,655  | 5,200          |
+| 600  | Stainless steel, prehung double door, foam core, 14 ga, 3'-0" x 7'-0"| G      | 4            | 4           | "    | 7,400    | 225   |           | 7,625  | 8,475          |
+
+---
+
+## 08 17 23 - Integrated Wood Door Opening Assemblies
+
+### 08 17 23.10 Pre-Hung Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 010  | PRE-HUNG DOORS                                                       |        |              |             |      |          |       |           |        |                |
+| 300  | Exterior, wood, comb. storm & screen, 6'-9" x 2'6" wide              | 2 Carp | 15           | 1.067       | Ea.  | 262      | 660   |           | 322    | 380            |
+| 320  | 2'-8" wide                                                           |        | 15           | 1.067       |      | 350      | 60    |           | 410    | 475            |
+| 340  | 3'-0" wide                                                           |        | 15           | 1.067       |      | 330      | 60    |           | 390    | 455            |
+| 360  | For 7'-0" high door, add                                             |        |              |             |      | 46       |       |           | 46     | 50.50          |
+| 600  | Entrance door, flush, birch, solid core                              |        |              |             |      |          |       |           |        |                |
+| 620  | 4-5/8" solid jamb, 1-3/4" x 6'-8" x 2'-8" wide                       | 2 Carp | 16           | 1           | Ea.  | 375      | 56.50 |           | 431.50 | 500            |
+| 640  | 3'-0" wide                                                           |        | 66           | 1           |      | 445      | 56.50 |           | 501.50 | 575            |
+| 642  | 5-5/8" jamb                                                          |        |              |             |      | 410      | 56.50 |           | 466.50 | 540            |
+| 680  | For 7'-0" high door, add                                             |        |              |             |      | 25.50    |       |           | 25.50  | 28             |
+| 1000 | Entrance door, colonial, 6 panel pine                                |        |              |             |      |          |       |           |        |                |
+| 020  | 4-5/8" solid jamb, 1-3/4" x 6'-8" x 2'-8" wide                       | 2 Carp | 16           | 1           | Ea.  | 755      | 56.50 |           | 811.50 | 915            |
+| 040  | 3'-0" wide                                                           |        | 161          |             |      | 645      | 56.50 |           | 701.50 | 795            |
+| 060  | For 7'-0" high door, add                                             |        |              |             |      | 64.50    |       |           | 64.50  | 71             |
+| 200  | For 5-5/8" solid jamb, add                                           |        |              |             |      | 49.50    |       |           | 49.50  | 54.50          |
+| 000  | Interior, passage door, 4-5/8" solid jamb                            |        |              |             |      |          |       |           |        |                |
+| 400  | Louan, flush, solid core, 1-3/8" x 6'-8" x 2'6" wide                 | 2 Carp | 776776       | .941        | Ea.  | 223      | 53    |           | 276    | 325            |
+| 420  | 2'-8" wide                                                           |        | 17           | .941        |      | 223      | 53    |           | 276    | 325            |
+| 440  | 3'-0" wide                                                           |        | 16           |             |      | 225      | 56.50 |           | 281.50 | 330            |
+| 600  | Hollow core, 1-3/8" x 6'-8" x 2'6" wide                              |        | 17           | .941        |      | 227      | 53    |           | 280    | 330            |
+| 620  | 2'-8" wide                                                           |        | 17           | .941        |      | 150      | 53    |           | 203    | 244            |
+| 640  | 3'-0" wide                                                           | 2 Carp | 16           | 1           | Ea.  | 225      | 56.50 |           | 281.50 | 330            |
+| 700  | For 7'0" high door, add                                              |        |              |             |      | 48.50    |       |           | 48.50  | 53.50          |
+| 000  | Birch, flush, solid core, 1-3/8" x 6'-8" x 2'-6" wide                | 2 Carp | 776776       | .941        |      | 315      | 53    |           | 368    | 425            |
+| 020  | 2'-8" wide                                                           |        | 17           | .941        |      | 244      | 53    |           | 297    | 345            |
+| 040  | 3'-0" wide                                                           |        | 16           | 1           |      | 345      | 56.50 |           | 401.50 | 465            |
+| 200  | Hollow core, 1-3/8" x 6'-8" x 2'-6" wide                             |        | 17           | .941        |      | 215      | 53    |           | 268    | 315            |
+| 220  | 2'-8" wide                                                           |        | 17           | .941        |      | 242      | 53    |           | 295    | 345            |
+| 240  | 3'-0" wide                                                           |        | 16           | 1           |      | 251      | 56.50 |           | 307.50 | 360            |
+| 280  | For 7'0" high door, add                                              |        |              |             |      | 41.50    |       |           | 41.50  | 45.50          |
+| 500  | Hardboard paneled, 1-3/8" x 6'-8" x 2'-6" wide                       | 2 Carp | 17           | .941        |      | 175      | 53    |           | 228    | 272            |
+| 520  | 2'-8" wide                                                           |        | 17           | .941        |      | 184      | 53    |           | 237    | 281            |
+| 540  | 3'-0" wide                                                           |        | 16           | 1           |      | 185      | 56.50 |           | 241.50 | 288            |
+| 000  | Pine paneled, 1-3/8" x 6'-8" x 2'6" wide                             |        | 17           | .941        |      | 310      | 53    |           | 363    | 425            |
+| 020  | 2'-8" wide                                                           |        | 17           | .941        |      | 330      | 53    |           | 383    | 445            |
+| 040  | 3'-0" wide                                                           |        | 16           | 1           |      | 340      | 56.50 |           | 396.50 | 460            |
+
+---
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 08 31 13 - Access Doors and Frames
+
+## 08 31 13.10 Types of Framed Access Doors
+
+| ID    | Name                                              | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor      | Equipment | Total     | Total Incl O&P |
+|-------|---------------------------------------------------|---------|-------------|-------------|---------|----------|------------|-----------|-----------|----------------|
+| 0010  | TYPES OF FRAMED ACCESS DOORS                      |         |             |             |         |          |            |           |           |                |
+| 1000  | Fire rated door with lock                         |         |             |             |         |          |            |           |           |                |
+| 1100  | Metal, 12" x 12"                                  | 1 Corp  | 10          | .800        | Ea.     | 172      | 45         |           | 217       | 256            |
+| 1150  | 18" x 18"                                         |         | 9           | .889        |         | 340      | 50         |           | 390       | 450            |
+| 1200  | 24" x 24"                                         |         | 9           | .889        |         | 345      | 50         |           | 395       | 455            |
+| 1250  | 24" x 36"                                         |         | 8           | 1           |         | 345      | 56.50      |           | 401.50    | 465            |
+| 1300  | 24" x 48"                                         |         | 8           |             |         | 410      | 56.50      |           | 466.50    | 535            |
+| 1350  | 36" x 36"                                         |         | 7.50        | 1.067       |         | 510      | 60         |           | 570       | 650            |
+| 1400  | 48" x 48"                                         |         | 7.50        | 1.067       |         | 665      | 60         |           | 725       | 820            |
+| 1600  | Stainless steel, 12" x 12"                        |         | 10          | .800        |         | 335      | 45         |           | 380       | 435            |
+| 1650  | 18" x 18"                                         |         | 9           | .889        |         | 370      | 50         |           | 420       | 480            |
+| 1700  | 24" x 24"                                         |         | 9           | .889        |         | 545      | 50         |           | 595       | 675            |
+| 1750  | 24" x 36"                                         |         | 8           | 1           |         | 650      | 56.50      |           | 706.50    | 800            |
+| 2000  | Flush door for finishing                          |         |             |             |         |          |            |           |           |                |
+| 2100  | Metal 8" x 8"                                     | 1 Carp  | 10          | .800        | Ea.     | 38       | 44         |           | 83        | 109            |
+| 2150  | 12" x 12"                                         | "       | 10          | .800        | "       | 38.50    | 45         |           | 83.50     | 109            |
+| 3000  | Recessed door for acoustic tile                   |         |             |             |         |          |            |           |           |                |
+| 3100  | Metal, 12" x 12"                                  | 1 Carp  | 4.50        | 1.778       | Ea.     | 48.50    | 100        |           | 148.50    | 203            |
+| 3150  | 12" x 24"                                         |         | 4.50        | 1.778       |         | 111      | 100        |           | 211       | 271            |
+| 3200  | 24" x 24"                                         |         | 4           | 22          |         | 117      | 113        |           | 230       | 297            |
+| 3250  | 24" x 36"                                         |         | 4           | 2           |         | 163      | 113        |           | 276       | 345            |
+| 4000  | Recessed door for drywall                         |         |             |             |         |          |            |           |           |                |
+| 4100  | Metal 12" x 12"                                   | 1 Carp  | 6           | 1.333       | Ea.     | 75.50    | 752        |           | 150.50    | 195            |
+| 4150  | 12" x 24"                                         |         | 5.50        | 1.455       |         | 118      | 82         |           | 200       | 252            |
+| 4200  | 24" x 36"                                         |         | 5           | 1.600       | 4       | 188      | 90         |           | 278       | 340            |
+| 6000  | Standard door                                     |         |             |             |         |          |            |           |           |                |
+| 6100  | Metal, 8" x 8"                                    | 1 Carp  | 1600        | .800        | Ea.     | 31.50    | 4455555555 |           | 76.50     | 102            |
+| 6150  | 12" x 12"                                         |         |             | .800        |         | 284      |            |           | 329       | 375            |
+| 6200  | 18" x 18"                                         |         | 9           | .889        |         | 35       | 50         |           | 85        | 113            |
+| 6250  | 24" x 24"                                         |         | 9           | .889        |         | 425      | 50         |           | 475       | 545            |
+| 6300  | 24" x 36"                                         |         | ∞8          |             |         | 175      | 56.50      |           | 231.50    | 276            |
+| 6350  | 36" x 36"                                         |         | ∞8          | 1           |         | 99       | 56.50      |           | 155.50    | 193            |
+| 6500  | Stainless steel, 8" x 8"                          |         | 10aa        | .800        |         | 80       |            |           | 125       | 155            |
+| 6550  | 12" x 12"                                         |         | 10          | .800        |         | 94       |            |           | 139       | 170            |
+| 6600  | 18" x 18"                                         |         | 9           | .889        |         | 170      | 50         |           | 220       | 262            |
+| 6650  | 24" x 24"                                         |         | 9           | .889        |         | 259      | 50         |           | 309       | 360            |
+
+## 08 31 13.20 Bulkhead / Cellar Doors
+
+| ID    | Name                                                        | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------------------------|---------|-------------|-------------|---------|----------|-------|-----------|---------|----------------|
+| 0010  | BULKHEAD / CELLAR DOORS                                     |         |             |             |         |          |       |           |         |                |
+| 0020  | Steel, not incl.sides, 44" x 62"                            | 1 Carp  | 5.50        | 1.455       | Ea.     | 715      | 2825  |           | 797     | 910            |
+| 0100  | 52" x 73"                                                   |         | 5.10        | 1.569       |         | 895      | 88.50 |           | 983.50  | 1,125          |
+| 0500  | With sides and foundation plates, 57" x 45" x 24"           |         | 4.70        | 1.702       |         | 890      | 96    |           | 986     | 1,125          |
+| 0600  | 42" x 49" x 51"                                             |         | 4.30        | 1.860       |         | 605      | 105   |           | 710     | 820            |
+
+## 08 31 13.30 Commercial Floor Doors
+
+| ID    | Name                                                        | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------------------------|---------|-------------|-------------|---------|----------|-------|-----------|---------|----------------|
+| 0010  | COMMERCIAL FLOOR DOORS                                      |         |             |             |         |          |       |           |         |                |
+| 0020  | Aluminum tile, steel frame, one leaf, 2' x 2' opng.         | 2 Sswk  | 3.50        | 4.571       | Opng.   | 760      | 283   |           | 1,043   | 1,275          |
+| 0050  | 3'6" x 3'-6" opening                                        |         | 3.50        | 4.571       |         | 1,625    | 283   |           | 1,908   | 2,200          |
+| 0500  | Double leaf, 4' x 4' opening                                |         | 3           | 5.333       |         | 1,650    | 330   |           | 1,980   | 2,325          |
+| 0550  | 5' x 5' opening                                             | #       | 3           | 5.333       | V       | 2,750    | 330   |           | 3,080   | 3,525          |
+
+## 08 31 13.35 Industrial Floor Doors
+
+| ID    | Name                                                        | Crew    | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------------------------|---------|-------------|-------------|---------|----------|-------|-----------|---------|----------------|
+| 0010  | INDUSTRIAL FLOOR DOORS                                      |         |             |             |         |          |       |           |         |                |
+| 0020  | Steel 300 psf L.L., single leaf, 2' x 2', 175 #             | 2 Sswk  | 6           | 2.667       | Opng.   | 1,800    | 165   |           | 1,965   | 2,229          |
+| 0050  | 3' x 3' opening, 300 #                                      |         | 5.50        | 2.909       |         | 1,400    | 180   |           | 1,580   | 1,829          |
+
+---
+
+282 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 31 13 - Access Doors and Frames
+
+## Daily Labor Crew Output Access Unit  
+2022 Bare Costs
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 8 31 13.35 | Industrial Floor Doors                                          |        |              |             |        |          |       |           |       |                |
+| 300  | Double leaf, 4' x 4' opening, 455 #                                  | 2 Sswk | 5            | 3.200       | Opng.  | 2,675    | 198   |           | 2,873 | 3,225          |
+| 350  | 5' x 5' opening, 645 #                                               |        | 4.50         | 3.556       |        | 3,150    | 220   |           | 3,370 | 3,825          |
+| 0001 | Aluminum, 300 psf LL., single leaf, 2' x 2', 60 #                    |        | 2.667        |             |        | 735      | 165   |           | 900   | 1,050          |
+| 050  | 3' x 3' opening, 100 #                                               |        | 5.50         | 2.909       |        | 890      | 180   |           | 1,070 | 1,250          |
+| 500  | Double leaf, 4' x 4' opening, 160 #                                  |        | 5            | 3.200       |        | 3,200    | 198   |           | 3,398 | 3,825          |
+| 550  | 5' x 5' opening, 235 #                                               |        | 4.50         | 3.556       |        | 4,125    | 220   |           | 4,345 | 4,875          |
+| 000  | Aluminum, 150 psf L.L., single leaf, 2' x 2', 60 #                   |        | 6            | 2.667       |        | 765      | 165   |           | 930   | 1,100          |
+| 050  | 3' x 3' opening, 95 #                                                |        | 5.50         | 2.909       |        | 1,150    | 180   |           | 1,330 | 1,525          |
+| 500  | Double leaf, 4' x 4' opening, 150 #                                  |        | 5            | 3.200       |        | 1,450    | 198   |           | 1,648 | 1,900          |
+| 550  | 5' x 5' opening, 230 #                                               |        | 4.50         | 3.556       |        | 1,950    | 220   |           | 2,170 | 2,500          |
+
+---
+
+# 08 31 13.40 - Kennel Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 010  | KENNEL DOORS                                                         |        |              |             |        |          |       |           |       |                |
+| 020  | 2 way, swinging type, 13" x 19" opening                              | 2 Carp | 11           | 1.455       | Opng.  | 87       | 82    |           | 169   | 218            |
+| 100  | 17" x 29" opening                                                    |        | 11           | 1.455       |        | 122      | 82    |           | 204   | 256            |
+| 200  | 9" x 9" opening, electronic with accessories                         |        | 11           | 1.455       |        | 154      | 82    |           | 236   | 292            |
+
+---
+
+# 08 32 13 - Sliding Glass Doors
+
+## 08 32 13 - Sliding Aluminum-Framed Glass Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 8 32 13.10 | Sliding Aluminum Doors                                         |        |              |             |        |          |       |           |       |                |
+| 010  | SLIDING ALUMINUM DOORS                                               |        |              |             |        |          |       |           |       |                |
+| 350  | Aluminum, 5/8" tempered insulated glass, 6' wide                     | 2 Carp | 4            | 4           | Ea.    | 1,500    | 225   |           | 1,725 | 1,975          |
+| 400  | Premium                                                              |        | 4            | 4           |        | 1,500    | 225   |           | 1,725 | 1,975          |
+| 450  | Economy                                                              |        | 4            | 4           |        | 860      | 225   |           | 1,085 | 1,275          |
+| 500  | 8' wide, premium                                                     |        | 3            | 5.333       |        | 1,725    | 300   |           | 2,025 | 2,350          |
+| 550  | Economy                                                              |        | 3            | 5.333       |        | 1,525    | 300   |           | 1,825 | 2,125          |
+| 600  | 12' wide, premium                                                    |        | 2.50         | 6.400       |        | 3,000    | 360   |           | 3,360 | 3,825          |
+| 650  | Economy                                                              |        | 2.50         | 6.400       |        | 1,525    | 360   |           | 1,885 | 2,200          |
+| 000  | Aluminum, baked on enamel, temp glass, 6'-8" x 10'-0" wide           |        | 4            | 4           |        | 1,150    | 225   |           | 1,375 | 1,600          |
+| 020  | Insulating glass, 6'8" x 6'0" wide                                   |        | 4            | 4           |        | 950      | 225   |           | 1,175 | 1,375          |
+| 040  | 8'0" wide                                                            |        | 3            | 5.333       |        | 1,125    | 300   |           | 1,425 | 1,700          |
+| 060  | 10'-0" wide                                                          |        | 2            | 8           |        | 1,300    | 450   |           | 1,750 | 2,100          |
+| 080  | Anodized, temp glass, 6'-8" x 6'-0" wide                             |        | 432          | 4           |        | 465      | 225   |           | 690   | 850            |
+| 100  | 8'0" wide                                                            |        |              | 5.333       |        | 585      | 300   |           | 885   | 1,100          |
+| 120  | 10'0" wide                                                           |        |              | 8           |        | 690      | 450   |           | 1,140 | 1,425          |
+
+---
+
+## 000 - Aluminum Sliding Glass Door System
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 010  | Sliding door 4' wide opening single side                             | 2 Carp | 222222       | 8           | Ea.    | 6,375    | 450   |           | 6,825 | 7,675          |
+| 015  | 8' wide opening single side                                          |        |              | 8           |        | 1,700    | 450   |           | 2,150 | 2,550          |
+| 020  | Telescoping glass door system, 4' wide opening biparting             |        |              | 8           |        | 5,475    | 450   |           | 5,925 | 6,700          |
+| 025  | 8' wide opening biparting                                            |        |              | 8o          |        | 6,375    | 450   |           | 6,825 | 7,675          |
+| 030  | Folding glass door, 4' wide opening biparting                        |        |              | 8o          |        | 8,500    | 450   |           | 8,950 | 10,000         |
+| 335  | 8' wide opening biparting                                            |        |              | 8∞∞         |        | 5,100    | 450   |           | 5,550 | 6,275          |
+| 040  | ICU-CCU sliding telescoping glass door, 4'x7', single side opening   | 22     |              | 8           |        | 3,250    | 450   |           | 3,700 | 4,250          |
+| 345  | 8'x7', single side opening                                           |        |              | 8           |        | 4,950    | 450   |           | 5,400 | 6,100          |
+
+---
+
+# 08 32 19 - Sliding Wood-Framed Glass Doors
+
+## 8 32 19.15 - Sliding Glass Vinyl-Clad Wood Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 010  | SLIDING GLASS VINYL-CLAD WOOD DOORS                                  |        |              |             |        |          |       |           |       |                |
+| 020  | Glass, sliding vinyl clad, insul. glass, 6'-0" x 6'8"                | 5G55 2 Carp | 4      | 4           | Opng.  | 1,575    | 2222  |           | 1,800 | 2,050          |
+| 025  | 6-0" x 6'-10" high                                                   | G      |              | 4           |        | 1,725    |       |           | 1,950 | 2,225          |
+| 030  | 6-0" x 8'-0" high                                                    | G      |              | 4           |        | 2,125    |       |           | 2,350 | 2,650          |
+| 350  | 5-0" x 6'-8" high                                                    | G      | 4            | 4           | 4      | 1,650    |       |           | 1,875 | 2,150          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00832 Sliding Glass Doors
+
+Sliding9 - Sliding Wood-FramGlassass Doors  
+08 32 1DoorsSliding Glass Vinyl-Clad Wood Doors
+
+---
+
+## Table: Door and Grille Costs
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 08 32 19 - Sliding Wood-Framed Glass Doors                                   |              |              |             |        |          |       |           |       |                |
+| 08 32 19.15 Sliding Glass Vinyl-Clad Wood Doors                              |              |              |             |        |          |       |           |       |                |
+| 0100  | 8'-0" x 6'-10" high                                                  | G 2 Carp     | 4            | 4           | Opng . | 2,250    | 225   |           | 2,475 | 2,80           |
+| 0500  | 4 leaf, 9'-0" x 6'-10" high                                          | G            | 3            | 5.333       |        | 3,275    | 300   |           | 3,575 | 4,05           |
+| 0600  | 12'-0" x 6'-10" high                                                 | G            | 3            | 5.333       |        | 4,250    | 300   |           | 4,550 | 5,12           |
+| 08 33 Coiling Doors and Grilles                                              |              |              |             |        |          |       |           |       |                |
+| 08 33 13 Coiling Counter Doors                                               |              |              |             |        |          |       |           |       |                |
+| 08 33 13.10 Counter Doors, Coiling Type                                      |              |              |             |        |          |       |           |       |                |
+| 0010  | COUNTER DOORS, COILING TYPE                                          |              |              |             |        |          |       |           |       |                |
+| 0020  | Manual, incl.frame and hardware, galv. stl., 4' rollup, 6' long      | 2 Carp       | 2            | 8           | Opng . | 1,350    | 450   |           | 1,800 | 2,15           |
+| 0300  | Galvanized steel, UL label                                           | 2            | 1.80         | 8.889       |        | 1,350    | 500   |           | 1,850 | 2,22           |
+| 0600  | Stainless steel, 4' high rol-up, 6' long                             |              | 2            | 8           |        | 2,250    | 450   |           | 2,700 | 3,15           |
+| 0700  | 10' long                                                             |              | 1.80         | 8.889       |        | 2,725    | 500   |           | 3,225 | 3,72           |
+| 2000  | Aluminum, 4' high, 4' long                                           |              | 2.20         | 7.273       |        | 1,875    | 410   |           | 2,285 | 2,67           |
+| 2020  | 6' long                                                              |              | 2            | 8           |        | 2,525    | 450   |           | 2,975 | 3,45           |
+| 2040  | 8' long                                                              |              | 1.90         | 8.421       |        | 2,400    | 475   |           | 2,875 | 3,32           |
+| 2060  | 10' long                                                             |              | 1.80         | 8.889       |        | 2,375    | 500   |           | 2,875 | 3,37           |
+| 2080  | 14' long                                                             |              | 1.40         | 11.429      |        | 3,650    | 645   |           | 4,295 | 4,97           |
+| 2100  | 6' high, 4' long                                                     |              | 2            | 8           |        | 2,575    | 450   |           | 3,025 | 3,50           |
+| 2120  | 6' long                                                              |              | 1.60         | 10          |        | 1,875    | 565   |           | 2,440 | 2,90           |
+| 2140  | 10' long                                                             |              | 1.40         | 11.429      |        | 2,475    | 645   |           | 3,120 | 3,67           |
+| 08 33 16 Coiling Counter Grilles                                             |              |              |             |        |          |       |           |       |                |
+| 08 33 16.10 Coiling Grilles                                                  |              |              |             |        |          |       |           |       |                |
+| 0010  | COILING GRILLES                                                      |              |              |             |        |          |       |           |       |                |
+| 0015  | Aluminum, manual, incl.frame, mill finish                            |              |              |             |        |          |       |           |       |                |
+| 0020  | Top coiling, 4' high, 4' long                                        | 2 Sswk       | 3.20         | 55          | Opng . | 1,525    | 310   |           | 1,835 | 2,153          |
+| 0030  | 6' long                                                              | t            | 3.20         | 5           |        | 1,825    | 310   |           | 2,135 | 2,47           |
+| 0040  | 8' long                                                              |              | 2.40         | 6.667       |        | 2,000    | 410   |           | 2,410 | 2,82           |
+| 0050  | 12' long                                                             |              | 2.40         | 6.667       |        | 2,475    | 410   |           | 2,885 | 3,3385         |
+| 0060  | 16' long                                                             |              | 1.60         | 10          |        | 2,650    | 620   |           | 3,270 | 3,85           |
+| 0070  | 6' high, 4' long                                                     |              | 3.20         | 5           |        | 1,850    | 310   |           | 2,160 | 2,50           |
+| 0080  | 6' long                                                              |              | 3.20         | 5           |        | 1,800    | 310   |           | 2,110 | 2,47           |
+| 0090  | 8' long                                                              |              | 2.40         | 6.667       |        | 1,775    | 410   |           | 2,185 | 2,57           |
+| 0100  | 12' long                                                             |              | 1.60         | 10          |        | 2,350    | 620   |           | 2,970 | 3,52           |
+| 0110  | 16' long                                                             |              | 1.20         | 13.333      |        | 2,850    | 825   |           | 3,675 | 4,40           |
+| 0200  | Side coiling, 8' high, 12' long                                      |              | .60          | 26.667      |        | 2,300    | 1,650 |           | 3,950 | 5,088          |
+| 0220  | 18' long                                                             |              | .50          | 32          |        | 5,250    | 1,975 |           | 7,225 | 8,82           |
+| 0240  | 24' long                                                             |              | .40          | 40          |        | 3,875    | 2,475 |           | 6,350 | 8,05           |
+| 0260  | 12' high, 12' long                                                   |              | .50          | 32          |        | 3,325    | 1,975 |           | 5,300 | 6,72           |
+| 0280  | 18' long                                                             |              | .40          | 40          |        | 5,275    | 2,475 |           | 7,750 | 9,60           |
+| 0300  | 24' long                                                             |              | .28          | 57.143      |        | 6,625    | 3,525 |           | 10,150| 12,70          |
+| 08 33 23 - Overhead Coiling Doors                                            |              |              |             |        |          |       |           |       |                |
+| 08 33 23.10 Coiling Service Doors                                            |              |              |             |        |          |       |           |       |                |
+| 0010  | COILING SERVICE DOORS Steel, manual, 20 ga., incl. hardware          |              |              |             |        |          |       |           |       |                |
+| 0050  | 8' x 8' high                                                         | 2 Sswk       | 1.60         | 10          | Ea .   | 535      | 620   |           | 1,155 | 1,55           |
+| 0100  | 10' x 10' high                                                       |              | 1.40         | 11.429      |        | 785      | 705   |           | 1,490 | 1,97           |
+| 0200  | 20' x 10' high                                                       |              | 1            | 16          |        | 3,025    | 990   |           | 4,015 | 4,85           |
+| 0300  | 12' x 12' high                                                       |              | 1.20         | 13.333      |        | 1,050    | 825   |           | 1,875 | 2,42           |
+| 0400  | 20' x 12' high                                                       |              | .90          | 17.778      |        | 3,025    | 1,100 |           | 4,125 | 5,02           |
+| 0500  | 14' x 14' high                                                       |              | .80          | 20          |        | 1,825    | 1,225 |           | 3,050 | 3,90           |
+| 0600  | 20' x 16' high                                                       |              | .60          | 26.667      |        | 2,525    | 1,650 |           | 4,175 | 5,32           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 33 Coiling Doors and Grilles  
+## 08 33 23 - Overhead Coiling Doors  
+### 08 33 23.10 Coiling Service Grilles
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0700 | 10' x 20' high                                                       | 2 Sswk | .50          | 32          | Ea.  | 1,600    | 1,975 |           | 3,575 | 4,825          |
+| 1000 | 12' x 12', crank operated, crank on door side                        |        | .80          | 20          |      | 1,075    | 1,225 |           | 2,300 | 3,100          |
+| 1100 | Crank thru wall                                                      |        | .70          | 22.857      |      | 2,500    | 1,425 |           | 3,925 | 4,925          |
+| 1300 | For vision panel, add                                                |        |              |             |      | 144      |       |           | 144   | 158            |
+| 1600 | 3' x 7' pass door within rolling steel door, new construction        |        |              |             |      | 985      |       |           | 985   | 1,075          |
+| 1700 | Existing construction                                                | 2 Sswk | 2            | 8           |      | 675      | 495   |           | 1,170 | 1,500          |
+| 2000 | Class A fire doors, manual, 20 ga, 8' x 8' high                      |        | 1.40         | 11.429      |      | 1,875    | 705   |           | 2,580 | 3,175          |
+|12100 | 10' x 10' high                                                       |        | 1.10         | 14.545      |      | 3,100    | 900   |           | 4,000 | 4,775          |
+| 2200 | 20' x 10' high                                                       |        | .80          | 2022        |      | 5,300    | 1,225 |           | 6,525 | 7,725          |
+| 2300 | 12' x 12' high                                                       |        | 1            | 16          |      | 4,075    | 990   |           | 5,065 | 6,025          |
+| 2400 | 20' x 12' high                                                       |        | .80          | 20          |      | 5,700    | 1,225 |           | 6,925 | 8,175          |
+| 2500 | 14' x 14' high                                                       |        | .60          | 26.667      |      | 4,450    | 1,650 |           | 6,100 | 7,450          |
+| 2600 | 20' x 16' high                                                       |        | .50          | 322         |      | 6,175    | 1,975 |           | 8,150 | 9,850          |
+| 2700 | 10' x 20' high                                                       |        | .40          | 40 1        |      | 5,625    | 2,475 |           | 8,100 | 9,975          |
+| 3000 | For 18 ga. doors, add                                                |        |              |             | S.F. | 1.59     |       |           | 1.59  | 1.75           |
+| 3300 | For enamel finish, add                                               |        |              |             | "    | 2.97     |       |           | 2.97  | 3.27           |
+| 3600 | For safety edge bottom bar, pneumatic, add                           |        |              |             | LF.  | 29.50    |       |           | 29.50 | 32             |
+| 3700 | Electric, add                                                        |        |              |             |      | 51       |       |           | 51    | 56             |
+| 4000 | For weatherstripping, extruded rubber, jambs, add                    |        |              |             |      | 2.21     |       |           | 2.21  | 2.43           |
+| 4100 | Hood, add                                                            |        |              |             |      | 9.50     |       |           | 9.50  | 10.45          |
+| 4200 | Sil, add                                                             |        |              |             |      | 9.65     |       |           | 9.65  | 10.60          |
+| 4500 | Motor operators, to 14' x 14' opening                                | 2 Sswk | 5            | 3.200       | Ea.  | 970      | 198   |           | 1,168 | 1,375          |
+| 4600 | Over 14' x 14', jack shaft type                                      |        | 5            | 3.200       |      | 920      | 198   |           | 1,118 | 1,300          |
+| 4700 | For fire door, additional fusible link, add                          |        |              |             | -    | 80.50    |       |           | 80.50 | 88.50          |
+
+---
+
+# 08 34 Special Function Doors  
+## 08 34 13 - Cold Storage Doors  
+### 08 34 13.10 Doors for Cold Area Storage
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|-------|----------------|
+| 0010 | DOORS FOR COLD AREA STORAGE                                          |        |              |             |      |          |         |           |       |                |
+| 0020 | Single, 20 ga. galvanized steel                                      |        |              |             |      |          |         |           |       |                |
+| 0300 | Horizontal sliding, 5' x 7', manual operation, 3.5" thick            | 2 Carp | 2.7          | co          | Ea.  | 3,300    | 4504422 |           | 3,750 | 4,300          |
+| 0400 | 4" thick                                                             | 2      | 8o           |             |      | 3,850    | 450     |           | 4,300 | 4,900          |
+| 0500 | 6" thick                                                             | 281    |              |             |      | 3,800    | 450     |           | 4,250 | 4,850          |
+| 0800 | 5' x 7', power operation, 2" thick                                   |        | 1.90         | 8.421       |      | 5,475    | 475     |           | 5,950 | 6,700          |
+| 0900 | 4" thick                                                             |        | 1.90         | 8.421       |      | 6,300    | 475     |           | 6,775 | 7,625          |
+| 1000 | 6" thick                                                             |        | 1.90         | 8.421       |      | 7,175    | 475     |           | 7,650 | 8,600          |
+| 1300 | 9' x 10', manual operation, 2" insulation                            |        | 1.70         | 9.412       |      | 4,775    | 530     |           | 5,305 | 6,050          |
+| 1400 | 4" insulation                                                        |        | 1.70         | 9.412       |      | 5,400    | 530     |           | 5,930 | 6,750          |
+| 1500 | 6" insulation                                                        |        | 1.70         | 9.412       |      | 5,450    | 530     |           | 5,980 | 6,800          |
+| 1800 | Power operation, 2" insulation                                       |        | 1.60         | 153         |      | 7,525    | 565     |           | 8,090 | 9,125          |
+| 1900 | 4" insulation                                                        |        | 1.60         |             |      | 8,575    | 565     |           | 9,140 | 10,300         |
+| 2000 | 6" insulation                                                        |        | 1.70         | 9.412       |      | 9,075    | 530     |           | 9,605 | 10,800         |
+| 2300 | For stainless steel face, add                                        |        |              |             |      | 25 %     |         |           |       |                |
+| 3000 | Hinged, lightweight, 3' x 7'-0", 2" thick                            | 2 Carp | 2            | 8           | Eq.  | 1,375    | 450     |           | 1,825 | 2,200          |
+| 3050 | 4" thick                                                             |        | 1.90         | 8.421       |      | 1,725    | 475     |           | 2,200 | 2,600          |
+| 3300 | Polymer doors, 3' x 7'-0"                                            |        | 1.90         | 8.421       |      | 1,475    | 475     |           | 1,950 | 2,325          |
+| 3350 | 6" thick                                                             |        | 1.40         | 11.429      |      | 2,575    | 645     |           | 3,220 | 3,800          |
+| 3600 | Stainless steel, 3' x 7'-0", 4" thick                                |        | 1.90         | 8.421       |      | 1,950    | 475     |           | 2,425 | 2,850          |
+| 3650 | 6" thick                                                             |        | 1.40         | 11.429      |      | 3,175    | 645     |           | 3,820 | 4,450          |
+| 3900 | Pointed, 3' x 7' 0", 4" thick                                        |        | 1.90         | 8.421       |      | 1,475    | 475     |           | 1,950 | 2,300          |
+| 3950 | 6" thick                                                             |        | 1.40         | 11.429      |      | 2,600    | 645     |           | 3,245 | 3,800          |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Bi08arting, ele34ric operateSpecial Special Function DoorsFunction3 - Cold Storage Doors
+
+## 08 Doors 3.10 Doors for Cold Area Storage
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 5000 | Bi parting, electric operated                                        |        |              |             |        |          |       |           |        |                |
+| 5010 | 6' x 8' opening, galv. faces, 4" thick for cooler                    | 2 Carp | .80          | 20          | Opng . | 7,975    | 1,125 |           | 9,100  | 10,5           |
+| 5050 | For freezer, 4" thick                                                |        | .80          | 20          |        | 8,775    | 1,125 |           | 9,900  | 11,3           |
+| 5300 | For door buck framing and door protection, add                       |        | 2.50         | 6.400       |        | 710      | 360   |           | 1,070  | 1,3            |
+| 6000 | Galvanized batten door, galvanized hinges, 4' x 7'                   | 2      | 8            |             |        | 2,100    | 450   |           | 2,550  | 2,9            |
+| 6050 | 6'x8'                                                                |        | 1.80         | 8.889       |        | 2,750    | 500   |           | 3,250  | 3,7            |
+| 6500 | Fire door, 3 hr., 6' x 8', single slide                              |        | .80          | 20          |        | 9,450    | 1,125 |           | 10,575 | 12,1           |
+| 6550 | Double, bi-parting                                                   |        | .70          | 22.857      |        | 12,100   | 1,275 |           | 13,375 | 15,2           |
+
+---
+
+## 08 34 36 - Darkroom Doors
+
+### 08 34 36.10 Various Types of Darkroom Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | VARIOUS TYPES OF DARKROOM DOORS                                      |        |              |             |        |          |       |           |        |                |
+| 0015 | Revolving, standard, 2 way, 36" diameter                             | 2 Carp | 3.10         | 5.161       | Opng . | 3,800    | 291   |           | 4,091  | 4,6            |
+| 0020 | 41" diameter                                                         |        | 3.10         | 5.161       |        | 3,525    | 291   |           | 3,816  | 4,3            |
+| 0050 | 3 way, 51" diameter                                                  |        | 1.40         | 11.429      |        | 5,350    | 645   |           | 5,995  | 6,8            |
+| 1000 | 4 way, 49" diameter                                                  |        | 1.40         | 11.429      |        | 4,100    | 645   |           | 4,745  | 5,4            |
+| 2000 | Hinged safety, 2 way, 41" diameter                                   |        | 2.30         | 6.957       | [      | 4,250    | 390   |           | 4,640  | 5,2            |
+| 2500 | 3 way, 51" diameter                                                  |        | 1.40         | 11.429      |        | 5,575    | 645   |           | 6,220  | 7,0            |
+| 3000 | Pop out safety, 2 way, 41" diameter                                  |        | 3.10         | 5.161       |        | 4,325    | 291   |           | 4,616  | 5,1            |
+| 4000 | 3 way, 51" diameter                                                  |        | 1.40         | 11.429      |        | 6,250    | 645   |           | 6,895  | 7,8            |
+| 5000 | Wheelchair-type, pop out, 51" diameter                               |        | 1.40         | 11.429      |        | 6,275    | 645   |           | 6,920  | 7,8            |
+| 5020 | 72" diameter                                                         |        | .90          | 17.778      |        | 11,800   | 1,000 |           | 12,800 | 14,5           |
+| 9300 | For complete darkrooms, see Section 13 21 53.50                      |        |              |             |        |          |       |           |        |                |
+
+---
+
+## 08 34 53 Security Doors and Frames
+
+### 08 34 53.20 Steel Door
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | STEEL DOOR flush with ballisticcore and welded frame both 14 ga.     |        |              |             |        |          |       |           |        |                |
+| 0120 | UL 752 Level 3, 1-3/4", 3'0" x 7'0"                                 | 2 Carp | 1.50         | 10.667      | Opng . | 2,600    | 600   |           | 3,200  | 3,7            |
+| 0125 | 1-3/4", 3'-6" x 7'-0"                                               |        | 1.50         | 10.667      |        | 2,700    | 600   |           | 3,300  | 3,8            |
+| 0130 | 1-3/4", 4'-0" x 7'-0"                                               |        | 1.20         | 13.333      |        | 2,800    | 750   |           | 3,550  | 4,2            |
+| 0150 | UL 752 Level 8, 1-3/4", 3'0" x 7'0"                                 |        | 1.50         | 10.667      |        | 6,450    | 600   |           | 7,050  | 8,0            |
+| 0155 | 1-3/4", 3'-6" x 7'-0"                                               |        | +1.50        | 10.667      |        | 6,600    | 600   |           | 7,200  | 8,1            |
+| 0160 | 1-3/4", 4'-0" x 7'-0"                                               |        | 1.20         | 13.333      |        | 6,700 1  | 750   |           | 7,450  | 8,4            |
+| 1000 | Safe room sliding door and hardware, 1-3/4", 3'-0" x 7'-0" UL 752 L3|        | .50          | 321         |        | 19,000   | 1,800 |           | 20,800 | 23,6           |
+| 1050 | Safe room swinging door and hardware, 1-3/4", 3'-0" x 7'0" UL 752 L3|        | .50          | 32          |        | 22,800   | 1,800 |           | 24,600 | 27,8           |
+
+### 08 34 53.30 Wood Ballistic Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | WOOD BALLISTIC DOORS with frames and hardware                        |        |              |             |        |          |       |           |        |                |
+| 0050 | Wood, 1-3/4", 3'0" x 7'-0" UL 752 Level 3                           | 2 Carp | 1.50         | 10.667      | Opng . | 3,425    | 000   |           | 4,025  | 4,6            |
+
+---
+
+## 08 34 56 - Security Gates
+
+### 08 34 56.10 Gates
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010 | GATES                                                                |        |              |             |        |          |       |           |        |                |
+| 0015 | Driveway gates include mounting hardware                             |        |              |             |        |          |       |           |        |                |
+| 0500 | Wood, security gate, driveway, dual, 10' wide                        | H-4    | .80          | 225222222   | Opng . | 3,525    | 1,325 |           | 4,850  | 5,8            |
+| 0505 | 12' wide                                                             |        | .80          | 25          |        | 3,825    | 1,325 |           | .5,150 | 6,1            |
+| 0510 | 15' wide                                                             |        | 80           | 25          |        | 4,425    | 1,325 |           | 5,750  | 6,8            |
+| 0600 | Steel, security gate, driveway, single, 10' wide                     |        | .80          | 25          |        | 2,700    | 1,325 |           | 4,025  | 4,9            |
+| 0605 | 12' wide                                                             |        | .80          | 25          |        | 3,250 ;  | 1,325 |           | 4,575  | 5,5            |
+| 0620 | Steel, security gate, driveway, dual, 12' wide                       |        | .80          | 25          |        | 2,800 !  | 1,325 |           | 4,125  | 5,0            |
+| 0625 | 14' wide                                                             |        | .80          | 25          |        | 3,275    | 1,325 |           | 4,600  | 5,5            |
+| 0630 | 16' wide                                                             |        | .80          | 25          |        | 2,350    | 1,325 |           | 3,675  | 4,5            |
+| 0700 | Aluminum, security gate, driveway, dual, 10' wide                    |        | .80          | 25          |        | 1,200    | 1,325 |           | 2,525  | 3,3            |
+| 0705 | 12' wide                                                             |        | .80          | 25          |        | 1,300    | 1,325 |           | 2,625  | 3,4            |
+| 0710 | 16' wide                                                             |        | .80   |   25   |        | 4,475    | 1,325 |           | 5,800  | 6,9            |
+
+---
+
+286 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 .
+
+# 08 34 Special Function Doors
+
+## 08 34 56 - Security Gates
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 1000 | Security gate, driveway, opener 12 VDC            |        |              |             | Ea.  | 2,375    |       |           | 2,375 | 2,600          |
+| 1010 | Wireless                                          |        |              |             |      | 1,925    |       |           | 1,925 | 2,125          |
+| 1020 | Security gate, driveway, opener 24 VDC            |        |              |             |      | 2,250    |       |           | 2,250 | 2,500          |
+| 1030 | Wireless                                          |        |              |             |      | 2,175    | 265   |           | 2,175 | 2,375          |
+| 1040 | Security gate, driveway, opener 12 VDC, solar panel 10 watt | 1 Elec | 2            | 4           |      | 2,325    | 265   |           | 2,590 | 2,975          |
+| 1050 | 20 watt                                           | #      | 2            | 4           |      | 1,250    | 265   |           | 1,515 | 1,775          |
+
+---
+
+## 08 34 59 - Vault Doors and Day Gates
+
+### 08 34 59.10 Secure Storage Doors
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SECURE STORAGE DOORS                              |        |              |             |      |          |       |           |       |                |
+| 0020 | Door and frame, 32" x 78", clear opening          |        |              |             |      |          |       |           |       |                |
+| 0100 | 1 hour test, 32" door, weighs 750 lb.             | 2 Sswk | 1.50         | 10.667      | Opng.| 9,025    | 660   |           | 9,685 | 11,000         |
+| 0200 | 2 hour test, 32" door, weighs 950 lb.             |        | 1.30         | 12.308      |      | 7,075    | 760   |           | 7,835 | 8,950          |
+| 0250 | 40" door, weighs 1130 lb.                         |        | 116          |             | 1    | 7,450    | 990   |           | 8,440 | 9,700          |
+| 0300 | 4 hour test, 32" door, weighs 1025 lb.            |        | 1.20         | 13.333      |      | 4,600    | 825   |           | 5,425 | 6,350          |
+| 0350 | 40" door, weighs 1140 lb.                         |        | .90          | 17.778      |      | 5,375    | 1,100 |           | 6,475 | 7,600          |
+| 0600 | For time lock, two movement, add                  | 1 Elec | 2            | 4           | Ea.  | 1,700    | 265   |           | 1,965 | 2,275          |
+| 0800 | Day gate, painted, steel, 32" wide                | 2 Sswk | 1.50         | 10.667      |      | 2,200    | 660   |           | 2,860 | 3,450          |
+| 0850 | 40" wide                                          |        | 1.40         | 11.429      |      | 2,800    | 705   |           | 3,505 | 4,175          |
+| 0900 | Aluminum, 32" wide                                |        | 1.50         | 10.667      |      | 3,125    | 660   |           | 3,785 | 4,475          |
+| 0950 | 40" wide                                          |        | 1.40         | 11.429+     |      | 3,425    | 705   |           | 4,130 | 4,850          |
+| 2050 | Security vault door, class 1, 3' wide, 3-1/2" thick | E 24   | .19          | 167.        | Opng.| 15,800   | 10,200| 10,900    | 36,900| 45,100         |
+| 2100 | Class I, 3' wide, 7" thick                        |        | .19          | 167         |      | 19,200   | 10,200| 10,900    | 40,300| 48,800         |
+| 2150 | Class II, 9R, 3' wide, 10" thick                  |        | .13          | 2501        |      | 23,700   | 15,400| 16,300    | 55,400| 67,500         |
+| 2160 | Class V, type 1, 40" door                         |        | 2.48         | 12.903      | Ea.  | 7,050    | 795   | 845       | 8,690 | 9,875          |
+| 2170 | Class V, type 2, 40" door                         |        | 2.48         | 12.903      |      | 6,925    | 795   | 845       | 8,565 | 9,750          |
+| 2180 | Day gate for class V vault                        | 2 Sswk | 2            | 8           |      | 1,875    | 495   |           | 2,370 | 2,800          |
+
+---
+
+## 08 34 73 - Sound Control Door Assemblies
+
+### 08 34 73.10 Acoustical Doors
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ACOUSTICAL DOORS                                  |        |              |             |      |          |       |           |       |                |
+| 0020 | Including framed seals, 3' x 7', wood, 40 STC rating | 2 Carp | 1.50         | 10.667      | Ea.  | 3,250    | 600   |           | 3,850 | 4,475          |
+| 0100 | Steel, 41 STC rating                              |        | 1.50         | 10.667      |      | 1,825    | 600   |           | 2,425 | 2,900          |
+| 0200 | 45 STC rating                                     |        | 1.50         | 10.667      |      | 2,275    | 600   |           | 2,875 | 3,400          |
+| 0300 | 48 STC rating                                     |        | 1.50         | 10.667      |      | 2,925    | 600   |           | 3,525 | 4,125          |
+| 0400 | 52 STC rating                                     |        | 1.50         | 10.667      |      | 5,150    | 600   |           | 5,750 | 6,575          |
+
+---
+
+# 08 36 Panel Doors
+
+## 08 36 13 - Sectional Doors
+
+### 08 36 13.10 Overhead Commercial Doors
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | OVERHEAD COMMERCIAL DOORS                         |        |              |             |      |          |       |           |       |                |
+| 1000 | Stock, sectional, heavy duty, wood, 1-3/4" thick, 8' x 8' high | 2 Carp | 2            | 8           | Ea.  | 1,200    | 450   |           | 1,650 | 2,000          |
+| 1100 | 10' x 10' high                                    |        | 1.80         | 8.889       |      | 1,700    | 500   |           | 2,200 | 2,625          |
+| 1200 | 12' x 12' high                                    |        | 1.50         | 10.667      |      | 2,775    | 600   |           | 3,375 | 3,950          |
+| 1300 | Chain hoist, 14' x 14' high                       |        | 1.30         | 12.308      |      | 3,775    | 695   |           | 4,470 | 5,175          |
+| 1400 | 12' x 16' high                                    |        |              | 16          |      | 3,775    | 900   |           | 4,675 | 5,500          |
+| 1500 | 20' x 8' high                                     |        | 1.30         | 12.270      |      | 2,900    | 690   |           | 3,590 | 4,200          |
+| 1600 | 20' x 16' high                                    |        | .65          | 24.615      |      | 7,125    | 1,375 |           | 8,500 | 9,925          |
+| 1800 | Center mullion openings, 8' high                  |        | 4            | 4           |      | 1,450    | 225   |           | 1,675 | 1,900          |
+| 1900 | 20' high                                          |        | 2            | 8           |      | 2,300    | 450   |           | 2,750 | 3,200          |
+| 2100 | For medium duty custom door, deduct               |        |              |             |      | 5%       | 5%    |           |       |                |
+| 2150 | For medium duty stock doors, deduct               |        |              |             |      | 10%      | 5%    |           |       |                |
+
+---
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 08086 Panel Doo36
+
+## 08 36 13 - Panelional Doors  
+08 36Doors0 Overhead Commercial Doors  
+Fiberglass and aluminum, heavy duty, sectional, 12' x 12' high  
+Chain hoist, 20' x 20' high  
+2300  
+2450  
+2600  
+2650  
+2700  
+2800  
+2850  
+2860  
+2900  
+2950  
+2980  
+Steel, 24 ga. sectional  
+
+---
+
+## 08 36 13 - Sectional Doors
+
+| ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 08 36 13.10 | Overhead Commercial Doors                                      |          |              |             |        |          |       |           |        |                |
+| 2300  | Fiberglass and aluminum, heavy duty, sectional, 12' x 12' high       | 2 Corp   | 1.50         | 10.667      | Ea.    | 3,375    | 600   |           | 3,975  | 4,625          |
+| 2450  | Chain hoist, 20' x 20' high                                          |          | .50          | 32          |        | 7,725    | 1,800 |           | 9,525  | 11,200         |
+| 2600  | Steel, 24 ga. sectional, manual, 8' x 8' high                        | 2        | 8            |             |        | 1,975    | 450   |           | 2,425  | 2,850          |
+| 2650  | 10' x 10' high                                                       |          | 1.80         | 8.889       |        | 1,550    | 500   |           | 2,050  | 2,450          |
+| 2700  | 12' x 12' high                                                       |          | 1.50         | 10.667      |        | 1,875    | 600   |           | 2,475  | 2,950          |
+| 2800  | Chain hoist, 20' x 14' high                                          |          | .70          | 22.857      | D      | 3,100    | 1,275 |           | 4,375  | 5,350          |
+| 2850  | For 1-1/4" rigid insulation and 26 ga. galv.                         |          |              |             |        |          |       |           |        |                |
+| 2860  | back panel, add                                                      |          |              |             | S.F.   | 5.90     |       |           | 5.90   | 6.5            |
+| 2900  | For electric trolley operator, 1/3 HP, to 12' x 12', add             | 1 Carp   | 2            | 48          | Ea.    | 865      | 225   |           | 1,090  | 1,300          |
+| 2950  | Over 12' x 12', 1/2 HP, add                                          |          |              |             |        | 865      | 450   |           | 1,315  | 1,625          |
+| 2980  | Overhead, for row of clear lite, add                                 |          |              | 8           |        | 262      | 450   |           | 712    | 960            |
+
+---
+
+## 08 36 13.20 - Residential Garage Doors
+
+| ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | RESIDENTIAL GARAGE DOORS                                             |          |              |             |        |          |       |           |        |                |
+| 0050  | Hinged, wood, custom, double door, 9' x 7'                           | 2 Carp   | 43           | 4           | Ea.    | 2,300    | 225   |           | 2,525  | 2,850          |
+| 0070  | 16' x 7'                                                             |          |              | 5.333       |        | 3,900    | 300   |           | 4,200  | 4,725          |
+| 0200  | Overhead, sectional, incl. hardware, fiberglass, 9' x 7', standard   |          | 5            | 3.200       |        | 960      | 180   |           | 1,140  | 1,325          |
+| 0220  | Deluxe                                                               |          | 5            | 3.200       |        | 1,175    | 180   |           | 1,355  | 1,550          |
+| 0300  | 16' x 7', standard                                                   | 8688     | 2.667        |             |        | 2,175    | 150   |           | 2,325  | 2,625          |
+| 0320  | Deluxe                                                               |          |              | 2.667       |        | 2,400    | 150   |           | 2,550  | 2,875          |
+| 0500  | Hardboard, 9' x 7', standard                                         |          |              | 2           |        | 730      | 113   |           | 843    | 970            |
+| 0520  | Deluxe                                                               |          |              | 2           |        | 930      | 113   |           | 1,043  | 1,200          |
+| 0600  | 16' x 7', standard                                                   | 6        | 2.667        |             |        | 1,350    | 150   |           | 1,500  | 1,700          |
+| 0620  | Deluxe                                                               | 6        | 2.667        |             |        | 1,650    | 150   |           | 1,800  | 2,050          |
+| 0700  | Metal, 9' x 7', standard                                             | 1        | 8            | 2           |        | 605      | 113   |           | 718    | 835            |
+| 0720  | Deluxe                                                               | 6        | 12.667       |             |        | 1,450    | 150   |           | 1,600  | 1,825          |
+| 0800  | 16' x 7', standard                                                   | 6        | 2.667        |             |        | 935      | 150   |           | 1,085  | 1,250          |
+| 0820  | Deluxe                                                               | 5        | 3.200        |             |        | 1,625    | 180   |           | 1,805  | 2,050          |
+| 0900  | Wood, 9' x 7', standard                                              | 8        | 2            |             |        | 2,300    | 113   |           | 2,413  | 2,700          |
+| 0920  | Deluxe                                                               | 8        | 2            |             |        | 2,375    | 113   |           | 2,488  | 2,775          |
+| 1000  | 16' x 7', standard                                                   | 6        | 2.667        |             |        | 3,500    | 150   |           | 3,650  | 4,075          |
+| 1020  | Deluxe                                                               | 76       | 2.667        |             |        | 3,175    | 150   |           | 3,325  | 3,700          |
+| 1800  | Door hardware, sectional                                             | 1 Carp   | 4            | 2           |        | 370      | 113   |           | 483    | 580            |
+| 1810  | Door tracks only                                                     |          | 4            | 2           |        | 173      | 113   |           | 286    | 360            |
+| 1820  | One side only                                                        |          | 7            | 1.143       |        | 123      | 64.50 |           | 187.50 | 231            |
+| 4000  | For electric operator, economy, add                                  |          | 8            | 1           |        | 440      | 56.50 |           | 496.50 | 570            |
+| 4100  | Deluxe, including remote control                                     |          | 8            | 1           |        | 640      | 56.50 |           | 696.50 | 790            |
+| 4500  | For transmitter/receiver control, add to operator                    |          |              |             | Total  | 117      |       |           | 117    | 129            |
+| 4600  | Transmitters, additional                                             |          |              |             |        | 68.50    |       |           | 68.50  | 75.            |
+
+---
+
+## 08 36 19 - Multi-Leaf Vertical Lift Doors
+
+### 08 36 19.10 - Sectional Vertical Lift Doors
+
+| ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|----------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | SECTIONAL VERTICAL LIFT DOORS                                        |          |              |             |        |          |       |           |        |                |
+| 0020  | Motorized, 14 ga. steel, incl. frame and control panel               |          |              | 68          |        |          |       |           |        |                |
+| 0050  | 16' x 16' high                                                       | 1-10     | .50          | 48          | Ea.    | 22,400   | 3,025 | 3,975     | 29,400 | 33,700         |
+| 0100  | 10' x 20' high                                                       |          | 1.30         | 18.462      |        | 38,800   | 1,175 | 1,525     | 41,500 | 46,200         |
+| 0120  | 15' x 20' high                                                       |          | 1.30         | 18.462      |        | 47,300   | 1,175 | 1,525     | 50,000 | 55,500         |
+| 0140  | 20' x 20' high                                                       | 1        |              | 24          |        | 55,500   | 1,525 | 1,975     | 59,000 | 65,500         |
+| 0160  | 25' x 20' high                                                       | 1        |              | 24          |        | 56,000   | 1,525 | 1,975     | 59,500 | 66,000         |
+| 0170  | 32' x 24' high                                                       |          | .75          | 32          |        | 52,000   | 2,025 | 2,650     | 56,675 | 63,000         |
+| 0180  | 20' x 25' high                                                       | 1        |              | 24          |        | 58,000   | 1,525 | 1,975     | 61,500 | 68,000         |
+| 0200  | 25' x 25' high                                                       |          | .70          | 34.286      |        | 80,500   | 2,150 | 2,825     | 85,475 | 95,000         |
+| 0220  | 25' x 30' high                                                       |          | .70          | 34.286      |        | 84,500   | 2,150 | 2,825     | 89,475 | 99,500         |
+| 0240  | 30' x 30' high                                                       |          | .70          | 34.286      |        | 93,000   | 2,150 | 2,825     | 97,975 | 108,500        |
+
+---
+
+288 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 36 19 - Multi-Leaf Vertical Lift Doors
+
+## 08 36 19.10 Sectional Vertical Lift Doors
+
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0260 | 35' x 30' high                       | L-10 | .70          | 34.286      | Ea.  | 101,500  | 2,150 | 2,825     | 106,475 | 118,000        |
+
+# 08 38 Traffic Doors
+
+## 08 38 13 - Flexible Strip Doors
+
+### 08 38 13.10 Flexible Transparent Strip Doors
+
+| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit    | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------|------|--------------|-------------|---------|----------|-------|-----------|--------|----------------|
+| 0010 | FLEXIBLE TRANSPARENT STRIP DOORS                 |      |              |             |         |          |       |           |        |                |
+| 0100 | 12" strip width, 2/3 overlap                     | 3 Shee | 135        | .178        | SF Surf | 7.65     | 12    |           | 19.65  | 26.50          |
+| 0200 | Fulloverlap                                      |       | 115         | .209        |         | 9.10     | 14.10 |           | 23.20  | 31             |
+| 0220 | 8" strip width, 1/2 overlap                      |       | 140         | .171        |         | 6.20     | 11.60 |           | 17.80  | 24.50          |
+| 0240 | Fulloverlap                                      |       | 120.200     |             |         | 8.55     | 13.50 |           | 22.05  | 30             |
+| 0300 | Add for suspension system, header mount          |       |             |             | LF.     | 8.75     |       |           | 8.75   | 9.65           |
+| 0400 | Wall mount                                       |       |             |             | "       | 9.55     |       |           | 9.55   | 10.50          |
+
+## 08 38 19 Rigid Traffic Doors
+
+### 08 38 19.20 Double Acting Swing Doors
+
+| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | DOUBLE ACTING SWING DOORS                        |      |              |             |      |          |       |           |        |                |
+| 0020 | Including frame, closer, hardware and vision panel|      |              |             |      |          |       |           |        |                |
+| 1000 | Polymer, 7' 0" high, 4' 0" wide                  | 2 Carp | 4.20       | 3.810       | Pr.  | 2,025    | 214   |           | 2,239  | 2,550          |
+| 1025 | 6' 0" wide                                       |       | 4           | 4           |      | 2,500    | 225   |           | 2,725  | 3,075          |
+| 1050 | 6' 8" wide                                       |       | 4           | 42,650      |      |          | 225   |           | 2,875  | 3,250          |
+| 2000 | 3/4" thick, stainless steel                      |       |              |             |      |          |       |           |        |                |
+| 2010 | Stainless steel, 7' high opening, 4' wide         | 2 Carp | 4          |             | Pr.  | 2,500    | 225   |           | 2,725  | 3,075          |
+| 2050 | 7' wide                                          | 1 "   | 3.80        | 4.211       | "    | 2,700    | 237   |           | 2,937  | 3,325          |
+
+### 08 38 19.30 Shock Absorbing Doors
+
+| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SHOCK ABSORBING DOORS                            |      |              |             |      |          |       |           |        |                |
+| 0020 | Rigid, no frame, 1-1/2" thick, 5' x 7'           | 2 Sswk | 1.90       | 8.421       | Opng.| 1,525    | 520   |           | 2,045  | 2,475          |
+| 0100 | 8' x 8'                                          |       | 1.80        | 8.889       |      | 3,100    | 550   |           | 3,650  | 4,250          |
+| 0500 | Flexible, no frame, insulated, .16" thick, economy, 5' x 7' | 2 | 8      |             |      | 2,850    | 495   |           | 3,345  | 3,875          |
+| 0600 | Deluxe                                           |       | 1.90        | 8.421       |      | 3,550    | 520   |           | 4,070  | 4,700          |
+| 1000 | 8' x 8' opening, economy                         | 2     | 8           |             |      | 3,100    | 495   |           | 3,595  | 4,150          |
+| 1100 | Deluxe                                           |       | 1.90        | 8.421       |      | 3,500    | 520   |           | 4,020  | 4,650          |
+
+# 08 41 Entrances and Storefronts
+
+## 08 41 13 - Aluminum-Framed Entrances and Storefronts
+
+### 08 41 13.20 Tube Framing
+
+| ID   | Name/Description                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | TUBE FRAMING, For window walls and storefronts, aluminum stock |      |              |             |      |          |       |           |        |                |
+| 0050 | Plain tube frame, mill finish, 1-3/4" x 1-3/4"   | 2 Glaz | 103         | .155        | LF   | 10.95    | 8.40  |           | 19.35  | 24.50          |
+| 0150 | 1-3/4" x 4"                                      |       | 98           | .163        |      | 15.60    | 8.80  |           | 24.40  | 30.50          |
+| 0200 | 1-3/4" x 4-1/2"                                  |       | 95           | .168        |      | 17.20    | 9.10  |           | 26.30  | 48350          |
+| 0250 | 2" x 6"                                          |       | 89           | .180        |      | 30.50    | 9.70  |           | 40.20  | 48             |
+| 0350 | 4" x 4"                                          |       | 87           | .184        |      | 25       | 9.95  |           | 34.95  | 42.50          |
+| 0400 | 4-1/2" x 4-1/2"                                  |       | 85           | .188        |      | 31.50    | 10.15 |           | 41.65  | 49.50          |
+| 0450 | Glass bead                                       |       | 240          | .067        |      | 3.45     | 3.60  |           | 7.05   | 9.15           |
+| 1000 | Flush tube frame, mill finish, 1/4" glass, 1-3/4" x 4", open header | | 80 | .200 |      | 15.65    | 10.80 |           | 26.45  | 33.50          |
+| 1050 | Open sill                                        |       | 82           | .195        |      | 13.95    | 10.55 |           | 24.50  | 31             |
+| 1100 | Closed back header                               |       | 83           | .193        |      | 24.50    | 10.40 |           | 34.90  | 42.50          |
+| 1150 | Closed back sill                                 |       | 85           | .188        |      | 23.50    | 10.15 |           | 33.65  | 41             |
+| 1160 | Tube fmg., spandrel cover both sides, alum 1" wide | 1 Sswk | 85        | .094        | S.F  | 100      | 5.80  |           | 105.80 | 119            |
+| 1170 | Tube fmg., spandrel cover both sides, alum 2" wide | "     | 85          | .094        | "    | 41       | 5.80  |           | 46.80  | 54             |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 Entrances and Storefronts
+
+## 08 41 13 Aluminum-Framed Entrances and Storefronts
+
+### 08 41 13.20 Tube Framing
+
+| ID   | Name                                                                                                   | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------------------------------------------------------------------------|-----------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 1200 | Vertical mullion, one piece                                                                            | 2 Glaz    | 75           | .213        | LF   | 21.50    | 11.50  |           | 33     | 41             |
+| 1250 | Two piece                                                                                              |           | 73           | .219        |      | 23.50    | 11.85  |           | 35.35  | 43             |
+| 1300 | 90° or 180° vertical corner post                                                                       |           | 75           | .213        |      | 36.50    | 11.50  |           | 48     | 57             |
+| 1400 | 1-3/4" x 4-1/2", open header                                                                           |           | 80           | .200        |      | 18.40    | 10.80  |           | 29.20  | 36.5           |
+| 1450 | Open sill                                                                                              |           | 82           | .195        |      | 15.25    | 10.55  |           | 25.80  | 32.5           |
+| 1500 | Closed back header                                                                                     |           | 83           | .193        |      | 21.50    | 10.40  |           | 31.90  | 39             |
+| 1550 | Closed back sill                                                                                       |           | 85           | .188        |      | 21.50    | 10.15  |           | 31.65  | 38.5           |
+| 1600 | Vertical mullion, one piece                                                                            |           | 75           | .213        |      | 24       | 11.50  |           | 35.50  | 43.5           |
+| 1650 | Two piece                                                                                              |           | 73           | .219        |      | 25.50    | 11.85  |           | 37.35  | 45.5           |
+| 1700 | 90° or 180° vertical corner post                                                                       |           | 75           | .213        |      | 26       | 11.50  |           | 37.50  | 45.5           |
+| 2000 | Flush tube frame, mil fin., ins. glass w/thml brk, 2" x 4-1/2", open header                            |           | 75           | .213        |      | 16.15    | 11.50  |           | 27.65  | 35             |
+| 2050 | Open sill                                                                                              |           | 77           | .208        |      | 13.60    | 11.20  |           | 24.80  | 31.5           |
+| 2100 | Closed back header                                                                                     |           | 78           | .205        |      | 15       | 11.10  |           | 26.10  | 33             |
+| 2150 | Closed back sill                                                                                       |           | 80           | .200        |      | 14.55    | 10.80  |           | 25.35  | 32             |
+| 2200 | Vertical mullion, one piece                                                                            |           | 70           | .229        |      | 17.15    | 12.35  |           | 29.50  | 37             |
+| 2250 | Two piece                                                                                              |           | 68           | .235        |      | 18.90    | 12.70  |           | 31.60  | 40             |
+| 2300 | 90° or 180° vertical corner post                                                                       |           | 70           | .229        |      | 19.50    | 12.35  |           | 31.85  | 40             |
+| 5000 | Flush tube frame, mill fin., thermal brk., 2-1/4" x 4-1/2", open header                                |           | 74           | .216        |      | 16.70    | 11.70  |           | 28.40  | 35.5           |
+| 5050 | Open sill                                                                                              |           | 75           | .213        |      | 14.45    | 11.50  |           | 25.95  | 33             |
+| 5100 | Vertical mullion, one piece                                                                            |           | 69           | .232        |      | 19.20    | 12.50  |           | 31.70  | 39.5           |
+| 5150 | Two piece                                                                                              |           | 67           | .239        |      | 21       | 12.90  |           | 33.90  | 42.5           |
+| 5200 | 90° or 180° vertical corner post                                                                       |           | 69           | .232        |      | 19.40    | 12.50  |           | 31.90  | 40             |
+| 6980 | Door stop snap in)                                                                                     |           | 380          | .042        |      | 3.25     | 2.27   |           | 5.52   | 6.9            |
+| 7000 | For joints, 90°, cliptype, add                                                                         |           |              |             | Ea.  | 27.50    |        |           | 27.50  | 30.5           |
+| 7050 | Screw spline joint, add                                                                                |           |              |             |      | 24.50    |        |           | 24.50  | 27             |
+| 7100 | For joint other than 90°, add                                                                          |           |              |             |      | 52       |        |           | 52     | 57             |
+| 8000 | For bronze anodized aluminum, add                                                                      |           |              |             |      | 15 %     |        |           |        |                |
+| 8020 | For black finish, add                                                                                  |           |              |             |      | 30 %     |        |           |        |                |
+| 8050 | For stainless steel materials, add                                                                     |           |              |             |      | 350 %    |        |           |        |                |
+| 8100 | For monumental grade, add                                                                              |           |              |             |      | 53 %     |        |           |        |                |
+| 8150 | For steel stiffener, add                                                                               | 2 Glaz    | .200         | .080        | LF   | 11.70    | 4.32   |           | 16.02  | 19.2           |
+| 8200 | For 2 to 5 stories, add per story                                                                      |           |              |             |Story |          | 8%     |           |        |                |
+
+---
+
+## 08 41 19 Stainless-Steel-Framed Entrances and Storefronts
+
+### 08 41 19.10 Stainless-Steel and Glass Entrance Unit
+
+| ID   | Name                                                                                                   | Crew      | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------------------------------------------------------------------------|-----------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | STAINLESS-STEEL AND GLASS ENTRANCE UNIT, narrow stiles                                                 |           |              |             |        |          |        |           |         |                |
+| 0020 | 3' x 7' opening, including hardware, minimum                                                           | 2 Sswk    | 1.60         | 10          | Opng.  | 8,000    | 627.25 |           | 8,620   | 9,750          |
+| 0050 | Average                                                                                                |           | 1.40         | 11.429      |        | 8,475    | 705    |           | 9,180   | 10,400         |
+| 0100 | Maximum                                                                                                |           | 1.20         | 13.333      |        | 9,100    | 825    |           | 9,925   | 11,300         |
+| 1000 | For solid bronze entrance units, statuary finish, add                                                  |           |              |             |        | 64 %     |        |           |         |                |
+| 1100 | Without statuary finish, add                                                                           |           |              |             |        | 45 %     |        |           |         |                |
+| 2000 | Balanced doors, 3' x 7', economy                                                                       | 2 Sswk    | .90          | 17.778      | Ea.    | 10,600   | 1,100  |           | 11,700  | 13,400         |
+| 2100 | Premium                                                                                                |           | 1.70         | 22.857      |        | 17,300   | 1,425  |           | 18,725  | 21,200         |
+
+---
+
+## 08 41 26 All-Glass Entrances and Storefronts
+
+### 08 41 26.10 Window Walls Aluminum, Stock
+
+| ID   | Name                                                                                                   | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------------------------------------------------------------------------|-----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | WINDOW WALLS ALUMINUM, STOCK, including glazing                                                        |           |              |             |      |          |        |           |         |                |
+| 0020 | Minimum                                                                                                | H 2       | 160          | .150        | S.F. | 59.50    | 7.70   |           | 67.20   | 77             |
+| 0050 | Average                                                                                                |           | 140          | .171        |      | 82       | 8.80   |           | 90.80   | 103            |
+| 0100 | Maximum                                                                                                |           | 110          | .218        |      | 193      | 11.15  |           | 204.15  | 229            |
+| 0500 | For translucent sandwich wall systems, see Section 07 41 33.10                                         |           |              |             |      |          |        |           |         |                |
+| 0850 | Cost of the above walls depends on material,                                                           |           |              |             |      |          |        |           |         |                |
+| 0860 | finish, repetition, and size of units.                                                                 |           |              |             |      |          |        |           |         |                |
+| 0870 | The larger the opening, the lower the S.F. cost                                                        |           |              |             |      |          |        |           |         |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 42 26 - Entrances
+
+## 08 42 26.10 Swinging Glass Doors
+
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | SWINGING GLASS DOORS                 |        |             |             |        |          |       |           |       |                |
+| 10020 | Including hardware, 1/2" thick, tempered, 3' x 7' opening | 2 Gloz | 2           | 8           | Opng.  | 2,400    | 430   |           | 2,830 | 3,275          |
+| 10100 | 6' x 7' opening                      |        | 1.40        | 11.429      | "      | 4,575    | 615   |           | 5,190 | 5,950          |
+
+---
+
+# 08 42 33 - Revolving Door Entrances
+
+## 08 42 33.10 Circular Rotating Entrance Doors
+
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | CIRCULAR ROTATING ENTRANCE DOORS, Aluminum |        |             |             |        |          |       |           |       |                |
+| 0020  | 6'-10" to 7' high, stock units, minimum | 4 Sswk | .75         | 42.667      | Opng.  | 39,100   | 2,650 |           | 41,750| 47,100         |
+| 0050  | Average                              |        | .60         | 53.333      |        | 44,500   | 3,300 |           | 47,800| 54,000         |
+| 0100  | Maximum                              |        | .45         | 71.111      |        | 51,000   | 4,400 |           | 55,400| 63,000         |
+| 1000  | Stainless steel                      |        | .30         | 106         | 1      | 50,500   | 6,550 |           | 57,050| 65,500         |
+| 1100  | Solid bronze                         |        | .15         | 213         |        | 49,700   | 13,200|           | 62,900| 75,000         |
+| 1500  | For automatic controls, add          | 2 Elec | 2           | 8           |        | 16,400   | 530   |           | 16,930| 18,900         |
+
+---
+
+# 08 42 36 - Balanced Door Entrances
+
+## 08 42 36.10 Balanced Entrance Doors
+
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | BALANCED ENTRANCE DOORS              |        |             |             |        |          |       |           |       |                |
+| 0020  | Hardware & frame, alum. & glass, 3' x 7', econ. | 2 Sswk | .90         | 17.778      | Ea.    | 7,525    | 1,100 |           | 8,625 | 9,975          |
+| 0150  | Premium                              |        | .70         | 22.857      | "      | 8,975    | 1,425 |           | 10,400| 12,000         |
+
+---
+
+# 08 43 Storefronts
+
+## 08 43 13 - Aluminum-Framed Storefronts
+
+### 08 43 13.10 Aluminum-Framed Entrance Doors and Frames
+
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|-------|----------------|
+| 0010  | ALUMINUM-FRAMED ENTRANCE DOORS AND FRAMES |        |             |             |        |          |       |           |       |                |
+| 0015  | Standard hardware and glass stops but no glass |        |             |             |        |          |       |           |       |                |
+| 0020  | Entrance door, 3' x 7' opening, clear anodized finish | 2 Sswk | 7           | 2.286       | Opng.  | 740      | 141   |           | 881   | 1,025          |
+| 0040  | Bronze finish                         |        | 7           | 2.286       |        | 925      | 141   |           | 1,066 | 1,250          |
+| 0060  | Black finish                         | 1      | 7           | 2.286       |        | 900      | 141   |           | 1,041 | 1,200          |
+| 02001 | 3'-6" x 7' 0", mill finish           |        | 7           | 2.286       |        | 1,000    | 141   |           | 1,141 | 1,325          |
+| 0220  | Bronze finish                        |        |             | 2.286       |        | 795      | 1411  |           | 936   | 1,100          |
+| 02401 | Black finish                         |        | 7           | 2.286       |        | 805      | 1411  |           | 946   | 1,100          |
+| 0500  | 6' x 7' opening, clear finish        |        | 6           | 2.667       |        | 995      | 165   |           | 1,160 | 1,350          |
+| 0520  | Bronze finish                        |        | 6           | 2.667       |        | 1,375    | 165   |           | 1,540 | 1,775          |
+| 0540  | Black finish                         |        | 6           | 2.667       |        | 1,425    | 165   |           | 1,590 | 1,800          |
+| 0600  | Door frame for above doors 3-0" x 7'-0", mill finish |        | 66          | 2.667       |        | 625      | 165   |           | 790   | 945            |
+| 06201 | Bronze finish                        | 1 1 1  | 6           | 2.667       |        | 665      | 165   |           | 830   | 990            |
+| 0640  | Black finish                         | 116    |             | 2.667       |        | 750      | 165   |           | 915   | 1,075          |
+| 0700  | 3'6" x 7'0", mill finish             |        | 62.667      |             |        | 450      | 165   |           | 615   | 750            |
+| 07201 | Bronze finish                        |        | 6           | 2.667       |        | 450      | 165   |           | 615   | 750            |
+| 0740  | Black finish                         |        | 6           | 2.667       |        | 450      | 165   |           | 615   | 750            |
+| 0800  | 6'-0" x 7'0", mill finish            |        | 6           | 2.667       |        | 450      | 165   |           | 615   | 750            |
+| 0820  | Bronze finish                        |        | 6           | 2.667       |        | 455      | 165   |           | 620   | 755            |
+| 0840  | Black finish                         |        | 6           | 2.667       |        | 490      | 165   |           | 655   | 795            |
+| 1000  | With 3' high transom above, 3' x 7' opening, clear finish |        | 5.50        | 2.909       |        | 695      | 180   |           | 875   | 1,050          |
+| 1050  | Bronze finish                        | 15.50  |             | 2.909       |        | 690      | 180   |           | 870   | 1,025          |
+| 1100  | Black finish                         |        | 5.50        | 2.909       |        | 675      | 180   |           | 855   | 1,025          |
+| 1300  | 3'-6" x 7'-0" opening, clear finish  |        | 5.50        | 2.909       |        | 450      | 180   |           | 630   | 770            |
+| 1320  | Bronze finish                        |        | 5.50        | 2.909       |        | 475      | 180   |           | 655   | 795            |
+| 1340  | Block finish                         |        | 5.50        | 2.909       |        | 480      | 180   |           | 660   | 805            |
+| 1500  | 6' x 7' opening, clear finish        |        | 5.50        | 2.909       |        | 735      | 180   |           | 915   | 1,075          |
+| 1550  | Bronze finish                        |        | 5.50        | 2.909       |        | 860      | 180   |           | 1,040 | 1,225          |
+| 1600  | Black finish                         |        | 5.50        | 2.909       |        | 955      | 180   |           | 1,135 | 1,325          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08083 Storefron43
+
+08 43 13 - Storefrontsramed Storefronts  
+08 43 13.20 Storefront Systems
+
+## Daily Labor
+
+Crew | Output | Hours | Unit | Material | 2022 Bare Costs | Labor | Equipment | Total | Total Inc O&P
+
+---
+
+### 08 43 13 - Aluminum - Framed Storefronts
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit     | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|----------|----------|-------|-----------|--------|----------------|
+| 0010 | STOREFRONT SYSTEMS, aluminum frame clear 3/8" plate glass            |        |              |             |          |          |       |           |        |                |
+| 0020 | incl. 3' x 7' door with hardware (400 sq.ft. max. wall)              |        |              |             |          |          |       |           |        |                |
+| 0500 | Wall height to 12' high, commercial grade                            | 2 Glaz | 150          | .107        | S.F.     | 25.50    | 5.75  |           | 31.25  | 36             |
+| 0600 | Institutional grade                                                  |        | 130          | .123        |          | 29.50    | 6.65  |           | 36.15  | 42             |
+| 0700 | Monumental grade                                                     |        | 115          | .139        |          | 49.50    | 7.50  |           | 57     | 65             |
+| 1000 | 6' x 7' door with hardware, commercial grade                         |        | 135          | .119        |          | 75.50    | 6.40  |           | 81.90  | 92             |
+| 1100 | Institutional grade                                                  |        | 115          | .139        |          | 43       | 7.50  |           | 50.50  | 58             |
+| 1200 | Monumental grade                                                     |        | 100          | 160         |          | 122      | 8.65  |           | 130.65 | 147            |
+| 1500 | For bronze anodized finish, add                                      |        |              |             |          | 15%      |       |           |        |                |
+| 1600 | For black anodized finish, add                                       |        |              |             |          | 36%      |       |           |        |                |
+| 1700 | For stainless steel framing, add to monumental                       |        |              |             |          | 78%      |       |           |        |                |
+
+---
+
+### 08 43 29 - Sliding Storefronts
+
+| ID   | Name                                               | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010 | SLIDING PANELS                                     |        |              |             |       |          |       |           |        |                |
+| 0020 | Mall fronts, aluminum & glass, 15' x 9' high       | 2 Glaz | 1.30         | 12.308      | Opng. | 4,725    | 665   |           | 5,390  | 6,200          |
+| 0100 | 24' x 9' high                                      |        | .70          | 22.857      |       | 6,625    | 1,225 |           | 7,850  | 9,125          |
+| 0200 | 48' x 9' high, with fixed panels                   |        | .90          | 17.778      |       | 11,900   | 960   |           | 12,860 | 14,500         |
+| 0500 | For bronze finish, add                             |        |              |             |       | 17%      |       |           |        |                |
+
+---
+
+### 08 44 - Curtain Wall and Glazed Assemblies
+
+#### 08 44 13 - Glazed Aluminum Curtain Walls
+
+| ID   | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | GLAZED CURTAIN WALLS, aluminum, stock, including glazing    |      |              |             |      |          |       |           |        |                |
+| 0020 | Minimum                                                     | H-1  | 205          | .156        | S.F. | 32       | 9.05  |           | 41.05  | 49             |
+| 0050 | Average, single glazed                                      |      | 195          | .164        |      | 54.50    | 9.50  |           | 64     | 74             |
+| 0150 | Average, double glazed                                      |      | 180          | .178        |      | 77       | 10.30 |           | 87.30  | 101            |
+| 0200 | Maximum                                                     |      | 160          | .200        |      | 191      | 11.60 |           | 202.60 | 228            |
+
+---
+
+### 08 45 - Translucent Wall and Roof Assemblies
+
+#### 08 45 10 - Translucent Roof Assemblies
+
+##### 08 45 10.10 - Skyroofs
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit     | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|----------|----------|-------|-----------|--------|----------------|
+| 0010 | SKYROOFS                                                    |        |              |             |          |          |       |           |        |                |
+| 1200 | Skylights, circular, clear, double glazed acrylic           |        |              |             |          |          |       |           |        |                |
+| 1230 | 30" diameter                                                | 2 Carp | 3            | 5.333       | Ea. 7    | 1,775    | 300   |           | 2,075  | 2,425          |
+| 1250 | 60" diameter                                                |        | 32           | 5.333       |         | 2,950    | 300   |           | 3,250  | 3,700          |
+| 1290 | 96" diameter                                                |        | 281          |             |         | 6,125    | 450   |           | 6,575  | 7,400          |
+| 1300 | Skylight Barrel Vault, clear, double glazed, acrylic        |        |              |             |          |          |       |           |        |                |
+| 1330 | 3'0" x 12'-0"                                               | G-3    | 3            | 10.667      | Ea.     | 4,425    | 605   |           | 5,030  | 5,775          |
+| 1350 | 4'-0" x 12'-0"                                              |        | 3            | 10.667      |         | 4,900    | 605   |           | 5,505  | 6,300          |
+| 1390 | 5'-0" x 12'-0"                                              |        | 2            | 16          |         | 6,475    | 905   |           | 7,380  | 8,475          |
+| 1400 | Skylight Pyramid, aluminum frame, clear low E laminated glass|        |              |             |          |          |       |           |        |                |
+| 1410 | The glass is installed in the frame except where noted      |        |              |             |          |          |       |           |        |                |
+| 1430 | Square, 3' x 3'                                             | 6-3    | 3            | 10.667      | Ea.     | 4,300    | 605   |           | 4,905  | 5,625          |
+| 1440 | 4' x 4'                                                     |        | 3            | 10.667      |         | 4,875    | 605   |           | 5,480  | 6,275          |
+| 1450 | 5' x 5', glass must be field installed                      |        | 3            | 10.667      |         | 6,875    | 605   |           | 7,480  | 8,450          |
+| 1460 | 6' x 6', glass must be field installed                      |        | 2            | 16          |         | 9,525    | 905   |           | 10,430 | 11,900         |
+| 1550 | Install pre-cut laminated glass in aluminum frame on flat roof| 2 Glaz | 55           | .291        | SF Surf |          | 15.70 |           | 15.70  | 23             |
+| 1560 | Install pre-cut laminated glass in aluminum frame on sloped roof| "    | 40           | .400        |         |          | 21.50 |           | 21.50  | 32             |
+
+---
+
+292 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 51 Metal Windows
+
+## 08 51 Metal Aluminum Windows
+
+### 08 51 13 - Aluminum Windows
+
+#### 08 51 13.10 Aluminum Sash
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | ALUMINUM SASH                                                        |        |              |             |      |          |       |           |        |                |
+| 0020  | Stock, grade C, glaze & trim not incl, casement                      | 2 Sswk | 200          | .080        | S.F. | 328      | 4.95  |           | 47.95  | 54.50          |
+| 0050  | Double hung                                                          |        | 200          | .080        |      | 42       | 4.95  |           | 46.95  | 53.50          |
+| 0100  | Fixed casement                                                       |        | 200          | .080        |      | 18.45    | 4.95  |           | 23.40  | 22             |
+| 0150  | Picture window                                                       | [ ]    | 200          | .080        |      | 19.75    | 4.95  |           | 24.70  | 29             |
+| 0200  | Projected window                                                     |        | 200          | .080        |      | 38       | 4.95  |           | 42.95  | 49.50          |
+| 0250  | Single-hung                                                          |        | 200          | .080        |      | 17.80    | 4.95  |           | 22.75  | 27             |
+| 0300  | Sliding                                                              |        | 200          | .080        |      | 23.50    | 4.95  |           | 28.45  | 33.50          |
+| 1000  | Mullions for above, tubular                                          |        | 240          | .067        | L.F. | 6.55     | 4.12  |           | 10.67  | 13.55          |
+| 2000  | Custom aluminum sash, grade HC, glazing not included                 |        | 140          | .114        | S.F. | 42.50    | 7.05  |           | 49.55  | 58             |
+
+#### 08 51 13.20 Aluminum Windows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | ALUMINUM WINDOWS, incl. frame and glazing, commercial grade          |        |              |             |      |          |       |           |        |                |
+| 1000  | Stock units, casement, 3'-1" x 3'-2" opening                        | 2 Sswk | 10           | 1.600       | Ea.  | 730      | 99    |           | 829    | 955            |
+| 1050  | Add for storms                                                       |        |              |             |      | 129      |       |           | 129    | 141            |
+| 1600  | Projected, with screen, 3'-1"x 3'-2" opening                        | 2 Sswk | 10           | 1.600       |      | 605      | 99    |           | 704    | 815            |
+| 1700  | Add for storms                                                       |        |              |             |      | 125      |       |           | 125    | 138            |
+| 2000  | 4'-5" x 5'-3" opening                                                | 2 Sswk | 8            | 2           |      | 420      | 124   |           | 544    | 655            |
+| 2100  | Add for storms                                                       |        |              |             |      | 128      |       |           | 128    | 141            |
+| 2500  | Enamel finish windows, 3'-1" x 3'-2"                                 | 12 Sswk| 10           | 1.600       |      | 385      | 99    |           | 484    | 575            |
+| 2600  | 4'-5" x 5'-3"                                                        |        | 8            | 2           |      | 435      | 124   |           | 559    | 670            |
+| 3000  | Single-hung, 2' x 3' opening, enameled, standard glazed              |        | 10           | 1.600       |      | 223      | 99    |           | 322    | 400            |
+| 3100  | Insulating glass                                                     |        | 10           | 1.600       |      | 271      | 99    |           | 370    | 450            |
+| 3300  | 2'-8" x 6'-8" opening, standard glazed                               |        | 8            | 2           |      | 375      | 124   |           | 499    | 605            |
+| 3400  | Insulating glass                                                     |        | 8            | 2           |      | 495      | 124   |           | 619    | 735            |
+| 3700  | 3'-4" x 5'-0" opening, standard glazed                               |        | 9            | 1.778       |      | 325      | 110   |           | 435    | 525            |
+| 3800  | Insulating glass                                                     |        | 9            | 1.778       |      | 350      | 110   |           | 460    | 555            |
+| 3890  | Awning type, 3' x 3' opening, standard glass                         |        | 14           | 1.143       |      | 750      | 70.50 |           | 820.50 | 935            |
+| 3900  | Insulating glass                                                     |        | 14           | 1.143       |      | 835      | 70.50 |           | 905.50 | 1,025          |
+| 3910  | 3' x 4' opening, standard glass                                      |        | 10           | 1.600       |      | 865      | 99    |           | 964    | 1,100          |
+| 3920  | Insulating glass                                                     |        | 10           | 1.600       |      | 885      | 99    |           | 984    | 1,125          |
+| 3930  | 3' x 5'4" opening, standard glass                                    |        | 10           | 1.600       |      | 1,975    | 99    |           | 2,074  | 2,325          |
+| 3940  | Insulating glass                                                     |        | 10           | 1.600       |      | 2,200    | 99    |           | 2,299  | 2,575          |
+| 3950  | 4' x 5'4" opening, standard glass                                    |        | 9            | 1.778       |      | 2,300    | 110   |           | 2,410  | 2,725          |
+| 3960  | Insulating glass                                                     |        | 9            | 1.778       |      | 870      | 110   |           | 980    | 1,125          |
+| 4000  | Sliding aluminum, 3' x 2' opening, standard glazed                   |        | 10           | 1.600       |      | 1,025    | 99    |           | 1,124  | 1,275          |
+| 4100  | Insulating glass                                                     |        | 10           | 1.600       |      | 1,200    | 99    |           | 1,299  | 1,475          |
+| 4300  | 5' x 3' opening, standard glazed                                     |        | 9            | 1.778       |      | 1,200    | 110   |           | 1,310  | 1,500          |
+| 4400  | Insulating glass                                                     |        | 9            | 1.778       |      | 1,350    | 110   |           | 1,460  | 1,675          |
+| 4600  | 8' x 4' opening, standard glazed                                     |        | 6            | 2.667       |      | 1,875    | 165   |           | 2,040  | 2,325          |
+| 4700  | Insulating glass                                                     |        | 6            | 2.667       |      | 2,025    | 165   |           | 2,190  | 2,475          |
+| 5000  | 9' x 5' opening, standard glazed                                     |        | 4            |             |      | 550      | 247   |           | 797    | 985            |
+| 5100  | Insulating glass                                                     |        | 4            |             |      | 840      | 247   |           | 1,087  | 1,300          |
+| 5500  | Sliding, with thermal barrier and screen, 6' x 4', 2 track           |        | 8            | 2           |      | 2,475    | 124   |           | 2,599  | 2,925          |
+| 5700  | 4 track                                                              |        | 8            | 2           |      | 905      | 124   |           | 1,029  | 1,175          |
+| 6000  | For above units with bronze finish, add                              |        |              |             |      | 15 %     |       |           |        |                |
+| 6200  | For installation in concrete openings, add                           |        |              |             |      | 8 %      |       |           |        |                |
+
+#### 08 51 13.30 Impact Resistant Aluminum Windows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | IMPACT RESISTANT ALUMINUM WINDOWS, incl.frame and glazing            |        |              |             |      |          |       |           |        |                |
+| 0100  | Single-hung, impact resistant, 2'-8" x 5'-0"                         | 2 Carp | 9            | 1.778       | Ea.  | 1,175    | 100   |           | 1,275  | 1,450          |
+| 0120  | 3'-0" x 5'-0"                                                        |        | 9            | 1.778       |      | 1,400    | 100   |           | 1,500  | 1,700          |
+| 0130  | 4'-0" x 5'-0"                                                        |        | 9            | 1.778       |      | 1,950    | 100   |           | 2,050  | 2,275          |
+| 0250  | Horizontal slider, impact resistant, 5'-5" x 5'-2"                   |        | 9            | 1.778       |      | 2,225    | 100   |           | 2,325  | 2,600          |
+
+# 08081 Metal Windows
+
+## 08 51 23 - Steel Windows
+
+### 08 51 23.10 - Steel Sash
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | STEEL SASH Custom units, glazing and trim not included               |        |              |             |        |          |       |           |         |                |
+| 0100  | Casement, 100% vented                                                | 2 Sswk | 200          | .080        | S.F    | 69.50    | 4.95  |           | 74.45   | 84             |
+| 0200  | 50% vented                                                           |        | 200          | .080        |        | 56.50    | 4.95  |           | 61.45   | 69.5           |
+| 0300  | Fixed                                                                |        | 200          | .080        |        | 29       | 4.95  |           | 33.95   | 39.5           |
+| 1000  | Projected, commercial, 40% vented                                    |        | 200          | .080        |        | 53.50    | 4.95  |           | 58.45   | 66.5           |
+| 1100  | Intermediate, 50% vented                                             |        | 200          | .080        |        | 64       | 4.95  |           | 68.95   | 78             |
+| 1500  | Industrial, horizontally pivoted                                     |        | 200          | .080        |        | 56       | 4.95  |           | 60.95   | 69             |
+| 1600  | Fixed                                                                |        | 200          | .080        |        | 32.50    | 4.95  |           | 37.45   | 43             |
+| 2000  | Industrial security sash, 50% vented                                 |        | 200          | .080        |        | 61.50    | 4.95  |           | 66.45   | 75             |
+| 2100  | Fixed                                                                |        | 200          | .080        |        | 49       | 4.95  |           | 53.95   | 61.5           |
+| 2500  | Picture window                                                       |        | 200          | .080        |        | 32.50    | 4.95  |           | 37.45   | 43.5           |
+| 3000  | Double-hung                                                          |        | 200          | .080        |        | 32       | 4.95  |           | 66.95   | 75.5           |
+| 5000  | Mullions for above, open interior face                               |        | 240          | .067        | LF     | 10.90    | 4.12  |           | 15.02   | 18.3           |
+| 5100  | With interior cover                                                  |        | 240          | .067        |        | 18.10    | 4.12  |           | 22.22   | 26.5           |
+
+### 08 51 23.20 - Steel Windows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | STEEL WINDOWS Stock, including frame, trim and insul. glass          |        |              |             |        |          |       |           |         |                |
+| 0020  | See Section 13 34 19.50                                              |        |              |             |        |          |       |           |         |                |
+| 1000  | Custom units, double-hung, 2' 8" x 4' 6" opening                     | 2 Sswk | 12           | 1.333       | Ea.    | 720      | 82.50 |           | 802.50  | 915            |
+| 1100  | 2' 4" x 3' 9" opening                                                |        | 12           | 1.333       |        | 590      | 82.50 |           | 672.50  | 775            |
+| 1500  | Commercial projected, 3'-9" x 5'-5" opening                          |        | 10           | 1.600       |        | 1,250    | 99    |           | 1,349   | 1,525          |
+| 1600  | 6'-9" x 4'-1" opening                                                |        | 7            | 2.286       |        | 1,650    | 141   |           | 1,791   | 2,050          |
+| 2000  | Intermediate projected, 2'-9" x 4'-1" opening                        |        | 12           | 1.333       |        | 700      | 82.50 |           | 782.50  | 895            |
+| 2100  | 4'-1" x 5' 5" opening                                                |        | 10           | 1.600       |        | 1,425    | 99    |           | 1,524   | 1,725          |
+
+### 08 51 23.40 - Basement Utility Windows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | BASEMENT UTILITY WINDOWS                                             |        |              |             |        |          |       |           |         |                |
+| 0015  | 1'-3" x 2'-8"                                                        | 1 Carp | 16           | .500        | Ea.    | 152      | 28    |           | 180     | 209            |
+| 1100  | 1'-7" x 2'-8"                                                        |        | 16           | .500        |        | 93.50    | 28    |           | 121.50  | 145            |
+
+## 08 51 66 - Metal Window Screens
+
+### 08 51 66.10 - Screens
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | SCREENS                                                              |        |              |             |        |          |       |           |         |                |
+| 0020  | For metal sash, aluminum or bronze mesh, flat screen                 | 2 Sswk | 1200         | .013        | S.F.   | 392425   | .82   |           | 39.82   | 44             |
+| 0500  | Wicket screen, inside window                                         |        | 1000         | .016        |        |          | .99   |           | 7.99    | 9.1            |
+| 0800  | Security screen, aluminum frame with stainless steel cloth           |        | 1200         | .013        |        |          | .82   |           | 25.82   | 29             |
+| 0900  | Steel grate, painted, on steel frame                                 |        | 1600         | .010        |        | 14       | .62   |           | 14.62   | 16.3           |
+| 1000  | Screens for solar louvers                                            |        | 160          | .100        |        | 25.50    | 6.20  |           | 31.70   | 37.5           |
+| 4000  | See Section 05 58 23.90 for window guards                           |        |              |             |        |          |       |           |         |                |
+
+## 08 52 - Wood Windows
+
+### 08 52 10 - Plain Wood Windows
+
+#### 08 52 10.20 - Awning Window
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 0010  | AWNING WINDOW, Including frame, screens and grilles                  |        |              |             |        |          |       |           |         |                |
+| 0100  | 34" x 22", insulated glass                                           | 1 Carp | 10           | .800        | Ea.    | 390      | 45    |           | 435     | 495528         |
+| 0200  | Low E glass                                                          |        | 10           | .800        |        | 430      | 45    |           | 475     |                |
+| 0300  | 40" x 28", insulated glass                                           |        | 9            | .889        |        | 415      | 50    |           | 465     | 53             |
+| 0400  | Low E glass                                                          |        | 9            | .889        |        | 460      | 50    |           | 510     |                |
+| 0500  | 48" x 36", insulated glass                                           |        | 8            | 1           |        | 630      | 56.50 |           | 686.50  | 71             |
+| 0600  | Low E glass                                                          |        | 8            | 1           |        | 660      | 56.50 |           | 716.50  |                |
+
+---
+
+294 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 52 Wood Windows
+
+## 08 52 10 Plain Wood Windows
+
+### 08 52 10.40 Casement Window
+
+#### 0010 CASEMENT WINDOW, including frame, screen and grilles
+
+2'-0" x 3'-0" H, double insulated glass  
+Low E glass  
+2'-0" x 4'-6" high, double insul
+
+| ID    | Name                                                                 | Crew                | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------------------|-------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 10100 | 2'-0" x 3'-0" H, double insulated glass                              | 555555GGGGGGCarpG55555oo | .800       | Ea .        | 320    | 45      |       | 365      | 415            |
+| 10150 | Low E glass                                                          |                     | 10          | .800        |        | 360      | 45    |           | 405      | 460            |
+| 0200  | 2'-0" x 4'-6" high, double insulated glass                           |                     | 9           | .889        |        | 425      | 50    |           | 475      | 540            |
+| 0250  | Low E glass                                                          |                     | 9           | .889        |        | 425      |       |           | 475      | 540            |
+| 0260  | Casement 4'2" x 4'2" double insulated glass                          |                     |             | .727        |        | 815      | 41    |           | 856      | 955            |
+| 0270  | 4'-0" x 4'-0" Low E glass                                            |                     |             | .727        |        | 815      | 41    |           | 856      | 960            |
+| 0290  | 6'-4" x 5'-7" Low E glass                                            |                     | 9           | .889        |        | 1,450    | 50    |           | 1,500    | 1,675          |
+| 0300  | 2'-4" x 6'-0" high, double insulated glass                           |                     | 8           |             |        | 965      | 56.50 |           | 1,021.50 | 1,150          |
+| 0350  | Low E glass                                                          |                     | 8           | 3           |        | 900      | 56.50 |           | 956.50   | 1,075          |
+| 0522  | Vinyl-clad, premium, double insulated glass, 2'0" x 3'-0"            |                     | 10          | .800        |        | 365      | 45    |           | 410      | 465            |
+| 0524  | 2'0" x 4'-0"                                                         |                     | 9           | .889        |        | 435      | 50    |           | 485      | 555            |
+| 0525  | 2'-0" x 5'-0"                                                        |                     | 8           |             |        | 510      | 56.50 |           | 566.50   | 645            |
+| 0528  | 2'-0" x 6'-0"                                                        |                     |             |             |        | 625      | 56.50 |           | 681.50   | 775            |
+| 0600  | 3'-0" x 5'-0"                                                        |                     |             |             |        | 470      | 56.50 |           | 526.50   | 605            |
+| 0700  | 4'-0" x 3'-0"                                                        |                     |             |             |        | 935      | 56.50 |           | 991.50   | 1,100          |
+| 0710  | 4'-0" x 4'-0"                                                        |                     | 8           |             |        | 765      | 56.50 |           | 821.50   | 930            |
+| 0720  | 4'-8" x 4'-0"                                                        |                     | 8           |             |        | 765      | 56.50 |           | 821.50   | 925            |
+| 0730  | 4'-8" x 5'-0"                                                        |                     | 6           | 1.333       |        | 880      | 75    |           | 955      | 1,075          |
+| 0740  | 4'-8" x 6'0"                                                         |                     | 6           | 1.333       |        | 950      | 75    |           | 1,025    | 1,150          |
+| 0750  | 6'-0" x 4'-0"                                                        |                     | 6           | 1.333       |        | 955      | 75    |           | 1,030    | 1,150          |
+| 0800  | 6'-0" x 5'-0"                                                        |                     | 6           | 1.333       |        | 995      | 75    |           | 1,070    | 1,200          |
+| 0900  | 5'-6" x 5'-6"                                                        | G 2 Carp            | 15          | 1.067       |        | 990      | 60    |           | 1,050    | 1,200          |
+| 2000  | Bay, casement units, 8' x 5, w/screens, double insulated glass        |                     | 2.50        | 6.400       | Opng . | 1,800    | 360   |           | 2,160    | 2,500          |
+| 2100  | Low E glass                                                          |                     | 2.50        | 6.400       | 11     | 1,900    | 360   |           | 2,260    | 2,600          |
+| 8190  | For installation, add per leaf                                       |                     |             |             | Ea .   |          | 15 %  |           |          |                |
+| 8200  | For multiple leaf units, deduct for stationary sash                   |                     |             |             |        |          |       |           |          |                |
+| 8220  | 2' high                                                              |                     |             |             | Eo .   | 304      |       |           | 30       | 33             |
+| 8240  | 4'-6" high                                                           |                     |             |             |        | 34       |       |           | 34       | 37.50          |
+| 8260  | 6' high                                                              |                     |             |             |        | 45       |       |           | 45       | 49.50          |
+
+---
+
+## 08 52 10.50 Double-Hung
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | DOUBLE-HUNG, Including frame, screens and grilles R085216-10         |              |             |             |        |          |       |           |          |                |
+| 0100  | 2'-0" x 3'-0" high, low E insul. glass                               | GGG 1 Carp   | 10          | .800        | Ea .   | 152      | 445   |           | 197      | 234            |
+| 0200  | 3'-0" x 4'-0" high, double insulated glass                           |              | 9           | .889        |        | 291      | 50    |           | 341      | 395            |
+| 0300  | 4'-0" x 4'-6" high, low Einsulated glass                             |              | 8           | 1           |        | 255      | 56.50 |           | 311.50   | 365            |
+
+---
+
+## 08 52 10.55 Picture Window
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | PICTURE WINDOW, Including frame and grilles                          |              |             |             |        |          |       |           |          |                |
+| 0100  | 3'6" x 4'-0" high, double insulated glass                            | 2 Carp       | 12          | 1.333       | Ea .   | 700      | 75    |           | 775      | 880            |
+| 0150  | Low E glass                                                          |              | 12          | 1.333       |        | 590      | 75    |           | 665      | 760            |
+| 0200  | 4'0" x 4'-6" high, double insulated glass                            |              | 11          | 1.455       |        | 705      | 82    |           | 787      | 895            |
+| 0250  | Low E glass                                                          |              | 11          | 1.455       |        | 800      | 82    |           | 882      | 1,000          |
+| 0300  | 5'0" x 4'0" high, double insulated glass                             |              | 11          | 1.455       |        | 800      | 82    |           | 882      | 1,000          |
+| 0350  | Low E glass                                                          |              | 11          | 1.455       |        | 795      | 82    |           | 877      | 1995           |
+| 0400  | 6'0" x 4'-6" high, double insulated glass                            |              | 10          | 1.600       |        | 860      | 90    |           | 950      | 1,075          |
+| 0450  | Low E glass                                                          |              | 10          | 1.600       |        | 835      | 90    |           | 925      | 1,050          |
+
+---
+
+## 08 52 10.65 Wood Sash
+
+| ID    | Name                                                                 | Crew         | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------------|-------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010  | WOOD SASH, Including glazing but not trim                            |              |             |             |        |          |       |           |          |                |
+| 0050  | Custom, 5'0" x 4'0", 1" double glazed, 3/16" thick lites             | 2 Carp       | 3.20        | 5           | Ea .   | 320      | 282   |           | 602      | 775            |
+| 0100  | 1/4" thick lites                                                     |              | 5           | 3.200       |        | 465      | 180   |           | 645      | 780            |
+| 0200  | 1" thick, triple glazed                                              |              | 5           | 3.200       |        | 560      | 180   |           | 740      | 885            |
+| 0300  | 7'0" x 4'6" high, 1" double glazed, 3/16" thick lites                |              | 4.30        | 3.721       |        | 600      | 209   |           | 809      | 970            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Windows
+
+## 08 52 10 - Plain Wood Windows
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0400 | 1/4" thick lites | 2 Carp | 4.30 | 3.721 | Eo. | 640 | 209 |  | 849 | 1,025 |
+| 0500 | 1" thick, tripleglazed |  | 4.30 | -3.721 |  | 785 | 209 |  | 994 | 1,175 |
+| 0600 | 8'-6" x 5'-0" high, 1" double glazed, 3/16" thick lites |  | 3.50 | 4.571 |  | 815 | 257 |  | 1,072 | 1,275 |
+| 0700 | 1/4" thick lites |  | 3.50 | 4.571 |  | 895 | 257 |  | 1,152 | 1,375 |
+| 0800 | 1" thick, tripleglazed |  | 3.50 | 4.571 |  | 835 | 257 |  | 1,092 | 1,300 |
+| 0900 | Window frames only, based on perimeter length |  |  |  |  | 5.10 |  |  | 5.10 | 5. |
+| 1200 | Window sil, stock, per lineal foot |  |  |  |  | 11.85 |  |  | 11.85 | 13. |
+| 1250 | Casing, stock |  |  |  |  | 4.32 |  |  | 4.32 | 4 |
+
+## 08 52 10.70 - Sliding Windows
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SLIDING WINDOWS |  |  |  |  |  |  |  |  |  |
+| 0100 | 3'-0" x 3'-0" high, double insulated | С5555G 1 Carp | 10 | .800 | Ea. | 730 | 45 |  | 775 | 870 |
+| 0120 | Low E glass |  | 10 | .800 |  | 745 | 45 |  | 790 | 885 |
+| 0200 | 4'-0" x 3'-6" high, double insulated |  | 9 | .889 |  | 950 | 50 |  | 1,000 | 1,125 |
+| 0220 | Low E glass |  | 9 | .889 |  | 565 | 50- |  | 615 | 695 |
+| 0300 | 6'-0" x 5'-0" high, double insulated |  | 8 |  |  | 645 | 56.50 |  | 701.50 | 795 |
+| 0320 | Low E glass |  | 8 |  |  | 785 | 56.50 |  | 841.50 | 950 |
+
+## 08 52 13 - Metal-Clad Wood Windows
+
+### 08 52 13.10 - Awning Windows, Metal-Clad
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | AWNING WINDOWS, METAL-CLAD |  |  |  |  |  |  |  |  |  |
+| 2000 | Metal-clad, awning deluxe, double insulated glass, 34" x 22" | 1 Carp | 9 | .889 | Eq. | 330 | 50 |  | 380 | 435 |
+| 2050 | 36" x 25" |  | 9 | .889 |  | 370 | 50 |  | 420 | 480 |
+| 2100 | 40" x 22" |  | 9 | .889 |  | 395 | 50 |  | 445 | 510 |
+| 2150 | 40" x 30" |  | 9 | .889 : | 455 | 50 |  | 505 | 575 |
+| 2200 | 48" x 28" |  | 81 | 1 | 470 | 56.50 |  | 526.50 | 600 |
+| 2250 | 60" x 36" |  | 8 | 1 | 500 | 56.50 |  | 556.50 | 635 |
+
+### 08 52 13.20 - Casement Windows, Metal-Clad
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CASEMENT WINDOWS, METAL-CLAD |  |  |  |  |  |  |  |  |  |
+| 0100 | Metal clad, deluxe, dbl. insul. glass, 2'-0" x 3'-0" high | G Carp | 10 | .800 | Ea. | 370 | 45 |  | 415 | 470 |
+| 0120 | 2'-0" x 4'-0" high | G | 9 | .889 |  | 415 | 50 |  | 465 | 535 |
+| 0130 | 2'-0" x 5'-0" high | G | 8 | 1 | 445 | 56.50 |  | 501.50 | 575 |
+| 0140 | 2'-0" x 6'-0" high | G | 8 |  | 475 | 56.50 |  | 531.50 | 610 |
+| 0300 | Metal-clad, casement, bldrs mdl, 6'-0" x 4'-0", dbl. insul. glass, 3 panels | 2 Carp | 10 | 1.600 |  | 1,325 | 90 |  | 1,415 | 1,600 |
+| 0310 | 9'-0" x 4'-0", 4 panels |  | 8 | 2 | 1,700 | 113 |  | 1,813 | 2,025 |
+| 0320 | 10'-0" x 5'-0", 5 panels |  | 7 | 2.286 | 2,325 | 129 |  | 2,454 | 2,750 |
+| 0330 | 12'-0" x 6'-0", 6 panels |  | 6 | 2.667 | 2,925 | 150 |  | 3,075 | 3,450 |
+
+### 08 52 13.30 - Double-Hung Windows, Metal-Clad
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | DOUBLE-HUNG WINDOWS, METAL-CLAD |  |  |  |  |  |  |  |  |  |
+| 0100 | Metal clad, deluxe, dbl. insul. glass, 2'-6" x 3'-0" high | 555555 Carp | 1100 | .800 | Eo. | 234 | 458855 |  | 279 | 325 |
+| 0120 | 3'-0" x 3'-6" high |  |  | .800 | 260 |  |  | 305 | 355 |
+| 0140 | 3'-0" x 4'-0" high |  | 9 | .889 | 267 | 50 |  | 317 | 370 |
+| 0160 | 3'-0" x 4'-6" high |  |  | .889 | 285 | 50 |  | 335 | 390 |
+| 0180 | 3'-0" x 5'-0" high |  | 8 |  | 315 | 56.50 |  | 371.50 | 430 |
+| 0200 | 3'-6" x 6'-0" high |  | 8 |  | 380 | 56.50 |  | 436.50 | 500 |
+
+### 08 52 13.35 - Picture and Sliding Windows, Metal-Clad
+
+| ID   | Name         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | PICTURE AND SLIDING WINDOWS METAL-CLAD |  |  |  |  |  |  |  |  |  |
+| 2000 | Metal clad, dix picture, dbl. insul. glass, 4'-0" x 4'-0" high | 2 Corp | 12 | 1.333 | Ed. | 505 | 752245 |  | 580 | 665 |
+| 2100 | 4'-0" x 6'-0" high |  | 11 | 1.455 | 755 | 82 |  | 837 | 950 |
+| 2200 | 5'-0" x 6'-0" high |  | 10 | 1.600 | 835 | 90 |  | 925 | 1,050 |
+| 2300 | 6'-0" x 6'-0" high |  | 10 | 1.600 | 955 | 90 |  | 1,045 | 1,175 |
+| 2400 | Metal clad, dix sliding, dbl. insul. glass, 3'-0" x 3'-0" high | G1 Carp | 10 | .800 | 430 |  |  | 475 | 535 |
+| 2420 | 4'-0" x 3'-6" high | G | 9 | .889 | 525 | 50 |  | 575 | 650 |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 52 Wood Windows
+
+## 08 52 Wood Metal-Clad Wood Windows
+
+### 08 52 13.35 Picture and Sliding Windows Metal-Clad
+
+| ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 2440 | 5'-0" x 4'-0" high                        | G 1 Carp | 9           | 1.889       | Ea.  | 630      | 50     |           | 680     | 765            |
+| 2460 | 6'-0" x 5'-0" high                        | G      | 8            | 1           |      | 1,025    | 56.50  |           | 1,081.50| 1,200          |
+
+### 08 52 13.40 Bow and Bay Windows, Metal-Clad
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | BOW AND BAY WINDOWS, METAL-CLAD                                      |           |              |             |      |          |       |           |         |                |
+| 0100 | Metal-clad, deluxe, dbl. insul. glass, 8'-0" x 5'-0" high, 4 panels  | 2 Carp    | 10           | 1.600       | Ea.  | 1,875    | 90    |           | 1,965   | 2,175          |
+| 0120 | 10'0" x 5'0" high, 5 panels                                          |           | 8            | 2           |      | 2,000    | 113   |           | 2,113   | 2,400          |
+| 0140 | 10'0" x 6'-0" high, 5 panels                                         |           | 7            | 2.286       |      | 2,375    | 129   |           | 2,504   | 2,800          |
+| 0160 | 12'0" x 6'0" high, 6 panels                                          |           | 6            | 2.667       |      | 3,775    | 150   |           | 3,925   | 4,375          |
+| 0400 | Double-hung, bldrs. model, bay, 8'x4' high, dbl. insul. glass        |           | 10           | 1.600       |      | 1,475    | 90    |           | 1,565   | 1,750          |
+| 0440 | Low E glass                                                          |           | 10           | 1.600       |      | 1,600    | 90    |           | 1,690   | 1,900          |
+| 0460 | 9'-0" x 5'0" high, dbl. insul. glass                                 |           | 6            | 2.667       |      | 1,600    | 150   |           | 1,750   | 2,000          |
+| 0480 | Low E glass                                                          |           | 6            | 2.667       |      | 1,700    | 150   |           | 1,850   | 2,075          |
+| 0500 | Metal-clad, deluxe, dbl. insul. glass, 7'-0" x 4'-0" high            |           | 10           | 1.600       |      | 1,425    | 90    |           | 1,515   | 1,700          |
+| 0520 | 8'0" x 4'0" high                                                     |           | 8.2          |             |      | 1,475    | 113   |           | 1,588   | 1,800          |
+| 0540 | 8'-0" x 5'0" high                                                    |           | 7            | 2.286       |      | 1,500    | 129   |           | 1,629   | 1,850          |
+| 0560 | 9'-0" x 5'0" high                                                    |           | 6            | 2.667       |      | 1,625    | 150   |           | 1,775   | 2,000          |
+
+## 08 52 16 Plastic-Clad Wood Windows
+
+### 08 52 16.10 Bow Window
+
+| ID   | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | BOW WINDOW including frames, screens, and grilles                    |           |              |             |      |          |       |           |         |                |
+| 0020 | End panels operable                                                  |           |              |             |      |          |       |           |         |                |
+| 1000 | Bow type, casement, wood, bldrs. mdl., 8'x5' dbl. insul. glass, 4 panel | 2 Carp | 10           | 1.600       | Ea.  | 1,700    | 90    |           | 1,790   | 2,000          |
+| 1050 | Low E glass                                                          |           | 10           | 1.600       |      | 1,425    | 90    |           | 1,515   | 1,700          |
+| 1100 | 10'0" x 5'0", dbl. insul. glass, 6 panels                            |           | 6            | 2.667       |      | 1,500    | 150   |           | 1,650   | 1,875          |
+| 1200 | Low E glass, 6 panels                                                |           | 6            | 2.667       |      | 1,600    | 150   |           | 1,750   | 1,975          |
+| 1300 | Vinyl clad, bldrs. model, dbl. insul. glass, 6'-0" x 4'0", 3 panel   |           | 10           | 1.600       |      | 1,100    | 90    |           | 1,190   | 1,325          |
+| 1340 | 9'-0" x 4'-0", 4 panel                                               |           | 8            | 2           |      | 1,575    | 113   |           | 1,688   | 1,900          |
+| 1380 | 10'0" x 6'0", 5 panels                                               |           | 7            | 2.286       |      | 2,525    | 129   |           | 2,654   | 2,975          |
+| 1420 | 12'0" x 6'0", 6 panels                                               |           | 6            | 2.667       |      | 3,325    | 150   |           | 3,475   | 3,875          |
+| 2000 | Bay window, 8'x5', dbl. insul. glass                                 |           | 10           | 1.600       |      | 2,125    | 90    |           | 2,215   | 2,450          |
+| 2050 | Low E glass                                                          |           | 10           | 1.600       |      | 2,550    | 90    |           | 2,640   | 2,950          |
+| 2100 | 12'0" x 6'0", dbl. insul. glass, 6 panels                            |           | 6            | 2.667       |      | 2,625    | 150   |           | 2,775   | 3,125          |
+| 2200 | Low E glass                                                          |           | 6            | 2.667       |      | 3,700    | 150   |           | 3,850   | 4,300          |
+| 2280 | 6'-0" x 4'-0"                                                        |           | 11           | 1.455       |      | 1,425    | 82    |           | 1,507   | 1,675          |
+| 2300 | Vinyl-clad, premium, dbl. insul. glass, 8'0" x 5'0"                  |           | 10           | 1.600       |      | 1,775    | 90    |           | 1,865   | 2,100          |
+| 2340 | 10'0" x 5'-0"                                                        |           | 8            | 2           |      | 2,525    | 113   |           | 2,638   | 2,950          |
+| 2380 | 10'0" x 6'0"                                                         |           | 7            | 2.286       |      | 3,325    | 129   |           | 3,454   | 3,850          |
+| 2420 | 12'0" x 6'0"                                                         |           | 6            | 2.667       |      | 3,175    | 150   |           | 3,325   | 3,725          |
+| 3300 | Vinyl-clad, premium, dbl. insul. glass, 7'-0" x 4'6"                 |           | 10           | 1.600       |      | 1,500    | 90    |           | 1,590   | 1,750          |
+| 3340 | 8'-0" x 4'6"                                                         |           | 8            | 2           |      | 1,575    | 113   |           | 1,688   | 1,900          |
+| 3380 | 8'-0" x 5'-0"                                                        |           | 7            | 2.286       |      | 1,650    | 129   |           | 1,779   | 2,000          |
+| 3420 | 9'0" x 5'0"                                                          |           | 6            | 2.667       |      | 1,700    | 150   |           | 1,850   | 2,075          |
+
+### 08 52 16.15 Awning Window Vinyl-Clad
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | AWNING WINDOW VINYL-CLAD including frames, screens, and grilles |        |              |             |      |          |       |           |         |                |
+| 0240 | Vinyl clad, 34" x 22"                                     | 1 Carp | 10           | .800        | Ea.  | 355      | 45    |           | 400     | 455            |
+| 0280 | 36" x 28"                                                 |        | 9            | .889        |      | 405      | 50    |           | 455     | 520            |
+| 0300 | 36" x 36"                                                 |        | 9            | .889        |      | 465      | 50    |           | 515     | 585            |
+| 0340 | 40" x 22"                                                 |        | 10           | .800        |      | 395      | 45    |           | 440     | 500            |
+| 0360 | 48" x 28"                                                 |        | 8            | 1           |      | 490      | 56.50 |           | 546.50  | 625            |
+| 0380 | 60" x 36"                                                 |        | 8            |             |      | 675      | 56.50 |           | 731.50  | 825            |
+
+---
+
+support your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer on
+
+# 08082 Wood Wind52s
+
+## 08 52 16 Woodastic-Clad Wood WindWindows52 16.30 Palladian Windows
+
+### 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | PALLADIAN WINDOWS                                                    |        |              |             |      |          |         |           |          |                |
+| 0020  | Vinyl-clad, double insulated glass, including frame and grilles      |        |              |             |      |          |         |           |          |                |
+| 0040  | 3'-2" x 2'-6" high                                                   | 2 Carp | 11           | 1.455       | Ea.  | 1,375    | 82      |           | 1,457    | 1,625          |
+| 0060  | 3'-2" x 4'-10"                                                       |        | 11           | 1.455       |      | 1,900    | 82      |           | 1,982    | 2,225          |
+| 0080  | 3'-2" x 6'-4"                                                        |        | 10           | 1.600       |      | 1,850    | 90      |           | 1,940    | 2,175          |
+| 0100  | 4'-0" x 4'-0"                                                        |        | 10           | 1.600       |      | 1,700    | 90      |           | 1,790    | 2,000          |
+| 0120  | 4'-0" x 5'-4"                                                        | 3 Corp | 10           | 2.400       |      | 2,050    | 135     |           | 2,185    | 2,450          |
+| 0140  | 4'-0" x 6'-0"                                                        |        | 9            | 2.667       |      | 2,425    | 150     |           | 2,575    | 2,900          |
+| 0160  | 4'-0" x 7'-4"                                                        |        | 9            | 2.667       |      | 2,300    | 150     |           | 2,450    | 2,750          |
+| 0180  | 5'-5" x 4'-10"                                                       |        | 9            | 2.667       |      | 2,475    | 150     |           | 2,625    | 2,950          |
+| 0200  | 5'-5" x 6'-10"                                                       |        | 9            | 2.667       |      | 2,850    | 150     |           | 3,000    | 3,375          |
+| 0220  | 5'-5" x 7'-9"                                                        |        | 9            | 2.667       |      | 3,025    | 150     |           | 3,175    | 3,575          |
+| 0240  | 6'-0" x 7'-11"                                                       |        | 8            | 3           |      | 3,875    | 169     |           | 4,044    | 4,500          |
+| 0260  | 8'-0" x 6'-0"                                                        |        | 8            | 3           |      | 3,450    | 169     |           | 3,619    | 4,050          |
+
+---
+
+## 08 52 16.35 Double-Hung Window
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | DOUBLE-HUNG WINDOW including frames, screens, and grilles            |        |              |             |      |          |         |           |          |                |
+| 0300  | Vinyl clad, premium, double insulated glass, 2'-6" x 3'-0"           | 1 Carp | 10           | .800        | Ea.  | 340      | 45      |           | 385      | 440            |
+| 0305  | 2'-6" x 4'-0"                                                        | G      | 10           | .800        |      | 296      | 45      |           | 341      | 390            |
+| 0400  | 3'-0" x 3'-6"                                                        | G      | 10           | .800        |      | 283      | 45      |           | 328      | 375            |
+| 0500  | 3'-0" x 4'-0"                                                        | G      | 9            | .889        |      | 320      | 50      |           | 370      | 430            |
+| 0600  | 3'-0" x 4'-6"                                                        | G      | 9            | .889        |      | 355      | 50      |           | 405      | 465            |
+| 0700  | 3'-0" x 5'-0"                                                        | G      | 8            |             |      | 365      | 56.50   |           | 421.50   | 485            |
+| 0790  | 3'-4" x 5'-0"                                                        | G      | 81           |             |      | 375      | 56.50   |           | 431.50   | 495            |
+| 0800  | 3'-6" x 6'-0"                                                        | G      | 877          | 1           |      | 415      | 56.50   |           | 471.50   | 545            |
+| 0820  | 4'-0" x 5'-0"                                                        | G      |              | 1.143       |      | 440      | 64.50   |           | 504.50   | 580            |
+| 0830  | 4'-0" x 6'-0"                                                        | G      | 7            | 1.143       |      | 535      | 64.50   |           | 599.50   | 685            |
+
+---
+
+## 08 52 16.40 Transom Windows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | TRANSOM WINDOWS                                                      |        |              |             |      |          |         |           |          |                |
+| 0050  | Vinyl clad, premium, dbl. insul. glass, 32" x 8"                     | 1 Carp | 16           | .500        | Ea.  | 249      | 28      |           | 277      | 315            |
+| 0100  | 36" x 8"                                                             |        | 16           | .500        |      | 224      | 28      |           | 252      | 289            |
+| 0110  | 36" x 12"                                                            |        | 16           | .500        |      | 241      | 28      |           | 269      | 305            |
+| 0200  | 44" x 48"                                                            |        | 12           | .667        |      | 630      | 37.50   |           | 667.50   | 750            |
+| 1000  | Vinyl-clad, premium, dbl. insul. glass, 4'-0" x 4'-0"                | 12 Carp| 12           | 1.333       |      | 710      | 75      |           | 785      | 890            |
+| 1100  | 4'-0" x 6'-0"                                                        |        | 11           | 1.455       |      | 1,300    | 82      |           | 1,382    | 1,550          |
+| 1200  | 5'-0" x 6'-0"                                                        |        | 10           | 1.600       |      | 1,450    | 90      |           | 1,540    | 1,700          |
+| 1300  | 6'-0" x 6'-0"                                                        |        | 10           | 1.600       |      | 1,450    | 90      |           | 1,540    | 1,725          |
+
+---
+
+## 08 52 16.70 Vinyl-Clad, Premium, DBL. Insul. Glass
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | VINYL-CLAD, PREMIUM, DBL. INSUL. GLASS                              |        |              |             |      |          |         |           |          |                |
+| 1000  | Sliding, 3'-0" x 3'-0"                                               | 1 Carp | 10           | .800        | Ea.  | 855      | 45      |           | 900      | 1,000          |
+| 1050  | 4'-0" x 3'-6"                                                        |        | 9            | .889        |      | 1,175    | 50      |           | 1,225    | 1,375          |
+| 1100  | 5'-0" x 4'-0"                                                        |        | 9            | .889        |      | 1,250    | 50      |           | 1,300    | 1,450          |
+| 1150  | 6'-0" x 5'-0"                                                        |        | 8            |             |      | 1,600    | 56.50   |           | 1,656.50 | 1,825          |
+
+---
+
+## 08 52 50 - Window Accessories
+
+### 08 52 50.10 Window Grille or Muntin
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | WINDOW GRILLE OR MUNTIN, snap in type                                |        |              |             |      |          |         |           |          |                |
+| 0020  | Standard pattern interior grilles                                    |        |              |             |      |          |         |           |          |                |
+| 2000  | Wood, awning window, glass size, 28" x 16" high                      | 1 Carp | 30           | .267        | Ea.  | 41       | 15      |           | 56       | 67             |
+| 2060  | 44" x 24" high                                                       |        | 32           | .250        |      | 59       | 14.10   |           | 73.10    | 86             |
+| 2100  | Casement, glass size, 20" x 36" high                                 |        | 30           | .267        |      | 45.50    | 15      |           | 60.50    | 72             |
+| 2180  | 20" x 56" high                                                       |        | 32           | .250        |      | 61.50    | 14.10   |           | 75.60    | 88             |
+| 2200  | Double-hung, glass size, 16" x 24" high                              |        | 24           | .333        | Set  | 79       | 18.75   |           | 97.75    | 115            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00852 Wood Windows
+
+## 18 52 Woodindow Accessories
+
+8 Windows0 Window Grille or Muntin  
+32" x 32" high  
+Picture, glass size, 48" x 48" high  
+280  
+500  
+580  
+60" x 68" high  
+600  
+Sliding, glass size, 14" x 36" high  
+680  
+36" x 36" high  
+
+## 08 52 66 - Wood Window Screens
+
+### 8 52 50 Window Accessories
+
+| ID         | Name                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------------|--------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 8 52 50.10 | Window Grille or Muntin              |          |              |             |      |          |        |           |         |                |
+| 280        | 32" x 32" high                       | 1 Carp   | 34           | 235         | Set  | 183      | 13.25  |           | 196.25  | 221            |
+| 500        | Picture, glass size, 48" x 48" high  | བྷ      | .267         | Ea.         | 170  | 15       |        | 185       | 210     |                |
+| 580        | 60" x 68" high                       | ཧྨ      | .286         | "           | 268  | 16.10    |        | 284.10    | 320     |                |
+| 600        | Sliding, glass size, 14" x 36" high  | ཊ 24     | .333         | Set         | 61.50| 18.75    |        | 80.25     | 96      |                |
+| 680        | 36" x 36" high                       | སྤུ22   | .364         | P           | 61   | 20.50    |        | 81.50     | 97.50   |                |
+
+## 08 52 66 - Wood Window Screens
+
+| ID         | Name                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------------|--------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 8 52 66.10 | Wood Screens                         |          |              |             |      |          |        |           |         |                |
+| 010        | WOOD SCREENS                         |          |              |             |      |          |        |           |         |                |
+| 020        | Over 3 S.F., 3/4" frames             | 2 Carp   | 375          | .043        | S.F  | 6.35     | 2.40   |           | 8.75    | 10.55          |
+| 100        | 1-1/8" frames                        | "        | 375          | .043        |      | 11.30    | 2.40   |           | 13.70   | 16.05          |
+
+## 08 52 69 - Wood Storm Windows
+
+| ID         | Name                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------------|--------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 08 52 69.10| Storm Windows                        |          |              |             |      |          |        |           |         |                |
+| 010        | STORM WINDOWS, aluminum residential  |          |              |             |      |          |        |           |         |                |
+| 300        | Basement, mill finish, incl. fiberglass screen | 555 2 Carp | 30 | .533 | Ea. | 49 | 330 | | 79 | 98.50 |
+| 320        | 1'-10" x 1'-0" high                  |          | 30           | .533        |      | 53.50    | 30     |           | 83.50   | 104            |
+| 1360       | 3'-4" x 2'-0" high                   |          | 30           | .533        | +    | 69.50    | 30     |           | 99.50   | 121            |
+| 1600       | Double hung, combination, storm & screen |      |              |             |      |          |        |           |         |                |
+| 1000       | Clear anodic coating, 2'0" x 3'5" high | 5G5555GG2 Carp | 302222222.533 | Ea. | 136 | 303333333 | | 166 | 195 |
+| 020        | 2'-6" x 5'-0" high                   |          | 28           | .571        |      | 169      | 32     |           | 201     | 234            |
+| 040        | 4'0" x 6'-0" high                    |          | 25           | .640        |      | 174      | 36     |           | 210     | 245            |
+| 400        | White painted, 2'0" x 3'-5" high     |          | 30           | .533        |      | 141      | 30     |           | 171     | 200            |
+| 2420       | 2'6" x 5'-0" high                    |          | 28           | .571        |      | 239      | 32     |           | 271     | 310            |
+| 2440       | 4'0" x 6'-0" high                    |          | 25           | .640        |      | 158      | 36     |           | 194     | 228            |
+| 2600       | Mill finish, 2'-0" x 3'5" high       |          | 30           | .533        |      | 113      | 30     |           | 143     | 169            |
+| 2620       | 2'-6" x 5'-0" high                   |          | 28           | .571        |      | 142      | 32     |           | 174     | 204            |
+| 2640       | 4'0" x 6'-8" high                    |          | 25           | .640        |      | 180      | 36     |           | 216     | 251            |
+
+## 08 53 Plastic Windows
+
+### 08 53 13 - Vinyl Windows
+
+#### 08 53 13.20 Vinyl Single-Hung Windows
+
+| ID    | Name                                         | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | VINYL SINGLE-HUNG WINDOWS, insulated glass   |              |              |             |      |          |        |           |         |                |
+| 0020  | Grids, low E, Jfin, extension jambs          |              |              |             |      |          |        |           |         |                |
+| 0130  | 25" x 41"                                   | 5G555555255Carp5 | 20       | .800        | Ea. | 208      | 45     |           | 253     | 296            |
+| 0140  | 25" x 49"                                   | G            | 18           | .889        |      | 215      | 50     |           | 265     | 310            |
+| 0150  | 25" x 57"                                   | G            | 17           | .941        |      | 235      | 53     |           | 288     | 335            |
+| 0160  | 25" x 65"                                   | G            | 16           | 1           |      | 2631     | 56.50  |           | 319.50  | 375            |
+| 0170  | 29" x 41"                                   | G            | 18           | .8891       |      | 2091     | 50     |           | 259     | 305            |
+| 0180  | 29" x 53"                                   | G            | 18           | .889        |      | 227      | 50     |           | 277     | 325            |
+| 0190  | 29" x 57"                                   | G            | 17           | .941        |      | 245      | 53     |           | 298     | 350            |
+| 3200  | 29" x 65"                                   | G            | 16           | 1           |      | 292      | 56.50  |           | 348.50  | 405            |
+| 0210  | 33" x 41"                                   | G            | 20           | .800        |      | 246      | 45     |           | 291     | 340            |
+| 0220  | 33" x 53"                                   | G            | 18           | .889        |      | 221      | 50     |           | 271     | 320            |
+| 0230  | 33" x 57"                                   | G            | 17           | .941        |      | 292      | 53     |           | 345     | 400            |
+| 0240  | 33" x 65"                                   | G            | 16           | 1           |      | 299      | 56.50  |           | 355.50  | 415            |
+| 0250  | 37" x 41"                                   | G            | 20           | .800        |      | 227      | 45     |           | 272     | 315            |
+| 0260  | 37" x 53"                                   | G            | 18           | .889        |      | 262      | 50     |           | 312     | 365            |
+| 0270  | 37" x 57"                                   | G            | 17           | .941        |      | 274      | 53     |           | 327     | 380            |
+| 0280  | 37" x 65"                                   |              | 16           | 1           |      | 310      | 56.50  |           | 366.50  | 430            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 53 13 - Vinyl Windows  
+## 08 53 13.30 Vinyl Double-Hung Windows
+
+### 0010 VINYL DOUBLE-HUNG WINDOWS, insulated glass  
+Grids, low E, J fin, ext. jambs, 21" x 53"  
+21" x 37"
+
+| ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0100  | Grids, low E, J fi, ext. jambs, 21" x 53"                            | 555555GG2GGCarpGGGGG18GGGGGGG.889GGGGGGGEa5.5 | 143          | 50          |       | 193   |                |
+| 0102  | 21" x 37"                                                            |           | 18           | .889        |      | 167      | 50    |           | 217   |                |
+| 0104  | 21" x 41"                                                            |           | 18           | .889        |      | 243      | 50    |           | 293   |                |
+| 0106  | 21" x 49"                                                            |           | 18           | .889        |      | 216      | 50    |           | 266   |                |
+| 0110  | 21" x 57"                                                            |           | 17           | .941        |      | 268      | 53    |           | 321   |                |
+| 0120  | 21" x 65"                                                            |           | 16           | 1           |      | 289      | 56.50 |           | 345.50|                |
+| 0128  | 25" x 37"                                                            |           | 20           | .800        |      | 231      | 45    |           | 276   |                |
+| 0130  | 25" x 41"                                                            |           | 20           | .800        |      | 241      | 45    |           | 286   |                |
+| 0140  | 25" x 49"                                                            |           | 18           | .889        |      | 246      | 50    |           | 296   |                |
+| 0145  | 25" x 53"                                                            |           | 18           | .889        |      | 271      | 50    |           | 321   |                |
+| 0150  | 25" x 57"                                                            |           | 17           | .941        |      | 217      | 53    |           | 270   |                |
+| 0160  | 25" x 65"                                                            |           | 16           | 1           |      | 200      | 56.50 |           | 256.50|                |
+| 0162  | 25" x 69"                                                            |           |              |             |      | 235      | 56.50 |           | 291.50|                |
+| 0164  | 25" x 77"                                                            |           | 16           | 1           |      | 241      | 56.50 |           | 297.50|                |
+| 0168  | 29" x 37"                                                            |           | 18           | .889        |      | 240      | 50    |           | 290   |                |
+| 0170  | 29" x 41"                                                            |           | 18           | .889        |      | 260      | 50    |           | 310   |                |
+| 0172  | 29" x 49"                                                            |           | 18           | .889        |      | 268      | 50    |           | 318   |                |
+| 0180  | 29" x 53"                                                            |           | 18           | .889        |      | 275      | 50    |           | 325   |                |
+| 0190  | 29" x 57"                                                            |           | 17           | .941        |      | 185      | 53    |           | 238   |                |
+| 0200  | 29" x 65"                                                            |           | 16           | 1           |      | 277      | 56.50 |           | 333.50|                |
+| 0202  | 29" x 69"                                                            |           | 16           | 1           |      | 257      | 56.50 |           | 313.50|                |
+| 0205  | 29" x 77"                                                            |           | 16           | 1           |      | 229      | 56.50 |           | 285.50|                |
+| 0208  | 33" x 37"                                                            |           | 20           | .800        |      | 257      | 45    |           | 302   |                |
+| 0210  | 33" x 41"                                                            |           | 20           | .800        |      | 264      | 45    |           | 309   |                |
+| 0215  | 33" x 49"                                                            |           | 20           | .800        |      | 219      | 45    |           | 264   |                |
+| 0220  | 33" x 53"                                                            |           | 18           | .889        |      | 188      | 50    |           | 238   |                |
+| 0230  | 33" x 57"                                                            |           | 17           | .941        |      | 213      | 53    |           | 266   |                |
+| 0240  | 33" x 65"                                                            |           | 16           | 1           |      | 245      | 56.50 |           | 301.50|                |
+| 0242  | 33" x 69"                                                            |           | 16           | 1           |      | 238      | 56.50 |           | 294.50|                |
+| 0246  | 33" x 77"                                                            |           |              |             |      | 222      | 56.50 |           | 278.50|                |
+| 0250  | 37" x 41"                                                            |           | 20           | .800        |      | 225      | 45    |           | 270   |                |
+| 0255  | 37" x 49"                                                            |           | 20           | .800        |      | 239      | 45    |           | 284   |                |
+| 0260  | 37" x 53"                                                            |           | 18           | .889        |      | 245      | 50    |           | 295   |                |
+| 0270  | 37" x 57"                                                            |           | 17           | .941        |      | 264      | 53    |           | 317   |                |
+| 0280  | 37" x 65"                                                            |           | 16           | 1           |      | 283      | 56.50 |           | 339.50|                |
+| 0282  | 37" x 69"                                                            |           | 16           | 1           |      | 293      | 56.50 |           | 349.50|                |
+| 0286  | 37" x 77"                                                            |           | 16           |             |      | 289      | 56.50 |           | 345.50|                |
+| 0300  | Solid vinyl, average quality, double insulated glass, 2'-0" x 3'-0"  | 1 Carp    | 10           | .800        |      | 237      | 45    |           | 282   |                |
+| 0310  | 3'-0" x 4'-0"                                                        |           | 9            | .889        |      | 189      | 50    |           | 239   |                |
+| 0330  | Premium, double insulated glass, 2'-6" x 3'-0"                       |           | 10           | .800        |      | 255      | 45    |           | 300   |                |
+| 0340  | 3'-0" x 3'-6"                                                        |           | 9            | .889        |      | 267      | 50    |           | 317   |                |
+| 0350  | 3'-0" x 4'-0"                                                        |           | 9            | .889        |      | 273      | 50    |           | 323   |                |
+| 0360  | 3'-0" x 4'-6"                                                        |           | 9            | .889        |      | 375      | 50    |           | 425   |                |
+| 0370  | 3' 0" x 5'-0"                                                        |           | 8            | 1           |      | 335      | 56.50 |           | 391.50|                |
+| 0380  | 3'-6" x 6'-0"                                                        |           | 8            | 1           | ww   | 335      | 56.50 |           | 391.50|                |
+
+---
+
+## 08 53 13.40 Vinyl Casement Windows
+
+| ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | VINYL CASEMENT WINDOWS, insulated glass                              |           |              |             |      |          |       |           |       |                |
+| 0015  | Grids, low E, J fin, extension jambs, screens                        |           |              |             |      |          |       |           |       |                |
+| 0100  | One lite, 21" x 41"                                                  | G 2 Carp  | 222          | .800        | Eo . | 370      | 554   |           | 415   |                |
+| 0110  | 21" x 47"                                                            | G         |              | .800        |      | 380      |       |           | 425   |                |
+| 0120  | 21" x 53"                                                            | G         |              | .800        |      | 410      |       |           | 455   |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 53 13 - Vinyl Windows
+
+## 08 53 13.40 Vinyl Casement Windows
+
+| ID   | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0128 | 24" x 35"                              | 5G     | 5555СUG2GGCarpGGGGG1999 | .842       | Ea.  | 325      | 47.50  |           | 372.50  | 425            |
+| 0130 | 24" x 41"                              |        | 19           | .842        |      | 375      | 47.50  |           | 422.50  | 485            |
+| 0140 | 24" x 47"                              |        | 19           | .842        |      | 400      | 47.50  |           | 447.50  | 510            |
+| 0150 | 24" x 53"                              |        | 19           | .842        |      | 420      | 47.50  |           | 467.50  | 530            |
+| 0158 | 28" x 35"                              |        | 19           | .842        |      | 370      | 47.50  |           | 417.50  | 480            |
+| 0160 | 28" x 41"                              |        | 19           | .842        |      | 335      | 47.50  |           | 382.50  | 435            |
+| 0170 | 28" x 47"                              |        | 19           | .842        |      | 420      | 47.50  |           | 467.50  | 530            |
+| 0180 | 28" x 53"                              |        | 19           | .842        |      | 273      | 47.50  |           | 320.50  | 370            |
+| 0184 | 28" x 59"                              |        | 19           | .842        |      | 320      | 47.50  |           | 367.50  | 420            |
+| 0188 | Two lite, 33" x 35"                    |        | 18           | .889        |      | 380      | 50     |           | 430     | 495            |
+| 0190 | 33" x 41"                              |        | 18           | .889        |      | 370      | 50     |           | 420     | 480            |
+| 0200 | 33" x 47"                              |        | 18           | .889        |      | 390      | 50     |           | 440     | 505            |
+| 0210 | 33" x 53"                              |        | 18           | .889        |      | 410      | 50     |           | 460     | 525            |
+| 0212 | 33" x 59"                              |        | 18           | .889        |      | 430      | 50     |           | 480     | 550            |
+| 0215 | 33" x 72"                              |        | 18           | .889        |      | 465      | 50     |           | 515     | 590            |
+| 0220 | 41" x 41"                              |        | 18           | .889        |      | 460      | 50     |           | 510     | 580            |
+| 0230 | 41" x 47"                              |        | 18           | .889        |      | 460      | 50     |           | 510     | 580            |
+| 0240 | 41" x 53"                              |        | 17           | .941        |      | 550      | 53     |           | 603     | 685            |
+| 0242 | 41" x 59"                              |        | 17           | .941        |      | 530      | 53     |           | 583     | 665            |
+| 0246 | 41" x 72"                              |        | 17           | .941        |      | 545      | 53     |           | 598     | 680            |
+| 0250 | 47" x 41"                              |        | 17           | .941        |      | 595      | 53     |           | 648     | 735            |
+| 0260 | 47" x 47"                              |        | 17           | .941        |      | 450      | 53     |           | 503     | 575            |
+| 0270 | 47" x 53"                              |        | 17           | .941        |      | 495      | 53     |           | 548     | 625            |
+| 0272 | 47" x 59"                              |        | 17           | .941        |      | 670      | 53     |           | 723     | 820            |
+| 0280 | 56" x 41"                              |        | 15           | 1.067       |      | 495      | 60     |           | 555     | 635            |
+| 0290 | 56" x 47"                              |        | 15           | 1.067       |      | 495      | 60     |           | 555     | 635            |
+| 0300 | 56" x 53"                              |        | 15           | 1.067       |      | 540      | 60     |           | 600     | 685            |
+| 0302 | 56" x 59"                              |        | 15           | 1.067       |      | 540      | 60     |           | 600     | 685            |
+| 0310 | 56" x 72"                              |        | 15           | 1.067       |      | 700      | 60     |           | 760     | 860            |
+| 0340 | Solid vinyl, premium, double insulated glass, 2'0" x 3'-0" high | 1 Corp | 10           | .800        |      | 330      | 45     |           | 375     | 430            |
+| 0360 | 2'-0" x 4'-0" high                      |        | 9            | .889        |      | 365      | 50     |           | 415     | 475            |
+| 0380 | 2-0" x 5'-0" high                       |        | 8            | 1           |      | 415      | 56.50  |           | 471.50  | 540            |
+
+---
+
+## 08 53 13.50 Vinyl Picture Windows
+
+| ID   | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | VINYL PICTURE WINDOWS, insulated glass |        |              |             |      |          |        |           |         |                |
+| 0120 | Grids, low E, J fin, ext. jambs, 47" x 35" | 2 Carp | 12           | 1.333       | Ed.  | 229      | 3758828|           | 304     | 365            |
+| 0130 | 47" x 41"                              |        | 12           | 1.333       |      | 320      | 75     |           | 395     | 465            |
+| 0140 | 47" x 47"                              |        | 12           | 1.333       |      | 237      | 75     |           | 312     | 370            |
+| 0150 | 47" x 53"                              |        | 11           | 1.455       |      | 305      |        |           | 387     | 455            |
+| 0160 | 71" x 35"                              |        | 11           | 1.455       |      | 271      |        |           | 353     | 420            |
+| 0170 | 71" x 41"                              |        | 11           | 11.455      |      | 218      |        |           | 300     | 360            |
+| 0180 | 71" x 47"                              |        |              | 1.455       |      | 243      |        |           | 325     | 390            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08084 Composit54Windows
+
+08 Compositeiberglass Windows  
+08 54 13.10 FibWindows Single-Hung Windows  
+0010 FIBERGLASS SINGLE-HUNG WINDOWS  
+Grids, low E, 18" x 24"  
+0100  
+0110  
+18" x 40"  
+0130  
+24" x 40"  
+0230  
+36" x 36"  
+0250  
+36" x 48"  
+0260  
+36" x 60"  
+0280  
+36" x 72"  
+
+| ID    | Name                                              | Crew         | Daily Output | Labor-Hours | Unit | Material | Labor    | Equipment | Total    | Total Incl O&P |
+|-------|---------------------------------------------------|--------------|-------------|-------------|------|----------|----------|-----------|----------|----------------|
+| 08    | 54 13 - Fiberglass Windows                        |              |             |             |      |          |          |           |          |                |
+| 08    | 54 13.10 Fiberglass Single-Hung Windows           |              |             |             |      |          |          |           |          |                |
+| 0010  | FIBERGLASS SINGLE-HUNG WINDOWS                    |              |             |             |      |          |          |           |          |                |
+| 0100  | Grids, low E, 18" x 24"                           | GG5555552 Carp | 18          | .889        | Eg . | 375      | 25034255 |           | 425      | 41             |
+| 0110  | 18" x 40"                                         |              | 17          | .941        |      | 365      |          |           | 418      | 48             |
+| 0130  | 24" x 40"                                         |              | 20          | .800        |      | 395      |          |           | 440      | 5              |
+| 0230  | 36" x 36"                                         |              | 17          | .941        |      | 405      |          |           | 458      |                |
+| 0250  | 36" x 48"                                         |              | 8 20        | .800        |      | 440      |          |           | 485      | 5              |
+| 0260  | 36" x 60"                                         | དངཚ18        | .889        |             | 485  | 50       |          | 535       | 6        |
+| 0280  | 36" x 72"                                         |              | 16          | 1           |      | 525      | 56.50    |           | 581.50   | 61             |
+| 0290  | 48" x 40"                                         |              | 16          |             |      | 525      | 56.50    |           | 581.50   | 6              |
+| 08    | 62 Unit Skylights                                 |              |             |             |      |          |          |           |          |                |
+| 08    | 62 13 - Domed Unit Skylights                      |              |             |             |      |          |          |           |          |                |
+| 08    | 62 13.20 Skylights                                |              |             |             |      |          |          |           |          |                |
+| 0010  | SKYLIGHTS, flush or curb mounted                  |              |             |             |      |          |          |           |          |                |
+| 2120  | Ventilating insulated plexiglass dome with        |              |             |             |      |          |          |           |          |                |
+| 2130  | curb mounting, 36" x 36"                          | 5G5555 G-3   | 12          | 2.667       | Ea . | 495      | 151      |           | 646      |                |
+| 2150  | 52" x 52"                                         | G            | 12          | 2.667       |      | 690      | 151      |           | 841      | 0              |
+| 2160  | 28" x 52"                                         | G            | 10          | 3.200       |      | 575      | 181      |           | 756      | 9              |
+| 2170  | 36" x 52"                                         | G            | 10          | 3.200       |      | 635      | 181      |           | 816      | 9              |
+| 2180  | For electric opening system, add                  | G            |             |             |      | 370      |          |           | 370      | 4              |
+| 2300  | Insulated safety glass with aluminum frame        | G G-3        | 160         | .200        | S.F. | 99.50    | 11.30    |           | 110.80   |                |
+| 08    | 63 Metal - Framed Skylights                       |              |             |             |      |          |          |           |          |                |
+| 08    | 63 13 Domed Metal - Framed Skylights              |              |             |             |      |          |          |           |          |                |
+| 08    | 63 13.20 Skylight Rigid Metal -Framed             |              |             |             |      |          |          |           |          |                |
+| 0010  | SKYLIGHT RIGID METAL -FRAMED skylight framing is aluminum |      |             |             |      |          |          |           |          |                |
+| 0050  | Fixed acrylic double domes, curb mount, 25-1/2" x 25-1/2" | G-3 | 10          | 3.200        | Eo . | 210      | 181      |           | 391      | 557            |
+| 0060  | 25-1/2" x 33-1/2"                                 |              | 10          | 3.200        |      | 254      | 181      |           | 435      |                |
+| 0070  | 25-1/2" x 49-1/2"                                 |              | 6           | 5.333        |      | 279      | 300      |           | 579      | 7              |
+| 0080  | 33-1/2" x 33-1/2"                                 |              | 8           |              |      | 310      | 226      |           | 536      | 6              |
+| 0090  | 37-1/2" x 25-1/2"                                 |              | 8           | 4            |      | 271      | 226      |           | 497      | 6              |
+| 0100  | 37-1/2" x 37-1/2"                                 |              | 86          |              |      | 370      | 226      |           | 596      | 7              |
+| 0110  | 37-1/2" x 49-1/2"                                 |              |             | 5.333        |      | 445      | 300      |           | 745      | 9              |
+| 0120  | 49-1/2" x 33-1/2"                                 |              | 6           | 5.333        |      | 420      | 300      |           | 720      | 9              |
+| 0130  | 49-1/2" x 49-1/2"                                 |              | 6           | 5.333        |      | 465      | 300      |           | 765      | 9              |
+| 1000  | Fixed tempered glass, curb mount, 17-1/2" x 33-1/2" |            | 10          | 3.200        |      | 155      | 181      |           | 336      | 4              |
+| 1020  | 17-1/2" x 49-1/2"                                 |              | 6           | 5.333        |      | 176      | 300      |           | 476      | 6              |
+| 1030  | 25-1/2" x 25-1/2"                                 |              | 10          | 3.200        |      | 155      | 181      |           | 336      | 4              |
+| 1040  | 25-1/2" x 33-1/2"                                 |              | 10          | 3.200        |      | 184      | 181      |           | 365      | 4              |
+| 1050  | 25-1/2" x 37-1/2"                                 |              | 8           |              |      | 196      | 226      |           | 422      | 5              |
+| 1060  | 25-1/2" x 49-1/2"                                 | 899          | 5.333       |              | 520  | 300      | :         | 820       | 1,0      |
+| 1070  | 25-1/2" x 73-1/2"                                 |              | 6           | 5.333        |      | 355      | 300      |           | 655      | 8              |
+| 1080  | 33-1/2" x 33-1/2"                                 |              |             | 4            |      | 215      | 226      |           | 441      | 5              |
+| 2000  | Manual vent tempered glass & screen, curb, 25-1/2" x 25-1/2" | | 10 | 3.200 |      | 400      | 181      |           | 581      | 7              |
+| 2020  | 25-1/2" x 37-1/2"                                 |              | 10          | 3.200        |      | 460      | 181      |           | 641      | 7              |
+| 2030  | 25-1/2" x 49-1/2"                                 |              | 8           |              |      | 495      | 226      |           | 721      | 8              |
+| 2040  | 33-1/2" x 33-1/2"                                 |              | 8           | 4            |      | 530      | 226      |           | 756      | 9              |
+| 2050  | 33-1/2" x 49-1/2"                                 |              | 6           | 5.333        | | 670      | 300      |           | 970      | 1,1            |
+| 2060  | 37-1/2" x 37-1/2"                                 |              | 6           | 5.333        |      | 610      | 300      |           | 910      | 1,1            |
+
+302 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 .
+
+# 08 63 Metal-Framed Skylights
+
+## 08 63 13 - Domed Metal-Framed Skylights
+
+08 63 13.Skylights Rigid Metal-Framed  
+49-1/2" x 49-1/2"  
+Electric vent tempered glass, curb mount, 25-1/2" x 25-1/2"  
+2070  
+3000  
+3020  
+25-1/2" x 37-1/2"  
+3030  
+25-1/2" x 49-1/2"  
+3040  
+33-1/2
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 2070  | 49-1/2" x 49-1/2"                                                    | G-3    | 6           | 5.333       | Ea.    | 785      | 300   |           | 1,085  | 1,300          |
+| 3000  | Electric vent tempered glass, curb mount, 25-1/2" x 25-1/2"          |        | 10          | 3.200       |        | 1,050    | 181   |           | 1,231  | 1,425          |
+| 3020  | 25-1/2" x 37-1/2"                                                    |        | 10          | 3.200       |        | 1,125    | 181   |           | 1,306  | 1,525          |
+| 3030  | 25-1/2" x 49-1/2"                                                    |        | 8           | 4           |        | 1,150    | 226   |           | 1,376  | 1,625          |
+| 3040  | 33-1/2" x 33-1/2"                                                    |        | 8           | 4           |        | 1,175    | 226   |           | 1,401  | 1,650          |
+| 3050  | 33-1/2" x 49-1/2"                                                    |        | 6           | 5.333       |        | 1,250    | 300   |           | 1,550  | 1,825          |
+| 3060  | 37-1/2" x 37-1/2"                                                    |        | 6           | 5.333       |        | 1,225    | 300   |           | 1,525  | 1,800          |
+| 30701 | 49-1/2" x 49-1/2"                                                    |        | 6           | 5.333       |        | 1,350    | 300   |           | 1,650  | 1,925          |
+
+# 08 71 Door Hardware
+
+## 08 71 13 - Automatic Door Operators
+
+### 08 71 13.10 Automatic Openers Commercial
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | AUTOMATIC OPENERS COMMERCIAL                                         |        |             |             |        |          |       |           |        |                |
+| 0020  | Pneumatic door opener incl. motion sens, control box, tubing, compressor |        |             |             |        |          |       |           |        |                |
+| 0050  | For single swing door, per opening                                   | 2 Skwk | .80         | 220         | Ea.    | 5,550    | 1,175 |           | 6,725  | 7,900          |
+| 0100  | Pair, per opening                                                    |        | .50         | 32          | Opng.  | 7,950    | 1,875 |           | 9,825  | 11,600         |
+| 1000  | For single sliding door, per opening                                 |        | .60         | 26.667      |        | 5,925    | 1,575 |           | 7,500  | 8,875          |
+| 1300  | Bi-parting pair                                                      |        | .50         | 32          |        | 7,925    | 1,875 |           | 9,800  | 11,600         |
+| 1420  | Electronic door opener incl. motion sens, 12 V control box, motor    |        |             |             |        |          |       |           |        |                |
+| 1450  | For single swing door, per opening                                   | 2 Skwk | .80         | 20          | Opng.  | 3,975    | 1,175 |           | 5,150  | 6,150          |
+| 1500  | Pair, per opening                                                    |        | .50         | 32          |        | 7,975    | 1,875 |           | 9,850  | 11,600         |
+| 1600  | For single sliding door, per opening                                 |        | .60         | 26.667      |        | 5,225    | 1,575 |           | 6,800  | 8,100          |
+| 1700  | Bi-parting pair                                                      |        | .50         | 32          |        | 5,850    | 1,875 |           | 7,725  | 9,250          |
+| 1750  | Handicap actuator buttons, 2, incl. 12 V DC wiring, add              | 1 Carp | 1.50        | 5.333       | Pr.    | 480      | 300   |           | 780    | 975            |
+
+### 08 71 13.20 Automatic Openers Industrial
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | AUTOMATIC OPENERS INDUSTRIAL                                         |        |             |             |        |          |       |           |        |                |
+| 0015  | Sliding doors up to 6' wide                                          | 2 Skwk | .60         | 26.667      | Opng.  | 6,300    | 1,575 |           | 7,875  | 9,275          |
+| 0200  | To 12' wide                                                          |        | .40         | 40          |        | 7,550    | 2,350 |           | 9,900  | 11,900         |
+| 0400  | Over 12' wide, add per L.F. of excess                                |        | t           |             | LF     | 815      |       |           | 815    | 900            |
+| 1000  | Swing doors, to 5' wide                                              | 2 Skwk | .80         | 20          | Eo.    | 4,150    | 1,175 |           | 5,325  | 6,350          |
+| 1860  | Add for controls, wall pushbutton, 3 button                          |        | 4           |             |        | 245      | 236   |           | 481    | 625            |
+| 1870  | Control pull cord                                                    |        | 4.30        | 3.721       |        | 198      | 219   |           | 417    | 550            |
+| 1880  | For addl elec eye for sliding door operation, one side, add          |        |             |             |        | 9%       |       |           |        |                |
+
+# 08 71 20 COME Hardware
+
+## 08 71 20.10 Bolts, Flush
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | BOLTS, FLUSH                                                         |        |             |             |        |          |       |           |        |                |
+| 0020  | Standard, concealed                                                  | 1 Carp | 7           | 1.143       | Ea.    | 21.50    | 64.50 |           | 86     | 120            |
+| 0800  | Automatic fire exit                                                  |        | 5           | 1.600       |        | 124      | 90    |           | 214    | 270            |
+| 1600  | Electrified dead bolt                                                | I Elec | 3           | 2.667       |        | 195      | 177   |           | 372    | 475            |
+| 3000  | Barrel, brass, 2" long                                               | 11 Carp| 40          | .200        |        | 3.57     | 11.25 |           | 14.82  | 20.50          |
+| 3020  | 4" long                                                              | I      | 40          | .200        |        | 11.80    | 11.25 |           | 23.05  | 29.50          |
+| 3060  | 6" long                                                              |        | 40          | .200        |        | 26.50    | 11.25 |           | 37.75  | 46             |
+
+## 08 71 20.15 Hardware
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | HARDWARE                                                             |        |             |             |        |          |       |           |        |                |
+| 0020  | Average hardware cost                                                 |        |             |             |        |          |       |           |        |                |
+| 1000  | Door hardware, apartment, interior                                   | 1 Carp | 4           | 2           | Door   | 535      | 113   |           | 648    | 760            |
+| 1300  | Average, door hardware, motel/hotel interior, with access card       | of     | 4           | 2           |        | 785      | 113   |           | 898    | 1,025          |
+| 1500  | Hospital bedroom, average quality                                    |        | 4           | 2           |        | 505      | 113   |           | 618    | 725            |
+| 2000  | High quality                                                         |        | 36          | 2.667       |        | 535      | 150   |           | 685    | 815            |
+| 2100  | Pocket door                                                          |        |             | 1.333       | Ea.    | 194      | 75    |           | 269    | 325            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 081 Door Hardware
+
+## 08 71 Door Hardware
+
+### 08 71 20 - Hardware
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 2250 | School, single exterior, incl. lever, incl. panic device             | 1 Carp | 3            | 2.667       | Door | 1,900    | 150   |           | 2,050  | 2,325          |
+| 2500 | Single interior, regular use, lever included                         |        | 33332        | 2.667       |      | 455      | 150   |           | 605    | 730            |
+| 2550 | Average, door hdwe., school, classroom, ANSI F84, lever handl        |        |              | 2.667       |      | 515      | 150   |           | 665    | 795            |
+| 2600 | Average, door hdwe. set, school, classroom, ANSI F88, incl. lever    |        |              | 2.667       |      | 515      | 150   |           | 665    | 795            |
+| 2850 | Stairway, single interior                                            |        |              | 2.667       |      | 510      | 150   |           | 660    | 785            |
+| 3100 | Double exterior, with panic device                                   |        | 4            |             | Pr.  | 3,625    | 225   |           | 3,850  | 4,325          |
+| 6020 | Add for fire alarm door holder, electro-magnetic                     | 1 Elec | 4            | 2           | Eo.  | 106      | 132   |           | 238    | 315            |
+
+### 08 71 20.20 - Door Protectors
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | DOOR PROTECTORS                              |        |              |             |      |          |        |           |         |                |
+| 0020 | 1-3/4" x 3/4" U channel                      | 2 Carp | 80           | .200        | LF   | 28       | 11.25  |           | 39.25   | 47             |
+| 0021 | 1-3/4" x 1-1/4" U channel                    |        | 80           | .200        | "    | 26.50    | 11.25  |           | 37.75   | 46             |
+| 1000 | Tear drop, spring stl., 8" high x 19" long   |        | 15           | 1.067       | Ea.  | 117      | 60.88  |           | 177     | 219            |
+| 1010 | 8" high x 32" long                           |        | 15           | 1.067       |      | 142      | 60     |           | 202.1   | 246            |
+| 1100 | Tear drop, stainless st., 8" high x 19" long |        | 15           | 1.067       |      | 300      | 60     |           | 360     | 420            |
+| 1200 | 8" high x 32" long                           |        | 15           | 1.067       |      | 375      | 60     |           | 435     | 500            |
+
+### 08 71 20.30 - Door Closers
+
+| ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | DOOR CLOSERS adjustable backcheck, multiple mounting         |        |              |             |      |          |         |           |          |                |
+| 0015  | and rack and pinion                                         |        |              |             |      |          |         |           |          |                |
+| 0020  | Standard Regular Arm                                        | 1 Carp | 6            | 1.333       | Ea.  | 167      | 75      |           | 242      | 296            |
+| 0040  | Hold open arm                                               |        | 6            | 1.333       |      | 102      | 75      |           | 177      | 224            |
+| 0100  | Fusible link                                                |        | 6.50         | 1.231       |      | 193      | 69.50   |           | 262.50   | 315            |
+| 0210  | Light duty, regular arm                                     |        | 6            | 1.333       |      | 149      | 75      |           | 224      | 276            |
+| 0220  | Parallel arm                                                | 1      | 6            | 1.333       |      | 143      | 75      |           | 218      | 269            |
+| 0230  | Hold open arm                                               |        | 6            | 1.333       |      | 77       | 75      |           | 152      | 197            |
+| 0240  | Fusible link arm                                            |        | 6            | 1.333       |      | 185      | 75      |           | 260      | 315            |
+| 0250  | Medium duty, regular arm                                    |        | 6            | 1.333       |      | 196      | 75      |           | 271      | 330            |
+| 0500  | Surface mount regular arm                                   |        | 6.50         | 1.231       |      | 155      | 69.50   |           | 224.50   | 273            |
+| 0550  | Fusible link                                                |        | 6.50         | 1.231       |      | 168      | 69.50   |           | 237.50   | 288            |
+| 1520  | Overhead concealed, all sizes, regular arm                  |        | 5.50         | 1.455       |      | 200      | 82      |           | 282      | 340            |
+| 1525  | Concealed arm                                               |        | 5            | 11.600      |      | 515      | 90      |           | 605      | 700            |
+| 1530  | Concealed in door, all sizes, regular arm                   |        | 5.50         | 1.455       |      | 1,075    | 82      |           | 1,157    | 1,300          |
+| 1535  | Concealed arm                                               |        | 5            | 1.600       |      | 271      | 90      |           | 361      | 430            |
+| 1560  | Floor concealed, all sizes, single acting                   |        | 2.20         | 3.636       |      | 595      | 205     |           | 800      | 960            |
+| 1565  | Double acting                                               |        | 2.20         | 3.636       |      | 2,400    | 205     |           | 2,605    | 2,950          |
+| 1610  | Hold open arm                                               |        | 6            | 1.333       |      | 277      | 75      |           | 352      | 415            |
+| 1620  | Double acting, standard arm                                 |        | 6            | 1.333       |      | 1,300    | 75      |           | 1,375    | 1,525          |
+| 1630  | Hold open arm                                               |        | 6            | 1.333       |      | 1,300    | 75      |           | 1,375    | 1,525          |
+| 1640  | Floor, center hung, single acting, bottom arm               |        | 6            | 1.333       |      | 475      | 75      |           | 550      | 630            |
+| 1650  | Double acting                                               |        | 6            | 1.333       |      | 1,000    | 75      |           | 1,075    | 1,200          |
+| 1660  | Offset hung, single acting, bottom arm                      |        | 6            | 1.333       |      | 1,050    | 75      |           | 1,125    | 1,275          |
+| 2000  | Backcheck and adjustable power, hinge face mount            |        |              |             |      |          |         |           |          |                |
+| 5000  | For cast aluminum cylinder, deduct                          |        |              |             | Ea.  | 41.50    |         |           | 41.50    | 45             |
+| 5010  | For delayed action surface mounted, add                     | 1 Carp | 6            | 1.333       |      | 49       | 75      |           | 124      | 166            |
+| 5040  | For delayed action, add                                     |        |              |             |      | 51       |         |           | 51       | 56             |
+| 5080  | For fusible link arm, add                                   |        |              |             |      | 193      |         |           | 193      | 212            |
+| 5120  | For shock absorbing arm, add                                |        |              |             |      | 54.50    |         |           | 54.50    | 60             |
+| 5160  | For spring power adjustment, add                            |        |              |             |      | 40       |         |           | 40       | 44             |
+| 6000  | Closer-holder, hinge face mount, all sizes, exposed arm     | 1 Carp | 6.50         | 1.231       |      | 237      | 69.50   |           | 306.50   | 365            |
+| 6500  | Electro magnetic closer/holder                              |        |              |             |      |          |         |           |          |                |
+| 6510  | Single point, no detector                                   | 1 Carp | 4            | 2           | Ea.  | 950      | 113     |           | 1,063    | 1,225          |
+| 6515  | Including detector                                          |        | 4            | 2           |      | 830      | 113     |           | 943      | 1,075          |
+| 6520  | Multi point, no detector                                    |        | 4            | 2           |      | 1,100    | 113     |           | 1,213    | 1,400          |
+
+---
+
+304 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00871 Door Hardware
+
+## 08 71 2 DoorME Hardware
+
+DailHardware  
+2022 Bare Costs  
+Total
+
+### 08 71 20.30 Door Closers
+
+Including detector
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 6524  | Including detector                                | 1 Carp | 4            | 2           | Ea . | 1,725    | 113   |           | 1,838 | 2,075          |
+| 6550  | Electric automatic operators                      |        |              |             |      |          |       |           |       |                |
+| 6555  | Operator                                          | 1 Carp | 4            | 2           | Ea . | 2,200    | 113   |           | 2,313 | 2,600          |
+| 6570  | Wall plate actuator                               |        | 4            | 2           |      | 299      | 113   |           | 412   | 500            |
+| 7000  | Electronic closer -holder, hinge facemount, concealed orm |        | 5            | 1.600       |      | 495      | 90    |           | 585   | 680            |
+| 7400  | With built-in detector                            |        | 5            | 1.600       |      | 620      | 90    |           | 710   | 820            |
+| 8000  | Surface mounted, standard duty, parallel arm, primed, traditional |        | 6            | 1.333       |      | 289      | 75    |           | 364   | 425            |
+| 8030  | Light duty                                        |        | 6            | 1.333       |      | 172      | 75    |           | 247   | 300            |
+| 8042  | Extra duty parallel arm                           |        | 16           | 1.333       |      | 127      | 75    |           | 202   | 252            |
+| 8044  | Hold open arm                                     |        | 6            | 1.333       |      | 254      | 75    |           | 329   | 390            |
+| 80461 | Positive stop arm                                 |        | 6            | 1.333       |      | 335      | 75    |           | 410   | 480            |
+| 80501 | Heavy duty                                        |        | 6            | 1.333       |      | 265      | 75    |           | 340   | 405            |
+| 8052  | Heavy duty, regular arm                           |        | 6            | 1.333       |      | 310      | 75    |           | 385   | 450            |
+| 8054  | Top jamb mount                                    |        | 6            | 1.333       |      | 325      | 75    |           | 400   | 465            |
+| 8056  | Extra duty parallel arm                           |        | 6            | 1.333       |      | 360      | 75    |           | 435   | 510            |
+| 8058  | Hold open arm                                     |        | 6            | 1.333       |      | 440      | 75    |           | 515   | 590            |
+| 8060  | Positive stop arm                                 |        | 6            | 1.333       |      | 270      | 75    |           | 345   | 410            |
+| 8062  | Fusible link arm                                  |        | 6            | 1.333       |      | 216      | 75    |           | 2911  | 350            |
+| 8080  | Universal heavy duty, regular arm                 |        | 6            | 1.333       |      | 310      | 75    |           | 385   | 450            |
+| 8084  | Parallel arm                                      |        | 6            | 1.333       |      | 360      | 75    |           | 435   | 505            |
+| 8088  | Extra duty, parallel arm                          |        | 6            | 1.333       |      | 315      | 75    |           | 390   | 460            |
+| 8090  | Hold open arm                                     |        | 6            | 1.333       |      | 360      | 75    |           | 435   | 505            |
+| 8094  | Positive stop arm                                 |        | 6            | 1.333       |      | 360      | 75    |           | 435   | 505            |
+| 8100  | Standard duty, parallel arm, modern               |        | 6            | 1.333       |      | 161      | 75    |           | 236   | 289            |
+| 8150  | Heavy duty                                        |        | 6            | 1.333       |      | 355      | 75    |           | 430   | 500            |
+
+---
+
+### 08 71 20.36 Panic Devices
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | PANIC DEVICES R087110-10                          |        |              |             |      |          |       |           |       |                |
+| 0015  | Touch bars various styles                         |        |              |             |      |          |       |           |       |                |
+| 0040  | Single door exit only, rim device, wide stile     |        |              |             |      |          |       |           |       |                |
+| 0050  | Economy US28                                      | 1 Carp | 5            | 1.600       | Ea . | 315      | 9022222222 |         | 405   | 480            |
+| 0060  | Standard duty US28                                |        | 5            | 1.600       |      | 840      | 90    |           | 9301  | 1,050          |
+| 0065  | US26D                                             |        | 15           | 1.600       |      | 925      | 90    |           | 1,015 | 1,150          |
+| 0070  | US10                                              |        | 5            | 1.600       |      | 980      | 90    |           | 1,070 | 1,200          |
+| 0075  | US3                                               |        | 5            | 1.600       |      | 1,125    | 90    |           | 1,215 | 1,350          |
+| 0080  | Night latch, economy US28                         |        | 5            | 1.600       |      | 330      | 90    |           | 420   | 500            |
+| 0085  | Standard duty, night latch US28                   |        | 5            | 1.600       |      | 1,025    | 90    |           | 1,115 | 1,250          |
+| 0090  | US26D                                             |        | 5            | 1.600       |      | 1,075    | 90    |           | 1,165 | 1,300          |
+| 0095  | US10                                              |        | 5            | 1.600       |      | 1,200    | 90    |           | 1,290 | 1,450          |
+| 0100  | US3                                               |        | 5            | 1.600       |      | 1,375    | 90    |           | 1,465 | 1,650          |
+| 0500  | Single door exit only, rim device, narrow stile   |        |              |             |      |          |       |           |       |                |
+| 0540  | Economy US28                                      | 1 Carp | 555555       | 1.600       | Ea . | 535      | 9022222222 |         | 625   | 720            |
+| 0550  | Standard duty US28                                |        | 5            | 1.600       |      | 930      | 90    |           | 1,020 | 1,150          |
+| 0565  | US26D                                             |        |              | 1.600       |      | 1,150    | 90    |           | 1,240 | 1,375          |
+| 0570  | US10                                              |        |              | 1.600       |      | 1,000    | 90    |           | 1,090 | 1,225          |
+| 0575  | US3                                               |        |              | 1.600       |      | 1,250    | 90    |           | 1,340 | 1,500          |
+| 0580  | Economy with night latch US28                     |        | 5            | 1.600       |      | 400      | 90    |           | 490   | 575            |
+| 0585  | Standard duty US28                                |        | 5            | 1.600       |      | 1,100    | 90    |           | 1,190 | 1,350          |
+| 0590  | US26D                                             |        | 5            | 1.600       |      | 1,550    | 90    |           | 1,640 | 1,825          |
+| 0595  | US10                                              |        | 5            | 1.600       |      | 1,025    | 90    |           | 1,115 | 1,250          |
+| 0600  | US32D                                             |        | 5            | 1.600       |      | 1,450    | 90    |           | 1,540 | 1,725          |
+| 1040  | Single door exit only, surface vertical rod       |        |              |             |      |          |       |           |       |                |
+| 1050  | Surface vertical rod, economy US28                | 1 Carp | 4            | 2           | Ea . | 610      | 1113  |           | 723   | 840            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08081 Door Hardware
+
+## 08 71 20 Door Hardware  
+08 71 20.Hardware Devices
+
+---
+
+### Table: Hardware Devices
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 1060  | Surface vertical rod, standard duty US28                             | 1 Carp | 4            | 2           | EG.    | 1,250    | 113     |           | 1,363   | 1,5            |
+| 1065  | US26D                                                                |        | 4            | 2           |        | 1,375    | 113     |           | 1,488   | 1,7            |
+| 1070  | USTO                                                                 |        | 4            | 2           |        | 1,350    | 113     |           | 1,463   | 1,6            |
+| 1075  | US3                                                                  |        | 4            | 2           |        | 1,400    | 113     |           | 1,513   | 1,7            |
+| 1080  | US32D                                                                |        | 4            | 2           |        | 1,550    | 113     |           | 1,663   | 1,9            |
+| 1500  | Single door exit, rim, narrow stile, economy, surface vertical rod    |        |              |             |        |          |         |           |         |                |
+| 1540  | Surface vertical rod, narrow, economy US28                           | 1 Carp | 4            | 2           | Ea.    | 610      | 113     |           | 723     | 8              |
+| 2040  | Single door exit only, concealed vertical rod                        |        |              |             |        |          |         |           |         |                |
+| 2042  | These devices will require separate and extra door preparation        |        |              |             |        |          |         |           |         |                |
+| 2060  | Concealed rod, standard duty US28                                    | Carp   | 4            | 22          | Eq.    | 1,250    | 113     |           | 1,363   | 1,5            |
+| 2065  | US26D                                                                |        | 4            | 2           |        | 1,400    | 113     | 1         | 1,513   | 1,7            |
+| 2070  | US10                                                                 |        | 4            | 2           |        | 1,525    | 113     |           | 1,638   | 1,8            |
+| 2560  | Concealed rod, narrow, standard duty US28                            |        | 4            | 2           |        | 1,425    | 113     |           | 1,538   | 1,7            |
+| 2565  | US26D                                                                |        | 4            | 2           |        | 1,625    | 113     |           | 1,738   | 1,9            |
+| 2567  | US26                                                                 |        | 4            | 2           |        | 2,350    | 113     |           | 2,463   | 2,7            |
+| 2570  | US10                                                                 |        | 4            | 2           |        | 1,475    | 113     |           | 1,588   | 1,8            |
+| 2575  | US3                                                                  |        | 4            | 2           |        | 1,725    | 113     |           | 1,838   | 2,0            |
+| 3040  | Single door exit only, mortise device, wide stile                    |        |              |             |        |          |         |           |         |                |
+| 3042  | These devices must be combined with a mortise lock                   |        |              |             |        |          |         |           |         |                |
+| 3060  | Mortise, standard duty US28                                          | 1 Carp | 42           |             | Eo.    | 1,325    | 113     |           | 1,438   | 1,6            |
+| 3065  | US26D                                                                |        | 4            | 2           |        | 1,350    | 113     |           | 1,463   | 1,6            |
+| 3067  | US26                                                                 |        | 4            | 2           |        | 1,575    | 113     |           | 1,688   | 1,9            |
+| 3070  | US10                                                                 |        | 4            | 2           |        | 1,425    | 113     |           | 1,538   | 1,7            |
+| 3075  | US3                                                                  |        | 4            | 2           |        | 1,400    | 113     |           | 1,513   | 1,7            |
+| 3080  | US32D                                                                |        | 4            | 2           |        | 1,400    | 113     |           | 1,513   | 1,7            |
+| 3500  | Single door exit only, mortise device, narrow stile                  |        |              |             |        |          |         |           |         |                |
+| 3510  | These devices must be combined with a mortise lock                   |        |              |             |        | 55       |         |           | 58      |                |
+| 3540  | Mortise, economy US28                                                | 11 Carp| 4            | 2           | Eq.    | 455      | 113     |           | 568     | 6              |
+| 08 71 20.40 | Lockset                                                        |        |              |             |        |          |         |           |         |                |
+| 0010  | LOCKSET, Standard duty                                               |        |              |             |        |          |         |           |         |                |
+| 0020  | Non-keyed, passage, w/sect. trim                                     | 1 Carp | 122080228.667| Eo.         | 133    | 37.50    |         | 170.50    |         |                |
+| 0100  | Privacy                                                              |        | 12           | .667        |        | 144      | 37.50   |           | 181.50  |                |
+| 0400  | Keyed, single cylinder function                                      |        | 10           | .800        |        | 178      | 45      |           | 223     |                |
+| 0420  | Hotel (see also Section 08 71 20.15)                                 |        | 8            | 1           |        | 266      | 56.50   |           | 322.50  |                |
+| 0500  | Lever handled, keyed, single cylinder function                       |        | 10           | .800        |        | 176      | 45      |           | 221     |                |
+| 1000  | Heavy duty with sectional trim, non-keyed, passages                  | 1 Carp | 12           | .667        |        | 295      | 37.50   |           | 332.50  |                |
+| 1100  | Privacy                                                              |        | 12           | .667        |        | 197      | 37.50   |           | 234.50  |                |
+| 1400  | Keyed, single cylinder function                                      |        | 10           | .800        |        | 400      | 45      |           | 445     |                |
+| 1420  | Hotel                                                               |        |              | 1           |        | 475      | 56.50   |           | 531.50  | 6              |
+| 1600  | Communicating                                                        |        | 10           | .800        |        | 261      | 45      |           | 306     |                |
+| 1690  | For re core cylinder, add                                            |        |              |             |        | 58       |         |           | 58      |                |
+| 3800  | Cipher lockset w/key pad (security item)                             | 1 Carp | 1332         | 615         |        | 1,075    | 34.50   |           | 1,109.50| 1,2            |
+| 3900  | Cipher lockset with dial for swinging doors (security item)          |        | 13           | .615        |        | 1,900    | 34.50   |           | 1,934.50| 2,1            |
+| 3920  | with dial for swinging doors & drill resistant plate (security item) |        | 12           | .667        |        | 2,300    | 37.50   |           | 2,337.50| 2,6            |
+| 3950  | Cipher lockset with dial for safe/vault door (security item)         |        | 12           | .667        |        | 1,650    | 37.50   |           | 1,687.50| 1,8            |
+| 3980  | Keyless, pushbutton type                                             |        |              |             |        |          |         |           |         |                |
+| 4000  | Residential / light commercial, deadbolt, standard                   | 1 Carp | 9            | .889        | Ea.    | 300      | 50      |           | 350     |                |
+| 4010  | Heavy duty                                                          |        | 9            | .889        |        | 305      | 50      |           | 355     |                |
+| 4020  | Industrial, heavy duty, with deadbolt                                |        | 9            | .889        |        | 375      | 50      |           | 425     |                |
+| 4030  | Key override                                                        |        | 9            | .889        |        | 415      | 50      |           | 465     |                |
+| 4040  | Lever activated handle                                               |        | 9            | .889        |        | 375      | 50      |           | 425     |                |
+| 4050  | Key override                                                        |        | 9            | .889        |        | 415      | 50      |           | 465     |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 71 Door Hardware
+
+## Table of Door Hardware Costs
+
+| ID         | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total     | Total Incl O&P |
+|------------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|---------|-----------|-----------|----------------|
+| 08 71 20   | Hardware                                                             |        |              |             |       |          |         |           |           |                |
+| 08 71 20.40| Lockset                                                              |        |              |             |       |          |         |           |           |                |
+| 4060       | Double sided pushbutton type                                         | 1 Carp | 8            |             | Ea.   | 300      | 56.50   |           | 356.50    | 415            |
+| 4070       | Key override                                                         |        | 8            | 1           |       | 950      | 56.50   |           | 1,006.50  | 1,125          |
+| 08 71 20.41| Dead Locks                                                           |        |              |             |       |          |         |           |           |                |
+| 0010       | DEAD LOCKS                                                           |        |              |             |       |          |         |           |           |                |
+| 0011       | Mortise heavy duty outside key (security item)                       | 1 Carp | 9            | .889        | Ea.   | 242      | 1055555 |           | 292       | 340            |
+| 0020       | Double cylinder                                                      |        | 9            | .889        |       | 156      |         |           | 206       | 247            |
+| 0100       | Medium duty, outside key                                             |        | 10           | .800        |       | 121      | 45      |           | 166       | 200            |
+| 0110       | Double cylinder                                                      |        | 10           | 1.800       |       | 281      | 45      |           | 326       | 375            |
+| 1000       | Tubular, standard duty, outside key                                  |        |              | .800        |       | 56.50    | 45      |           | 101.50    | 129            |
+| 10101      | Double cylinder                                                      |        | 10           | .800        |       | 90       | 45      |           | 135       | 166            |
+| 1200       | Night latch, outside key                                             |        | 10           | .800        |       | 156      | 45      |           | 201       | 239            |
+| 08 71 20.42| Mortise Locksets                                                     |        |              |             |       |          |         |           |           |                |
+| 0010       | MORTISE LOCKSETS, Comm., wrought knobs & full escutcheon trim        |        |              |             |       |          |         |           |           |                |
+| 0015       | Assumes mortise is cut                                               |        |              |             |       |          |         |           |           |                |
+| 0020       | Non-keyed, passage, Grade 3                                          | 1 Carp | 988          | .889        | Ea.   | 237      | 50      |           | 287       | 335            |
+| 0030       | Grade 1                                                              |        |              |             |       | 395      | 56.50   |           | 451.50    | 515            |
+| 0040       | Privacy set, Grade 3                                                 |        |              | .889        |       | 171      | 50      |           | 221       | 264            |
+| 0050       | Grade 1                                                              |        | 8            |             |       | 385      | 56.50   |           | 441.50    | 510            |
+| 0100       | Keyed, office/entrance/apartment, Grade 2                            |        | 8            |             |       | 255      | 56.50   |           | 311.50    | 365            |
+| 0110       | Grade 1                                                              |        | 7            | 1.143       |       | 325      | 64.50   |           | 389.50    | 455            |
+| 0120       | Single cylinder, typical, Grade 3                                    |        | 8            | 1           |       | 170      | 56.50   |           | 226.50    | 271            |
+| 0130       | Grade 1                                                              |        | 7            | 1.143       |       | 420      | 64.50   |           | 484.50    | 555            |
+| 0200       | Hotel, room, Grade 3                                                 |        | 7            | 1.143       |       | 192      | 64.50   |           | 256.50    | 310            |
+| 0210       | Grade 1 (see also Section 08 71 20.15)                               |        | 6            | 1.333       |       | 560      | 75      |           | 635       | 725            |
+| 0300       | Double cylinder, Grade 3                                             |        | 8            | 11          |       | 241      | 56.50   |           | 297.50    | 350            |
+| 0310       | Grade 1                                                              |        | 7            | 11.143      |       | 585      | 64.50   |           | 649.50    | 740            |
+| 1000       | Wrought knobs and sectional trim, non keyed, passage, Grade 3        |        | 10           | .800        |       | 139      | 45      |           | 184       | 220            |
+| 1010       | Grade 1                                                              |        | 9.889        |             |       | 430      | 50      |           | 480       | 550            |
+| 1040       | Privacy, Grade 3                                                     |        | 10           | .800        |       | 163      | 45      |           | 208       | 246            |
+| 1050       | Grade 1                                                              |        | 9            | .889        |       | 485      | 50      |           | 535       | 605            |
+| 1100       | Keyed, entrance, office/apartment, Grade 3                           |        | 9            | .889        |       | 235      | 50      |           | 285       | 335            |
+| 1103       | Installlockset                                                       |        | 6.92         | 1.156       |       | 235      | 65      |           | 300       | 355            |
+| 11101      | Grade 1                                                              |        | 81           |             |       | 555      | 56.50   |           | 611.50    | 695            |
+| 1120       | Single cylinder, Grade 3                                             |        | 9.889        |             |       | 240      | 50      |           | 290       | 340            |
+| 1130       | Grade 1                                                              |        | 8            | 1           |       | 510      | 56.50   |           | 566.50    | 650            |
+| 2000       | Cast knobs and full escutcheon trim                                  |        |              |             |       |          |         |           |           |                |
+| 2010       | Non-keyed, passage, Grade 3                                          | 1 Carp | 989          | .889        | Eo.   | 279      | 50      |           | 329       | 380            |
+| 2020       | Grade 1                                                              |        | 8            | 1           |       | 460      | 56.50   |           | 516.50    | 590            |
+| 2040       | Privacy, Grade 3                                                     |        |              | .889        |       | 345      | 50      |           | 395       | 455            |
+| 2050       | Grade 1                                                              |        | 8            | 1           |       | 450      | 56.50   |           | 506.50    | 580            |
+| 2120       | Keyed, single cylinder, Grade 3                                      |        | 8            | 1           |       | 515      | 56.50EFORD|           | 571.50    | 650            |
+| 2123       | Mortise lock                                                         |        | 6.15         | 1.301       |       | 515      | 73      |           | 588       | 675            |
+| 2130       | Grade 1                                                              |        | 7            | 11.143      |       | 550      | 64.50   |           | 614.50    | 695            |
+| 3000       | Cast knob and sectional trim, non keyed, passage, Grade 3            |        | 10           | .800        |       | 222      | 45      |           | 267       | 310            |
+| 3010       | Grade 1                                                              |        | 10           | .800        |       | 430      | 45      |           | 475       | 540            |
+| 3040       | Privacy, Grade 3                                                     |        | 10           | .800        |       | 231      | 45      |           | 276       | 320            |
+| 3050       | Grade 1                                                              |        | 10           | .800        |       | 480      | 45      |           | 525       | 590            |
+| 3100       | Keyed, office/entrance/apartment, Grade 3                            |        | 9            | .889        |       | 262      | 50      |           | 312       | 365            |
+| 3110       | Grade 1                                                              |        | 9            | .889        |       | 485      | 50      |           | 535       | 610            |
+| 3120       | Single cylinder, Grade 3                                             |        | 9            | .889        |       | 274      | 50      |           | 324       | 375            |
+| 3130       | Grade 1                                                              |        | 9            | .889        |       | 555      | 50      |           | 605       | 685            |
+| 3190       | For re core cylinder, add                                            |        |              |             |       | 59       |         |           | 59        | 65             |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00871 Door Hardware
+
+## 08 71 20 Door Hardware
+
+### 08 71 20. Hardware Ligature Locksets Grade 1
+
+#### 0010 ANTI-LIGATURE LOCKSETS GRADE 1
+
+#### 0100 Anti-ligature cylindrical locksets
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0500  | Arch handle passage set, US32D                   | 1 Carp | 8           | 1           | Ea . | 299      | 56.50  |           | 355.50  | 415            |
+| 0510  | privacy set                                      |        | 8           | 1           |      | 375      | 56.50  |           | 431.50  | 495            |
+| 0520  | classroom set                                    |        | 8           |             |      | 370      | 56.50  |           | 426.50  | 490            |
+| 0530  | storeroom set                                    |        |             |             |      | 370      | 56.50  |           | 426.50  | 490            |
+| 0550  | Lever handle passage set US32D                   |        |             |             |      | 355      | 56.50  |           | 411.50  | 475            |
+| 0560  | Hospital /privacy set                            |        | 8           |             |      | 375      | 56.50  |           | 431.50  | 495            |
+| 0570  | Office set                                       |        | 8           |             |      | 375      | 56.50  |           | 431.50  | 500            |
+| 0580  | Classroom set                                    |        | 8           | 1           |      | 365      | 56.50  |           | 421.50  | 490            |
+| 0590  | Storeroom set                                    |        | 8           |             |      | 370      | 56.50  |           | 426.50  | 490            |
+| 0600  | Exit set                                         |        | 8           |             |      | 375      | 56.50  |           | 431.50  | 495            |
+| 0610  | Entry set                                        |        | 8           |             |      | 335      | 56.50  |           | 391.50  | 450            |
+| 0620  | Asylum set                                       |        | 8           |             |      | 360      | 56.50  |           | 416.50  | 480            |
+| 0630  | Back to back dummy set                           |        | 8           |             |      | 229      | 56.50  |           | 285.50  | 335            |
+| 0690  | Anti ligature mortise locksets                   |        |             |             |      |          |        |           |         |                |
+| 0700  | Knob handle privacy set, US32D                   | .1 Carp| 8           |             | Eo . | 450      | 56.50  |           | 506.50  | 580            |
+| 0710  | Office set                                       |        | 8           | 1           |      | 375      | 56.50  |           | 431.50  | 500            |
+| 0720  | Classroom set                                    |        | 8           | 1           |      | 475      | 56.50  |           | 531.50  | 605            |
+| 0730  | Hotel set                                        |        | 8           |             |      | 455      | 56.50  |           | 511.50  | 585            |
+| 0740  | Apartment set                                    |        | 8           |             |      | 385      | 56.50  |           | 441.50  | 510            |
+| 0750  | Institutional privacy set                        |        | 8           |             |      | 585      | 56.50  |           | 641.50  | 730            |
+| 0760  | Lever handle office set                          |        |             |             |      | 435      | 56.50  |           | 491.50  | 565            |
+| 0770  | Classroom set sectional trim                     |        |             |             |      | 435      | 56.50  |           | 491.50  | 565            |
+| 0780  | Hotel set                                        |        | 8           |             |      | 445      | 56.50  |           | 501.50  | 575            |
+| 0790  | Apartment set                                    |        | 8           |             |      | 445      | 56.50  |           | 501.50  | 575            |
+| 0800  | Institutional privacy set                        |        | 8           |             |      | 485      | 56.50  |           | 541.50  | 615            |
+| 0810  | Office set US32D                                 |        | 8           |             |      | 405      | 56.50  |           | 461.50  | 530            |
+| 0820  | Classroom set escutcheon trim                    |        | 8           |             |      | 555      | 56.50  |           | 611.50  | 695            |
+| 0830  | Hotel set escutcheon trim                        |        | 8           |             |      | 585      | 56.50  |           | 641.50  | 725            |
+| 0840  | Apartment set escutcheon trim                    |        | 8           |             |      | 585      | 56.50  |           | 641.50  | 725            |
+| 0850  | Institutional privacy set escutcheon trim        |        | 8           | 1           |      | 585      | 56.50  |           | 641.50  | 725            |
+
+---
+
+## 08 71 20.45 Peepholes
+
+| ID    | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PEEPHOLES                   |        |             |             |      |          |        |           |         |                |
+| 2010  | Peephole                    | 1 Carp | 32          | .250        | Ea . | 12.95    | 14.10  |           | 27.05   | 35             |
+| 2020  | Peephole, wide view         |        | 18          | 32          | .250 | 9.55     | 14.10  |           | 23.65   | 31.5           |
+
+---
+
+## 08 71 20.50 Door Stops
+
+| ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | DOOR STOPS                                                  |        |             |             |      |          |        |           |         |                |
+| 0020  | Holder & bumper, floor or wall                              | 1 Carp | 32          | .250        | Ea . | 32.50    | 14.10  |           | 46.60   | 56.5           |
+| 1300  | Wall bumper, 4" diameter, with rubber pad, aluminum         |        | 32          | .250        |      | 5.65     | 14.10  |           | 19.75   | 27             |
+| 1600  | Door bumper, floor type, aluminum                           |        | 32          | .250        |      | 6.20     | 14.10  |           | 20.30   | 28             |
+| 1900  | Plunger type, door mounted                                  |        | 32          | .250        |      | 39.50    | 14.10  |           | 53.60   | 64             |
+
+---
+
+## 08 71 20.55 Push-Pull Plates
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PUSH-PULL PLATES                             |        |             |             |      |          |        |           |         |                |
+| 0090  | Push plate, 0.050 thick, 3" x 12", aluminum  | 1 Carp | 22222       | .667        | Eo . | 5.50     | 37.50  |           | 43      | 62             |
+| 0100  | 4" x 16"                                     |        |             | .667        |      | 9.95     | 37.50  |           | 47.45   | 67             |
+| 0110  | 6" x 16"                                     |        | 12          | .667        |      | 7.40     | 37.50  |           | 44.90   | 64             |
+| 0120  | 8" x 16"                                     |        | 12          | .667        |      | 8.70     | 37.50  |           | 46.20   | 65.5           |
+| 0200  | Push plate, 0.050 thick, 3" x 12", brass     |        | 12          | .667        |      | 12.65    | 37.50  |           | 50.15   | 70             |
+| 0210  | 4" x 16"                                     |        | 12          | .667        |      | 15.80    | 37.50  |           | 53.30   | 73.5           |
+| 0220  | 6" x 16"                                     |        | 12          | .6671       |      | 24.50    | 37.50  |           | 62      | 82             |
+
+---
+
+308 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 71 Door Hardware
+
+## 08 71 20 - Hardware
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0230 | 8" x 16"                                                             | 1 Corp | 12           | .667        | Ea.  | 32       | 37.50  |           | 69.50  | 91             |
+| 0250 | Push plate, 0.050 thick, 3" x 12", satin brass                       |        | 12           | .667        |      | 12.85    | 37.50  |           | 50.35  | 70             |
+| 0260 | 4" x 16"                                                             |        | 12           | .667        |      | 16       | 37.50  |           | 53.50  | 73.50          |
+| 0270 | 6" x16"                                                              |        | 12           | .667        |      | 24.50    | 37.50  |           | 62     | 83             |
+| 0280 | 8" x 16"                                                             |        | 12           | .667        |      | 32       | 37.50  |           | 69.50  | 91             |
+| 0490 | Push plate, 0.050 thick, 3" x 12", bronze                            |        | 12           | .667        |      | 15.25    | 37.50  |           | 52.75  | 73             |
+| 0500 | 4" x 16"                                                             |        | 12           | .667        |      | 23       | 37.50  |           | 60.50  | 81             |
+| 0510 | 6" x 16"                                                             |        | 12           | .667        |      | 29       | 37.50  |           | 66.50  | 88             |
+| 0520 | 8" x 16"                                                             |        | 12           | .667        |      | 35       | 37.50  |           | 72.50  | 94.50          |
+| 0740 | Push plate, 0.050 thick, 3" x 12", stainless steel                   |        | 12           | .667        |      | 10.80    | 37.50  |           | 48.30  | 68             |
+| 0760 | 6" x 16"                                                             |        | 12           | .667        |      | 16.90    | 37.50  |           | 54.40  | 74.50          |
+| 0780 | 8" x 16"                                                             |        | 12           | .667        |      | 21.50    | 37.50  |           | 59     | 79.50          |
+| 0790 | Push plate, 0.050 thick, 3" x 12", satin stainless steel             |        | 12           | .667        |      | 6.10     | 37.50  |           | 43.60  | 62.50          |
+| 0820 | 6" x 16"                                                             |        | 12           | 1.667       |      | 10.65    | 37.50  |           | 48.15  | 67.50          |
+| 0830 | 8" x 16"                                                             |        | 12           | : .667      |      | 14.30    | 37.50  |           | 51.80  | 72             |
+| 0980 | Pull plate, 0.050 thick, 3" x 12", aluminum                          |        | 12           | .667        |      | 23.50    | 37.50  |           | 611    | 81.50          |
+| 1050 | Pull plate, 0.050 thick, 3" x 12", brass                             |        | 12           | .667        |      | 36       | 37.50  |           | 73.50  | 96             |
+| 1080 | Pull plate, 0.050 thick, 3" x 12", bronze                            |        | 12           | .667        |      | 45.50    | 37.50  |           | 83     | 107            |
+| 1180 | Pull plate, 0.050 thick, 3" x 12", stainless steel                   |        | 12           | .667        |      | 41.50    | 37.50  |           | 79     | 102            |
+| 1250 | Pull plate, 0.050 thick, 3" x 12", chrome                            |        | 12           | .667        |      | 41.50    | 37.50  |           | 79     | 102            |
+| 1500 | Pull handle and push bar, aluminum                                    |        | 11           | .727        |      | 22.50    | 41     |           | 63.50  | 85.50          |
+| 2000 | Bronze                                                               |        | 10           | 1.800       |      | 86.50    | 45     |           | 131.50 | 163            |
+
+---
+
+## 08 71 20.60 - Entrance Locks
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | ENTRANCE LOCKS                                                       |        |              |             |      |          |        |           |        |                |
+| 0015 | Cylinder, grip handle deadlocking latch                              | 1 Carp | 9            | .889        | Ea.  | 184      | 50     |           | 234    | 277            |
+| 0020 | Deadbolt                                                             |        | 8            |             |      | 235      | 56.50  |           | 291.50 | 345            |
+| 0100 | Push and pull plate, dead bolt                                       |        | 8            | 1           |      | 188      | 56.50  |           | 244.50 | 291            |
+| 0900 | For handicapped lever, add                                           |        |              |             |      | 175      |        |           | 175    | 193            |
+
+---
+
+## 08 71 20.65 - Thresholds
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | THRESHOLDS                                                           |        |              |             |      |          |        |           |        |                |
+| 0011 | Threshold 3' long saddles aluminum                                   | 1 Carp | 4826222      | .167        | LF   | 12.05    | 9.40   |           | 21.45  | 27.50          |
+| 0100 | Aluminum, 8" wide, 1/2" thick                                        |        | 12           | .667        | Ea.  | 60       | 37.50  |           | 97.50  | 122            |
+| 0500 | Bronze                                                               |        | 60           | .133        | LF   | 36.50    | 7.50   |           | 44     | 51.50          |
+| 0600 | Bronze, panic threshold, 5" wide, 1/2" thick                         |        | 12           | .667        | Ea.  | 137      | 37.50  |           | 174.50 | 207            |
+| 0700 | Rubber, 1/2" thick, 5-1/2" wide                                      |        | 20           | .400        |      | 35.50    | 22.50  |           | 58     | 72.50          |
+| 0800 | 2-3/4" wide                                                          |        | 20           | .400        |      | 25.50    | 22.50  |           | 48     | 61.50          |
+| 1950 | ADA compliant thresholds                                             |        |              |             |      |          |        |           |        |                |
+| 2300 | Threshold, aluminum 4" wide x 36" long                               | 1 Carp | 12           | .667        | Ea.  | 22       | 37.50  |           | 59.50  | 80.50          |
+| 2310 | 4" wide x 48" long                                                   |        | 12           | .667        |      | 29.50    | 37.50  |           | 67     | 88.50          |
+| 2360 | 6" wide x 36" long                                                   |        | 12           | .667        |      | 12.05    | 37.50  |           | 49.55  | 69.50          |
+| 2370 | 6" wide x 48" long                                                   |        | 12           | .667        |      | 48.50    | 37.50  |           | 86     | 109            |
+
+---
+
+## 08 71 20.70 - Floor Checks
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | FLOOR CHECKS                                                         |        |              |             |      | 95       |        |           | 1880   |                |
+| 0020 | For over 3' wide doors single acting                                 | 1 Carp | 2.50         | 3.200       | Ea.  | 795      |        |           | 975    | 1,150          |
+| 0500 | Double acting                                                        |        | 2.50         | 3.200       |      | 930      |        |           | 1,110  | 1,300          |
+
+---
+
+## 08 71 20.75 - Door Hardware Accessories
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | DOOR HARDWARE ACCESSORIES                                            |        |              |             |      |          |        |           |        |                |
+| 0050 | Door closing coordinator, 36" (for paired openings up to 56")        | 1 Carp | 81           | 1           | Ea.  | 134      | 56.50  |           | 190.50 | 231            |
+| 0060 | 48" (for paired openings up to 84")                                  |        | 8            | 1           |      | 142      | 56.50  |           | 198.50 | 240            |
+| 0070 | 56" (for paired openings up to 96")                                  |        | 8            |             |      | 151      | 56.50  |           | 207.50 | 251            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00871 Door Hardware
+
+## 08 71 20 Hardware
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | HASPS, steel assembly                                                | 1 Carp  | 26           | .308        | Eq.  | 5.90     | 17.30  |           | 23.20   | 32.            |
+| 0015  | 3"                                                                   |         |              |             |      |          |        |           |         |                |
+| 0020  | 4-1/2"                                                               |         | 13           | .615        |      | 7.25     | 34.50  |           | 41.75   | 59             |
+| 0040  | 6"                                                                   |         | 12.50        | .640        |      | 10.50    | 36     |           | 46.50   | 65             |
+
+## 08 71 20.90 Hinges
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | HINGES                                                               |         |              |             |      |          |        |           |         |                |
+| 0012  | Full mortise, avg. freq., steel base, USP, 4-1/2" x 4-1/2"           |         |              |             | Pr.  | 34.50    |        |           | 34.50   | 38             |
+| 0100  | 5" x 5", USP                                                         |         |              |             |      | 27       |        |           | 27      | 29             |
+| 0200  | 6" x 6", USP                                                         |         |              |             |      | 56.50    |        |           | 56.50   | 62             |
+| 0400  | Brass base, 4-1/2" x 4-1/2", US10                                    |         |              |             |      | 49.50    |        |           | 49.50   | 54             |
+| 0500  | 5" x 5", US10                                                        |         |              |             |      | 57.50    |        |           | 57.50   | 63             |
+| 0600  | 6" x 6", US10                                                        |         |              |             |      | 181      |        |           | 181     | 199            |
+| 0800  | Stainless steel base, 4-1/2" x 4-1/2", US32                          |         |              |             |      | 55.50    |        |           | 55.50   | 61             |
+| 0900  | For non removable pin, add (security item)                           |         |              |             | Eg.  | 3.24     |        |           | 3.24    | 3              |
+| 0910  | For floating pin, driven tips, add                                   |         |              |             |      | 3.33     |        |           | 3.33    | 3              |
+| 0930  | For hospital type tip on pin, add                                    |         |              |             |      | 8.65     |        |           | 8.65    | 9              |
+| 0940  | For steeple type tip on pin, add                                     |         |              |             |      | 11.50    |        |           | 11.50   | 12             |
+| 0950  | Full mortise, high frequency, steel base, 3-1/2" x 3-1/2", US26D     |         |              |             | Pr.  | 31.50    |        |           | 31.50   | 35             |
+| 1000  | 4-1/2" x 4-1/2", USP                                                 |         |              |             |      | 65       |        |           | 65      | 71             |
+| 1100  | 5" x 5", USP                                                         |         |              |             |      | 22       |        |           | 221     | 24             |
+| 1200  | 6" x 6", USP                                                         |         |              |             |      | 113      |        |           | 113     | 124            |
+| 1400  | Brass base, 3-1/2" x 3-1/2", US4                                     |         |              |             |      | 48       |        |           | 48-     | 52             |
+| 1430  | 4-1/2" x 4-1/2", US10                                                |         |              |             |      | 60.50    |        |           | 60.50   | 66             |
+| 1500  | 5" x 5", US10                                                        |         |              |             |      | 124      |        |           | 1245    | 136            |
+| 1600  | 6" x 6", US10                                                        |         |              |             |      | 144      |        |           | 144     | 158            |
+| 1800  | Stainless steel base, 4-1/2" x 4-1/2", US32                          |         |              |             |      | 55.50    |        |           | 55.50   | 61             |
+| 1810  | 5" x 4-1/2", US32                                                    |         |              |             |      | 55.50    |        |           | 55.50   | 61             |
+| 1930  | For hospital type tip on pin, add                                    |         |              |             | Eo.  | 14.65    |        |           | 14.65   | 16             |
+| 1950  | Full mortise, low frequency, steel base, 3-1/2" x 3-1/2", US26D      |         |              |             | Pr.  | 8.25     |        |           | 8.25    | 9              |
+| 2000  | 4-1/2" x 4-1/2", USP                                                 |         |              |             |      | 3.43     |        |           | 3.43    | 3              |
+| 2100  | 5" x 5", USP                                                         |         |              |             |      | 55       |        |           | 55      | 60             |
+| 2200  | 6" x 6", USP                                                         |         |              |             |      | 96       |        |           | 96      | 106            |
+| 2300  | 4-1/2" x 4-1/2", US3                                                 |         |              |             |      | 20.50    |        |           | 20.50   | 22             |
+| 2310  | 5" x 5", US3                                                         |         |              |             |      | 41.50    |        |           | 41.50   | 45             |
+| 2400  | Brass bass, 4-1/2" x 4-1/2", US10                                    |         |              |             |      | 94       |        |           | 94      | 103            |
+| 2500  | 5" x 5", US10                                                        |         |              |             |      | 120      |        |           | 120     | 132            |
+| 2800  | Stainless steel base, 4-1/2" x 4-1/2", US32                          |         |              |             |      | 80.50    |        |           | 80.50   | 88             |
+
+## 08 71 20.91 Special Hinges
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | SPECIAL HINGES                                                       |         |              |             |      |          |        |           |         |                |
+| 0015  | Paumelle, high frequency                                             |         |              |             |      |          |        |           |         |                |
+| 0020  | Steel base, 6" x 4-1/2", US10                                        |         |              |             | Pr.  | 138      |        |           | 138     | 152            |
+| 0100  | Brass base, 5" x 4-1/2", US10                                        |         |              |             | Ea.  | 236      |        |           | 236     | 260            |
+| 0200  | Paumelle, average frequency, steel base, 4-1/2" x 3-1/2", US10        |         |              |             | Pr.  | 93.50    |        |           | 93.50   | 103            |
+| 0400  | Olive knuckle, low frequency, brass base, 6" x 4-1/2", US10           |         |              |             | Ea.  | 154      |        |           | 154     | 169            |
+| 1000  | Electric hinge with concealed conductor, average frequency            |         |              |             |      |          |        |           |         |                |
+| 1010  | Steel base, 4-1/2" x 4-1/2", US26D                                   |         |              |             | Pr.  | 345      |        |           | 345     | 380            |
+| 1100  | Bronze base, 4-1/2" x 4-1/2", US26D                                  |         |              |             |      | 350      |        |           | 350     | 385            |
+| 1200  | Electric hinge with concealed conductor, high frequency               |         |              |             |      |          |        |           |         |                |
+| 1210  | Steel base, 4-1/2" x 4-1/2", US26D                                   |         |              |             | Pr.  | 285      |        |           | 285     | 315            |
+| 1600  | Double weight, 800 lb, steel base, removable pin, 5" x 6", USP        |         |              |             |      | 135      |        |           | 135     | 149            |
+| 1700  | Steel base -welded pin, 5" x 6", USP                                 |         |              |             |      | 174      |        |           | 174     | 192            |
+| 1800  | Triple weight, 2000 lb., steel base, welded pin, 5" x 6", USP         |         |              |             |      | 114      |        |           | 114     | 125            |
+
+---
+
+310 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 71 Door Hardware
+
+## 08 71 2 Door Hardware
+
+### Daily LHardware22 Bare Costs
+
+#### Total
+
+---
+
+## 08 71 20.91 Special Hinges
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2000 | Pivot reinf., high frequency, steel base, 7-3/4" door plate, USP     |        |              |             | Pr.  | 171      |       |           | 171   | 188            |
+| 2200 | Bronze base, 7-3/4" door plate, US10                                 |        |              |             |      | 257      |       |           | 257   | 283            |
+| 3000 | Swing clear, full mortise, full or half surface, high frequency      |        |              |             |      |          |       |           |       |                |
+| 3010 | Steel base, 5" high, USP                                             |        |              |             | Pr.  | 150      |       |           | 150   | 165            |
+| 3200 | Swing clear, full mortise, average frequency                         |        |              |             |      |          |       |           |       |                |
+| 3210 | Steel base, 4-1/2" high, USP                                         |        |              |             | Pr.  | 132222   |       |           | 133   | 146            |
+| 4000 | Wide throw, average frequency, steel base, 4-1/2" x 6", USP          |        |              |             |      | 94.50    |       |           | 94.50 | 104            |
+| 4200 | High frequency, steel base, 4-1/2" x 6", USP                         |        |              |             |      | 129      |       |           | 129   | 142            |
+| 4600 | Spring hinge, single acting, 6" flange, steel                        |        |              |             | Ea.  | 50.50    |       |           | 50.50 | 55.50           |
+| 4700 | Brass                                                                |        |              |             |      | 97       |       | 1         | 97    | 107            |
+| 4900 | Double acting, 6" flange, steel                                      |        |              |             |      | 61       |       |           | 61    | 67             |
+| 4950 | Brass                                                                |        |              |             |      | 134      |       |           | 134   | 148            |
+| 8000 | Continuous hinges                                                    |        |              |             |      |          |       |           |       |                |
+| 8010 | Steel, piano, 2" x 72"                                               | 1 Carp | 22332        | .400        | Ea.  | 28       | 22.50 |           | 50.50 | 64.50           |
+| 8020 | Brass, piano, 1-1/16" x 30"                                          |        | 30           | .267        |      | 12.75    | 15    |           | 27.75 | 36.50           |
+| 8030 | Acrylic, piano, 1-3/4" x 12"                                         |        | 40           | .200        |      | 15.85    | 11.25 |           | 27.10 | 34              |
+| 9000 | Continuous hinge, steel, full mortise, heavy duty, 96"               |        |              | 4           |      | 520      | 225   |           | 745   | 910            |
+
+---
+
+## 08 71 20.95 Kick Plates
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | KICK PLATES                                       |        |              |             |      |          |       |           |       |                |
+| 0020  | Stainless steel, .050", 16 ga., 8" x 28", US32    | 1 Carp | 15           | .533        | Eq.  | 53       | 230222222222222222222222 | | 83    | 103            |
+| 0030  | 8" x 30"                                          |        | 15           | .533        |      | 54.50    | 30    |           | 84.50 | 104            |
+| 0040  | 8" x 34"                                          |        | 15           | .533        |      | 61.50    | 30    |           | 91.50 | 112            |
+| 00501 | 10" x 28"                                         |        | 15           | .533        | I    | 66       | 30    |           | 96    | 118            |
+| 0060  | 10" x 30"                                         |        | 15           | .533        |      | 71       | 30    |           | 101   | 123            |
+| 0070  | 10" x 34"                                         | 1      | 15           | .533        |      | 80       | 30    |           | 110   | 133            |
+| 0080  | Mop/Kick, 4" x 28"                                |        | 15           | 1.533       |      | 40.50    | 30    |           | 70.50 | 89.50           |
+| 0090  | 4" x 30"                                          |        | 15           | .533        |      | 43       | 30    |           | 73    | 92             |
+| 0100  | 4" x 34"                                          |        | 15           | .533        |      | 49       | 30    |           | 79    | 98.50           |
+| 0110  | 6" x 28"                                          |        | 15           | .533        |      | 40       | 30    |           | 70    | 88.50           |
+| 0120  | 6" x 30"                                          |        | 15           | .533        |      | 42.50    | 30    |           | 72.50 | 91             |
+| 0130  | 6" x 34"                                          | 1      | 15           | .533        |      | 48       | 30    |           | 78    | 97.50           |
+| 0500  | Bronze, .050", 8" x 28"                           |        | 15           | .533        | ]    | 69.50    | 30    |           | 99.50 | 121            |
+| 0510  | 8" x 30"                                          |        | 15           | .5331       |      | 75       | 30    |           | 105   | 127            |
+| 0520  | 8" x 34"                                          | 1      | 15           | .533        | I    | 85       | 30    |           | 115   | 139            |
+| 0530  | 10" x 28"                                         |        | 15           | .533        |      | 87.50    | 30    |           | 117.50| 141            |
+| 0540  | 10" x 30"                                         |        | 15           | .533        |      | 94       | 30    |           | 124   | 148            |
+| 0550  | 10" x 34"                                         |        | 15           | .533        |      | 106      | 30    |           | 136   | 162            |
+| 0560  | Mop/Kick, 4" x 28"                                |        | 15           | .533        |      | 39       | 30    |           | 69    | 87.50           |
+| 0570  | 4" x 30"                                          |        | 15.533       |             |      | 43.50    | 30    |           | 73.50 | 92             |
+| 0580  | 4" x 34"                                          |        | 15           | .533        |      | 43.50    | 30    |           | 73.50 | 92.50           |
+| 0590  | 6" x 28"                                          |        | 15           | 1.533       |      | 55       | 30    |           | 85    | 105            |
+| 0600  | 6" x 30"                                          |        | 15.533       |             |      | 59       | 30    |           | 89    | 110            |
+| 0610  | 6" x 34"                                          |        | 15           | .533        |      | 67       | 30    |           | 97    | 119            |
+| 1000  | Acrylic, .125", 8" x 26"                          |        | 15           | .533        |      | 30       | 30    |           | 60    | 77             |
+| 1010  | 8" x 36"                                          |        | 15           | .533        |      | 41.50    | 30    |           | 71.50 | 90             |
+| 1020  | 8" x 42"                                          |        | 15           | .533        |      | 48       | 30    |           | 78    | 97.50           |
+| 1030  | 10" x 26"                                         |        | 15           | .533        |      | 37.50    | 30    |           | 67.50 | 85.50           |
+| 1040  | 10" x 36"                                         |        | 15.533       |             |      | 52.50    | 30    |           | 82.50 | 102            |
+| 1050  | 10" x 42"                                         |        | 15           | .533        |      | 61       | 30    |           | 911   | 112            |
+| 1060  | Mop/Kick, 4" x 26"                                |        | 15           | .533        |      | 17.80    | 30    |           | 47.80 | 64             |
+| 1070  | 4" x 36"                                          |        | 15           | .533        |      | 25       | 30    |           | 55    | 72             |
+| 1080  | 4" x 42"                                          |        | 15           | .533        |      | 28.50    | 30    |           | 58.50 | 76             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08081 Door Hardware
+
+## 08 71 20 Door Hardware
+
+### 08 71 20.9 Hardware Plates
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|---------|----------------|
+| 1090 | 6" x 26"                             | 1 Carp | 15           | .533        | Ea.    | 26.50    | 30    |           | 56.50   | 73.5           |
+| 1100 | 6" x 36"                             |        | 15           | .533        |        | 36.50    | 30    |           | 66.50   | 84.5           |
+| 1110 | 6" x 42"                             |        | 15           | .533        |        | 43       | 30    |           | 73      | 91.5           |
+| 1220 | Brass, .050", 8" x 26"               |        | 15           | .533        |        | 76.50    | 30    |           | 106.50  | 129            |
+| 1230 | 8" x 36"                             |        | 15           | .533        |        | 76.50    | 30    |           | 106.50  | 129            |
+| 1240 | 8" x 42"                             |        | 15           | .533        |        | 93.50    | 30    |           | 123.50  | 148            |
+| 1250 | 10" x 26"                            |        | 15           | .533        |        | 77.50    | 30    |           | 107.50  | 130            |
+| 1260 | 10" x 36"                            |        | 15           | .533        |        | 113      | 30    |           | 143     | 169            |
+| 1270 | 10" x 42"                            |        | 15           | .533        |        | 113      | 30    |           | 143     | 170            |
+| 1320 | Mop / Kick, 4" x 26"                 |        | 15           | .533        |        | 28.50    | 30    |           | 58.50   | 76             |
+| 1330 | 4" x 36"                             |        | 15           | .533        |        | 39.50    | 30    |           | 69.50   | 88             |
+| 1340 | 4" x 42"                             |        | 15           | .533        |        | 46       | 30    |           | 76      | 95             |
+| 1350 | 6" x 26"                             |        | 15           | .533        |        | 42.50    | 30    |           | 72.50   | 91             |
+| 1360 | 6" x 36"                             |        | 15           | .533        |        | 52       | 30    |           | 82      | 102            |
+| 1370 | 6" x 42"                             |        | 15           | .533        |        | 156      | 30    |           | 186     | 216            |
+| 1800 | Aluminum, .050", 8" x 26"            |        | 15           | .533        |        | 39       | 30    |           | 69      | 87.            |
+| 1810 | 8" x 36"                             |        | 15           | .533        |        | 46.50    | 30    |           | 76.50   | 95.5           |
+| 1820 | 8" x 42"                             |        | 15           | .533        |        | 60       | 30    |           | 90      | 111            |
+| 1830 | 10" x 26"                            |        | 15           | .533        |        | 36       | 30    |           | 66      | 84             |
+| 1840 | 10" x 36"                            |        | 15           | .533        |        | 47       | 30    |           | 77      | 96             |
+| 1850 | 10" x 42"                            |        | 15           | .533        |        | 51.50    | 30    |           | 81.50   | 102            |
+| 1860 | Mop / Kick, 4" x 26"                 |        | 15           | .533        |        | 28       | 30    |           | 58      | 75             |
+| 1870 | 4" x 36"                             |        | 15           | .533        |        | 23       | 30    |           | 53      | 70             |
+| 1880 | 4" x 42"                             |        | 15           | .533        |        | 34       | 30    |           | 64      | 82             |
+| 1890 | 6" x 26"                             |        | 15           | .533        |        | 26       | 30    |           | 56      | 73             |
+| 1900 | 6" x 36"                             |        | 15           | .533        |        | 38.50    | 30    |           | 68.50   | 87             |
+| 1910 | 6" x 42"                             |        | 15           | .533        |        | 42       | 30    |           | 72      | 91             |
+
+---
+
+## 08 71 21 Astragals
+
+### 08 71 21.10 Exterior Mouldings, Astragals
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | EXTERIOR MOULDINGS, ASTRAGALS                             |        |              |             |      |          |       |           |         |                |
+| 0400 | One piece, overlapping cadmium plated steel, flat, 3/16" x 2" | 1 Carp | 90           | .089        | LF   | 5.10     | 5    |           | 10.10   | 134.28         |
+| 0600 | Prime coated steel, flat, 1/8" x 3"                       |        | 90           | .089        |      | 6.10     | 5    |           | 11.10   | 14.            |
+| 0800 | Stainless steel, flat, 3/32" x 1-5/8"                     |        | 90           | .089        |      | 15.75    |      |           | 20.75   | 25             |
+| 1000 | Aluminum, flat, 1/8" x 2"                                 |        | 90           | .089        |      | 4.55     |      |           | 9.55    | 12.            |
+| 1200 | Nail on, "T" extrusion                                    | [ ]    | 120          | .0671       |      | 2.17     | 3.75 |           | 5.92    |                |
+| 1300 | Vinyl bulb insert                                         |        | 105          | .076        | ||   | 2.65     | 4.29 |           | 6.94    | 9.             |
+| 1600 | Screw on, "T" extrusion                                   |        | 90           | .089        | |    | 4.68     | 5    |           | 9.68    | 12.            |
+| 1700 | Vinyl insert                                              |        | 75           | .107        |      | 4.10     | 6    |           | 10.10   | 13.            |
+| 2000 | "L" extrusion, neoprene bulbs                             |        | 75           | .107        |      | 4.39     | 6    |           | 10.39   | 13.            |
+| 2100 | Neoprene sponge insert                                    |        | 75           | .107        |      | 6.80     | 6    |           | 12.80   | 16.            |
+| 2200 | Magnetic                                                  |        | 75           | .107        |      | 10.40    | 6    |           | 16.40   | 20.            |
+| 2400 | Spring hinged security seal, with cam                     |        | 75           | 107         | 1    | 6.65     | 60   |           | 12.65   | 16.            |
+| 2600 | Spring loaded locking bolt, vinyl insert                   |        | 45           | .178        | 1    | 9.05     | 10   |           | 19.05   | 25             |
+| 2800 | Neoprene sponge strip, "Z" shaped, aluminum               |        | 60           | .133        |      | 8        | 7.50 |           | 15.50   | 19.            |
+| 2900 | Solid neoprene strip, nail on aluminum strip              |        | 90           | .089        |      | 3.78     | 5    |           | 8.78    | 11.            |
+| 3000 | One piece stile protection                                |        |              |             |      |          |       |           |         |                |
+| 3020 | Neoprene fabric loop, nail on aluminum strips             | 1 Carp | 60           | .3333333    | LF   | 1.23     | 7.50 |           | 8.73    | 12.            |
+| 3110 | Flush mounted aluminum extrusion, 1/2" x 1-1/4"           |        | 60           | .133        |      | 6.65     | 7.50 |           | 14.15   | 18.            |
+| 3140 | 3/4" x 1-3/8"                                            |        | 60           | .133        |      | 3.93     | 7.50 |           | 11.43   | 15.            |
+| 3160 | 1-1/8" x 1-3/4"                                          | I      | 60           | .133        |      | 5.40     | 7.50 |           | 12.90   | 17.            |
+| 3300 | Mortise, 9/16" x 3/4"                                    |        | 60           | .133        |      | 4.47     | 7.50 |           | 11.97   | 16.            |
+| 3320 | 13/16" x 1-3/8"                                          |        | 60           | .133        |      | 4.16     | 7.50 |           | 11.66   | 15.            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 71 Door Hardware
+
+## 08 71 21 - Astragals
+
+### 08 71 21.10 Exterior Mouldings, Astragals
+
+Spring bronze strip, nail on type  
+Screw on, with retainer  
+Flexible stainless steel housing, pile insert, 1/2" door  
+3/4" door  
+Extru
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3600 | Spring bronze strip, nail on type                                    | 1 Carp | 105          | .076        | L.F. | 2.36     | 4.29  |           | 6.65   | 9              |
+| 3620 | Screw on, with retainer                                              |        | 75           | .107        |      | 2.62     | 6     |           | 8.62   | 11.85          |
+| 3800 | Flexible stainless steel housing, pile insert, 1/2" door             |        | 105          | .076        |      | 6.95     | 4.29  |           | 11.24  | 14.05          |
+| 3820 | 3/4" door                                                            |        | 105          | .076        |      | 7.95     | 4.29  |           | 12.24  | 15.15          |
+| 4000 | Extruded aluminum retainer, flush mount, pile insert                 |        | 105          | .076        |      | 2.73     | 4.29  |           | 7.02   | 9.40           |
+| 4080 | Mortise, felt insert                                                 |        | 90           | .089        |      | 4.55     | 5     |           | 9.55   | 12.45          |
+| 4160 | Mortise with spring, pile insert                                     |        | 90           | .089        |      | 3.74     | 5     |           | 8.74   | 11.55          |
+| 4400 | Rigid vinyl retainer, mortise, pile insert                           |        | 105          | .076        |      | 3.06     | 4.29  |           | 7.35   | 9.75           |
+| 4600 | Wool pile fillerstrip, aluminum backing                              |        | 105          | .076        |      | 3.02     | 4.29  |           | 7.31   | 9.70           |
+| 5000 | Two piece overlapping astragal, extruded aluminum retainer           |        |              |             |      |          |       |           |        |                |
+| 5010 | Pile insert                                                          | 1 Carp | 60           | .133        | LF   | 3.17     | 7.50  |           | 10.67  | 14.65          |
+| 5020 | Vinyl bulb insert                                                    |        | 60           | .133        |      | 1.72     | 7.50  |           | 9.22   | 13.05          |
+| 5040 | Vinyl flap insert                                                    |        | 60           | .133        |      | 4.33     | 7.50  |           | 11.83  | 15.90          |
+| 5060 | Solid neoprene flap insert                                           |        | 60           | .133        |      | 6.45     | 7.50  |           | 13.95  | 18.25          |
+| 5080 | Hypalon rubber flap insert                                           |        | 60           | .133        |      | 6.40     | 7.50  |           | 13.90  | 18.20          |
+| 5090 | Snap on cover, pile insert                                           |        | 60           | .133        |      | 9.60     | 7.50  |           | 17.10  | 22             |
+| 5400 | Magnetic aluminum, surface mounted                                   |        | 60           | .133        |      | 27       | 7.50  |           | 34.50  | 40.50          |
+| 5500 | Interlocking aluminum, 5/8" x 1" neoprene bulb insert                |        | 45           | .178        |      | 4.31     | 10    |           | 14.31  | 19.65          |
+| 5600 | Adjustable aluminum, 9/16" x 21/32", pile insert                     |        | 45           | .178        |      | ہ17.70   | 10    |           | 23.70  | 34.50          |
+| 5800 | Magnetic, adjustable, 9/16" x 21/32"                                 |        | 45           | .178        |      | 23       | 10    |           | 33     | 40.50          |
+| 6000 | Two piece stile protection                                           |        |              |             |      |          |       |           |        |                |
+| 6010 | Cloth backed rubber loop, 1" gap, nail on aluminum strips            | 1 Carp | 45           | .178        | L.F. | 4.42     | 10    |           | 14.42  | 19.75          |
+| 6040 | Screw on aluminum strips                                             |        | 45           | .178        |      | 6.45     | 10    |           | 16.45  | 22             |
+| 6100 | 1-1/2" gap, screw on aluminum extrusion                              |        | 45           | .178        |      | 5.75     | 10    |           | 15.75  | 21             |
+| 6240 | Vinyl fabric loop, slotted aluminum extrusion, 1" gap                |        | 45           | .178        |      | 2.34     | 10    |           | 12.34  | 17.45          |
+| 6300 | 1-1/4" gap                                                           |        | 45           | .178        |      | 6.10     | 10    |           | 16.10  | 21.50          |
+
+---
+
+## 08 71 25 - Door Weatherstripping
+
+### 08 71 25.10 Mechanical Seals, Weatherstripping
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | MECHANICAL SEALS, WEATHERSTRIPPING                                   |        |              |             |        |          |        |           |         |                |
+| 1000 | Doors, wood frame, interlocking, for 3' x 7' door, zinc              | 1 Carp | 3            | 2.667       | Opng . | 53.50    | 150    |           | 203.50  | 282            |
+| 1100 | Bronze                                                               |        | 3            | 2.667       |        | 69.50    | 150    |           | 219.50  | 300            |
+| 1300 | 6' x 7' opening, zinc                                                |        | 22           | 4           |        | 56.50    | 225    |           | 281.50  | 400            |
+| 1400 | Bronze                                                               |        | 2            | 4           |        | 70       | 225    |           | 295     | 410            |
+| 1700 | Wood frame, spring type, bronze                                      |        |              |             |        |          |        |           |         |                |
+| 1800 | 3' x 7' door                                                         | 1 Carp | 7.60         | 1.053       | Opng . | 22.50    | 59.50  |           | 82      | 113            |
+| 1900 | 6' x 7' door                                                         |        | 7            | 1.143       |        | 31.50    | 64.50  |           | 96      | 131            |
+| 2200 | Metal frame, spring type, bronze                                     |        |              |             |        |          |        |           |         |                |
+| 2300 | 3' x 7' door                                                         | 1 Carp | 3            | 2.667       | Opng . | 51       | 150    |           | 201     | 279            |
+| 2400 | 6' x 7' door                                                         |        | 2.50         | 3.200       |        | 52       | 180    |           | 232     | 325            |
+| 2500 | For stainless steel, spring type, add                                |        |              |             |        | 133 %    |        |           |         |                |
+| 2700 | Metal frame, extruded sections, 3' x 7' door, aluminum               | 1 Carp | 3            | 2.667       | Opng . | 33.50    | 150    |           | 183.50  | 260            |
+| 2800 | Bronze                                                               |        | 3            | 2.667       |        | 95.50    | 150    |           | 245.50  | 330            |
+| 3100 | 6' x 7' door, aluminum                                               |        | 1.50         | 5.333       |        | 41       | 300    |           | 341     | 490            |
+| 3200 | Bronze                                                               |        | 1.50         | 5.333       |        | 148      | 300    |           | 448     | 610            |
+| 3500 | Threshold weatherstripping                                           |        |              |             |        |          |        |           |         |                |
+| 3650 | Door sweep, flush mounted, aluminum                                  | 1Corp  | 25           | .320        | Ea .   | 22       | 18     |           | 40      | 51.50          |
+| 3700 | Vinyl                                                                |        | 25           | .320        |        | 19.75    | 18     |           | 37.75   | 48.50          |
+| 5000 | Garage door bottom weatherstrip, 12' aluminum, clear                 |        | 14           | .571        |        | 24       | 32     |           | 56      | 74.50          |
+| 5010 | Bronze                                                               |        | 14           | .571        |        | 94       | 32     |           | 126     | 152            |
+| 5050 | Bottom protection, rubber                                            |        | 14           | .571        |        | 55.50    | 32     |           | 87.50   | 109            |
+| 5100 | Threshold                                                            |        | 14           | .571        |        | 69       | 32     |           | 101     | 124            |
+
+# 00875 Window Hardware
+
+## 08 75 Window Weatherstripping  
+08 Hardware 0 Mechanical Weather Seals
+
+0010 MECHANICAL WEATHER SEALS, Window, double-hung, 3' x 5'  
+Zinc  
+Bronze  
+0020  
+0100  
+0500  
+0600  
+As above but heavy duty, zinc  
+Bronze  
+
+## 08 79 Hardware Accessories
+
+---
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 75 30.10 | Mechanical Weather Seals                                         |        |              |             |      |          |       |           |        |                |
+| 0010  | MECHANICAL WEATHER SEALS, Window, double-hung, 3' x 5'                |        |              |             |      |          |       |           |        |                |
+| 0020  | Zinc                                                                 | 1 Corp | 7.20         | 1.111       | Opng | 19.65    | 62.50 |           | 82.15  | 1              |
+| 0100  | Bronze                                                               |        | 7.20         | 1.111       |      | 39.50    | 62.50 |           | 102    | 1              |
+| 0500  | As above but heavy duty, zinc                                        |        | 4.60         | 1.739       |      | 20       | 98    |           | 118    |                |
+| 0600  | Bronze                                                               |        | 4.60         | 1.739       |      | 77       | 98    |           | 175    |                |
+| 08 79 | Hardware Accessories                                                 |        |              |             |      |          |       |           |        |                |
+| 08 79 13.10 | Key Cabinets                                                   |        |              |             |      |          |       |           |        |                |
+| 0010  | KEY CABINETS                                                         |        |              |             |      |          |       |           |        |                |
+| 0020  | Wall mounted, 60 key capacity                                        | 1 Carp | 20           | .400        | Eq.  | 144      | 22.50 |           | 166.50 | 192            |
+| 0400  | Wall mounted, 30 key capacity                                        | 1 Clab | 50           | .160        |      | 76.50    | 7.30  |           | 83.80  | 95             |
+| 0500  | Wall mounted, 80 key capacity                                        | "      | 40           | .200        |      | 171      | 9.10  |           | 180.10 | 202            |
+| 08 79 20.10 | Door Hardware Accessories                                      |        |              |             |      |          |       |           |        |                |
+| 0010  | DOOR HARDWARE ACCESSORIES                                            |        |              |             |      |          |       |           |        |                |
+| 0140  | Door bolt, surface, 4"                                               | 1 Carp | 222          | .250        | Ea.  | 29.50    | 14.10 |           | 43.60  | 53             |
+| 0160  | Door latch                                                           | "      | 12           | .667        | "    | 29.50    | 37.50 |           | 67     | 88             |
+| 0200  | Sliding closet door                                                  |        |              |             |      |          |       |           |        |                |
+| 0220  | Track and hanger, single                                             | 1 Carp | 10           | .800        | Ea.  | 88.50    | 45    |           | 133.50 | 165            |
+| 0240  | Double                                                               |        | 8            | 1           |      | 114      | 56.50 |           | 170.50 | 209            |
+| 0260  | Door guide, single                                                   |        | 48           | .167        |      | 44       | 9.40  |           | 53.40  | 62             |
+| 0280  | Double                                                               |        | 48           | .167        |      | 3.45     | 9.40  |           | 12.85  | 17             |
+| 0600  | Deadbolt and lock cover plate, brass or stainless steel              |        | 30           | .267        |      | 11.35    | 15    |           | 26.35  | 35             |
+| 0620  | Hole cover plate, brass or chrome                                    |        | 35           | .229        |      | 12.25    | 12.85 |           | 25.10  | 32             |
+| 2240  | Mortise lockset, passage, lever handle                               |        | 9            | .889        |      | 112      | 50    |           | 162    | 198            |
+| 4000  | Security chain, standard                                             |        | 18           | .444        |      | 15.80    | 25    |           | 40.80  | 54             |
+| 08 81 | Glass Glazing                                                        |        |              |             |      |          |       |           |        |                |
+| 08 81 10.10 | Various Types and Thickness of Float Glass                     |        |              |             |      |          |       |           |        |                |
+| 0010  | VARIOUS TYPES AND THICKNESS OF FLOAT GLASS R088110-10                |        |              |             |      |          |       |           |        |                |
+| 0020  | 3/16" plain                                                          | 2 Glaz | 130          | .123        | S.F. | 7.15     | 6.65  |           | 13.80  | 17             |
+| 0200  | Tempered, clear                                                      |        | 130          | .123        |      | 21.50    | 6.65  |           | 28.15  | 33             |
+| 0300  | Tinted                                                               |        | 130          | .123        | T    | 7.70     | 6.65  |           | 14.35  | 18             |
+| 0600  | 1/4" thick, clear, plain                                             |        | 120          | 1.133       |      | 10.10    | 7.20  |           | 17.30  | 22             |
+| 0700  | Tinted                                                               |        | 120          | .133        |      | 9.55     | 7.20  |           | 16.75  | 21             |
+| 0800  | Tempered, clear                                                      |        | 120.133      |             |      | 12.90    | 7.20  |           | 20.10  | 25             |
+| 0900  | Tinted                                                               |        | 120          | .133        |      | 26       | 7.20  |           | 33.20  | 39             |
+| 1600  | 3/8" thick, clear, plain                                             |        | 75           | .213        |      | 14.95    | 11.50 |           | 26.45  | 33             |
+| 1700  | Tinted                                                               |        | 75           | .213        |      | 20.50    | 11.50 |           | 32     | 39             |
+| 1800  | Tempered, clear                                                      |        | 75           | .213        |      | 28       | 11.50 |           | 39.50  | 47             |
+| 1900  | Tinted                                                               |        | 75           | .213        |      | 40.50    | 11.50 |           | 52     | 61             |
+| 2200  | 1/2" thick, clear, plain                                             |        | 55           | 1.291       |      | 19.35    | 15.70 |           | 35.05  | 45             |
+| 2300  | Tinted                                                               |        | 55           | 291         |      | 35.50    | 15.70 |           | 51.20  | 62             |
+| 2400  | Tempered, clear                                                      |        | 55           | 291-        |      | 32       | 15.70 |           | 47.70  | 59             |
+| 2500  | Tinted                                                               | 1      | 55           | 1.2911      |      | 28.50    | 15.70 |           | 44.20  | 54             |
+| 2800  | 5/8" thick, clear, plain                                             |        | 45           | .356        |      | 35.50    | 19.20 |           | 54.70  | 67             |
+| 2900  | Tempered, clear                                                      |        | 45           | .356        |      | 40.50    | 19.20 |           | 59.70  | 73             |
+
+---
+
+314 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 81 Glass Glazing
+
+## 08 81 Glass Float Glass
+
+### 08 81 Glazing Various Types and Thickness of Float Glass
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 3200 | 3/4" thick, clear, plain                                             | 2 Glaz | 35           | .457        | S.F. | 47       | 24.50  |           | 71.50  | 88             |
+| 3300 | Tempered, clear                                                      |        | 35           | .457        |      | 56.50    | 24.50  |           | 81     | 98.50          |
+| 3600 | 1" thick, clear, plain                                               |        | 30           | .533        |      | 76       | 29     |           | 105    | 127            |
+| 8900 | For low emissivity coating for 3/16" & 1/4" only, add to above       |        |              |             |      | 18%      |        |           |        |                |
+
+---
+
+## 08 81 13 - Decorative Glass Glazing
+
+### 08 81 13.10 Beveled Glass
+
+| ID   | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | BEVELED GLASS, with design patterns |        |              |             |      |          |       |           |        |                |
+| 0020 | Simple pattern              | 2 Glaz | 150          | .107        | S.F. | 6689     | 5.75  |           | 71.75  | 81             |
+| 0050 | Intricate pattern           | "      | 125          | .128        |      | 62.50    | 6.90  |           | 69.40  | 79             |
+
+### 08 81 13.30 Sandblasted Glass
+
+| ID   | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SANDBLASTED GLASS, float glass |        |              |             |      |          |       |           |        |                |
+| 0020 | 1/8" thick                  | 2 Glaz | 160          | .100        | S.F. | 34       | 5.40  |           | 39.40  | 45.50          |
+| 0100 | 3/16" thick                 |        | 130          | .12311      |      | 21.50    | 6.65  |           | 28.15  | 33.50          |
+| 0500 | 1/4" thick                  |        | 120          | .133        |      | 14.25    | 7.20  |           | 21.45  | 26.50          |
+| 0600 | 3/8" thick                  |        | 75           | .213        |      | 17.40    | 11.50 |           | 28.90  | 36.50          |
+
+---
+
+## 08 81 17 - Fire Glass
+
+### 08 81 17.10 Fire Resistant Glass
+
+| ID   | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | FIRE RESISTANT GLASS        |        |              |             |      |          |        |           |         |                |
+| 0020 | Fire glass minimum          | 2 Glaz | 40           | .400        | S.F. | 178      | 21.50  |           | 199.50  | 228            |
+| 0030 | Mid range                   |        | 40           | .400        |      | 236      | 21.50  |           | 257.50  | 291            |
+| 0050 | High end                    |        | 40           | .400        |      | 236      | 21.50  |           | 257.50  | 291            |
+
+---
+
+## 08 81 20 - Vision Panels
+
+### 08 81 20.10 Full Vision
+
+| ID   | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | FULL VISION, window system with 3/4" glass mullions       |      |              |             |      |          |       |           |         |                |
+| 0020 | Up to 10' high                                            | H 2  | 130          | .185        | S.F. | 70       | 9.45  |           | 79.45   | 91             |
+| 0100 | 10' to 20' high, minimum                                  |      | 110          | .218        |      | 77       | 11.15 |           | 88.15   | 102            |
+| 0150 | Average                                                   |      | 100          | .240        |      | 80       | 12.30 |           | 92.30   | 106            |
+| 0200 | Maximum                                                   |      | 80           | 1.300       |      | 93       | 15.35 |           | 108.35  | 126            |
+
+---
+
+## 08 81 25 - Glazing Variables
+
+### 08 81 25.10 Applications of Glazing
+
+| ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | APPLICATIONS OF GLAZING R088110-10   |      |              |             |      |          |       |           |       |                |
+| 0600 | For glass replacement, add           |      |              |             | S.F. |          | 100%  |           |       |                |
+| 0700 | For gasket settings, add             |      |              |             | L.F. | 6.05     |       |           | 6.05  | 6.65           |
+| 0900 | For sloped glazing, add              |      |              |             | S.F. |          | 26%   |           |       |                |
+| 2000 | Fabrication, polished edges, 1/4" thick |  |              |             | Inch | .59      |       |           | .59   | .65            |
+| 2100 | 1/2" thick                           |      |              |             |      | 1.46     |       |           | 1.46  | 1.61           |
+| 2500 | Mitered edges, 1/4" thick            |      |              |             |      | 1.46     |       |           | 1.46  | 1.61           |
+| 2600 | 1/2" thick                           |      |              |             |      | 2.42     |       |           | 2.42  | 2.66           |
+
+---
+
+## 08 81 30 - Insulating Glass
+
+### 08 81 30.10 Reduce Heat Transfer Glass
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | REDUCE HEAT TRANSFER GLASS R088110-10                     |        |              |             |      |          |       |           |        |                |
+| 0015 | 2 lites 1/8" float, 1/2" thk under 15 S.F.                |        |              |             |      |          |       |           |        |                |
+| 0020 | Clear                                                     | 5G555 2 Glaz | 95     | .168        | S.F. | 28       | 9.10  |           | 37.10  | 44             |
+| 0100 | Tinted                                                    | G      | 95           | .168        |      | 30.50    | 9.10  |           | 39.60  | 47             |
+| 0200 | 2 lites 3/16" float, for 5/8" thk unit, 15 to 30 S.F., clear | G   | 90           | .178        |      | 17.15    | 9.60  |           | 26.75  | 33             |
+| 0300 | Tinted                                                    | G      | 90           | .178        |      | 14.90    | 9.60  |           | 24.50  | 30.50          |
+| 0400 | 1" thk, dbl. glazed, 1/4" float, 30 to 70 S.F., clear     | G      | 75           | .213        |      | 17.50    | 11.50 |           | 29     | 36.50          |
+| 0500 | Tinted                                                    | G      | 75           | .213        |      | 29.50    | 11.50 |           | 41     | 49.50          |
+| 0600 | 1" thk, dbl. glazed, 1/4" float, 1/4" wire                |        | 75           | .213        |      | 31.50    | 11.50 |           | 43     | 51.50          |
+| 0700 | 1/4" float, 1/4" tempered                                 |        | 75           | .213        |      | 32       | 11.50 |           | 43.50  | 52             |
+
+---
+
+Construction with RSMeans data, call 800.448.8182.
+
+For customer support on your Building Costs
+
+# 08 08 Glass Glazing
+
+## 08 81 30 Glass Insulating Glass
+
+### 08 81 30.10 Reduce Heat Transfer Glass
+
+| ID   | Name                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0800 | 1/4" wire, 1/4" tempered                  | 2 Glaz  | 75           | 213         | S.F. | 39       | 11.50 |           | 50.50 | 60             |
+| 2000 | Both lites, light& heat reflective        | G       | 85           | .188        |      | 39.50    | 10.15 |           | 49.65 | 58             |
+| 2500 | Heat reflective, film inside, 1" thick unit, clear | 66G66   | 85           | .188        |      | 34.50    | 10.15 |           | 44.65 | 53             |
+| 2600 | Tinted                                    | G       | 85           | .188        |      | 32.50    | 10.15 |           | 42.65 | 51             |
+| 3000 | Film on weatherside, clear, 1/2" thick unit | G       | 95           | .168        |      | 24.50    | 9.10  |           | 33.60 | 40             |
+| 3100 | 5/8" thick unit                           | G       | 90           | .178        |      | 21.50    | 9.60  |           | 31.10 | 38             |
+| 3200 | 1" thick unit                             | G       | 85           | .188        |      | 34       | 10.15 |           | 44.15 | 52             |
+
+---
+
+## 08 81 35 Translucent Glass
+
+### 08 81 35.10 Obscure Glass
+
+| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | OBSCURE GLASS               |         |              |             |      |          |       |           |       |                |
+| 0020 | 1/8" thick, textured        | 2 Glaz  | 140          | 114         | S.E  | 12.50    | 6.15  |           | 18.65 | 2223           |
+| 0100 | Color                       |         | 125          | .128        |      | 15.35    | 6.90  |           | 22.25 | 27             |
+| 0300 | 7/32" thick, textured       |         | 120          | .133        |      | 14.20    | 7.20  |           | 21.40 | 26             |
+| 0400 | Color                       |         | 105          | .152        |      | 17.70    | 8.25  |           | 25.95 | 31             |
+
+### 08 81 35.20 Patterned Glass
+
+| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | PATTERNED GLASS, colored    |         |              |             |      |          |       |           |       |                |
+| 0020 | 1/8" thick                  | 2 Glaz  | 140          | .114        | S.F  | 10.30    | 6.15  |           | 16.45 | 20             |
+| 0300 | 7/32" thick                 | 71      | 120          | .133        | "    | 13.90    | 7.20  |           | 21.10 | 26             |
+
+---
+
+## 08 81 45 Sheet Glass
+
+### 08 81 45.10 Window Glass, Sheet
+
+| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | WINDOW GLASS, SHEET gray    |         |              |             |      |          |       |           |       |                |
+| 0020 | 1/8" thick                  | 2 Glaz  | 160          | .100        | S.F  | 37       | 5.40  |           | 42.40 | 48             |
+| 0200 | 1/4" thick                  | "       | 130          | .123        | "    | 37.50    | 6.65  |           | 44.15 | 51             |
+
+---
+
+## 08 81 50 Spandrel Glass
+
+### 08 81 50.10 Glass for Non Vision Areas
+
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | GLASS FOR NON VISION AREAS, 1/4" thick standard colors    |         |              |             |      |          |       |           |       |                |
+| 0020 | Up to 1,000 S.F.                                          | 2 Glaz  | 110          | .145        | S.F  | 19.95    | 7.85  |           | 27.80 | 33             |
+| 0200 | 1,000 to 2,000 S.F.                                       |         | 120          | .133        | "    | 19.85    | 7.20  |           | 27.05 | 32             |
+| 0300 | For custom colors, add                                    |         |              |             |      |          |       |           |       |                |
+|      |                                                          |         |              |             |      | Total    | 10 %  |           |       |                |
+| 0500 | For 3/8" thick, add                                       |         |              |             | S.F. | 13.10    |       |           | 13.10 | 14             |
+| 1000 | For double coated, 1/4" thick, add                        |         |              |             |      | 5.75     |       |           | 5.75  | 6              |
+| 1200 | For insulation on panels, add                             |         |              |             |      | 7.90     |       |           | 7.90  | 8              |
+| 2000 | Panels, insulated, with aluminum backed fiberglass, 1" thick | 12 Glaz | 120         | .133        |      | 21.50    | 7.20  |           | 28.70 | 34             |
+| 2100 | 2" thick                                                  | "       | 120          | .133        |      | 23       | 7.20  |           | 30.20 | 36             |
+
+---
+
+## 08 81 55 Window Glass
+
+### 08 81 55.10 Sheet Glass
+
+| ID   | Name                                            | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SHEET GLASS (window), clear float, stops, putty bed |         |              |             |      |          |       |           |       |                |
+| 0015 | 1/8" thick, clear float                          | 2 Glaz  | 480          | .033        | S.F. | 4.35     | 1.80  |           | 6.15  | 7              |
+| 0500 | 3/16" thick, clear                              |         | 480          | .033        |      | 6.80     | 1.80  |           | 8.60  | 10             |
+| 0600 | Tinted                                          |         | 480          | .033        |      | 7.70     | 1.80  |           | 9.50  | 11             |
+| 0700 | Tempered                                        |         | 480          | .033        |      | 12.65    | 1.80  |           | 14.45 | 16             |
+
+---
+
+## 08 81 65 Wire Glass
+
+### 08 81 65.10 Glass Reinforced With Wire
+
+| ID   | Name                                    | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | GLASS REINFORCED WITH WIRE              |         |              |             |      |          |       |           |       |                |
+| 0012 | 1/4" thick rough obscure                | 2 Glaz  | 135          | .119        | S.F. | 25.50    | 6.40  |           | 31.90 | 37             |
+| 1000 | Polished wire, 1/4" thick, diamond, clear |         | 135          | .119        |      | 33.50    | 6.40  |           | 39.90 | 46             |
+| 1500 | Pinstripe, obscure                      |         | 135          | .119        |      | 54       | 6.40  |           | 60.40 | 69             |
+
+---
+
+316 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 83 Mirror8308 83 13
+
+## Mirrorsd Glass Glazing
+
+### 08 83 13.10 Mirrors
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0100 | Up to 5 S.F.                                                         | 2 Glaz  | 125          | 128         | S.F  | 9.55     | 6.90  |           | 16.45  | 21             |
+| 1200 | Over 5 S.F.                                                          |         | 160          | .100        |      | 9.15     | 5.40  |           | 14.55  | 18.15          |
+| 0500 | Door type, 1/4" plate glass, up to 12 S.F.                           |         | 160          | .100        |      | 9.50     | 5.40  |           | 14.90  | 18.50          |
+| 000  | Float glass, up to 10 S.F., 1/8" thick                               |         | 160.100      |             |      | 6.70     | 5.40  |           | 12.10  | 15.40          |
+| 100  | 3/16" thick                                                          |         | 150          | .107        |      | 8.65     | 5.75  |           | 14.40  | 18.05          |
+| 500  | 12" x 12" wall tiles, square edge, clear                             |         | 195          | .082        |      | 2.85     | 4.43  |           | 7.28   | 9.75           |
+| 600  | Veined                                                               |         | 195.082      |             |      | 6.35     | 4.43  |           | 10.78  | 13.55          |
+| 2000 | 1/4" thick, stock sizes, one way transparent                         |         | 125          | .128        |      | 23       | 6.90  |           | 29.90  | 35.50          |
+| 2010 | Bathroom, unframed, laminated                                        |         | 160          | .100        |      | 16.40    | 5.40  |           | 21.80  | 26             |
+
+### 08 83 13.15 Reflective Glass
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | REFLECTIVE GLASS                                                     |         |              |             |      |          |       |           |        |                |
+| 0100 | 1/4" float with fused metallic oxide fixed                           | 2 Glaz  | 115          | .139        | S.F. | 18.25    | 7.50  |           | 25.75  | 31             |
+| 0500 | 1/4" float glass with reflective applied coating                     |         | 115          | .139        |      | 39.50    | 7.50  |           | 47     | 54             |
+
+### 08 84 Plastic Glazing
+
+#### 08 84 10 Plexiglass Glazing
+
+##### 08 84 10.10 Plexiglass Acrylic
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 3010 | PLEXIGLASS ACRYLIC, clear, masked                                   |         |              |             |      |          |       |           |        |                |
+| 0020 | 1/8" thick, cut sheets                                               | 2 Glaz  | 170          | .094        | S.F  | 15.50    | 5.10  |           | 20.60  | 24.50          |
+| 0200 | Full sheets                                                          |         | 195          | .082        |      | 3.42     | 4.43  |           | 7.85   | 10.35          |
+| 0500 | 1/4" thick, cut sheets                                               |         | 165          | .097        | 1    | 11.60    | 5.25  |           | 16.85  | 20.50          |
+| 0600 | Full sheets                                                          |         | 185.086      |             |      | 6.75     | 4.67  |           | 11.42  | 14.35          |
+| 0900 | 3/8" thick, cut sheets                                               |         | 155.103      |             |      | 10.25    | 5.55  |           | 15.80  | 19.55          |
+| 1000 | Full sheets                                                          |         | 180          | .089        |      | 11       | 4.80  |           | 15.80  | 19.25          |
+| 1300 | 1/2" thick, cut sheets                                               |         | 135          | .119        |      | 24.50    | 6.40  |           | 30.90  | 36.50          |
+| 1400 | Full sheets                                                          |         | 150          | .107        |      | 15.10    | 5.75  |           | 20.85  | 25             |
+| 1700 | 3/4" thick, cut sheets                                               |         | 115          | .139        |      | 37       | 7.50  |           | 44.50  | 52             |
+| 1800 | Full sheets                                                          |         | 130          | .123        |      | 21       | 6.65  |           | 27.65  | 3232           |
+| 2100 | 1" thick, cut sheets                                                 |         | 105          | .152        |      | 54       | 8.25  |           | 62.25  | 72             |
+| 2200 | Full sheets                                                          |         | 125.128      |             | ]    | 20.50    | 6.90  |           | 27.40  | 33.50          |
+| 3000 | Colored, 1/8" thick, cut sheets                                      |         | 170          | .094        |      | 19.65    | 5.10  |           | 24.75  | 29             |
+| 3200 | Full sheets                                                          |         | 195          | .082        |      | 11.30    | 4.43  |           | 15.73  | 19.05          |
+| 3500 | 1/4" thick, cut sheets                                               |         | 165          | .097        |      | 21.50    | 5.25  |           | 26.75  | 32             |
+| 3600 | Fullsheets                                                           |         | 185          | .086        |      | 16.15    | 4.67  |           | 20.82  | 25             |
+| 4000 | Mirrors, untinted, cut sheets, 1/8" thick                            |         | 185          | .086        |      | 11.40    | 4.67  |           | 16.07  | 19.50          |
+| 4200 | 1/4" thick                                                           |         | 180          | .089        |      | 20.50    | 4.80  |           | 25.30  | 29.50          |
+
+### 08 84 20 Polycarbonate
+
+#### 08 84 20.10 Thermoplastic
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | THERMOPLASTIC, clear, masked, cut sheets                             |         |              |             |      |          |       |           |        |                |
+| 0020 | 1/8" thick                                                           | 2 Glaz  | 170          | .094        | S.F. | 4.96     | 5.10  |           | 10.06  | 36             |
+| 0500 | 3/16" thick                                                          |         | 165          | .097        |      | 7.45     | 5.25  |           | 12.70  | 16             |
+| 1000 | 1/4" thick                                                           |         | 155          | .103        |      | 8.95     | 5.55  |           | 14.50  | 18.15          |
+| 1500 | 3/8" thick                                                           |         | 150          | .107        | 4-   | 16.25    | 5.75  |           | 22     | 26.50          |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08087 Glazing Surface Films
+
+## Glazing3
+
+### Solar Control Films
+
+#### 08 87 13 Solar Control Films
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 13.10 | Solar Films On Glass                                                        |        |              |             |      |          |       |           |        |                |
+| 0010  | SOLAR FILMS ON GLASS (glass not included)                             |        |              |             |      |          |       |           |        |                |
+| 1000  | Bronze, 20% VLT                                                      | H1-2   | 180          | .133        | S.F. | 1.82     | 6.85  |           | 8.67   | 12             |
+| 1020  | 50% VLT                                                              |        | 180          | .133        |      | 1.09     | 6.85  |           | 7.94   | 11             |
+| 1050  | Neutral, 20% VLT                                                     |        | 180          | .133        |      | .72      | 6.85  |           | 7.57   | 10             |
+| 1100  | Silver, 15% VLT                                                      |        | 180          | .133        |      | .86      | 6.85  |           | 7.71   | 11             |
+| 1120  | 35% VLT                                                              |        | 180          | .133        |      | 1.19     | 6.85  |           | 8.04   | 11             |
+| 1150  | 68% VLT                                                              |        | 180          | 1.133       |      | .67      | 6.85  |           | 7.52   | 10             |
+| 3000  | One way mirror with night vision 5% in and 15% out VLT               |        | 180          | .133        |      | 3.48     | 6.85  |           | 10.33  | 14             |
+
+---
+
+#### 08 87 16 Glass Safety Films
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 16.10 | Safety Films On Glass                                                      |        |              |             |      |          |       |           |        |                |
+| 0010  | SAFETY FILMS ON GLASS (glass not included)                           |        |              |             |      |          |       |           |        |                |
+| 0015  | Safety film helps hold glass together when broken                    |        |              |             |      |          |       |           |        |                |
+| 0050  | Safety film, clear, 2 mil                                            | H-2    | 180          | .133        | S.F. | 1.69     | 6.85  |           | 8.54   | 2112           |
+| 0100  | Safety film, clear, 4 mil                                            |        | 180          | .133        |      | 1.60     | 6.85  |           | 8.45   |                |
+| 0110  | Safety film, tinted, 4 mil                                           |        | 180          | .133        |      | 1.06     | 6.85  |           | 7.91   |                |
+| 0150  | Safety film, black tint, 8 mil                                       |        | 180.133      |             |      | 1.95     | 6.85  |           | 8.80   |                |
+
+---
+
+#### 08 87 26 Bird Control Film
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 26.10 | Bird Control Film                                                          |        |              |             |      |          |       |           |        |                |
+| 0010  | BIRD CONTROL FILM                                                    |        |              |             |      |          |       |           |        |                |
+| 0050  | Patterned, adhered to glass                                          | 2 Glaz | 180          | .089        | S.F. | 6.50     | 4.80  |           | 11.30  | 14             |
+| 0200  | Decals small, adhered to glass                                       | .1 Glaz| 50           | .160        | Ea.  | 1.85     | 8.65  |           | 10.50  | 14             |
+| 0250  | Decals large, adhered to glass                                       |        | 50           | .160        | PY   | 8.55     | 8.65  |           | 17.20  | 22             |
+| 0300  | Decals set of 4, adhered to glass                                    |        | 25           | .320        | Set  | 7.90     | 17.30 |           | 25.20  | 34             |
+| 0400  | Bird control film tape                                               |        | 10           | .800        | Roll | 5.30     | 43    |           | 48.30  | 70             |
+
+---
+
+#### 08 87 33 Electrically Tinted Window Film
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 08 87 33.20 | Window Film                                                                 |        |              |             |      |          |       |           |          |                |
+| 0010  | WINDOW FILM adhered on glass (glass not included)                    |        |              |             |      |          |       |           |          |                |
+| 0015  | Film is pre wired and can be trimmed                                 |        |              |             |      |          |       |           |          |                |
+| 0100  | Window film 4 S.F. adhered on glass                                  | 1 Glaz | 200          | .040        | S.F. | 254      | 2.16  |           | 256.16   | 282            |
+| 0120  | 6 S.F.                                                               |        | 180          | .044        |      | 380      | 2.40  |           | 382.40   | 425            |
+| 0160  | 9 S.F.                                                               |        | 170          | .047        |      | 570      | 2.54  |           | 572.54   | 630            |
+| 0180  | 10 S.F.                                                              |        | 1150         | .053        |      | 158      | 1     | 2.88      | 160.88   | 178            |
+| 0200  | 12 S.F.                                                              |        | 144          | .056        |      | 760      | 3     |           | 763      | 840            |
+| 02201 | 14 S.F.                                                              |        | 140          | : .057      |      | 885      | 3.09  |           | 888.09   | 980            |
+| 0240  | 16 S.F.                                                              |        | 128          | .063        |      | 1,025    | 3.38  |           | 1,028.38 | 1,125          |
+| 0260  | 18 S.F.                                                              |        | 126          | .063        |      | 1,150    | 3.43  |           | 1,153.43 | 1,250          |
+| 0280  | 20 S.F.                                                              |        | 120          | .067        |      | 1,275    | 3.60  |           | 1,278.60 | 1,400          |
+
+---
+
+#### 08 87 53 Security Films On Glass
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 08 87 53.10 | Security Film Adhered On Glass                                              |        |              |             |      |          |       |           |        |                |
+| 0010  | SECURITY FILM ADHERED ON GLASS (glass not included)                  |        |              |             |      |          |       |           |        |                |
+| 0020  | Security film, clear, 7 mil                                          | 1 Glaz | 200          | .040        | S.F. | 2.42     | 2.16  |           | 4.58   | 56456          |
+| 0030  | 8 mil                                                                |        | 1200         | .040        |      | 2.64     | 2.16  |           | 4.80   |                |
+| 0040  | 9 mil                                                                |        | 200          | .040        |      | 1.27     | 2.16  |           | 3.43   |                |
+| 0050  | 10 mil                                                               |        | 200          | .040        |      | 2.19     | 2.16  |           | 4.35   |                |
+| 0060  | 12 mil                                                               |        | 200.040      |             |      | 3.21     | 2.16  |           | 5.371  |                |
+| 0075  | 15 mil                                                               |        | 200          | .040        |      | 2.55     | 2.16  |           | 4.75   | 6.             |
+| 0100  | Security film, sealed with structural adhesive, 7 mil                |        | 180          | .044        |      | 2.44     | 2.40  |           | 4.83   | 6              |
+| 0110  | 8 mil                                                                |        | 180          | .044        |      | 2.65     | 2.40  |           | 5.05   | 6.             |
+| 0140  | 14 mil                                                               |        | 180          | .044        |      | 4.39     | 2.40  |           | 6.79   | 8              |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 08 88 Special Function Glass  
+## 08 88 40 - Acoustical Glass Units
+
+### 08 88 40.10 Sound Reduction Glazing Units
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SOUND REDUCTION UNITS, 1 lite at 3/8", 1 lite at 3/16" |        |             |             |      |          |       |           |        |                |
+| 0020 | For 1" thick                         | 2 Glaz | 100         | .160        | S.F. | 44       | 8.65  |           | 52.65  | 61.50          |
+| 100  | For 4" thick                         | "      | 80          | .200        |      | 75       | 10.80 |           | 85.80  | 98.50          |
+
+---
+
+## 08 88 56 - Ballistics-Resistant Glazing
+
+### 18 88 56.10 Laminated Glass
+
+| ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | LAMINATED GLASS                                           |        |             |             |      |          |       |           |        |                |
+| 1020 | Clear float .03" vinyl 1/4" thick                         | 2 Glaz | 90          | .178        | S.F. | 13.35    | 9.60  |           | 22.95  | 29             |
+| 0100 | 3/8" thick                                                |        | 78          | .205        |      | 32       | 11.10 |           | 43.10  | 51.50          |
+| 200  | .06" vinyl, 1/2" thick                                    |        | 65          | .246        |      | 28       | 13.30 |           | 41.30  | 51             |
+| 000  | 5/8" thick                                                |        | 90          | .178        |      | 39.50    | 9.60  |           | 49.10  | 58             |
+| 2000 | Bullet resisting, 1-3/16" thick, to 15 S.F.               |        | 16          | 1           |      | 132      | 54    |           | 186    | 226            |
+| 2100 | Over 15 S.F.                                              |        | 161         |             |      | 131      | 54    |           | 185    | 225            |
+| ?500 | 2-1/4" thick, to 15 S.F.                                  |        | 12          | 1.333       |      | 206      | 72    |           | 278    | 335            |
+| 2600 | Over 15 S.F.                                              |        | 12          | 1.333       |      | 195      | 72    |           | 267    | 320            |
+| 2700 | Level 2 (.357 magnum), NIJ and UL                         |        | 12          | 1.333       |      | 56       | 72    |           | 128    | 169            |
+| 2750 | Level 3A (.44 magnum) NIJ, UL 3                           |        | 12          | 1.333       |      | 60.50    | 72    |           | 132.50 | 174            |
+| 2800 | Level 4 (AK 47) NIJ, UL 7 & 8                             |        | 12          | 1.333       |      | 82.50    | 72    |           | 154.50 | 198            |
+| 1850 | Level 5 (M-16) UL                                         |        | 12          | 1.333       |      | 81.50    | 72    |           | 153.50 | 197            |
+| 2900 | Level 3 (7.62 Armor Piercing) NIJ, UL 4 & 5               |        | 12          | 1.333       |      | 96.50    | 72    |           | 168.50 | 213            |
+
+---
+
+# 08 91 Louvers
+
+## 08 91 19 - Fixed Louvers
+
+### 08 91 19.10 Aluminum Louvers
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010 | ALUMINUM LOUVERS                             |        |             |             |      |          |        |           |        |                |
+| 020  | Aluminum with screen, residential, 8" x 8"   | 1 Carp | 38          | .211        | Ea.  | 22       | 11.85  |           | 33.85  | 41.50          |
+| 100  | 12" x 12"                                    |        | 38          | .211        |      | 28       | 11.85  |           | 39.85  | 48.50          |
+| 200  | 12" x 18"                                    |        | 35          | .229        |      | 63       | 12.85  |           | 75.85  | 88.50          |
+| 250  | 14" x 24"                                    |        | 30.267      |             |      | 43       | 15     |           | 58     | 69.50          |
+| 300  | 18" x 24"                                    |        | 27          | .296        |      | 34       | 16.70  |           | 50.70  | 62.50          |
+| 500  | 24" x 30"                                    |        | 24          | .333        |      | 100      | 18.75  |           | 118.75 | 138            |
+| 0700 | Triangle, adjustable, small                  |        | 20          | .400        |      | 95.50    | 22.50  |           | 118    | 139            |
+| 0800 | Large                                        |        | 15          | .533        |      | 132      | 30     |           | 162    | 191            |
+| 200  | Extruded aluminum, see Section 23 37 15.40   |        |             |             |      |          |        |           |        |                |
+| 2100 | Round, aluminum, 3/4" deep, 1" diameter      | 1 Carp | 85          | .094        | Ea.  | 1.37     | 5.30   |           | 6.67   | 9.40           |
+| 2150 | 3" diameter                                  |        | 60          | .133        |      | 3.24     | 7.50   |           | 10.74  | 14.70          |
+| 2200 | 4" diameter                                  | 1      | 50          | 1.160       |      | 7.05     | 9      |           | 16.05  | 21             |
+| 2250 | 6" diameter                                  |        | 30          | .267        |      | 5.10     | 15     |           | 20.10  | 28             |
+
+---
+
+## 08 91 26 - Door Louvers
+
+### 08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | STEEL LOUVERS, 18 GAUGE, FIXED BLADE         |        |             |             |      |          |        |           |        |                |
+| 00501 | 12" x 12", with powder coat                  | 1 Carp | 20          | .400        | Ea.  | 82.50    | 22.50  |           | 105    | 124            |
+| 055   | 18" x 12"                                   |        | 20          | .400        |      | 85.50    | 22.50  |           | 108    | 128            |
+| 0060  | 18" x 18"                                   |        | 20          | .400        |      | 95       | 22.50  |           | 117.50 | 139            |
+| 0065  | 24" x 12"                                   | 1      | 20          | 1.400       |      | 99       | 22.50  |           | 121.50 | 143            |
+| 070   | 24" x 18"                                   | 1      | 120         | 1.400       |      | 104      | 22.50  |           | 126.50 | 149            |
+| 075   | 24" x 24"                                   |        | 20          | .400        |      | 132      | 22.50  |           | 154.50 | 179            |
+| 100   | 12" x 12", galvanized                       |        | 20          | .400        |      | 56       | 22.50  |           | 78.50  | 95             |
+| 105   | 18" x 12"                                   |        | 20          | .400        |      | 63       | 22.50  |           | 85.50  | 103            |
+| 115   | 24" x 12"                                   |        | 20          | .400        |      | 90.50    | 22.50  |           | 113    | 133            |
+| 0125  | 24" x 24"                                   |        | 20          | .400        |      | 138      | 22.50  |           | 160.50 | 186            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 00891 Louvers
+
+## 08 91 26- Door Louvers
+
+### 08 91 26.10 Steel Louvers, 18 Gauge, Fixed Blade
+
+| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|---------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0300 | 6" x 12", painted   | 1Carp  | 20          | .400        | Ea.  | 37.50    | 22.50  |           | 60      | 75             |
+| 0320 | 10" x 16"           | 1      | 20          | .400        |      | 59       | 22.50  |           | 81.50   | 98.5           |
+| 0340 | 12" x 22"           |        | 20          | .400        |      | 87       | 22.50  |           | 109.50  | 129            |
+| 0360 | 14" x 14"           |        | 20          | .400        |      | 87.50    | 22.50  |           | 110     | 130            |
+| 0400 | 18" x 18"           |        | 20          | .400        |      | 128      | 22.50  |           | 150.50  | 175            |
+| 0420 | 20" x 26"           |        | 20          | .400        |      | 119      | 22.50  |           | 141.50  | 165            |
+| 0440 | 22" x 22"           |        | 20          | .400        |      | 112      | 22.50  |           | 134.50  | 158            |
+| 0460 | 26" x 26"           |        | 20          | .400        |      | 223      | 22.50  |           | 245.50  | 279            |
+| 3000 | Fire rated          |        |             |             |      |          |        |           |         |                |
+| 3010 | 12" x 12"           | 11 Carp| 10          | .800        | Ea.  | 148      | 45     |           | 193     | 229            |
+| 3050 | 18" x 18"           | 1110   |             | .800        |      | 216      | 1 45   |           | 261     | 305            |
+| 3100 | 24" x 12"           | 110    | 1.800       |             |      | 227      | 45     |           | 272     | 315            |
+| 3120 | 24" x 18"           |        | 10          | .800        |      | 243      | 45     |           | 288     | 335            |
+| 3130 | 24" x 24"           |        | 10          | .800        |      | 242      | 45     |           | 287     | 335            |
+
+### 08 91 26.20 Aluminum Louvers
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | ALUMINUM LOUVERS, 18 ga., fixed blade, clear anodized |        |             |             |      |          |        |           |         |                |
+| 0050 | 6" x 12"                             | 1 Carp | 20          | .400        | Eg.  | 61       | 22.50  |           | 83.50   | 101            |
+| 0060 | 10" x 10"                            |        | 20          | .400        |      | 71       | 22.50  |           | 93.50   | 112            |
+| 0065 | 10" x 14"                            |        | 20          | .400        |      | 80       | 22.50  |           | 102.50  | 122            |
+| 0080 | 12" x 22"                            | 120    |             | .400        |      | 112      | 22.50  |           | 134.50  | 157            |
+| 0090 | 14" x 14"                            | 120    |             | .400        |      | 100      | 22.50  |           | 122.50  | 144            |
+| 0100 | 18" x 10"                            |        | 20          | .400        |      | 83.50    | 22.50  | 1         | 106     | 125            |
+| 0110 | 18" x 18"                            |        | 20          | 1.400       |      | 146      | 22.50  |           | 168.50  | 195            |
+| 0120 | 22" x 22"                            |        | 20          | .400        |      | 181      | 22.50  |           | 203.50  | 233            |
+| 0130 | 26" x 26"                            |        | 20          | .400        |      | 232      | 22.50  |           | 254.50  | 289            |
+
+## 08 95 Vents
+
+### 08 95 13 - Soffit Vents
+
+#### 08 95 13.10 Wall Louvers
+
+| ID   | Name                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | WALL LOUVERS           |        |             |             |      |          |       |           |        |                |
+| 2340 | Baked enamel finish    | 1 Carp | 200         | .040        | LF   | 6.10     | 2.25  |           | 8.35   | DES1           |
+| 2400 | Under eaves vent, aluminum, mill finish, 16" x 4" |        | 48          | .167        | Ea.  | 1.71     | 9.40  |           | 11.11  | 15.8           |
+| 2500 | 16" x 8"               |        | 48          | .167        |      | 1.89     | 9.40  |           | 11.29  | 16.0           |
+
+### 08 95 16 - Wall Vents
+
+#### 08 95 16.10 Louvers
+
+| ID   | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | LOUVERS                                |        |             |             |      |          |       |           |        |                |
+| 0020 | Redwood, 2'-0" diameter, fullcircle    | 1 Carp | 16          | .500        | Eo.  | 96       | 28    |           | 124    | 148            |
+| 0100 | Half circle                            |        | 16          | .500        |      | 233      | 28    |           | 261    | 298            |
+| 0200 | Octagonal                              |        | 16          | .500        |      | 218      | 28    |           | 246    | 282            |
+| 0300 | Triangular, 5/12 pitch, 5'-0" at base  |        | 16.500      |             |      | 665      | 28    |           | 693    | 770            |
+| 7000 | Vinyl gable vent, 8" x 8"              |        | 38          | .211        |      | 51.50    | 11.85 |           | 63.35  | 74             |
+| 7020 | 12" x 12"                              |        | 38.211      |             |      | 33.50    | 11.85 |           | 45.35  | 54             |
+| 7080 | 12" x 18"                              |        | 35          | .229        |      | 521      | 12.85 |           | 64.85  | 76             |
+| 7200 | 18" x 24"                              | TOP    | 30          | .267        |      | 62.50    | 15    |           | 77.50  | 91             |
+
+320 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
