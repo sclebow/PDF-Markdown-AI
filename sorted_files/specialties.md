@@ -1,0 +1,2136 @@
+| ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material      | Labor   | Equipment | Total     | Total Incl O&P |
+|-------|-----------------------------------------------------------|---------|--------------|-------------|------|--------------|---------|-----------|-----------|----------------|
+| 2100  | 4" x 8"                                                   | 1 Carp  | 24           | .333        | Ea.  | 53.50        | 18.75   |           | 72.25     | 86.50          |
+| 2110  | 4" x 10"                                                  |         | 24           | .333        |      | 53.50        | 18.75   |           | 72.25     | 87             |
+| 2120  | 4" x 12"                                                  |         | 24           | .333        |      | 53.50        | 18.75   |           | 72.25     | 87             |
+| 7000  | Wayfinding signage, custom                                |         |              |             |      |              |         |           |           |                |
+| 7010  | Plastic, flexible, 1/8" thick, incl.mounting              |         |              |             |      |              |         |           |           |                |
+| 7020  | 6" x 6"                                                   | 1 Carp  | 232222222.25 | Ea.         |      | 212512325    | 14.10   |           | 35.10     | 44             |
+| 7030  | 6" x 12"                                                  |         | 32           | .250        |      | 85           | 14.10   |           | 99.10     | 115            |
+| 7040  | 6" x 24"                                                  |         | 28           | .286        |      | 59           | 16.10   |           | 75.10     | 89             |
+| 7050  | 8" x 8"                                                   |         | 32           | .250        |      |              | 14.10   |           | 29.10     | 37.50          |
+| 7060  | 8" x 16"                                                  |         | 28           | .286        |      | 47           | 16.10   |           | 63.10     | 75.50          |
+| 7070  | 8" x 24"                                                  |         | 26           | .308        |      | 62           | 17.30   |           | 79.30     | 94.50          |
+| 7080  | 12" x 12"                                                 |         | 28           | .286        |      | 23.50        | 16.10   |           | 39.60     | 50             |
+| 7090  | 12" x 24"                                                 |         | 24           | .333        |      | 29.50        | 18.75   |           | 48.25     | 60.50          |
+| 7100  | 12" x 36"                                                 |         | 20           | .400        | >    | 54           | 22.50   |           | 76.50     | 93             |
+| 7210  | Weather resistant, engraved and color filled               |         |              |             |      |              |         |           |           |                |
+| 7220  | 8" x 8"                                                   | 1 Carp  | 32222222     | .250        | Ea.  | 36.50        | 14.10   |           | 50.60     | 61             |
+| 7230  | 8" x 16"                                                  |         | 28           | .286        |      | 50.50        | 16.10   |           | 66.60     | 79.50          |
+| 7240  | 8" x 24"                                                  |         | 26           | .308        |      | 70.50        | 17.30   |           | 87.80     | 104            |
+| 7250  | 12" x 12"                                                 |         | 28           | .286        |      | 41           | 16.10   |           | 57.10     | 69             |
+| 7260  | 12" x 24"                                                 |         | 24           | .333        |      | 70.50        | 18.75   |           | 89.25     | 106            |
+| 7270  | 12" x 36"                                                 |         | 20           | .400        |      | 165          | 22.50   |           | 187.50    | 216            |
+| 7280  | 16" x 32"                                                 | 2 Carp  | 60           | .267        |      | 54           | 55      |           | 69        | 82             |
+| 7290  | 16" x 48"                                                 |         | 60           | .267        |      | 72           | 15      |           | 87        | 102            |
+| 7320  | For engraved letters, 1/2" high, add                      |         |              |             |      | 27.50        |         |           | 27.50     | 30.50          |
+| 7330  | 1" high, add                                              |         |              |             |      | 31           |         |           | 31        | 34             |
+| 7340  | 2" high, add                                              |         |              |             |      | 1.20         |         |           | 1.226     | 1.32           |
+| 7350  | 3" high, add                                              |         |              |             |      | 1.20         |         |           | 1.20      | 1.32           |
+| 7360  | For engraved graphic symbols, 3" high, add                |         |              |             |      | 16           |         |           | 16        | 17.60          |
+| 7370  | 7" high, add                                              |         |              |             |      | 16.45        |         |           | 16.45     | 18.10          |
+| 7380  | 10" high, add                                             |         | 6667         |             |      | 16.45        |         |           | 16.45     | 18.10          |
+| 9990  | Replace interior labels                                   | 11 Carp | 12           | .667        |      | 32.50        | 37.50   |           | 70        | 92             |
+| 9991  | Replace interior plaques                                  | "       | 12           | .667        |      | 106          | 37.50   |           | 143.50    | 172            |
+| 0025  | 24" W x 18" H                                             | B -1    | 2522         | .960        | Eg.  | 144          | 44.50   |           | 188.50    | 225            |
+| 0050  | 36" W x 24" H                                             |         | 25           | .960        |      | 1,200        | 44.50   |           | 1,244.50  | 1,400          |
+| 0100  | 57" W x 36" H                                             |         | 25           | .960        |      | 2,100        | 44.50   |           | 2,144.50  | 2,400          |
+| 0150  | 81" W x 46" H                                             |         | 25           | .960        | M    | 2,575        | 44.50   |           | 2,619.50  | 2,900          |
+| 0010  | PHOTOLUMINESCENT SIGNAGE                                  |         |              |             |      |              |         |           |           |                |
+| 0011  | Photoluminescent exit sign, plastic, 7"x10"               | 1 Carp  | 32           | .250        | Ea.  | 32           | 14.10   |           | 46.10     | 56             |
+| 0022  | Polyester                                                 |         | 32           | .250        |      | 20.50        | 14.10   |           | 34.60     | 43.50          |
+| 0033  | Aluminum                                                  |         | 32           | .250        |      | 71           | 14.10   |           | 85.10     | 99.50          |
+| 0044  | Plastic, 10"x14"                                          |         | 32           | .250        |      | 71.50        | 14.10   |           | 85.60     | 99.50          |
+| 0055  | Polyester                                                 |         | 32           | .250        |      | 74           | 14.10   |           | 88.10     | 103            |
+| 0066  | Aluminum                                                  |         | 32           | .250        |      | 163          | 14.10   |           | 177.10    | 201            |
+| 0111  | Directional exit sign, plastic, 10"x14"                   |         | 32           | .250        |      | 74           | 14.10   |           | 88.10     | 103            |
+| 0122  | Polyester                                                 |         | 32           | .250        |      | 74           | 14.10   |           | 88.10     | 103            |
+| 0133  | Aluminum                                                  |         | 32           | .250        |      | 91           | 14.10   |           | 105.10    | 121            |
+
+# 10 21 Compartments and Cubicles 13 - Toilet Compartments
+
+## 10 21 13.13 Metal Toilet Compartments
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2450  | Floor anchored, headrail braced                   |        |              |             |      |          |       |           |       |                |
+| 2500  | Powder coated steel                               | 2 Carp | 6            | 2.667       | Ea.  | 475      | 150   |           | 625   | 750            |
+| 2804  | Stainless steel                                   |        | 6            | 2.667       |      | 1,200    | 150   |           | 1,350 | 1,525          |
+| 2900  | For handicap units, add                           |        |              |             |      | 335      |       |           | 335   | 365            |
+| 3000  | Wall hung partitions, powder coated steel          | 2 Carp | 7            | 2.286       |      | 565      | 129   |           | 694   | 815            |
+| 3300  | Stainless steel                                   | 29     | 7            | 2.286       |      | 420      | 129   |           | 549   | 650            |
+| 3400  | For handicap units, add                           | 5      |              |             |      | 335      |       |           | 335   | 365            |
+| 4000  | Screens, entrance, floor mounted, 58" high, 48" wide |        |              |             |      |          |       |           |       |                |
+| 4200  | Powder coated steel                               | 12 Carp| 15           | 1.067       | Ea.  | 208      | 60    |           | 268   | 320            |
+| 4500  | Stainless steel                                   |        | 15           | 1.067       | "    | 520      | 60    |           | 580   | 660            |
+| 4650  | Urinal screen, 18" wide                           |        |              |             |      |          |       |           |       |                |
+| 4704  | Powder coated steel                               | 2 Carp | 6.15         | 2.602       | Ea.  | 230      | 146   |           | 376   | 470            |
+| 5004  | Stainless steel                                   |        | 6.15         | 2.602       | M    | 540      | 146   |           | 686   | 815            |
+| 5100  | Floor mounted, headrail braced                    |        |              |             |      |          |       |           |       |                |
+| 5300  | Powder coated steel                               | 2 Carp | 8            | 2           | Ea.  | 244      | 113   |           | 357   | 435            |
+| 5600  | Stainless steel                                   |        | 8            | 2           | "    | 625      | 113   |           | 738   | 860            |
+| 5750  | Pilaster, flush                                   |        |              |             |      |          |       |           |       |                |
+| 5800  | Powder coated steel                               | 12 Carp| 10           | 1.600       | Ea.  | 273      | 222222|           | 363   | 435            |
+| 6100  | Stainless steel                                   |        | 10           | 1.600       |      | 184      | 90    |           | 274   | 335            |
+| 6300  | Post braced, powder coated steel                  |        | 10           | 1.600       |      | 172      | 90    |           | 262   | 325            |
+| 6800  | Powder coated steel                               |        | 10           | 1.600       |      | 105      | 90    |           | 195   | 250            |
+| 7800  | Wedge type, powder coated steel                   |        | 10           | 1.600       |      | 140      | 90    |           | 230   | 288            |
+| 8100  | Stainless steel                                   |        | 10           | 1.600       | t    | 640      | 90    |           | 730   | 835            |
+
+---
+
+## 10 21 13.16 Plastic-Laminate-Clad Toilet Compartments
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | PLASTIC-LAMINATE-CLAD TOILET COMPARTMENTS         |        |              |             |      |          |       |           |       |                |
+| 0110  | Cubicles, ceiling hung                            |        |              |             |      |          |       |           | 25    |                |
+| 0300  | Plastic laminate on particle board                | 2 Carp | 4            | 4           | 5o.  | 650      | 225   |           | 875   | 1,050          |
+| 0600  | For handicap units, add                           |        |              |             | =    | 122      |       |           | 122   | 134            |
+| 0900  | Floor and ceiling anchored                        |        |              |             |      |          |       |           | 10    |                |
+| 1100  | Plastic laminate on particle board                | 2 Carp | 5            | 3.200       | Ea.  | 690      | 180   |           | 870   | 1,025          |
+| 1400  | For handicap units, add                           | &      |              |             |      | 385      |       |           | 385   | 425            |
+| 1610  | Floor mounted                                     |        |              |             |      |          |       |           |       |                |
+| 1800  | Plastic laminate on particle board                | 2 Carp | 7            | 2.286       | Ea.  | 745      | 12129 |           | 874   | 1,000          |
+| 2450  | Floor mounted, headrail braced                    |        |              |             |      |          |       |           |       |                |
+| 2600  | Plastic laminate on particle board                | 2 Carp | 6            | 2.667       | Ea.  | 910      | 1550  |           | 1,060 | 1,225          |
+| 3400  | For handicap units, add                           | &      |              |             |      | 335      |       |           | 335   | 365            |
+| 4300  | Entrance screen, floor mtd., plas. lam., 58" high, 48" wide | 2 Carp | 15 | 1.067 |      | 282      | 60    |           | 342   | 400            |
+| 4800  | Urinal screen, 18" wide, ceiling braced, plastic laminate |        | 8            | 2           |      | 291      | 113   |           | 404   | 490            |
+| 5400  | Floor mounted, headrail braced                    |        | 8            | 2           |      | 216      | 113   |           | 329   | 405            |
+| 5900  | Pilaster, flush, plastic laminate                 |        | 10           | 1.600       |      | 445      | 90    |           | 535   | 625            |
+| 6400  | Post braced, plastic laminate                     |        | 10           | 1.600       |      | 239      | 90    |           | 329   | 395            |
+| 6700  | Wall hung, bracket supported                      |        |              |             |      |          |       |           |       |                |
+| 6900  | Plastic laminate on particle board                | 2 Carp | 10           | 1.600       | Ea.  | 98.50    | 90    |           | 188.50| 242            |
+| 7450  | Flange supported                                  |        |              |             |      |          |       |           |       |                |
+| 7500  | Plastic laminate on particle board                | 2 Carp | 10           | 1.600       | Ea.  | 116      | 90    |           | 206   | 262            |
+
+---
+
+## 10 21 13.19 Plastic Toilet Compartments
+
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | PLASTIC TOILET COMPARTMENTS                       |        |              |             |      |          |       |           |       |                |
+| 0110  | Cubicles, ceiling hung                            |        |              |             |      |          |       |           |       |                |
+| 3250  | Phenolic                                          | & 2 Carp| 4           | 4           | Ea.  | 835      | 225   |           | 1,060 | 1,250          |
+| 0260  | Polymer plastic                                   | "      | 4            | 4           |      | 350      | 225   |           | 575   | 720            |
+| 0600  | For handicap units, add                           |        |              |             |      | 122      |       |           | 122   | 134            |
+| 0900  | Floor and ceiling anchored                        |        |              |             |      |          |       |           |       |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Specialties - Selective Demolition for Specialties
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 1100  | Boards and panels, wall mounted                                      | 2 Clab  | 15           | 1.067       | Ea.    |          | 48.50   |           | 48.50   | 72.5           |
+| 1105  | Demolition, mirror, wall mounted                                     | 1 Clab  | 30           | .267        |        |          | 12.15   |           | 12.15   | 18.1           |
+| 1200  | Cases, for directory and/or bulletin boards, including doors         | 2 Clab  | 24           | .667        |        |          | 30.50   |           | 30.50   | 45.5           |
+| 1850  | Shower partitions, cabinet or stall, including base and door         |         | 812          |             |        |          | 911     |           | 915     | 136            |
+| 1855  | Shower receptor, terrazzo or concrete                                | 1 Clab  | 14           | .571        |        |          | 26 1    |           | 26 1    | 39             |
+| 1900  | Curtain track or rod, hospital type, ceiling mounted or suspended    |         | 220          | .036        | LF.    |          | 1.66    |           | 1.661   | 2.4            |
+| 1910  | Toilet cubicles, remove                                              | 2 Clab  | 8            | 2           | Ea.    |          | 91 1    |           | 91 1    | 136            |
+| 1930  | Urinal screen, remove                                                | 1 Clab  | 12           | .667        |        |          | 30.50   |           | 30.50   | 45.5           |
+| 2650  | Wall guard, misc. wall or corner protection                          |         | 320          | .025        | L.F.   |          | 1.14    |           | 1.14    | 1.7            |
+| 2750  | Access floor, metal panel system, including pedestals, covering      | 2 Clab  | 850          | .019        | S.F    |          | .86     |           | .86     | 1.2            |
+| 3050  | Fireplace, prefab, freestanding or wall hung, including hood/screen  | 1 Clab  | 2            | 4           | Ea.    |          | 182     |           | 182     | 272            |
+| 3054  | Chimney top, simulated brick, 4' high                                |         | 15           | .533        |        |          | 24.50   |           | 24.50 1 | 36             |
+| 3200  | Stove, woodburning, cast iron                                        | 2 Clab  | 2            | 8           |        |          | 365     |           | 365     | 545            |
+| 3440  | Weathervane, residential                                             | 1 Clab  | 12           | .667        |        |          | 30.50   |           | 30.50   | 45.5           |
+| 3500  | Flagpole, groundset, to 70' high, excluding base/foundation          | K -1    | 1            | 16          |        |          | 855     | 375       | 1,230   | 1,700          |
+| 3555  | To 30' high                                                          | 11      | 2.50         | 6.400       |        |          | 340     | 151       | 491     | 675            |
+| 4300  | Letter, signs or plaques, exterior on wall                           | 1 Clab  | 20           | .400        |        |          | 18.25   |           | 18.25   | 27             |
+| 4310  | Signs, street, reflective aluminum, including post and bracket       |         | 60           | .133        |        |          | 6.10    |           | 6.10    | 9.0            |
+| 4320  | Door signs interior on door 6" x 6", selective demolition            |         | 20           | .400        |        |          | 18.25   |           | 18.25   | 27             |
+| 4550  | Turnstiles, manual or electric                                       | 2 Clab  | 2            | 8           |        |          | 365     |           | 365     | 545            |
+| 5050  | Lockers                                                              | 1 Clab  | 15           | .533        | Opng.  |          | 24.50   |           | 24.50   | 36             |
+| 5250  | Cabinets, recessed                                                   | Q -12   | 12           | 1.333       | Ea.    |          | 82.50   |           | 82.50   | 123            |
+| 5260  | Mail boxes, horiz., key lock, front loading, remove                  | 1 Carp  | 34           | .235        |        |          | 13.25   |           | 13.25   | 19.7           |
+| 5350  | Awning, fabric, including frame                                      | 2 Clab  | 100          | .160        | S.F.   |          | 7.30    |           | 7.30    | 10.8           |
+| 6050  | Partition, woven wire                                                |         | 1400         | .011        |        |          | .52     |           | .52     |                |
+| 6100  | Folding gate, security, door or window                               |         | 500          | .032        |        |          | 1.46    |           | 1.46    | 2.1            |
+| 6580  | Acoustic air wall                                                    |         | 650          | .025        |        |          | 1.12    |           | 1.12    | 3550 1.6       |
+| 7550  | Telephone enclosure, exterior, post mounted                          |         | 3            | 5.333       | Ea.    |          | 243     |           | 243     |                |
+| 8850  | Scale, platform, excludes foundation or pit                          |         | .25          | 64          | 11     |          | 2,925   |           | 2,925   | 4,350          |
+
+# Visual Display Units - Chalkboards
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|--------|----------|---------|-----------|---------|----------------|
+| 4200  | 3' x 4' Aluminum frame and chalktrough                               | 2 Carp  | 16           | 1           | Ea.    | 210      | 56.50   |           | 266.50  | 31             |
+| 4300  | 3' x 5' Aluminum frame and chalktrough                               |         | 15           | 1.067       |        | 218      | 60      |           | 278     | 33             |
+| 4500  | 4' x 8' Aluminum frame and chalktrough                               |         | 14           | 1.143       |        | 365      | 64.50   |           | 429.50  | 49             |
+| 4600  | 4' x 12' Aluminum frame and chalktrough                              |         | 13           | 1.231       |        | 525      | 69.50   |           | 594.50  | 68             |
+| 4800  | 3' x 4' Wood frame and chalktrough                                   | 2 Carp  | 16           | 1           | Ea.    | 420      | 56.50   |           | 476.50  | 54             |
+| 5000  | 3' x 5' Wood frame and chalktrough                                   |         | 15           | 1.067       |        | 420      | 60      |           | 480     | 55             |
+| 5100  | 4' x 5' Wood frame and chalktrough                                   |         | 14           | 1.143       |        | 420      | 64.50   |           | 484.50  | 55             |
+| 5300  | 4' x 8' Wood frame and chalktrough                                   |         | 13           | 1.231       |        | 370      | 69.50   |           | 439.50  | 51             |
+| 5450  | 4' x 4' Liquid chalk, white porcelain enamel, wall hung, deluxe unit | 2 Carp  | 16           | 1           | Ea.    | 169      | 56.50   |           | 225.50  | 27             |
+| 5500  | 4' x 8' Liquid chalk, white porcelain enamel, wall hung, deluxe unit |         | 14           | 1.143       |        | 465      | 64.50   |           | 529.50  | 60             |
+| 5550  | 4' x 12' Liquid chalk, white porcelain enamel, wall hung, deluxe unit|         | 12           | 1.333       |        | 510      | 75      |           | 585     |                |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 21 Compartments and Cubiands
+
+## 10 21 14 - Cubicle Compartment Components
+
+### 10 21 14.19 Plastic Toilet Compartment Components
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0240 | Phenolic, 51" wide x 58" high                | 2 Carp | 18.90        | .847        | Ea.  | 525      | 47.50  |           | 572.50  | 650            |
+| 0250 | Polymer plastic, 63" wide x 55" high         |        | 18.90        | .847        |      | 740      | 47.50  |           | 787.50  | 885            |
+| 0260 | Phenolic, 63" wide x 58" high                |        | 18.90        | .847        |      | 680      | 47.50  |           | 727.50  | 815            |
+| 0300 | Doors                                        |        |              |             |      |          |        |           |         |                |
+| 0310 | Polymer plastic, 24" wide x 55" high         | 2 Carp | 14.10        | 1.135       | Ea.  | 272      | 64     |           | 336     | 395            |
+| 0320 | Phenolic, 24" wide x 58" high                |        | 14.10        | 1.135       |      | 380      | 64     |           | 444     | 515            |
+| 0330 | Polymer plastic, 26" wide x 55" high         |        | 14.10        | 1.135       |      | 290      | 64     |           | 354     | 415            |
+| 0340 | Phenolic, 26" wide x 58" high                |        | 14.10        | 1.135       |      | 310      | 64     |           | 374     | 435            |
+| 0350 | Polymer plastic, 28" wide x 55" high         |        | 14.10        | 1.135       |      | 325      | 64     |           | 389     | 455            |
+| 0360 | Phenolic, 28" wide x 58" high                |        | 14.10        | 1.135       |      | 420      | 64     |           | 484     | 555            |
+| 0370 | Polymer plastic, 36" wide x 55" high         |        | 14.10        | 1.135       |      | 390      | 64     |           | 454     | 525            |
+| 0380 | Phenolic, 36" wide x 58" high                |        | 14.10        | 1.135       |      | 460      | 64     |           | 524     | 600            |
+| 0400 | Headrails                                    |        |              |             |      |          |        |           |         |                |
+| 0410 | For polymer plastic, 62" long                | 2 Carp | 65           | .246        | Ea.  | 39       | 13.85  |           | 52.85   | 63.50           |
+| 0420 | Phenolic                                     |        | 65           | .246        |      | 39       | 13.85  |           | 52.85   | 63.50           |
+| 0430 | For polymer plastic, 84" long                |        | 50           | .320        |      | 39       | 18     |           | 57      | 70              |
+| 0440 | Phenolic                                     |        | 50           | .320        |      | 40.50    | 18     |           | 58.50   | 71.50           |
+| 0450 | For polymer plastic, 120" long               |        | 30           | .533        |      | 56.50    | 30     |           | 86.50   | 107             |
+| 0460 | Phenolic                                     |        | 30           | .533        |      | 45       | 30     |           | 75      | 93.50           |
+
+---
+
+## 10 21 23 - Cubicle Curtains and Track
+
+### 10 21 23.16 Cubicle Track and Hardware
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | CUBICLE TRACK AND HARDWARE                   |        |              |             |      |          |        |           |         |                |
+| 0020 | Curtain track, box channel, ceiling mounted  | 1 Carp | 135          | .059        | L.F. | 20       | 3.34   |           | 15.34   | 18.15           |
+| 0100 | Suspended                                    | "      | 100          | .080        |      | 10       | 4.50   |           | 14.50   | 17.70           |
+| 0300 | Curtains, nylon mesh tops, fire resistant, 11 oz. per linear yard | | | | | | | | | |
+| 0310 | Polyester oxford cloth, 9' ceiling height    | 1 Carp | 425          | .019        | L.F. | 13.95    | 1.06   |           | 15.01   | 16.95           |
+| 0500 | 8' ceiling height                            |        | 425          | .019        |      | 12.30    | 1.06   |           | 13.36   | 15.10           |
+| 0550 | Polyester, antimicrobial, 9' ceiling height  |        | 425          | .019        |      | 17.45    | 1.06   |           | 18.51   | 21              |
+| 0560 | 8' ceiling height                            |        | 425          | .019        |      | 13.90    | 1.06   |           | 14.96   | 16.90           |
+| 0700 | Designer oxford cloth                        |        | 425          | .019        |      | 12.30    | 1.06   |           | 13.36   | 15.10           |
+| 0800 | I.V. track systems                           |        |              |             |      |          |        |           |         |                |
+| 0820 | I.V. track, oval                             | 1 Carp | 135          | .059        | L.F. | 10.60    | 3.34   |           | 13.94   | 16.65           |
+| 0830 | I.V. trolley                                 |        | 32           | .250        | Ea.  | 245      | 14.10  |           | 259.10  | 290             |
+| 0840 | I.V. pendant (tree, 5 hook)                  |        | 32           | .250        | 11   | 169      | 14.10  |           | 183.10  | 207             |
+
+---
+
+## 10 22 Partitions
+
+### 10 22 13 - Wire Mesh Partitions
+
+#### 10 22 13.10 Partitions, Woven Wire
+
+| ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | PARTITIONS, WOVEN WIRE for tool or stockroom enclosures     |        |              |             |      |          |       |           |       |                |
+| 0100  | Channel frame, 1-1/2" diamond mesh, 10 ga. wire, painted    |        |              |             |      |          |       |           |       |                |
+| 0300  | Wall panels, 4'0" wide, 7' high                             | 2 Carp | 25           | .640        | Ea.  | 139      | 36    |           | 175   | 207            |
+| 0400  | 8' high                                                     |        | 23           | .696        |      | 139      | 39    |           | 178   | 212            |
+| 0600  | 10' high                                                    |        | 18           | .889        |      | 193      | 50    |           | 243   | 287            |
+| 0700  | For 5' wide panels, add                                     |        |              |             |      | 5%       |       |           |       |                |
+| 0900  | Ceiling panels, 10' long, 2' wide                           | 2 Carp | 25..640      |             |      | 305      | 36    |           | 341   | 390            |
+| 1000  | 4' wide                                                     |        | 15           | 1.067       |      | 212      | 60    |           | 272   | 325            |
+| 1200  | Panel with service window & shelf, 5' wide, 7' high         |        | 20           | .800        |      | 237      | 45    |           | 282   | 330            |
+| 1300  | 8' high                                                     |        | 15           | 1.067       |      | 237      | 60    |           | 297   | 350            |
+| 1500  | Sliding doors, full height, 3' wide, 7' high                | b      | 2.667        |             |      | 325      | 150   |           | 475   | 580            |
+| 1600  | 10' high                                                    |        | 5            | 3.200       |      | 345      | 180   |           | 525   | 645            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10104 Signage
+
+## 10 14 43 - Photoluminescent Signage
+
+### 10 14 43.10 Photoluminescent Signage
+
+Kick plate exit sign, 10"x34"  
+Photoluminescent tape, 1"x60'  
+0153  
+0173  
+0183  
+0211  
+10 14 53  
+2"x60'  
+Photoluminescent directional arrows  
+
+## 10 14 53.20 Traffic
+
+---
+
+| ID   | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0153 | Kick plate exit sign, 10"x34"                                        | 1 Corp  | 28           | .286        | Ea   | .375     | 16.10   |           | 391.10  | 435            |
+| 0173 | Photoluminescent tape, 1"x60'                                        |         | 300          | .027        | LF   | .68      | 1.50    |           | 2.18    | 2.98           |
+| 0183 | 2"x60'                                                               |         | 290          | .028        | "    | 1.08     | 1.55    |           | 2.63    | 3.50           |
+| 0211 | Photoluminescent directional arrows                                  |         | 42           | .190        | Ea   | 14.75    | 10.70   |           | 25.45   | 32             |
+|      |                                                                      |         |              |             |      |          |         |           |         |                |
+|      | 10 14 53 Traffic Signage                                             |         |              |             |      |          |         |           |         |                |
+|      | 10 14 53.20 Traffic Signs                                            |         |              |             |      |          |         |           |         |                |
+| 0010 | TRAFFIC SIGNS                                                        |         |              |             |      |          |         |           |         |                |
+| 0012 | Stock, 24"x24", no posts, .080" alum. reflectorized B-80             | 70      | .457         | Ea          |      | 39.50    | 333333! | 7.75      | 70.25   | 86             |
+| 0100 | High intensity                                                       |         | 70           | .457        |      | 28.50    | 23      | 7.75      | 59.25   | 74             |
+| 0300 | 30"x30", reflectorized                                               |         | 70           | .457        |      | 62       | 23      | 7.75      | 92.75   | 111            |
+| 0400 | High intensity                                                       |         | 70           | .457        |      | 96.50    | 23      | 7.75      | 127.25  | 149            |
+| 0600 | Guide and directional signs, 12"x18", reflectorized                  |         | 70           | .457        |      | 37.50    | 23      | 7.75      | 68.25   | 83.50          |
+| 0700 | High intensity                                                       |         | 70           | .457        |      | 36.50    | 23      | 7.75      | 67.25   | 82.50          |
+| 0900 | 18"x24", stock signs, reflectorized                                  |         | 70           | .457        |      | 32.50    | 23      | 7.75      | 63.25   | 78.50          |
+| 1000 | High intensity                                                       |         | 70           | .457        |      | 51.50    | 23      | 7.75      | 82.25   | 99             |
+| 1200 | 24"x24", stock signs, reflectorized                                  |         | 70           | .457        |      | 38.50    | 23      | 7.75      | 69.25   | 85             |
+| 1300 | High intensity                                                       |         | 70           | .457        |      | 54.50    | 23      | 7.75      | 85.25   | 103            |
+| 1500 | Add to above for steel posts, galvanized, 10'-0" upright, bolted     | 200     | .160         |             |      | 32.50    | 8       | 2.71      | 43.21   | 51             |
+| 1600 | 12'-0" upright, bolted                                               | 140     | .229         |             |      | 48.50    | 11.45   | 3.87      | 63.821  | 75             |
+| 1800 | Highway road signs, aluminum, over 20 S.F., reflectorized            | 350     | .091         | S.F.        |      | 20       | 4.59    | 1.55      | 26.14   | 30.50          |
+| 2000 | High intensity                                                       | 350     | .091         |             |      | 19.45    | 4.59    | 1.55      | 25.59   | 30             |
+| 2200 | Highway, suspended over road, 80 S.F. min., reflectorized            | 165     | 194          |             |      | 21.50    | 9.75    | 3.28      | 34.53   | 41.50          |
+| 2300 | High intensity                                                       | 165     | 194          |             |      | 21.50    | 9.75    | 3.28      | 34.53   | 41.50          |
+| 9000 | Replace directional sign                                              | 6       | 5.333        | Ea          |      | 96.50    | 267     | 90.50     | 4454    | 605            |
+
+---
+
+# 10 17 Telephone Specialties
+
+## 10 17 16 - Telephone Enclosures
+
+### 10 17 16.10 Commercial Telephone Enclosures
+
+| ID   | Name                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | COMMERCIAL TELEPHONE ENCLOSURES      |         |              |             |      |          |       |           |       |                |
+| 0300 | Shelf type, wall hung, recessed      | 2 Carp  | 5            | 3.200       | Ea   | 370      | 180   |           | 550   | 675            |
+| 0400 | Surface mount                        | "       | 5            | 3.200       | "    | 277      | 180   |           | 457   | 575            |
+
+---
+
+# 10 21 Compartments and Cubicles
+
+## 10 21 13 - Toilet Compartments
+
+### 10 21 13.13 Metal Toilet Compartments
+
+| ID   | Name                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | METAL TOILET COMPARTMENTS            |         |              |             |      |          |       |           |       |                |
+| 0110 | Cubicles, ceiling hung               |         |              |             |      |          |       |           |       |                |
+| 0200 | Powder coated steel                  | 2 Carp  | 4            | 4           | Eo   | 470      | 225   |           | 695   | 850            |
+| 0500 | Stainless steel                      | PP      | 4            | 4           |      | 2,050    | 225   |           | 2,275 | 2,575          |
+| 0600 | For handicap units, add              |         |              |             |      | 122      |       |           | 122   | 134            |
+| 0900 | Floor and ceiling anchored           |         |              |             |      |          |       |           | 1880  |                |
+| 1000 | Powder coated steel                  | 12 Carp | 5            | 3.200       | Ea   | 780      |       |           | 960   | 1,125          |
+| 1300 | Stainless steel                      |         | 5            | 3.200       |      | 2,000    |       |           | 2,180 | 2,475          |
+| 1400 | For handicap units, add              |         |              | 4           |      | 385      |       |           | 385   | 425            |
+| 1610 | Floor anchored                       |         |              |             |      |          |       |           |       |                |
+| 1700 | Powder coated steel                  | 2 Carp  | 7            | 2.286       | Ea   | 1,000    | 129   |           | 1,129 | 1,300          |
+| 2000 | Stainless steel                      | "       | 7            | 2.286       |      | 1,050    | 129   |           | 1,179 | 1,350          |
+| 2100 | For handicap units, add              |         |              |             |      | 365      |       |           | 365   | 400            |
+| 2200 | For juvenile units, deduct           |         |              |             |      | 45.50    |       |           | 45.50 | 50.50          |
+
+---
+
+384 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Visual Display
+
+## Tackboards
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 2800 | 4 ' x 10 ',4 door                                                    | 2 Carp | 8            | 2           | Eo.  | 2,350    | 113    |           | 2,463   | 2,775          |
+| 2900 | For lights, add per door opening                                     | 1 Elec | 13           | 1.615       |      | 153      | 40.50  |           | 193.50  | 229            |
+| 3100 | Horizontal sliding units, 4 doors, 4 ' x 8 ', 8 'x 4 '               | 2 Carp | 9            | 1.778       |      | 1,375    | 100    |           | 1,475   | 1,650          |
+| 3200 | 4 ' x 12 '                                                           |        | 7            | 2.286       |      | 2,550    | 129    |           | 2,679   | 3,000          |
+| 3400 | 8 doors, 4 ' x 16'                                                   |        | 5            | 3.200       |      | 3,525    | 180    |           | 3,705   | 4,150          |
+| 3500 | 4 ' x 24 '                                                           |        | 4            | 4           |      | 4,750    | 225    |           | 4,975   | 5,550          |
+
+## Control Boards
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | CONTROL BOARDS                                                       |        |              |             |      |          |        |           |         |                |
+| 0020 | Magnetic, porcelain finish, 18 " x 24 ", framed                      | 2 Carp | 8            | 2           | Ea.  | 159      | 113    |           | 272     | 345            |
+| 0100 | 24 " x 36 "                                                          | 1      | 7.50         | 2.133       |      | 320      | 120    |           | 440     | 530            |
+| 0200 | 36 " x 48 "                                                          |        | 7            | 2.286       |      | 115      | 129    |           | 244     | 320            |
+| 0300 | 48 " x 72 "                                                          |        | 6            | 2.667       |      | 480      | 150    |           | 630     | 755            |
+| 0400 | 48 " x 96 "                                                          |        | 5            | 3.200       |      | 710      | 180    |           | 890     | 1,050          |
+
+## Hospital Patient Display Board
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 1000 | Hospital patient display board, 4-color custom design                |        |              |             |      |          |        |           |         |                |
+| 1010 | Porcelain steel dry erase board, 36 " x 24 "                         | 2 Carp | 7.50         | 2.133       | Ea.  | 239      | 120    |           | 599     | 440            |
+
+# Directories
+
+## Building Directories
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | DIRECTORY BOARDS                                                     |        |              |             |      |          |        |           |         |                |
+| 0050 | Plastic, glass covered, 30 " x 20 "                                  | 2 Carp | 323          | 5.333       | Ea.  | 219      |        | 300       | 519     | 685            |
+| 0100 | 36 " x 48 "                                                          |        |              | 8           |      | 565      |        | 450       | 1,015   | 1,300          |
+| 0300 | Grooved cork, 30 " x 20 "                                            |        |              | 5.333       |      | 300      |        | 300       | 600     | 775            |
+| 0400 | 36 " x 48 "                                                          | 128    |              |             |      | 620      | 1      | 450       | 1,070   | 1,350          |
+| 0600 | Black felt, 30 " x 20 "                                              |        | 3            | 5.333       |      | 261      |        | 300       | 561     | 730            |
+| 0700 | 36 " x 48 "                                                          |        | 2            | 8           |      | 445      |        | 450       | 895     | 1,150          |
+| 0900 | Outdoor, weatherproof, black plastic, 36 " x 24 "                    |        | 2            | 8           |      | 535      |        | 450       | 985     | 1,250          |
+| 1000 | 36 " x 36 "                                                          |        | 1.515        | 10.667      |      | 460      |        | 600       | 1,060   | 1,400          |
+| 1800 | Indoor, economy, open face, 18 " x 24 "                              |        |              | 2.286       |      | 167      |        | 129       | 296     | 375            |
+| 1900 | 24 " x 36 "                                                          |        |              | 2.286       |      | 252      |        | 129       | 381     | 470            |
+| 2000 | 36 " x 24 "                                                          |        | 6            | 2.667       |      | 174      |        | 150       | 324     | 415            |
+| 2100 | 36 " x 48 "                                                          |        | 6            | 2.667       |      | 495      |        | 150       | 645     | 770            |
+| 2400 | Building directory, alum., black feltpanels, 1 door, 24 " x 18 "     |        | 4535         | 4           |      | 260      |        | 225       | 485     | 620            |
+| 2500 | 36 " x 24 "                                                          |        | 3.50         | 4.571       |      | 425      |        | 257       | 682     | 855            |
+| 2600 | 48 " x 32 "                                                          |        |              | 5.333       |      | 605      |        | 300       | 905     | 1,100          |
+| 2700 | 2 door, 36 " x 48 "                                                  |        | 2.50         | 6.400       |      | 755      |        | 360       | 1,115   | 1,375          |
+| 2800 | 36 " x 60 "                                                          |        | 2            | 8           |      | 870      |        | 450       | 1,320   | 1,625          |
+| 2900 | 48 " x 60 "                                                          |        | 1            | 16          |      | 965      |        | 900       | 1,865   | 2,400          |
+| 3100 | For bronze enamel finish, add                                        |        |              |             |      | 15 %     |        |           |         |                |
+| 3200 | For bronze anodized finish, add                                      |        |              |             |      | 25 %     |        |           |         |                |
+| 3400 | For illuminated directory, single door unit, add                     |        |              |             |      | 156      |        |           | 156     | 171            |
+| 3500 | For 6" header panel, 6 letters per foot, add                         |        |              |             | L.F. | 26       |        |           | 26      | 28.50          |
+| 6050 | Building directory, electronic display, alum. frame, wall mounted    | 2 Carp | 32           | .500        | Ea.  | 1,050    |        | 85        | 1,078   | 1,225          |
+| 6100 | Free standing                                                        |        | 60           | .267        | 17   | 1,175    |        |           | 1,190   | 1,325          |
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 10101 Visual Display Units
+
+## Chalkboards
+
+| ID    | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3700  | 30" x 40" panels                                |      |             |             | Ea.  | 278      |       | 278       | 305   |                |
+| 3750  | 48" x 40" panels                                |      |             |             | "    | 350      |       | 350       | 385   |                |
+
+### Modular-Support-Mounted Chalkboards
+
+| ID    | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10    | 11    13.23 Modular-Support-Mounted Chalkboards |      |             |             |      |          |       |           |       |                |
+| 3700  | 30" x 40" panels                                |      |             |             | Ea.  | 278      |       | 278       | 305   |                |
+| 3750  | 48" x 40" panels                                |      |             |             | "    | 350      |       | 350       | 385   |                |
+
+### Portable Chalkboards
+
+| ID    | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10    | 11    13.43 Portable Chalkboards                |      |             |             |      |          |       |           |       |                |
+| 0010  | PORTABLE CHALKBOARDS                            |      |             |             |      |          |       |           |       |                |
+| 0100  | Freestanding, reversible                        |      |             |             |      |          |       |           |       |                |
+| 0120  | Economy, wood frame, 4' x 6'                    |      |             |             |      |          |       |           |       |                |
+| 0140  | Chalkboard both sides                           |      |             |             | Eg.  | 710      |       | 710       | 785   |                |
+| 0160  | Chalkboard one side, cork other side            |      |             |             |      | 625      |       | 625       | 685   |                |
+| 0200  | Standard, lightweight satin finished aluminum, 4' x 6' |      |             |             |      |          |       |           |       |                |
+| 0220  | Chalkboard both sides                           |      |             |             | Ea.  | 710      |       | 710       | 785   |                |
+| 0240  | Chalkboard one side, cork other side            |      |             |             |      | 410      |       | 410       | 450   |                |
+| 0300  | Deluxe, heavy duty extruded aluminum, 4' x 6'   |      |             |             |      |          |       |           |       |                |
+| 0320  | Chalkboard both sides                           |      |             |             | Eg.  | 405      |       | 405       | 445   |                |
+| 0340  | Chalkboard one side, cork other side            |      |             |             |      | 1,300    |       | 1,300     | 1,425 |                |
+
+## Markerboards
+
+| ID    | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10    | 11    16 - Markerboards                         |      |             |             |      |          |       |           |       |                |
+| 10    | 11    16.53 Electronic Markerboards             |      |             |             |      |          |       |           |       |                |
+| 0010  | ELECTRONIC MARKERBOARDS                         |      |             |             |      |          |       |           |       |                |
+| 0100  | Wall hung or free standing, 3' x 4' to 4' x 6'  | 2 Carp | 888         | 222         | S.F. | 28       | 113   |           | 141   | 199            |
+| 0150  | 5' x 6' to 4' x 8'                              |      |             |             | "    | 26.50    | 113   |           | 139.50| 197            |
+| 0500  | Interactive projection module for existing whiteboards | 2    |           |             | Eo.  | 845      | 113   |           | 958   | 1,100          |
+
+## Tackboards
+
+| ID    | Name                                             | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10    | 11    23 - Tackboards                           |      |             |             |      |          |       |           |       |                |
+| 10    | 11    23.10 Fixed Tackboards                    |      |             |             |      |          |       |           |       |                |
+| 0010  | FIXED TACKBOARDS                                |      |             |             |      |          |       |           |       |                |
+| 0020  | Cork sheets, unbacked, no frame, 1/4" thick     | 2 Carp | 290         | .055        | S.F. | 2.35     | 3.11  |           | 5.46  | 7.20           |
+| 0100  | 1/2" thick                                      |      | 290         | .055        |      | 2.81     | 3.11  |           | 5.92  | 7.70           |
+| 0300  | Fabric-face, no frame, on 7/32" cork underlay   |      | 290         | .055        |      | 4.77     | 3.11  |           | 7.88  | 9.85           |
+| 0400  | On 1/4" cork on 1/4" hardboard                  |      | 290         | .055        |      | 6.45     | 3.11  |           | 9.56  | 11.70          |
+| 0600  | With edges wrapped                              |      | 290         | .055        |      | 7.45     | 3.11  |           | 10.56 | 12.80          |
+| 0700  | On 7/16" fire retardant core                    |      | 290         | .055        |      | 4.23     | 3.11  |           | 7.34  | 9.25           |
+| 0900  | With edges wrapped                              |      | 290         | .055        |      | 7        | 3.11  |           | 10.11 | 12.30          |
+| 1000  | Designer fabric only, cut to size               |      |             |             |      | 1.90     |       |           | 1.90  | 2.09           |
+| 1200  | 1/4" vinyl cork, on 1/4" hardboard, no frame    | 2 Carp | 290         | .055        |      | 6.45     | 3.11  |           | 9.56  | 11.70          |
+| 1300  | On 1/4" coreboard                               |      | 290         | .055        |      | 3.35     | 3.11  |           | 6.46  | 8.330          |
+| 2000  | For map and display rail, economy, add          |      | 385         | .042        | LF.  | 1.98     | 2.34  |           | 4.32  | 5.65           |
+| 2100  | Deluxe, add                                     |      | 350         | .046        | "    | 3.88     | 2.57  |           | 6.45  | 8.10           |
+| 2120  | Prefabricated, 1/4" cork, 3' x 5' with aluminum frame | 16   |             |             | Ea.  | 99       | 56.50 |           | 155.50| 193            |
+| 2140  | Wood frame                                      | 16   |             |             |      | 179      | 56.50 |           | 235.50| 280            |
+| 2160  | 4' x 4' with aluminum frame                     | 16   |             |             |      | 120      | 56.50 |           | 176.50| 216            |
+| 2180  | Wood frame                                      | 16   | 1           |             |      | 162      | 56.50 |           | 218.50| 262            |
+| 2200  | 4' x 8' with aluminum frame                     | 14   | 1.143       |             |      | 167      | 64.50 |           | 231.50| 280            |
+| 2210  | Wood frame                                      | 14   | 1.143       |             |      | 151      | 64.50 |           | 215.50| 262            |
+| 2220  | 4' x 12' with aluminum frame                    | 12   | 1.333       |             |      | 211      | 75    |           | 286   | 345            |
+| 2230  | Bulletin board case, single glass door, with lock |      |             |             |      |          |       |           |       |                |
+| 2240  | 36" x 24", economy                              | 2 Carp | 12          | 1.333       | Ea.  | 182      | 75    |           | 257   | 315            |
+| 2250  | Deluxe                                          | 12   | 11.333      |             |      | 230      | 75    |           | 305   | 365            |
+| 2260  | 42" x 30", economy                              | 12   | 1.333       |             |      | 235      | 75    |           | 310   | 370            |
+| 2270  | Deluxe                                          | 12   | 1.333       |             |      | 229      | 75    |           | 304   | 365            |
+| 2300  | Glass enclosed cabinets, alum., cork panel, hinged doors |      |             |             |      |          |       |           |       |                |
+| 2400  | 3' x 3', 1 door                                 | 2 Carp | 12          | 1.333       | Ea.  | 425      | 752   |           | 500   | 580            |
+| 2500  | 4' x 4', 2 door                                 | 11   | 1.455       |             |      | 330      | 82    |           | 412   | 485            |
+| 2600  | 4' x 7', 3 door                                 | 10   | 1.600       |             |      | 525      | 90    |           | 615   | 710            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Visual Display Units  
+## Visual 13 - Chalkboards
+
+### 3.13 Fixed Chalkboards Units trim and chalktrough
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 5700 | Wood trim and chalktrough                                            |        |              |             |      |          |         |           |          |                |
+| 5900 | 4'x4'                                                                | 2 Carp | 16           | 1           | Ea.  | 595      | 56.50   |           | 651.50   | 740            |
+| 6000 | 4'x6'                                                                |        | 15           | 1.067       |      | 241      | 60      |           | 301      | 355            |
+| 6200 | 4'x8'                                                                |        | 14           | 1.143       |      | 815      | 64.50   |           | 879.50   | 995            |
+| 6300 | Liquid chalk, felttip markers                                        |        |              |             |      | 1.93     |         |           | 1.93     | 2.12           |
+| 6500 | Erasers                                                              |        |              |             |      | 2.14     |         |           | 2.14     | 2.35           |
+| 6600 | Board cleaner, 8 oz. bottle                                          |        |              |             |      | 4.72     |         |           | 4.72     | 5.20           |
+
+### 10 11 13.23 Modular-Support-Mounted Chalkboards
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010 | MODULAR-SUPPORT-MOUNTED CHALKBOARDS                                  |        |              |             |      |          |         |           |          |                |
+| 0400 | Sliding chalkboards                                                  |        |              |             |      |          |         |           |          |                |
+| 0450 | Vertical, one sliding board with back panel, wall mounted            |        |              |             |      |          |         |           |          |                |
+| 0500 | 8'x4'                                                                | 2 Carp | 8            | 2           | Ea.  | 2,500    | 12223   |           | 2,613    | 2,925          |
+| 0520 | 8'x8'                                                                |        | 7.50         | 2.133       |      | 4,875    | 120     |           | 4,995    | 5,525          |
+| 0540 | 8'x12'                                                               |        | 17           | 2.286       |      | 2,600    | 129     |           | 2,729    | 3,050          |
+| 0600 | Two sliding boards, with back panel                                  |        |              |             |      |          |         |           |          |                |
+| 0620 | 8'x4'                                                                | 2 Carp | 8            | 2           | Ea.  | 1,800    | 113     |           | 1,913    | 2,150          |
+| 0640 | 8'x8'                                                                |        | 7.50         | 2.133       |      | 4,875    | 120     |           | 4,995    | 5,525          |
+| 0660 | 8'x12'                                                               |        | 7            | 2.286       |      | 5,900    | 129     |           | 6,029    | 6,700          |
+| 0700 | Horizontal, two track                                                |        |              |             |      |          |         |           |          |                |
+| 0800 | 4'x8', 2 sliding panels                                              | 2 Carp | 85           | 2           | Ea.  | 1,800    | 113     |           | 1,913    | 2,150          |
+| 0820 | 4'x12', 2 sliding panels                                             |        | 7.50         | 2.133       |      | 2,350    | 120     |           | 2,470    | 2,775          |
+| 0840 | 4'x16', 4 sliding panels                                             |        | 17           | 2.286       |      | 3,175    | 129     |           | 3,304    | 3,700          |
+| 0900 | Four track, four sliding panels                                      |        |              |             |      |          |         |           |          |                |
+| 0920 | 4'x8'                                                                | 2 Carp | 8            | 2           | Ea.  | 2,900    | 113     |           | 3,013    | 3,375          |
+| 0940 | 4'x12'                                                               |        | 7.50         | 2.133       |      | 5,825    | 120     |           | 5,945    | 6,600          |
+| 0960 | 4'x16'                                                               |        | 7            | 2.286       |      | 6,575    | 129     |           | 6,704    | 7,450          |
+| 1200 | Vertical, motor operated                                             |        |              |             |      |          |         |           |          |                |
+| 1400 | One sliding panel with back panel                                    |        |              |             |      |          |         |           |          |                |
+| 1450 | 10'x4'                                                               | 2 Carp | 4            | 4           | Eo.  | 5,925    | 225     |           | 6,150    | 6,850          |
+| 1500 | 10'x10'                                                              |        | 3.75         | 4.267       |      | 6,025    | 240     |           | 6,265    | 6,975          |
+| 1550 | 10'x16'                                                              |        | 3.50         | 4.571       |      | 8,125    | 257     |           | 8,382    | 9,325          |
+| 1700 | Two sliding panels with back panel                                   |        |              |             |      |          |         |           |          |                |
+| 1750 | 10'x4'                                                               | 2 Carp | 4            | 4           | Ea.  | 8,850    | 225     |           | 9,075    | 10,100         |
+| 1800 | 10'x10'                                                              |        | 3.75         | 4.267       |      | 9,825    | 240     |           | 10,065   | 11,200         |
+| 1850 | 10'x16'                                                              |        | 3.50         | 4.571       |      | 20,600   | 257     |           | 20,857   | 23,000         |
+| 2000 | Three sliding panels with back panel                                 |        |              |             |      |          |         |           |          |                |
+| 2100 | 10'x4'                                                               | 2 Carp | 4            | 4           | Ea.  | 14,400   | 225     |           | 14,625   | 16,200         |
+| 2150 | 10'x10'                                                              |        | 3.75         | 4.267       |      | 15,600   | 240     |           | 15,840   | 17,600         |
+| 2200 | 10'x16'                                                              |        | 3.50         | 4.571       |      | 18,300   | 257     |           | 18,557   | 20,500         |
+| 2400 | For projection screen, glass beaded, add                             |        |              |             | S.F. | 6.25     |         |           | 6.25     | 6.90           |
+| 2500 | For remote control, 1 panel control, add                             |        |              |             | Ea.  | 340      |         |           | 340      | 375            |
+| 2600 | 2 panel control, add                                                 |        |              |             | "    | 585      |         |           | 585      | 645            |
+| 2800 | For units without back panels, deduct                                |        |              |             | S.F. | 5.25     |         |           | 5.25     | 5.80           |
+| 2850 | For liquid chalk porcelain panels, add                               |        |              |             | "    | 4.88     |         |           | 4.88     | 5.35           |
+| 3000 | Swing leaf, any comb. of chalkboard & cork, aluminum frame           |        |              |             |      |          |         |           |          |                |
+| 3100 | Floor style, 6 panels                                                |        |              |             |      |          |         |           |          |                |
+| 3150 | 30"x40" panels                                                       |        |              |             | Eo.  | 1,450    |         |           | 1,450    | 1,600          |
+| 3200 | 48"x40" panels                                                       |        |              |             | P    | 2,500    |         |           | 2,500    | 2,750          |
+| 3300 | Wall mounted, 6 panels                                               |        |              |             |      |          |         |           |          |                |
+| 3400 | 30"x40" panels                                                       | 2 Carp | 16           | 1           | Ea.  | 1,400    | 56.50   |           | 1,456.50 | 1,625          |
+| 3450 | 48"x40" panels                                                       | "      | 16           | 1           | >    | 1,700    | 56.50   |           | 1,756.50 | 1,950          |
+| 3600 | Extra panels for swing leaf units                                    |        |              |             |      |          |         |           |          |                |
+
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 21 Compartments and Cubicles
+
+## 10 21 13 Toilet Compartments
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10 21 13.19 | Plastic Toilet Compartments                                         |        |              |             |      |          |       |           |       |                |
+| 1050  | Phenolic                                                             | 2 Carp | 5            | 3.200       | Ea.  | 1,025    | 180   |           | 1,205 | 1,400          |
+| 1060  | Polymer plastic                                                      | "      | 5            | 3.200       |      | 995      | 180   |           | 1,175 | 1,375          |
+| 1400  | For handicap units, add                                              |        |              |             |      | 385      |       |           | 385   | 425            |
+| 1610  | Floor mounted                                                        |        |              |             |      |          |       |           |       |                |
+| 1750  | Phenolic                                                             | 2 Carp | 7            | 2.286       | Eq.  | 820      | 129   |           | 949   | 1,100          |
+| 1760  | Polymer plastic                                                      | "      | 7            | 2.286       |      | 925      | 129   |           | 1,054 | 1,225          |
+| 2100  | For handicap units, add                                              |        |              |             |      | 365      |       |           | 365   | 400            |
+| 2200  | For juvenile units, deduct                                           |        |              |             |      | 45.50    |       |           | 45.50 | 50.5           |
+| 2450  | Floor mounted, headrail braced                                       |        |              |             |      |          |       |           |       |                |
+| 2550  | Phenolic                                                             | 2 Carp | 6            | 2.667       | Ea.  | 995      | 150   |           | 1,145 | 1,325          |
+| 3600  | Polymer plastic                                                      |        | 6            | 2.667       |      | 380      | 150   |           | 530   | 645            |
+| 3810  | Entrance screen, polymer plastic, fl. mtd, 48" x 58"                 |        | 99           | 2.667       |      | 252      | 150   |           | 402   | 500            |
+| 3820  | Entrance screen, polymer plastic, flr. to clg pilaster, 48" x 58"    |        |              | 2.667       |      | 252      | 150   |           | 402   | 500            |
+| 6110  | Urinal screen, polymer plastic, pilaster flush, 18" w                |        | 6            | 2.667       |      | 244      | 150   |           | 394   | 490            |
+| 7110  | Wall hung                                                            |        | 6            | 2.667       |      | 138      | 150   |           | 288   | 375            |
+| 7710  | Flange mounted                                                       |        | 6            | 2.667       |      | 221      | 150   |           | 371   | 465            |
+
+## 10 21 13.40 Stone Toilet Compartments
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | STONE TOILET COMPARTMENTS                                            |        |              |             |      |          |       |           |       |                |
+| 0100  | Cubicles, ceiling hung, marble                                       | 2 Marb | 2            | 8           | Ea.  | 1,675    | 440   |           | 2,115 | 2,500          |
+| 0600  | For handicap units, add                                              |        |              |             |      | 122      |       |           | 122   | 134            |
+| 0800  | Floor & ceiling anchored, marble                                     | 2 Marb | 2.50         | 6.400       |      | 1,700    | 350   |           | 2,050 | 2,400          |
+| 1400  | For handicap units, add                                              |        |              |             |      | 385      |       |           | 385   | 425            |
+| 1600  | Floor mounted, marble                                                | 2 Marb | 33           | 5.333       |      | 1,075    | 294   |           | 1,369 | 1,625          |
+| 2400  | Floor mounted, headrail braced, marble                               | "      |              | 5.333       |      | 1,225    | 294   |           | 1,519 | 1,800          |
+| 2900  | For handicap units, add                                              |        |              |             |      | 335      |       |           | 335   | 365            |
+| 4100  | Entrance screen, floor mounted marble, 58" high, 48" wide            | 2 Marb | 9            | 1.778       |      | 735      | 98    |           | 833   | 955            |
+| 4600  | Urinal screen, 18" wide, ceiling braced, marble                      | D-1    | 6            | 2.667       |      | 770      | 134   |           | 904   | 1,050          |
+| 5100  | Floor mounted, headrail braced                                       |        |              |             |      |          |       |           |       |                |
+| 5200  | Marble                                                               | D-1    | 6            | 2.667       | Ea.  | 660      | 134   |           | 794   | 925            |
+| 5700  | Pilaster, flush, marble                                              |        | 9            | 1.778       |      | 865      | 89    |           | 954   | 1,075          |
+| 6200  | Post braced, marble                                                  |        | 9            | 11.778      |      | 845      | 89    |           | 934   | 1,075          |
+
+## 10 21 14 Toilet Compartment Components
+
+### 10 21 14.13 Metal Toilet Compartment Components
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0010  | METAL TOILET COMPARTMENT COMPONENTS                                  |        |              |             |      |          |         |           |         |                |
+| 0100  | Pilasters                                                            |        |              |             |      |          |         |           |         |                |
+| 0110  | Overhead braced, powder coated steel, 7" wide x 82" high             | 2 Carp | 22.20        | .721        | Eq.  | 72       | 40.50   |           | 112.50  | 140            |
+| 0120  | Stainless steel                                                      |        | 22.20        | .721        |      | 166      | 40.50   |           | 206.50  | 243            |
+| 0130  | Floor braced, powder coated steel, 7" wide x 70" high                |        | 23.30        | .687        |      | 109      | 38.50   |           | 147.50  | 178            |
+| 0140  | Stainless steel                                                      |        | 23.30        | .687        |      | 215      | 38.50   |           | 253.50  | 294            |
+| 0150  | Ceiling hung, powder coated steel, 7" wide x 83" high                |        | 13.30        | 1.203       |      | 118      | 67.50   |           | 185.50  | 231            |
+| 0160  | Stainless steel                                                      |        | 13.30        | 1.203       |      | 293      | 67.50   |           | 360.50  | 420            |
+| 0170  | Wall hung, powder coated steel, 3" wide x 58" high                   |        | 18.90        | .847        |      | 83.50    | 47.50   |           | 131     | 163            |
+| 0180  | Stainless steel                                                      |        | 18.90        | .847        |      | 184      | 47.50   |           | 231.50  | 274            |
+| 0200  | Panels                                                               |        |              |             |      |          |         |           |         |                |
+| 0210  | Powder coated steel, 31" wide x 58" high                             | 2 Carp | 18.90        | .847        | Ea.  | 161      | 47.50   |           | 208.50  | 248            |
+| 0220  | Stainless steel                                                      |        | 18.90        | .847        |      | 480      | 47.50   |           | 527.50  | 600            |
+| 0230  | Powder coated steel, 53" wide x 58" high                             |        | 18.90        | .847        |      | 198      | 47.50   |           | 245.50  | 289            |
+| 0240  | Stainless steel                                                      |        | 18.90        | .847        |      | 575      | 47.50   |           | 622.50  | 705            |
+| 0250  | Powder coated steel, 63" wide x 58" high                             |        | 18.90        | .847        |      | 262      | 47.50   |           | 309.50  | 360            |
+| 0260  | Stainless steel                                                      |        | 18.90        | .847        |      | 690      | 47.50   |           | 737.50  | 830            |
+| 0300  | Doors                                                                |        |              |             |      |          |         |           |         |                |
+| 0310  | Powder coated steel, 24" wide x 58" high                             | 2 Carp | 14.10        | 1.135       | Ea.  | 188      | 64      |           | 252     | 330            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Compartments and Cubicles
+
+## 10 21 14 - Toilet Compartment Components
+
+### 10 21 14.13 Metal Toilet Compartment Components
+
+| ID   | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0320 | Stainless steel                                           | 2 Carp  | 14.10        | 1.135       | Ea   | 430      | 64    |           | 494   | 570            |
+| 0330 | Powder coated steel, 26" wide x 58" high                  |         | 14.10        | 1.135       |      | 194      | 64    |           | 258   | 310            |
+| 0340 | Stainless steel                                           |         | 14.10        | 1.135       |      | 475      | 64    |           | 539   | 620            |
+| 0350 | Powder coated steel, 28" wide x 58" high                  |         | 14.10        | 1.135       |      | 196      | 64    |           | 260   | 310            |
+| 0360 | Stainless steel                                           |         | 14.10        | 1.135       |      | 460      | 64    |           | 524   | 600            |
+| 0370 | Powder coated steel, 36" wide x 58" high                  |         | 14.10        | 1.135       |      | 204      | 64    |           | 268   | 320            |
+| 0380 | Stainless steel                                           |         | 14.10        | 1.135       |      | 550      | 64    |           | 614   | 700            |
+
+### Headrails
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|-------|----------------|
+| 0400 | Headrails                                    |        |              |             |      |          |        |           |       |                |
+| 0410 | For powder coated steel, 62" long            | 2 Carp | 65           | .246        | Ea   | 339244   | 13.85  |           | 52.85 | 63.50          |
+| 0420 | Stainless steel                              |        | 65           | 246         |      | 39       | 13.85  |           | 52.85 | 63.50          |
+| 0430 | For powder coated steel, 84" long            |        | 50           | .320        |      | 32.50    | 18     |           | 50.50 | 63             |
+| 0440 | Stainless steel                              |        | 50           | .320        |      |          | 18     |           | 52    | 64             |
+| 0450 | For powder coated steel, 120" long           |        | 30           | .533        |      | 45       | 330    |           | 75    | 94             |
+| 0460 | Stainless steel                              |        | 30           | .533        |      | 45       |        |           | 75    | 94             |
+
+---
+
+## 10 21 14.16 Plastic - Laminate Clad Toilet Compartment Components
+
+| ID    | Name                                               | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PLASTIC -LAMINATE CLAD TOILET COMPARTMENT COMPONENTS |        |              |             |      |          |        |           |         |                |
+| 0100  | Pilasters                                          |        |              |             |      |          |        |           |         |                |
+| 0110  | Overhead braced, 7" wide x 82" high                | 2 Carp | 22.20        | .721        | Eq   | 111      | 40.50  |           | 151.50  | 183            |
+| 0130  | Floor anchored, 7" wide x 70" high                 |        | 23.30        | .687        |      | 111      | 38.50  |           | 149.50  | 180            |
+| 01501 | Ceiling hung, 7" wide x 83" high                   |        | 13.30        | 1.203       |      | 129      | 67.50  |           | 196.50  | 243            |
+| 0180  | Wall hung, 3" wide x 58" high                      |        | 18.90        | .847        |      | 87.50    | 47.50  |           | 135     | 167            |
+| 0200  | Panels                                             |        |              |             |      |          |        |           |         |                |
+| 0210  | 31" wide x 58" high                                | 12 Carp| 18.90        | .847        | Ea   | 188      | 47.50  |           | 235.50  | 278            |
+| 0230  | 51" wide x 58" high                                |        | 18.90        | .847        |      | 245      | 47.50  |           | 292.50  | 340            |
+| 0250  | 63" wide x 58" high                                |        | 18.90        | .847        | D    | 300      | 47.50  |           | 347.50  | 400            |
+| 0300  | Doors                                              |        |              |             |      |          |        |           |         |                |
+| 0310  | 24" wide x 58" high                                | 2 Carp | 14.10        | 1.135       | Eg   | 175      | ***    |           | 239     | 288            |
+| 0330  | 26" wide x 58" high                                |        | 14.10        | 1.135       |      | 181      | 64     |           | 245     | 294            |
+| 0350  | 28" wide x 58" high                                |        | 14.10        | 1.135       |      | 185      | 64     |           | 249     | 298            |
+| 0370  | 36" wide x 58" high                                |        | 14.10        | 1.135       |      | 226      | 64     |           | 290     | 345            |
+| 0400  | Headrails                                          |        |              |             |      |          |        |           |         |                |
+| 0410  | 62" long                                           | 2 Carp | 65           | .246        | Ea   | 26.50    | 13.85  |           | 40.35   | 50             |
+| 0430  | 84" long                                           |        | 60           | .267        |      | 37       | 15     |           | 52      | 63.50          |
+| 0450  | 120" long                                          |        | 30           | .533        |      | 46.50    | 30     |           | 76.50   | 95.50          |
+
+---
+
+## 10 21 14.19 Plastic Toilet Compartment Components
+
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PLASTIC TOILET COMPARTMENT COMPONENTS                     |        |              |             |      |          |        |           |         |                |
+| 100   | Pilasters                                                 |        |              |             |      |          |        |           |         |                |
+| 0110  | Overhead braced, polymer plastic, 7" wide x 82" high      | 2 Carp | 22.20        | .721        | Ea   | 111      | 40.50  |           | 151.50  | 183            |
+| 0120  | Phenolic                                                  |        | 22.20        | .721        |      | 179      | 40.50  |           | 219.50  | 258            |
+| 0130  | Floor braced, polymer plastic, 7" wide x 70" high         |        | 23.30        | .687        |      | 190      | 38.50  |           | 228.50  | 267            |
+| 0140  | Phenolic                                                  |        | 23.30        | .687        |      | 159      | 38.50  |           | 197.50  | 233            |
+| 0150  | Ceiling hung, polymer plastic, 7" wide x 83" high         |        | 13.30        | 1.203       |      | 190      | 67.50  |           | 257.50  | 310            |
+| 0160  | Phenolic                                                  |        | 13.30        | 1.203       |      | 190      | 67.50  |           | 257.50  | 310            |
+| 1180  | Wall hung, phenolic, 3" wide x 58" high                   |        | 18.90        | .847        |      | 105      | 47.50  |           | 152.50  | 187            |
+| 1200  | Panels                                                    |        |              |             |      |          |        |           |         |                |
+| 1203  | Polymer plastic, 18" wide x 55" high                      | 2 Carp | 18.90        | .847        | Ea   | 300      | 47.50  |           | 347.50  | 400            |
+| 1206  | Phenolic, 18" wide x 58" high                             |        | 18.90        | .847        |      | 335      | 47.50  |           | 382.50- | 440            |
+| 1210  | Polymer plastic, 31" wide x 55" high                      |        | 18.90        | .847        |      | 410      | 47.50  |           | 457.50  | 520            |
+| 1220  | Phenolic, 31" wide x 58" high                             |        | 18.90        | .847        |      | 375      | 47.50  |           | 422.50  | 480            |
+| 1223  | Polymer plastic, 48" wide x 55" high                      |        | 18.90        | .847        |      | 570      | 47.50  |           | 617.50  | 695            |
+| 1226  | Phenolic, 48" wide x 58" high                             |        | 18.90        | .847        |      | 525      | 47.50  |           | 572.50  | 650            |
+| 1230  | Polymer plastic, 51" wide x 55" high                      |        | 18.90        | .847        |      | 575      | 47.50  |           | 622.50  | 705            |
+
+---
+
+support your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer on
+
+# 00110 EXTERIOR SIGNS
+
+## 10 14 Signage  
+10 14 19 - Dimensional Letter Signage  
+10 14 19.10 Exterior Signs
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material      | Labor   | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|--------------|---------|-----------|----------|----------------|
+| 0010 | EXTERIOR SIGNS                                                       |        |              |             |      |              |         |           |          |                |
+| 0020 | Letters, 2" high, 3/8" deep, cast bronze                             | 1 Carp | 22222        | .333        | Eo.  | ཀླ           | 18.75   |           | 41.75    | 53.50          |
+| 0140 | 1/2" deep, cast aluminum                                             |        | 18           | .444        |      | ཀྶ23         | 25      |           | 48       | 62.50          |
+| 0160 | Cast bronze                                                          |        | 32           | .250        |      | ཤཿ14.50      | 14.10   |           | 28.60    | 37             |
+| 0300 | 6" high, 5/8" deep, cast aluminum                                    |        | 24           | .333        |      | 39           | 18.75   |           | 57.75    | 71             |
+| 0400 | Cast bronze                                                          |        | 24           | .333        | *    | ⌘⊕80         | 18.75   |           | 98.75    | 116            |
+| 0600 | 8" high, 3/4" deep, cast aluminum                                    |        | 14           | .571        | !    | 39           | 32      |           | 71       | 91             |
+| 0700 | Cast bronze                                                          |        | 288282282.4  |             |      | 194          | 22.50   |           | 216.50   | 247            |
+| 0900 | 10" high, 1" deep, cast aluminum                                     |        | 18           | .444        |      | ྣ50          | 25      |           | 75       | 92             |
+| 1000 | Cast bronze                                                          |        | 18           | .444        |      | ཀྷ53         | 25      |           | 78       | 95.50          |
+| 1200 | 12" high, 1-1/4" deep, cast aluminum                                 |        | 12           | .667        |      | 63           | 37.50   |           | 100.50   | 126            |
+| 1500 | Cast bronze                                                          |        | 18           | .444        |      | 63           | 25      |           | 888      | 107            |
+| 1600 | 14" high, 2-5/16" deep, cast aluminum                                |        | 12           | .667        |      | 280          | 37.50   |           | 317.50   | 365            |
+| 1800 | Fabricated stainless steel, 6" high, 2" deep                         |        |              | .400        |      | སྐ33         | 22.50   |           | 55.50    | 70             |
+| 1900 | 12" high, 3" deep                                                    |        | 18           | .444        |      | 63           | 25      |           | 88       | 107            |
+| 2100 | 18" high, 3" deep                                                    |        | 12           | .667        |      | 135          | 37.50   |           | 172.50   | 205            |
+| 2200 | 24" high, 4" deep                                                    |        | 10           | .800        |      | ⌘390         | 45      |           | 435      | 495            |
+| 2700 | Acrylic, on high density foam, 12" high, 2" deep                     |        |              | .400        |      | རྨུ29.50     | 22.50   |           | 52       | 66             |
+| 2800 | 18" high, 2" deep                                                    |        | 18           | .444        |      | ༈ 48.50      | 25      |           | 73.50    | 90.50          |
+| 3900 | Plaques, custom, 20" x 30", for up to 450 letters, cast aluminum     | 2 Carp | 4            | 4           |      | 1,325        | 225     |           | 1,550    | 1,775          |
+| 4000 | Cast bronze                                                          |        | 143223323    | 4           | 1    | 2,325        | 225     |           | 2,550    | 2,875          |
+| 4200 | 30" x 36", up to 900 letters, cast aluminum                          |        |              | 5.333       |      | 2,650        | 300     |           | 2,950    | 3,375          |
+| 4300 | Cast bronze                                                          | 1      |              | 5.333       |      | 4,600        | 300     |           | 4,900    | 5,500          |
+| 4500 | 36" x 48", for up to 1300 letters, cast bronze                       | 281    |              |             |      | 7,100        | 450     |           | 7,550    | 8,500          |
+| 4800 | Signs, reflective alum. directional signs, dbl. face, 2-way, w/bracket|      | 30           | .533        |      | 40.50        | 30      |           | 70.50    | 89             |
+| 4900 | 4 way                                                                |        | 30           | .533        |      | 80.50        | 30      |           | 110.50   | 133            |
+| 5100 | Exit signs, 24 ga. alum., 14" x 12" surface mounted                  | 1 Carp | 30           | .267        |      | 21.50        | 15      |           | 36.50    | 46.50          |
+| 5200 | 10" x 7"                                                             |        | 20           | .400        |      | 13.80        | 22.50   |           | 36.30    | 48.50          |
+| 5400 | Bracket mounted, double face, 12" x 10"                              |        | 30           | .267        |      | 220          | 15      |           | 35       | 44.50          |
+| 5500 | Sticky back, stock decals, 14" x 10"                                 | 1 Clab | 50           | .160        | %    | 10.95        | 7.30    |           | 18.25    | 23             |
+| 6400 | Replacement sign faces, 6" or 8"                                     | "      | 50           | .160        |      | 4.65         | 7.30    |           | 11.95    | 15.9           |
+| 8000 | Internally illuminated, custom                                       |        |              | 56          |      |              |         |           |          |                |
+| 8100 | On pedestal, 84" x 30" x 12"                                         | L-7    | .50          | 56          | Ea.  | 1,850        | 3,050   |           | 4,900    | 6,575          |
+
+---
+
+## 10 14 23 - Panel Signage  
+10 14 23.13 Engraved Panel Signage
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material      | Labor   | Equipment | Total    | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|--------------|---------|-----------|----------|----------------|
+| 0010 | ENGRAVED PANEL SIGNAGE, interior                                     |        |              |             |      |              |         |           |          |                |
+| 1010 | Flexible door sign, adhesive back, w/Braille, 5/8" letters, 4" x 4"  | 1 Clab | 322332222.25 | 2222 Ea.    |      | 44.50        | 11.40   |           | 55.90    | 66             |
+| 1050 | 6" x 6"                                                              |        |              | .250        |      | 68.50        | 11.40   |           | 79.90    | 92             |
+| 1100 | 8" x 2"                                                              |        |              | .250        |      | 19.65        | 11.40   |           | 31.05    | 38.50          |
+| 1150 | 8" x 4"                                                              | 32     |              | .250        |      | 26           | 11.40   |           | 37.40    | 46             |
+| 1200 | 8" x 8"                                                              | 1      |              | .250        |      | 38.50        | 11.40   |           | 49.90    | 59.50          |
+| 1250 | 12" x 2"                                                             | I      |              | .250        |      | 41.50        | 11.40   |           | 52.90    | 63             |
+| 1300 | 12" x 6"                                                             | 1      |              | .250        |      | 52           | 11.40   |           | 63.40    | 74.50          |
+| 1350 | 12" x 12"                                                            |        |              | .250        |      | 155          | 11.40   |           | 166.40   | 187            |
+| 1500 | Graphic symbols, 2" x 2"                                             |        |              | .250        |      | 18.50        | 11.40   |           | 29.90    | 37.50          |
+| 1550 | 6" x 6"                                                              |        |              | .250        |      | 24.50        | 11.40   |           | 35.90    | 44             |
+| 1600 | 8" x 8"                                                              |        |              | .250        |      | 30.50        | 11.40   |           | 41.90    | 50.50          |
+| 2010 | Corridor, stock acrylic, 2-sided, with mounting bracket, 2" x 8"     | 1 Carp | 24           | .333        |      | 28           | 18.75   |           | 46.75    | 58.50          |
+| 2020 | 2" x 10"                                                             |        | 24           | .333        |      | 28.50        | 18.75   |           | 47.25    | 59             |
+| 2050 | 3" x 8"                                                              |        | 24           | .333        |      | 54.50        | 18.75   |           | 73.25    | 88             |
+| 2060 | 3" x 10"                                                             | 1      | 24           | .333        |      | 35.50        | 18.75   |           | 54.25    | 67             |
+| 2070 | 3" x 12"                                                             |        | 24           | .333        |      | 48.50        | 18.75   |           | 67.25    | 81             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 22 Partitions  
+## 10 22 13 - Wire Mesh Partitions
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 1800 | 6' wide sliding door, 7' full height                                 | 2 Carp | 5            | 3.200       | Ea.  | 870      | 180   |           | 1,050 | 1,225          |
+| 1900 | 10' high                                                             |        | 4 \| 4       |             |      | 770      | 225   |           | 995   | 1,175          |
+| 2100 | Swinging doors, 3' wide, 7' high, no transom                         |        | 6            | 2.667       |      | 530      | 150   |           | 680   | 810            |
+| 2200 | 7' high, 3' transom                                                  |        | 5            | 3.200       |      | 440      | 180   |           | 620   | 755            |
+
+## 10 22 16 - Folding Gates  
+### 10 22 16.10 Security Gates
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010  | SECURITY GATES                                                       |        |              |             |       |          |       |           |       |                |
+| 0015  | For rollup type, see Section 08 33 13.10                             |        |              |             |       |          |       |           |       |                |
+| 0300  | Scissors type folding gate, ptd. steel, single, 6-1/2' high, 5-1/2' wide | 2 Sswk | 44           | 4           | Opng. | 205      | 247   |           | 452   | 605            |
+| 0350  | 6-1/2' wide                                                          |        |              | 4           |       | 500      | 247   |           | 747   | 930            |
+| 0400  | 7-1/2' wide                                                          |        | 44           |             |       | 500      | 247   |           | 747   | 930            |
+| 0600  | Double gate, 8' high, 8' wide                                        |        | 2.50         | 6.400       |       | 400      | 395   |           | 795   | 1,050          |
+| 0650  | 10' wide                                                             |        | 2.50         | 6.400       |       | 435      | 395   |           | 830   | 1,100          |
+| 0700  | 12' wide                                                             |        | 2            | 8           |       | 530      | 495   |           | 1,025 | 1,350          |
+| 0750  | 14' wide                                                             |        | 2            | 8           |       | 530      | 495   |           | 1,025 | 1,350          |
+| 0900  | Door gate, folding steel, 4' wide, 61" high                          |        | 4            | 4           |       | 167      | 247   |           | 414   | 565            |
+| 1000  | 71" high                                                             |        | 4            | 4           |       | 179      | 247   |           | 426   | 575            |
+| 1200  | 81" high                                                             |        | 4            | 4           |       | 194      | 247   |           | 441   | 595            |
+| 1300  | Window gates, 2' to 4' wide, 31" high                                |        | 4            | 4           |       | 134      | 247   |           | 381   | 525            |
+| 1500  | 55" high                                                             |        | 3.75         | 4.267       |       | 245      | 264   |           | 509   | 675            |
+| 1600  | 79" high                                                             |        | 3.50         | 4.571       |       | 245      | 283   |           | 528   | 705            |
+
+## 10 22 19 - Demountable Partitions  
+### 10 22 19.43 Demountable Composite Partitions
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0010  | DEMOUNTABLE COMPOSITE PARTITIONS, add for doors                      |        |              |             |      |          |         |           |         |                |
+| 0100  | Do not deduct door openings from total L.F.                          |        |              |             |      |          |         |           |         |                |
+| 0900  | Demountable gypsum system on 2" to 2-1/2"                            |        |              |             |      |          |         |           |         |                |
+| 1000  | Steel studs, 9' high, 3" to 3-3/4" thick                             |        |              |             |      |          |         |           |         |                |
+| 1200  | Vinyl-clad gypsum                                                    | 2 Carp | 48           | .333        | L.F. | 72       | 18.75   |           | 90.75   | 107            |
+| 1300  | Fabric clad gypsum                                                   |        | 44           | .364        |      | 154      | 20.50   |           | 174.50  | 200            |
+| 1500  | Steel clad gypsum                                                    | BY     | 40           | .400        |      | 173      | 22.50   |           | 195.50  | 224            |
+| 1600  | 1.75 system, aluminum framing, vinyl clad hardboard,                 |        |              |             |      |          |         |           |         |                |
+| 1800  | Paper honeycomb core panel, 1-3/4" to 2-1/2" thick                   |        |              |             |      |          |         |           |         |                |
+| 1900  | 9' high                                                              | 2 Carp | 48           | .333        | LF   | 104      | 18.75   |           | 122.75  | 142            |
+| 2100  | 7' high                                                              |        | 60           | .267        |      | 93       | 15      |           | 108     | 125            |
+| 2200  | 5' high                                                              |        | 80           | .200        |      | 78.50    | 11.25   |           | 89.75   | 103            |
+
+### Unitized Gypsum System
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2300  | Unitized panel, 9' high, 2" to 2-1/2" thick                          |        |              |             |      |          |         |           |         |                |
+| 2350  | Vinyl-clad gypsum                                                    | 2 Carp | 48           | .333        | L.F. | 134      | 18.75   |           | 152.75  | 175            |
+| 2400  | Fabric clad gypsum                                                   | "      | 44           | .3641       | "    | 220      | 20.50   |           | 240.50  | 273            |
+
+### Unitized Mineral Fiber System
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2500  | Unitized mineral fiber system                                        |        |              |             |      |          |         |           |         |                |
+| 2510  | Unitized panel, 9' high, 2-1/4" thick, aluminum frame                |        |              |             |      |          |         |           |         |                |
+| 2550  | Vinyl clad mineral fiber                                             | 2 Carp | 48           | .333        | LF   | 133      | 18.75   |           | 151.75  | 174            |
+| 2600  | Fabric clad mineral fiber                                            |        | 44           | .364        | "    | 198      | 20.50   |           | 218.50  | 249            |
+
+### Movable Steel Walls, Modular System
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2800  | Movable steel walls, modular system                                  |        |              |             |      |          |         |           |         |                |
+| 2900  | Unitized panels, 9' high, 48" wide                                   |        |              |             |      |          |         |           |         |                |
+| 3100  | Baked enamel, pre finished                                           | 2 Carp | 60           | .267        | L.F. | 151      | 15      |           | 166     | 189            |
+| 3200  | Fabric clad steel                                                    |        | 56           | .286        | "    | 218      | 16.10   |           | 234.10  | 263            |
+
+### Trackless Wall, Cork Finish, Semi-Acoustic, 1-5/8" Thick
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 5310  | Trackless wall, cork finish, semi-acoustic, 1-5/8" thick, unsealed   |        | 325          | .049        | S.F. | 42.50    | 2.77    |           | 45.27   | 50.50          |
+| 5320  | Sealed                                                               |        | 190          | .084        |      | 50.50    | 4.74    |           | 55.24   | 62.50          |
+| 5330  | Acoustic, 2" thick, unsealed                                         |        | 305          | .052        |      | 43       | 2.95    |           | 45.95   | 52             |
+| 5340  | Sealed                                                               |        | 225          | .071        |      | 60       | 4       |           | 64      | 72             |
+| 5500  | For acoustical partitions, add, unsealed                             |        |              |             |      | 2.40     |         |           | 2.40    | 2.64           |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 10 Toilet, B28h, and LaunToiletcessories
+
+10 28,13 - Bathlet Accessories  
+1and8 13.13 CommeLaundryoilet Accessories  
+TumblAccessoriesrecessed  
+Soap, tumbler & toothbrush  
+7410  
+7500  
+7510  
+Tumbler & toothbrush holder  
+8000  
+Waste receptacles, stainless steel, wi  
+
+## 10 28 13 - Toilet Accessories
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 7410 | Tumbler holder, recessed                                              | 1 Carp | 20           | .400        | Eo . | 8.95     | 22.50   |           | 31.45   | 43.50          |
+| 7500 | Soap, tumbler & toothbrush                                            |        | 30           | .267        |      | 18.95    | 15      |           | 33.95   | 43.50          |
+| 7510 | Tumbler & toothbrush holder                                           |        | 20           | .400        |      | 12.15    | 22.50   |           | 34.65   | 47             |
+| 8000 | Waste receptacles, stainless steel, with top, 13 gallon               |        | 10           | .800        |      | 340      | 45      |           | 385     | 440            |
+| 8100 | 36 gallon                                                            |        | 8            |             |      | 430      | 56.50   |           | 486.50  | 560            |
+| 9996 | Bathroom access., grab bar, straight, 1-1/2" diam., SS, 42" L installonly |        | 18           | .444        |      |          | 25      |           | 25      | 37             |
+
+## 10 28 16 - Bath Accessories
+
+### 10 28 16.20 Medicine Cabinets
+
+| ID   | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0010 | MEDICINE CABINETS                                           |        |              |             |      |          |         |           |         |                |
+| 0020 | With mirror, sst frame, 16" x 22", unlighted                | 1 Carp | 14           | .571        | Ea . | 226      | 32      |           | 258     | 297            |
+| 0100 | Wood frame                                                  |        | 14           | .571        |      | 149      | 32      |           | 181     | 212            |
+| 0300 | Sliding mirror doors, 20" x 16" x 4-3/4", unlighted         |        | 7            | 1.143       |      | 145      | 64.50   |           | 209.50  | 256            |
+| 0400 | 24" x 19" x 8-1/2", lighted                                 |        | 5            | 1.600       |      | 167      | 90      |           | 257     | 320            |
+| 0600 | Triple door, 30" x 32", unlighted, plywood body             |        | 7            | 1.143       |      | 239      | 64.50   |           | 303.50  | 360            |
+| 0700 | Steel body                                                  |        | 7            | 1.143       |      | 410      | 64.50   |           | 474.50  | 545            |
+| 0900 | Oak door, wood body, beveled mirror, single door            |        | 7            | 1.143       |      | 138      | 64.50   |           | 202.50  | 248            |
+| 1000 | Double door                                                 |        | 6            | 1.333       |      | 450      | 75      |           | 525     | 605            |
+| 1200 | Hotel cabinets, stainless, with lower shelf, unlighted      |        | 10           | .800        |      | 345      | 45      |           | 390     | 445            |
+| 1300 | Lighted                                                     |        | 5            | 1.600       |      | 360      | 90      |           | 450     | 535            |
+
+## 10 28 19 - Tub and Shower Enclosures
+
+### 10 28 19.10 Partitions, Shower
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 0010  | PARTITIONS, SHOWER floor mounted, no plumbing                        |         |              |             |      |          |         |           |          |                |
+| 0400  | Cabinet, one piece, fiberglass, 32" x 32"                            | 2 Carp  | 5            | 3.200       | Eq . #| 460      | 180     |           | 640      | 775            |
+| 0420  | 36" x 36"                                                            |         | 5            | 3.200       |      | 950      | 180     |           | 1,130    | 1,325          |
+| 0440  | 36" x 48"                                                            |         | 5            | 3.200       |      | 1,025    | 180     |           | 1,205    | 1,400          |
+| 0460  | Acrylic, 32" x 32"                                                   | [   ]   | 5            | 3.200       |      | 197      | 180     |           | 377      | 485            |
+| 0480  | 36" x 36"                                                            | 15      | 3.200        |             |      | 935      | 180     |           | 1,115    | 1,300          |
+| 0500  | 36" x 48"                                                            |         | 5            | 3.200       |      | 815      | 180     |           | 995      | 1,175          |
+| 0520  | Shower door for above, clear plastic, 24" wide                       | 1 Carp  | 8            |             |      |          | 56.50   |           | 167.50   | 206            |
+| 0540  | 28" wide                                                             |         | 8            | 1           |      | 187      | 56.50   |           | 243.50   | 290            |
+| 0560  | Tempered glass, 24" wide                                             | 88      | 1            |             |      | 135      | 56.50   |           | 191.50   | 233            |
+| 0580  | 28" wide                                                             |         | 1            |             |      | 160      | 56.50   |           | 216.50   | 260            |
+| 2400  | Glass stall, with doors, no receptors, chrome on brass               | 2 Shee  | 3            | 5.333       | :    | 1,000    | 360     |           | 1,360    | 1,650          |
+| 2700  | Anodized aluminum                                                    |         | 4            | 4           | |    | 1,475    | 270     |           | 1,745    | 2,025          |
+| 2900  | Marble shower stall, stock design, with shower door                  | [2 Marb | 1.20         | 13.333      |      | 650      | 735     |           | 1,385    | 1,825          |
+| 3000  | With curtain                                                         |         | 1.30         | 12.308      | |    | 1,975    | 680     |           | 2,655    | 3,200          |
+| 3200  | Receptors, precast terrazzo, 32" x 32"                               |         | 14           | 1.143       |      | 288      | 63      |           | 351      | 410            |
+| 3300  | 48" x 34"                                                            |         | 9.50         | 1.684       |      | 410      | 92.50   |           | 502.50   | 590            |
+| 3500  | Plastic, simulated terrazzo receptor, 32" x 32"                      |         | 14           | 1.143       |      | 122      | 63      |           | 185      | 230            |
+| 3600  | 32" x 48"                                                            |         | 12           | 1.333       |      | 605      | 73.50   |           | 678.50   | 775            |
+| 3800  | Precast concrete, colors, 32" x 32"                                  |         | 14           | 1.143       |      | 139      | 63      |           | 202      | 248            |
+| 3900  | 48" x 48"                                                            |         | 8            | 2           |      | 785      | 110     |           | 895      | 1,025          |
+| 4100  | Shower doors, economy plastic, 24" wide                              | [1 Shee | 9            | .889        |      | 131      | 60      |           | 191      | 235            |
+| 4200  | Tempered glass door, economy                                         |         | 8            | 1           |      | 273      | 67.50   |           | 340.50   | 400            |
+| 4400  | Folding, tempered glass, aluminum frame                              |         | 6            | 1.333       |      | 470      | 90      |           | 560      | 650            |
+| 4500  | Sliding, tempered glass, 48" opening                                 |         | 6            | 1.333       |      | 490      | 90      |           | 580      | 670            |
+| 4700  | Deluxe, tempered glass, chrome on brass frame, 42" to 44"            |         | 8            | 18          |      | 320      | 67.50   |           | 387.50   | 450            |
+| 4800  | 39" to 48" wide                                                      |         | 1            |             |      | 600      | 540     |           | 1,140    | 1,475          |
+| 4850  | On anodized aluminum frame, obscure glass                            |         | 2            | 4           |      | 505      | 270     |           | 775      | 960            |
+| 4900  | Clear glass                                                          |         | 8            |             |      | 410      | 540     |           | 950      | 1,275          |
+| 5100  | Shower enclosure, tempered glass, anodized alum. frame               |         |              |             |      |          |         |           |          |                |
+| 5120  | 2 panel & door, corner unit, 32" x 32"                               | 1 Shee  | 2            | 4           | Eo . | 830      | 270     |           | 1,100    | 1,325          |
+
+---
+
+394 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10101 Manufactu31d Fireplace Manufacturedrefabricated Fireplaces
+
+## 10 31 23.10 FirepFireplacesabricated
+
+### Prefabricated Fireplaces
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | FIREPLACE, PREFABRICATED, free standing or wall hu                   |        |             |             |      |          |        |           |         |                |
+| 0100 | With hood & screen, pointed                                          | 1 Carp | 1.30        | 6.154       | Ea.  | 1,700    | 345    |           | 2,045   | 2,400          |
+| 0150 | Average                                                              | 1      | 8           |             |      | 1,575    | 450    |           | 2,025   | 2,425          |
+| 0200 | Stainless steel                                                      | .90    | 8.889       |             |      | 2,900    | 500    |           | 3,400   | 3,925          |
+| 1500 | Simulated logs, gas fired, 40,000 BTU, 2' long, manual safety pilot  | 17     | 1.143       | Set         | 790  | 64.50    |        | 854.50    | 965     |
+| 1600 | Adjustable flame remote pilot                                        | 6      | 1.333       | 1           | 2,525| 75       |        | 2,600     | 2,875   |
+| 1700 | Electri, 1,500 BTU, 1'-6" long, incandescent flame                   | 7      | 1.143       |             | 294  | 64.50    |        | 358.50    | 420     |
+| 1800 | 1,500 BTU, LED flame                                                 | 6      | 1.333       |             | 355  | 75       |        | 430       | 500     |
+| 2000 | Fireplace, builtin, 36" hearth, radiant                              | 1.30   | 6.154       | Ea.         | 790  | 345      |        | 1,135     | 1,375   |
+| 2100 | Recirculating, small fan                                             | 18     |             |             | 945  | 450      |        | 1,395     | 1,725   |
+| 2150 | Large fan                                                            | .90    | 8.889       |             | 2,525| 500      |        | 3,025     | 3,525   |
+| 2200 | 42" hearth, radiant                                                  | 1.20   | 6.667       |             | 1,100| 375      |        | 1,475     | 1,775   |
+| 2300 | Recirculating, small fan                                             | .90    | 8.889       |             | 1,275| 500      |        | 1,775     | 2,150   |
+| 2350 | Large fan                                                            | .80    | 10          |             | 1,375| 565      |        | 1,940     | 2,350   |
+| 2400 | 48" hearth, radiant                                                  | 1.10   | 7.273       |             | 2,175| 410      |        | 2,585     | 3,000   |
+| 2500 | Recirculating, small fan                                             | .80    | 10          |             | 2,775| 565      |        | 3,340     | 3,900   |
+| 2550 | Large fan                                                            | .70    | 11.429      |             | 2,775| 645      |        | 3,420     | 4,000   |
+| 3000 | See through, including doors                                         | .80    | 10          |             | 2,200| 565      |        | 2,765     | 3,275   |
+| 3200 | Corner (2 wall)                                                      | 1      | 8           |             | 3,675| 450      |        | 4,125     | 4,700   |
+
+---
+
+## 10 32 Fireplace Specialties
+
+### 10 32 13 - Fireplace Dampers
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | DAMPERS                                                              |        |             |             |      |          |        |           |         |                |
+| 0800 | Damper, rotary control, steel, 30" opening                           | 1 Bric | 6           | 1.333       | Ea.  | 127      | 73.50  |           | 200.50  | 251            |
+| 0850 | Cast iron, 30" opening                                               | 6      | 1.333       |             | 126  | 73.50    |        | 199.50    | 250     |
+| 0880 | 36" opening                                                          | 6      | 1.333       |             | 130  | 73.50    |        | 203.50    | 254     |
+| 0900 | 48" opening                                                          | 6      | 1.333       |             | 152  | 73.50    |        | 225.50    | 279     |
+| 0920 | 60" opening                                                          | 6      | 1.333       |             | 365  | 73.50    |        | 438.50    | 510     |
+| 0950 | 72" opening                                                          | 5548585| 1.600       |             | 440  | 88.50    |        | 528.50    | 620     |
+| 1000 | 84" opening, special order                                           |        | 1.600       |             | 945  | 88.50    |        | 1,033.50  | 1,150   |
+| 1050 | 96" opening, special order                                           |        | 2           |             | 955  | 111      |        | 1,066     | 1,225   |
+| 1200 | Steel plate, poker control, 60" opening                              |        | 1           |             | 335  | 55.50    |        | 390.50    | 450     |
+| 1250 | 84" opening, special order                                           |        | 1.600       |             | 610  | 88.50    |        | 698.50    | 805     |
+| 1400 | "Universal" type, chain operated, 32" x 20" opening                  |        | 1           |             | 259  | 55.50    |        | 314.50    | 370     |
+| 1450 | 48" x 24" opening                                                    |        | 1.600       |             | 385  | 88.50    |        | 473.50    | 560     |
+
+---
+
+### 10 32 23 Fireplace Doors
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010 | DOORS                                                                |        |             |             |      |          |        |           |         |                |
+| 0400 | Cleanout doors and frames, cast iron, 8" x 8"                        | 1 Bric | 208533      | .667        | Ea.  | 54       | 3783   |           | 91      | 115            |
+| 0450 | 12" x 12"                                                            | 10     | .800        |             | 105  | 44       |        | 149       | 182     |
+| 0500 | 18" x 24"                                                            |        |             |             | 156  | 55.50    |        | 211.50    | 254     |
+| 0550 | Cast iron frame, steel door, 24" x 30"                               | 5      | 1.600       |             | 385  | 88.50    |        | 473.50    | 560     |
+| 1600 | Dutch oven door and frame, cast iron, 12" x 15" opening              | 13     | .615        |             | 136  | 34       |        | 170       | 201     |
+| 1650 | Copper plated, 12" x 15" opening                                     | 13     | .615        |             | 266  | 34       |        | 300       | 345     |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 11035 Stoves
+
+## 10 35 13 - Heating Stoves
+
+### 10 35 13.10 Wood Burning Stoves
+
+#### 0010 WOOD BURNING STOVES
+
+| ID   | Name                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0015 | Cast iron, less than 1,500 S.F.           | 2 Carp  | 1.30         | 12.308      | Ea.  | 1,700    | 695   |           | 2,395 | 2,900          |
+| 0020 | 1,500 to 2,000 S.F.                       |         | 1            | 16          |      | 2,800    | 900   |           | 3,700 | 4,425          |
+| 0030 | greater than 2,000 S.F.                   |         | 0.80         | 20          |      | 2,850    | 1,125 |           | 3,975 | 4,800          |
+| 0050 | For gas log lighter, add                  |         |              |             |      | 33       |       |           | 33    | 36.50          |
+
+---
+
+# 10 43 Emergency Aid Specialties
+
+## 10 43 13 - Defibrillator Cabinets
+
+### 10 43 13.05 Defibrillator Cabinets
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | DEFIBRILLATOR CABINETS, not equipped, stainless steel                |        |              |             |      |          |       |           |       |                |
+| 0050 | Defibrillator cabinet, stainless steel with strobe & alarm 12"x27"   | 11 Carp| 10           | 0.800       | Ea.  | 325      | 55    |           | 370   | 420            |
+| 0100 | Automatic External Defibrillator                                     |        | 30           | 0.267       | "    | 1,125    | 15    |           | 1,140 | 1,275          |
+
+---
+
+# 10 44 Fire Protection Specialties
+
+## 10 44 13 - Fire Protection Cabinets
+
+### 10 44 13.53 Fire Equipment Cabinets
+
+| ID    | Name                                                                                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | FIRE EQUIPMENT CABINETS, not equipped, 20 ga. steel box                                                      |        |              |             |      |          |       |           |       |                |
+| 0040  | Recessed, D.S. glass in door, box size given                                                                 |        |              |             |      |          |       |           |       |                |
+| 1000  | Portable extinguisher, single, 8"x12"x27", alum. door & frame                                                | Q-12   | 887          | 2           | Ea.  | 116      | 123   |           | 239   | 310            |
+| 1100  | Steel door and frame                                                                                         |        |              | 2           |      | 93       | 123   |           | 216   | 286            |
+| 2700  | Fire blanket & extinguisher cab, inc blanket, rec stl., 14"x40"x8"                                          |        | 7            | 2.286       |      | 400      | 141   |           | 541   | 650            |
+| 2800  | Fire blanket cab, inc blanket, surf mtd, st, 15"x10"x5", w/pwdr coat fin                                    |        | 82           | 1           |      | 94       | 123   |           | 217   | 288            |
+| 3000  | Hose rack assy., 1-1/2" valve & 100' hose, 24"x40"x5-1/2"                                                   |        |              |             |      |          |       |           |       |                |
+| 3100  | Aluminum door and frame                                                                                      | Q-12   | 6            | 2.667       | Ea.  | 805      | 165   |           | 970   | 1,125          |
+| 3200  | Steel door and frame                                                                                         |        | 6            | 2.667       |      | 227      | 165   |           | 392   | 495            |
+| 3300  | Stainless steel door and frame                                                                               |        | 6            | 2.667       | f    | 1,075    | 165   |           | 1,240 | 1,450          |
+| 4000  | Hose rack assy., 2-1/2"x1-1/2" valve, 100' hose, 24"x40"x8"                                                 |        |              |             |      |          |       |           |       |                |
+| 4100  | Aluminum door and frame                                                                                      | Q-12   | 6            | 2.667       | Ea.  | 950      | 11666 |           | 1,115 | 1,300          |
+| 4200  | Steel door and frame                                                                                         |        | 6            | 2.667       | |    | 840      | 165   |           | 1,005 | 1,175          |
+| 4300  | Stainless steel door and frame                                                                               | 116    |              | 2.667       | |    | 1,075    | 165   |           | 1,240 | 1,425          |
+| 5000  | Hose rack assy., 2-1/2"x1-1/2" valve, 100' hose                                                             |        |              |             |      |          |       |           |       |                |
+| 5010  | and extinguisher, 30"x40"x8"                                                                                |        |              |             |      |          |       |           |       |                |
+| 5100  | Aluminum door and frame                                                                                      | Q-12   | 555          | 3.200       | Ea.  | 320      | 197   |           | 517   | 645            |
+| 5200  | Steel door and frame                                                                                         |        |              | 3.200       |      | 280      | 197   |           | 477   | 600            |
+| 5300  | Stainless steel door and frame                                                                               |        | 5            | 3.200       |      | 560      | 197   |           | 757   | 910            |
+| 8000  | Valve cabinet for 2-1/2" FD angle valve, 18"x18"x8"                                                         |        |              |             |      |          |       |           |       |                |
+| 8100  | Aluminum door and frame                                                                                      | IQ-12  | 12           | 11.333      | Ea.  | 251      | 82.50 |           | 333.50| 400            |
+| 82001 | Steel door and frame                                                                                         | [ ] 1  | 12           | 1.333       |      | 207      | 82.50 |           | 289.50| 350            |
+| 83001 | Stainless steel door and frame                                                                               |        | 12           | 1.333       | +    | 335      | 82.50 |           | 417.50| 495            |
+
+---
+
+## 10 44 16 - Fire Extinguishers
+
+### 10 44 16.13 Portable Fire Extinguishers
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010  | PORTABLE FIRE EXTINGUISHERS                  |      |              |             |      |          |       |           |        |                |
+| 0140  | CO2, with hose and "H" horn, 10 lb.          |      |              |             | Ea.  | 330      |       |           | 330    | 365            |
+| 0160  | 15 lb.                                       |      |              |             |      | 405      |       |           | 405    | 445            |
+| 0180  | 20 lb.                                       |      |              |             |      | 515      |       |           | 515    | 565            |
+| 1000  | Dry chemical, pressurized                    |      |              |             |      |          |       |           |        |                |
+| 1040  | Standard type, portable, painted, 2-1/2 lb.  |      |              |             | Ea.  | 25.50    |       |           | 25.50  | 28             |
+| 1060  | 5 lb.                                        |      |              |             |      | 37.50    |       |           | 37.50  | 41             |
+| 1080  | 10 lb.                                       |      |              |             |      | 62.50    |       |           | 62.50  | 68.50          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 56 Storage Assemblies
+
+## 10 56 13 Metal Storage Shelving
+
+### 10 56 13.20 Parts Bins
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | PARTS BINS metal, gray baked enamel finish                           |        |              |             |      |          |       |           |       |                |
+| 0100 | 6'-3" high, 3' wide                                                  |        |              |             |      |          |       |           |       |                |
+| 0300 | 12 bins, 18" wide x 12" high, 12" deep                               | 2 Clab | 8880         | 1.600       | Ea.  | 410      | 3731  |           | 483   | 560            |
+| 0400 | 24" deep                                                             |        | 10           | 1.600       |      | 455      | 73    |           | 528   | 610            |
+| 0600 | 72 bins, 6" wide x 6" high, 12" deep                                 | 2      |              |             |      | 930      | 91    |           | 1,021 | 1,150          |
+| 0700 | 18" deep                                                             | 2      |              |             |      | 870      | 91    |           | 961   | 1,100          |
+| 1000 | 7'-3" high, 3' wide                                                  |        |              |             |      |          |       |           |       |                |
+| 1200 | 14 bins, 18" wide x 12" high, 12" deep                               | 2 Clab | 10           | 1.600       | Ea.  | 405      | 7322  |           | 478   | 555            |
+| 1300 | 24" deep                                                             |        | 10           | 1.600       |      | 375      | 73    |           | 448   | 520            |
+| 1500 | 84 bins, 6" wide x 6" high, 12" deep                                 | 88     | 22           |             |      | 730      | 91    |           | 821   | 940            |
+| 1600 | 24" deep                                                             | 2      |              |             |      | 870      | 91    |           | 961   | 1,100          |
+
+---
+
+# 10 57 Wardrobe and Closet Specialties
+
+## 10 57 13 Hat and Coat Racks
+
+### 10 57 13.10 Coat Racks and Wardrobes
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | COAT RACKS AND WARDROBES                                             |        |              |             |      |          |       |           |       |                |
+| 0020 | Hat & coat rack, floor model, 6 hangers                              |        |              |             |      |          |       |           |       |                |
+| 0050 | Standing, beech wood, 21" x 21" x 72", chrome                        |        |              |             | Ea.  | 64.50    |       |           | 64.50 | 71             |
+| 0100 | 18 ga. tubular steel, 21" x 21" x 69", wood walnut                   |        |              |             | "    | 475      |       |           | 475   | 525            |
+| 0500 | 16 ga. steel frame, 22 ga. steel shelves                             |        |              |             |      |          |       |           |       |                |
+| 0650 | Single pedestal, 30" x 18" x 63"                                     |        |              |             | Eg.  | 540      |       |           | 540   | 595            |
+| 0800 | Single face rack, 29" x 18-1/2" x 62"                                |        |              |             |      | 685      |       |           | 685   | 755            |
+| 0900 | 51" x 18-1/2" x 70"                                                  |        |              |             |      | 1,325    |       |           | 1,325 | 1,450          |
+| 0910 | Double face rack, 39" x 26" x 70"                                    |        |              |             |      | 535      |       |           | 535   | 585            |
+| 0920 | 63" x 26" x 70"                                                      |        |              |             |      | 1,400    |       |           | 1,400 | 1,550          |
+| 0940 | For 2" ball casters, add                                             |        |              |             | Set  | 84       |       |           | 84    | 92.50          |
+| 1400 | Utility hook strips, 3/8" x 2-1/2" x 18", 6 hooks                    | 1 Carp | 48           | .167        | Ea.  | 92       | 9.40  |           | 101.40| 115            |
+| 1500 | 34" long, 12 hooks                                                   | "      | 48           | .167        |      | 77.50    | 9.40  |           | 86.90 | 99.50          |
+| 1650 | Wall mounted racks, 16 ga. steel frame, 22 ga. steel shelves         |        |              |             |      |          |       |           |       |                |
+| 1850 | 12" x 15" x 26", 6 hangers                                           | 1 Carp | 32           | .250        | Ea.  | 31       | 14.10 |           | 45.10 | 55             |
+| 2000 | 12" x 15" x 50", 12 hangers                                          | "      | 32           | .250        |      | 213      | 14.10 |           | 227.10| 255            |
+| 2150 | Wardrobe cabinet, steel, baked enamel finish                         |        |              |             |      |          |       |           |       |                |
+| 2300 | 36" x 21" x 78", incl. top shelf & hanger rod                        |        |              |             | Eg.  | 315      |       |           | 315   | 345            |
+| 2400 | Wardrobe, 24" x 24" x 76", KD, w/ door, hospital, baked enamel steel | 1 Carp | 22           | 4           |      | 405      | 2225  |           | 630   | 780            |
+| 2500 | Hardwood                                                             | 8      | 2            | 4           |      | 900      | 225   |           | 1,125 | 1,325          |
+
+---
+
+## 10 57 23 Closet and Utility Shelving
+
+### 10 57 23.19 Wood Closet and Utility Shelving
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | WOOD CLOSET AND UTILITY SHELVING                                     |        |              |             |      |          |       |           |       |                |
+| 0020 | Pine, clear grade, no edge band, 1" x 8"                             | 1 Carp | 115          | .070        | LF   | 3.15     | 3.92  |           | 7.07  | 9.30           |
+| 0100 | 1" x 10"                                                             |        | 110          | .073        |      | 3.93     | 4.09  |           | 8.02  | 10.40          |
+| 0200 | 1" x 12"                                                             |        | 105          | .076        |      | 4.73     | 4.29  |           | 9.02  | 11.60          |
+| 0600 | Plywood, 3/4" thick with lumber edge, 12" wide                       |        | 75           | 107         | 1    | 3.47     | 6     |           | 9.47  | 12.75          |
+| 0700 | 24" wide                                                             |        | 70           | .114        |      | 6.55     | 6.45  |           | 13    | 16.80          |
+| 0900 | Bookcase, clear grade pine, shelves 12" OC, 8" deep, per S.F. shelf  |        | 70           | .114        | S.F. | 10.25    | 6.45  |           | 16.70 | 21             |
+| 1000 | 12" deep shelves                                                     |        | 65           | .123        | "    | 15.35    | 6.95  |           | 22.30 | 27             |
+| 1200 | Adjustable closet rod and shelf, 12" wide, 3' long                   |        | 20           | .400        | Eo.  | 13.85    | 22.50 |           | 36.35 | 4922           |
+| 1300 | 8' long                                                              |        | 15           | .533        | 群   | 25       | 30    |           | 55    | 72             |
+| 1500 | Prefinished shelves with supports, stock, 8" wide                    |        | 75           | .107        | L.F. | 10.05    | 6     |           | 16.05 | 20             |
+| 1600 | 10" wide                                                             |        | 70           | .114        | "    | 15.70    | 6.45  |           | 22.15 | 27             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 401
+
+# 10 22 39 FPartitionsel Partitions
+
+## 10 22 39.10 Partitions, Folding Panel
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | PARTITIONS, FOLDING PANEL, acoustic, wood                            |        |              |             |      |          |       |           |        |                |
+| 0100 | Vinyl faced, to 18 ' high, 6 psf, economy trim                       | 2 Carp | 60           | .267        | S.F. | 84       | 15    |           | 99     | 115            |
+| 0150 | Standard trim                                                        |        | 45           | .356        |      | 101      | 20    |           | 121    | 141            |
+| 0200 | Premium trim                                                         |        | 30           | .533        |      | 130      | 30    |           | 160    | 188            |
+| 0400 | Plastic laminate or hardwood finish, standard trim                   |        | 60           | .267        |      | 86.50    | 15    |           | 101.50 | 118            |
+| 0500 | Premium trim                                                         |        | 30           | .533        |      | 91.50    | 30    |           | 121.50 | 146            |
+| 0600 | Wood, low acoustical type, 4.5 psf, to 14 ' high                     |        | 50           | .320        |      | 63       | 18    |           | 81     | 96.50          |
+| 1100 | Steel, acoustical, 9 to 12 lb./S.F, vinyl faced, standard trim       |        | 60           | .267        |      | 89.50    | 15    |           | 104.50 | 121            |
+| 1200 | Premium trim                                                         |        | 30           | .533        |      | 99.50    | 30    |           | 129.50 | 155            |
+| 1700 | Aluminum framed, acoustical, to 12 ' high, 5.5 psf, standard trim    |        | 60           | .267        |      | 64       | 15    |           | 79     | 93             |
+| 1800 | Premium trim                                                         |        | 30           | .533        |      | 73       | 30    |           | 103    | 125            |
+| 2000 | 6.5 lb./S.F, standard trim                                           |        | 60           | .267        |      | 63.50    | 15    |           | 78.50  | 92.50          |
+| 2100 | Premium trim                                                         |        | 30           | .533        |      | 81.50    | 30    |           | 111.50 | 134            |
+
+---
+
+## 10 22 43 Sliding Partitions
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | PARTITIONS, SLIDING                                                  |        |              |             |      |          |       |           |        |                |
+| 0020 | Acoustic air wall, 1-5/8" thick, standard trim                       | 2 Carp | 375          | .043        | S.F. | 45       | 2.40  |           | 47.40  | 53             |
+| 0100 | Premium trim                                                         |        | 365          | .044        |      | 77       | 2.47  |           | 79.47  | 88             |
+| 0300 | 2-1/4" thick, standard trim                                          |        | 360          | .044        |      | 50.50    | 2.50  |           | 53     | 59             |
+| 0400 | Premium trim                                                         |        | 330          | .048        |      | 88.50    | 2.73  |           | 691.23 | 101            |
+| 0600 | For track type, add to above                                         |        |              |             | L.F. | 164      |       |           | 164    | 181            |
+| 0700 | Overhead track type, acoustical, 3" thick, 11 psf, standard trim     | 12 Carp| 350          | .046        | S.F. | 113      | 2.57  |           | 115.57 | 129            |
+| 0800 | Premium trim                                                         | PP     | 300          | .053        | "    | 136      | 3     |           | 139    | 154            |
+
+---
+
+## 10 26 Wall and Door Protection
+
+### 10 26 13 - Corner Guards
+
+#### 10 26 13.20 Corner Protection
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 10010 | CORNER PROTECTION                                                    |        |              |             |      |          |       |           |         |                |
+| 0100  | Stainless steel, 16 ga., adhesive mount, 3-1/2" leg                  | 1 Carp | 80           | .100        | L.F. | 25       | 5.65  |           | 30.65   | 36             |
+| 0200  | 12 ga. stainless, adhesive mount                                     | "      | 80           | .100        |      | 26.50    | 5.65  |           | 32.15   | 37.50           |
+| 0300  | For screw mount, add                                                 |        |              |             |      |          | 10 %  |           |         |                |
+| 0500  | Vinyl acrylic, adhesive mount, 3" leg                                | 11 Carp| 128          | .063        |      | 9.05     | 3.52  |           | 12.57   | 15.20           |
+| 0550  | 1-1/2" leg                                                           |        | 160          | .050        |      | 3.25     | 2.82  |           | 6.07    | 7.75            |
+| 0600  | Screw mounted, 3" leg                                                |        | 80           | 100         |      | 9.05     | 5.65  |           | 14.70   | 18.35           |
+| 0650  | 1-1/2" leg                                                           |        | 100          | .080        |      | 2.10     | 4.50  |           | 6.60    | 9               |
+| 0700  | Clear plastic, screw mounted, 2-1/2"                                 |        | 60           | .133        |      | 3.96     | 7.50  |           | 11.46   | 15.50           |
+| 1000  | Vinyl cover, alum. retainer, surface mount, 3" x 3"                  |        | 48           | .167        |      | 9        | 9.40  |           | 18.40   | 24              |
+| 1050  | 2" x 2"                                                              |        | 48           | .167        |      | 26       | 9.40  |           | 35.40   | 43              |
+| 1100  | Flush mounted, 3" x 3"                                               |        | 32           | .250        |      | 9        | 14.10 |           | 23.10   | 31              |
+| 1150  | 2" x 2"                                                              |        | 32           | .250        |      | 13.45    | 14.10 |           | 27.55   | 36              |
+
+---
+
+### 10 26 16 - Bumper Guards
+
+#### 10 26 16.10 Guard, Bumper
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | GUARD, BUMPER                                                        |        |              |             |      |          |       |           |         |                |
+| 1200  | Bed bumper, vinyl acrylic, alum. retainer, 21" long                  | 1 Carp | 10           | .800        | Ea.  | 89       | 45    |           | 134     | 165            |
+| 1300  | 53" long with aligner                                                |        | 9            | .889        |      | 89       | 50    |           | 139     | 173            |
+| 1400  | Bumper, vinyl cover, alum. retain., cush. mnt., 1-1/2" x 2-3/4"      |        | 80           | .100        | LF.  | 14.25    | 5.65  |           | 19.90   | 24             |
+| 1500  | 2" x 4-1/4"                                                          |        | 80           | .100        |      | 20.50    | 5.65  |           | 26.15   | 31.50           |
+| 1600  | Surface mounted, 1-3/4" x 3-5/8"                                     |        | 80           | .100        |      | 12       | 5.65  |           | 17.65   | 21.50           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Toilet, Bath, and Toilet Accessories
+
+## Tub and Shower Enclosures
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 5140 | Neo-angle corner unit, 16" x 24" x 16"                               | 1 Shee | 2           | 4           | Ea.  | 1,100    | 270     |           | 1,370   | 1,625          |
+| 5200 | Shower surround, 3 wall, polypropylene, 32" x 32"                    | 1 Carp | 4           | 2           |      | 460      | 113     |           | 573     | 675            |
+| 5220 | PVC, 32" x 32"                                                       |        | 4           | 2           |      | 400      | 113     |           | 513     | 610            |
+| 5240 | Fiberglass                                                           |        | 4           | 2           |      | 380      | 113     |           | 493     | * 590          |
+| 5250 | 2 wall, polypropylene, 32" x 32"                                     |        | 4           | 2           |      | 305      | 113     |           | 418     | * 505          |
+| 5270 | PVC                                                                  |        | 4           |             |      | 360      | 113     |           | 473     | 570            |
+| 5290 | Fiberglass                                                           |        | 4           | 21          |      | 365      | 113     |           | 478     | 570            |
+| 5300 | Tub doors, tempered glass & frame, obscure glass                     | 1 Shee | 8           |             |      | 215      | 67.50   |           | 282.50  | * 340          |
+| 5400 | Clear glass                                                          |        | 6           | 1.333       |      | 500      | 90      |           | 590     | 685            |
+| 5600 | Chrome plated, brass frame, obscure glass                            |        | 8           |             |      | 283      | 67.50   |           | 350.50  | * 410          |
+| 5700 | Clear glass                                                          |        | 6           | 1.333       |      | 695      | 90      |           | 785     | * 900          |
+| 5900 | Tub/shower enclosure, temp. glass, alum. frame, obscure glass        |        | 2           | 4           |      | 385      | 270     |           | 655     | * 830          |
+| 6200 | Clear glass                                                          |        | 1.50        | 5.333       |      | 800      | 360     |           | 1,160   | 1,425          |
+| 6500 | On chrome-plated brass frame, obscure glass                          |        | 2           | 4           |      | 530      | 270     |           | 800     | * 985          |
+| 6600 | Clear glass                                                          |        | 1.50        | 5.333       |      | 1,125    | 360     |           | 1,485   | 1,800          |
+| 6800 | Tub surround, 3 wall, polypropylene                                  | 1 Carp | 4           | 2           |      | 245      | 113     |           | 358     | * 440          |
+| 6900 | PVC                                                                  |        | 4           | 21          |      | 360      | 113     |           | 473     |                |
+|      |                                                                      |        |             |             |      |          |         |           |         | 565            |
+| 7000 | Fiberglass, obscure glass                                            |        | 4           | 2           |      | 375      | 113     |           | 488     | * 585          |
+| 7100 | Clear glass                                                          |        | 3           | 2.667       |      | 635      | 150     |           | 785     | * 925          |
+
+## Laundry Accessories
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 10   | 28 23.13 Built-In Ironing Boards     |        |             |             |      |          |       |           |       |                |
+| 0010 | BUILT-IN IRONING BOARDS              |        |             |             |      |          |       |           |       |                |
+| 0020 | Including cabinet, board & light,42" | 1 Carp | 2           | 4           | Eo.  | 680      | 225   |           | 905   | 1,075          |
+| 0100 | 46"                                  |        | 1.50        | 5.333       | 11   | 765      | 300   |           | 1,065 | 1,300          |
+
+# Manufactured Fireplaces
+
+## Manufactured Fireplace Chimneys
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0010 | FIREPLACE CHIMNEYS                                                   |        |             |             |      |          |         |           |         |                |
+| 0500 | Chimney dbl. wall, all stainless, over 8'-6", 7" diam., add to fireplace | 1 Carp | 33          | .242        | V.LF.| 57       | 13.65   |           | 70.65   | 83             |
+| 0600 | 10" diameter, add to fireplace                                       |        | 32          | .250        |      | 116      | 14.10   |           | 130.10  | 149            |
+| 0700 | 12" diameter, add to fireplace                                       |        | 31          | .258        |      | 211      | 14.55   |           | 225.55  | 254            |
+| 0800 | 14" diameter, add to fireplace                                       |        | 30          | .267        | !    | 219      | 15      |           | 234     | 264            |
+| 1000 | Simulated brick chimney top, 4' high, 16" x 16"                      |        | 10          | .800        | Ea.  | 500      | 45      |           | 545     | 615            |
+| 1100 | 24" x 24"                                                            |        | 7           | 1.143       | "    | 595      | 64.50   |           | 659.50  | 750            |
+
+## Chimney Accessories
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------|--------|-------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 0010 | CHIMNEY ACCESSORIES                          |        |             |             |      |          |         |           |         |                |
+| 0020 | Chimney screens, galv., 13" x 13" flue       | 1 Bric | 8           | 1           | Ea.  | 59       | 55.50   |           | 114.50  | 148            |
+| 0050 | 24" x 24" flue                               |        | 5           | 1.600       |      | 126      | 88.50   |           | 214.50  | 272            |
+| 0200 | Stainless steel, 13" x 13" flue              |        | 8           | 1           |      | 107      | 55.50   |           | 162.50  | 201            |
+| 0250 | 20" x 20" flue                               |        | 5           | 1.600       |      | 151      | 88.50   |           | 239.50  | 299            |
+| 2400 | Squirrel and bird screens, galvanized, 8" x 8" flue |        | 16          | : .500      |      | 58       | 27.50   |           | 85.50   | 105            |
+| 2450 | 13" x 13" flue                               |        | 12          | .667        |      | 151      | 37      |           | 188     | 222            |
+
+## Manufactured Fireplace Forms
+
+| ID   | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | FIREPLACE FORMS                              |        |             |             |      |          |       |           |       |                |
+| 1800 | Fireplace forms, no accessories, 32" opening | 1 Bric | 3           | 2.667       | Ea.  | 710      | 147   |           | 857   | 1,000          |
+| 1900 | 36" opening                                  |        | 2.50        | 3.200       |      | 905      | 177   |           | 1,082 | 1,250          |
+| 2000 | 40" opening                                  |        | 2           | 4           |      | 1,200    | 221   |           | 1,421 | 1,650          |
+| 2100 | 78" opening                                  |        | 1.50        | 5.333       |      | 1,750    | 295   |           | 2,045 | 2,375          |
+
+# 10 28 Toilet, Bath, Laundry Accessories
+
+## 10 28 13 - Toilet and Accessories  
+10 28 Laundry Commercial Toilet Accessories | dispenser and waste receptacle, 18 gallon capacity
+
+### 2022 Bare Costs
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0600 | Towel dispenser and waste receptacle,                                |        |              |             |      |          |        |           |         |                |
+| 0610 | 18 gallon capacity                                                   | 1 Carp | 10           | .800        | Ea   | .445     | 45     |           | 490     | 555            |
+| 0800 | Grab bar, straight, 1-1/4" diameter, stainless steel, 18" long       |        | 24           | .333        |      | 28.50    | 18.75  |           | 47.25   | 59.50          |
+| 0900 | 24" long                                                             |        | 23           | .348        |      | 21.50    | 19.60  |           | 41.10   | 52.50          |
+| 1000 | 30" long                                                             |        | 22           | .3641       |      | 33       | 20.50  |           | 53.50   | 67             |
+| 1100 | 36" long                                                             |        | 20           | .400        |      | 18.90    | 22.50  |           | 41.40   | 54.50          |
+| 1105 | 42" long                                                             |        | 20           | .400        |      | 32.50    | 22.50  |           | 55      | 69.50          |
+| 1120 | Corner, 36" long                                                     |        | 20           | .400        |      | 89       | 22.50  |           | 111.50  | 132            |
+| 1200 | 1-1/2" diameter, 24" long                                            |        | 23           | .348        |      | 22       | 19.60  |           | 41.60   | 53.50          |
+| 1300 | 36" long                                                             |        | 20           | .400        |      | 35       | 22.50  |           | 57.50   | 72             |
+| 1310 | 42" long                                                             |        | 18           | .444        |      | 38.50    | 25     |           | 63.50   | 79             |
+| 1500 | Tub bar, 1-1/4" diameter, 24" x 36"                                  |        | 14           | .571        |      | 95.50    | 321    |           | 127.50  | 153            |
+| 1600 | Plus vertical arm                                                    |        | 12           | .667        |      | 153      | 37.50  |           | 190.50  | 224            |
+| 1900 | End tub bar, 1" diameter, 90° angle, 16" x 32"                       |        | 12           | .667        |      | 92.50    | 37.50  |           | 130     | 158            |
+| 2010 | Tub/shower/toilet, 2 wall, 36" x 24"                                 |        | 12           | .667        |      | 92.50    | 37.50  |           | 130     | 158            |
+| 2300 | Hand dryer, surface mounted, electric, 115 volt, 20 amp              |        | 4            | 2           |      | 415      | 113    |           | 528     | 625            |
+| 2400 | 230 volt, 10 amp                                                     |        | 4            | 2           |      | 585      | 133822847265520 | 698 | 815            |
+| 2450 | Hand dryer, touch free, 1400 watt, 81,000 rpm                        |        | 4            | 2           |      | 1,450    | 113    |           | 1,563   | 1,775          |
+| 2600 | Hat and coat strip, stainless steel, 4 hook, 36" long                |        | 24           | .333        |      | 39.50    | 18.75  |           | 58.25   | 71.50          |
+| 2700 | 6 hook, 60" long                                                     |        | 20           | .400        |      | 92       | 22.50  |           | 114.50  | 135            |
+| 3000 | Mirror, with stainless steel 3/4" square frame, 18" x 24"            |        | 20           | .400        |      | 43       | 22.50  |           | 65.50   | 81             |
+| 3100 | 36" x 24"                                                            |        | 15           | .533        |      | 67       |        |           | 97      | 118            |
+| 3200 | 48" x 24"                                                            |        | 10           | .800        |      | 98       |        |           | 143     | 175            |
+| 3300 | 72" x 24"                                                            |        | 6            | 1.333       |      | 121      |        |           | 196     | 246            |
+| 3500 | With 5" stainless steel shelf, 18" x 24"                             |        | 20           | .400        |      | 97       | 22.50  |           | 119.50  | 141            |
+| 3600 | 36" x 24"                                                            |        | 15           | 1.533       |      | 122      | 1      |           | 152     | 179            |
+| 3700 | 48" x 24"                                                            |        | 110          | .800        |      | 162      |        |           | 207     | 245            |
+| 3800 | 72" x 24"                                                            |        | 6            | 1.333       |      | 262      |        |           | 337     | 400            |
+| 4100 | Mop holder strip, stainless steel, 5 holders, 48" long               |        | 20           | .400        |      | 78.50    | 22.50  |           | 101     | 120            |
+| 4200 | Napkin/tampon dispenser, recessed                                    |        | 15           | .533        |      | 390      |        |           | 420     | 475            |
+| 4220 | Semi recessed                                                        |        | 6.50         | 1.231       |      | 375      | 69.50  |           | 444.50  | 520            |
+| 4250 | Napkin receptacle, recessed                                          |        | 6.50         | 1.231       |      | 177      | 69.50  |           | 246.50  | 298            |
+| 4300 | Robe hook, single, regular                                           |        | 96           | .083        |      | 21.50    | 4.69   |           | 26.19   | 31             |
+| 4400 | Heavy duty, concealed mounting                                       |        | 56           | .143        |      | 21.50    | 8.05   |           | 29.55   | 36             |
+| 4600 | Soap dispenser, chrome, surface mounted, liquid                      |        | 20           | .400        |      | 52.50    | 22.50  |           | 75      | 91             |
+| 5000 | Recessed stainless steel, liquid                                     |        | 10           | .800        |      | 199      | 45     |           | 244     | 285            |
+| 5600 | Shelf, stainless steel, 5" wide, 18 ga., 24" long                    |        | 24           | .333        |      | 63.50    | 18.75  |           | 82.25   | 98             |
+| 5700 | 48" long                                                             |        | 16           | .500        |      | 103      | 28     |           | 131     | 155            |
+| 5800 | 8" wide shelf, 18 ga., 24" long                                      |        | 22           | .364        |      | 55       | 20.50  |           | 75.50   | 91             |
+| 5900 | 48" long                                                             |        | 14           | .571        |      | 158      | 32     |           | 190     | 222            |
+| 6000 | Toilet seat cover dispenser, stainless steel, recessed               |        | 20           | .400        |      | 197      | 22.50  |           | 219.50  | 251            |
+| 5050 | Surface mounted                                                      |        | 15           | .533        |      | 37       | 30     |           | 67      | 85             |
+| 5100 | Toilet tissue dispenser, surface mounted, SS, single roll            |        | 30           | .267        |      | 14.60    | 15     |           | 29.60   | 38.50          |
+| 5200 | Double roll                                                          |        | 24           | .333        |      | 98       | 18.75  |           | 116.75  | 136            |
+| 6240 | Plastic, twin/jumbo dbl. roll                                        |        | 24           | 333         |      | 33       | 18.75  |           | 51.75   | 64.50          |
+| 5400 | Towel bar, stainless steel, 18" long                                 |        | 23           | .348        |      | 34       | 19.60  |           | 53.60   | 66.50          |
+| 5500 | 30" long                                                             |        | 21           | .381        |      | 57.50    | 21.50  |           | 79      | 95.50          |
+| 5700 | Towel dispenser, stainless steel, surface mounted                    |        | 16           | .500        |      | 67       | 28     |           | 95      | 116            |
+| 5800 | Flush mounted, recessed                                              |        | 10           | .800        |      | 44       | 45     |           | 89      | 116            |
+| 5900 | Plastic, touchless, battery operated                                 |        | 16           | .500        |      | 120      | 28     |           | 148     | 174            |
+| 7000 | Towel holder, hotel type, 2 guest size                               |        | 20           | 1.400       |      | 67.50    | 22.50  |           | 90      | 108            |
+| 7200 | Towel shelf, stainless steel, 24" long, 8" wide                      |        | 20           | .400        |      | 92.50    | 22.50  |           | 115     | 136            |
+| 1400 | Tumbler holder, for tumbler only                                     |        | 30           | .267        |      | 18.80    | 15     |           | 33.80   | 43             |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10102 Partition2210 22 19
+
+Partitionse Partitions  
+10 22 19.43 Demountable Composite Partitions  
+Sealed  
+5550  
+5700  
+For doors, see Section 08 16  
+5800  
+For door hardware, see Section 08 71  
+6100  
+6200  
+In-plant modular office system, w/prehung hollow core door  
+3
+
+---
+
+## 10 22 19 - Demountable Partitions
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 10   | 22 19.43 Demountable Composite Partitions                            |        |              |             |      |          |       |           |        |                |
+| 5550 | Sealed                                                               |        |              |             | S.F. | 11.20    |       |           | 11.20  | 12.30          |
+| 5700 | For doors, see Section 08 16                                         |        |              |             |      |          |       |           |        |                |
+| 5800 | For door hardware, see Section 08 71                                 |        |              |             |      |          |       |           |        |                |
+| 6100 | In plant modular office system, w/prehung hollow core door           |        |              |             |      |          |       |           |        |                |
+| 6200 | 3" thick polystyrene core panels                                     |        |              |             |      |          |       |           |        |                |
+| 6250 | 12 'x 12 ', 2 wall                                                   | 2 Clab | 3.80         | 4.211       | Eo . | 4,650    | 192   |           | 4,842  | 5,400          |
+| 6300 | 4 wall                                                               |        | 1.90         | 8.421       |      | 6,750    | 385   |           | 7,135  | 8,000          |
+| 6350 | 16 'x 16 ', 2 wall                                                   |        | 3.60         | 4.444       |      | 6,425    | 203   |           | 6,628  | 7,375          |
+| 6400 | 4 wall                                                               |        | 1.80         | 8.889       | P    | 9,425    | 405   |           | 9,830  | 11,000         |
+
+---
+
+## 10 22 23 - Portable Partitions, Screens, and Panels
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 10   | 22 23.13 Wall Screens                                                |        |              |             |      |          |       |           |        |                |
+| 0010 | WALL SCREENS, divider panels, free standing, fiber core              |        |              |             |      |          |       |           |        |                |
+| 0020 | Fabric face straight                                                 |        |              |             |      |          |       |           |        |                |
+| 0100 | 3'-0" long, 4'-0" high                                               | 2 Carp | 100          | .160        | L.F. | 108      | 292   |           | 117    | 131            |
+| 0200 | 5'0" high                                                            |        | 90           | .178        |      | 87.50    | 10    |           | 97.50  | 111            |
+| 0500 | 6'0" high                                                            |        | 75           | .213        |      | 93.50    | 12    |           | 105.50 | 121            |
+| 0900 | 5'-0" long, 4'0" high                                                |        | 175          | .091        |      | 87.50    | 5.15  |           | 92.65  | 104            |
+| 1000 | 5'0" high                                                            |        | 150          | .107        |      | 104      |       |           | 110    | 123            |
+| 1500 | 6'0" high                                                            |        | 125          | .128        |      | 134      | 7.20  |           | 141.20 | 159            |
+| 1600 | 6'-0" long, 5'0" high                                                |        | 162          | .099        |      | 134      | 5.55  |           | 139.55 | 156            |
+| 3200 | Economical panels, fabric face, 4'-0" long, 5'-0" high               |        | 132          | .121        |      | 152      | 6.80  |           | 158.80 | 178            |
+| 3250 | 6'0" high                                                            |        | 112          | .143        |      | 152      | 8.05  |           | 160.05 | 180            |
+| 3300 | 5'-0" long, 5'0" high                                                |        | 150          | .107        |      | 128      | 6     |           | 134    | 150            |
+| 3350 | 6'0" high                                                            |        | 125          | .128        |      | 128      | 7.20  |           | 135.20 | 152            |
+| 3450 | Acoustical panels, 60 to 90 NRC, 3'-0" long, 5'-0" high              |        | 90           | .178        |      | 119      | 10    |           | 129    | 146            |
+| 3550 | 6'0" high                                                            |        | 75           | .213        |      | 113      | 12    |           | 125    | 143            |
+| 3600 | 5'0" long, 5'0" high                                                 |        | 150          | .107        |      | 128      | 6     |           | 134    | 150            |
+| 3650 | 6'0" high                                                            |        | 125          | 128         |      | 86.50    | 7.20  |           | 93.70  | 106            |
+| 3700 | 6'-0" long, 5'-0" high                                               |        | 162          | .099        |      | 61       | 5.55  |           | 66.55  | 75.50          |
+| 3750 | 6'0" high                                                            |        | 138          | .116        |      | 110      | 6.55  |           | 116.55 | 131            |
+| 3800 | Economy acoustical panels, 40 NRC, 4'-0" long, 5'-0" high            |        | 132          | .121        |      | 152      | 6.80  |           | 158.80 | 178            |
+| 3850 | 6'-0" high                                                           |        | 112          | 143         |      | 152      | 8.05  |           | 160.05 | 180            |
+| 3900 | 5'0" long, 6'0" high                                                 |        | 125          | .128        |      | 128      | 7.20  |           | 135.20 | 152            |
+| 3950 | 6'-0" long, 5'-0" high                                               |        | 162          | .099        |      | 112      | 5.55  |           | 117.55 | 131            |
+| 4000 | Metal chalkboard, 6'-6" high, chalkboard, 1 side                     |        | 125          | .128        |      | 161      | 7.20  |           | 168.20 | 188            |
+| 4100 | Metal chalkboard, 2 sides                                            |        | 120          | .133        |      | 184      | 7.50  |           | 191.50 | 214            |
+| 4300 | Tackboard, both sides                                                |        | 123          | .130        |      | 146      | 7.30  |           | 153.30 | 171            |
+
+---
+
+## 10 22 33 - Accordion Folding Partitions
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 10   | 22 33.10 Partitions, Accordion Folding                               |        |              |             |      |          |       |           |        |                |
+| 0010 | PARTITIONS, ACCORDION FOLDING                                        |        |              |             |      |          |       |           |        |                |
+| 0100 | Vinyl covered, over 150 S.F., frame not included                     |        |              |             |      |          |       |           |        |                |
+| 0300 | Residential, 1.25 lb./S.F, 8' maximum height                        | 2 Carp | 300          | .053        | S.F. | 29       | 34620 |           | 32     | 36.50528       |
+| 0400 | Commercial, 1.75 lb./S.F., 8' maximum height                        |        | 225          | .071        |      | 23       |       |           | 27     | 31             |
+| 0600 | 2 lb./S.F., 17' maximum height                                      |        | 150          | .107        |      | 34.50    |       |           | 40.50  | 47             |
+| 0700 | Industrial, 4 lb./S.F., 20' maximum height                          |        | 75           | .213        |      | 51.50    | 12    |           | 63.50  | 75             |
+| 0900 | Acoustical, 3 lb./S.F., 17' maximum height                          |        | 100          | .160        |      | 36       |       |           | 45     |                |
+| 1200 | 5 lb./S.F., 20' maximum height                                      |        | 95           | .168        |      | 58       | 9.50  |           | 67.50  | 78             |
+| 1300 | 5.5 lb./S.F., 17' maximum height                                    |        | 90           | .178        |      | 68.50    | 10    |           | 78.50  | 90             |
+| 1400 | Fire rated, 4.5 psf, 20' maximum height                             |        | 160          | .100        |      | 68       | 5.65  |           | 73.65  | 83.50          |
+| 1500 | Vinyl-clad wood or steel, electric operation, 5.0 psf               |        | 160          | .100        |      | 73       | 5.65  |           | 78.65  | 88.50          |
+| 1900 | Wood, non-acoustic, birch or mahogany, to 10' high                  |        | 300          | .053        |      | 39.50    | 3     |           | 42.50  | 47.50          |
+
+---
+
+390 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 .
+
+# 10 10 Lockers
+
+15151 53 - LocLockersm Benches  
+10 51 53.10 Benches
+
+Daily Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor  
+Equipment  
+Total  
+Incl O&P
+
+---
+
+## 0010 BENCHES
+
+| ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2100 | Locker bench, laminated maple, top only      | 1 Shee | 100 | .080 | LF. | 81.50 | 5.40 |  | 86.90 | 97.50 |
+| 2200 | Pedestals, steel pipe                        |      | 25  | .320 | Ea . | 63    | 21.50 |  | 84.50 | 102 |
+| 2250 | Plastic, 9.5 " top with PVC pedestals        |      | 80  | .100 | LF . | 23    | 6.75  |  | 29.75 | 35 |
+
+---
+
+## 10.55 Postal Specialties
+
+### 10 55 23 Mail Boxes  
+10 55 23.10 Commercial Mail Boxes
+
+| ID   | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | COMMERCIAL MAIL BOXES                                       |      |              |             |      |          |       |           |       |                |
+| 0020 | Horiz, key lock, 5"H x 6"W x 15"D, alum., rear load         | 1 Carp | 222222223.235 | Eo . | 24.50 | 13.25 |  | 37.75 | 46.50 |
+| 0100 | Front loading                                               |      | 34  | .235 |   | 48.50 | 13.25 |  | 61.75 | 72.50 |
+| 0200 | Double, 5"H x 12"W x 15"D, rear loading                     |      | 26  | .308 |   | 112   | 17.30 |  | 129.30 | 149 |
+| 0300 | Front loading                                               |      | 26  | .308 |   | 90    | 17.30 |  | 107.30 | 125 |
+| 0500 | Quadruple, 10"H x 12"W x 15"D, rear loading                 | 1    | 20  | .400 |   | 81.50 | 22.50 |  | 104 | 123 |
+| 0600 | Front loading                                               |      |    | .400 |   | 49    | 22.50 |  | 71.50 | 87.50 |
+| 0800 | Vertical, front load, 15"H x 5"W x 6"D, alum., per compartment |      | 34  | .235 |   | 52    | 13.25 |  | 65.25 | 76.50 |
+| 0900 | Bronze, duranodic finish                                    |      | 34  | .235 |   | 62.50 | 13.25 |  | 75.75 | 88.50 |
+| 1000 | Steel, enameled                                             |      | 34  | .235 |   | 45    | 13.25 |  | 58.25 | 69 |
+| 1700 | Alphabetical directories, 120 names                         |      | 10  | .800 |   | 510   | 475   |  | 555 | 625 |
+| 1800 | Letter collection box                                       |      |    | 1.333 |   | 195   |       |  | 270 | 325 |
+| 1830 | Lobby collection boxes, aluminum                            | 2 Shee | 5 | 3.200 |   | 199   | 216   |  | 415 | 545 |
+| 1840 | Bronze or stainless                                         | [ ” | 4.50 | 3.556 |   | 2,275 | 240   |  | 2,515 | 2,850 |
+| 1900 | Letter slot, residential                                    | 1 Carp | 20 | .400 |   | 49    | 22.50 |  | 71.50 | 87.50 |
+| 2000 | Post office type                                            |      | °8  | 1     |   | 213   | 56.50 |  | 269.50 | 320 |
+| 2250 | Key keeper, single key, aluminum                            |      | 26  | .308 |   | 45    | 17.30 |  | 62.30 | 75.50 |
+| 2300 | Steel, enameled                                             |      | 26  | .308 |   | 84    | 17.30 |  | 101.30 | 119 |
+
+---
+
+## 10 56 Storage Assemblies
+
+### 10 56 13 - Metal Storage Shelving  
+10 56 13.10 Shelving
+
+| ID   | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | SHELVING                                                    |      |              |             |      |          |       |           |       |                |
+| 0020 | Metal, industrial, cross-braced, 3'W, 12"D                  | 1 Sswk | 175 | .046 | SF Shif | 17.25 | 2.83 |  | 20.08 | 23.50 |
+| 0100 | 24"D                                                        |      | 330 | .024 |   | 11.25 | 1.50 |  | 12.75 | 14.65 |
+| 0300 | 4'W, 12"D                                                   |      | 185 | .043 |   | 10.80 | 2.67 |  | 13.47 | 15.95 |
+| 0400 | 24"D                                                        |      | 380 | .021 |   | 7.95  | 1.30 |  | 9.25 | 10.75 |
+| 1200 | Enclosed sides, cross-braced back, 3'W, 12"D                |      | 175 | .046 |   | 10.85 | 2.83 |  | 13.68 | 16.30 |
+| 1300 | 24"D                                                        |      | 290 | .028 |   | 7.50  | 1.71 |  | 9.21 | 10.90 |
+| 1500 | Fully enclosed, sides and back, 3'W, 12"D                   |      | 150 | .053 |   | 13.35 | 3.30 |  | 16.65 | 19.75 |
+| 1600 | 24"D                                                        |      | 255 | .031 |   | 8     | 1.94 |  | 9.94 | 11.80 |
+| 1800 | 4'W, 12"D                                                   |      | 150 | .053 |   | 11    | 3.30 |  | 14.30 | 17.20 |
+| 1900 | 24"D                                                        |      | 290 | .028 |   | 7.25  | 1.71 |  | 8.96 | 10.65 |
+| 2200 | Wide span, 1600 lb. capacity per shelf, 6'W, 24"D           |      | 380 | .021 |   | 30    | 1.30 |  | 31.30 | 35 |
+| 2400 | 36"D                                                        |      | 440 | .018 |   | 11.80 | 1.12 |  | 12.921 | 14.70 |
+| 2600 | 8'W, 24"D                                                   |      | 440 | .018 |   | 14.50 | 1.12 |  | 15.62 | 17.70 |
+| 2800 | 36"D                                                        |      | 520 | .015 |   | 12.40 | .95  |  | 13.35 | 15.10 |
+| 4000 | Pallet racks, steel frame 5,000 lb. capacity, 8' long, 36"D | 12 Sswk | 450 | .036 |   | 14.35 | 2.20 |  | 16.55 | 19.20 |
+| 4200 | 42"D                                                        |      | 500 | .032 |   | 12.60 | 1.98 |  | 14.58 | 16.90 |
+| 4400 | 48"D                                                        |      | 520 | .031 |   | 11.35 | 1.90 |  | 13.25 | 15.40 |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10101 Lockers
+
+## 10 51 13 - Metal Lockers
+
+### 10 51 13.10 Lockers
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor         | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|---------------|-----------|-------|----------------|
+| 1115  | 18" x 18" x 72"                              | 1 Shee | 7.50         | 1.067       | Ea.  | 180      | 722222222222  |           | 252   | 305            |
+| 1130  | 2-tier, 12" x 15" x 36"                      |        | 7.50         | 1.067       |      | 885      | 72            |           | 957   | 1,075          |
+| 1135  | 12" x 18" x 36"                              |        | 7.50         | 1.067       |      | 885      | 72            |           | 957   | 1,075          |
+| 1140  | 18" x 15" x 36"                              |        | 7.50         | 1.067       |      | 245      | 72            |           | 317   | 380            |
+| 1145  | 18" x 18" x 36"                              |        | 7.50         | 1.067       |      | 256      | 72            |           | 328   | 390            |
+| 1160  | 3-tier, 12" x 18" x 24"                      |        | 7.50         | 1.067       | 1    | 169      | 72            |           | 241   | 295            |
+| 11801 | 4-tier, 12" x 18" x 18"                      |        | 7.50         | 1.067       |      | 209      | 72            |           | 281   | 340            |
+| 1190  | 5H box, 12" x 18" x 14.4"                    |        | 7.50         | 1.067       |      | 350      | 72            |           | 422   | 495            |
+| 1195  | 18" x 18" x 14.4"                            |        | 7.50         | 1.067       |      | 247      | 72            |           | 319   | 380            |
+| 1196  | 6H box, 12" x 15" x 12"                      |        | 7.50         | 1.067       |      | 415      | 72            |           | 487   | 565            |
+| 1197  | 12" x 18" x 12"                              |        | 7.50         | 1.067       |      | 460      | 72            |           | 532   | 615            |
+| 1198  | 18" x 18" x 12"                              |   +    | 7.50         | 1.067       |      | 625      | 72            |           | 697   | 800            |
+| 2399  | Standard duty lockers, body-24 ga, doors-16-18 ga. |        |              |             |      |          |               |           |       |                |
+| 2400  | 16-person locker unit with clothing rack      |        |              |             |      |          |               |           |       |                |
+| 2500  | 72" wide x 15" deep x 72" high               | 1 Shee | 15           | .533        | Ea.  | 750      | 336           |           | 786   | 880            |
+| 2550  | 18" deep                                     |        | 15           | .533        |      | 975      |               |           | 1,011 | 1,125          |
+| 3000  | Wall mounted lockers, 4 person, with coat bar |        |              |             |      |          |               |           |       |                |
+| 3100  | 48" wide x 18" deep x 12" high               | 1 Shee | 20           | .400        | Ea.  | 256      | 27            |           | 283   | 325            |
+| 3250  | Rack w/ 24 wire mesh baskets                 |        | 1.50         | 5.333       | Set  | 605      | 360           |           | 965   | 1,200          |
+| 3260  | 30 baskets                                   |        | 1.25         | 6.400       |      | 510      | 430           |           | 940   | 1,225          |
+| 3270  | 36 baskets                                   |        | .95          | 8.421       |      | 600      | 570           |           | 1,170 | 1,525          |
+| 32801 | 42 baskets                                   |        | .80          | 10          |      | 615      | 675           |           | 1,290 | 1,700          |
+| 3300  | For built-in lock with 2 keys, add           |        |              |             | Ea.  | 16.10    |               |           | 16.10 | 17.70          |
+| 3600  | For hanger rods, add                         |        |              |             |      | 3.27     |               |           | 3.27  | 3.60           |
+| 3650  | For number plate kit, 100 plates #1-#100, add| 1 Shee | 422222       | 2           |      | 113      | 135           |           | 248   | 330            |
+| 3700  | For locker base, closed front panel          | 3      | 90           | .089        |      | 7.75     | 6             |           | 13.75 | 17.60          |
+| 3710  | End panel, bolted                            |        | 36           | .222        |      | 26       | 15            |           | 41    | 51             |
+| 3800  | For sloping top, 12" wide                    |        | 24           | .333        | 1    | 41.50    | 22.50         |           | 64    | 79.50          |
+| 3810  | 15" wide                                     |   I    | 24           | .333        |      | 86.50    | 22.50         |           | 109   | 130            |
+| 3820  | 18" wide                                     | 1 \|   | 24           | .333        |      | 67       | 22.50         |           | 89.50 | 108            |
+| 3850  | Sloping top end panel, 12" deep              |        | 72           |             |      | 21       | 7.50          |           | 28.50 | 35             |
+| 3860  | 15" deep                                     |        | 72           | .111        |      | 22.50    | 7.50          |           | 30    | 36             |
+| 3870  | 18" deep                                     |        | 2222         | .111        |      | 26       | 7.50          |           | 33.50 | 40             |
+| 3900  | For finish end panels, steel, 60" high, 15" deep |    | 12           | .667        |      | 110      | 454           |           | 155   | 189            |
+| 3910  | 72" high, 12" deep                           |        | 12           | .667        |      | 35.50    | 45            |           | 80.50 | 107            |
+| 3920  | 18" deep                                     |        | 12           | .667        |      | 57       | 45            |           | 102   | 131            |
+| 5000  | For "ready to assemble" lockers,             |        |              |             |      |          |               |           |       |                |
+| 5010  | Add to labor                                 |   1    |              |             |      |          | 75%           |           |       |                |
+| 5020  | Deduct from material                         |   I    |              |             |      | 20%      |               |           |       |                |
+| 6000  | Heavy duty for detention facility, tamper proof, 14 ga. welded steel, solid | | | | | | | | | |
+| 6100  | 24" W x 24" D x 74" H, single tier           | 1 Shee | 888          | 444         | Ea.  | 785      | 3330          |           | 815   | 910            |
+| 6110  | Double tier                                  |        | 18           | .444        |      | 745      |               |           | 775   | 860            |
+| 16120 | Tripletier                                   |        | 18           | .444        |  +   | 795      |               |           | 825   | 920            |
+
+---
+
+## 10 51 26 - Plastic Lockers
+
+### 10 51 26.13 Recycled Plastic Lockers
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0011  | RECYCLED PLASTIC LOCKERS, 30% recycled       |        |              |             |      |          |        |           |         |                |
+| 10110 | Single tier box locker, 12" x 12" x 72"      | 555555 1 Shee | 888222 | 1           | Ea.  | 505      | 67.50  |           | 572.50  | 655            |
+| 0120  | 12" x 15" x 72"                              |        |              | 1           |      | 435      | 67.50  |           | 502.50  | 575            |
+| 0130  | 12" x 18" x 72"                              |        |              | 1           |      | 665      | 67.50  |           | 732.50  | 830            |
+| 0410  | Double tier, 12" x 12" x 72"                 |        | 21           | 1.381       |      | 490      | 25.50  |           | 515.50  | 580            |
+| 0420  | 12" x 15" x 72"                              |        | 21           | .381        |      | 520      | 25.50  |           | 545.50  | 610            |
+| 0430  | 12" x 18" x 72"                              |        | 21           | .381        |      | 530      | 25.50  |           | 555.50  | 625            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Fire Protection Specialties
+
+## 10 44 16 - Fire Extinguishers
+
+### 10 44 16.13 Portable Fire Extinguishers
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 1100  | 20 lb.                                                               |        |              |             | Ea.  | 152      |       |           | 152     | 167            |
+| 1120  | 30 lb.                                                               |        |              |             |      | 870      |       |           | 870     | 955            |
+| 1300  | Standard type, wheeled, 150 lb.                                      |        |              |             |      | 1,850    |       |           | 1,850   | 2,025          |
+| 2000  | ABC all purpose type, portable, 2-1/2 lb.                            |        |              |             |      | 17.45    |       |           | 17.45   | 19.20          |
+| 2060  | 5 lb.                                                                |        |              |             |      | 31.50    |       |           | 31.50   | 35             |
+| 2080  | 9-1/2 lb.                                                            |        |              |             |      | 60       |       |           | 60      | 66             |
+| 2100  | 20 lb.                                                               |        |              |             |      | 100      |       |           | 100     | 110            |
+| 3500  | Halotron 1, 2-1/2 lb.                                                |        |              |             |      | 110      |       |           | 110     | 121            |
+| 3600  | 5 lb.                                                                |        |              |             |      | 197      |       |           | 197     | 217            |
+| 3700  | 60 lb.                                                               |        |              |             |      | 400      |       |           | 400     | 440            |
+| 5000  | Pressurized water, 2-1/2 gallon, stainless steel                     |        |              |             |      | 82.50    |       |           | 82.50   | 90.50          |
+| 5060  | With anti freeze                                                     |        |              |             |      | 141      |       |           | 141     | 155            |
+| 9400  | Installation of extinguishers, 12 or more, on nailable surface       | 1 Carp | 30           | .267        |      |          | 15    |           | 15      | 22.50          |
+| 9420  | On masonry or concrete                                               | "      | 15           | .533        |      |          | 30    |           | 30      | 44.50          |
+
+### 10 44 16.16 Wheeled Fire Extinguisher Units
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010  | WHEELED FIRE EXTINGUISHER UNITS                                      |        |              |             |      |          |       |           |         |                |
+| 0350  | CO2, portable, with swivel horn                                      |        |              |             |      |          |       |           |         |                |
+| 0360  | Wheeled type, cart mounted, 50 lb.                                   |        |              |             | Ea.  | 1,375    |       |           | 1,375   | 1,525          |
+| 0400  | 100 lb.                                                              |        |              |             | "F   | 2,500    |       |           | 2,500   | 2,750          |
+| 2200  | ABC all purpose type                                                 |        |              |             |      |          |       |           |         |                |
+| 2300  | Wheeled, 45 lb.                                                      |        |              |             | Ea.  | 2,025    |       |           | 2,025   | 2,225          |
+| 2360  | 150 lb.                                                              |        |              |             | "    | 2,600    |       |           | 2,600   | 2,850          |
+
+# Lockers
+
+## 10 51 13 - Metal Lockers
+
+### 10 51 13.10 Lockers
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0011  | LOCKERS steel, baked enamel, knock down construction                 |        |              |             |      |          |       |           |         |                |
+| 0012  | Body -24ga, door-16 or 18ga                                          |        |              |             |      |          |       |           |         |                |
+| 0110  | 1-tier locker, 12" x 15" x 72"                                      | 1 Shee | -222222222.4 | 2222233Ea.  | 156  | 2722∞    |       | 183       | 213     |                |
+| 0120  | 18" x 15" x 72"                                                     |        | 20           | .400        |      | 495      | 27    |           | 522     | 585            |
+| 0130  | 12" x 18" x 72"                                                     |        | 20           | .400        |      | 240      | 27    |           | 267     | 305            |
+| 0140  | 18" x 18" x 72"                                                     |        | 20           | .400        |      | 390      | 27    |           | 417     | 470            |
+| 04102 | -tier, 12" x 15" x 36"                                              |        | 30           | 1.267       |      | 390      | 18    |           | 408     | 455            |
+| 0420  | 18" x 15" x 36"                                                     |        | 30           | .267        |      | 405      | 18    |           | 423     | 470            |
+| 0430  | 12" x 18" x 36"                                                     |        | 30           | .267        |      | 405      | 18    |           | 423     | 470            |
+| 0440  | 18" x 18" x 36"                                                     |        | 30           | .267        |      | 345      | 18    |           | 363     | 400            |
+| 0450  | 3-tier 12" x 15" x 24"                                              |        | 30           | .267        |      | 420      | 18    |           | 438     | 485            |
+| 0455  | 12" x 18" x 24"                                                     |        | 30           | .267        |      | 455      | 18    |           | 473     | 525            |
+| 0480  | 4-tier 12" x 15" x 18"                                              |        | 30           | .267        |      | 184      | 18    |           | 202     | 229            |
+| 0485  | 12" x 18" x 18"                                                     |        | 30           | .2671       |      | 228      | 18    |           | 246     | 278            |
+| 0500  | Two person, 18" x 15" x 72"                                         |        | 20           | .400        |      | 345      | 27    |           | 372     | 420            |
+| 0510  | 18" x 18" x 72"                                                     |        | 20           | .400        |      | 345      | 27    |           | 372     | 420            |
+| 0520  | Duplex, 15" x 15" x 72"                                             |        | 20           | .400        |      | 925      | 27    |           | 952     | 1,075          |
+| 0530  | 15" x 21" x 72"                                                     |        | 20           | .400        |      | 445      | 27    |           | 472     | 530            |
+| 0600  | 5 tier box lockers, unassembled                                     |        | 30           | .267 Opng.  | 250  | 18       |       | 268       | 300     |                |
+| 0700  | Set up                                                              |        | 24           | .333        |      | 63       | 22.50 |           | 85.50   | 104            |
+| 0900  | 6 tier box lockers, unassembled                                     |        | 36           | .222        |      | 54       | 15    |           | 69      | 82             |
+| 1000  | Set up                                                              |        | 30           | .267        |      | 54       | 18    |           | 72      | 86             |
+| 1098  | All welded, ventilated athletic lockers, body-16 ga., door-14 ga.   |        |              |             |      |          |       |           |         |                |
+| 1100  | 1-tier, 12" x 18" x 72"                                             | 1 Shee | 7.50         | 1.067       | Ea.  | 260      | 72    |           | 332     | 395            |
+| 1110  | 18" x 15" x 72"                                                     |        | 7.50         | 1.067       |      | 260      | 72    |           | 332     | 395            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 10 Wall and 26or ProtectiWall0 26 16 - BumpandGuards
+
+10 26 Door6 Protective CorProtectionrails
+
+0010 PROTECTIVE CORRIDOR HANDRAILS  
+Handrail/bumper, vinyl cover, alum. retainer  
+3000  
+3010  
+3100  
+3200  
+10 26 23  
+Bracket mounted, flat rail, 5-1/2"  
+6-1/2"  
+Bronz
+
+| ID      | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|---------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 10 26 16.16 | Protective Corridor Handrails                                         |        |              |             |        |          |       |           |        |                |
+| 0010    | PROTECTIVE CORRIDOR HANDRAILS                                         |        |              |             |        |          |       |           |        |                |
+| 3000    | Handrail / bumper, vinyl cover, alum. retainer                        |        |              |             |        |          |       |           |        |                |
+| 3010    | Bracket mounted, flatrail, 5-1/2"                                     | 1 Carp | 80           | ㅎㅎㅎ0      | L.F.   | 17.10    | 5.65  |           | 22.75  | 27             |
+| 3100    | 6-1/2"                                                               |        | 80           | .100        |        | 12.85    | 5.65  |           | 18.50  | 22.50          |
+| 3200    | Bronze bracket, 1-3/4" diam. rail                                     |        | 80           | .100        |        | 15.40    | 5.65  |           | 21.05  | 25.50          |
+| 10 26 23 | Protective Wall Covering                                             |        |              |             |        |          |       |           |        |                |
+| 10 26 23.10 | Wall Covering, Protective                                            |        |              |             |        |          |       |           |        |                |
+| 0010    | WALL COVERING, PROTECTIVE                                             |        |              |             |        |          |       |           |        |                |
+| 0400    | Rub rai, vinyl, adhesive mounted                                      | .1 Carp| 185          | .043        | LF .   | 4.37     | 2.43  |           | 6.80   | 8.45           |
+| 0500    | Neoprene, aluminum backing, 1-1/2" x 2"                               |        | 110          | .073        |        | 6.70     | 4.09  |           | 10.79  | 13.50          |
+| 1000    | Trolley rai, PVC, clipped to wall, 5" high                            |        | 185          | .043        |        | 13.45    | 2.43  |           | 15.88  | 18.40          |
+| 1050    | 8" high                                                               |        | 180          | .044        |        | 12.75    | 2.50  |           | 15.25  | 17.75          |
+| 1700    | Bumper rail, stainless steel, flat bar on brackets, 4" x 1/4"         | 2 Skwk | 120          | .1331       |        | 32       | 7.85  |           | 39.85  | 47             |
+| 1775    | Wall end guard, stainless steel, 16 ga., 36" tall, screwed to studs   | 1 Skwk | 30           | .267        | Ea .   | 44.50    | 15.70 |           | 60.20  | 72.50          |
+| 2000    | Crash rai, vinyl cover, alum. retainer, 1" x 4"                       | 11 Carp| 110          | .073        | LF .   | 11.05    | 4.09  |           | 15.14  | 18.25          |
+| 2100    | 1" x 8"                                                               |        | 90           | .089        |        | 15.90    | 5     |           | 20.90  | 25             |
+| 2150    | Vinyl inserts, aluminum plate, 1" x 2-1/2"                            |        | 110          | .073        |        | 14.90    | 4.09  |           | 18.99  | 22.50          |
+| 2200    | 1" x 5"                                                               |        | 90           | .089        |        | 20.50    |       |           | 25.50  | 30             |
+| 10 26 23.13 | Impact Resistant Wall Protection                                      |        |              |             |        |          |       |           |        |                |
+| 0010    | IMPACT RESISTANT WALL PROTECTION                                      |        |              |             |        |          |       |           |        |                |
+| 0100    | Vinyl wall protection, complete instl. incl.panels, trim, adhesive    |        |              |             |        |          |       |           |        |                |
+| 0110    | .040" thk., std. colors                                               | 2 Carp | 320          | .050        | S.F    | 10.75    | 2.82  |           | 13.57  | 16             |
+| 0120    | .040" thk., element patterns                                          |        | 300          | .053        |        | 9.20     | 3     |           | 12.20  | 14.55          |
+| 0130    | .060" thk., std. colors                                               |        | 300          | .053        |        | 11.30    | 3     |           | 14.30  | 16.85          |
+| 0140    | .060" thk., element patterns                                          |        | 280          | .057        |        | 10.75    | 3.22  |           | 13.97  | 16.60          |
+| 1750    | Wallguard stainless steel baseboard, 12" tall, adhesive applied       | 2 Skwk | 260          | .062        | L.F.   | 28       | 3.62  |           | 31.62  | 36.50          |
+| 1775    | Wall protection, stainless steel, 16 ga., 48" x 36" tall, screwed to studs | 1      | 500          | .032        | S.F.   | 21       | 1.88  |           | 22.88  | 26             |
+| 10 26 33 | Door and Frame Protection                                            |        |              |             |        |          |       |           |        |                |
+| 10 26 33.10 | Protection, Door and Frame                                           |        |              |             |        |          |       |           |        |                |
+| 0010    | PROTECTION, DOOR AND FRAME                                            |        |              |             |        |          |       |           |        |                |
+| 0100    | Door frame guard, vinyl, 3" x 3" x 4'                                 | 1 Carp | 3028         | .267        | Ea .   | ៖ 98     | 1558  |           | 113    | 131            |
+| 0110    | Door frame guard, vinyl, 3" x 3" x 8'                                 |        | 26           | .308        |        | 128      | 17.30 |           | 145.30 | 166            |
+| 0120    | Door frame guard, stainless steel, 3" x 3" x 4'                       |        | 30           | .267        |        | 415      | 15    |           | 430    | 480            |
+| 0500    | Steel door track / wheel guards, 4'-0" high                           | E-4    | 22           | 1.455       |        | ៦ 48     | 90.50 | 6.70      | 145.20 | 200            |
+| 10 28   | Toilet, Bath, and Laundry Accessories                                 |        |              |             |        |          |       |           |        |                |
+| 10 28 13| Toilet Accessories                                                    |        |              |             |        |          |       |           |        |                |
+| 10 28 13.13 | Commercial Toilet Accessories                                         |        |              |             |        |          |       |           |        |                |
+| 0010    | COMMERCIAL TOILET ACCESSORIES                                         |        |              |             |        |          |       |           |        |                |
+| 0200    | Curtain rod, stainless steel, 5' long, 1" diameter                    | 1 Carp | 13           | .615        | Ea .   | 41       | 34.50 |           | 75.50  | 96.50          |
+| 0300    | 1-1/4" diameter                                                       |        | 13           | .615        |        | 18.65    | 34.50 |           | 53.15  | 72             |
+| 0350    | Chrome, 1" diameter                                                   |        | 13           | .615        |        | 10.15    | 34.50 |           | 44.65  | 62.50          |
+| 0360    | For vinyl curtain, add                                                | 1 ☐    | 19500        | .004        | S.F.   | 134      | .23   |           | 134.23 | 147            |
+| 0400    | Diaper changing station, horizontal, wall mounted, plastic            |        | 10           | .800        | Ea .   | 320      | 4542  |           | 365    | 415            |
+| 0420    | Vertical                                                              |        | 10           | .800        |        | 212      | 45    |           | 257    | 300            |
+| 0430    | Oval shaped                                                           |        | 10           | .800        |        | 212      | 45    |           | 257    | 300            |
+| 0440    | Recessed, with stainless steel flange                                 |        | 6            | 1.333       |        | 800      | 75    |           | 875    | 990            |
+| 0500    | Dispenser units, combined soap & towel dispensers                     |        |              |             |        |          |       |           |        |                |
+| 0510    | Mirror and shelf, flush mounted                                       | 1 Carp | 10           | .800        | Ea .   | 320      | 45    |           | 365    | 420            |
+
+392 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 .
+
+# 10 75 Flagpol75
+
+10 75 16 -Flagpoleset Flagpoles  
+10 75 16.10 Flagpoles  
+7700  
+Over 60' high  
+10 75 23-Wall-Mounted Flagpoles  
+10 75 23.10 Flagpoles  
+0010 FLAGPOLES, structure mounted  
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 10   | 75 16 - Ground - Set Flagpoles                                       |        |             |             |      |          |       |           |        |               |
+| 10   | 75 16.10 Flagpoles                                                   |        |             |             |      |          |       |           |        |               |
+| 7700 | Over 60' high                                                        | (-1    |             | 16          | Ea.  | 490      | 860   |           | 1,350  | 1,800         |
+| 10   | 75 23 - Wall - Mounted Flagpoles                                     |        |             |             |      |          |       |           |        |               |
+| 10   | 75 23.10 Flagpoles                                                   |        |             |             |      |          |       |           |        |               |
+| 0010 | FLAGPOLES, structure mounted                                         |        |             |             |      |          |       |           |        |               |
+| 0100 | Fiberglass, vertical wall set, 19'-8" long                           | K-1    | 1.50        | 10.667      | Ea.  | 925      | 570   | 252       | 1,747  | 2,150         |
+| 0200 | 23' long                                                             |        | 1.40        | 11.429      |      | 1,375    | 610   | 269       | 2,254  | 2,700         |
+| 0300 | 26'-3" long                                                          |        | 1.30        | 12.308      |      | 1,325    | 655   | 290       | 2,270  | 2,775         |
+| 0800 | 19'-8" long outrigger                                                |        | 1.30        | 12.308      | '    | 1,100    | 655   | 290       | 2,045  | 2,500         |
+| 1300 | Aluminum, vertical wall set, tapered, with base, 20' high            |        | 1.20        | 13.333      |      | 995      | 710   | 315       | 2,020  | 2,500         |
+| 1400 | 29'-6" high                                                          |        |             |             |      | 2,525    | 855   | 375       | 3,755  | 4,475         |
+| 2400 | Outrigger poles with base, 12' long                                  |        | 1.30        | 12.308      |      | 965      | 655   | 290       | 1,910  | 2,350         |
+| 2500 | 14' long                                                             |        | 1           | 16          |      | 1,400    | 855   | 375       | 2,630  | 3,225         |
+
+# 10 81 Pest Control Devices
+
+10 81 13 - Bird Control Devices  
+10 81 13.10 Bird Control Netting  
+0010 BIRD CONTROL NETTING  
+
+| ID   | Name                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-----------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|---------------|
+| 0020 | 1/8" square mesh            | 4 Clab | 4000        | .008        | S.F  | .62      | .36   |           | .98   | 1.22          |
+| 0100 | 1/4" square mesh            |        | 4000        | .008        |      | .19      | .36   |           | .55   | .75           |
+| 0120 | 1/2" square mesh            |        | 4000        | .008        |      | .26      | .36   |           | .62   | .83           |
+| 0140 | 5/8" x 3/4" mesh            |        | 4000        | .008        |      | .30      | .36   |           | .66   | .87           |
+| 0160 | 1-1/4" x 1-1/2" mesh        |        | 4000..008   |             |      | .16      | .36   |           | .52   | .72           |
+| 0200 | 4" square mesh              |        | 4000.008    |             |      | .24      | .36   |           | .60   | .80           |
+| 1000 | Poly clips                  |        |             |             | Ea.  | .54      |       |           | .54   | .59           |
+
+# 10 86 Security Mirrors and Domes
+
+10 86 10 - Security Mirrors  
+10 86 10.10 Exterior Traffic Control Mirrors  
+0010 EXTERIOR TRAFFIC CONTROL MIRRORS  
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|---------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|---------------|
+| 0100 | Convex, stainless steel, 20 ga, 26" diameter      | 1 Carp | 12          | .667        | Ea.  | 305      | 37.50  |           | 342.50  | 390           |
+
+10 86 20 - Security Domes  
+10 86 20.10 Domes  
+0010 DOMES for security cameras (CCTV)  
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|---------------|
+| 0100 | Ceiling mounted, 10" diameter        | 1 Carp | 30          | .267        | Ea.  | 54       | 55    |           | 69    | 82            |
+| 0110 | 12" diameter                         |        | 30          | .267        | 17   | 54       | 15    |           | 69    | 82            |
+
+# 10 88 Scales
+
+10 88 05 - Commercial Scales  
+10 88 05.10 Scales  
+0010 SCALES  
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|---------------|
+| 0700 | Truck scales, incl. steel weigh bridge, not including foundation, pits|        |             |             |      |          |        |           |         |               |
+| 1550 | Digital, electronic, 100 ton capacity, steel deck 12' x 10' platform | 3 Carp | .20         | 120         | Ea.  | 18,100   | 6,750  |           | 24,850  | 30,100        |
+| 1600 | 40' x 10' platform                                                   |        | .14         | 171         |      | 36,200   | 9,650  |           | 45,850  | 54,000        |
+| 1640 | 60' x 10' platform                                                   |        | .13         | 185         |      | 50,500   | 10,400 |           | 60,900  | 71,000        |
+| 1680 | 70' x 10' platform                                                   |        | .12         | 200         |      | 51,000   | 11,300 |           | 62,300  | 73,000        |
+
+customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.  
+For
+
+# 10 71 Exterior Protection
+
+## 10 71 13 - Exterior Sun Control Devices
+
+### 10 71 13.19 Rolling Exterior Shutters
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | ROLLING EXTERIOR SHUTTERS            |        |             |             |      |          |       |           |       |                |
+| 0020 | Roll-up, manual operation, aluminum, 3' x 4', incl.frame | 2 Carp | 8∞          | 22          | Ea.  | 340      | 11333 |           | 453   | 545            |
+| 0030 | 6'x7'                                |        | 8           |             | "    | 1,375    | 113   |           | 1,488 | 1,700          |
+
+# 10 73 Protective Covers
+
+## 10 73 13 - Awnings
+
+### 10 73 13.10 Awnings, Fabric
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | AWNINGS, FABRIC                      |        |             |             |      |          |       |           |       |                |
+| 0020 | Including acrylic canvas and frame, standard design |        |             |             |      |          |       |           |       |                |
+| 0100 | Door and window, slope, 3' high, 4' wide | 1 Carp | 4.50        | 1.778       | Ea.  | 940      | 100   |           | 1,040 | 1,175          |
+| 0110 | 6' wide                              |        | 3.50        | 2.286       |      | 1,200    | 129   |           | 1,329 | 1,525          |
+| 0120 | 8' wide                              |        | 3           | 2.667       |      | 1,475    | 150   |           | 1,625 | 1,850          |
+| 0200 | Quarter round convex, 4' wide         |        | 3           | 2.667       |      | 1,450    | 150   |           | 1,600 | 1,825          |
+| 0210 | 6' wide                              |        | 2.25        | 3.556       |      | 1,900    | 200   |           | 2,100 | 2,400          |
+| 0220 | 8' wide                              |        | 1.80        | 4.444       |      | 2,325    | 250   |           | 2,575 | 2,925          |
+| 0300 | Dome, 4' wide                        |        | 7.50        | 1.067       |      | 565      | 60    |           | 625   | 710            |
+| 0310 | 6' wide                              |        | 3.50        | 2.286       |      | 1,275    | 129   |           | 1,404 | 1,600          |
+| 0320 | 8' wide                              |        | 2           | 4           |      | 2,250    | 225   |           | 2,475 | 2,800          |
+| 0350 | Elongated dome, 4' wide               |        | 1.33        | 6.015       |      | 2,125    | 340   |           | 2,465 | 2,825          |
+| 0360 | 6' wide                              |        | 1.11        | 17.207      |      | 2,525    | 405   |           | 2,930 | 3,375          |
+| 0370 | 8' wide                              |        | 18          |             |      | 2,950    | 450   |           | 3,400 | 3,925          |
+| 1000 | Entry or walkway, peak, 12' long, 4' wide | 2 Carp | .90         | 17.778      |      | 10,600   | 1,000 |           | 11,600| 13,200         |
+| 1010 | 6' wide                              |        | .60         | 26.667      |      | 16,400   | 1,500 |           | 17,900| 20,200         |
+| 1020 | 8' wide                              |        | .40         | 40          |      | 22,600   | 2,250 |           | 24,850| 28,200         |
+| 1100 | Radius with dome end, 4' wide         |        | 1.10        | 14.545      |      | 8,050    | 820   |           | 8,870 | 10,100         |
+| 1110 | 6' wide                              |        | .70         | 22.857      |      | 12,900   | 1,275 |           | 14,175| 16,100         |
+| 1120 | 8' wide                              |        | .50         | 32          |      | 18,400   | 1,800 |           | 20,200| 22,900         |
+| 2000 | Retractable lateral arm awning, manual|        |             |             |      |          |       |           |       |                |
+| 2010 | To 12' wide, 8' 6" projection         | 2 Carp | 1.70        | 9.412       | Ea.  | 2,275    | 530   |           | 2,805 | 3,300          |
+| 2020 | To 14' wide, 8' 6" projection         |        | 1.10        | 14.545      |      | 2,650    | 820   |           | 3,470 | 4,150          |
+| 2030 | To 19' wide, 8' 6" projection         |        | .85         | 18.824      |      | 3,600    | 1,050 |           | 4,650 | 5,525          |
+| 2040 | To 24' wide, 8' 6" projection         |        | .67         | 23.881      |      | 4,550    | 1,350 |           | 5,900 | 7,000          |
+| 2050 | Motor for above, add                  | Carp   | 2.67        | 3           |      | 655      | 169   |           | 824   | 970            |
+| 3000 | Patio/deck canopy with frame          |        |             |             |      |          |       |           |       |                |
+| 3010 | 12' wide, 12' projection              | 2 Carp | 2           | 8           | Ea.  | 3,200    | 450   |           | 3,650 | 4,200          |
+| 3020 | 16' wide, 14' projection              | "      | 1.20        | 13.333      |      | 4,975    | 750   |           | 5,725 | 6,600          |
+| 9000 | For fireretardant canvas, add         |        |             |             |      | 7%       |       |           |       |                |
+| 9010 | For lettering or graphics, add        |        |             |             |      | 35%      |       |           |       |                |
+| 9020 | For painted or coated acrylic canvas, deduct |        |             |             |      | 8%       |       |           |       |                |
+| 9030 | For translucent or opaque vinyl canvas, add |        |             |             |      | 10%      |       |           |       |                |
+| 9040 | For 6 or more units, deduct           |        |             |             |      | 20%      |       |           |       | 15%            |
+
+# 10 73 16 - Canopies
+
+## 10 73 16.20 Metal Canopies
+
+| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | METAL CANOPIES                       |        |             |             |      |          |       |           |       |                |
+| 0020 | Wall hung, .032", aluminum, prefinished, 8' x 10' | K-2    | 1.30        | 18.462      | Ea.  | 3,500    | 1,075 | 290       | 4,865 | 5,825          |
+| 0300 | 8' x 20'                             |        | 1.10        | 21.818      |      | 5,275    | 1,275 | 345       | 6,895 | 8,150          |
+| 0500 | 10' x 10'                            |        | 1.30        | 18.462      |      | 3,075    | 1,075 | 290       | 4,440 | 5,375          |
+| 0700 | 10' x 20'                            |        | 1.10        | 21.818      |      | 5,275    | 1,275 | 345       | 6,895 | 8,150          |
+| 1000 | 12' x 20'                            |        |             | 24          |      | 5,275    | 1,400 | 375       | 7,050 | 8,400          |
+| 1360 | 12' x 30'                            |        | .80         | 30          |      | 10,200   | 1,750 | 470       | 12,420| 14,400         |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10103 Protecti73 Covers
+
+10 Protectivepies  
+10 73 16.20 Metal CanopieCoversy Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor Equipment  
+Total  
+Ind O&P  
+1700  
+12' x 40'  
+K-2  
+.60 40 Ea.  
+6,225  
+2,350  
+630  
+9,205  
+11,100  
+1900  
+For free standing units,
+
+---
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 10   | 73 16 Canopies                                                       |        |              |             |      |          |       |           |         |                |
+| 10   | 73 16.20 Metal Canopies                                              | Crew   | Output       | Hours       | Unit | Material | Labor | Equipment | Total   | Ind O&P        |
+| 1700 | 12' x 40'                                                            | K-2    | .60          | 40          | Ea.  | 6,225    | 2,350 | 630       | 9,205   | 11,100         |
+| 1900 | For free standing units, add                                         |        |              |             |      | 20 %     | 10 %  |           |         |                |
+| 2300 | Aluminum entrance canopies, flat soffit, .032"                       |        |              |             |      |          |       |           |         |                |
+| 2500 | 3' 6" x 4'-0", clear anodized                                        | 2 Carp | 4            | 4           | Eo.  | 1,500    | 225   |           | 1,725   | 1,975          |
+| 2700 | Bronze anodized                                                      |        | 4            | 4           |      | 1,375    | 225   |           | 1,600   | 1,825          |
+| 3000 | Polyurethane painted                                                 |        |              | 4           |      | 1,700    | 225   |           | 1,925   | 2,200          |
+| 3300 | 4' 6" x 10'-0", clear anodized                                       |        | 2            | 8           |      | 2,825    | 450   |           | 3,275   | 3,775          |
+| 3500 | Bronze anodized                                                      |        | 2            | 8           |      | 2,600    | 450   |           | 3,050   | 3,550          |
+| 3700 | Polyurethane painted                                                 |        | 2            | 8           |      | 291      | 450   |           | 741     | 990            |
+| 4000 | Wall downspout, 10 L.F., clear anodized                              | 1 Carp | 7            | 1.143       |      | 204      | 64.50 |           | 268.50  | 320            |
+| 4300 | Bronze anodized                                                      |        | 7712         | 1.143       |      | 291      | 64.50 |           | 355.50  | 415            |
+| 4500 | Polyurethane painted                                                 |        |              | 1.143       |      | 291      | 64.50 |           | 355.50  | 415            |
+| 7000 | Carport, baked vinyl finish, .032", 20' x 10', no foundations, flat panel | K-2    | 4            | 6           | Car  | 2,800    | 350   | 94.50     | 3,244.50| 3,725          |
+| 7250 | Insulated flat panel                                                 |        | 2            | 12          | "    | 1,650    | 705   | 189       | 2,544   | 3,075          |
+| 7500 | Walkway cover, to 12' wide, stl., vinyl finish, .032", no fndtns., flat |        | 250          | .096        | S.F. | 58.50    | 5.65  | 1.51      | 65.66   | 74.50          |
+| 7750 | Arched                                                              |        | 200          | .120        | "    | 57.50    | 7.05  | 1.89      | 66.44   | 76.50          |
+
+---
+
+# 10 74 Manufactured Exterior Specialties
+
+## 10 74 23 - Cupolas
+
+### 10 74 23.10 Wood Cupolas
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | WOOD CUPOLAS                                                         |        |              |             |      |          |       |           |         |                |
+| 0020 | Stock units, pine, painted, 18" sq., 28" high, alum. roof             | 1 Carp | 4.10         | 1.951       | Ea.  | 249      | 110   |           | 359     | 440            |
+| 0100 | Copper roof                                                          |        | 3.80         | 2.105       | 4    | 259      | 119   |           | 378     | 460            |
+| 0300 | 23" square, 33" high, aluminum roof                                  |        | 3.70         | 2.162       |      | 385      | 122   |           | 507     | 600            |
+| 0400 | Copper roof                                                          |        | 3.30         | 2.424       |      | 625      | 136   |           | 761     | 890            |
+| 0600 | 30" square, 37" high, aluminum roof                                  |        | 3.70         | 2.162       |      | 610      | 122   |           | 732     | 850            |
+| 0700 | Copper roof                                                          |        | 3.30         | 2.424       |      | 630      | 136   |           | 766     | 895            |
+| 0900 | Hexagonal, 31" wide, 46" high, copper roof                           |        | 4            | 2           |      | 1,125    | 113   |           | 1,238   | 1,400          |
+| 1000 | 36" wide, 50" high, copper roof                                      |        | 3.50         | 2.286       |      | 1,275    | 129   |           | 1,404   | 1,600          |
+| 1200 | For deluxe stock units, add to above                                 |        |              |             |      | 25 %     |       |           |         |                |
+| 1400 | For custom built units, add to above                                 |        |              |             |      | 50 %     | 50 %  |           |         |                |
+
+---
+
+## 10 74 29 - Steeples
+
+### 10 74 29.10 Prefabricated Steeples
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | PREFABRICATED STEEPLES                                               |        |              |             |      |          |       |           |         |                |
+| 4000 | Steeples, translucent fiberglass, 30" square, 15' high               | F 3    | 2            | 20          | Ea.  | 1,525    | 1,150 | 990       | 3,665   | 4,500          |
+| 4150 | 25' high                                                             |        | 1.80         | 22.222      |      | 5,600    | 1,275 | 1,100     | 7,975   | 9,275          |
+| 4350 | Opaque fiberglass, 24" square, 14' high                              |        | 2            | 20          |      | 1,500    | 1,150 | 990       | 3,640   | 4,475          |
+| 4500 | 28' high                                                             |        | 1.80         | 22.222      |      | 7,300    | 1,275 | 1,100     | 9,675   | 11,100         |
+| 4600 | Aluminum, baked finish, 16" square, 14' high                         |        |              |             |      | 6,100    | 1     |           | 6,100   | 6,700          |
+| 4620 | 20' high, 3'-6" base                                                 |        |              |             |      | 10,600   |       |           | 10,600  | 11,700         |
+| 4640 | 35' high, 8' base                                                    |        |              |             |      | 38,000   |       |           | 38,000  | 41,800         |
+| 4660 | 60' high, 14' base                                                   |        |              |             |      | 94,500   |       |           | 94,500  | 104,000        |
+| 4680 | 152' high, custom                                                    |        |              |             |      | 711,000  |       |           | 711,000 | 782,000        |
+| 4700 | Porcelain enamel steeples, custom, 40' high                          | F-3    | .50          | 8880        |      | 14,400   | 4,625 | 3,975     | 23,000  | 27,000         |
+| $4800| 60' high                                                             | =      | .30          | 133         |      | 18,500   | 7,700 | 6,600     | 32,800  | 39,200         |
+
+---
+
+## 10 74 46 - Window Wells
+
+### 10 74 46.10 Area Window Wells
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | AREA WINDOW WELLS, Galvanized steel                                  |        |              |             |      |          |       |           |         |                |
+| 0020 | 20 ga., 3' 2" wide, 1' deep                                          | 1 Sswk | 29           | .276        | Ea.  | 17.80    | 17.05 |           | 34.85   | 46             |
+| 0100 | 2' deep                                                              |        | 23           | .348        |      | 425      | 21.50 |           | 446.50  | 505            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 10 74 74 Manufactured Specialties  
+## 10 74 46 - Window Wells  
+### 10 74 4 Exteriora Window Wells  
+16 ga., Specialties 1' deep  
+3' deep  
+
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0300  | 16 ga., 3'-2" wide, 1' deep                  | 1 Sswk | 29           | .276        | Eg.  | 335      | 17.05  |           | 352.05  | 395            |
+| 0400  | 3' deep                                      |        | 23           | .348        |      | 50.50    | 21.50  |           | 72      | 88.50          |
+| 0600  | Welded grating for above, 15 lb., painted    |        | 45           | .178        |      | 107      | 11     |           | 118     | 135            |
+| 0700  | Galvanized                                   |        | 45           | .178        |      | 131      | 11     |           | 142     | 161            |
+| 0900  | Translucent plastic cap for above            |        | 60           | .133        |      | 21.50    | 8.25   |           | 29.75   | 36             |
+
+---
+
+# 10 75 Flagpoles  
+## 10 75 16 Ground-Set Flagpoles  
+### 10 75 16.10 Flagpoles  
+#### 0010 FLAGPOLES, ground set  
+#### 0050 Not including base or foundation  
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0100  | Aluminum, tapered, ground set 20' high                    | K-1  | 2            | 8           | Eo.  | 1,400    | 425   | 189       | 2,014   | 2,375          |
+| 0200  | 25' high                                                  |      | 1.70         | 9.412       |      | 1,425    | 500   | 222       | 2,147   | 2,575          |
+| 0300  | 30' high                                                  |      | 1.50         | 10.667      |      | 1,350    | 570   | 252       | 2,172   | 2,600          |
+| 0400  | 35' high                                                  |      | 1.40         | 11.429      |      | 1,950    | 610   | 269       | 2,829   | 3,350          |
+| 0500  | 40' high                                                  |      | 1.20         | 13.333      |      | 2,475    | 710   | 315       | 3,500   | 4,125          |
+| 0600  | 50' high                                                  |      | 1            | 16          |      | 5,900    | 855   | 375       | 7,130   | 8,200          |
+| 0700  | 60' high                                                  |      | .90          | 17.778      |      | 7,350    | 950   | 420       | 8,720   | 9,950          |
+| 0800  | 70' high                                                  |      | .80          | 20          |      | 8,125    | 1,075 | 470       | 9,670   | 11,000         |
+| 1100  | Counterbalanced, internal halyard, 20' high               |      | 1.80         | 8.889       |      | 2,400    | 475   | 210       | 3,085   | 3,575          |
+| 1200  | 30' high                                                  |      | 1.50         | 10.667      |      | 3,500    | 570   | 252       | 4,322   | 4,975          |
+| 1300  | 40' high                                                  |      | 1.30         | 12.308      |      | 4,300    | 655   | 290       | 5,245   | 6,025          |
+| 1400  | 50' high                                                  |      | 1            | 16          |      | 5,900    | 855   | 375       | 7,130   | 8,200          |
+| 2820  | Aluminum, electronically operated, 30' high               |      | 1.40         | 11.429      |      | 5,075    | 610   | 269       | 5,954   | 6,800          |
+| 2840  | 35' high                                                  |      | 1.30         | 12.308      |      | 5,775    | 655   | 290       | 6,720   | 7,675          |
+| 2860  | 39' high                                                  |      | 1.10         | 14.545      |      | 6,650    | 775   | 345       | 7,770   | 8,850          |
+| 2880  | 45' high                                                  |      | 1            | 16          |      | 6,800    | 855   | 375       | 8,030   | 9,175          |
+| 2900  | 50' high                                                  |      | .90          | 17.778      |      | 8,950    | 950   | 420       | 10,320  | 11,700         |
+| 3000  | Fiberglass, tapered, ground set, 23' high                 |      | 2            | 8           |      | 1,275    | 425   | 189       | 1,889   | 2,250          |
+| 3100  | 29'-7" high                                               |      | 1.50         | 10.667      |      | 1,675    | 570   | 252       | 2,497   | 2,975          |
+| 3200  | 36'-1" high                                               |      | 1.40         | 11.429      |      | 2,075    | 610   | 269       | 2,954   | 3,475          |
+| 3300  | 39'-5" high                                               |      | 1.20         | 13.333      |      | 2,050    | 710   | 315       | 3,075   | 3,650          |
+| 3400  | 49'-2" high                                               |      | 1            | 16          |      | 5,350    | 855   | 375       | 6,580   | 7,575          |
+| 3500  | 59' high                                                  |      | .90          | 17.778      |      | 6,925    | 950   | 420       | 8,295   | 9,500          |
+
+---
+
+## 4300 Steel, direct imbedded installation
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4400  | Internal halyard, 20' high                   | K 1  | 2.50         | 6.400       | Ea.  | 200      | 340   | 151       | 691     | 895            |
+| 4500  | 25' high                                     |      | 2.50         | 6.400       |      | 199      | 340   | 151       | 690     | 895            |
+| 4600  | 30' high                                     |      | 2.30         | 6.957       |      | 2,725    | 370   | 164       | 3,259   | 3,725          |
+| 4700  | 40' high                                     |      | 2.10         | 7.619       |      | 3,800    | 405   | 180       | 4,385   | 4,975          |
+| 4800  | 50' high                                     |      | 1.90         | 8.421       |      | 5,375    | 450   | 199       | 6,024   | 6,825          |
+| 5000  | 60' high                                     |      | 1.80         | 8.889       |      | 7,800    | 475   | 210       | 8,485   | 9,525          |
+| 5100  | 70' high                                     |      | 1.60         | 10          |      | 9,900    | 535   | 236       | 10,671  | 12,000         |
+| 5200  | 80' high                                     |      | 1.40         | 11.429      |      | 13,000   | 610   | 269       | 13,879  | 15,500         |
+| 5300  | 90' high                                     |      | 1.20         | 13.333      |      | 24,700   | 710   | 315       | 25,725  | 28,600         |
+| 5500  | 100' high                                    |      | 1            | 16          |      | 29,000   | 855   | 375       | 30,230  | 33,500         |
+
+---
+
+## 6400 Wood poles, tapered, clear vertical grain fir with tilting
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 6410  | base, not incl. foundation, 4" butt, 25' high| K 1  | 1.90         | 8.421       | Eo.  | 6,700    | 450   | 199       | 7,349   | 8,275          |
+| 6800  | 6" butt, 30' high                            | "    | 1.30         | 12.308      | 11   | 8,200    | 655   | 290       | 9,145   | 10,300         |
+
+---
+
+## 7300 Foundations for flagpoles, including
+
+| ID    | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 7400  | excavation and concrete, to 35' high poles   | -1   | 10           | 3.200       | Ea.  | 158      | 172   |           | 330     | 430            |
+| 7600  | 40' to 50' high                              |      | 3.50         | 9.143       |      | 225      | 490   |           | 715     | 980            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+

@@ -1,0 +1,2273 @@
+# 33334 Onsite Wa34ewater DispOnsite3 34 13 - Septic TanWastewater3.13 Concrete Septic Tanks
+
+0010 CODisposalEPTIC TANKS  
+Daily Labor-  
+Crew Output Hours Unit  
+2022 Bare Costs  
+Total  
+Material  
+Labor  
+Equipment  
+Total  
+Ind O&P  
+0011  
+Not including excavation or piping
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-----------|----------------|
+| 33    | 34 13 - Septic Tanks                                                 |        |              |             |      |          |       |           |           |                |
+| 33    | 34 13.13 Concrete Septic Tanks                                       |        |              |             |      |          |       |           |           |                |
+| 0010  | CONCRETE SEPTIC TANKS                                                |        |              |             |      |          |       |           |           |                |
+| 0011  | Not including excavation or piping                                   |        |              |             |      |          |       |           |           |                |
+| 0015  | Septic tanks, precast, 1,000 gallon                                  | B-21   | 8            | 3.500       | Ea.  | 990      | 184   | 21.50     | 1,195.50  | 1,400          |
+| 0060  | 1,500 gallon                                                         |        | 7            | 4           |      | 1,425    | 210   | 25        | 1,660     | 1,900          |
+| 0100  | 2,000 gallon                                                         |        | 5            | 15.600      |      | 2,400    | 294   | 34.50     | 2,728.50  | 3,125          |
+| 0200  | 5,000 gallon                                                         | B-13   | 3.50         | 16          |      | 7,250    | 795   | 600       | 8,645     | 9,800          |
+| 0300  | 15,000 gallon, 4 piece                                               | B-13B  | 1.70         | 32.941      | Ea.  | 20,300   | 1,625 | 1,325     | 23,250    | 26,200         |
+| 0400  | 25,000 gallon, 4 piece                                               |        | 1.10         | 50.909      |      | 37,500   | 2,525 | 2,050     | 42,075    | 47,300         |
+| 0500  | 40,000 gallon, 4 piece                                               |        | 0.80         | 70          |      | 60,000   | 3,475 | 2,825     | 66,300    | 74,500         |
+| 0520  | 50,000 gallon, 5 piece                                               | B-13C  | 0.60         | 93.333      |      | 69,000   | 4,625 | 2,350     | 75,975    | 85,500         |
+| 0640  | 75,000 gallon, cast in place                                         | C-14C  | 0.25         | 448         |      | 84,000   | 24,100| 112       | 108,212   | 128,500        |
+| 0660  | 100,000 gallon                                                       |        | 0.15         | 747         |      | 104,000  | 40,200| 187       | 144,387   | 174,000        |
+| 1150  | Leaching fieldchambers, 13' x 3'-7" x 1'4", standard                 | B-13   | 16           | 3.500       |      | 480      | 174   | 131       | 785       | 935            |
+| 1200  | Heavy duty, 8'x 4' x 1'-6"                                           |        | 14           | 4           | 1    | 284      | 199   | 149       | 632       | 770            |
+| 1300  | 13' x 3'-9" x 1'-6"                                                  |        | 12           | 4.667       |      | 1,400    | 232   | 174       | 1,806     | 2,075          |
+| 1350  | 20' x 4' x 1'6"                                                      |        | 5            | 11.200      |      | 1,250    | 555   | 420       | 2,225     | 2,650          |
+| 1400  | Leaching pit, precast concrete, 3' diameter, 3' deep                  | B-21   | 8            | 3.500       |      | 715      | 184   | 21.50     | 920.50    | 1,075          |
+| 1500  | 6' diameter, 3' section                                               |        | 4.70         | 5.957       |      | 1,125    | 315   | 37        | 1,477     | 1,725          |
+| 2000  | Velocity reducing pit, precast conc., 6' diameter, 3' deep            |        | 4.70         | 5.957       |      | 1,875    | 315   | 37        | 2,227     | 2,575          |
+| 33    | 34 13.33 Polyethylene Septic Tanks                                   |        |              |             |      |          |       |           |           |                |
+| 0010  | POLYETHYLENE SEPTIC TANKS                                            |        |              |             |      |          |       |           |           |                |
+| 0011  | High density polyethylene, 300 gallon                                 | B-21   | 9.50         | 2.947       | Ea.  | 725      | 155   | 18.25     | 898.25    | 1,050          |
+| 0012  | High density polyethylene, 500 gallon                                 |        | 9            | 3.111       |      | 1,150    | 163   | 19.25     | 1,332.25  | 1,550          |
+| 0014  | High density polyethylene, 750 gallon                                 |        | 8.50         | 3.294       |      | 1,225    | 173   | 20.50     | 1,418.50  | 1,625          |
+| 0015  | High density polyethylene, 1,000 gallon                              |        | 8            | 3.500       |      | 1,325    | 184   | 21.50     | 1,530.50  | 1,750          |
+| 0020  | 1,250 gallon                                                         |        | 8            | 3.500       |      | 1,725    | 184   | 21.50     | 1,930.50  | 2,200          |
+| 0025  | 1,500 gallon                                                         |        | 7            | 4           |      | 2,300    | 210   | 25        | 2,535     | 2,875          |
+| 0030  | 2,500 gallon                                                         |        | 6            | 14.667      |      | 4,750    | 245   | 29        | 5,024     | 5,625          |
+| 0035  | 3,000 gallon                                                         |        | 5.50         | 5.091       |      | 6,500    | 267   | 31.50     | 6,798.50  | 7,575          |
+| 0040  | 3,500 gallon                                                         |        | 5            | 5.600       |      | 7,750    | 294   | 34.50     | 8,078.50  | 9,000          |
+| 33    | 34 16 - Septic Tank Effluent Filters                                 |        |              |             |      |          |       |           |           |                |
+| 33    | 34 16.13 Septic Tank Gravity Effluent Filters                        |        |              |             |      |          |       |           |           |                |
+| 0010  | SEPTIC TANK GRAVITY EFFLUENT FILTERS                                 |        |              |             |      |          |       |           |           |                |
+| 3000  | Effluent filte, 4" diameter                                          | 1 Skwk | 877          |             | Ea.  | 36       | 59    |           | 95        | 128            |
+| 3020  | 6" diameter                                                          |        | 1.143        |             |      | 44       | 67.50 |           | 111.50    | 149            |
+| 3030  | 8" diameter                                                          |        | 1.143        |             |      | 256      | 67.50 |           | 323.50    | 380            |
+| 3040  | 8" diameter, very fine                                               | 7      | 1.143        |             |      | 510      | 67.50 |           | 577.50    | 660            |
+| 3050  | 10" diameter, very fine                                              | 6      | 1.333        |             |      | 242      | 78.50 |           | 320.50    | 385            |
+| 3060  | 10" diameter                                                         | 6      | 1.333        |             |      | 276      | 78.50 |           | 354.50    | 425            |
+| 3080  | 12" diameter                                                         | 6      | 1.333        |             |      | 665      | 78.50 |           | 743.50    | 850            |
+| 3090  | 15" diameter                                                         | 5      | 1.600        |             |      | 1,100    | 94    |           | 1,194     | 1,350          |
+| 33    | 34 51 Drainage Field Systems                                         |        |              |             |      |          |       |           |           |                |
+| 33    | 34 51.10 Drainage Field Excavation and Fill                          |        |              |             |      |          |       |           |           |                |
+| 0010  | DRAINAGE FIELD EXCAVATION AND FILL                                   |        |              |             |      |          |       |           |           |                |
+| 2200  | Septic tank & drainage field excavation with 3/4 C.Y. backhoe        | B-12F  | 145          | 110         | C.Y. |          | 6     | 6.05      | 12.05     | 15.60          |
+| 2400  | 4' trench for disposal field, 3/4 C.Y. backhoe                       | B-12F  | 335          | .048        | L.F. |          | 2.60  | 2.61      | 5.21      | 6.75           |
+| 2600  | Gravel fil, run of bank                                              | B 6    | 150          | 160         | M.Y. | 25       | 7.90  | 2.19      | 35.09     | 41.50          |
+| 28001 | Crushed stone, 3/4"                                                  |        | 150.160      |             |      | 28.50    | 7.90  | 2.19      | 38.59     | 45             |
+
+692 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 01 10 Operation and Maintenance of Water Utilities
+
+## 33 01 10.10 Corrosion Resistance
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | CORROSION RESISTANCE                      |      |              |             |      |          |       |           |       |                |
+| 0012  | Wrap & coat, add to pipe, 4" diameter     |      |              |             | L.F. | 2.81     |       |           | 2.81  | 3.             |
+| 0040  | 6" diameter                               |      |              |             |      | 4.21     |       |           | 4.21  | 4.             |
+| 0060  | 8" diameter                               |      |              |             |      | 5.35     |       |           | 5.35  | 5.             |
+| 0100  | 12" diameter                              |      |              |             |      | 7.05     |       |           | 7.05  | 7.             |
+| 0200  | 24" diameter                              |      |              |             |      | 15.80    |       |           | 15.80 | 17.            |
+| 0500  | Coating, bituminous, per diameter inch, 1 coat, add |      |              |             |      | .201     |       |           | .20   |                |
+| 0540  | 3 coat                                    |      |              |             |      | .66      |       |           | .66   |                |
+| 0560  | Coal tar epoxy, per diameter inch, 1 coat, add |      |              |             |      | .27      |       |           | .27   |                |
+| 0600  | 3 coat                                    |      |              |             |      | .74      |       |           | .74   |                |
+
+---
+
+# 33 01 30 Operation and Maintenance of Sewer Utilities
+
+## 33 01 30.72 Cured-In-Place Pipe Lining
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | CURED-IN-PLACE PIPE LINING                |      |              |             |      |          |        |           |        |                |
+| 0011  | Not incl. bypass or cleaning              |      |              |             |      |          |        |           |        |                |
+| 0020  | Less than 10,000 L.F., urban, 6" to 10"   | C-17E| 130          | .615        | LF . | 10.10    | 36.50  | .29       | 46.89  | 66.            |
+| 0200  | 24" to 36"                                |      | 90           | .889        |      | 16.40    | 52.50  | .42       | 69.32  | 97.            |
+| 0300  | 48" to 72"                                |      | 80           | 1           |      | 25.50    | 59.50  | .47       | 85.47  | 118            |
+
+## 33 01 30.75 Cured-in-place Pipe Lining
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
+| 0010  | CURED-IN-PLACE PIPE LINING                |      |              |             |      |          |        |           |        |                |
+| 0050  | Bypass, Sewer                             | C-17E| 500          | .160        | LF   |          | 9.50   | .08       | 9.58   | 14.            |
+| 0090  | Mobilize (Any Size) 1 Mob per Job         |      | 1            | 80          | Job  |          | 4,750  | 37.50     | 4,787.50 | 7,175         |
+| 0091  | Relocate (12") (8hrs, 3 per day)          |      | 3            | 26.667      | Ea.  |          | 1,575  | 12.55     | 1,587.55 | 2,400         |
+| 0092  | Relocate (12" to 24") 8hrs, 2 per day     |      | 2            | 40          |      |          | 2,375  | 18.80     | 2,393.80 | 3,575         |
+| 0093  | Relocate (24" to 42") (8hrs, 1.5 per day) |      | 1.50         | 53.333      | 1    |          | 3,175  | 25        | 3,200   | 4,775         |
+| 0094  | Relocate (42") (8hrs, 1.5 per day)        |      |              | 80          |      |          | 4,750  | 37.50     | 4,787.50 | 7,175         |
+| 0095  | Additional Travel, $2.00 per Mile         |      | 3362.50      | .024        | Mile |          | 1.41   | .01       | 1.42    | 2. '          |
+| 0096  | Demobilize (Any Size) 1 Demob per Job     |      | 1            | 80          | Job  |          | 4,750  | 37.50     | 4,787.50 | 7,175         |
+| 0097  | Refrigeration Truck (12", Cost per Each Location) |      | 3            | 26.667      | Ea.  |          | 1,575  | 12.55     | 1,587.55 | 2,400         |
+| 0098  | Refrigeration Truck (12"-24", Each Pipe/Location) | T    | 3            | 26.667      |      |          | 1,575  | 12.55     | 1,587.55 | 2,400         |
+| 0099  | Refrigeration Truck (24"-42", Each Pipe/Location) |      | 1.50         | 53.333      |      |          | 3,175  | 25        | 3,200   | 4,775         |
+| 0100  | Refrigeration Truck (42", Each Pipe/Location) | 11   |              | 80          | 1    |          | 4,750  | 37.50     | 4,787.50 | 7,175         |
+| 1210  | 12", 6mm, Epoxy, 250k, 2ft                |      | 6            | 13.333      | LF . | 54.50    | 790    | 6.25      | 850.75  | 1,250         |
+| 1211  | 12", 6mm, Epoxy, 250k, 4ft                | C-17E| 12           | 6.667       | LF   | 54.50    | 395    | 3.13      | 452.63  | 660           |
+| 1212  | 12", 6mm, Epoxy, 250k, 10ft               |      | 30           | 2.667       |      | 54.50    | 158    | 1.25      | 213.75  | 298           |
+| 1213  | 12", 6mm, Epoxy, 250k, 20ft               |      | 60           | 1.333       |      | 54.50    | 79     | .63       | 134.13  | 180           |
+| 1216  | 12", 6mm, Epoxy, 250k, 300ft              |      | 900          | .089        |      | 54.50    | 5.25   | .04       | 59.79   | 68            |
+| 1217  | 12", 6mm, Epoxy, 250k, 328ft              |      | 1000         | .080        |      | 54.50    | 4.74   | .04       | 59.28   | 67            |
+| 1218  | 12", 6mm, Epoxy, 250k, Transitions, add   |      |              |             |      | 20%      |        |           |        |                |
+| 1219  | 12", 6mm, Epoxy, 250k, 45 and 90 deg, add |      |              |             |      | 50%      |        |           |        |                |
+| 1230  | 12", 5mm, Epoxy, 400k, 2ft                | C-17E| 6            | 13.333      |      | 45.50    | 790    | 6.25      | 841.75  | 1,225         |
+| 1231  | 12", 5mm, Epoxy, 400k, 4ft                |      | 12           | 6.667       |      | 45.50    | 395    | 3.13      | 443.63  | 650           |
+| 1232  | 12", 5mm, Epoxy, 400k, 10ft               |      | 30           | 2.667       |      | 45.50    | 158    | 1.25      | 204.75  | 288           |
+| 1233  | 12", 5mm, Epoxy, 400k, 20ft               |      | 60           | 1.333       |      | 45.50    | 79     | .63       | 125.13  | 170           |
+| 1234  | 12", 5mm, Epoxy, 400k, 50ft               |      | 150          | .533        |      | 45.50    | 31.50  | .25       | 77.25   | 98            |
+| 1235  | 12", 5mm, Epoxy, 400k, 100ft              |      | 300          | .267        |      | 45.50    | 15.80  | .13       | 61.43   | 74            |
+| 1236  | 12", 5mm, Epoxy, 400k, 300ft              |      | 900          | .089        |      | 45.50    | 5.25   | .04       | 50.79   | 58            |
+| 1237  | 12", 5mm, Epoxy, 400k, 328ft              |      | 1000         | .080        |      | 45.50    | 4.74   | .04       | 50.28   | 57            |
+| 1238  | 12", 5mm, Epoxy, 400k, Transitions, add   |      |              |             |      | 20%      |        |           |        |                |
+| 1239  | 12", 5mm, Epoxy, 400k, 45 and 90 deg, add |      |              |             |      | 50%      |        |           |        |                |
+| 2410  | 24", 12mm, Epoxy, 250k, 2ft               | C-17E| 4            | 220         |      | 218      | 1,175  | 9.40      | 1,402.40| 2,025         |
+| 2411  | 24", 12mm, Epoxy, 250k, 4ft               |      | 8            | 10          |      | 218      | 595    | 4.70      | 817.70  | 1,125         |
+| 2412  | 24", 12mm, Epoxy, 250k, 10ft              |      | 20           | 4           |      | 218      | 237    | 1.88      | 456.88  | 595           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33332 Stormwat42 Conveyance
+
+Stormwater Stormwater Gravity Piping  
+33 42 1 Conveyancee/Drainage Collection, Concrete Pipe  
+Concrete slotted pipe, class 4 mortar joint  
+12" diameter  
+3780  
+3800  
+3840  
+18" diameter  
+3900  
+Concrete slotted pipe, Class 4 O-ring joint  
+39  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 33    | 42 11 - Stormwater Gravity Piping                                    |        |             |             |      |          |       |           |         |                |
+| 33    | 42 11.60 Sewage / Drainage Collection, Concrete Pipe                 |        |             |             |      |          |       |           |         |                |
+| 3780  | Concrete slotted pipe, class 4 mortar joint                          |        |             |             |      |          |       |           |         |                |
+| 3800  | 12" diameter                                                         | B-21   | 168         | 167         | LF   | 33       | 8.75  | 1.03      | 42.78   | 50.50          |
+| 3840  | 18" diameter                                                         | B-21   | 152         | .184        | LF   | 41.50    | 9.65  | 1.14      | 52.29   | 61             |
+| 3900  | Concrete slotted pipe, Class 4 O ring joint                          |        |             |             |      |          |       |           |         |                |
+| 3940  | 12" diameter                                                         | B-21   | 168         | 167         | LF   | 26.50    | 8.75  | 1.03      | 36.28   | 43.50          |
+| 3960  | 18" diameter                                                         |        | 152         | .184        |      | 42.50    | 9.65  | 1.14      | 53.29   | 62.50          |
+| 33    | 42 13 Stormwater Culverts                                            |        |             |             |      |          |       |           |         |                |
+| 33    | 42 13.15 Oval Arch Culverts                                          |        |             |             |      |          |       |           |         |                |
+| 0010  | OVAL ARCH CULVERTS                                                   |        |             |             |      |          |       |           |         |                |
+| 3000  | Corrugated galvanized or aluminum, coated & paved                    |        |             |             |      |          |       |           |         |                |
+| 3020  | 17" x 13", 16 ga., 15" equivalent                                    | B-14   | 200         | .240        | LE   | 15.10    | 11.50 | 1.64      | 28.24   | 35.50          |
+| 3040  | 21" x 15", 16 ga., 18" equivalent                                    |        | 150         | .320        |      | 15.45    | 15.30 | 2.19      | 32.94   | 42.50          |
+| 3060  | 28" x 20", 14 ga., 24" equivalent                                    |        | 125         | .384        | I    | 23.50    | 18.35 | 2.63      | 44.48   | 56.50          |
+| 3080  | 35" x 24", 14 ga., 30" equivalent                                    |        | 100         | .480        |      | 29       | 23    | 3.29      | 55.29   | 69.50          |
+| 3100  | 42" x 29", 12 ga., 36" equivalent                                    | B-13   | 100         | 560         | ☐    | 27       | 28    | 21        | 76      | 94             |
+| 3120  | 49" x 33", 12 ga., 42" equivalent                                    |        | 90.622      |             |      | 34.50    | 31    | 23.50     | 89      | 110            |
+| 3140  | 57" x 38", 12 ga., 48" equivalent                                    |        | 75          | .747        |      | 46       | 37    | 28        | 111     | 136            |
+| 3160  | Steel, plain oval arch culverts, plain                               |        |             |             |      |          |       |           |         |                |
+| 3180  | 17" x 13", 16 ga., 15" equivalent                                    | B-14   | 225         | .213        | LF   | 24.50    | 10.20 | 1.46      | 36.16   | 43.50          |
+| 3200  | 21" x 15", 16 ga., 18" equivalent                                    | E      | 175         | .274        |      | 30.50    | 13.10 | 1.88      | 45.48   | 55             |
+| 3220  | 28" x 20", 14 ga., 24" equivalent                                    |        | 150         | 320         | ☐ 1  | 18       | 15.30 | 2.19      | 35.49   | 45             |
+| 3240  | 35" x 24", 14 ga., 30" equivalent                                    | B-13   | 108         | 519         |      | 23.50    | 25.50 | 19.40     | 68.40   | 85.50          |
+| 3260  | 42" x 29", 12 ga., 36" equivalent                                    |        | 108         | 519         |      | 41.50    | 25.50 | 19.40     | 86.40   | 106            |
+| 3280  | 49" x 33", 12 ga., 42" equivalent                                    |        | 92          | 1.609       |      | 50       | 30    | 23        | 103     | 126            |
+| 3300  | 57" x 38", 12 ga., 48" equivalent                                    |        | 75          | .747        |      | 50.50    | 37    | 28        | 115.50  | 141            |
+| 3320  | End sections, 17" x 13"                                              |        | 22          | 2.545       | Eq.  | 365      | 126   | 95        | 586     | 695            |
+| 3340  | 42" x 29"                                                            |        | 17          | 3.294       | =    | 490      | 163   | 123       | 776     | 915            |
+| 3360  | Multi-plate arch, steel                                               | B-20   | 1690        | .014        | Lb.  | 1.15     | 72    |           | 1.87    | 2.35           |
+| 33    | 42 33 Stormwater Curbside Drains and Inlets                          |        |             |             |      |          |       |           |         |                |
+| 33    | 42 33.13 Catch Basins                                                |        |             |             |      |          |       |           |         |                |
+| 0010  | CATCH BASINS                                                         |        |             |             |      |          |       |           |         |                |
+| 0011  | Not including footing & excavation                                   |        |             |             |      |          |       |           |         |                |
+| 1600  | Frames & grates, C.I., 24" square, 500 lb.                           | B-6    | 7.80        | 3.077       | Eo.  | 410      | 152   | 42        | 604     | 725            |
+| 1700  | 26" D shape, 600 lb.                                                 |        | 7           | 3.429       |      | 760      | 169   | 47        | 976     | 1,150          |
+| 1800  | Light traffi, 18" diameter, 100 lb.                                  |        | 10          | 2.400       | [    | 224      | 119   | 33        | 376     | 460            |
+| 1900  | 24" diameter, 300 lb.                                                |        | 8.70        | 2.759       |      | 216      | 136   | 38        | 390     | 485            |
+| 2000  | 36" diameter, 900 lb.                                                |        | 5.80        | 4.138       |      | 745      | 204   | 56.50     | 1,005.50| 1,200          |
+| 2100  | Heavy traffic, 24" diameter, 400 lb.                                 |        | 7.80        | 3.077       |      | 275      | 152   | 42        | 469     | 580            |
+| 2200  | 36" diameter, 1,150 lb.                                              |        | 3           | 8           |      | 990      | 395   | 110       | 1,495   | 1,800          |
+| 2300  | Mass. State standard, 26" diameter, 475 lb.                          |        | 7           | 3.429       |      | 720      | 169   | 47        | 936     | 1,100          |
+| 2400  | 30" diameter, 620 lb.                                                | B-6    | 7           | 3.429       | Ea.  | 395      | 169   | 47        | 611     | 740            |
+| 2500  | Watertight, 24" diameter, 350 lb.                                    |        | 7.80        | 3.077       |      | 445      | 152   | 42        | 639     | 765            |
+| 2600  | 26" diameter, 500 lb.                                                |        | 7           | 3.429       |      | 460      | 169   | 47        | 676     | 810            |
+| 2700  | 32" diameter, 575 lb.                                                |        | 6           | 4           |      | 950      | 198   | 55        | 1,203   | 1,400          |
+| 2800  | 3 piece cover & frame, 10" deep,                                    |        |             |             |      |          |       |           |         |                |
+| 2900  | 1,200 lb, for heavy equipment                                        | B-6    | 3           | 8           | Ea.  | 1,125    | 395   | 110       | 1,630   | 1,950          |
+| 3000  | Raised for paving 1-1/4" to 2" high                                  |        |             |             |      |          |       |           |         |                |
+| 3100  | 4 piece expansion ring                                               |        |             |             |      |          |       |           |         |                |
+| 3200  | 20" to 26" diameter                                                  | 1 Clab | 33          | 2.667       | Ea.  | 231      | 122   |           | 353     | 435            |
+| 3300  | 30" to 36" diameter                                                  |        |             | 2.667       |      | 370      | 122   |           | 492     | 590            |
+| 3320  | Frames and covers, existing, raised for paving, 2", including        |        |             |             |      |          |       |           |         |                |
+| 3340  | row of brick, concrete collar, up to 12" wide frame                  | B-6    | 18          | 1.333       | Ea.  | 54       | 66    | 18.25     | 138.25  | 178            |
+
+696 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 01 Operation and Maintenance of Utilities
+
+## 33 01 30 Operation and Maintenance of Sewer Utilities
+
+### 33 01 30.75 Cured-In-place Pipe Lining
+
+#### 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|---------|-----------|----------|----------------|
+| 2413  | 24", 12mm, Epoxy, 250k, 20ft                                         | C-17E  | 40           | 2           | LF    | 218      | 119     | .94       | 337.94   | 420            |
+| 2414  | 24", 12mm, Epoxy, 250k, 50ft                                         |        | 100          | .800        |       | 218      | 47.50   | .38       | 265.88   | 310            |
+| 2415  | 24", 12mm, Epoxy, 250k, 100ft                                        |        | 200          | .400        |       | 218      | 23.50   | .19       | 241.69   | 276            |
+| 24161 | 24", 12mm, Epoxy, 250k, 300ft                                        |        | 600          | .133        |       | 218      | 7.90    | .06       | 225.96   | 252            |
+| 2417  | 24", 12mm, Epoxy, 250k, 328ft                                        |        | 656          | .122        |       | 218      | 7.25    | .06       | 225.31   | 251            |
+| 2418  | 24", 12mm, Epoxy, 250k, Transitions, add                             |        |              |             |       | 20 %     |         |           |          |                |
+| 2419  | 24", 12mm, Epoxy, 250k, 45 and 90 deg, add                           |        |              |             |       | 50 %     |         |           |          |                |
+| 2430  | 24", 10.5mm, Epoxy, 400k, 2ft                                        | C-17E  | 4            | 20          |       | 191      | 1,175   | 9.40      | 1,375.40 | 2,000          |
+| 24311 | 24", 10.5mm, Epoxy, 400k, 4ft                                        |        | 8            | 10          |       | 191      | 595     | 4.70      | 790.70   | 1,100          |
+| 2432  | 24", 10.5mm, Epoxy, 400k, 10ft                                       |        | 20           | 4           |       | 191      | 237     | 1.88      | 429.88   | 565            |
+| 2433  | 24", 10.5mm, Epoxy, 400k, 20ft                                       |        | 40           | 2           |       | 191      | 119     | .94       | 310.94   | 390            |
+| 2434  | 24", 10.5mm, Epoxy, 400k, 50ft                                       |        | TOO          | .800        |       | 191      | 47.50   | 38        | 238.88   | 282            |
+| 2435  | 24", 10.5mm, Epoxy, 400k, 100ft                                      | C-17E  | 200          | .400        | L.F.  | 191      | 23.50   | .19       | 214.69   | 246            |
+| 2436  | 24", 10.5mm, Epoxy, 400k, 300ft                                      |        | 600.133      |             |       | 191      | 7.90    | .06       | 198.96   | 222            |
+| 2437  | 24", 10.5mm, Epoxy, 400k, 328ft                                      |        | 656          | .122        |       | 191      | 7.25    | .06       | 198.31   | 221            |
+| 2438  | 24", 10.5mm, Epoxy, 400k, Transitions, add                           |        |              |             |       | 20 %     |         |           |          |                |
+| 2439  | 24", 10.5mm, Epoxy, 400k, 45 and 90 deg, add                         |        |              |             |       | 50 %     |         |           |          |                |
+
+---
+
+## 33 05 Common Work Results for Utilities
+
+### 33 05 07 Trenchless Installation of Utility Piping
+
+#### 33 05 07.23 Utility Boring and Jacking
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|-------|----------------|
+| 0010  | UTILITY BORING AND JACKING                                |      |              |             |       |          |       |           |       |                |
+| 0011  | Casing only, 100' minimum,                                |      |              |             |       |          |       |           |       |                |
+| 0020  | not incl. jacking pits or dewatering                      |      |              |             |       |          |       |           |       |                |
+| 0100  | Roadwork, 1/2" thick wall, 24" diameter casing            | B-42 | 20           | 3.200       | LE    | 154      | 164   | 135       | 453   | 560            |
+| 0200  | 36" diameter                                              |      | 164          |             |       | 238      | 205   | 168       | 611   | 750            |
+| 0300  | 48" diameter                                              |      | 15           | 4.267       |       | 330      | 218   | 179       | 7271  | 885            |
+| 0500  | Railroad work, 24" diameter                               |      | 15           | 4.267       |       | 154      | 218   | 179       | 551   | 690            |
+| 0600  | 36" diameter                                              |      | 14           | 4.5711      |       | 238      | 234   | 192       | 664   | 820            |
+| 0700  | 48" diameter                                              |      | 12           | 5.333       |       | 330      | 273   | 224       | 827   | 1,025          |
+| 090C  | For ledge, odd                                            |      |              |             |       |          |       |           | 20 %  | 20 %           |
+
+---
+
+### 33 05 07.36 Microtunneling
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|-------|----------|-------|-----------|---------|----------------|
+| 0010  | MICROTUNNELING                                                       |      |              |             |       |          |       |           |         |                |
+| 0011  | Not including excavation, backfill, shoring,                         |      |              |             |       |          |       |           |         |                |
+| 0020  | or dewatering, average 50'/day, slurry method                        |      |              |             |       |          |       |           |         |                |
+| 0100  | 24" to 48" outside diameter, minimum                                 |      |              |             | LF    |          |       |           | 965     | 965            |
+| 0110  | Adverse conditions, add                                              |      |              |             | "     |          |       |           | 500     | 500            |
+| 1000  | Rent microtunneling machine, average monthly lease                   |      |              |             | Month |          |       |           | 97,500  | 107,000        |
+| 1010  | Operating technician                                                 |      |              |             | Day   |          |       |           | 630     | 705            |
+| 1100  | Mobilization and demobilization, minimum                             |      |              |             | Job   |          |       |           | 41,200  | 45,900         |
+| 1110  | Maximum                                                             |      |              |             |       |          |       |           | 445,500 | 490,500        |
+
+---
+
+## 33 05 61 Concrete Manholes
+
+### 33 05 61.10 Storm Drainage Manholes, Frames and Covers
+
+| ID    | Name                                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | STORM DRAINAGE MANHOLES, FRAMES & COVERS                 |      |              |             |        |          |        |           |         |                |
+| 0020  | Excludes footing, excavation, backfill (See line items for frame & cover) |      |              |             |        |          |        |           |         |                |
+| 0050  | Brick, 4' inside diameter, 4' deep                        | D-1  | 1            | 16          | Ea.    | 995      | 800    |           | 1,795   | 2,300          |
+| 0100  | 6' deep                                                   |      | .70          | 22.857      |        | 1,425    | 1,150  |           | 2,575   | 3,300          |
+| 0150  | 8' deep                                                   |      | .50          | 32          |        | 1,850    | 1,600  |           | 3,450   | 4,450          |
+| 0200  | Add for 1' depth increase                                 |      | 4            | 4           | V.L.F. | 250      | 201    |           | 451     | 575            |
+| 0400  | Concrete blocks (radial), 4' ID, 4' deep                  |      | 1.50         | 10.667      | Ea.    | 455      | 535    |           | 990     | 1,300          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 11 13 - Potable Water Supply Wells  
+## 13.10 Wells and Accessories
+
+### 0010 WELLS & ACCESSORIES
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0011  | Domestic                                                             |        |              |             |        |          |        |           |         |                |
+| 0100  | Drilled, 4" to 6" diameter                                           | B 23   | 120          | .333        | LF     | 15.35    | 9.70   |           | 25.05   | 33.50          |
+| 0200  | 8" diameter                                                          |        | 95.20        | .420        | P      | 19.35    | 12.20  |           | 31.55   | 42.50          |
+| 0400  | Gravel pack well, 40' deep, incl. gravel & casing, complete          |        |              |             |        |          |        |           |         |                |
+| 0500  | 24" diameter casing x 18" diameter screen                            | B 23   | 13           | 308         | Total  | 40,400   | 14,200 | 8,950     | 63,550  | 75,500         |
+| 0600  | 36" diameter casing x 18" diameter screen                            |        | .12          | 333         |        | 41,600   | 15,300 | 9,700     | 66,600  | 79,000         |
+| 0800  | Observation wells, 1-1/4" riserpipe                                  |        | 163          | .245        | V.L.F. | 18.95    | 11.30  | 7.15      | 37.40   | 45.50          |
+| 0900  | For flush Buffalo roadway box, add                                   | 1 Skwk | 16.60        | .482        | Ea.    | 54.50    | 28.50  |           | 83      | 103            |
+| 1200  | Test well, 2-1/2" diameter, up to 50' deep (15 to 50 GPM)            | B 23   | 1.51         | 26.490      |        | 935      | 1,225  | 770       | 2,930   | 3,700          |
+| 1300  | Over 50' deep, add                                                   |        | 121.80       | .328        | LF     | 25       | 15.10  | 9.55      | 49.65   | 60.50          |
+| 1500  | Pumps, installed in wells to 100' deep, 4" submersible               |        |              |             |        |          |        |           |         |                |
+| 1510  | 1/2 HP                                                               | Q-1    | 3.22         | 4.969       | Ea.    | 575      | 310    |           | 885     | 1,100          |
+| 1520  | 3/4 HP                                                               |        | 2.66         | 6.015       |        | 795      | 380    |           | 1,175   | 1,450          |
+| 1600  | 1 HP                                                                 |        | 2.29         | 6.987       |        | 935      | 440    |           | 1,375   | 1,675          |
+| 1700  | 1-1/2 HP                                                             | Q-22   | 1.60         | 10          |        | 1,250    | 630    | 1,250     | 3,130   | 3,675          |
+| 1800  | 2 HP                                                                 |        | 1.33         | 12.030      |        | 1,725    | 755    | 1,500     | 3,980   | 4,675          |
+| 1900  | 3 HP                                                                 |        | 1.14         | 14.035      |        | 2,325    | 880    | 1,750     | 4,955   | 5,800          |
+| 2000  | 5 HP                                                                 |        | 1.14         | 14.035      |        | 2,850    | 880    | 1,750     | 5,480   | 6,400          |
+| 3000  | Pump, 6" submersible, 25' to 150' deep, 25 HP, 103 to 400 GPM        | 1      | .89          | 17.978      |        | 9,725    | 1,125  | 2,225     | 13,075  | 14,800         |
+| 3100  | 25' to 500' deep, 30 HP, 104 to 400 GPM                              |        | .73          | 21.918      |        | 11,400   | 1,375  | 2,725     | 15,500  | 17,700         |
+| 8000  | Steel well casing                                                    | B-23A  | 3020         | .008        | Lb.    | 1.35     | .41    | .30       | 2.06    | 2.43           |
+| 9950  | See Section 31 23 19.40 for wellpoints                               |        |              |             |        |          |        |           |         |                |
+| 9960  | See Section 31 23 19.30 for drainage wells                           |        |              |             |        |          |        |           |         |                |
+
+---
+
+# 33 11 13.20 Water Supply Wells, Pumps
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | WATER SUPPLY WELLS, PUMPS                                            |        |              |             |        |          |        |           |         |                |
+| 0011  | With pressure control                                                |        |              |             |        |          |        |           |         |                |
+| 1000  | Deep well, jet, 42 gal. galvanized tank                              |        |              |             |        |          |        |           |         |                |
+| 1040  | 3/4 HP                                                               | 1 Plum | .80          | 10          | Ea.    | 1,175    | 700    |           | 1,875   | 2,350          |
+| 3000  | Shallow well, jet, 30 gal. galvanized tank                           |        |              |             |        |          |        |           |         |                |
+| 3040  | 1/2 HP                                                               | 1 Plum | 2            | 4           | Ea.    | 945      | 279    |           | 1,224   | 1,475          |
+
+---
+
+# 33 14 Water Utility Transmission and Distribution
+
+## 33 14 13 Public Water Utility Distribution Piping
+
+### 33 14 13.15 Water Supply, Ductile Iron Pipe
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | WATER SUPPLY, DUCTILE IRON PIPE R331113-80                           |        |              |             |        |          |        |           |         |                |
+| 0020  | Not including excavation or backfill                                 |        |              |             |        |          |        |           |         |                |
+| 2000  | Pipe, class 50 water piping, 18' lengths                             |        |              |             |        |          |        |           |         |                |
+| 2020  | Mechanical joint, 4" diameter                                        | B-21   | 200          | .140        | LF.    | 57       | 7.35   | .87       | 65.22   | 74.50          |
+| 2040  | 6" diameter                                                          |        | 160          | .175        |        | 70       | 9.20   | 1.08      | 80.28   | 92             |
+| 2060  | 8" diameter                                                          |        | 133.33       | .210        |        | 97.50    | 11.05  | 1.30      | 109.85  | 125            |
+| 2080  | 10" diameter                                                         |        | 114.29       | .245        |        | 126      | 12.85  | 1.52      | 140.371 | 160            |
+| 2100  | 12" diameter                                                         |        | 105.26       | .266        |        | 157      | 13.95  | 1.65      | 172.60  | 196            |
+| 2120  | 14" diameter                                                         |        | 100          | .280        |        | 120      | 14.70  | 1.73      | 136.43  | 156            |
+| 2140  | 16" diameter                                                         |        | 72.73        | .385        |        | 122      | 20     | 2.38      | 144.38  | 167            |
+| 2160  | 18" diameter                                                         |        | 68.97        | .406        |        | 163      | 21.50  | 2.51      | 187.01  | 215            |
+| 2170  | 20" diameter                                                         |        | 57.14        | .490        |        | 165      | 25.50  | 3.03      | 193.53  | 223            |
+| 2180  | 24" diameter                                                         |        | 47.06        | .595        |        | 182      | 31     | 3.68      | 216.68  | 251            |
+| 3000  | Push-on joint, 4" diameter                                           |        | 400          | .070        |        | 24       | 3.68   | .43       | 28.11   | 32.50          |
+| 3020  | 6" diameter                                                          |        | 333.33       | .084        |        | 23.50    | 4.41   | .52       | 28.43   | 33             |
+| 3040  | 8" diameter                                                          |        | 200          | .140        |        | 33       | 7.35   | .87       | 41.22   | 48.50          |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 33335 Common Wo05 Results foCommonities
+
+## 33 05 61 Concrete ManhWork
+
+### 33 05 61.10 Storm Drainage Manholes, Frames and Covers
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0500 | 6' deep                                           | D-1    | 1            | 16          | Ea.    | 590      | 800   |           | 1,390    | 1,850          |
+| 0600 | 8' deep                                           | D-1    | .70          | 22.857      | Ea.    | 720      | 1,150 |           | 1,870    | 2,525          |
+| 0700 | For depths over 8', add                           | N      | 5.50         | 2.909       | V.LF.  | 68.50    | 146   |           | 214.50   | 295            |
+| 0800 | Concrete, cast in place, 4' x 4', 8" thick, 4' deep| C-14H  | 2            | 24          | Ea.    | 790      | 1,325 | 13.90     | 2,128.90 | 2,850          |
+| 0900 | 6' deep                                           |        | 1.50         | 32          |        | 1,150    | 1,750 | 18.55     | 2,918.55 | 3,900          |
+| 1000 | 8' deep                                           |        | 1            | 48          |        | 1,650    | 2,650 | 28        | 4,328    | 5,750          |
+| 1100 | For depths over 8', add                           |        | 8            | 6           | V.L.F. | 186      | 330   | 3.48      | 519.48   | 700            |
+| 1110 | Precast, 4' ID, 4' deep                           | B-22   | 4.10         | 7.317       | Ea.    | 1,025    | 390   | 63.50     | 1,478.50 | 1,775          |
+| 1120 | 6' deep                                           |        | 3            | 10          |        | 1,200    | 530   | 86.50     | 1,816.50 | 2,225          |
+| 1130 | 8' deep                                           |        | 2            | 15          |        | 2,125    | 800   | 130       | 3,055    | 3,675          |
+| 1140 | For depths over 8', add                           | V      | 16           | 1.875       | V.L.F. | 119      | 100   | 16.25     | 235.25   | 298            |
+| 1150 | 5' ID, 4' deep                                    | B-6    | 3            | 82          | Ea.    | 2,100    | 395   | 110       | 2,605    | 3,000           |
+| 1160 | 6' deep                                           |        | 12           | 12          |        | 3,625    | 595   | 164       | 4,384    | 5,025          |
+| 1170 | 8' deep                                           |        | 1.52         | 16          |        | 3,075    | 790   | 219       | 4,084    | 4,800          |
+| 1180 | For depths over 8', add                           |        | 12           | 2           | V.L.F. | 525      | 99    | 27.50     | 651.50   | 750            |
+| 1190 | 6' ID, 4' deep                                    |        | 2            | 12          | Ea.    | 2,325    | 595   | 164       | 3,084    | 3,625          |
+| 1200 | 6' deep                                           |        | 1.50         | 16          |        | 5,125    | 790   | 219       | 6,134    | 7,050          |
+| 1210 | 8' deep                                           |        | 1            | 24          |        | 6,000    | 1,175 | 330       | 7,505    | 8,725          |
+| 1220 | For depths over 8', add                           |        | 8            | 3           | V.L.F. | 475      | 148   | 41        | 664      | 785            |
+| 1250 | Slab tops, precast, 8" thick                      |        |              |             |        |          |       |           |          |                |
+| 1300 | 4' diameter manhole                               | B-6    | 8            | 3           | Ea.    | 190      | 148   | 41        | 379      | 475            |
+| 1400 | 5' diameter manhole                               |        | 17.50        | 3.200       |        | 325      | 158   | 44        | 527      | 645            |
+| 1500 | 6' diameter manhole                               |        | 17           | 3.429       |        | 700      | 169   | 47        | 916      | 1,075          |
+| 3800 | Steps, heavyweight cast iron, 7" x 9"             | 1 Bric | 40           | 2001        |        | 17.90    | 11.05 |           | 28.95    | 36.5           |
+| 3900 | 8" x 9"                                           |        | 40           | .200        |        | 21.50    | 11.05 |           | 32.55    | 40             |
+| 3928 | 12" x 10-1/2"                                     |        | 40           | .200        |        | 63       | 11.05 |           | 74.05    | 86             |
+| 4000 | Standard sizes, galvanized steel                  |        | 40           | .200        |        | 25       | 11.05 |           | 36.05    | 44             |
+| 4100 | Aluminum                                          |        | 40           | .200        |        | 32       | 11.05 |           | 43.05    | 51.5           |
+| 4150 | Polyethylene                                      |        | 40           | .200        |        | 34       | 11.05 |           | 45.05    | 54             |
+
+---
+
+## 33 05 63 Concrete Vaults and Chambers
+
+### 33 05 63.13 Precast Concrete Utility Structures
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010 | PRECAST CONCRETE UTILITY STRUCTURES, 6" thick     | +3     |              |             |        |          |       |           |          |                |
+| 0050 | 5' x 10' x 6' high, ID                            | B-13   | 22           | 28          | Ea.    | 1,975    | 1,400 | 1,050     | 4,425    | 5,400          |
+| 0100 | 6' x 10' x 6' high, ID                            |        |              | 28          |        | 2,050    | 1,400 | 1,050     | 4,500    | 5,500          |
+| 0150 | 5' x 12' x 6' high, ID                            |        | 2            | 28          |        | 2,175    | 1,400 | 1,050     | 4,625    | 5,625          |
+| 0200 | 6' x 12' x 6' high, ID                            |        | 1.80         | 31.111      |        | 2,450    | 1,550 | 1,175     | 5,175    | 6,250          |
+| 0250 | 6' x 13' x 6' high, ID                            |        | 1.50         | 37.333      |        | 3,200    | 1,850 | 1,400     | 6,450    | 7,800          |
+| 0300 | 8' x 14' x 7' high, ID                            |        |              | 56          |        | 3,450    | 2,775 | 2,100     | 8,325    | 10,200         |
+| 0350 | Hand hole, precast concrete, 1-1/2" thick         |        |              |             |        |          |       |           |          |                |
+| 0400 | 1'-0" x 2'-0" x 1'-9", ID, light duty             | B-1    | 4            |             | Ea.    | 440      | 278   |           | 718      | 900            |
+| 0450 | 4'-6" x 3-2" x 2'-0", OD, heavy duty              | B-6    | 3            | 8           | Y      | 2,050    | 395   | 110       | 2,555    | 2,950          |
+
+---
+
+## 33 05 97 Identification and Signage for Utilities
+
+### 33 05 97.05 Utility Connection
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010 | UTILITY CONNECTION                                |        |              |             |        |          |       |           |          |                |
+| 0020 | Water, sanitary, stormwater, gas, single connection| B-14   | 1            | 48          | Ea.    | 3,050    | 2,300 | 330       | 5,680    | 7,125          |
+| 0030 | Telecommunication                                 |        | 3            | 16          | "      | 415      | 765   | 110       | 1,290    | 1,725          |
+
+### 33 05 97.10 Utility Accessories
+
+| ID   | Name                                              | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total    | Total Incl O&P |
+|------|---------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|----------|----------------|
+| 0010 | UTILITY ACCESSORIES                               |        |              |             |        |          |       |           |          |                |
+| 0400 | Underground tape, detectable, reinforced, alum. foil core, 2" | 1 Clab | 150 | .053 | C.L.F. | 2 | 2.43 | | 4.43 | 5.8 |
+
+---
+
+686 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33316 Water Utility Storage Waters
+
+## 33 16 36 - Ground Utility Reinforced Concrete Storage Tanks
+
+### Daily Labor Tanks 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material   | Labor   | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|------------|---------|-----------|------------|----------------|
+| 0700  | 6,000,000 gallons                                                    |      |              |             | Ea.  |            |         |           | 2,266,000  | 2,493,000      |
+| 0750  | 8,000,000 gallons                                                    |      |              |             |      |            |         |           | 2,924,000  | 3,216,000      |
+| 0800  | 10,000,000 gallons                                                   |      |              |             |      |            |         |           | 3,533,000  | 3,886,000      |
+
+---
+
+## 33 16 56 - Ground-Level Plastic Water Storage Cisterns
+
+### 33 16 56.23 Plastic-Coated Fabric Pillow Water Tanks
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material   | Labor   | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|------------|---------|-----------|------------|----------------|
+| 7000  | Water tanks, vinyl coated fabric pillow tanks, freestanding, 5,000 gallons | 4 Clab | 4            | 88          | Ea.  | 3,175      | 365     |           | 3,540      | 4,050          |
+| 7100  | Supporting embankment not included, 25,000 gallons                   | 6 Clab | 2            | 24          |      | 11,000     | 1,100   |           | 12,100     | 13,700         |
+| 7200  | 50,000 gallons                                                       | 8 Clab | 1.50         | 42.667      |      | 16,900     | 1,950   |           | 18,850     | 21,500         |
+| 7300  | 100,000 gallons                                                      | 9 Clab | 0.90         | 80          |      | 30,200     | 3,650   |           | 33,850     | 38,700         |
+| 7400  | 150,000 gallons                                                      |       | 0.50         | 144         |      | 35,700     | 6,575   |           | 42,275     | 49,100         |
+| 7500  | 200,000 gallons                                                      |       | 0.40         | 180         |      | 57,500     | 8,200   |           | 65,700     | 75,500         |
+| 7600  | 250,000 gallons                                                      |       | 0.30         | 240         |      | 71,500     | 10,900  |           | 82,400     | 95,500         |
+
+---
+
+## 33 31 - Sanitary Sewerage Piping
+
+### 33 31 11 - Public Sanitary Sewerage Gravity Piping
+
+| ID    | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|---------------------|------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 3416  | 16" diameter        | B-21 | 80           | 0.350       | LF   | 237      | 18.40  | 2.17      | 257.57   | 290            |
+| 3418  | 18" diameter        | B-13B| 80           | 0.700       |      | 415      | 34.50  | 28.50     | 478      | 540            |
+| 3420  | 20" diameter        |      | 60           | 0.933       |      | 450      | 46.50  | 38        | 534.50   | 605            |
+| 3424  | 24" diameter        |      | 60           | 0.933       |      | 610      | 46.50  | 38        | 694.50   | 780            |
+| 3436  | 36" diameter        |      | 40           | 1.400       |      | 950      | 69.50  | 56.50     | 1,076    | 1,225          |
+
+---
+
+### 33 31 11.25 - Sewage Collection, Polyvinyl Chloride Pipe
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2000  | 20' lengths, SDR 35, B&S, 4" diameter                                | B 20 | 375          | 0.064       | LE   | 2.21     | 3.24  |           | 5.45  | 7.30           |
+| 2040  | 6" diameter                                                          |      | 350          | 0.069       |      | 4.26     | 3.48  |           | 7.74  | 9.90           |
+| 2080  | 13' lengths, SDR 35, B&S, 8" diameter                                |      | 335          | 0.072       |      | 12.70    | 3.63  |           | 16.33 | 19.40          |
+| 2120  | 10" diameter                                                         | B 21 | 330          | 0.085       |      | 12.05    | 4.46  | 0.53      | 17.04 | 20.50          |
+| 2160  | 12" diameter                                                         |      | 320          | 0.088       |      | 16.95    | 4.59  | 0.54      | 22.08 | 26             |
+| 2170  | 14" diameter                                                         |      | 280          | 1.100       |      | 23.50    | 5.25  | 0.62      | 29.371| 34             |
+| 2200  | 15" diameter                                                         |      | 240          | 0.117       |      | 28.50    | 6.15  | 0.72      | 35.37 | 41.50          |
+| 2250  | 16" diameter                                                         |      | 220          | 0.127       |      | 34.50    | 6.70  | 0.79      | 41.99 | 49             |
+| 4000  | Piping, DWV PVC, no exc./bkfill, 10' L, Sch 40, 4" diameter          | B 20 | 375          | 0.064       |      | 8.55     | 3.24  |           | 11.79 | 14.25          |
+| 4010  | 6" diameter                                                          |      | 350          | 0.069       |      | 20.50    | 3.48  |           | 23.98 | 27.50          |
+| 4020  | 8" diameter                                                          |      | 335          | 0.072       |      | 32.50    | 3.63  |           | 36.13 | 41.50          |
+
+---
+
+### 33 31 11.37 - Centrif. Cst. Fbgs - Reinf. Polymer Mort. Util. Pipe
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|-------|----------------|
+| 3348  | 48" diameter, SN 46, 25psi                                           | B-13B| 40           | 1.400       | LF   | 196      | 69.50  | 56.50     | 322   | 380            |
+| 3354  | 54" diameter                                                         |      | 40           | 1.400       |      | 320      | 69.50  | 56.50     | 446   | 515            |
+| 3363  | 63" diameter                                                         |      | 20           | 2.800       |      | 395      | 139    | 113       | 647   | 765            |
+| 3418  | 18" diameter, 100psi                                                 |      | 60           | 0.933       |      | 139      | 46.50  | 38        | 223.50| 264            |
+| 3424  | 24" diameter                                                         |      | 60           | 0.933       |      | 153      | 46.50  | 38        | 237.50| 279            |
+| 3436  | 36" diameter                                                         |      | 40           | 1.400       |      | 173      | 69.50  | 56.50     | 299   | 355            |
+| 3444  | 44" diameter                                                         |      | 40           | 1.400       |      | 190      | 69.50  | 56.50     | 316   | 375            |
+| 3448  | 48" diameter                                                         |      | 40           | 1.400       |      | 212      | 69.50  | 56.50     | 338   | 400            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33334 Water Utility Transmission Water and Distribution
+
+## 3Utility - Valves and Hydrants for Water Utility Service
+
+### 33 14 19.30 Fire Hydrants
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-----------|----------------|
+| 0010  | FIRE HYDRANTS                                                        |      |              |             |      |          |       |           |           |                |
+| 0020  | Mechanical joints unless otherwise noted                              |      |              |             |      |          |       |           |           |                |
+| 1000  | Fire hydrants, two way; excavation and backfill not incl.             |      |              |             |      |          |       |           |           |                |
+| 1100  | 4-1/2" valve size, depth 2'-0"                                       | B-21 | 10           | 2.800       | Ea.  | 3,075    | 147   | 17.35     | 3,239.35  | 3,65           |
+| 1120  | 2'-6"                                                                |      | 10           | 2.800       |      | 3,075    | 147   | 17.35     | 3,239.35  | 3,65           |
+| 1140  | 3'0"                                                                 |      | 10           | 2.800       |      | 3,200    | 147   | 17.35     | 3,364.35  | 3,77           |
+| 1300  | 7'0"                                                                 |      | 6            | 4.667       |      | 3,675    | 245   | 29        | 3,949     | 4,45           |
+| 2400  | Lower barrel extensions with stems, 1'0"                             | B-20 | 14           | 1.714       |      | 655      | 87    |           | 742       | 85             |
+| 2480  | 3'0"                                                                 | "    | 12           | 2           |      | 1,375    | 101   |           | 1,476     | 1,65           |
+
+---
+
+## 33 16 Water Utility Storage Tanks
+
+### 33 16 11 Elevated Composite Water Storage Tanks
+
+#### 33 16 11.50 Elevated Water Storage Tanks
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|------------|----------------|
+| 0010  | ELEVATED WATER STORAGE TANKS                                         |      |              |             |      |          |       |           |            |                |
+| 0011  | Not inc. pipe, pumps or foundation                                   |      |              |             |      |          |       |           |            |                |
+| 3000  | Elevated water tanks, 100' to bottom capacity line, incl. painting   |      |              |             | Ea.  |          |       |           | 185,000    | 204,00         |
+| 3010  | 50,000 gallons                                                       |      |              |             |      |          |       |           | 185,000    | 204,00         |
+| 3300  | 100,000 gallons                                                      |      |              |             |      |          |       |           | 280,000    | 307,50         |
+| 3400  | 250,000 gallons                                                      |      |              |             |      |          |       |           | 751,500    | 826,50         |
+| 3600  | 500,000 gallons                                                      |      |              |             |      |          |       |           | 1,336,000  | 1,470,00       |
+| 3700  | 750,000 gallons                                                      |      |              |             |      |          |       |           | 1,622,000  | 1,783,50       |
+| 3900  | 1,000,000 gallons                                                    |      |              |             |      |          |       |           | 2,322,000  | 2,556,00       |
+
+---
+
+### 33 16 23 - Ground-Level Steel Water Storage Tanks
+
+#### 33 16 23.13 Steel Water Storage Tanks
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|------------|----------------|
+| 0010  | STEEL WATER STORAGE TANKS                                            |      |              |             |      |          |       |           |            |                |
+| 0910  | Steel, ground level, ht./diam. less than 1, not incl. fdn, 100,000 gallons |      |              |             | Ea.  |          |       |           | 202,000    | 244,50         |
+| 1000  | 250,000 gallons                                                      |      |              |             |      |          |       |           | 295,500    | 324,00         |
+| 1200  | 500,000 gallons                                                      |      |              |             |      |          |       |           | 417,000    | 458,50         |
+| 1250  | 750,000 gallons                                                      |      |              |             |      |          |       |           | 538,000    | 591,50         |
+| 1300  | 1,000,000 gallons                                                    |      |              |             |      |          |       |           | 558,000    | 725,50         |
+| 1500  | 2,000,000 gallons                                                    |      |              |             |      |          |       |           | 1,043,000  | 1,148,00       |
+| 1600  | 4,000,000 gallons                                                    |      |              |             |      |          |       |           | 2,121,000  | 2,333,00       |
+| 1800  | 6,000,000 gallons                                                    |      |              |             |      |          |       |           | 3,095,000  | 3,405,00       |
+| 1850  | 8,000,000 gallons                                                    |      |              |             |      |          |       |           | 4,068,000  | 4,475,00       |
+| 1910  | 10,000,000 gallons                                                   |      |              |             |      |          |       |           | 5,050,000  | 5,554,50       |
+| 2100  | Steel standpipes, ht./diam. more than 1, 100' to overflow, no fdn.   |      |              |             |      |          |       |           |            |                |
+| 2200  | 500,000 gallons                                                      |      |              |             | Ea.  |          |       |           | 546,500    | 600,50         |
+| 2400  | 750,000 gallons                                                      |      |              |             |      |          |       |           | 722,500    | 794,50         |
+| 2500  | 1,000,000 gallons                                                    |      |              |             |      |          |       |           | 1,060,500  | 1,167,00       |
+| 2700  | 1,500,000 gallons                                                    |      |              |             |      |          |       |           | 1,749,000  | 1,923,00       |
+| 2800  | 2,000,000 gallons                                                    |      |              |             |      |          |       |           | 2,327,000  | 2,559,00       |
+
+---
+
+### 33 16 36 - Ground-Level Reinforced Concrete Water Storage Tanks
+
+#### 33 16 36.16 Prestressed Conc. Water Storage Tanks
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total      | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|------------|----------------|
+| 0010  | PRESTRESSED CONC. WATER STORAGE TANKS                                |      |              |             |      |          |       |           |            |                |
+| 0020  | Not including fdn., pipe or pumps, 250,000 gallons                   |      |              |             | Ea.  |          |       |           | 299,000    | 329,50         |
+| 0100  | 500,000 gallons                                                      |      |              |             |      |          |       |           | 487,000    | 536,00         |
+| 0300  | 1,000,000 gallons                                                    |      |              |             |      |          |       |           | 707,000    | 807,50         |
+| 0400  | 2,000,000 gallons                                                    |      |              |             |      |          |       |           | 1,072,000  | 1,179,00       |
+| 0600  | 4,000,000 gallons                                                    |      |              |             |      |          |       |           | 1,706,000  | 1,877,00       |
+
+---
+
+690 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 42 Stormwater Conveyance  
+Stormwater - Stormwater Gravity Piping  
+33 42 Conveyanceage/Drainage Collection, Concrete Pipe  
+
+Daily Labor-  
+Crew Output Hours Unit Material  
+2022 Bare Costs  
+Total  
+Labor  
+Equipment  
+Total  
+Incl O&P  
+
+| ID    | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | SEWAGE / DRAINAGE COLLECTION, CONCRETE PIPE                          |       |              |             |        |          |        |           |         |                |
+| 0020  | Not including excavation or backfill                                 |       |              |             |        |          |        |           |         |                |
+| 1000  | Non-reinforced pipe, extra strength, B & S or T & G joints           |       |              |             |        |          |        |           |         |                |
+| 1010  | 6" diameter                                                          | B 14  | 265.04       | .181        | LF     | 10.80    | 8.65   | 1.24      | 20.69   | 26             |
+| 1020  | 8" diameter                                                          |       | 224          | 214         |        | 11.90    | 10.25  | 1.47      | 23.62   | 30             |
+| 1030  | 10" diameter                                                         |       | 216.222      |             |        | 13.20    | 10.65  | 1.52      | 25.37   | 32             |
+| 1040  | 12" diameter                                                         |       | 200          | .240        |        | 13.70    | 11.50  | 1.64      | 26.84   | 34             |
+| 1050  | 15" diameter                                                         |       | 180          | .267        |        | 19.70    | 12.75  | 1.83      | 34.28   | 42.50          |
+| 1060  | 18" diameter                                                         |       | 144          | .333        |        | 24.50    | 15.95  | 2.28      | 42.73   | 53             |
+| 1070  | 21" diameter                                                         |       | 112          | .429        |        | 26       | 20.50  | 2.94      | 49.44   | 62             |
+| 1080  | 24" diameter                                                         |       | 100          | .480        |        | 30       | 23     | 3.29      | 56.29   | 70.50          |
+| 2000  | Reinforced culvert, class 3, no gaskets                              |       |              |             |        |          |        |           |         |                |
+| 2010  | 12" diameter                                                         | B-14  | 150          | .320        | LF     | 19.95    | 15.30  | 2.19      | 37.44   | 47.50          |
+| 2020  | 15" diameter                                                         |       | 150          | 320         |        | 24       | 15.30  | 2.19      | 41.49   | 51.50          |
+| 2030  | 18" diameter                                                         | 1132  |              | .364        |        | 27.50    | 17.40  | 2.49      | 47.39   | 59             |
+| 2035  | 21" diameter                                                         |       | 120          | .400        |        | 32.50    | 19.15  | 2.74      | 54.39   | 67             |
+| 2040  | 24" diameter                                                         |       | 100          | .480        |        | 40       | 23     | 3.29      | 66.29   | 81.50          |
+| 2045  | 27" diameter                                                         | B-13  | 92           | .609        | LE     | 45.50    | 30     | 232       | 98.50   | 120            |
+| 2050  | 30" diameter                                                         |       | 88           | .636        |        | 55       | 31.50  | 24        | 110.50  | 134            |
+| 2060  | 36" diameter                                                         |       | 72           | .778        | 1      | 94       | 38.50  | 29        | 161.50  | 193            |
+| 2070  | 42" diameter                                                         | B-13B | 68           | .824        |        | 133      | 41     | 33.50     | 207.50  | 244            |
+| 2080  | 48" diameter                                                         |       | 64           | .875        |        | 177      | 43.50  | 35.50     | 256     | 298            |
+| 2085  | 54" diameter                                                         |       | 56           | 1           |        | 181      | 49.50  | 40.50     | 271     | 320            |
+| 2090  | 60" diameter                                                         |       | 48           | 1.167       | 1      | 214      | 58     | 47.50     | 319.50  | 375            |
+| 2100  | 72" diameter                                                         |       | 40           | 1.400       |        | 305      | 69.50  | 56.50     | 431     | 505            |
+| 2120  | 84" diameter                                                         |       | 32           | 1.750       |        | 500      | 87     | 71        | 658     | 755            |
+| 2140  | 96" diameter                                                         |       | 24           | 2.333       |        | 600      | 116    | 94.50     | 810.50  | 935            |
+| 2200  | With gaskets, class 3, 12" diameter                                  | B 21  | 168          | .167        |        | 22       | 8.75   | 1.03      | 31.78   | 38             |
+| 2220  | 15" diameter                                                         |       | 160          | .175        |        | 26       | 9.20   | 1.08      | 36.28   | 43.50          |
+| 2230  | 18" diameter                                                         |       | 152.184      |             |        | 30.50    | 9.65   | 1.14      | 41.29   | 417            |
+| 2235  | 21" diameter                                                         |       | 152.184      |             |        | 35.50    | 9.65   | 1.14      | 46.29   | 54.50          |
+| 2240  | 24" diameter                                                         |       | 136.206      |             |        | 49       | 10.80  | 1.27      | 61.07   | 71.50          |
+| 2260  | 30" diameter                                                         | B 13  | 88           | .636        |        | 66       | 31.50  | 242       | 121.50  | 146            |
+| 2270  | 36" diameter                                                         | "     | 72           | .778        |        | 107      | 38.50  | 29        | 174.50  | 208            |
+| 2290  | 48" diameter                                                         | B 13B | 64           | .875        |        | 195      | 43.50  | 35.50     | 274     | 320            |
+| 2310  | 72" diameter                                                         | "     | 40           | 1.400       |        | 335      | 69.50  | 56.50     | 461     | 535            |
+| 2330  | Flared ends, 12" diameter                                            | B-21  | 31.903       |             | Ea     | 340      | 47.50  | 5.60      | 393.10  | 450            |
+| 2340  | 15" diameter                                                         |       | 25           | 1.120       |        | 365      | 59     | 6.95      | 430.95  | 495            |
+| 2400  | 18" diameter                                                         |       | 20           | 1.400       |        | 405      | 73.50  | 8.65      | 487.15  | 565            |
+| 2420  | 24" diameter                                                         |       | 14           | 2           |        | 485      | 105    | 12.40     | 602.40  | 705            |
+| 2440  | 36" diameter                                                         | B-13  | 10           | 5.600       |        | 1,125    | 278    | 209       | 1,612   | 1,900          |
+| 3080  | Radius pipe, add to pipe prices, 12" to 60" diameter                 |       |              |             | LF     | .        | 50 %   |           |         |                |
+| 3090  | Over 60" diameter, add                                               |       |              |             | "      |          | 20 %   |           |         |                |
+| 3500  | Reinforced elliptica, 8' lengths, C507 class 3                       |       |              |             |        |          |        |           |         |                |
+| 3520  | 14" x 23" inside, round equivalent 18" diameter                      | B-21  | 82           | .341        | L.F.   | 39.50    | 17.95  | 2.11      | 59.56   | 73             |
+| 3524  | 18" x 29" inside, round equivalent 30" diameter                      | B-13  | 58           | .966        |        | 53.50    | 48     | 36        | 137.50  | 170            |
+| 3525  | 22" x 36" inside, round equivalent 30" diameter                      |       | 58           | .966        |        | 71       | 48     | 36        | 155     | 189            |
+| 3530  | 24" x 38" inside, round equivalent 30" diameter                      |       | 58           | .966        |        |          | 48     | 36        | 155     | 189            |
+| 3540  | 29" x 45" inside, round equivalent 36" diameter                      |       | 52           | 1.077       |        | 98       | 53.50  | 40        | 191.50  | 232            |
+| 3550  | 38" x 60" inside, round equivalent 48" diameter                      |       | 38           | 1.474       |        | 198      | 73     | 55        | 326     | 390            |
+| 3560  | 48" x 76" inside, round equivalent 60" diameter                      |       | 26           | 2.154       |        | 262      | 107    | 80.50     | 449.50  | 535            |
+| 3570  | 58" x 91" inside, round equivalent 72" diameter                      |       | 22           | 2.545       |        | 460      | 126    | 95        | 681     | 800            |
+
+support your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer on
+
+# 33 14 Water Utility Transmission and Distribution  
+## Utility13 - Public Water Transmission/Distribution Piping  
+### 33 14 13.25 Water Supply and Polyvinyl Chloride Distribution
+
+#### Daily Labor
+
+#### 2022 Bare Costs
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 3050  | 18 " diameter                             | B-21  | 160         | .175        | L.F. | 24.50    | 9.20  | 1.08      | 34.78   | 42             |
+| 3060  | 20 " diameter                             |       | 133         | .211        |      | 30.50    | 11.05 | 1.30      | 42.85   | 51.50          |
+| 3070  | 24 " diameter                             |       | 107         | .262        |      | 45.50    | 13.75 | 1.62      | 60.87   | 72.50          |
+| 3080  | 30 " diameter                             |       | 80          | .350        |      | 76.50    | 18.40 | 2.17      | 97.07   | 114            |
+| 3090  | 36 " diameter                             |       | 80          | 350         |      | 118      | 18.40 | 2.17      | 138.57  | 159            |
+| 3100  | 42 " diameter                             |       | 60          | .467        |      | 159      | 24.50 | 2.89      | 186.39  | 215            |
+| 3200  | 48 " diameter                             |       | 60          | .467        |      | 203      | 24.50 | 2.89      | 230.39  | 263            |
+| 4520  | Pressure pipe Class 150, SDR 18, AWWA C900, 4" diameter | B-20  | 380         | .063        |      | 4.09     | 3.20  |           | 7.29    | 9.30           |
+| 4530  | 6 " diameter                              | "     | 316         | .076        |      | 5.95     | 3.85  |           | 9.80    | 12.25          |
+| 4540  | 8 " diameter                              | B-21  | 264         | .106        |      | 7.60     | 5.55  | .66       | 13.81   | 17.35          |
+| 4550  | 10 " diameter                             |       | 220         | .127        |      | 10.30    | 6.70  | .79       | 17.79   | 22             |
+| 4560  | 12 " diameter                             |       | 186.151     |             |      | 14.05    | 7.90  | .93       | 22.88   | 28.50          |
+| 8000  | Fittings with rubber gasket               |       |             |             |      |          |       |           |         |                |
+| 8003  | Class 150, DR 18                          |       |             |             |      |          |       |           |         |                |
+| 8006  | 90° bend, 4" diameter                     | B-20  | 22222222222 | 402222|22Ea2.22222222222452G | 12.15 |           | 57.15   | 67.50          |
+| 8020  | 6 " diameter                              |       | 90          | .267        |      | 80.50    | 13.50 |           | 94      | 109            |
+| 8040  | 8 " diameter                              | B-21  | 80          | .350        |      | 155      | 18.40 | 2.17      | 175.57  | 201            |
+| 8060  | 10 " diameter                             |       | 50          | .560        |      | 300      | 29.50 | 3.47      | 332.97  | 385            |
+| 8080  | 12 " diameter                             |       | 30          | .933        |      | 450      | 49    | 5.80      | 504.80  | 575            |
+| 8100  | Tee, 4 " diameter                         |       | 90          | .311        |      | 62       | 16.35 | 1.93      | 80.28   | 95             |
+| 8120  | 6 " diameter                              |       | 80          | .350        |      | 139      | 18.40 | 2.17      | 159.57  | 183            |
+| 8140  | 8 " diameter                              |       | 70          | .400        |      | 198      | 21    | 2.48      | 221.48  | 252            |
+| 8160  | 10 " diameter                             |       | 40          | .700        |      | 236      | 37    | 4.33      | 277.33  | 320            |
+| 8180  | 12 " diameter                             |       | 20          | 1.400       |      | 390      | 73.50 | 8.65      | 472.15  | 550            |
+| 8200  | 45° bend, 4 " diameter                    | B-20  | 100         | .240        |      | 45       | 12.15 |           | 57.15   | 67.50          |
+| 8220  | 6 " diameter                              | 群    | 90          | .267        |      | 76       | 13.50 |           | 89.50   | 104            |
+| 8240  | 8 " diameter                              | B-21  | 50          | .560        |      | 121      | 29.50 | 3.47      | 153.97  | 182            |
+| 8260  | 10 " diameter                             |       | 50          | .560        |      | 190      | 29.50 | 3.47      | 222.971 | 257            |
+| 8280  | 12 " diameter                             |       | 130         | .933        |      | 258      | 49    | 5.80      | 312.80  | 360            |
+| 8300  | Reducing tee 6 " x 4 "                    |       | 100         | .280        |      | 135      | 14.70 | 1.73      | 151.43  | 173            |
+| 8320  | 8 " x 6 "                                 |       | 90          | .311        |      | 241      | 16.35 | 1.93      | 259.28  | 292            |
+| 8330  | 10 " x 6 "                                |       | 90          | .311        |      | 211      | 16.35 | 1.93      | 229.28  | 259            |
+| 8340  | 10 " x 8 "                                |       | 90          | .311        |      | 226      | 16.35 | 1.93      | 244.28  | 275            |
+| 8350  | 12 " x 6 "                                |       | 90          | .311        |      | 283      | 16.35 | 1.93      | 301.28  | 335            |
+| 8360  | 12 " x 8 "                                |       | 90          | .311        |      | 315      | 16.35 | 1.93      | 333.28  | 370            |
+| 8400  | Tapped service tee (threaded type) 6 " x 6" x 3/4 " |       | 100         | .280        |      | 102      | 14.70 | 1.73      | 118.43  | 137            |
+| 8430  | 6 " x 6 " x 1 "                           |       | 90          | .311        |      | 102      | 16.35 | 1.93      | 120.28  | 140            |
+| 8440  | 6 " x 6 " x 1-1/2 "                       |       | 90          | .311        |      | 102      | 16.35 | 1.93      | 120.28  | 140            |
+| 8450  | 6 " x 6 " x 2 "                           |       | 90          | .311        |      | 102      | 16.35 | 1.93      | 120.28  | 140            |
+| 8460  | 8 " x 8 " x 3/4 "                         | B-21  | 90          | .311        | Ea   | 151      | 16.35 | 1.93      | 169.28  | 193            |
+| 8470  | 8 " x 8 " x 1 "                           |       | 90          | .311        |      | 151      | 16.35 | 1.93      | 169.28  | 193            |
+| 8480  | 8 " x 8 " x 1-1/2 "                       |       | 90          | .311        |      | 151      | 16.35 | 1.93      | 169.28  | 193            |
+| 8490  | 8 " x 8 " x 2 "                           |       | 90          | .311        |      | 151      | 16.35 | 1.93      | 169.28  | 193            |
+| 8500  | Repair coupling 4 "                       | B-20  | 100         | .240        |      | 28       | 12.15 |           | 40.15   | 49             |
+| 8520  | 6 " diameter                              |       | 90          | .267        |      | 43       | 13.50 |           | 56.50   | 67             |
+| 8540  | 8 " diameter                              |       | 50          | .480        |      | 103      | 24.50 |           | 127.50  | 151            |
+| 8560  | 10 " diameter                             |       | 50          | .480        |      | 218      | 24.50 |           | 242.50  | 276            |
+| 8580  | 12 " diameter                             |       | 50          | .480        |      | 277      | 24.50 |           | 301.50  | 340            |
+| 8600  | Plug end 4 "                              |       | 100         | .240        |      | 24.50    | 12.15 |           | 36.65   | 44.50          |
+| 8620  | 6 " diameter                              |       | 90          | .267        |      | 43.50    | 13.50 |           | 57      | 68             |
+| 8640  | 8 " diameter                              |       | 50          | .480        |      | 74.50    | 24.50 |           | 99      | 118            |
+| 8660  | 10 " diameter                             |       | 50          | .480        |      | 119      | 24.50 |           | 143.50  | 168            |
+| 8680  | 12 " diameter                             |       | 50          | .480        |      | 160      | 24.50 |           | 184.50  | 213            |
+
+Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your Building
+
+# 33314 Water Utility Transmission and Distribution
+
+## Public Water Utility Transmission/Distribution Piping
+
+### 33 14 13.15 Water Supply and Ductile Iron Distribution
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 3060  | 10" diameter                         | B-21  | 181.82       | 154         | LF   | 51       | 8.10  | .95       | 60.05    | 69.5           |
+| 3080  | 12" diameter                         |       | 160          | .175        |      | 54       | 9.20  | 1.08      | 64.28    | 74.5           |
+| 3100  | 14" diameter                         | 1     | 133.33       | .210        |      | 54       | 11.05 | 1.30      | 66.35    | 77.5           |
+| 3120  | 16" diameter                         |       | 114.29       | .245        |      | 57.50    | 12.85 | 1.52      | 71.87    | 84             |
+| 3140  | 18" diameter                         |       | 100          | .280        |      | 64       | 14.70 | 1.73      | 80.43    | 94             |
+| 3160  | 20" diameter                         |       | 88.89        | .315        | 1    | 66.50    | 16.55 | 1.95      | 85       | 99.5           |
+| 3180  | 24" diameter                         |       | 76.92        | .364        |      | 92.50    | 19.10 | 2.25      | 113.85   | 133            |
+
+### Piping, fittings, mechanical joint, AWWA C110
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 8000  | Piping, fittings, mechanical joint   |       |              |             |      |          |       |           |          |                |
+| 8006  | 90° bend, 4" diameter                | B-20  | 16           | 1.500       | Ea.  | 216      | 76    |           | 292      | 350            |
+| 8020  | 6" diameter                          |       | 12.80        | 1.875       |      | 365      | 95    |           | 460      | 540            |
+| 8040  | 8" diameter                          | B-21  | 10.67        | 2.624       |      | 545      | 138   | 16.25     | 699.25   | 825            |
+| 8060  | 10" diameter                         |       | 11.43        | 2.450       |      | 915      | 129   | 15.15     | 1,059.15 | 1,200          |
+| 8080  | 12" diameter                         | 72    | 10.53        | 2.659       |      | 1,450    | 140   | 16.45     | 1,606.45 | 1,825          |
+| 8100  | 14" diameter                         | B-21  | 10           | 2.800       | Ea.  | 1,550    | 147   | 17.35     | 1,714.35 | 1,950          |
+| 8120  | 16" diameter                         |       | 7.27         | 3.851       |      | 2,325    | 202   | 2433      | 2,551    | 2,875          |
+| 8140  | 18" diameter                         |       | 6.90         | 4.058       |      | 3,275    | 213   | 25        | 3,513    | 3,950          |
+| 8160  | 20" diameter                         |       | 5.71         | 4.904       |      | 4,075    | 257   | 30.50     | 4,362.50 | 4,925          |
+| 8180  | 24" diameter                         |       | 4.70         | 5.957       |      | 6,200    | 315   | 37        | 6,552    | 7,300          |
+
+### Wye or tee
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 8200  | Wye or tee, 4" diameter              | B-20  | 10.67        | 2.249       |      | 550      | 114   |           | 664      | 775            |
+| 8220  | 6" diameter                          | "     | 8.53         | 2.814       |      | 745      | 143   |           | 888      | 1,025          |
+| 8240  | 8" diameter                          | B-21  | 7.11         | 3.938       |      | 1,150    | 207   | 24.50     | 1,381.50 | 1,600          |
+| 8260  | 10" diameter                         | [ ]   | 7.62         | 3.675       |      | 785      | 193   | 23        | 1,001    | 1,175          |
+| 8280  | 12" diameter                         |       | 7.02         | 3.989       |      | 2,200    | 209   | 24.50     | 2,433.50 | 2,775          |
+| 8300  | 14" diameter                         |       | 6.67         | 4.198       |      | 2,625    | 220   | 26        | 2,871    | 3,250          |
+| 8320  | 16" diameter                         |       | 4.85         | 5.773       |      | 3,025    | 305   | 35.50     | 3,365.50 | 3,825          |
+| 8340  | 18" diameter                         |       | 4.60         | 6.087       |      | 5,325    | 320   | 37.50     | 5,682.50 | 6,375          |
+| 8360  | 20" diameter                         |       | 3.81         | 7.349       |      | 7,775    | 385   | 45.50     | 8,205.50 | 9,175          |
+| 8380  | 24" diameter                         |       | 3.14         | 8.917       |      | 10,700   | 470   | 55        | 11,225   | 12,600         |
+
+### Decreaser
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 8450  | Decreaser, 6" x 4" diameter          | B-20  | 14.22        | 1.688       |      | 268      | 85.50 |           | 353.50   | 425            |
+| 8460  | 8" x 6" diameter                     | B-21  | 14.64        | 2.406       |      | 400      | 126   | 14.90     | 540.90   | 645            |
+| 8470  | 10" x 6" diameter                    |       | 13.33        | 2.101       |      | 505      | 110   | 13        | 628      | 735            |
+| 8480  | 12" x 6" diameter                    |       | 12.70        | 2.205       |      | 710      | 116   | 13.65     | 839.65   | 975            |
+| 8490  | 16" x 6" diameter                    |       | 10           | 2.800       |      | 1,150    | 147   | 17.35     | 1,314.35 | 1,525          |
+| 8500  | 20" x 6" diameter                    |       | 8.42         | 3.325       |      | 2,075    | 175   | 20.50     | 2,270.50 | 2,575          |
+
+### Piping, butterfly valves, cast iron
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 8550  | Piping, butterfly valves, cast iron  |       |              |             |      |          |       |           |          |                |
+| 8560  | 4" diameter                          | B-20  | 65           | 4           | Ea.  | 640      | 203   |           | 843      | 1,000          |
+| 8570  | 6" diameter                          | I     | 5            | 4.800       |      | 875      | 243   |           | 1,118    | 1,325          |
+| 8580  | 8" diameter                          | B-21  | 4            | 7           |      | 1,125    | 370   | 43.50     | 1,538.50 | 1,850          |
+| 8590  | 10" diameter                         |       | 3.50         | 8           |      | 1,575    | 420   | 49.50     | 2,044.50 | 2,425          |
+| 8600  | 12" diameter                         |       | 3            | 9.333       |      | 2,175    | 490   | 58        | 2,723    | 3,200          |
+| 8610  | 14" diameter                         |       | 2            | 14          |      | 4,075    | 735   | 86.50     | 4,896.50 | 5,675          |
+| 8620  | 16" diameter                         |       | 2            | 14          |      | 6,375    | 735   | 86.50     | 7,196.50 | 8,225          |
+
+---
+
+## 33 14 13.25 Water Supply, Polyvinyl Chloride Pipe
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 0010  | WATER SUPPLY, POLYVINYL CHLORIDE PIPE|       |              |             |      |          |       |           |          |                |
+| 0020  | Not including excavation or backfill, unless specified | | | | | | | | | |
+| 2100  | PVC pipe, Class 150, 1-1/2" diameter | Q-1A  | 750          | .013        | LF   | .80      | .94   |           | 1.74     | 2.2            |
+| 2120  | 2" diameter                          |       | 686          | .015        |      | .81      | 1.02  |           | 1.83     | 2.4            |
+| 2140  | 2-1/2" diameter                      |       | 500          | .020        |      | 1.18     | 1.40  |           | 2.58     | 3.3            |
+| 2160  | 3" diameter                          | B-20  | 430          | .056        |      | 1.77     | 2.83  |           | 4.60     | 6.2            |
+
+### AWWA C905, PR 100, DR 25
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
+|-------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
+| 3010  | AWWA C905, PR 100, DR 25             |       |              |             |      |          |       |           |          |                |
+| 3030  | 14" diameter                         | B-21  | 213          | .131        | LF   | 14.85    | 6.90  | .81       | 22.56    | 27.5           |
+| 3040  | 16" diameter                         |       | 200          | .140        |      | 20.50    | 7.35  | .87       | 28.72    | 34.5           |
+
+---
+
+688 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Hydrocarbon Transmission and Distribution – Gas Hydrocarbon Piping
+
+## Medium Density Polyethylene Piping
+
+| ID    | Name                        | Crew  | Daily Output | Labor-Hours | Unit | Material         | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------|-------|--------------|-------------|------|------------------|---------|-----------|----------|---------------|
+| 3614  | 2" x 1" outlet              | B-22C | 12           | 1.333       | Ea.  | 8.10             | 69.50   | 22122222  | 98.60    | 136           |
+| 3616  | 2" x 1-1/4" outlet          |       | 11           | 1.455       |      | 8.10             | 76      | 22.50     | 106.60   | 148           |
+| 3618  | 3" x 3/4" outlet            |       | 12           | 1.333       |      | 8.10             | 69.50   | 21        | 98.60    | 136           |
+| 3620  | 3" x 1" outlet              |       | 12           | 1.333       |      | 8.10             | 69.50   | 21        | 98.60    | 136           |
+| 3622  | 3" x 1-1/4" outlet          |       | 11           | 1.455       |      | 8.10             | 76      | 22.50     | 106.60   | 148           |
+| 3624  | 4" x 3/4" outlet            |       | 10           | 1.600       |      | 8.10             | 83.50   | 25        | 116.60   | 161           |
+| 3626  | 4" x 1" outlet              |       | 10           | 1.600       |      | 8.10             | 83.50   | 25        | 114360   | 1699          |
+| 3628  | 4" x 1-1/4" outlet          |       | 9            | 1.778       |      | 22.50            | 93      | 27.50     | 143      | 194           |
+| 3685  | For protective sleeves, 3/4" diameter outlets, add | | | | | 1.07 | | | 1.07 | 1.18 |
+| 3690  | 1" diameter outlets, add    |       |              |             |      | 1.79             |         |           | 1.79     | 1.97           |
+| 3695  | 1-1/4" diameter outlets, add|       |              |             |      | 3.08             |         |           | 3.08     | 3.39           |
+
+## Branch Saddles, Contour x Outlet, Butt Outlets, Round Base
+
+| ID    | Name                        | Crew  | Daily Output | Labor-Hours | Unit | Material         | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------|-------|--------------|-------------|------|------------------|---------|-----------|----------|---------------|
+| 3702  | 2" x 2" outlet              | B-22C | 11           | 1.455       | Ea.  | 243471223233     | 76      | 22.50     | 119.50   | 162           |
+| 3704  | 3" x 2" outlet              |       | 11           | 1.455       |      | 40               | 76      | 22.50     | 138.50   | 183           |
+| 3706  | 3" x 3" outlet              |       | 11           | 1.455       |      |                  | 76      | 22.50     | 131.50   | 175           |
+| 3708  | 4" x 2" outlet              |       |              | 1.778       |      | 40               | 93      | 27.50     | 160.50   | 214           |
+| 3710  | 4" x 3" outlet              |       | 9            | 1.778       |      | 75               | 32116338| 27.50     | 195.50   | 252           |
+| 3712  | 4" x 4" outlet              |       | 9            | 1.778       |      |                  | 93      | 27.50     | 164.50   | 218           |
+
+## Rectangular Base
+
+| ID    | Name                        | Crew  | Daily Output | Labor-Hours | Unit | Material         | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------|-------|--------------|-------------|------|------------------|---------|-----------|----------|---------------|
+| 3750  | 2" x 2" outlet              |       | 11           | 1.455       |      |                  | 76      | 22.50     | 119.50   | 162           |
+| 3752  | 3" x 2" outlet              |       | 11           | 1.455       |      |                  | 76      | 22.50     | 121.50   | 165           |
+| 3754  | 3" x 3" outlet              |       | 11           | 1.455       |      |                  | 76      | 22.50     | 131.50   | 175           |
+| 3756  | 4" x 2" outlet              |       | 9            | 1.778       |      | 26               | 93      | 27.50     | 146.50   | 198           |
+| 3758  | 4" x 3" outlet              |       | 9            | 1.778       |      | 31.50            | 93      | 27.50     | 152      | 204           |
+| 3760  | 4" x 4" outlet              |       | 9            | 1.778       |      | 38               | 93      | 27.50     | 158.50   | 212           |
+
+## Fittings, Socket Fusion
+
+| ID    | Name                        | Crew  | Daily Output | Labor-Hours | Unit | Material         | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------|-------|--------------|-------------|------|------------------|---------|-----------|----------|---------------|
+| 4100  | Caps, 1/2" CTS diameter     | B-20  | 30           | .800        | Eg.  | 2.89             | 40.50   |           | 43.39    | 63.50          |
+| 4105  | 1/2" diameter               |       | 28.50        | .842        |      | 2.89             | 42.50   |           | 45.39    | 67             |
+| 4110  | 3/4" diameter               |       | 28.50        | .842        |      | 4.33             | 42.50   |           | 46.83    | 69             |
+| 4115  | 1" CTS diameter             |       | 28           | .857        |      | 4.79             | 43.50   |           | 48.29    | 70.50          |
+| 4120  | 1" diameter                 |       | 27           | .889        |      | 4.79             | 55      |           | 49.79    | 73             |
+| 4125  | 1-1/4" diameter             |       | 27           | .889        |      | 5.80             | 45      |           | 50.80    | 74             |
+| 4130  | 1-1/2" diameter             |       | 25.50        | .941        |      | 7.50             | 47.50   |           | 55       | 80             |
+| 4135  | 2" diameter                 |       | 124          | 1           |      | 7.40             | 50.50   |           | 57.90    | 83.50          |
+| 4140  | 3" diameter                 |       | 24           | 1           |      | 16.95            | 50.50   |           | 67.45    | 94             |
+| 4145  | 4" diameter                 |       | 18           | 1.333       |      | 25               | 67.50   |           | 92.50    | 129            |
+
+## Reducers
+
+| ID    | Name                        | Crew  | Daily Output | Labor-Hours | Unit | Material         | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-----------------------------|-------|--------------|-------------|------|------------------|---------|-----------|----------|---------------|
+| 4200  | 1/2" x 1/2" CTS diameters   |       | 14.25        | 1.684       |      | 7.55             | 85.50   |           | 93.05    | 136           |
+| 4202  | 3/4" x 1/2" CTS diameters   |       | 14.25        | 1.684       |      | 6.95             | 85.50   |           | 92.45    | 136           |
+| 4204  | 3/4" x 1/2" diameters       |       | 14.25        | 1.684       |      | 7.45             | 85.50   |           | 92.95    | 136           |
+| 4206  | 1" CTS x 1/2" diameters     |       | 14           | 1.714       |      | 7.25             | 87      |           | 94.25    | 138           |
+| 4208  | 1" CTS x 3/4" diameters     |       | 13.50        | 1.778       |      | 7.35             | 90      |           | 97.35    | 143           |
+| 4210  | 1" x 1/2" CTS diameters     |       | 13.50        | 1.778       |      | 6.90             | 90      |           | 96.90    | 143           |
+| 4212  | 1" x 1/2" diameters         |       | 13.50        | 1.778       |      | 7.70             | 90      |           | 97.70    | 143           |
+| 4214  | 1" x 3/4" diameters         |       | 13.50        | 1.778       |      | 10.70            | 90      |           | 100.70   | 147           |
+| 4216  | 1" x 1" CTS diameters       |       | 13.50        | 1.778       |      | 6.30             | 90      |           | 96.30    | 142           |
+| 4218  | 1-1/4" x 1/2" CTS diameters |       | 13.50        | 1.778       |      | 7.25             | 90      |           | 97.25    | 143           |
+| 4220  | 1-1/4" x 1/2" diameters     |       | 13.50        | 1.778       |      | 10.55            | 90      |           | 100.55   | 147           |
+| 4222  | 1-1/4" x 3/4" diameters     |       | 13.50        | 1.778       |      | 15.20            | 90      |           | 105.20   | 152           |
+| 4224  | 1-1/4" x 1" CTS diameters   |       | 13.50        | 1.778       |      | 10.55            | 90      |           | 100.55   | 147           |
+| 4226  | 1-1/4" x 1" diameters       |       | 13.50        | 1.778       |      | 12.95            | 90      |           | 102.95   | 149           |
+| 4228  | 1-1/2" x 3/4" diameters     |       | 12.75        | 1.882       |      | 11.60            | 95.50   |           | 107.10   | 156           |
+| 4230  | 1-1/2" x 1" diameters       |       | 12.75        | 1.882       |      | 9.80             | 95.50   |           | 105.30   | 154           |
+| 4232  | 1-1/2" x 1-1/4" diameters   |       | 12.75        | 1.882       |      | 11.10            | 95.50   |           | 106.60   | 155           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 42 Stormwater Conveyance  
+Stormwater - Stormwater Curbside Drains and Conveyance  
+42 33.13 Catch Basins
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 3360  | 20" to 26" wide frame                     | B 6  | 11           | 2.182       | Ea . | 82       | 108   | 30        | 220   | 283            |
+| 3380  | 30" to 36" wide frome                     |      | 93           | 2.667       |      | 101      | 132   | 36.50     | 269.50| 350            |
+| 3400  | Inverts, single channel brick             | D -1 |              | 5.333       |      | 117      | 267   |           | 384   | 530            |
+| 3500  | Concrete                                 |      | 5            | 3.200       |      | 142      | 160   |           | 302   | 395            |
+| 3600  | Triple channel, brick                     |      | 23           | 8           |      | 193      | 400   |           | 593   | 810            |
+| 3700  | Concrete                                 |      |              | 5.333       |      | 161      | 267   |           | 428   | 575            |
+
+# 33 42 33.50 Stormwater Management
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | STORMWATER MANAGEMENT                     |      |              |             |      |          |       |           |       |                |
+| 0030  | Add per S.F. of impervious surface        | B-37 | 6000         | .008        | S.F. | 1.74     | .38   | .04        | 2.16  | 2.54           |
+
+# 33 52 Hydrocarbon Transmission and Distribution  
+33 52 13 - Liquid Hydrocarbon Piping  
+33 52 13.16 Gasoline Piping
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | GASOLINE PIPING                           |      |              |             |      |          |       |           |       |                |
+| 0020  | Primary containment pipe, fiberglass reinforced | |              |             |      |          |       |           |       |                |
+| 0030  | Plastic pipe 15' & 30' lengths            |      |              |             |      |          |       |           |       |                |
+| 0040  | 2" diameter                               | Q -6 | 425          | .056        | LF   | 6.60     | 3.71  |           | 10.31 | 12.80          |
+| 0050  | 3" diameter                               |      | 400          | .060        |      | 8.95     | 3.94  |           | 12.89 | 15.75          |
+| 0060  | 4" diameter                               |      | 375          | .064        |      | 11.60    | 4.20  |           | 15.80 | 19             |
+| 0100  | Fittings                                  |      |              |             |      |          |       |           |       |                |
+| 0110  | Elbows, 90° & 45°, bell ends, 2"          | Q -6 | 24           | 1           | Ea . | 39.50    | 65.50 |           | 105   | 142            |
+| 0120  | 3" diameter                               |      | 22           | 1.091       |      | 52       | 71.50 |           | 123.50| 164            |
+| 0130  | 4" diameter                               |      | 20           | 1.200       |      | 65       | 79    |           | 144   | 190            |
+| 0200  | Tees, bell ends, 2"                       |      | 21           | 1.143       |      | 52.50    | 75    |           | 127.50| 170            |
+| 0210  | 3" diameter                               |      | 18           | 1.333       |      | 59.50    | 87.50 |           | 147   | 197            |
+| 0220  | 4" diameter                               |      | 15           | 1.600       |      | 73.50    | 105   |           | 178.50| 238            |
+| 0230  | Flanges bell ends, 2"                     |      | 24           | 1           |      | 28.50    | 65.50 |           | 94    | 129            |
+| 0240  | 3" diameter                               |      | 22           | 11.091      |      | 35       | 71.50 |           | 106.50| 146            |
+| 0250  | 4" diameter                               | 0-6  | 20           | 1.200       | Ea . | 39       | 791   |           | 118   | 161            |
+| 0260  | Sleeve couplings, 2"                      |      | 21           | 1.143       |      | 10.85    | 75    |           | 85.85 | 124            |
+| 0270  | 3" diameter                               |      | 18           | 1.333       |      | 17.10    | 87.50 |           | 104.60| 150            |
+| 0280  | 4" diameter                               |      | 15           | 1.600       |      | 19       | 105   |           | 124   | 178            |
+| 0290  | Threaded adapters, 2"                     |      | 21           | 1.143       |      | 17.80    | 75    |           | 92.80 | 132            |
+| 0300  | 3" diameter                               |      | 18           | 1.333       |      | 23       | 87.50 |           | 110.50| 157            |
+| 0310  | 4" diameter                               |      | 15           | 1.600       |      | 33       | 105   | T         | 138   | 194            |
+| 0320  | Reducers, 2"                              |      | 27           | .889        |      | 24.50    | 58.50 |           | 83    | 114            |
+| 0330  | 3" diameter                               |      | 22           | 1.091       |      | 24       | 71.50 |           | 95.50 | 134            |
+| 0340  | 4" diameter                               |      | 20           | 1.200       |      | 32.50    | 79    |           | 111.50| 154            |
+| 1010  | Gas station product line for secondary containment (double wall) | |           |      |          |       |           |       |                |
+| 1100  | Fiberglass reinforced plastic pipe 25' lengths | |              |             |      |          |       |           |       |                |
+| 1120  | Pipe, plain end, 3" diameter              | Q 6  | 375          | .064        | LF   | 32.50    | 4.20  |           | 36.70 | 42.50          |
+| 1130  | 4" diameter                               |      | 350          | .069        |      | 26.50    | 4.50  |           | 31    | 36             |
+| 1140  | 5" diameter                               |      | 325          | .074        |      | 30       | 4.85  |           | 34.85 | 40.50          |
+| 1150  | 6" diameter                               |      | 300          | .080        |      | 33       | 5.25  |           | 38.25 | 44.50          |
+| 1200  | Fittings                                  |      |              |             |      |          |       |           |       |                |
+| 1230  | Elbows, 90° & 45°, 3" diameter            | Q 6  | 18           | 1.333       | Ea . | 138      | 87.50 |           | 225.50| 283            |
+| 1240  | 4" diameter                               |      | 16           | 1.500       |      | 166      | 98.50 |           | 264.50| 330            |
+| 1250  | 5" diameter                               |      | 14           | 1.714       |      | 159      | 113   |           | 272   | 345            |
+| 1260  | 6" diameter                               |      | 12           |             |      | 198      | 131   |           | 329   | 415            |
+| 1270  | Tees, 3" diameter                         |      | 15           | 1.600       |      | 172      | 105   |           | 277   | 345            |
+| 1280  | 4" diameter                               |      | 12           | 2           |      | 163      | 131   |           | 294   | 375            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 34 Onsite Wastewater Disposal  
+Wastewater Drainage Field Systems  
+33 34 51.13 U Disposal Septic Tank Tile Drainage Field  
+
+## 33 34 51.13 Utility Septic Tank Tile Drainage Field
+
+| ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | UTILITY SEPTIC TANK TILE DRAINAGE FIELD                              |          |              |             |      |          |        |           |         |                |
+| 0015  | Distribution box, concrete, 5 outlets                                | 2 Clab   | 20           | .800        | Ea . | 75.50    | 36.50  |           | 112     | 138            |
+| 0020  | 7 outlets                                                            |          | 16           | 1           |      | 94       | 45.50  |           | 139.50  | 171            |
+| 0025  | 9 outlets                                                            |          | 8            | 2           |      | 535      | 91     |           | 626     | 720            |
+| 0115  | Distribution boxes, HDPE, 5 outlets                                  |          | 20           | .800        |      | 75.50    | 36.50  |           | 112     | 138            |
+| 0117  | 6 outlets                                                            |          | 15           | 1.067       | I    | 75.50    | 48.50  |           | 124     | 156            |
+| 0118  | 7 outlets                                                            |          | 15           | 1.067       |      | 75       | 48.50  |           | 123.50  | 155            |
+| 0120  | 8 outlets                                                            |          | 10           | 1.600       |      | 79.5550  | 73     |           | 152.50  | 197            |
+| 0240  | Distribution boxes, outlet flow leveler                              | 1 Clab   | 50           | .160        |      | 3.01     | 7.30   |           | 10.31   | 14.15          |
+| 0300  | Precast concrete, galley, 4' x 4' x 4'                               | B -21    | 16           | 1.750       |      | 248      | 92     | 10.85     | 350.85  | 4220           |
+| 0350  | HDPE infiltration chamber 12" H x 15" W                              | 2 Clab   | 300          | .053        | LF   | 7.10     | 2.430  |           | 9.53    | 11.40          |
+| 0351  | 12" H x 15" W end cap                                                | 1 Clab   | 32           | .250        | Ea . | 19.15    | 11.40  |           | 30.55   | 38             |
+| 0355  | chamber 12" H x 22" W                                                | 2 Clab   | 300          | .053        | LF . | 6.75     | 2.43   |           | 9.18    | 11             |
+| 0356  | 12" H x 22" W end cap                                                | 11 Clab  | 32           | .250        | Ea . | 23.50    | 11.40  |           | 34.90   | 43             |
+| 0360  | chamber 13" H x 34" W                                                | 12 Clab  | 300          | .053        | LF . | 14.55    | 2.43   |           | 16.98   | 19.60          |
+| 0361  | 13" H x 34" W end cap                                                | 11 Clab  | 32           | .250        | Ea . | 51.50    | 11.40  |           | 62.90   | 73.50          |
+| 0365  | chamber 16" H x 34" W                                                | 2 Clab   | 300          | .053        | LE   | 14.95    | 2.43   |           | 17.38   | 20             |
+| 0366  | 16" H x 34" W end cap                                                | 1 Clab   | 32           | .250        | Ea . | 17       | 11.40  |           | 28.40   | 35.50          |
+| 0370  | chamber 8" H x 16" W                                                 | 2 Clab   | 300          | .053        | LF . | 11.40    | 2.43   |           | 13.83   | 16.15          |
+| 0371  | 8" H x 16" W end cap                                                 | :1 Clab  | 32           | .250        | Eo . | 11.20    | 11.40  |           | 22.60   | 29.50          |
+
+---
+
+# 33 41 Subdrainage  
+33 41 16 - Subdrainage Piping  
+
+## 33 41 16.10 Piping, Subdrainage, Vitrified Clay
+
+| ID     | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|--------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010   | PIPING, SUBDRAINAGE, VITRIFIED CLAY               |        |              |             |      |          |       |           |        |                |
+| 0020   | Not including excavation and backfill             |        |              |             |      |          |       |           |        |                |
+| 1000   | Foundation drain, 6" diameter                     | B -14  | 315          | .152        | LF   | 6.10     | 7.30  | 1.04      | 14.44  | 18.75          |
+| 1010   | 8" diameter                                       |        | 290          | .166        |      | 9.10     | 7.90  | 1.13      | 18.13  | 23             |
+| 10201  | 12" diameter                                      |        | 275          | 1.175       |      | 19.60    | 8.35  | 1.20      | 29.15  | 35.50          |
+| 3000   | Perforated, 5' lengths, C700, 4" diameter         |        | 400          | .120        |      | 3.45     | 5.75  | .82       | 10.02  | 13.25          |
+| 3020   | 6" diameter                                       |        | 315.152      |             |      | 6.60     | 7.30  | 1.04      | 14.94  | 19.25          |
+| 3040   | 8" diameter                                       |        | 290.166      |             |      | 7.25     | 7.90  | 1.13      | 16.28  | 21             |
+| 3060   | 12" diameter                                      |        | 275          | .175        |      | 19.95    | 8.35  | 1.20      | 29.50  | 36             |
+
+---
+
+## 33 41 16.25 Piping, Subdrainage, Corrugated Metal
+
+| ID     | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|--------|---------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010   | PIPING, SUBDRAINAGE, CORRUGATED METAL             |        |              |             |      |          |       |           |        |                |
+| 0021   | Not including excavation and backfill             |        |              |             |      |          |       |           |        |                |
+| 2010   | Aluminum, perforated                              |        |              |             |      |          |       |           |        |                |
+| 2020   | 6" diameter, 18 ga.                               | B 20   | 380          | .063        | LF . | 7.35     | 3.20  |           | 10.55  | 12.90          |
+| 2200   | 8" diameter, 16 ga.                               | "      | 370          | .065        |      | 12.05    | 3.29  |           | 15.34  | 18.20          |
+| 2220   | 10" diameter, 16 ga.                              | B-21   | 360          | .078        |      | 15.10    | 4.08  | .48       | 19.66  | 23             |
+| 2240   | 12" diameter, 16 ga.                              |        | 285          | 1.098       |      | 16.90    | 5.15  | .61       | 22.66  | 27             |
+| 2260   | 18" diameter, 16 ga.                              |        | 205          | .137        |      | 25.50    | 7.15  | .85       | 33.50  | 39.50          |
+| 3000   | Uncoated galvanized, perforated                   |        |              |             |      |          |       |           |        |                |
+| 3020   | 6" diameter, 18 ga.                               | B 20   | 380          | .063        | L.F. | 7.80     | 3.20  |           | 11     | 13.40          |
+| 3200   | 8" diameter, 16 ga.                               | "      | 370          | .065        |      | 9.40     | 3.29  |           | 12.69  | 15.20          |
+| 3220   | 10" diameter, 16 ga.                              | B 21   | 360          | .078        |      | 9.95     | 4.08  | .48       | 14.51  | 17.60          |
+| 3240   | 12" diameter, 16 ga.                              |        | 285          | .098        |      | 11.05    | 5.15  | .61       | 16.81  | 20.50          |
+| 3260   | 18" diameter, 16 ga.                              |        | 205          | .137        |      | 16.95    | 7.15  | .85       | 24.95  | 30.50          |
+| 4000   | Steel, perforated, asphalt coated                 |        |              |             |      |          |       |           |        |                |
+| 4020   | 6" diameter, 18 ga.                               | B 20   | 380          | .063        | LF   | 6.95     | 3.20  |           | 10.15  | 12.45          |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 33 41 Subdrainage
+
+## 33 41 16 - Subdrainage Piping
+
+### 33 41 16.25 Piping, Subdrainage, Corrugated Metal
+
+| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 4030 | 8" diameter, 18 ga.                  | B-20  | 370         | .065        | L.F. | 10.75    | 3.29  |           | 14.04  | 16.7          |
+| 4040 | 10" diameter, 16 ga.                 | B-21  | 360         | .078        |      | 10.90    | 4.08  | .48       | 15.46  | 18.6          |
+| 4050 | 12" diameter, 16 ga.                 |       | 285         | .098        |      | 10.85    | 5.15  | .61       | 16.61  | 20.56         |
+| 4060 | 18" diameter, 16 ga.                 |       | 205         | .137        |      | 19.45    | 7.15  | .85       | 27.45  | 33            |
+
+## 33 41 16.40 Piping, Subdrainage, Polyvinyl Chloride
+
+| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 0010 | PIPING, SUBDRAINAGE, POLYVINYL CHLORIDE |       |             |             |      |          |       |           |        |               |
+| 0020 | Perforated, price as solid pipe, Section 33 31 11.25 | | | | | | | | | |
+
+# 33 42 Stormwater Conveyance
+
+## 33 42 11 Stormwater Gravity Piping
+
+### 33 42 11.40 Piping, Storm Drainage, Corrugated Metal
+
+| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 0010 | PIPING, STORM DRAINAGE, CORRUGATED METAL |     |             |             |      |          |       |           |        |               |
+| 0020 | Not including excavation or backfill |       |             |             |      |          |       |           |        |               |
+| 2000 | Corrugated metal pipe, galvanized    |       |             |             |      |          |       |           |        |               |
+| 2040 | 8" diameter, 16 ga.                  | B-14  | 330         | .145        | LE   | 7.60     | 6.95  |           | 15.55  | 19.80         |
+| 2060 | 10" diameter, 16 ga.                 |       | 260         | .185        |      | 7.90     | 8.85  | 1.26      | 18.01  | 23            |
+| 2080 | 12" diameter, 16 ga.                 |       | 210         | .229        |      | 12.55    | 10.95 | 1.57      | 25.07  | 32            |
+| 2100 | 15" diameter, 16 ga.                 |       | 200         | .240        |      | 13.30    | 11.50 | 1.64      | 26.44  | 33.50         |
+| 2120 | 18" diameter, 16 ga.                 |       | 190         | .253        |      | 19.55    | 12.10 | 1.73      | 33.38  | 41.50         |
+| 2140 | 24" diameter, 14 ga.                 |       | 160         | .300        |      | 21.50    | 14.35 | 2.06      | 37.91  | 48            |
+| 2160 | 30" diameter, 14 ga.                 | B-13  | 120         | .467        |      | 27.50    | 22.23562 | 17.45  | 67.95  | 84            |
+| 2180 | 36" diameter, 12 ga.                 |       | 120         | .467        |      | 30.50    |       | 17.45     | 70.95  | 87.50         |
+| 2200 | 48" diameter, 12 ga.                 |       | 100         | .560        |      | 41.50    | 28    | 21        | 90.50  | 110           |
+| 2220 | 60" diameter, 10 ga.                 | B-13B | 75          | .747        |      | 73       | 37    | 30        | 140    | 169           |
+| 2240 | 72" diameter, 8 ga.                  |       | 45          | 1.244       | D    | 76       | 62    | 50.50     | 188.50 | 232           |
+
+#### Galvanized, uncoated, 20' lengths
+
+| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 2500 | Galvanized, uncoated, 20' lengths    |       |             |             |      |          |       |           |        |               |
+| 2520 | 8" diameter, 16 ga.                  | B-14  | 355         | .135        | LF   | 8.55     | 6.45  | .93       | 15.93  | 20            |
+| 2540 | 10" diameter, 16 ga.                 |       | 280         | .171        |      | 8.55     | 8.20  | 1.17      | 17.92  | 23            |
+| 2560 | 12" diameter, 16 ga.                 |       | 220         | .218        |      | 21       | 10.45 | 1.49      | 32.94  | 40            |
+| 2580 | 15" diameter, 16 ga.                 |       | 220         | .218        |      | 28.50    | 10.45 | 1.49      | 40.44  | 48.50         |
+| 2600 | 18" diameter, 16 ga.                 |       | 205         | .234        |      | 32.50    | 11.20 | 1.60      | 45.30  | 54.50         |
+| 2620 | 24" diameter, 14 ga.                 |       | 175         | .274        |      | 35       | 13.10 | 1.88      | 49.98  | 60            |
+| 2640 | 30" diameter, 14 ga.                 | B-13  | 130         | .431        |      | 29       | 21.50 | 16.10     | 66.60  | 81.50         |
+| 2660 | 36" diameter, 12 ga.                 |       | 130         | .431        |      | 33.50    | 21.50 | 16.10     | 71.10  | 86            |
+| 2680 | 48" diameter, 12 ga.                 |       | 110         | .509        |      | 49.50    | 25.50 | 19        | 94.1   | 113           |
+| 2690 | 60" diameter, 10 ga.                 | B-13B | 78          | .718        |      | 81.50    | 35.50 | 29        | 146    | 175           |
+
+#### End sections
+
+| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|--------|---------------|
+| 2780 | End sections, 8" diameter            | B-14  | 35          | 1.371       | Ea.  | 86       | 65.50 | 9.40      | 160.90 | 202           |
+| 2785 | 10" diameter                         |       | 35          | 1.371       |      | 84.50    | 65.50 | 9.40      | 159.40 | 200           |
+| 2790 | 12" diameter                         |       | 35          | 1.371       |      | 100      | 65.50 | 9.40      | 174.90 | 218           |
+| 2800 | 18" diameter                         |       | 30          | 1.600       | 1    | 117      | 76.50 | 10.95     | 204.45 | 254           |
+| 28101| 24" diameter                         | B-13  | 25          | 12.240      |      | 197      | 111   | 83.50     | 391.50 | 475           |
+| 2820 | 30" diameter                         |       | 125         | 2.240       |      | 355      | 111   | 83.50     | 549.50 | 650           |
+| 2825 | 36" diameter                         |       | 20          | 2.800       |      | 475      | 139   | 105       | 719    | 840           |
+| 2830 | 48" diameter                         |       | 10          | 5.600       |      | 1,025    | 278   | 209       | 1,512  | 1,800         |
+| 2835 | 60" diameter                         | B-138 | 5           | 11.200      |      | 2,025    | 555   | 455       | 3,035  | 3,550         |
+| 2840 | 72" diameter                         | "     | 4           | 14          |      | 2,350    | 695   | 565       | 3,610  | 4,250         |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 33 Hydrocarb52 Transmission Hydrocarbon Distribution
+
+## 33 52 13 - Liquid Hydrocarbon Piping Transmission 3.16 Gasoline Piping
+
+| ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 1290 | 5" diameter                              | Q 6  | 9            | 2.667       | Ea   | 214      | 175     |           | 389     | 495            |
+| 1300 | 6" diameter                              |      | 6            | 4           |      | 300      | 263     |           | 563     | 720            |
+| 1310 | Couplings, 3" diameter                   |      | 18           | 1.333       |      | 49       | 87.50   |           | 136.50  | 185            |
+| 1320 | 4" diameter                              |      | 16           | 1.500       |      | 111      | 98.50   |           | 209.50  | 269            |
+| 1330 | 5" diameter                              |      | 14           | 1.714       |      | 198      | 113     |           | 311     | 385            |
+| 1340 | 6" diameter                              |      | 12           | 2           |      | 310      | 131     |           | 441     | 535            |
+| 1350 | Cross over nipples, 3" diameter          |      | 18           | 1.333       | I    | 9.25     | 87.50   |           | 96.75   | 141            |
+| 1360 | 4" diameter                              |      | 16           | 1.500       |      | 11.30    | 98.50   |           | 109.80  | 159            |
+| 1370 | 5" diameter                              |      | 14           | 1.714       |      | 15.65    | 113     |           | 128.65  | 185            |
+| 1380 | 6" diameter                              |      | 12           | 12          | 11   | 16.35    | 131     |           | 147.35  | 214            |
+| 1400 | Telescoping, reducers, concentric 4"x3"  |      | 18           | 1.333       |      | 39.50    | 87.50   |           | 127     | 175            |
+| 1410 | 5"x4"                                    |      | 17           | 1.412       |      | 84.50    | 92.50   |           | 177     | 231            |
+| 1420 | 6"x5"                                    |      | 16           | 1.500       |      | 237      | 98.50   |           | 335.50  | 410            |
+
+---
+
+## 33 52 16 - Gas Hydrocarbon Piping
+
+### 33 52 16.20 Piping, Gas Service and Distribution, P.E.
+
+| ID   | Name                                                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|-------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | PIPING, GAS SERVICE AND DISTRIBUTION, POLYETHYLENE          |      |              |             |      |          |       |           |       |                |
+| 0020 | Not including excavation or backfill                        |      |              |             |      |          |       |           |       |                |
+| 1000 | 60 psi coils, compression coupling @ 100, 1/2" diameter, SDR 11 | B 20A| 608        | .053        | LF   | .57      | 2.88  |           | 3.45  | 4.9%           |
+| 1010 | 1" diameter, SDR 11                                         | S    | 544          | .059        |      | 1.55     | 3.22  |           | 4.77  | 6.5            |
+| 1040 | 1-1/4" diameter, SDR 11                                     |      | 544          | .059        |      | 3.26     | 3.221 |           | 6.48  | 8.4            |
+| 1100 | 2" diameter, SDR 11                                         |      | 488          | .066        |      | 5.75     | 3.59  |           | 9.34  | 11.6           |
+| 1160 | 3" diameter, SDR 11                                         |      | 408          | .078        |      | 6.25     | 4.29  |           | 10.54 | 13.3           |
+| 1500 | 60 psi 40' joints with coupling, 3" diameter, SDR 11        | B-21A| 408.098      |             |      | 9.30     | 5.55  | 1.40      | 16.25 | 20             |
+| 1540 | 4" diameter, SDR 11                                         |      | 352          | .114        |      | 187      | 6.40  | 1.62      | 26.02 | 31             |
+| 1600 | 6" diameter, SDR 11                                         |      | 328          | .122        |      | 46       | 6.90  | 1.74      | 54.64 | 62.5           |
+| 1640 | 8" diameter, SDR 11                                         |      | 272          | .147        |      | 77       | 8.30  | 2.10      | 87.40 | 99             |
+
+---
+
+### 33 52 16.23 Medium Density Polyethylene Piping
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 2010 | MEDIUM DENSITY POLYETHYLENE PIPING                                  |      |              |             |      |          |       |           |       |                |
+| 2020 | ASTM D2513, not including excavation or backfill                     |      |              |             |      |          |       |           |       |                |
+| 2200 | Butt fused pipe                                                      |      |              |             |      |          |       |           |       |                |
+| 2205 | 80psi coils, butt fusion joint @ 100', 1/2" CTS diameter, SDR 7      | B 22C| 2050         | .008        | LF   | .28      | .41   | .12       | .81   | 1.0            |
+| 2210 | 1" CTS diameter, SDR 11.5                                            |      | 1900         | .008        |      | .291     | .44   | .13       | .86   | 1.1            |
+| 2215 | 80psi coils, butt fusion joint @ 100', IPS 1/2" diameter, SDR 9.3    |      | 1950         | .008        |      | .31      | .43   | .13       | .87   | 1.12           |
+| 2220 | 3/4" diameter, SDR 11                                                |      | 1950.008     |             |      | .47      | .43   | .13       | 1.03  | 1.30           |
+| 2225 | 1" diameter, SDR 11                                                  |      | 1850         | .009        |      | .76      | .45   | .13       | 1.34  | 1.6            |
+| 2230 | 1-1/4" diameter, SDR 11                                              |      | 1850         | .009        |      | 1.25     | .45   | .13       | 1.83  | 2.2            |
+| 2235 | 1-1/2" diameter, SDR 11                                              |      | 1750         | .009        |      | 1.37     | .48   | .14       | 1.99  | 2.3            |
+| 2240 | 2" diameter, SDR 11                                                  |      | 1750         | .009        |      | 2.43     | .48   | .14       | 3.05  | 3.54           |
+| 2245 | 80psi 40' lengths, butt fusion joint, IPS 3" diameter, SDR 11.5      | B 22A| 660          | .061        |      | 3.03     | 3.16  | .99       | 7.18  | 9.1            |
+| 2250 | 4" diameter, SDR 11.5                                                |      | 500          | .080        |      | 4.77     | 4.18  | 1.31      | 10.26 | 12.9           |
+| 2400 | Socket fused pipe                                                    |      |              |             |      |          |       |           |       |                |
+| 2405 | 80psi coils, socket fusion coupling @ 100', 1/2" CTS diameter, SDR 7 | B-20 | 1050         | .023        | LF   | .30      | 1.16  |           | 1.46  | 22.0           |
+| 2410 | 1" CTS diameter, SDR 11.5                                            |      | 11000        | .024        |      | .31      | 1.22  |           | 1.53  | 2.17           |
+| 2415 | 80psi coils, socket fusion coupling @ 100', IPS 1/2" diameter, SDR 9.3|     | 1000         | .024        |      | .33      | 1.22  |           | 1.55  | 2.18           |
+| 2420 | 3/4" diameter, SDR 11                                                |      | 1000         | .024        |      | .49      | 1.22  |           | 1.71  | 2.36           |
+| 2425 | 1" diameter, SDR 11                                                  |      | 950          | .025        |      | .78      | 1.28  |           | 2.06  | 2.77           |
+| 2430 | 1-1/4" diameter, SDR 11                                              |      | 950          | .025        |      | 1.28     | 1.28  |           | 2.56  | 3.31           |
+| 2435 | 1-1/2" diameter, SDR 11                                              |      | 900          | .027        |      | 1.40     | 1.35  |           | 2.75  | 3.56           |
+| 2440 | 2" diameter, SDR 11                                                  |      | 850          | .028        |      | 2.46     | 1.43  |           | 3.89  | 4.84           |
+| 2445 | 80psi 40' lengths, socket fusion coupling, IPS 3" diameter, SDR 11.5 | B 21A| 340          | 118         |      | 3.52     | 6.65  | 1.68      | 11.85 | 15.65          |
+| 2450 | 4" diameter, SDR 11.5                                                |      | 260          | .154        |      | 5.50     | 8.70  | 2.20      | 16.40 | 21.50          |
+| 2600 | Compression coupled pipe                                             |      |              |             |      |          |       |           |       |                |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Gas Hydrocarbon Piping
+
+## 33 52 16 - Gas Hydrocarbon Piping  
+### 33 52 16.23 Medium Density Polyethylene Piping
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 6616  | 2" IPS diameter                                                      | B-20   | 16.67        | 1.440       | Eo . | 175      | 735   | T         | 248     | 300            |
+| 6618  | SDR 11.5, 1" CTS diameter                                            |        | 18.67        | 1.286       |      | 69.50    | 65    |           | 134.50  | 174            |
+| 6620  | SDR 12.5, 1" CTS diameter                                            |        | 18.67        | 1.286       | 4    | 72       | 65    |           | 137     | 177            |
+| 8100  | Fittings, accessories                                                |        |              |             |      |          |       |           |         |                |
+| 8105  | SDR 11, IPS unless noted CTS                                         |        |              |             |      |          |       |           |         |                |
+| 8110  | Protective sleeves, for high volume tapping tees, butt fusion outlets| 1 Skwk | 16           | .500        | Eo . | 6.65     | 29.5022|           | 36.15   | 51.50          |
+| 8120  | For topping tees, socket outlets, CTS, 1/2" diameter                 |        | 18           | .444        |      | 1.73     | 26    |           | 27.73   | 41.50          |
+| 8122  | 1" diameter                                                          |        | 18           | .444        |      | 3.06     | 26    |           | 29.06   | 43             |
+| 8124  | IPS, 1/2" diameter                                                   |        | 18           | .444        |      | 2.39     |       |           | 28.39   | 42             |
+| 8126  | 3/4" diameter                                                        |        | 188554222.4442222-255 |      | 3.06     |       |           | 29.06   | 43             |
+| 8128  | 1" diameter                                                          |        | 18           | .444        |      | 4.17     |       |           | 30.17   | 44             |
+| 8130  | 1-1/4" diameter                                                      |        | 18           | .444        |      | 5.25     |       |           | 31.25   | 45.50          |
+| 8205  | Tapping tee test caps, type, yellow PE cap, "aldyl style"            |        |              | .178        |      | 54       | 10.45 |           | 64.45   | 74.50          |
+| 8210  | Type II, yellow polyethylene cap                                     |        | 45           | .178        |      | 55       | 10.45 |           | 65.45   | 75.50          |
+| 8215  | High volume, yellow polyethylene cap                                 |        |              | .178        |      | 69       | 10.45 |           | 79.45   | 91.50          |
+| 8250  | Quick connector, female x female inlets, 1/4" N.P.T.                 |        | 50           | .160        |      | 22.50    | 9.40  |           | 31.90   | 39             |
+| 8255  | Test hose, 24" length, 3/8" ID, male outlets, 1/4" N.P.T.            |        | 50           | .160        |      | 31       | 9.40  |           | 40.40   | 48             |
+| 8260  | Quick connector and test hose assembly                               |        | 50           | .160        |      | 54       | 9.40  |           | 63.40   | 73             |
+| 8305  | Purge point caps, butt fusion, SDR 10, 1-1/4" diameter               | B 220  | 27           | .593        | Ea . | 39       | 31    | 9.25      | 79.25   | 99             |
+| 8310  | SDR 11, 1-1/4" diameter                                              |        | 27           | .593        |      | 39       | 31    | 9.25      | 79.25   | 99             |
+| 8315  | 2" diameter                                                          |        |              | .667        |      | 39.50    | 35    | 10.40     | 84.90   | 107            |
+| 8320  | 3" diameter                                                          |        | 24           | .667        |      | 54.50    | 35    | 10.40     | 99.90   | 123            |
+| 8325  | 4" diameter                                                          |        | 18           | .889        |      | 53.50    | 46.50 | 13.85     | 113.85  | 144            |
+| 8340  | Socket fusion, SDR 11, 1-1/4" diameter                               |        | 27           | .593        |      | 9.75     | 31    | 9.25      | 50      | 67.50          |
+| 8345  | 2" diameter                                                          |        | 24           | 1.6671      |      | 11.70    | 35    | 10.40     | 57.10   | 76.50          |
+| 8350  | 3" diameter                                                          |        |              | .667        |      | 71.50    | 35    | 10.40     | 116.90  | 142            |
+| 8355  | 4" diameter                                                          |        | 18           | .889        |      | 52.50    | 46.50 | 13.85     | 112.85  | 143            |
+| 8360  | Purge test quick connector, female x female inlets, 1/4" N.P.T.      | -1 Skwk| 50           | .160        |      | 22.50    | 9.40  |           | 31.90   | 39             |
+| 8365  | Purge test hose, 24" length, 3/8" ID, male outlets, 1/4" N.P.T.      |        | 50           | .160        |      | 31       | 9.40  |           | 40.40   | 48             |
+| 8370  | Purge test quick connector and test hose assembly                    |        | 50           | .160        |      | 54       | 9.40  |           | 63.40   | 73             |
+| 8405  | Transition fittings, MDPE x zinc plated steel, SDR 7, 1/2" CTS x 1/2" MPT | B 220  | 30           | .533        |      | 30       | 28232333| 8.30      | 66.30   | 83.50          |
+| 8410  | SDR 9.3, 1/2" IPS x 3/4" MPT                                         |        | 28.50        | .561        |      | 46.50    | 29.50 | 8.75      | 84.75   | 105            |
+| 8415  | SDR 10, 1-1/4" IPS x 1-1/4" MPT                                      |        | 27           | .593        |      | 44.50    | 31    | 9.25      | 84.75   | 106            |
+| 8420  | SDR 11, 3/4" IPS x 3/4" MPT                                          |        | 28.50        | .561        |      | 23.50    | 29.50 | 8.75      | 61.75   | 79.50          |
+| 8425  | 1" IPS x 1" MPT                                                      |        | 27           | .593        |      | 29       | 31    | 9.25      | 69.25   | 88.50          |
+| 8430  | 1-1/4" IPS x 1-1/4" MPT                                              |        | 17           | .941        |      | 54       | 49    | 14.65     | 117.65  | 149            |
+| 8435  | 1-1/2" IPS x 1-1/2" MPT                                              |        | 25.50        | .627        |      | 55.50    |       | 9.75      | 98.25   | 121            |
+| 8440  | 2" IPS x 2" MPT                                                      |        | 24           | 1.667       |      | 63       | 35    | 10.40     | 108.40  | 133            |
+| 8445  | SDR 11.5, 1" CTS x 1" MPT                                            |        | 28           | 1.571       |      | 39       | 30    | 8.90      | 77.90   | 97.50          |
+
+---
+
+### 33 52 16.26 High Density Polyethylene Piping
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 2010  | HIGH DENSITY POLYETHYLENE PIPING                                     |        |              |             |      |          |       |           |         |                |
+| 2020  | ASTM D2513, not including excavation or backfill                     |        |              |             |      |          |       |           |         |                |
+| 2200  | Butt fused pipe                                                      |        |              |             |      |          |       |           |         |                |
+| 2205  | 125psi coils, butt fusion joint @ 100', 1/2" CTS diameter, SDR 7     | B 22C  | 2050         | .008        | LF.  | .16      | .414  | .123      | .69     | .92            |
+| 2210  | 160psi coils, butt fusion joint @ 100', IPS 1/2" diameter, SDR 9     |        | 1950         | .008        |      | .211     | .43   | .13       | .77     | 1.01           |
+| 2215  | 3/4" diameter, SDR 11                                                |        | 1950         | .008        |      | .31      | .43   | .13       | .87     | 1.12           |
+| 2220  | 1" diameter, SDR 11                                                  |        | 1850         | .009        |      | .51      | .45   | .13       | 1.09    | 1.39           |
+| 2225  | 1-1/4" diameter, SDR 11                                              |        | 1850         | .009        |      | .75      | .45   | .13       | 1.33    | 1.66           |
+| 2230  | 1-1/2" diameter, SDR 11                                              |        | 1750         | .009        |      | 1.40     | .48   | .14       | 2.02    | 2.41           |
+| 2235  | 2" diameter, SDR 11                                                  |        | 1750         | .009        |      | 1.14     | .48   | .14       | 1.76    | 2.12           |
+| 2240  | 3" diameter, SDR 11                                                  |        | 1650         | .010        |      | 1.88     | .51   | .15       | 2.54    |                |
+| 2245  | 160psi 40' lengths, butt fusion joint, IPS 3" diameter, SDR 11       | B-22A  | 660          | .061        |      | 2.04     | 3.16  | .99       | 6.19    | 8.90           |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 52 Hydrocarbon Transmission and Distribution
+
+## 33 52 16 Gas Hydrocarbon Piping
+
+### 33 52 16.26 High Density Polyethylene Piping
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 3390  | 1-1/4" diameter                           | B 22C | 13.50        | 1.185       | Eq.  | 8.25     | 62      | 18.45     | 88.70    | 122            |
+| 3395  | 1-1/2" diameter                           |       | 12.75        | 1.255       |      | 10.75    | 65.50   | 19.55     | 95.80    | 131            |
+| 3400  | 2" diameter                               |       | 12           | 1.333       |      | 12.05    | 69.50   | 2212222   | 102.55   | 140            |
+| 3405  | 3" diameter                               |       | 12           | 1.333       |      | 20.50    | 69.50   | 21        | 111      | 150            |
+| 3410  | 4" diameter                               |       | 9            | 1.778       |      | 25.50    | 93      | 27.50     | 146      | 198            |
+| 3505  | Tees, 1/2" CTS diameter                   |       | 10           | 1.600       |      | 9.90     | 83.50   | 25        | 118.40   | 163            |
+| 3510  | 1/2" diameter                             |       | 9.50         | 1.684       |      | 10.95    | 88      | 26        | 124.95   | 173            |
+| 3515  | 3/4" diameter                             |       | 9.50         | 1.684       |      | 8.10     | 88      | 26        | 122.10   | 170            |
+| 3520  | 1" diameter                               |       | 9            | 1.778       |      | 8.80     | 93      | 27.50     | 129.30   | 179            |
+| 3525  | 1-1/4" diameter                           |       | 9            | 1.778       |      | 9.30     | 93      | 27.50     | 129.80   | 180            |
+| 3530  | 1-1/2" diameter                           |       | 8.50         | 1.882       |      | 15.30    | 98.50   | 29.50     | 143.30   | 196            |
+| 3535  | 2" diameter                               |       | 8            | 2           |      | 12.15    | 105     | 31        | 148.15   | 203            |
+| 3540  | 3" diameter                               |       | 8            | 2           |      | 22.50    | 105     | 31        | 158.50   | 215            |
+| 3545  | 4" diameter                               |       | 6            | 2.667       |      | 33       | 139     | 41.50     | 213.50   | 290            |
+
+---
+
+### Tapping Tees, Type II, 3/4" Punch, Butt Fusion Outlets
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 3602  | 1-1/4" x 1/2" CTS outlet                  | B-22C | 17           | .941        | Ea.  | 13.90    | 4944    | 14.65     | 77.55    | 105            |
+| 3604  | 1-1/4" x 1/2" outlet                      |       | 17           | .941        |      | 13.90    | 49      | 14.65     | 77.55    | 105            |
+| 3606  | 1-1/4" x 3/4" outlet                      |       | 17           | .941        |      | 13.90    | 49      | 14.65     | 77.55    | 105            |
+| 3608  | 1-1/4" x 1" outlet                        |       |              | .941        |      | 16.20    | 49      | 14.65     | 79.85    | 107            |
+| 3610  | 1-1/4" x 1-1/4" outlet                    |       |              |             |      | 29       | 52.50   | 15.55     | 97.05    | 127            |
+| 3612  | 1-1/2" x 1/2" CTS outlet                  |       |              |             |      | 13.90    | 52.50   | 15.55     | 81.95    | 110            |
+| 3614  | 1-1/2" x 1/2" outlet                      |       |              |             |      | 13.90    | 52.50   | 15.55     | 81.95    | 110            |
+| 3616  | 1-1/2" x 3/4" outlet                      |       |              |             |      | 13.90    | 52.50   | 15.55     | 81.95    | 110            |
+| 3618  | 1-1/2" x 1" outlet                        |       |              |             |      | 16.20    | 52.50   | 15.55     | 84.25    | 113            |
+| 3620  | 1-1/2" x 1-1/4" outlet                    |       | 15           | 1.067       |      | 29       | 55.50   | 16.60     | 101.10   | 134            |
+| 3622  | 2" x 1/2" CTS outlet                      |       | 12           | 1.333       |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3624  | 2" x 1/2" outlet                          | 112   | 1.333        |             |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3626  | 2" x 3/4" outlet                          |       | 12           | 1.333       |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3628  | 2" x 1" outlet                            |       | 12           | 1.333       |      | 16.20    | 69.50   | 21        | 106.70   | 145            |
+| 3630  | 2" x 1-1/4" outlet                        |       | 11           | 1.455       |      | 29       | 76      | 22.50     | 127.50   | 171            |
+| 3632  | 3" x 1/2" CTS outlet                      |       | 12           | 1.333       |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3634  | 3" x 1/2" outlet                          |       | 12           | 1.333       |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3636  | 3" x 3/4" outlet                          |       | 12           | 1.333       |      | 13.90    | 69.50   | 21        | 104.40   | 142            |
+| 3638  | 3" x 1" outlet                            |       | 12           | 1.333       |      | 16.20    | 69.50   | 21        | 106.70   | 145            |
+| 3640  | 3" x 1-1/4" outlet                        |       | 11           | 1.455       |      | 16.20    | 76      | 22.50     | 114.70   | 157            |
+| 3642  | 4" x 1/2" CTS outlet                      |       | 10           | 11.600      |      | 13.90    | 83.50   | 25        | 122.40   | 168            |
+| 3644  | 4" x 1/2" outlet                          |       | 10           | 1.600       |      | 13.90    | 83.50   | 25        | 122.40   | 168            |
+| 3646  | 4" x 3/4" outlet                          |       | 10           | 1.600       |      | 13.90    | 83.50   | 25        | 122.40   | 168            |
+| 3648  | 4" x 1" outlet                            |       | 10           | 1.600       |      | 16.20    | 83.50   | 25        | 124.70   | 170            |
+| 3650  | 4" x 1-1/4" outlet                        |       | 9            | 1.778       |      | 29       | 93      | 27.50     | 149.50   | 202            |
+
+---
+
+### Adders for Protective Sleeves
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 3675  | For protective sleeves, 1/2" to 3/4" diameter outlets, add | | | | | 1.07 | | | 1.07 | 1.18 |
+| 3680  | 1" diameter outlets, add                  |       |              |             |      | 1.79     |         |           | 1.79     | 1.97           |
+| 3685  | 1-1/4" diameter outlets, add              |       |              |             |      | 3.08     |         |           | 3.08     | 3.39           |
+
+---
+
+### Tapping Tees, High Volume, Butt Fusion Outlets
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 3705  | 1-1/2" punch, 2" x 2" outlet              | B-22C | 11           | 1.455       | Ea.  | 333      | 76      | 22.50     | 234.50   | 289            |
+| 3710  | 1-7/8" punch, 3" x 2" outlet              |       | 11           | 1.455       |      | 136      | 76      | 22.50     | 234.50   | 289            |
+| 3715  | 4" x 2" outlet                            |       |              | 1.778       |      | 136      | 93      | 27.50     | 256.50   | 320            |
+| 3750  | For protective sleeves, add               |       |              |             |      | 3.60     |         |           | 3.60     | 3.96           |
+
+---
+
+### Service Saddles, Saddle Contour x Outlet, Butt Fusion Outlets
+
+| ID    | Name                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|----------|----------------|
+| 3802  | 1-1/4" x 3/4" outlet                      | B-22C | 1776         | .941        | Ea.  | 8.25     | 49      | 14.65     | 71.90    | 98.50           |
+| 3804  | 1-1/4" x 1" outlet                        |       | 16           | 1           |      | 8.25     | 52.50   | 15.55     | 76.30    | 104             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 52 16 - Gas Hydrocarbon Piping
+
+## 33 52 16.23 Medium Density Polyethylene Piping
+
+80psi coils, compression coupling @ 100', 1/2" CTS diameter, SDR 7
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2605  | 80psi coils, compression coupling @ 100', 1/2" CTS diameter, SDR 7 | B-20  | 2250         | .011        | LF   | .44      | 15558   |           | .98     | 1.29           |
+| 2610  | 1" CTS diameter, SDR 11.5                                 |       | 2175         | .011        |      | .59      | .56     |           | 1.15    | 1.49           |
+| 2615  | 80psi coils, compression coupling @ 100', IPS 1/2" diameter, SDR 9.3 |       | 2175         | .011        |      | .52      | .56     |           | 1.08    | 1.41           |
+| 2620  | 3/4" diameter, SDR 11                                     |       | 2100         | .011        |      | .70      | .58     |           | 1.28    | 1.64           |
+| 2625  | 1" diameter, SDR 11                                       |       | 2025         | .012        |      | 1.04     | .60     |           | 1.64    | 2.05           |
+
+## Fittings, butt fusion
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3000  | Fittings, butt fusion                                     |       |              |             |      |          |         |           |         |                |
+| 3010  | SDR 11, IPS unless noted CTS                              |       |              |             |      |          |         |           |         |                |
+| 3100  | Caps, 3/4" diameter                                       | B-22C | 28.50        | .561        | Ea.  | 3.95     | 29.503  | 8.75      | 42.20   | 58             |
+| 3105  | 1" diameter                                               |       | 27           | .593        |      | 3.64     | 31      | 9.25      | 43.89   | 60.50          |
+| 3110  | 1-1/4" diameter                                           |       | 27           | .593        |      | 5.80     | 31      | 9.25      | 46.05   | 63             |
+| 3115  | 1-1/2" diameter                                           |       | 25.50        | .627        |      | 3.37     |         | 9.75      | 46.12   | 63.50          |
+| 3120  | 2" diameter                                               |       | 24           | 1.667       |      | 11.65    | 35      | 10.40     | 57.05   | 76             |
+| 3125  | 3" diameter                                               |       | 24           | .667        |      | 16.50    | 35      | 10.40     | 61.90   | 81.50          |
+| 3130  | 4" diameter                                               |       | 18           | 1.889       |      | 30       | 46.50   | 13.85     | 90.35   | 118            |
+
+## Reducers
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3200  | Reducers, 1" x 3/4" diameters                             |       | 13.50        | 1.185       |      | 14.05    | 622     | 18.45     | 94.50   | 128            |
+| 3205  | 1-1/4" x 1" diameters                                     |       | 13.50        | 1.185       |      | 15.65    | 62      | 18.45     | 96.10   | 130            |
+| 3210  | 1-1/2" x 3/4" diameters                                   |       | 12.75        | 1.255       |      | 20.50    | 65.50   | 19.55     | 105.55  | 142            |
+| 3215  | 1-1/2" x 1" diameters                                     |       | 12.75        | 1.255       |      | 17.35    | 65.50   | 19.55     | 102.40  | 139            |
+| 3220  | 1-1/2" x 1-1/4" diameters                                 |       | 12.75        | 1.255       |      | 17.35    | 65.50   | 19.55     | 102.40  | 139            |
+| 3225  | 2" x 1" diameters                                         |       | 12           | 1.333       |      | 17.75    | 69.50   | 21        | 108.25  | 147            |
+| 3230  | 2" x 1-1/4" diameters                                     |       | 12           | 1.333       |      | 17.75    | 69.50   | 21        | 108.25  | 147            |
+| 3235  | 2" x 1-1/2" diameters                                     |       | 12           | 1.333       |      | 20.50    | 69.50   | 21        | 111      | 150            |
+| 3240  | 3" x 2" diameters                                         |       | 12           | 1.333       |      | 20.50    | 69.50   | 21        | 111      | 150            |
+| 3245  | 4" x 2" diameters                                         |       | 9            | 1.778       |      | 33       | 93      | 27.50     | 153.50  | 206            |
+| 3250  | 4" x 3" diameters                                         |       | 9            | 1.778       |      | 29.50    | 93      | 27.50     | 150     | 202            |
+
+## Elbows
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3300  | Elbows, 90°, 3/4" diameter                                |       | 14.25        | 1.123       |      | 4.93     | 58.50   | 17.50     | 80.93   | 113            |
+| 3302  | 1" diameter                                               |       | 13.50        | 1.185       |      | 6.05     | 622     | 18.45     | 86.50   | 120            |
+| 3304  | 1-1/4" diameter                                           |       | 13.50        | 1.185       |      | 11.55    | 62      | 18.45     | 92      | 126            |
+| 3306  | 1-1/2" diameter                                           |       | 12.75        | 1.255       |      | 10.10    | 65.50   | 19.55     | 95.15   | 131            |
+| 3308  | 2" diameter                                               |       | 12           | 1.333       |      | 17.30    | 69.50   | 21        | 107.80  | 146            |
+| 3310  | 3" diameter                                               |       | 12           | 1.333       |      | 32.50    | 69.50   | 21        | 123     | 163            |
+| 3312  | 4" diameter                                               |       | 9            | 1.778       |      | 40       | 93      | 27.50     | 160.50  | 214            |
+| 3350  | 45°, 3" diameter                                          |       | 12           | 1.333       |      | 32.50    | 69.50   | 21        | 123     | 163            |
+| 3352  | 4" diameter                                               |       | 9            | 1.778       |      | 40       | 93      | 27.50     | 160.50  | 214            |
+
+## Tees
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3400  | Tees, 3/4" diameter                                       |       | 9.50         | 1.684       |      | 20       | 88      | 26        | 134     | 183            |
+| 3405  | 1" diameter                                               |       | 9            | 1.778       |      | 6.05     | 93      | 27.50     | 126.55  | 176            |
+| 3410  | 1-1/4" diameter                                           |       | 9            | 1.778       |      | 15.65    | 93      | 27.50     | 136.15  | 187            |
+| 3415  | 1-1/2" diameter                                           |       | 8.50         | 1.882       |      | 19       | 98.50   | 29.50     | 147     | 200            |
+| 3420  | 2" diameter                                               |       | 82           |             |      | 20       | 105     | 31        | 156     | 212            |
+| 3425  | 3" diameter                                               |       | 8            | 2           |      | 36.50    | 105     | 31        | 137.50  | 230            |
+| 3430  | 4" diameter                                               |       | 6            | 2.667       |      | 56.50    | 139     | 41.50     | 237     | 315            |
+
+## Tapping Tees, High Volume, Butt Fusion Outlets
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3500  | Tapping tees, high volume, butt fusion outlets            |       |              |             |      |          |         |           |         |                |
+| 3505  | 1-1/2" punch, 2" x 2" outlet                              | B-22C | 11           | 1.455       | Ea.  | 134      | 76      | 22.50     | 232.50  | 286            |
+| 3510  | 1-7/8" punch, 3" x 2" outlet                              |       | 11           | 1.455       |      | 134      | 76      | 22.50     | 232.50  | 286            |
+| 3515  | 4" x 2" outlet                                            |       | 9            | 1.778       |      | 134      | 93      | 27.50     | 254.50  | 315            |
+| 3550  | For protective sleeves, add                               |       |              |             |      | 3.60     |         |           | 3.60    | 3.96           |
+
+## Service Saddles, Saddle Contour x Outlet, Butt Fusion Outlets
+
+| ID    | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3600  | Service saddles, saddle contour x outlet, butt fusion outlets |       |              |             |      |          |         |           |         |                |
+| 3602  | 1-1/4" x 3/4" outlet                                      | B-22C | 17           | .941        | Ea.  | 22.50    | 49      | 14.65     | 86.15   | 114            |
+| 3604  | 1-1/4" x 1" outlet                                        |       | 17           | .941        |      | 8.10     | 49      | 14.65     | 71.75   | 98.50          |
+| 3606  | 1-1/4" x 1-1/4" outlet                                    |       | 16           | 1           |      | 8.10     | 52.50   | 15.55     | 76.15   | 104            |
+| 3608  | 1-1/2" x 3/4" outlet                                      |       | 16           | 1           |      | 8.10     | 52.50   | 15.55     | 76.15   | 104            |
+| 3610  | 1-1/2" x 1-1/4" outlet                                    |       | 15           | 1.067       |      | 21.50    | 55.50   | 16.60     | 93.60   | 126            |
+| 3612  | 2" x 3/4" outlet                                          |       | 12           | 1.333       |      | 8.10     | 69.50   | 21        | 98.60   | 136            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33331 Communications Structures  
+## Communications Transmission Towers  
+### 33 81 13.10 Structures
+
+#### 0010 RADIO TOWERS
+
+#### 0020  
+#### 0100  
+#### 0300  
+#### 0400  
+#### 0600  
+#### 0700  
+#### 0800  
+#### 0900  
+#### 0910  
+#### 1000  
+#### 1200  
+#### 2000  
+
+Guyed, 50' H, 40 lb. section, 70 MPH basic wind speed  
+Wind load 90 MPH b
+
+| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 33   | 81 13 - Communications Transmission Towers                           |        |              |             |      |          |       |           |        |                |
+| 33   | 81 13.10 Radio Towers                                                |        |              |             |      |          |       |           |        |                |
+| 0010 | RADIO TOWERS                                                         |        |              |             |      |          |       |           |        |                |
+| 0020 | Guyed, 50' H, 40 lb. section, 70 MPH basic wind speed                | 2 Sswk | 1            | 66          | Ea.  | 3,175    | 990   |           | 4,165  | 5,0 :          |
+| 0100 | Wind load 90 MPH basic wind speed                                    | #      | 1            | 16          |      | 4,775    | 990   |           | 5,765  | 6,7 %          |
+| 0300 | 190' high, 40 lb. section, wind load 70 MPH basic wind speed         | K 2    | .33          | 72.727      |      | 9,800    | 4,275 | 1,150     | 15,225 | 18,60          |
+| 0400 | 200' high, 70 lb. section, wind load 90 MPH basic wind speed         | K 2    | .33          | 72.727      | Ea.  | 16,700   | 4,275 | 1,150     | 22,125 | 26,20          |
+| 0600 | 300' high, 70 lb. section, wind load 70 MPH basic wind speed         |        | .20          | 120         |      | 20,300   | 7,050 | 1,875     | 29,225 | 35,30          |
+| 0700 | 270' high, 90 lb. section, wind load 90 MPH basic wind speed         |        | .20          | 120         |      | 19,300   | 7,050 | 1,875     | 28,225 | 34,20          |
+| 0800 | 400' high, 100 lb. section, wind load 70 MPH basic wind speed        |        | .14          | 171         |      | 33,500   | 10,100| 2,700     | 46,300 | 55,00          |
+| 0900 | Self-supporting, 60' high, wind load 70 MPH basic wind speed         |        | .80          | 30          |      | 5,700    | 1,750 | 470       | 7,920  | 9,50           |
+| 0910 | 60' high, wind load 90 MPH basic wind speed                          |        | .45          | 53.333      |      | 5,450    | 3,125 | 840       | 9,415  | 11,70          |
+| 1000 | 120' high, wind load 70 MPH basic wind speed                         |        | .40          | 60          |      | 8,825    | 3,525 | 945       | 13,295 | 16,10          |
+| 1200 | 190' high, wind load 90 MPH basic wind speed                         |        | .20          | 120         |      | 31,300   | 7,050 | 1,875     | 40,225 | 47,30          |
+| 2000 | For states west of Rocky Mountains, add for shipping                 |        |              |             |      |          |       |           | 10 %   |                |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 71 Electrical Utility Transmission and Distribution
+
+## 33 71 16 Utility Electrical Utility Poles
+
+001 WOOD ELECTRICAL DISTRIBUTION POLES  
+Excludes excavation, backfill and cast-in-place concrete  
+Wood, class 3 Douglas Fir, p
+
+| ID   | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|---------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 6200 | Wood, class 3 Douglas Fir, penta-treated, 20' | R-3   | 3.10         | 6.452       | Ea.  | 264      | 425   | 56        | 745     | 985            |
+| 6600 | 30'                 |       | 2.60         | 7.692       |      | 345      | 505   | 66.50     | 916.50  | 1,200         |
+| 7000 | 40'                 |       | 2.30         | 8.696       |      | 630      | 575   | 75.50     | 1,280.50| 1,625         |
+| 7200 | 45'                 |       | 1.70         | 11.765      |      | 920      | 775   | 102       | 1,797   | 2,250         |
+| 7400 | Cross arms with hardware & insulators |       |              |             |      |          |       |           |         |                |
+| 7600 | 4' long             | 11 Elec| 2.50         | 3.200       | Ea.  | 160      | 212   |           | 3721    | 490            |
+| 7800 | 5' long             |       | 2.40         | 3.333       |      | 175      | 221   |           | 396     | 525            |
+| 8000 | 6' long             |       | 2.20         | 3.636       |      | 212      | 241   |           | 453     | 595            |
+
+---
+
+## 33 71 19 Electrical Underground Ducts and Manholes
+
+| ID   | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|---------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0600 | 2' x 2' x 3' deep hand hole, precast concrete, with concrete cover | R-3   | 2.40         | 8.333       | Eq.  | 445      | 550   | 72.50     | 1,067.50| 1,375         |
+| 0800 | 3' x 3' x 3' deep   |       | 1.90         | 10.526      |      | 580      | 695   | 91.50     | 1,366.50| 1,750         |
+| 1000 | 4' x 4' x 4' deep   |       | 1.40         | 14.286      | +    | 1,675    | 940   | 124       | 2,739   | 3,375         |
+| 1400 | Manhole, precast with iron racks & pulling irons, C.I. frame and cover, 4' x 6' x 7' deep | B-13  | 2            | 28          | Ea.  | 3,200    | 1,400 | 1,050     | 5,650   | 6,750         |
+| 1600 | 6' x 8' x 7' deep   |       | 1.90         | 29.474      |      | 3,600    | 1,475 | 1,100     | 6,175   | 7,325         |
+| 1800 | 6' x 10' x 7' deep  |       | 1.80         | 31.111      |      | 4,025    | 1,550 | 1,175     | 6,750   | 8,025         |
+
+---
+
+### Underground Duct, Banks Ready for Concrete Fill, min. of 7.5" between conduits, center to center
+
+| ID   | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|---------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4580 | PVC, type EB, 1 @ 2" diameter | 2 Elec| 480          | .033        | L.F. | 1.12     | 2.21  |           | 3.33    | 4.51           |
+| 4600 | 2 @ 2" diameter     |       | 240          | .067        |      | 2.24     | 4.41  |           | 6.65    | 9               |
+| 4800 | 4 @ 2" diameter     |       | 120          | .133        |      | 4.49     | 8.85  |           | 13.34   | 18.05           |
+| 5000 | 2 @ 3" diameter     |       | 200          | .080        |      | 3.06     | 5.30  |           | 8.36    | 11.20           |
+| 5200 | 4 @ 3" diameter     |       | 100          | .160        |      | 6.10     | 10.60 |           | 16.70   | 22.50           |
+| 5400 | 2 @ 4" diameter     |       | 160          | .100        |      | 4.39     | 6.60  |           | 10.99   | 14.70           |
+| 5600 | 4 @ 4" diameter     |       | 80           | .200        |      | 8.80     | 13.25 |           | 22.05   | 29.50           |
+| 5800 | 6 @ 4" diameter     |       | 54           | .296        |      | 13.15    | 19.60 |           | 32.75   | 43.50           |
+| 6200 | Rigid galvanized steel, 2 @ 2" diameter |       | 180          | .089        |      | 17.05    | 5.90  |           | 22.95   | 27.50           |
+| 6400 | 4 @ 2" diameter     |       | 90           | 1.178       |      | 34       | 11.75 |           | 45.75   | 55              |
+| 6800 | 2 @ 3" diameter     |       | 100          | .160        |      | 37.50    | 10.60 |           | 48.10   | 57.50           |
+| 7000 | 4 @ 3" diameter     |       | 50           | .320        |      | 75.50    | 21    |           | 96.50   | 115             |
+| 7200 | 2 @ 4" diameter     |       | 70           | .229        |      | 52.50    | 15.15 |           | 67.65   | 80.50           |
+| 7400 | 4 @ 4" diameter     |       | 34           | .471        |      | 105      | 31    |           | 136     | 163             |
+| 7600 | 6 @ 4" diameter     |       | 22           | .727        |      | 158      | 48    |           | 206     | 245             |
+
+---
+
+customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Hydrocarbon Piping
+
+| ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3806  | 1-1/4" x 1-1/4" outlet                    | B-22C  | 16           |             | Ea.  | 8.60     | 52.50   | 15.55     | 76.65   | 105            |
+| 3808  | 1-1/2" x 3/4" outlet                      |        | 65           |             |      | 22.50    | 52.50   | 15.55     | 90.55   | 120            |
+| 3810  | 1-1/2" x 1-1/4" outlet                    |        | 15           | 1.067       |      | 22.50    | 55.50   | 16.60     | 94.60   | 126            |
+| 3812  | 2" x 3/4" outlet                          |        | 12           | 1.333       |      | 22.50    | 69.50   | 21        | 113     | 152            |
+| 3814  | 2" x 1" outlet                            |        | 11           | 1.455       |      | 8.25     | 76      | 22.50     | 106.75  | 148            |
+| 3816  | 2" x 1-1/4" outlet                        |        | 11           | 1.455       |      | 8.60     | 76      | 22.50     | 107.10  | 148            |
+| 3818  | 3" x 3/4" outlet                          |        | 12           | 1.333       |      | 22.50    | 69.50   | 21        | 113     | 152            |
+| 3820  | 3" x 1" outlet                            |        | 11           | 1.455       |      | 22.50    | 76      | 22.50     | 121     | 164            |
+| 3822  | 3" x 1-1/4" outlet                        |        | 11           | 1.455       |      | 8.60     | 76      | 22.50     | 107.10  | 148            |
+| 3824  | 4" x 3/4" outlet                          |        | 10           | 1.600       |      | 22.50    | 83.50   | 25        | 131     | 177            |
+| 3826  | 4" x 1" outlet                            |        | 9            | 1.778       |      | 22.50    | 93      | 27.50     | 143     | 194            |
+| 3828  | 4" x 1-1/4" outlet                        |        | 9            | 1.778       |      | 22.50    | 93      | 27.50     | 143     | 194            |
+| 3880  | For protective sleeves, 3/4" diameter outlets, add |        |              |             |      | 1.07     |           |           | 1.07    | 1.1             |
+| 3885  | 1" diameter outlets, add                  |        |              |             |      | 1.79     |         |           | 1.79    | 1.9             |
+| 3890  | 1-1/4" diameter outlets, add              |        |              |             |      | 3.08     |         |           | 3.08    | 3.3             |
+| 3905  | Branch saddles, contour x outlet, 2" x 2" outlet | B-22C  | 11           | 1.455       |      | 23       | 76      | 22.50     | 121.50  | 165            |
+| 3910  | 3" x 2" outlet                            |        |              | 1.455       |      | 23       | 76      | 22.50     | 121.50  | 165            |
+| 3915  | 3" x 3" outlet                            |        | 11           | 1.455       |      | 31       | 76      | 22.50     | 129.50  | 173            |
+| 3920  | 4" x 2" outlet                            |        | 9            | 1.778       |      | 23       | 93      | 27.50     | 143.50  | 195            |
+| 3925  | 4" x 3" outlet                            |        | 9            | 1.778       |      | 31       | 93      | 27.50     | 151.50  | 204            |
+| 3930  | 4" x 4" outlet                            |        | 9            | 1.778       |      | 42.50    | 93      | 27.50     | 163     | 216            |
+| 3980  | Ball valves, full port, 3/4" diameter     |        | 14.25        | 1.123       |      | 71       | 58.50   | 17.50     | 147     | 186            |
+| 3982  | 1" diameter                               |        | 13.50        | 1.185       |      | 71       | 62      | 18.45     | 151.45  | 192            |
+| 3984  | 1-1/4" diameter                           |        | 13.50        | 1.185       |      | 71.50    | 62      | 18.45     | 151.95  | 192            |
+| 3986  | 1-1/2" diameter                           |        | 12.75        | 1.255       |      | 105      | 65.50   | 19.55     | 190.05  | 235            |
+| 3988  | 2" diameter                               |        | 12           | 1.333       |      | 164      | 69.50   | 21        | 254.50  | 305            |
+| 3990  | 3" diameter                               |        | 12           | 1.333       |      | 385      | 69.50   | 21        | 475.50  | 545            |
+| 3992  | 4" diameter                               |        | 9            | 1.778       |      | 505      | 23      | 27.50     | 625.50  | 725            |
+| 4000  | Fittings, socket fusion                   |        |              |             |      |          |         |           |         |                |
+| 4010  | SDR 11, IPS unless noted CTS              |        |              |             |      |          |         |           |         |                |
+| 4105  | Caps, 1/2" CTS diameter                   | B-20   | 30           | .800        | Ea.  | 2.94     | 40.50   |           | 43.44   | 63.5            |
+| 4110  | 1/2" diameter                             |        | $28.50       | .842        |      | 2.96     | 42.50   |           | 45.46   | 67.5            |
+| 4115  | 3/4" diameter                             |        | 28.50        | .842        |      | 3.23     | 42.50   |           | 45.73   | 67.5            |
+| 4120  | 1" diameter                               |        | 227          | .889        |      | 4.09     | 45      |           | 49.09   | 72              |
+| 4125  | 1-1/4" diameter                           |        | 27           | .889        |      | 4.28     | 45      |           | 49.28   | 72              |
+| 4130  | 1-1/2" diameter                           |        | 25.50        | .941        |      | 4.73     | 47.50   |           | 52.23   | 76.5            |
+| 4135  | 2" diameter                               |        | 24           | 1           |      | 4.98     | 50.50   |           | 55.48   | 81              |
+| 4140  | 3" diameter                               |        | 24           |             |      | 30.50    | 50.50   |           | 81      | 109             |
+| 4145  | 4" diameter                               |        | 18           | 1.333       |      | 49.50    | 67.50   |           | 117     | 156             |
+| 4205  | Reducers, 1/2" x 1/2" CTS diameters       |        | 14.25        | 1.684       |      | 7.45     | 85.50   |           | 92.95   | 136             |
+| 4210  | 3/4" x 1/2" CTS diameters                 |        | 14.25        | 1.684       |      | 7.65     | 85.50   |           | 93.15   | 136             |
+| 4215  | 3/4" x 1/2" diameters                     |        | 14.25        | 1.684       |      | 7.65     | 85.50   |           | 93.15   | 136             |
+| 4220  | 1" x 1/2" CTS diameters                   |        | 13.50        | 1.778       |      | 7.40     | 902222  |           | 97.40   | 143             |
+| 4225  | 1" x 1/2" diameters                       |        | 13.50        | 1.778       |      | 7.85     | 90      |           | 97.85   | 144             |
+| 4230  | 1" x 3/4" diameters                       |        | 13.50        | 1.778       |      | 6.40     | 90      |           | 96.40   | 142             |
+| 4235  | 1-1/4" x 1/2" CTS diameters               |        | 13.50        | 1.778       |      | 7.40     | 90      |           | 97.40   | 143             |
+| 4240  | 1-1/4" x 3/4" diameters                   |        | 13.50        | 1.778       |      | 7.40     | 90      |           | 97.40   | 143             |
+| 4245  | 1-1/4" x 1" diameters                     |        | 13.50        | 1.778       |      | 7        | 90      |           | 97      | 143             |
+| 4250  | 1-1/2" x 3/4" diameters                   |        | 12.75        | 1.882       |      | 8.05     | 95.50   |           | 103.55  | 152             |
+| 4252  | 1-1/2" x 1" diameters                     |        | 12.75        | 1.882       |      | 10       | 95.50   |           | 105.50  | 154             |
+| 4255  | 1-1/2" x 1-1/4" diameters                 |        | 12.75        | 1.882       |      | 8.20     | 95.50   |           | 103.70  | 152             |
+| 4260  | 2" x 3/4" diameters                       |        | 12           | 2           |      | 10.20    | 101     |           | 111.20  | 162             |
+| 4265  | 2" x 1" diameters                         |        | 12           | 2           |      | 10.40    | 101     |           | 111.40  | 162             |
+
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 Hydrocarbon Transmission and Distribution
+
+## 33 Transmission Hydrocarbon Piping
+
+### 33 52 16.26 High Density Polyethylene Distribution
+
+2" x 1-1/4" diameters  
+3" x 2" diameters  
+4" x 2" diameters  
+4" x 3" diameters  
+Couplings, 1/2" CTS d
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 4270  | 2" x 1-1/4" diameters                     | B-20 | 12           | 2           | Ea.  | 10.65    | 101    |           | 111.65   | 163            |
+| 4275  | 3" x 2" diameters                         |      | 12           | 2           |      | 14.70    | 101    |           | 115.70   | 167            |
+| 4280  | 4" x 2" diameters                         |      | 9            | 2.667       |      | 35       | 135    |           | 170      | 241            |
+| 4285  | 4" x 3" diameters                         |      | 9            | 2.667       |      | 32       | 135    |           | 167      | 238            |
+| 4305  | Couplings, 1/2" CTS diameter              |      | 15           | 1.600       |      | 2.42     | 81     |           | 83.42    | 124            |
+| 4310  | 1/2" diameter                             |      | 14.25        | 1.684       |      | 2.42     | 85.50  |           | 87.92    | 131            |
+| 4315  | 3/4" diameter                             |      | 14.25        | 1.684       |      | 1.91     | 85.50  |           | 87.41    | 130            |
+| 4320  | 1" diameter                               |      | 13.50        | 1.778       |      | 1.89     | 290    |           | 91.89    | 137            |
+| 4325  | 1-1/4" diameter                           |      | 13.50        | 1.778       |      | 2.76     | 90     |           | 92.76    | 138            |
+| 4330  | 1-1/2" diameter                           |      | 12.75        | 1.882       |      | 3.01     | 95.50  |           | 98.51    | 146            |
+| 4335  | 2" diameter                               |      | 12           | 2           |      | 3.12     | 101    |           | 104.12   | 154            |
+| 4340  | 3" diameter                               |      | 12           | 2           |      | 14.20    | 101    |           | 115.20   | 167            |
+| 4345  | 4" diameter                               |      | 9            | 2.667       |      | 27       | 135    |           | 162      | 232            |
+| 4405  | Elbows, 90°, 1/2" CTS diameter            |      | 15           | 1.600       |      | 4.16     | 81     |           | 85.16    | 126            |
+| 4410  | 1/2" diameter                             |      | 14.25        | 1.684       |      | 4.20     | 85.50  |           | 89.70    | 133            |
+| 4415  | 3/4" diameter                             |      | 14.25        | 1.684       |      | 3.45     | 85.50  |           | 88.95    | 132            |
+| 4420  | 1" diameter                               |      | 13.50        | 1.778       |      | 4.17     | 90     |           | 94.17    | 140            |
+| 4425  | 1-1/4" diameter                           |      | 13.50        | 1.778       |      | 5.75     | 90     |           | 95.75    | 141            |
+| 4430  | 1-1/2" diameter                           |      | 12.75        | 1.882       |      | 8.35     | 95.50  |           | 103.85   | 152            |
+| 4435  | 2" diameter                               |      | 12           | 2           |      | 8.50     | 101    |           | 109.50   | 160            |
+| 4440  | 3" diameter                               |      | 12           | 2           |      | 31       | 101    |           | 132      | 185            |
+| 4445  | 4" diameter                               |      | 9            | 2.667       |      | 124      | 135    |           | 259      | 340            |
+| 4450  | 45°, 3/4" diameter                        |      | 14.25        | 1.684       |      | 8.45     | 85.50  |           | 93.95    | 137            |
+| 4455  | 1" diameter                               |      | 13.50        | 1.778       |      | 9.50     | 90     |           | 99.50    | 145            |
+| 4460  | 1-1/4" diameter                           |      | 13.50        | 1.778       |      | 8        | 90     |           | 98       | 144            |
+| 4465  | 1-1/2" diameter                           |      | 12.75        | 1.882       |      | 12.50    | 95.50  |           | 108      | 157            |
+| 4470  | 2" diameter                               |      | 12           | 2           |      | 9.30     | 101    |           | 110.30   | 161            |
+| 4475  | 3" diameter                               |      | 122          |             |      | 51       | 101    |           | 152      | 207            |
+| 4480  | 4" diameter                               |      | 9            | 2.667       |      | 66.50    | 135    |           | 201.50   | 276            |
+| 4505  | Tees, 1/2" CTS diameter                   |      | 10           | 2.400       |      | 3.59     | 122    |           | 125.59   | 186            |
+| 4510  | 1/2" diameter                             |      | 9.50         | 2.526       |      | 3.56     | 128    |           | 131.56   | 195            |
+| 4515  | 3/4" diameter                             |      | 9.50         | 2.526       |      | 3.55     | 128    |           | 131.55   | 195            |
+| 4520  | 1" diameter                               |      | 9            | 2.667       |      | 4.38     | 135    |           | 139.38   | 207            |
+| 4525  | 1-1/4" diameter                           |      | 9            | 2.667       |      | 6.10     | 135    |           | 141.10   | 209            |
+| 4530  | 1-1/2" diameter                           |      | 8.50         | 2.824       |      | 10.50    | 143    |           | 153.50   | 226            |
+| 4535  | 2" diameter                               |      | 8            | 3           |      | 11.25    | 152    |           | 163.25   | 239            |
+| 4540  | 3" diameter                               |      | 898          | 3           |      | 46.50    | 152    |           | 198.50   | 278            |
+| 4545  | 4" diameter                               |      | 4            | 4           |      | 90       | 203    |           | 293      | 405            |
+| 4600  | Tapping tees, type I, 3/4" punch, socket fusion outlets |      |              |             |      |          |        |           |          |                |
+| 4601  | Saddle countour x outlet diameter, IPS unless noted CTS |      |              |             |      |          |        |           |          |                |
+| 4602  | 1-1/4" x 1/2" CTS outlet                  | B-20 | 17           | 1.412       | Ea.  | 13.90    | 71.50  |           | 85.40    | 122            |
+| 4604  | 1-1/4" x 1/2" outlet                      |      | 17           | 1.412       |      | 13.90    | 71.50  |           | 85.40    | 122            |
+| 4606  | 1-1/4" x 3/4" outlet                      |      | 17           | 1.412       |      | 13.90    | 71.50  |           | 85.40    | 122            |
+| 4608  | 1-1/4" x 1" outlet                        |      |              | 1.412       |      | 16.20    | 71.50  |           | 87.70    | 125            |
+| 4610  | 1-1/4" x 1-1/4" outlet                    |      | 16           | 1.500       |      | 29       | 76     |           | 105      | 146            |
+| 4612  | 1-1/2" x 1/2" CTS outlet                  |      | 16           | 1.500       |      | 13.90    | 76     |           | 89.90    | 129            |
+| 4614  | 1-1/2" x 1/2" outlet                      |      | 16           | 1.500       |      | 13.90    | 76     |           | 89.90    | 129            |
+| 4616  | 1-1/2" x 3/4" outlet                      |      | 16           | 1.500       |      | 13.90    | 76     |           | 89.90    | 129            |
+| 4618  | 1-1/2" x 1" outlet                        |      | 16           | 1.500       |      | 16.20    | 76     |           | 92.20    | 132            |
+| 4620  | 1-1/2" x 1-1/4" outlet                    |      | 15           | 1.600       |      | 29       | 81     |           | 110      | 153            |
+| 4622  | 2" x 1/2" CTS outlet                      |      | 12           | 222         |      | 13.90    | 101    |           | 114.90   | 166            |
+| 4624  | 2" x 1/2" outlet                          |      | 12           |             |      | 13.90    | 101    |           | 114.90   | 166            |
+| 4626  | 2" x 3/4" outlet                          |      | 12           |             |      | 13.90    | 101    |           | 114.90   | 166            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 52 Hydrocarbon Transmission and Distribution - Gas Hydrocarbon Piping
+
+## 33 52 16.23 Medium Density Polyethylene Piping
+
+| ID    | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------|-------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4624  | 1-1/2" x 1-1/4" outlet               | B 20  | 15          | 1.600       | Ea . | 27       | 81    |           | 108     | 151            |
+| 4626  | 2" x 1/2" CTS outlet                 |       | 1222        | 22222222222 |      | 14.60    | 101   |           | 115.60  | 167            |
+| 4628  | 2" x 1/2" outlet                     |       | 12          | 2           |      | 14.60    | 101   |           | 115.60  | 167            |
+| 4630  | 2" x 3/4" outlet                     |       | 12          |             |      | 14.60    | 101   |           | 115.60  | 167            |
+| 4632  | 2" x 1" CTS outlet                   | 1     | 122         | 1           |      | 15.95    | 101   |           | 116.95  | 169            |
+| 4634  | 2" x 1" outlet                       |       | 12          | 2   1       |      | 15.95    | 101   |           | 116.95  | 169            |
+| 4636  | 2" x 1-1/4" outlet                   |       | 11          | 2.182       |      | 27       |       |           | 138     | 195            |
+| 4638  | 3" x 1/2" CTS outlet                 |       | 12          |             |      | 14.60    |       |           | 115.60  | 167            |
+| 4640  | 3" x 1/2" outlet                     |       | 12          |             |      | 14.60    |       |           | 115.60  | 167            |
+| 4642  | 3" x 3/4" outlet                     |       | 12          |             |      | 14.60    | 101   |           | 115.60  | 167            |
+| 4644  | 3" x 1" CTS outlet                   |       | 12          |             |      | 15.95    | 101   |           | 116.95  | 169            |
+| 4646  | 3" x 1" outlet                       |       | 12          | 21          |      | 15.95    | 101   |           | 116.95  | 169            |
+| 4648  | 3" x 1-1/4" outlet                   |       | 11          | 2.182       |      | 27       | 111   |           | 138     | 195            |
+| 4650  | 4" x 1/2" CTS outlet                 |       | 10          | 2.400       |      | 14.60    | 122   |           | 136.60  | 198            |
+| 4652  | 4" x 1/2" outlet                     |       | 10          | 2.400       |      | 14.60    | 122   |           | 136.60  | 198            |
+| 4654  | 4" x 3/4" outlet                     |       | 10          | 2.400       |      | 14.60    | 122   |           | 136.60  | 198            |
+| 4656  | 4" x 1" CTS outlet                   |       | 10          | 2.400       |      | 15.95    | 122   |           | 137.95  | 200            |
+| 4658  | 4" x 1" outlet                       |       | 10          | 2.400       |      | 15.95    | 122   |           | 137.95  | 200            |
+| 4660  | 4" x 1-1/4" outlet                   |       | 9           | 2.667       |      | 27       | 135   |           | 162     | 232            |
+| 4685  | For protective sleeves, 1/2" CTS to 3/4" diameter outlets, add | |         |             |      | 1.07     |         |           | 1.07    | 1.10           |
+| 4690  | 1" CTS & IPS diameter outlets, add   |       |             |             |      | 1.79     |       |           | 1.79    | 1.9            |
+| 4695  | 1-1/4" diameter outlets, add         |       |             |             |      | 3.08     |       |           | 3.08    | 3.3            |
+| 4700  | Tapping tees, high volume, socket fusion outlets | |         |             |      |          |       |           |         |                |
+| 4705  | 1-1/2" punch, 2" x 1-1/4" outlet     | B 20  | 11          | 2.182       | Ea . | 134      | 1m    |           | 245     | 310            |
+| 4710  | 1-7/8" punch, 3" x 1-1/4" outlet     |       | 11          | 2.182       |      | 134      | 1m    |           | 245     | 310            |
+| 4715  | 4" x 1-1/4" outlet                   |       | 9           | 2.667       |      | 134      | 135   |           | 269     | 350            |
+| 4750  | For protective sleeves, add          |       |             |             |      | 3.660    |       |           | 3.60    | 3.9 €          |
+| 4800  | Service saddles, saddle contour x outlet, socket fusion outlets | |         |             |      |          |         |           |         |                |
+| 4801  | IPS unless noted CTS                 |       |             |             |      |          |       |           |         |                |
+| 4802  | 1-1/4" x 1/2" CTS outlet             | B-20  | 17          | 1.412       | Ea . | 4.52     | 71.50 |           | 76.02   | 112            |
+| 4804  | 1-1/4" x 1/2" outlet                 | B 20  | 17          | 1.412       | Ea . | 4.52     | 71.50 |           | 76.02   | 112            |
+| 4806  | 1-1/4" x 3/4" outlet                 |       | 17          | 1.412       |      | 4.52     | 71.50 |           | 76.02   | 112            |
+| 4808  | 1-1/4" x 1" CTS outlet               |       | 17          | 1.412       |      | 7.45     | 71.50 |           | 78.95   | 115            |
+| 4810  | 1-1/4" x 1" outlet                   |       | 17          | 1.412       |      | 22.50    | 71.50 |           | 94      | 132            |
+| 4812  | 1-1/4" x 1-1/4" outlet               |       | 16          | 1.500       |      | 12       | 76    |           | 88      | 127            |
+| 4814  | 1-1/2" x 1/2" CTS outlet             |       | 16          | 1.500       |      | 4.52     | 76    |           | 80.52   | 119            |
+| 4816  | 1-1/2" x 1/2" outlet                 |       | 16          | 1.500       |      | 4.52     | 76    |           | 80.52   | 119            |
+| 4818  | 1-1/2" x 3/4" outlet                 |       | 16          | 1.500       |      | 22.50    | 76    |           | 98.50   | 139            |
+| 4820  | 1-1/2" x 1-1/4" outlet               |       | 15          | 1.600       |      | 12       | 81    |           | 93      | 134            |
+| 4822  | 2" x 1/2" CTS outlet                 |       | 122222      | 22          |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4824  | 2" x 1/2" outlet                     |       | 12          | 21          |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4826  | 2" x 3/4" outlet                     |       | 12          | 222         |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4828  | 2" x 1" CTS outlet                   |       | 12          | 2           |      | 7.45     | 101   |           | 108.45  | 159            |
+| 4830  | 2" x 1" outlet                       |       | 12          | 2           |      | 7.45     | 101   |           | 108.45  | 159            |
+| 4832  | 2" x 1-1/4" outlet                   |       | 11          | 2.182       |      | 22.50    | 111   |           | 133.50  | 190            |
+| 4834  | 3" x 1/2" CTS outlet                 |       | 12          | 2           |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4836  | 3" x 1/2" outlet                     |       | 12          | 2           |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4838  | 3" x 3/4" outlet                     |       | 12          | 2           |      | 4.52     | 101   |           | 105.52  | 156            |
+| 4840  | 3" x 1" CTS outlet                   |       | 12          | 2           |      | 7.45     | 101   |           | 108.45  | 159            |
+| 4842  | 3" x 1" outlet                       |       | 12          | 2   9       |      | 7.45     | 101   |           | 108.45  | 159            |
+| 4844  | 3" x 1-1/4" outlet                   |       | 11          | 2.182       |      | 19.15    | 111   |           | 130.15  | 186            |
+| 4846  | 4" x 1/2" CTS outlet                 |       | 10          | 2.400       |      | 4.52     | 1222  |           | 126.52  | 187            |
+| 4848  | 4" x 1/2" outlet                     |       | 10          | 2.400       |      | 4.52     |       |           | 126.52  | 187            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Socket Fused Pipe
+
+## 2405 Hydrocarbon Transmission and Distribution Gas Hydrocarbon Piping  
+### 33 52 16.26 High Density Polyethylene Distribution  
+4" diameter, SDR 11  
+2250  
+125psi coils, socket fusion coupling @ 100', 1/2" CTS diameter, SDR 7  
+
+---
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2250  | 4" diameter, SDR 11                                                  | B-22A  | 500          | 0.80        | LF   | 3.37     | 4.18    | 1.31      | 8.86    | 11.40          |
+| 2400  | Socket fused pipe                                                    |        |              |             |      |          |         |           |         |                |
+| 2405  | 125psi coils, socket fusion coupling @ 100', 1/2" CTS diameter, SDR 7| B-20   | 1050         | .023        | LF   | .18      | 1.16    |           | 1.34    | 11.93          |
+| 2410  | 160psi coils, socket fusion coupling @ 100', IPS 1/2" diameter, SDR 9| B-20   | 1000         | .024        | LF   | .23      | 1.22    |           | 1.45    | 2.08           |
+| 2415  | 3/4" diameter, SDR 11                                                |        | 1000         | .024        |      | .33      | 1.22    |           | 1.55    | 2.18           |
+| 2420  | 1" diameter, SDR 11                                                  |        | 950          | .025        |      | .53      | 1.28    |           | 1.81    | 2.49           |
+| 2425  | 1-1/4" diameter, SDR 11                                              |        | 950          | .025        |      | .78      | 1.28    |           | 2.06    | 2.77           |
+| 2430  | 1-1/2" diameter, SDR 11                                              |        | 900          | .027        |      | 1.43     | 1.35    |           | 2.78    | 3.59           |
+| 2435  | 2" diameter, SDR 11                                                  |        | 850          | .028        |      | 1.17     | 1.43    |           | 2.60    | 3.43           |
+| 2440  | 3" diameter, SDR 11                                                  |        | 850          | .028        |      | 2.02     | 1.43    |           | 3.45    | 4.36           |
+| 2445  | 160psi 40' lengths, socket fusion coupling, IPS 3" diameter, SDR 11  | B-21A  | 340          | .118        |      | 2.40     | 6.65    | 1.68      | 10.73   | 14.40          |
+| 2450  | 4" diameter, SDR 11                                                  | "      | 260          | .154        |      | 4.04     | 8.70    | 2.20      | 14.94   | 19.80          |
+
+---
+
+# Compression Coupled Pipe
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 2600  | Compression coupled pipe                                             |        |              |             |      |          |         |           |         |                |
+| 2610  | 160psi coils, compression coupling @ 100', IPS 1/2" diameter, SDR 9  | B-20   | 1000         | .024        | L.F. | བྲ.42    | 1.22    |           | 1.64    | 22.284         |
+| 2615  | 3/4" diameter, SDR 11                                                |        | 1000         | .024        |      | ཝཱ.54    | 1.22    |           | 1.76    | 2.42           |
+| 2620  | 1" diameter, SDR 11                                                  |        | 950          | .025        |      | .79      | 1.28    |           | 2.07    | 2.78           |
+| 2625  | 1-1/4" diameter, SDR 11                                              |        | 950          | .025        |      | 1.64     | 1.28    |           | 2.92    | 3.72           |
+| 2630  | 1-1/2" diameter, SDR 11                                              |        | 900          | .027        |      | 2.36     | 1.35    |           | 3.71    | 4.61           |
+| 2635  | 2" diameter, SDR 11                                                  |        | 850          | .028        |      | 2.26     | 1.43    |           | 3.69    | 4.62           |
+
+---
+
+# Fittings, Butt Fusion
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3000  | Fittings, butt fusion                                                |        |              |             |      |          |         |           |         |                |
+| 3010  | SDR 11, IPS unless noted CTS                                         |        |              |             |      |          |         |           |         |                |
+| 3105  | Caps, 1/2" diameter                                                  | B-220  | 28.50        | .561        | Ea.  | 8.20     | 29.5033 | 8.75      | 46.45   | 62.50          |
+| 3110  | 3/4" diameter                                                        |        | 28.50        | .561        |      | 4.26     | 29.50   | 8.75      | 42.51   | 58.50          |
+| 3115  | 1" diameter                                                          |        | 27           | .593        |      | 4.64     | 31 T    | 9.25      | 44.89   | 62             |
+| 3120  | 1-1/4" diameter                                                      |        | 27           | .593        |      | 7.70     | 31      | 9.25      | 47.95   | 65             |
+| 3125  | 1-1/2" diameter                                                      |        | 25.50        | .627        |      | 5.60     | 33      | 9.75      | 48.35   | 66             |
+| 3130  | 2" diameter                                                          |        | 24           | 1.667       |      | 11.65    | 35      | 10.40     | 57.05   | 76             |
+| 3135  | 3" diameter                                                          |        | 24           | .667        |      | 16.50    | 35      | 10.40     | 61.90   | 81.50          |
+| 3140  | 4" diameter                                                          |        | 18           | .889        |      | 30       | 46.50   | 13.85     | 90.35   | 118            |
+
+---
+
+# Reducers
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3205  | Reducers, 1/2" x 1/2" CTS diameters                                  |        | 14.25        | 1.123       |      | 15.20    | 58.50   | 17.50     | 91.20   | 124            |
+| 3210  | 3/4" x 1/2" CTS diameters                                            |        | 14.25        | 1.123       |      | 10.90    | 58.50   | 17.50     | 86.90   | 119            |
+| 3215  | 1" x 1/2" CTS diameters                                              |        | 13.50        | 1.185       |      | 16.95    | 62      | 18.45     | 97.40   | 132            |
+| 3220  | 1" x 1/2" diameters                                                  |        | 13.50        | 1.185       |      | 21       | 62      | 18.45     | 101.45  | 136            |
+| 3225  | 1" x 3/4" diameters                                                  |        | 13.50        | 1.185       |      | 14.05    | 62      | 18.45     | 94.50   | 128            |
+| 3230  | 1-1/4" x 1" diameters                                                |        | 13.50        | 1.185       |      | 15.65    | 62      | 18.45     | 96.10   | 130            |
+| 3232  | 1-1/2" x 3/4" diameters                                              |        | 12.75        | 1.255       |      | 9.80     | 65.50   | 19.55     | 94.85   | 130            |
+| 3233  | 1-1/2" x 1" diameters                                                |        | 12.75        | 1.255       |      | 9.80     | 65.50   | 19.55     | 94.85   | 130            |
+| 3234  | 1-1/2" x 1-1/4" diameters                                            |        | 12.75        | 1.255       |      | 9.80     | 65.50   | 19.55     | 94.85   | 130            |
+| 3235  | 2" x 1" diameters                                                    |        | 12           | 1.333       |      | 17.75    | 69.50   | 21        | 108.25  | 147            |
+| 3240  | 2" x 1-1/4" diameters                                                |        | 12           | 1.333       |      | 17.75    | 69.50   | 21        | 108.25  | 147            |
+| 3245  | 2" x 1-1/2" diameters                                                | B 22C  | 12           | 1.333       | Ea.  | 11.25    | 69.50   | 21        | 101.75  | 139            |
+| 3250  | 3" x 2" diameters                                                    |        | 12           | 1.333       |      | 13.10    | 69.50   | 21        | 103.60  | 141            |
+| 3255  | 4" x 2" diameters                                                    |        | 9            | 1.778       |      | 17.90    | 93      | 27.50     | 138.40  | 189            |
+| 3260  | 4" x 3" diameters                                                    |        | 9            | 1.778       |      | 19.20    | 93      | 27.50     | 139.70  | 191            |
+
+---
+
+# Elbows
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
+| 3305  | Elbows, 90°, 3/4" diameter                                           |        | 14.25        | 1.123       |      | 7.25     | 58.50   | 17.50     | 83.25   | 115            |
+| 3310  | 1" diameter                                                          |        | 13.50        | 1.185       |      | 7.15     | 622     | 18.45     | 87.60   | 121            |
+| 3315  | 1-1/4" diameter                                                      |        | 13.50        | 1.185       |      | 8.30     | 62      | 18.45     | 88.75   | 122            |
+| 3320  | 1-1/2" diameter                                                      |        | 12.75        | 1.255       |      | 9.45     | 65.50   | 19.55     | 94.50   | 130            |
+| 3325  | 2" diameter                                                          |        | 12           | 1.333       |      | 10.20    | 69.50   | 21        | 100.70  | 138            |
+| 3330  | 3" diameter                                                          | 112    | 1.333        |             |      | 19.90    | 69.50   | 21        | 110.40  | 149            |
+| 3335  | 4" diameter                                                          |        | 9            | 1.778       |      | 26       | 93      | 27.50     | 146.50  | 198            |
+| 3380  | 45°, 3/4" diameter                                                   |        | 14.25        | 1.123       |      | 8.05     | 58.50   | 17.50     | 84.05   | 116            |
+| 3385  | 1" diameter                                                          |        | 13.50        | 1.185       |      | 8.05     | 62      | 18.45     | 88.50   | 122            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33332 Hydrocarb52 TransmissioHydrocarbonibution
+
+## 33 52 16 - Gas Hydrocarbon PipTransmission.26 High Density Polyethylene Pipingandily Labor-CreDistributionrs Unit
+
+### 2022 Bare Costs
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4628  | 2" x 1" outlet                                                       | B-20 | 12           | 2           | Ea.  | 16.20    | 101   |           | 117.20  | 169            |
+| 4630  | 2" x 1-1/4" outlet                                                   |      | 11           | 2.182       |      | 29       | 111   |           | 140     | 197            |
+| 4632  | 3" x 1/2" CTS outlet                                                 |      | 12           | 2           |      | 13.90    | 101   |           | 114.90  | 166            |
+| 4634  | 3" x 1/2" outlet                                                     |      | 12           | 2           |      | 13.90    | 101   |           | 114.90  | 166            |
+| 4636  | 3" x 3/4" outlet                                                     |      | 12           | 2           | 1    | 13.90    | 101   |           | 114.90  | 166            |
+| 4638  | 3" x 1" outlet                                                       |      | 122          |              |      | 16.20    | 101   |           | 117.20  | 169            |
+| 4640  | 3" x 1-1/4" outlet                                                   |      |              | 2.182       |      | 29       |       |           | 140     | 197            |
+| 4642  | 4" x 1/2" CTS outlet                                                 |      | 10           | 2.400       |      | 13.90    | 122   |           | 135.90  | 197            |
+| 4644  | 4" x 1/2" outlet                                                     |      | 10           | 2.400       |      | 13.90    | 122   |           | 135.90  | 197            |
+| 4646  | 4" x 3/4" outlet                                                     |      | 10           | 2.400       |      | 13.90    | 122   |           | 135.90  | 197            |
+| 4648  | 4" x 1" outlet                                                       |      | 10           | 2.400       |      | 16.20    | 122   |           | 138.20  | 200            |
+| 4650  | 4" x 1-1/4" outlet                                                   |      | 9            | 2.667       | i    | 29       | 135   |           | 164     | 234            |
+| 4675  | For protective sleeves, 1/2" to 3/4" diameter outlets, add           |      |              |             |      | 1.07     |       |           | 1.07    | 1.11           |
+| 4680  | 1" diameter outlets, add                                             |      |              |             |      | 1.79     |       |           | 1.79    | 1.9            |
+| 4685  | 1-1/4" diameter outlets, add                                         |      |              |             |      | 3.08     |       |           | 3.08    | 3.3            |
+| 4700  | Tapping tees, high volume, socket fusion outlets                     |      |              |             |      |          |       |           |         |                |
+| 4705  | 1-1/2" punch, 2" x 1-1/4" outlet                                    | B-20 | 11           | 2.182       | Ea.  | 3336     |       |           | 247     | 315            |
+| 4710  | 1-7/8" punch, 3" x 1-1/4" outlet                                    | "    | 11           | 2.182       | "    |          |       |           | 247     | 315            |
+| 4715  | 4" x 1-1/4" outlet                                                   | B-20 | 6            | 2.667       | Ea.  |          | 135   |           | 271     | 350            |
+| 4750  | For protective sleeves, add                                          |      |              |             | "    | 3.60     |       |           | 3.60    | 3.9            |
+| 4800  | Service saddles, saddle contour x outlet, socket fusion outlets      |      |              |             |      |          |       |           |         |                |
+| 4801  | IPS unless noted CTS                                                 |      |              |             |      |          |       |           |         |                |
+| 4802  | 1-1/4" x 1/2" CTS outlet                                             | B 20 | 17           | 1.412       | Ea.  | 7.30     | 71.50 |           | 78.80   | 115            |
+| 4804  | 1-1/4" x 1/2" outlet                                                 |      | 17           | 1.412       |      | 7.30     | 71.50 |           | 78.80   | 115            |
+| 4806  | 1-1/4" x 3/4" outlet                                                 |      | 17           | 1.412       |      | 7.30     | 71.50 |           | 78.80   | 115            |
+| 4808  | 1-1/4" x 1" outlet                                                   |      | 16           | 1.500       |      | 8.60     | 76    |           | 84.60   | 123            |
+| 4810  | 1-1/4" x 1-1/4" outlet                                               |      | 16           | 1.500       |      | 12.20    | 76    |           | 88.20   | 127            |
+| 4812  | 1-1/2" x 1/2" CTS outlet                                             |      | 16           | 1.500       |      | 7.30     | 76    |           | 83.30   | 122            |
+| 4814  | 1-1/2" x 1/2" outlet                                                 |      | 16           | 1.500       |      | 7.30     | 76    |           | 83.30   | 122            |
+| 4816  | 1-1/2" x 3/4" outlet                                                 |      | 16           | 1.500       |      | 7.30     | 76    |           | 83.30   | 122            |
+| 4818  | 1-1/2" x 1-1/4" outlet                                               |      | 15           | 1.600       |      | 12.20    | 81    |           | 93.20   | 134            |
+| 4820  | 2" x 1/2" CTS outlet                                                 |      | 12           | 2           |      | 7.30     | 101   |           | 108.30  | 159            |
+| 4822  | 2" x 1/2" outlet                                                     |      | 12213        | 22          |      | 7.30     | 101   |           | 108.30  | 159            |
+| 4824  | 2" x 3/4" outlet                                                     |      | 12           |             |      | 7.30     | 101   |           | 108.30  | 159            |
+| 4826  | 2" x 1" outlet                                                       |      | 11           | 2.182       |      | 8.60     | 111   |           | 119.60  | 174            |
+| 4828  | 2" x 1-1/4" outlet                                                   |      | 11           | 2.182       |      | 12.20    |       |           | 123.20  | 178            |
+| 4830  | 3" x 1/2" CTS outlet                                                 |      | 12           | 2           |      | 7.30     | 101   |           | 108.30  | 159            |
+| 4832  | 3" x 1/2" outlet                                                     |      | 12           | 2           |      | 7.30     | 101   |           | 108.30  | 159            |
+| 4834  | 3" x 3/4" outlet                                                     |      | 12           | 2           |      | 7.360    | 101   |           | 108.30  | 159            |
+| 4836  | 3" x 1" outlet                                                       |      | 11           | 2.182       |      | 8.60     | 111   |           | 119.60  | 174            |
+| 4838  | 3" x 1-1/4" outlet                                                   |      | 11           | 2.182       |      | 12.20    | 111   |           | 123.20  | 178            |
+| 4840  | 4" x 1/2" CTS outlet                                                 |      | 10           | 2.400       |      | 7.30     | 122   |           | 129.30  | 190            |
+| 4842  | 4" x 1/2" outlet                                                     |      | 10           | 2.400       |      | 7.30     | 122   |           | 129.30  | 190            |
+| 4844  | 4" x 3/4" outlet                                                     |      | 10           | 2.400       |      | 7.30     | 122   |           | 129.30  | 190            |
+| 4846  | 4" x 1" outlet                                                       |      | 19           | 2.667       |      | 8.60     | 135   |           | 143.60  | 211            |
+| 4848  | 4" x 1-1/4" outlet                                                   |      | 9            | 2.667       |      | 12.20    | 135   |           | 147.20  | 215            |
+| 4880  | For protective sleeves, 1/2" to 3/4" diameter outlets, add           |      |              |             |      | 1.07     |       |           | 1.07    | 1.1            |
+| 4885  | 1" diameter outlets, add                                             |      |              |             |      | 1.79     |       |           | 1.79    | 1.9            |
+| 4890  | 1-1/4" diameter outlets, add                                         |      |              |             |      | 3.08     |       |           | 3.08    | 3.3            |
+| 4900  | Reducer tees, 1-1/4" x 3/4" x 3/4" diameters                         | B-20 | 9            | 2.667       |      | 9.30     | 135   |           | 144.30  | 212            |
+| 4902  | 1-1/4" x 3/4" x 1" diameters                                         |      | 9            | 2.667       |      | 12.05    | 135   |           | 147.05  | 215            |
+| 4904  | 1-1/4" x 3/4" x 1-1/4" diameters                                     |      | 9            | 2.667       |      | 12.05    | 135   |           | 147.05  | 215            |
+| 4906  | 1-1/4" x 1" x 3/4" diameters                                         |      | 9            | 2.667       | 1    | 12.05    | 135   |           | 147.05  | 215            |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 33 52 Hydrocarbon Transmission/Distribution  
+## 33 52 16 - Gas Hydrocarbon Piping  
+### 33 52 16 - Distribution Density Polyethylene Piping
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4234  | 2" x 3/4" diameters                       | B-20 | 22222:       | 222222      | Ea . | 12.15    | 101   |           | 113.15  | 164            |
+| 4236  | 2" x 1" CTS diameters                     |      |              |             |      | 12       | 101   |           | 113     | 164            |
+| 4238  | 2" x 1" diameters                         |      | 12           |             |      | 13.05    | 101   |           | 114.05  | 165            |
+| 4240  | 2" x 1-1/4" diameters                     |      |              |             |      | 11.90    | 101   |           | 112.90  | 164            |
+| 4242  | 2" x 1-1/2" diameters                     |      | 12           |             |      | 10.35    | 101   |           | 111.35  | 162            |
+| 4244  | 3" x 2" diameters                         |      | 12           | 2           |      | 14.35    | 101   |           | 115.35  | 167            |
+| 4246  | 4" x 2" diameters                         |      | 9            | 2.667       |      | 330      | 135   |           | 165     | 235            |
+| 4248  | 4" x 3" diameters                         |      | 9            | 2.667       |      | 34       | 135   |           | 169     | 240            |
+| 4300  | Couplings, 1/2" CTS diameter              |      | 15           | 1.600       |      | 2.20     | 81    |           | 83.20   | 123            |
+| 4305  | 1/2" diameter                             |      | 14.25        | 1.684       |      | 1.83     | 85.50 |           | 87.33   | 130            |
+| 4310  | 3/4" diameter                             |      | 14.25        | 1.684       |      | 2.05     | 85.50 |           | 87.55   | 130            |
+| 4315  | 1" CTS diameter                           |      | 14           | 1.714       |      | 2.48     | 87    |           | 89.48   | 133            |
+| 4320  | 1" diameter                               |      | 13.50        | 1.778       |      | 2.09     | 901   |           | 92.09   | 137            |
+| 4325  | 1-1/4" diameter                           |      | 13.50        | 1.778       |      | 2.51     | 90    |           | 92.51   | 138            |
+| 4330  | 1-1/2" diameter                           |      | 12.75        | 1.882       |      | 2.97     | 95.50 |           | 98.47   | 146            |
+| 4335  | 2" diameter                               |      | 122          | 2           |      | 2.59     | 101   |           | 103.59  | 154            |
+| 4340  | 3" diameter                               |      | 12           | 2           |      | 19.75    | 101   |           | 120.75  | 173            |
+| 4345  | 4" diameter                               |      | 9            | 2.667       |      | 28.50    | 135   |           | 163.50  | 233            |
+| 4400  | Elbows, 90°, 1/2" CTS diameter            |      | 15           | 1.600       |      | 4.16     | 811   |           | 85.16   | 126            |
+| 4405  | 1/2" diameter                             |      | 14.25        | 1.684       |      | 4.09     | 85.50 |           | 89.59   | 133            |
+| 4410  | 3/4" diameter                             |      | 14.25        | 1.684       |      | 4.83     | 85.50 |           | 90.33   | 133            |
+| 4415  | 1" CTS diameter                           |      | 14           | 1.714       |      | 4.65     | 87    |           | 91.65   | 135            |
+| 4420  | 1" diameter                               |      | 13.50        | 1.778       |      | 5.15     | 90    |           | 95.15   | 141            |
+| 4425  | 1-1/4" diameter                           |      | 13.50        | 1.778       |      | 4.93     | 90    |           | 94.93   | 140            |
+| 4430  | 1-1/2" diameter                           |      | 12.75        | 1.882       |      | 6.20     | 95.50 |           | 101.70  | 150            |
+| 4435  | 2" diameter                               |      | 122          |             |      | 5.10     | 101   |           | 106.10  | 157            |
+| 4440  | 3" diameter                               |      | 12           | 2           | 1    | 27       | 101   |           | 128     | 181            |
+| 4445  | 4" diameter                               |      | 9            | 2.667       |      | 69.50    | 135   |           | 204.50  | 279            |
+| 4460  | 45°, 1" diameter                          |      | 13.50        | 1.778       |      | 8.30     | 90    |           | 98.30   | 144            |
+| 4465  | 2" diameter                               |      | 12           | 2           |      | 11.15    | 101   |           | 112.15  | 163            |
+| 4500  | Tees, 1/2" CTS diameter                   |      | 10           | 2.400       |      | 3.98     | 122   |           | 125.98  | 186            |
+| 4505  | 1/2" diameter                             |      | 9.50         | 2.526       |      | 3.53     | 128   |           | 131.53  | 195            |
+| 4510  | 3/4" diameter                             |      | 9.50         | 2.526       |      | 4.75     | 128   |           | 132.75  | 196            |
+| 4515  | 1" CTS diameter                           |      | 9.33         | 2.5711      |      | 4.65     | 130   |           | 134.65  | 200            |
+| 4520  | 1" diameter                               |      | 9            | 2.667       |      | 5.80     | 135   |           | 140.80  | 208            |
+| 4525  | 1-1/4" diameter                           |      | 9            | 2.667       |      | 6.45     | 135   |           | 141.45  | 209            |
+| 4530  | 1-1/2" diameter                           |      | 8.50         | 2.824       |      | 10.65    | 143   |           | 153.65  | 226            |
+| 4535  | 2" diameter                               |      | 8            | 3           |      | 12.75    | 152   |           | 164.75  | 241            |
+| 4540  | 3" diameter                               |      | 8            | 3           |      | 339      | 152   |           | 191     | 270            |
+| 4545  | 4" diameter                               |      |              | 4           |      | 73       | 203   |           | 276     | 385            |
+| 4600  | Tapping tees, type I, 3/4" punch, socket fusion outlets |      |              |             |      |          |       |           |         |                |
+| 4601  | Saddle contour x outlet diameter, IPS unless noted CTS |      |              |             |      |          |       |           |         |                |
+| 4602  | 1-1/4" x 1/2" CTS outlet                  | B-20 | 17           | 1.412       | Ea . | 14.60    | 71.50 |           | 86.10   | 123            |
+| 4604  | 1-1/4" x 1/2" outlet                      |      | 17           | 1.412       |      | 14.60    | 71.50 |           | 86.10   | 123            |
+| 4606  | 1-1/4" x 3/4" outlet                      |      | 17           | 1.412       |      | 14.60    | 71.50 |           | 86.10   | 123            |
+| 4608  | 1-1/4" x 1" CTS outlet                    |      | 17           | 1.412       |      | 15.95    | 71.50 |           | 87.45   | 125            |
+| 4610  | 1-1/4" x 1" outlet                        |      | 17           | 1.412       |      | 15.95    | 71.50 |           | 87.45   | 125            |
+| 4612  | 1-1/4" x 1-1/4" outlet                    |      | 16           | 1.500       |      | 27       | 76    |           | 103     | 144            |
+| 4614  | 1-1/2" x 1/2" CTS outlet                  |      | 16           | 1.500       |      | 14.60    | 76    |           | 90.60   | 130            |
+| 4616  | 1-1/2" x 1/2" outlet                      |      | 16           | 1.500       |      | 14.60    | 76    |           | 90.60   | 130            |
+| 4618  | 1-1/2" x 3/4" outlet                      |      | 16           | 1.500       |      | 14.60    | 76    |           | 90.60   | 333            |
+| 4620  | 1-1/2" x 1" CTS outlet                    |      | 16           | 1.500       |      | 15.95    | 76    |           | 91.95   | 132            |
+| 4622  | 1-1/2" x 1" outlet                        |      | 16           | 1.500       |      | 15.95    | 76    |           | 91.95   | 132            |
+
+# 33 52 16 - Gas Hydrocarbon Piping
+
+## 33 52 16.26 High Density Polyethylene Piping
+
+### 1-1Distribution" diameters  
+1-1/4" x 1" x 1-1/4" diameters
+
+| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4908  | 1-1/4" x 1" x 1" diameters                       | B-209  |              | 2.667       | Ea   | 9.20     | 135   |           | 144.20  | 212            |
+| 49101 | 1-1/4" x 1" x 1-1/4" diameters                   |        | 9            | 2.667       |      | 12.05    | 135   |           | 147.05  | 215            |
+| 49121 | 1-1/4" x 1-1/4" x 3/4" diameters                 | B-20   | 9            | 2.667       | Ea   | 8.65     | 135   |           | 143.65  | 212            |
+| 4914  | 1-1/4" x 1-1/4" x 1" diameters                   |        | 9            | 2.667       |      | 9.20     | 135   |           | 144.20  | 212            |
+| 4916  | 1-1/2" x 3/4" x 3/4" diameters                   |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4918  | 1-1/2" x 3/4" x 1" diameters                     |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4920  | 1-1/2" x 3/4" x 1-1/4" diameters                 |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4922  | 1-1/2" x 3/4" x 1-1/2" diameters                 |        | 8.50         | 2.824       | 1    | 15.30    | 143   |           | 158.30  | 231            |
+| 4924  | 1-1/2" x 1" x 3/4" diameters                     |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4926  | 1-1/2" x 1" x 1" diameters                       |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4928  | 1-1/2" x 1" x 1-1/4" diameters                   |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4930  | 1-1/2" x 1" x 1-1/2" diameters                   |        | 8.50         | 2.824       |      | 15.30    | 143   |           | 158.30  | 231            |
+| 4932  | 1-1/2" x 1-1/4" x 3/4" diameters                 |        | 8.50         | 2.824       |      | 12.85    | 143   |           | 155.85  | 228            |
+| 4934  | 1-1/2" x 1-1/4" x 1" diameters                   |        | 8.50         | 2.824       |      | 12.70    | 143   |           | 155.70  | 228            |
+| 4936  | 1-1/2" x 1-1/4" x 1-1/4" diameters               |        | 8.50         | 2.824       |      | 12.85    | 143   |           | 155.85  | 228            |
+| 4938  | 1-1/2" x 1-1/4" x 1-1/2" diameters               |        | 8.50         | 2.8222mm    | --   | 15.30    | 143   |           | 158.30  | 231            |
+| 4940  | 1-1/2" x 1-1/2" x 3/4" diameters                 |        | 8.50         | 2.824       |      | 11.95    | 143   |           | 154.95  | 227            |
+| 4942  | 1-1/2" x 1-1/2" x 1" diameters                   |        | 8.50         | -2.824      |      | 11.95    | 143   |           | 154.95  | 227            |
+| 4944  | 1-1/2" x 1-1/2" x 1-1/4" diameters               |        | 8.50         | 2.824       |      | 11.95    | 143   |           | 154.95  | 227            |
+| 4946  | 2" x 1-1/4" x 3/4" diameters                     |        | 8            | 3           |      | 13.90    | 152   |           | 165.90  | 242            |
+| 4948  | 2" x 1-1/4" x 1" diameters                       |        | 8            | 3           |      | 13.45    | 152   |           | 165.45  | 242            |
+| 4950  | 2" x 1-1/4" x 1-1/4" diameters                   |        | 83           | 3333333     |      | 14       | 152   |           | 166     | 242            |
+| 4952  | 2" x 1-1/2" x 3/4" diameters                     | 1      | 8            |             |      | 13.90    | 152   |           | 165.90  | 242            |
+| 4954  | 2" x 1-1/2" x 1" diameters                       |        | 8            | 3           |      | 13.45    | 152   |           | 165.45  | 242            |
+| 4956  | 2" x 1-1/2" x 1-1/4" diameters                   |        | 8            | 3           |      | 13.45    | 152   |           | 165.45  | 242            |
+| 4958  | 2" x 2" x 3/4" diameters                         |        | 8            |             |      | 13.85    | 152   |           | 165.85  | 242            |
+| 4960  | 2" x 2" x 1" diameters                           | 1      | 8            | 3           |      | 13.60    | 152   |           | 165.60  | 242            |
+| 4962  | 2" x 2" x 1-1/4" diameters                       | 4      | 8            |             |      | 13.95    | 152   |           | 165.95  | 242            |
+| 8100  | Fittings, accessories                            |        |              |             |      |          |       |           |         |                |
+| 8105  | SDR 11, IPS unless noted CTS                     |        |              |             |      |          |       |           |         |                |
+| 8110  | Flange adapters, 2" x 6" long                    | 1 Skwk | 32           | .250        | Ea   | 19.30    | 14.75 |           | 34.05   | 43             |
+| 8115  | 3" x 6" long                                     |        | 32           | .250        |      | 24       | 14.75 |           | 38.75   | 48.50           |
+| 8120  | 4" x 6" long                                     |        | 24           | .333        |      | 30       | 19.65 |           | 49.65   | 62.50           |
+| 8135  | Backup flanges, 2" diameter                      |        | 32           | .250        |      | 24.50    | 14.75 |           | 39.25   | 49             |
+| 8140  | 3" diameter                                      |        | 32           | .250        |      | 33       | 14.75 |           | 47.75   | 58.50           |
+| 8145  | 4" diameter                                      |        | 24           | .333        |      | 65       | 19.65 |           | 84.65   | 101            |
+| 8200  | Tapping tees, test caps                          |        |              |             |      |          |       |           |         |                |
+| 8205  | Type II, yellow polyethylene cap                 | 1 Skwk | 458850       | .178        | Ea   | 52235    | 10.45 |           | 65.45   | 75.50           |
+| 8210  | High volume, black polyethylene cap              |        |              | .178        |      | 70.50    | 10.45 |           | 80.95   | 93             |
+| 8215  | Quick connector, female x female inlets, 1/4" N.P.T. |    |              | .160        |      | 22.50    | 9.40  |           | 31.90   | 39             |
+| 8220  | Test hose, 24" length, 3/8" ID, male outlets, 1/4" N.P.T. | |           | .160        |      | 31       | 9.40  |           | 40.40   | 48             |
+| 8225  | Quick connector and test hose assembly           |        |              | .160        |      | 54       | 9.40  |           | 63.40   | 73             |
+| 8300  | Threaded transition fittings                     |        |              |             |      |          |       |           |         |                |
+| 8302  | HDPE x MPT zinc plated steel, SDR 7, 1/2" CTS x 1/2" MPT | B-22C | 30 | 533         | Ed   | 37.50    | 28    | 8.30      | 73.80   | 92             |
+| 8304  | SDR 9.3, 1/2" IPS x 3/4" MPT                     |        | 28.50        | .561        |      | 50       | 29.50 | 8.75      | 88.25   | 109            |
+| 8306  | SDR 11, 3/4" IPS x 3/4" MPT                      |        | 28.50        | .561        |      | 24.50    | 29.50 | 8.75      | 62.75   | 80.50           |
+| 8308  | 1" IPS x 1" MPT                                  |        | 27           | .593        |      | 32       | 31    | 9.25      | 72.25   | 91.50           |
+| 8310  | 1-1/4" IPS x 1-1/4" MPT                          |        | 27           | 593         |      | 51       | 31    | 9.25      | 91.25   | 113            |
+| 8312  | 1-1/2" IPS x 1-1/2" MPT                          |        | 25.50        | .627        |      | 59       | 33    | 9.75      | 101.75  | 125            |
+| 8314  | 2" IPS x 2" MPT                                  |        | 24           | .667        |      | 67.50    | 35    | 10.40     | 112.90  | 138            |
+| 8322  | HDPE X MPT 316 stainless steel, SDR 11, 3/4" IPS x 3/4" MPT | | 28.50 | .561 |      | 32.50    | 29.50 | 8.75      | 70.75   | 89.50           |
+| 8324  | 1" IPS x 1" MPT                                  |        | 27           | .593        |      | 33.50    | 31    | 9.25      | 73.75   | 93.50           |
+| 8326  | 1-1/4" IPS x 1-1/4" MPT                          |        | 27           | .593        |      | 41       | 31    | 9.25      | 81.25   | 102            |
+
+---
+
+Building Construction Costs with RSMeans data, call 800.448.8182.
+
+For customer support on your
+
+# 33 33 16  
+33 52 52drocarbon TrHydrocarbonand Distribution  
+Gas Hydrocarbon PipinTransmission6 High Density Polyethylene Piping  
+83and8330  
+2" IPS xDistributionPS x 3" MPT  
+
+Daily Labor-  
+Crew Output Hours Unit  
+B-22C 24 .667 Ea.  
+Material  
+Labor  
+2022 Bare Costs  
+Eq  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 33    | 52 16 Gas Hydrocarbon Piping                                         |        |              |             |      |          |        |           |          |                |
+| 33    | 52 16.26 High Density Polyethylene Piping                            |        |              |             |      |          |        |           |          |                |
+| 8328  | 2 " IPS x 2" MPT                                                     | B-22C  | 24           | .667        | Ea.  | 49.50    | 35     | 10.40     | 94.90    | 118            |
+| 8330  | 3 " IPS x 3" MPT                                                     |        | 24           | .667        |      | 99       | 35     | 10.40     | 144.40   | 172            |
+| 8332  | 4 " IPS x 4" MPT                                                     |        | 18           | .889        |      | 136      | 46.50  | 13.85     | 196.35   | 234            |
+| 8342  | HDPE x FPT 316 stainless steel, SDR 11, 3/4 " IPS x 3/4 " FPT        |        | 28.50        | .561        |      | 42.50    | 29.50  | 8.75      | 80.75    | 100            |
+| 8344  | 1 " IPS x 1" FPT                                                     |        | 27           | .593        |      | 56.50    | 31     | 9.25      | 96.75    | 119            |
+| 8346  | 1-1 / 4" IPS x 1-1/ 4 " FPT                                          |        | 27           | .593        |      | 91.50    | 31     | 9.25      | 131.75   | 158            |
+| 8348  | 1-1 / 2 " IPS x 1-1 /2 " FPT                                         |        | 25.50        | .627        |      | 87.50    | 33     | 9.75      | 130.25   | 156            |
+| 8350  | 2 " IPS x 2" FPT                                                     |        | 24           | .667        |      | 116      | 35     | 10.40     | 161.40   | 190            |
+| 8352  | 3 " IPS x 3" FPT                                                     |        | 24           | .667        |      | 224      | 35     | 10.40     | 269.40   | 310            |
+| 8354  | 4" IPS x 4" FPT                                                      |        | 18           | .889        |      | 320      | 46.50  | 13.85     | 380.35   | 440            |
+| 8362  | HDPE x MPT epoxy carbon steel, SDR 11, 3/4 " IPS x 3/4 " MPT         |        | 28.50        | .561        |      | 24.50    | 29.50  | 8.75      | 62.75    | 80.5           |
+| 8364  | 1 " IPS x 1" MPT                                                     |        | 27           | .593        |      | 27       | 31     | 9.25      | 67.25    | 86.5           |
+| 8366  | 1-1 / 4" IPS x 1-1/ 4 " MPT                                          |        | 27           | .593        |      | 28.50    | 31332233333433333429.25SS | 68.75 | 88             |
+| 8368  | 1-1 / 2 " IPS x 1-1/ 2 " MPT                                         |        | 25.50        | .627        |      | 31.50    |        | 9.75      | 74.25    | 94.5           |
+| 8370  | 2 " IPS x 2" MPT                                                     |        | 24           | .667        |      | 34       |        | 10.40     | 79.40    | 101            |
+| 8372  | 3 " IPS x 3" MPT                                                     |        | 24           | .667        |      | 52.50    |        | 10.40     | 97.90    | 121            |
+| 8374  | 4" IPS x 4" MPT                                                      |        | 18           | .889        |      | 71       | 46.50  | 13.85     | 131.35   | 163            |
+| 8382  | HDPE x FPT epoxy carbon steel, SDR 11, 3/4 " IPS x 3/4 " FPT         |        | 28.50        | .561        |      | 30       | 29.50  | 8.75      | 68.25    | 86.5           |
+| 8384  | 1 " IPS x 1" FPT                                                     |        | 27           | .593        |      | 33       | 31     | 9.25      | 73.25    | 92.5           |
+| 8386  | 1-1 / 4 " IPS x 1-1 /4 " FPT                                         |        | 27           | .593        |      | 70       | 31     | 9.25      | 110.25   | 134            |
+| 8388  | 1-1 / 2 " IPS x 1-1 /2 " FPT                                         |        | 25.50        | .627        |      | 71       |        | 9.75      | 113.75   | 138            |
+| 8390  | 2 " IPS x 2" FPT                                                     |        | 24           | .667        |      | 75.50    |        | 10.40     | 120.90   | 146            |
+| 8392  | 3 " IPS x 3" FPT                                                     |        | 24           | .667        |      | 128      |        | 10.40     | 173.40   | 204            |
+| 8394  | 4 " IPS x 4" FPT                                                     | B-22C  | 18           | .889        | Ea.  | 160      | 46.50  | 13.85     | 220.35   | 261            |
+| 8402  | HDPE x MPT poly coated carbon steel, SDR 11, 1 " IPS x 1 " MPT       |        | 27           | .593        |      | 26.50    | 31     | 9.25      | 66.75    | 85.5           |
+| 8404  | 1-1 / 4 " IPS x 1-1 /4 " MPT                                         |        | 27           | .593        |      | 34.50    | 31     | 9.25      | 74.75    | 94.5           |
+| 8406  | 1-1 / 2" IPS x 1-1/ 2 " MPT                                          |        | 25.50        | .627        |      | 41       |        | 9.75      | 83.75    | 105            |
+| 8408  | 2 " IPS x 2" MPT                                                     |        | 24           | .667        |      | 46.50    |        | 10.40     | 91.90    | 114            |
+| 8410  | 3 " IPS x 3" MPT                                                     |        | 28           | .667        |      | 90       |        | 10.40     | 135.40   | 162            |
+| 8412  | 4 " IPS x 4" MPT                                                     |        | 18           | .889        |      | 140      | 46.50  | 13.85     | 285035   | 239            |
+| 8602  | Socket fused HDPE x MPT brass, SDR 11, 3/4 " IPS x 3/4 " MPT         | B-20   | 28.50        | .842        |      | 14.50    | 42.50  |           | 57       | 80             |
+| 8604  | 1 " IPS x 3/4 " MPT                                                  | 27222  | .889         |             |      | 17.50    |        |           | 62.50    | 87             |
+| 8606  | 1 " IPS x 1" MPT                                                     | 27     | .889         |             |      | 16.90    |        |           | 61.90    | 86             |
+| 8608  | 1-1 / 4 " IPS x 3/4 " MPT                                            | 27     | .889         |             |      | 18.10    |        |           | 63.10    | 87.5           |
+| 8610  | 1-1 / 4" IPS x 1" MPT                                                | 27     | .889         |             |      | 18.10    |        |           | 63.10    | 87.5           |
+| 8612  | 1-1 / 4" IPS x 1-1/ 4 " MPT                                          | 27     | .889         |             |      | 26       |        |           | 71       | 96             |
+| 8614  | 1-1 / 2" IPS x 1-1 /2 " MPT                                          | 25.50  | .941         |             |      | 35.50    | 47.50  |           | 83       | 111            |
+| 8616  | 2 " IPS x 2" MPT                                                     | 24     | 1            |             |      | 36.50    | 50.50  |           | 87       | 116            |
+| 8618  | Socket fused HDPE x FPT brass, SDR 11, 3/4 " IPS x 3/4 " FPT         | 28.50  | .842         |             |      | 14.50    | 42.50  |           | 57       | 80             |
+| 8620  | 1 " IPS x 1/2 " FPT                                                  | 27     | .889         |             |      | 14.50    | 45சு   |           | 59.50    | 83.5           |
+| 8622  | 1 " IPS x 3/4 " FPT                                                  | 27222  | .889         |             |      | 17.50    | 45     |           | 62.50    | 87             |
+| 8624  | 1 " IPS x 1" FPT                                                     | 27     | .889         |             |      | 16.90    | 45     |           | 61.90    | 86             |
+| 8626  | 1-1 / 4" IPS x 3/4 " FPT                                             | 27     | .889         |             |      | 18.10    | 45     |           | 63.10    | 87.5           |
+| 8628  | 1-1 / 4" IPS x 1" FPT                                                | 27     | .889         |             |      | 17.50    | 45     |           | 62.50    | 87             |
+| 8630  | 1-1 / 4" IPS x 1-1 /4 " FPT                                          | 27     | .889         |             |      | 26       | 45     |           | 71       | 96             |
+| 8632  | 1-1 / 2" IPS x 1-1 /2 " FPT                                          | 25.50  | .941         |             |      | 36.50    | 47.50  |           | 84       | 112            |
+| 8634  | 2 " IPS x 1-1 / 2" FPT                                               | 24     | 1            |             |      | 37       | 50.50  |           | 87.50    | 116            |
+| 8636  | 2 " IPS x 2" FPT                                                     | 24     | 1            |             |      | 38.50    | 50.50  |           | 89       | 118            |
+
+712 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182 .
+
+# 33 52 Hydrocarbon Transmission/Distribution  
+## 33 52 16 - Gas Hydrocarbon Piping  
+### 33 52 16.23 - Medium Density Polyethylene Piping
+
+| ID    | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 4850  | 4" x 3/4" outlet                                                     | B-20  | 10           | 2.400       | Ea.  | 4.52     | 122   |           | 126.52  | 187            |
+| 4852  | 4" x 1" CTS outlet                                                   |       | 10           | 2.400       | 1    | 7.45     | 122   |           | 129.45  | 190            |
+| 4854  | 4" x 1" outlet                                                       |       | 160          | 2.400       |      | 7.45     | 122   |           | 129.45  | 190            |
+| 4856  | 4" x 1-1/4" outlet                                                   |       | 9            | 2.667       |      | 19.70    | 135   |           | 154.70  | 224            |
+| 4885  | For protective sleeves, 1/2" CTS to 3/4" diameter outlets, add       |       |              |             |      | 1.07     |       |           | 1.07    | 1.18           |
+| 4890  | 1" CTS & IPS diameter outlets, add                                   |       |              |             |      | 1.79     |       |           | 1.79    | 1.97           |
+| 4895  | 1-1/4" diameter outlets, add                                         |       |              |             |      | 3.08     |       |           | 3.08    | 3.39           |
+| 4900  | Spigot fitting, tees, SDR 7, 1/2" CTS diameter                       | B-20  | 10           | 2.400       |      | 31       | 122   |           | 153     | 217            |
+| 4901  | SDR 9.3, 1/2" diameter                                               |       | 9.50         | 2.526       |      | 13.75    | 128   |           | 141.75  | 206            |
+| 4902  | SDR 10, 1-1/4" diameter                                              |       | 9            | 2.667       |      | 13.75    | 135   |           | 148.75  | 217            |
+| 4903  | SDR 11, 3/4" diameter                                                |       | 9.50         | 2.526       |      | 28.50    | 128   |           | 156.50  | 223            |
+| 4904  | 2" diameter                                                          |       | 8            | 3           |      | 26.50    | 152   |           | 178.50  | 256            |
+| 4906  | SDR 11.5, 1" CTS diameter                                            |       | 9.3ين        | 2.571       |      | 73.50    | 130   |           | 203.50  | 276            |
+| 4907  | 3" diameter                                                          |       | 8            | 3           |      | 74.50    | 152   |           | 226.50  | 310            |
+| 4908  | 4" diameter                                                          |       | 6            | 4           |      | 1269     | 203   |           | 395     | 515            |
+| 4921  | 90° elbows, SDR 7, 1/2" CTS diameter                                 |       | 15           | 1.600       |      | 16.40    | 81    |           | 97.40   | 139            |
+| 4922  | SDR 9.3, 1/2" diameter                                               |       | 14.25        | 1.684       |      | 7.05     | 85.50 |           | 92.55   | 136            |
+| 4923  | SDR 10, 1-1/4" diameter                                              |       | 13.50        | 1.778       |      | 7.201    | 90    |           | 97.20   | 143            |
+| 4924  | SDR 11, 3/4" diameter                                                |       | 14.25        | 1.684       |      | 8.05     | 85.50 |           | 93.55   | 137            |
+| 4925  | 2" diameter                                                          |       | 12           | 2           |      | 30.50    | 101   |           | 131.50  | 185            |
+| 4927  | SDR 11.5, 1" CTS diameter                                            |       | 14           | 1.714       |      | 28       | 87    |           | 115     | 161            |
+| 4928  | 3" diameter                                                          |       | 12           | 2           |      | 69       | 101   |           | 170     | 227            |
+| 4929  | 4" diameter                                                          |       | 9            | 2.667       |      | 147      | 135   |           | 282     | 365            |
+| 4935  | Caps, SDR 7, 1/2" CTS diameter                                       |       | 30           | .800        |      | 5.45     | 40.50 |           | 45.95   | 66.50          |
+| 4936  | SDR 9.3, 1/2" diameter                                               |       | 28.50        | .842        |      | 5.45     | 42.50 |           | 47.95   | 70             |
+| 4937  | SDR 10, 1-1/4" diameter                                              |       | 27           | .889        |      | 5.65     | 45    |           | 50.65   | 73.50          |
+| 4938  | SDR 11, 3/4" diameter                                                |       | 128.50       | .842        |      | 5.80     | 42.50 |           | 48.30   | 70.50          |
+| 4939  | 1" diameter                                                          |       | 27           | .889        |      | 6.50     | 45    |           | 51.50   | 74.50          |
+| 4940  | 2" diameter                                                          |       | 24           | 1           |      | 6.95     | 50.50 |           | 57.45   | 83             |
+| 4942  | SDR 11.5, 1" CTS diameter                                            |       | 28           | .857        |      | 23       | 43.50 |           | 66.50   | 90             |
+| 4943  | 3" diameter                                                          |       | 24           | 1           |      | 37       | 50.50 |           | 87.50   | 176            |
+| 4944  | 4" diameter                                                          |       | 18           | 1.333       |      | 35.50    | 67.50 |           | 103     | 140            |
+| 4946  | SDR 13.5, 4" diameter                                                |       | 18           | 1.333       |      | 89.50    | 67.50 |           | 157     | 200            |
+| 4950  | Reducers, SDR 10 x SDR 11, 1-1/4" x 3/4" diameters                   |       | 13.50        | 1.7781      |      | 18.60    | 90    |           | 108.60  | 156            |
+| 4951  | 1-1/4" x 1" diameters                                                |       | 13.50        | 1.778       |      | 18.60    | 90    |           | 108.60  | 156            |
+| 4952  | SDR 10 x SDR 11.5, 1-1/4" x 1" CTS diameters                         |       | 13.50        | 1.778       |      | 18.60    | 90    |           | 108.60  | 156            |
+| 4953  | SDR 11 x SDR 7, 3/4" x 1/2" CTS diameters                            |       | 14.25        | 1.684       |      | 8.30     | 85.50 |           | 93.80   | 137            |
+| 4954  | SDR 11 x SDR 9.3, 3/4" x 1/2" diameters                              |       | 14.25        | 1.684       |      | 8.30     | 85.50 |           | 93.80   | 137            |
+| 4955  | SDR 11 x SDR 10, 2" x 1-1/4" diameters                               |       | 12           | 2           |      | 19.30    | 101   |           | 120.30  | 172            |
+| 4956  | SDR 11 x SDR 11, 1" x 3/4" diameters                                 |       | 13.50        | 1.778       |      | 9.55     | 90    |           | 99.55   | 146            |
+| 4957  | 2" x 3/4" diameters                                                  |       | 12           | 2           |      | 19.05    | 101   |           | 120.05  | 172            |
+| 4958  | 2" x 1" diameters                                                    |       | 12           | 2           |      | 19.15    | 101   |           | 120.15  | 172            |
+| 4959  | SDR 11 x SDR 11.5, 1" x 1" CTS diameters                             |       | 13.50        | 1.778       |      | 9.75     | 90    |           | 99.75   | 146            |
+| 4960  | 2" x 1" CTS diameters                                                |       | 12           | 2           |      | 19.05    | 101   |           | 120.05  | 172            |
+| 4962  | SDR 11.5 x SDR 11, 3" x 2" diameters                                 |       | 12           | 2           |      | 25.50    | 101   |           | 126.50  | 179            |
+| 4963  | 4" x 2" diameters                                                    |       | 9            | 2.667       |      | 39       | 135   |           | 174     | 245            |
+| 4964  | SDR 11.5 x SDR 11.5, 4" x 3" diameters                               |       | 9            | 2.667       |      | 42       | 135   |           | 177     | 244            |
+| 6100  | Fittings, compression                                                |       |              |             |      |          |       |           |         |                |
+| 6101  | MDPE gas pipe, ASTM D2513 / ASTM F1924-98                            |       |              |             |      |          |       |           |         |                |
+| 6102  | Caps, SDR 7, 1/2" CTS diameter                                       | B-20  | 60           | .400        | Ea.  | 15.65    | 20.50 |           | 36.15   | 48             |
+| 6104  | SDR 9.3, 1/2" IPS diameter                                           |       | 58           | .414        |      | 27.50    | 21    |           | 48.50   | 61.50          |
+| 6106  | SDR 10, 1/2" CTS diameter                                            |       | 60           | .400        |      | 13.85    | 20.50 |           | 34.35   | 45.50          |
+| 6108  | 1-1/4" IPS diameter                                                  |       | 54           | .444        |      | 91       | 22.50 |           | 113.50  | 134            |
+
+# 33 52 Hydrocarbon Transmission/Distribution  
+## 33 52 16 - Gas Hydrocarbon Piping  
+### 33 52 16.23 Distribution Polyethylene Piping
+
+SDR 11, 3/4" IPS diameter  
+1" IPS diameter  
+1-1/4" IPS diameter  
+1-1/2" IPS dia  
+
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 6110  | SDR 11, 3/4" IPS diameter                                            | B-20 | 58           | .414        | Ea . | 24.50    | 21     |           | 45.50   | 58.50          |
+| 6112  | 1" IPS diameter                                                      |      | 54           | .444        |      | 39.50    | 22.50  |           | 62      | 77             |
+| 6114  | 1-1/4" IPS diameter                                                  |      | 54           | .444        |      | 95.50    | 22.50  |           | 118     | 139            |
+| 6116  | 1-1/2" IPS diameter                                                  |      | 52           | .462        |      | 116      | 23.50  |           | 139.50  | 163            |
+| 6118  | 2" IPS diameter                                                      |      | 50           | .480        |      | 102      | 24.50  |           | 126.50  | 149            |
+| 6120  | SDR 11.5, 1" CTS diameter                                            |      | 56           | 429         |      | 25.50    | 21.50  |           | 47      | 60.50          |
+| 6122  | SDR 12.5, 1" CTS diameter                                            |      | 56           | .429        |      | 296      | 21.50  |           | 50.50   | 64.50          |
+| 6202  | Reducers, SDR 7 x SDR 10, 1/2" CTS x 1/2" CTS diameters              |      | 30           | .800        |      | 21       | 40.50  |           | 61.50   | 84             |
+| 6204  | SDR 9.3 x SDR 7, 1/2" IPS x 1/2" CTS diameters                       |      | 29           | .828        |      | 61       | 42     | 1         | 103     | 130            |
+| 6206  | SDR 11 x SDR 7, 3/4" IPS x 1/2" CTS diameters                        |      | 29           | .828        |      | 60.50    | 2525   |           | 102.50  | 129            |
+| 6208  | 1" IPS x 1/2" CTS diameters                                          |      | 27           | 1.889       |      | 73.50    | 45     |           | 118.50  | 148            |
+| 6210  | SDR 11 x SDR 9.3, 3/4" IPS x 1/2" IPS diameters                      |      | 29           | .828        |      | 59.50    | 42     |           | 101.50  | 128            |
+| 6212  | 1" IPS x 1/2" IPS diameters                                          |      | 27           | 1.889       |      | 75.50    | 45     |           | 120.50  | 151            |
+| 6214  | SDR 11 x SDR 10, 2" IPS x 1-1/4" IPS diameters                       |      | 25           | .960        |      | 116      | 88.50  |           | 164.50  | 201            |
+| 6216  | SDR 11 x SDR 11, 1" IPS x 3/4" IPS diameters                         |      | 27           | .889        |      | 73       | 45     |           | 118     | 148            |
+| 6218  | 1-1/4" IPS x 1" IPS diameters                                        |      | 27           | .889        |      | 69.50    | 45     |           | 114.50  | 144            |
+| 6220  | 2" IPS x 1-1/4" IPS diameters                                        |      | 25           | .960        |      | 116      | 48.50  |           | 164.50  | 201            |
+| 6222  | SDR 11 x SDR 11.5, 1" IPS x 1" CTS diameters                         |      | 27           | .889        |      | 56.50    | 45     |           | 101.50  | 130            |
+| 6224  | SDR 11 x SDR 12.5, 1" IPS x 1" CTS diameters                         |      | 27           | .889        |      | 68.50    | 45     |           | 113.50  | 143            |
+| 6226  | SDR 11.5 x SDR 7, 1" CTS x 1/2" CTS diameters                        |      | 28           | .857        |      | 41.50    | 43.50  |           | 85      | 111            |
+| 6228  | SDR 11.5 x SDR 9.3, 1" CTS x 1/2" IPS diameters                      |      | 28           | .857        |      | 48       | 43.50  |           | 91.50   | 118            |
+| 6230  | SDR 11.5 x SDR 11, 1" CTS x 3/4" IPS diameters                       |      | 28           | .857        |      | 67       | 43.50  |           | 110.50  | 139            |
+| 6232  | SDR 12.5 x SDR 7, 1" CTS x 1/2" CTS diameters                        |      | 28           | .857        |      | 44       | 43.50  |           | 87.50   | 113            |
+| 6234  | SDR 12.5 x SDR 9.3, 1" CTS x 1/2" IPS diameters                      |      | 28           | .857        |      | 49.50    | 43.50  |           | 93      | 120            |
+| 6236  | SDR 12.5 x SDR 11, 1" CTS x 3/4" IPS diameters                       |      | 28           | .857        |      | 42.50    | 43.50  |           | 86      | 112            |
+| 6302  | Couplings, SDR 7, 1/2" CTS diameter                                  |      | 30           | .800        |      | 16       | 40.50  |           | 56.50   | 78             |
+| 6304  | SDR 9.3, 1/2" IPS diameter                                           |      |              | 1.828       |      | 21       | 42     |           | 63      | 86             |
+| 6306  | SDR 10, 1/2" CTS diameter                                            |      | 302222222    | .800        |      | 15.15    | 40.50  |           | 55.65   | 77             |
+| 6308  | SDR 11, 3/4" IPS diameter                                            |      | 29           | .828        |      | 23.50    | 42     |           | 65.50   | 88             |
+| 6310  | 1" IPS diameter                                                      |      | 27           | .889        |      | 28       | 45     |           | 73      | 98.50          |
+| 6312  | SDR 11.5, 1" CTS diameter                                            |      | 28           | .857        |      | 30       | 43.50  |           | 73.50   | 98             |
+| 6314  | SDR 12.5, 1" CTS diameter                                            |      | 28           | .857        |      | 34       | 43.50  |           | 77.50   | 103            |
+| 6402  | Repair couplings, SDR 10, 1-1/4" IPS diameter                        |      | 27           | .889        |      | 87.50    | 45     |           | 132.50  | 164            |
+| 6404  | SDR 11, 1-1/4" IPS diameter                                          |      | 27           | .889        |      | 89       | 45     |           | 134     | 166            |
+| 6406  | 1-1/2" IPS diameter                                                  |      | 26           | .9231       |      | 96       | 47     |           | 143     | 175            |
+| 6408  | 2" IPS diameter                                                      | 1 B-20| 25          | .960        | Ea . | 112      | 48.50  |           | 160.50  | 196            |
+| 6502  | Elbows, 90°, SDR 7, 1/2" CTS diameter                                |      | 30           | .800        |      | 281      | 40.50  |           | 68.50   | 91.50          |
+| 6504  | SDR 9.3, 1/2" IPS diameter                                           |      | 29           | 1.828       |      | 48.50    | 42     |           | 90.50   | 116            |
+| 6506  | SDR 10, 1-1/4" IPS diameter                                          |      | 27           | .889        |      | 120      | 45     |           | 165     | 200            |
+| 6508  | SDR 11, 3/4" IPS diameter                                            |      | 29           | .828        |      | 44.50    | 42     |           | 86.50   | 111            |
+| 6510  | 1" IPS diameter                                                      |      | 27           | .889        |      | 44.50    | 45     |           | 89.50   | 117            |
+| 6512  | 1-1/4" IPS diameter                                                  |      | 27           | .889        |      | 119      | 45     |           | 164     | 199            |
+| 6514  | 1-1/2" IPS diameter                                                  |      | 26           | .923        |      | 178      | 47     |           | 225     | 266            |
+| 6516  | 2" IPS diameter                                                      |      | 25           | 1.960       |      | 152      | 48.50  |           | 200.50  | 240            |
+| 6518  | SDR 11.5, 1" CTS diameter                                            |      | 28           | .857        |      | 45       | 43.50  |           | 88.50   | 115            |
+| 6520  | SDR 12.5, 1" CTS diameter                                            |      | 28           | .857        |      | 65.50    | 43.50  |           | 109     | 137            |
+| 6602  | Tees, SDR 7, 1/2" CTS diameter                                       |      | 20           | 1.200       |      | 49.50    | 61     |           | 110.50  | 146            |
+| 6604  | SDR 9.3, 1/2" IPS diameter                                           |      | 19.33        | 1.241       |      | 55       | 63     |           | 118     | 155            |
+| 6606  | SDR 10, 1-1/4" IPS diameter                                          |      | 18           | 1.333       |      | 155      | 67.50  |           | 222.50  | 272            |
+| 6608  | SDR 11, 3/4" IPS diameter                                            |      | 19.33        | 1.241       |      | 69       | 63     |           | 132     | 170            |
+| 6610  | 1" IPS diameter                                                      |      | 18           | 1.333       |      | 75.50    | 67.50  |           | 143     | 184            |
+| 6612  | 1-1/4" IPS diameter                                                  |      | 18           | 1.333       |      | 127      | 67.50  |           | 194.50  | 241            |
+| 6614  | 1-1/2" IPS diameter                                                  |      | 17.33        | 1.385       |      | 263      | 70     |           | 333     | 395            |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+

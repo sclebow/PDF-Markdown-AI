@@ -1,0 +1,272 @@
+# Roadway 71nstruction  
+Roadway9 - Vehicle Delineators  
+34 Constructioned Vehicle Delineators  
+
+9-1/4" x 5-7/8" x 1/4" high, plowable, asphalt pavmt.  
+Barrier and curb delineators, reflectorized, 4" x 6"  
+3" x 5"  
+Rumble strip, pol  
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0250  | 9-1 / 4 " x 5-7  /8 " x  1/4  " high , plowable  , asphalt  pavmt .  | A -2A  | 120          | .200        | Eo . | 3.86     | 9.45   | 4.15      | 17.46   | 23             |
+| 0300  | Barrier and   curb delineators  , reflectorized ,4 " x  6"           | 2 Clab | 150          | .107        |      | 3.34     | 4.86   |           | 8.20    | 10.90          |
+| 0310  | 3 " x  5"                                                            |        | 150          | .107        | >    | 4.54     | 4.86   |           | 9.40    | 12.25          |
+| 0500  | Rumble    stri, polycarbonate                                        |        |              |             |      |          |        |           |         |                |
+| 0510  | 24  " x 3-1 / 2 " x  1/2 "  high                                     | 2 Clab | 50           | .320        | Eo . | 10.20    | 14.60  |           | 24.80   | 32.50          |
+
+# Railway Construction  
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0800  | Siding ,yard  spur , level grade                                     | B -14  | 57           | .842        | LF   | 140      | 40.50  | 5.75      | 186.25  | 220            |
+| 1002  | Steel  ties in concrete , incl.fasteners   &  plates                 |        |              |             |      |          |        |           |         |                |
+| 1020  | 100  lb. new   rail                                                  | B- 14  | 22           | 2.182       | LF   | 207      | 104    | 14.95     | 325.95  | 400            |
+
+# Railroad Turnouts  
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 2200  | Turnout  , # 8 complete   ,w  /rails, plates ,bars , frog, switch  point , |        |              |             |      |          |        |           |         |                |
+| 2250  | timbers  , and  ballast to  6" below   bottom    of ties             |        |              |             |      |          |        |           |         |                |
+| 2280  | 90  lb. rails                                                        | B-13   | 2.25222222224| Ea.         |      | 35,800   | 11,100 | 8,375     | 55,275  | 65,000         |
+| 2290  | 90  lb. relay rails                                                  |        | .25          | 224         |      | 24,000   | 11,100 | 8,375     | 43,475  | 52,000         |
+| 2300  | 100   lb. rails                                                      |        |              | 224         |      | 39,900   | 11,100 | 8,375     | 59,375  | 69,500         |
+| 2310  | 100   lb. relay rails                                                |        | .25          | 224         |      | 26,800   | 11,100 | 8,375     | 46,275  | 55,000         |
+| 2320  | 110   lb. rails                                                      |        | .25          | 224         |      | 43,900   | 11,100 | 8,375     | 63,375  | 74,000         |
+| 2330  | 110   lb.relay  rails                                                |        | .25          | 224         |      | 29,600   | 11,100 | 8,375     | 49,075  | 58,000         |
+| 2340  | 115   lb.rails                                                       |        |              | 224         |      | 48,100   | 11,100 | 8,375     | 67,575  | 78,500         |
+| 2350  | 115   lb.relay  rails                                                |        | .25          | 224         |      | 31,300   | 11,100 | 8,375     | 50,775  | 60,000         |
+| 2360  | 132   lb.rails                                                       |        | .25          | 224         |      | 55,000   | 11,100 | 8,375     | 74,475  | 86,000         |
+| 2370  | 132   lb.relay  rails                                                |        | .25          | 224         | ←    | 36,400   | 11,100 | 8,375     | 55,875  | 66,000         |
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 34 01 23 - Operation and Maintenance of Railways
+
+## 34 01 23.51 Maintenance of Railroads
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | MAINTENANCE OF RAILROADS                  |       |             |             |        |          |        |           |         |                |
+| 0400 | Resurface and realign existing track      | B-14  | 200         | .240        | LF     |          | 11.50  | 1.64      | 13.14   | 18.90          |
+| 0600 | For crushed stone ballast, add            | 杯    | 500         | .096        | "      | 16.50    | 4.59   | .66       | 21.75   | 25.50          |
+
+---
+
+## 34 11 Rail Tracks
+
+### 34 11 13 Track Rails
+
+#### 34 11 13.23 Heavy Rail Track
+
+| ID   | Name                | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|---------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | HEAVY RAIL TRACK    |      |             |             |      |          |       |           |        |                |
+| 1000 | Rail, 100 lb. prime grade | |            |             | LF.  | 33.50    |       |           | 33.50  | 37             |
+| 1500 | Relay rail          |      |             |             | "    | 16.85    |       |           | 16.85  | 18.55          |
+
+---
+
+### 34 11 33 Track Cross Ties
+
+#### 34 11 33.13 Concrete Track Cross Ties
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | CONCRETE TRACK CROSS TIES                 |       |             |             |        |          |        |           |         |                |
+| 1400 | Ties, concrete, 8'-6" long, 30" OC        | B-14  | 80          | .600        | Ea.    | 141      | 28.50  | 4.11      | 173.61  | 202            |
+
+#### 34 11 33.16 Timber Track Cross Ties
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | TIMBER TRACK CROSS TIES                   |       |             |             |        |          |        |           |         |                |
+| 1600 | Wood, pressure treated, 6" x 8" x 8'-6", C.L. lots | B-14 | 9022 | .533 | Eq. *  | 59.50    | 25.50  | 3.65      | 88.65   | 108            |
+| 1700 | L.C.L. lots                               |       | 90          | .533        |        | 62.50    | 25.50  | 3.65      | 91.65   | 111            |
+| 1900 | Heavy duty, 7" x 9" x 8-6", C.L. lots     |       | 70          | .686        |        | 65.50    | 33     | 4.70      | 103.20  | 126            |
+| 2000 | L.C.L. lots                               |       | 170         | .686        |        | 65.50    | 33     | 4.70      | 103.20  | 126            |
+
+#### 34 11 33.17 Timber Switch Ties
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | TIMBER SWITCH TIES                        |       |             |             |        |          |        |           |         |                |
+| 1200 | Switch timber, for a #8 switch, pressure treated | B-14 | 3.70 | 12.973 | M.B.F. | 3,575     | 620    | 89        | 4,284   | 4,950          |
+| 1300 | Complete set of timbers, 3.7 MBF for #8 switch | #    | 1    | 48          | Total  | 13,700    | 2,300  | 330       | 16,330  | 18,900         |
+
+---
+
+### 34 11 93 Track Appurtenances and Accessories
+
+#### 34 11 93.50 Track Accessories
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | TRACK ACCESSORIES                         |       |             |             |        |          |        |           |         |                |
+| 0020 | Car bumpers, test                         | B-14  | 22284       | 24          | Ea.    | 3,475    | 1,150  | 164       | 4,789   | 5,675          |
+| 0100 | Heavy duty                                | 11    |             | 24          | "1     | 6,550    | 1,150  | 164       | 7,864   | 9,100          |
+| 0200 | Derails hand throw (sliding)              | B-14  | 10          | 4.800       | Ea.    | 1,575    | 230    | 33        | 1,838   | 2,100          |
+| 0300 | Hand throw with standard timbers, open stand & target | | | 6 | " | 1,700 | 287 | 41 | 2,028 | 2,350 |
+| 2400 | Wheel stops, fixed                        |       | 18          | 2.667       | Pr.    | 765      | 128    | 18.25     | 911.25  | 1,050          |
+| 2450 | Hinged                                    |       | 14          | 3.429       | "      | 1,025    | 164    | 23.50     | 1,212.50| 1,425          |
+
+#### 34 11 93.60 Track Material
+
+| ID   | Name                                      | Crew  | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|------|-------------------------------------------|-------|-------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010 | TRACK MATERIAL                            |       |             |             |        |          |        |           |         |                |
+| 0020 | Track bolts                               |       |             |             | Ea.    | 4.89     |        |           | 4.89    | 55.40          |
+| 0100 | Joint bars                                |       |             |             | Pr.    | 68       |        |           | 68      | 75             |
+| 0200 | Spikes                                    |       |             |             | Ea.    | 4        |        |           | 4       | 4.40           |
+| 0300 | Tie plates                                |       |             |             | "      | 14.85    |        |           | 14.85   | 16.35          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# Roadway Signaling and Roadway Equipment
+
+## 34 41 13 Traffic Signaling
+
+### 34 41 13.10 Traffic Signals and Systems
+
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
+| 0010  | TRAFFIC SIGNALS SYSTEMS                   |      |              |             |        |          |        |           |         |                |
+| 0020  | Component costs                           |      |              |             |        |          |        |           |         |                |
+| 0600  | Crew employs crane / directional driller as required |      |              |             |        |          |        |           |         |                |
+| 1000  | Vertical mast with foundation             |      |              |             |        |          |        |           |         |                |
+| 1010  | Mast sized for single arm to 40'; no lighting or power function | R-11 | .50         | 112         | Signal | 10,500   | 7,050  | 4,300     | 21,850  | 26,800         |
+| 1100  | Horizontal arm                            |      |              |             |        |          |        |           |         |                |
+| 1110  | Per linear foot of arm                    | R-11 | 50           | 1.120       | Signal | 225      | 70.50  | 43        | 338.50  | 400            |
+| 1200  | Traffic signal                            |      |              |             |        |          |        |           |         |                |
+| 1210  | Includes signal, bracket, sensor, and wiring | R-11 | 2.50         | 22.400      | Signal | 1,075    | 1,400  | 860       | 3,335   | 4,250          |
+| 1300  | Pedestrian signals and callers            |      |              |             |        |          |        |           |         |                |
+| 1310  | Includes four signals with brackets and two call buttons | R-11 | 2.50         | 22.400      | Signal | 3,800    | 1,400  | 860       | 6,060   | 7,225          |
+| 1400  | Controller, design, and underground conduit |      |              |             |        |          |        |           |         |                |
+| 1410  | Includes miscellaneous signage and adjacent surface work | R-11 | .25         | 224         | Signal | 25,200   | 14,100 | 8,625     | 47,925  | 58,000         |
+
+---
+
+# 34 71 Roadway Construction
+
+## 34 71 13 Vehicle Barriers
+
+### 34 71 13.17 Security Vehicle Barriers
+
+| ID    | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+|-------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
+| 0010  | SECURITY VEHICLE BARRIERS                                            |       |              |             |      |          |        |           |          |                |
+| 0020  | Security planters excludes filling material                          |       |              |             |      |          |        |           |          |                |
+| 0100  | Concrete security planter, exposed aggregate 36" diam. x 30" high    | B-11M | ∞8∞∞         | 2           | En.  | 545      | 106    | 50.50     | 701.50   | 815            |
+| 0200  | 48" diam. x 36" high                                                 |       | 8            | 2           |      | 660      | 106    | 50.50     | 816.50   | 940            |
+| 0300  | 53" diam. x 18" high                                                 |       | 8            | 2           |      | 870      | 106    | 50.50     | 1,026.50 | 1,175          |
+| 0400  | 72" diam. x 18" high with seats                                      |       | 8            | 2           |      | 1,975    | 106    | 50.50     | 2,131.50 | 2,400          |
+| 0450  | 84" diam. x 36" high                                                 |       | 8            | 2           |      | 2,000    | 106    | 50.50     | 2,156.50 | 2,425          |
+| 0500  | 36" x 36" x 24" high square                                          |       | 8            | 2           |      | 460      | 106    | 50.50     | 616.50   | 720            |
+| 0600  | 36" x 36" x 30" high square                                          |       | ∞8           | 2           |      | 760      | 106    | 50.50     | 916.50   | 1,050          |
+| 0700  | 48" L x 24" W x 30" H rectangle                                      |       | ∞8           | 2           |      | 475      | 106    | 50.50     | 631.50   | 735            |
+| 0800  | 72" L x 24" W x 30" H rectangle                                      | B-11M | ∞8           | 2           | Ea.  | 580      | 106    | 50.50     | 736.50   | 850            |
+| 0900  | 96" L x 24" W x 30" H rectangle                                      |       | ∞8           | 2           |      | 850      | 106    | 50.50     | 1,006.50 | 1,150          |
+| 0950  | Decorative geometric concrete barrier, 96" L x 24" W x 36" H         |       | 8861262262824|             |      | 855      | 106    | 50.50     | 1,011.50 | 1,150          |
+| 1000  | Concrete security planter, filling with washed sand or gravel < 1 C.Y.|       |              | 2           |      | 17.85    | 106    | 50.50     | 174.35   | 233            |
+| 1050  | 2 C.Y. or less                                                       |       |              | 2.667       |      | 35.50    | 141    | 67        | 243.50   | 325            |
+| 1200  | Jersey concrete barrier, 10' L x 2' by 0.5' W x 30" H                | B 21B | 16           | 2.500       |      | 1,175    | 124    | 124       | 1,423    | 1,625          |
+| 1300  | 10 or more same site                                                 |       | 24           | 1.667       |      | 1,175    | 82.50  | 82.50     | 1,340    | 1,525          |
+| 1400  | 10' L x 2' by 0.5' W x 32" H                                         |       | 16           | 2.500       |      | 1,250    | 1224   | 124       | 1,498    | 1,725          |
+| 1500  | 10 or more same site                                                 |       | 24           | 1.667       |      | 1,250    | 82.50  | 82.50     | 1,415    | 1,625          |
+| 1600  | 20' L x 2' by 0.5' W x 30" H                                         |       | 12           | 3.333       |      | 1,400    | 165    | 165       | 1,730    | 1,975          |
+| 1700  | 10 or more same site                                                 |       | 18           | 2.222       |      | 1,400    | 110    | 110       | 1,620    | 1,825          |
+| 1800  | 20' L x 2' by 0.5' W x 32" H                                         |       | 12           | 3.333       |      | 1,725    | 165    | 165       | 2,055    | 2,325          |
+| 1900  | 10 or more same site                                                 |       | 18           | 2.222       |      | 1,725    | 110    | 110       | 1,945    | 2,175          |
+| 2000  | GFRC decorative security barrier per 10' section including concrete   |       |              | 10          |      | 3,075    | 495    | 495       | 4,065    | 4,650          |
+| 2100  | Per 12' section including concrete                                    |       |              | 10          |      | 3,675    | 495    | 495       | 4,665    | 5,325          |
+| 2210  | GFRC decorative security barrier will stop 30 MPH, 4,000 lb. vehicle |       |              |             |      |          |        |           |          |                |
+| 2300  | High security barrier base prep per 12' section on bare ground        | B-11C | 4            | 4           | Ea.  | 18.55    | 212    | 82        | 312.55   | 425            |
+| 2310  | GFRC barrier base prep does not include haulaway of excavated mat!.   |       |              |             |      |          |        |           |          |                |
+| 2400  | GFRC decorative high security barrier per 12' section w / concrete    | B-21B | 3            | 13.333      | Ea.  | 6,125    | 660    | 660       | 7,445    | 8,450          |
+| 2410  | GFRC decorative high security barrier will stop 50 MPH, 15,000 lb. vehicle |   |              |             |      |          |        |           |          |                |
+| 2500  | GFRC decorative impaler security barrier per 10' section w / prep     | B-6   | 44           | 6           | Ea.  | 2,425    | 296    | 82        | 2,803    | 3,175          |
+| 2600  | Per 12' section w / prep                                              | "     |              | 6           | "    | 2,900    | 296    | 82        | 3,278    | 3,700          |
+| 2610  | Impaler barrier should stop 50 MPH, 15,000 lb. vehicle w / some penetr. |     |              |             |      |          |        |           |          |                |
+| 2700  | Pipe bollards, steel, concrete filled/painted, 8' L x 4' D hole, 8" diam. | B-6 | 10           | 2.400       | Ea.  | 1,100    | 119    | 333       | 1,252    | 1,425          |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
+# 34 71 13 - Vehicle Barriers
+
+## 34 71 13.17 Security Vehicle Barriers
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 2710 | Schedule 80 concrete bollards will stop 4,000 lb. vehicle @ 30 MPH   |      |              |             |      |          |       |           |         |                |
+| 2800 | GFRC decorative jersey barrier cover per 10' section excludes soil    | B-6  | 8828         | 332         | Ea   | 1,000    | 148   | 41        | 1,189   | 1,400          |
+| 2900 | Per 12' section excludes soil                                         |      |              |             |      | 1,225    | 148   | 41        | 1,414   | 1,600          |
+| 3000 | GFRC decorative 8" diameter bollard cover                            |      | 12           |             |      | 580      | 99    | 27.50     | 706.50  | 815            |
+| 3100 | GFRC decorative barrier face 10' section excludes earth backing       |      | 10           | 2.400       |      | 995      | 119   | 33        | 1,147   | 1,300          |
+| 3200 | Drop arm crash barrier, 15,000 lb. vehicle @ 50 MPH                  |      |              |             |      |          |       |           |         |                |
+| 3205 | Includes all material, labor for complete installation                |      |              |             |      |          |       |           |         |                |
+| 3210 | 12' width                                                            |      |              |             | Ea.  |          |       |           | 64,500  | 71,000         |
+| 3310 | 24' width                                                            |      |              |             |      |          |       |           | 86,000  | 95,000         |
+| 3410 | Wedge crash barrier, 10' width                                       |      |              |             |      |          |       |           | 98,000  | 108,000        |
+| 3510 | 12.5' width                                                          |      |              |             | Eo.  |          |       |           | 108,000 | 119,000        |
+| 3520 | 15' width                                                            |      |              |             |      |          |       |           | 118,500 | 130,000        |
+| 3610 | Sliding crash barrier, 12' width                                     |      |              |             |      |          |       |           | 178,500 | 196,000        |
+| 3710 | Sliding roller crash barrier, 20' width                              |      |              |             |      |          |       |           | 198,000 | 217,500        |
+| 3810 | Sliding cantilever crash barrier, 20' width                          |      |              |             |      |          |       |           | 198,000 | 217,500        |
+| 3890 | Note: Raised bollard crash barriers should be used w/ tire shredders  |      |              |             |      |          |       |           |         |                |
+| 3910 | Raised bollard crash barrier, 10' width                              |      |              |             | Ea.  |          |       |           | 38,800  | 42,900         |
+| 4010 | 12' width                                                            |      |              |             |      |          |       |           | 44,900  | 49,000         |
+| 4110 | Raised bollard crash barrier, 10' width, solar powered               |      |              |             |      |          |       |           | 46,900  | 52,000         |
+| 4210 | 12' width                                                            |      |              |             |      |          |       |           | 53,000  | 58,000         |
+| 4310 | In ground tireshredder, 16' width                                    |      |              |             |      |          |       |           | 43,900  | 47,900         |
+
+---
+
+## 34 71 13.26 Vehicle Guide Rails
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | VEHICLE GUIDE RAILS                                                  |      |              |             |      |          |       |           |         |                |
+| 0012 | Corrugated st., galv. stl. posts, 6'-3" OC -"W-Beam Guiderail"       | B-80 | 850          | .038        | L.F. | 12.55    | 1.89  | .64       | 15.08   | 17.30          |
+| 0200 | End sections, galvanized, flared                                     |      | 50           | .640        | Ea.  | 99.50    | 32    | 10.85     | 142.35  | 169            |
+| 0300 | Wrap around end                                                      |      | 50           | .640        |      | 142      | 32    | 10.85     | 184.85  | 216            |
+| 0325 | W-Beam, st., galv. Terminal Connector, Concrete Mounted              |      | 8            | 4           |      | 264      | 201   | 67.50     | 532.50  | 665            |
+| 0410 | Thrie Beam, stl., galv. stl. posts, 6' 3" OC                         |      | 850          | .038        | LF.  | 24       | 1.89  | 444       | 26.53   | 29.50          |
+| 0440 | Thrie Beam, stl, galv, Wrap Around End Section                       |      | 50           | 1.640       | Ea.  | 94.50    | 32    | 10.85     | 137.35  | 164            |
+| 0450 | Thrie Beam, stl., galv. Terminal Connector, Concrete Mounted         |      | 8            | 4           | "    | 289      | 201   | 67.50     | 557.50  | 695            |
+| 0510 | Rub Rail, stl, galv, steel posts (not included), 6-3" OC             |      | 850          | .038        | LF.  | 2.04     | 1.89  | .64       | 4.57    | 5.75           |
+| 0600 | Cable guide rail, 3 at 3/4" cables, steel posts, single face         |      | 900          | .036        |      | 12.70    | 1.78  | .60       | 15.08   | 17.30          |
+| 0700 | Wood posts                                                           |      | 950          | .034        |      | 13.40    | 1.69  | .57       | 15.66   | 17.90          |
+| 0900 | Guide rail, steel box beam, 6" x 6"                                  |      | 120          | .267        |      | 38.50    | 13.35 | 4.51      | 56.36   | 67.50          |
+| 1100 | Median barrier, steel box beam, 6" x 8"                              |      | 215          | .149        |      | 52.50    | 7.45  | 2.52      | 62.47   | 72             |
+| 1400 | Resilient guide fence and light shield, 6' high                      | B-2  | 130          | .308        |      | 25       | 14.15 |           | 39.15   | 48.50          |
+| 1500 | Concrete posts, individual, 6'-5", triangular                        | B-80 | 110          | .291        | Eo.  | 69       | 14.60 | 4.93      | 88.53   | 102            |
+| 1550 | Square                                                               |      | 110          | .291        | "    | 75.50    | 14.60 | 4.93      | 95.03   | 110            |
+| 1650 | Timber guide rail, 4" x 8" with "x8" wood posts, treated             |      | 960          | .033        | L.F. | 14.05    | 1.67  | .56       | 16.28   | 18.55          |
+| 2000 | Median, precast concrete, 3'-6" high, 2' wide, single face           | B-29 | 380          | .147        |      | 61       | 7.30  | 2.26      | 70.56   | 80.50          |
+| 2200 | Double face                                                          | "    | 340          | .165        |      | 70       | 8.15  | 2.52      | 80.67   | 92             |
+| 2400 | Speed bumps, thermoplastic, 10-1/2" x 2-1/4" x 48" long              | B-2  | 120          | .333        | Eg.  | 146      | 15.35 |           | 161.35  | 183            |
+| 3030 | Impact barrier, MUTCD, barrel type                                   | B-16 | 30           | 1.067       | 13   | 400      | 51    | 25.50     | 476.50  | 545            |
+
+---
+
+## 34 71 19 - Vehicle Delineators
+
+### 34 71 19.13 Fixed Vehicle Delineators
+
+| ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 0010 | FIXED VEHICLE DELINEATORS                                            |      |              |             |      |          |       |           |         |                |
+| 0020 | Crash barriers                                                       |      |              |             |      |          |       |           |         | 10             |
+| 0100 | Traffic channelizing pavement markers, layout only                   | A-7  | 2000         | .012        | Ea.  |          | .73   | .02       | 755     | 1.12           |
+| 0110 | 13" x 7-1/2" x 2-1/2" high, non-plowable, install                   | 2 Clab| 96           | .167        |      | 30.50    | 7.60  |           | 38.10   | 4523           |
+| 0200 | 8" x 8" x 3-1/4" high, non-plowable, install                        |      | 96           | .167        |      | 29.50    | 7.60  |           | 37.10   |                |
+| 0230 | 4" x 4" x 3/4" high, non-plowable, install                          |      | 120          | .133        |      | 2.68     | 6.10  |           | 8.78    | 12             |
+| 0240 | 9-1/4" x 5-7/8" x 1/4" high, plowable, concrete povmt.              | A 2A | 70           | .343        |      | 4.74     | 16.20 | 7.10      | 28.04   | 37             |
+
+---
+
+For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+
