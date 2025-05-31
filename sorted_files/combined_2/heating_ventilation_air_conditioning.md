@@ -183,10 +183,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 23 31 HVAC Ducts and Casings
 
-## 23 31 13 - Metal Ducts
 ### 23 31 13.13 Rectangular Metal Ducts
 
-| ID    | Name/Description                                                                                                   | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
+| ID    | Name                                                                                                               | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |-------|--------------------------------------------------------------------------------------------------------------------|-------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
 | 0010  | RECTANGULAR METAL DUCTS                                                                                            |       |              |             |      |          |        |           |        |                |
 | 0020  | Fabricated rectangular, includes fittings, joints, supports,                                                        |       |              |             |      |          |        |           |        |                |
@@ -206,24 +205,24 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0057  | 35' to 40' high                                                                                                    |       |              |             |      |          |        |           | 30%    |                |
 | 0058  | Over 40' high                                                                                                      |       |              |             |      |          |        |           | 33%    |                |
 | 0072  | For duct insulation see Line 23 07 13.10 3000                                                                      |       |              |             |      |          |        |           |        |                |
-| 0100  | Aluminum, alloy 3003-H14, under 100 lb.                                                                            | Q-10  | 75           | .320        | Lb.  | 3.18     | 20     |           | 23.18  | 34.22           |
-| 0110  | 100 to 500 lb.                                                                                                     |       | 80           | .300        |      | 1.80     | 18.90  |           | 20.70  | 30.50           |
-| 0120  | 500 to 1,000 lb.                                                                                                   |       | 95           | .253        |      | 2.04     | 15.95  |           | 17.99  | 26.00           |
-| 0140  | 1,000 to 2,000 lb.                                                                                                 |       | 120          | .200        |      | 1.98     | 12.60  |           | 14.58  | 21.00           |
-| 0150  | 2,000 to 5,000 lb.                                                                                                 |       | 130          | .185        |      | 1.92     | 11.65  |           | 13.57  | 19.65           |
-| 0160  | Over 5,000 lb.                                                                                                     | Q-10  | 145          | 1.66        | Lb.  | 1.98     | 10.45  |           | 12.43  | 17.90           |
-| 0500  | Galvanized steel, under 200 lb.                                                                                    |       | 235          | .102        |      | .63      | 6.45   |           | 7.08   | 10.40           |
-| 0520  | 200 to 500 lb.                                                                                                     |       | 245          | .098        |      | .70      | 6.20   |           | 6.90   | 10.05           |
-| 0540  | 500 to 1,000 lb.                                                                                                   |       | 255          | .094        |      | .66      | 5.95   |           | 6.61   | 9.70            |
-| 0560  | 1,000 to 2,000 lb.                                                                                                 |       | 265          | .091        |      | .68      | 5.70   |           | 6.38   | 9.35            |
-| 0570  | 2,000 to 5,000 lb.                                                                                                 |       | 275          | .087        |      | .56      | 5.50   |           | 6.06   | 8.90            |
-| 0580  | Over 5,000 lb.                                                                                                     |       | 285          | .084        |      | .68      | 5.30   |           | 5.98   | 8.75            |
-| 1000  | Stainless steel, type 304, under 100 lb.                                                                          |       | 165          | .145        |      | 5.20     | 9.15   |           | 14.35  | 19.50           |
-| 1020  | 100 to 500 lb.                                                                                                     |       | 175          | .137        |      | 4.17     | 8.65   |           | 12.82  | 17.65           |
-| 1030  | 500 to 1,000 lb.                                                                                                   |       | 190          | .126        |      | 3.03     | 7.95   |           | 10.98  | 15.35           |
-| 1040  | 1,000 to 2,000 lb.                                                                                                 |       | 200          | .120        |      | 2.70     | 7.55   |           | 10.25  | 14.35           |
-| 1050  | 2,000 to 5,000 lb.                                                                                                |       | 225          | .107        |      | 2.33     | 6.75   |           | 9.08   | 12.70           |
-| 1060  | Over 5,000 lb.                                                                                                     |       | 235          | .102        |      | 2.93     | 6.45   |           | 9.38   | 12.90           |
+| 0100  | Aluminum, alloy 3003-H14, under 100 lb.                                                                            | Q-10  | 75           | .320        | Lb.  | 3.18     | 20     |           | 23.18  | 34.22          |
+| 0110  | 100 to 500 lb.                                                                                                     |       | 80           | .300        |      | 1.80     | 18.90  |           | 20.70  | 30.50          |
+| 0120  | 500 to 1,000 lb.                                                                                                   |       | 95           | .253        |      | 2.04     | 15.95  |           | 17.99  | 26.00          |
+| 0140  | 1,000 to 2,000 lb.                                                                                                 |       | 120          | .200        |      | 1.98     | 12.60  |           | 14.58  | 21.00          |
+| 0150  | 2,000 to 5,000 lb.                                                                                                 |       | 130          | .185        |      | 1.92     | 11.65  |           | 13.57  | 19.65          |
+| 0160  | Over 5,000 lb.                                                                                                     | Q-10  | 145          | 1.66        | Lb.  | 1.98     | 10.45  |           | 12.43  | 17.90          |
+| 0500  | Galvanized steel, under 200 lb.                                                                                    |       | 235          | .102        |      | .63      | 6.45   |           | 7.08   | 10.40          |
+| 0520  | 200 to 500 lb.                                                                                                     |       | 245          | .098        |      | .70      | 6.20   |           | 6.90   | 10.05          |
+| 0540  | 500 to 1,000 lb.                                                                                                   |       | 255          | .094        |      | .66      | 5.95   |           | 6.61   | 9.70           |
+| 0560  | 1,000 to 2,000 lb.                                                                                                 |       | 265          | .091        |      | .68      | 5.70   |           | 6.38   | 9.35           |
+| 0570  | 2,000 to 5,000 lb.                                                                                                 |       | 275          | .087        |      | .56      | 5.50   |           | 6.06   | 8.90           |
+| 0580  | Over 5,000 lb.                                                                                                     |       | 285          | .084        |      | .68      | 5.30   |           | 5.98   | 8.75           |
+| 1000  | Stainless steel, type 304, under 100 lb.                                                                          |       | 165          | .145        |      | 5.20     | 9.15   |           | 14.35  | 19.50          |
+| 1020  | 100 to 500 lb.                                                                                                     |       | 175          | .137        |      | 4.17     | 8.65   |           | 12.82  | 17.65          |
+| 1030  | 500 to 1,000 lb.                                                                                                   |       | 190          | .126        |      | 3.03     | 7.95   |           | 10.98  | 15.35          |
+| 1040  | 1,000 to 2,000 lb.                                                                                                 |       | 200          | .120        |      | 2.70     | 7.55   |           | 10.25  | 14.35          |
+| 1050  | 2,000 to 5,000 lb.                                                                                                |       | 225          | .107        |      | 2.33     | 6.75   |           | 9.08   | 12.70          |
+| 1060  | Over 5,000 lb.                                                                                                     |       | 235          | .102        |      | 2.93     | 6.45   |           | 9.38   | 12.90          |
 | 1100  | For medium pressure ductwork, add                                                                                  |       |              |             |      |          |        |           | 15%    |                |
 | 1200  | For high pressure ductwork, add                                                                                    |       |              |             |      |          |        |           | 40%    |                |
 | 1210  | For welded ductwork, add                                                                                           |       |              |             |      |          |        |           | 85%    |                |
@@ -1332,12 +1331,12 @@ Note: sizes based on exhaust. Intake, with 0.125" SP loss, ap
 ## 23 37 23    POSI HVAC Gravity Ventilators
 ## 23 37 23.10 HVAC Gravity Air Ventilators
 
-| ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 5680 |              |      | 3,000 CFM, 20" x 42" | Q-9 | 44 | Ea. | 1,850 | 243 |  | 2,093 | 2,425 |
-| 5880 |              |      | Size is throat area, volume is at 500 fpm | | | | | | | |
-| 7000 |              |      | Note: sizes based on exhaust. Intake, with 0.125" SP | | | | | | | |
-| 7100 |              |      | loss, approximately twice listed capacity. | | | | | | | |
+| ID   | Name                                   | Crew | Daily Output         | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|----------------------------------------|------|---------------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 5680 | 3,000 CFM, 20" x 42"                   | Q-9  | 44                  | Ea.         | 1,850| 243      |       | 2,093     | 2,425  |
+| 5880 | Size is throat area, volume is at 500 fpm |      |                     |             |      |          |       |           |        |                |
+| 7000 | Note: sizes based on exhaust. Intake, with 0.125" SP | |                  |             |      |          |       |           |        |                |
+| 7100 | Loss, approximately twice listed capacity. |    |                     |             |      |          |       |           |        |                |
 
 # 23 38 Ventilation Hoods
 ## 23 38       Ventilation Hoods
@@ -1968,17 +1967,17 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 51 26.30 All-Fuel Vent Chimneys, Double Wall, St. Stl.
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|-------|----------------|
-| 0010  | ALL-FUEL VENT CHIMNEYS, DOUBLE WALL, STAINLESS STEEL                 |        |              |             |        |          |       |           |       |                |
-| 7780  | All fuel, pressure tight, double wall, 4" insulation, UL listed, 1,400°F. |        |              |             |        |          |       |           |       |                |
-| 7790  | 304 stainless steel liner, aluminized steel outer jacket              |        |              |             |        |          |       |           |       |                |
-| 7800  | 6" diameter                                                          | Q-9    | 60           | .267        | V.L.F. | 58       | 16.20 |           | 74.20 | 88.50          |
-| 7804  | 8" diameter                                                          | 152    |              | .308        |        | 84.50    | 18.70 |           | 103.20| 121            |
-| 7806  | 10" diameter                                                         | 1148   |              | .333        | |      | 96.50    | 20.50 |           | 117   | 137            |
-| 7808  | 12" diameter                                                         |        | 44           | .364        |        | 112      | 222   |           | 134   | 158            |
-| 7810  | 14" diameter                                                         |        | 42           | .381        |        | 126      | 23    |           | 149   | 174            |
-| 7880  | For 316 stainless steel liner, add                                   |        |              |             | LF     | 30 %     |       |           |       |                |
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|-------|-----------|--------|----------------|
+| 0010  | ALL-FUEL VENT CHIMNEYS, DOUBLE WALL, STAINLESS STEEL                 |        |              |             |        |          |       |           |        |                |
+| 7780  | All fuel, pressure tight, double wall, 4" insulation, UL listed, 1,400°F |      |              |             |        |          |       |           |        |                |
+| 7790  | 304 stainless steel liner, aluminized steel outer jacket              |        |              |             |        |          |       |           |        |                |
+| 7800  | 6" diameter                                                          | Q-9    | 60           | 0.267       | V.L.F. | 58       | 16.20 |           | 74.20  | 88.50          |
+| 7804  | 8" diameter                                                          | 152    |              | 0.308       |        | 84.50    | 18.70 |           | 103.20 | 121            |
+| 7806  | 10" diameter                                                         | 1148   |              | 0.333       |        | 96.50    | 20.50 |           | 117    | 137            |
+| 7808  | 12" diameter                                                         |        | 44           | 0.364       |        | 112      | 22    |           | 134    | 158            |
+| 7810  | 14" diameter                                                         |        | 42           | 0.381       |        | 126      | 23    |           | 149    | 174            |
+| 7880  | For 316 stainless steel liner, add                                   |        |              |             | LF     | 30%      |       |           |        |                |
 
 ---
 
@@ -2182,7 +2181,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 #### 23 37 13.10 Diffusers
 
-| ID    | Name/Description                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+| ID    | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|--------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
 | 0010  | DIFFUSERS, Aluminum, opposed blade damper unless noted |        |              |             |      |          |       |           |         |                |
 | 0100  | Ceiling, linear, also for sidewall               | ⚫1 Shee| 16           | .500        | Ea.  | 187      | 34    |           | 221     | 257            |
@@ -2247,7 +2246,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 73 13.10 Air-Handling Units
 
-| ID    | Name/Description                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
 | 0010  | AIR-HANDLING UNITS, Built-Up                                                     |      |              |             |      |          |       |           |         |                |
 | 0100  | With cooling/heating coil section, filter, mixing box                            |      |              |             |      |          |       |           |         |                |
@@ -2265,7 +2264,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 23 73 39.10 Make-Up Air Unit
 
-| ID    | Name/Description                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+| ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
 | 0010  | MAKE-UP AIR UNIT                                                                 |      |              |             |      |          |       |           |         |                |
 | 0020  | Indoor suspension, natural/LP gas, direct fired,                                 |      |              |             |      |          |       |           |         |                |
@@ -2536,7 +2535,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 #### 23 82 16.10 - Flanged Coils
 
-| ID   | Name/Description                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|-----------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | FLANGED COILS                                 |      |             |             |      |          |       |           |        |                |
 | 0500 | Chilled water cooling, 6 rows, 24" x 48"      | Q-5  | 3.20        | 5           | Ea.  | 5,225    | 315   |           | 5,540  | 6,225          |
@@ -2548,7 +2547,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 82 16.20 - Duct Heaters
 
-| ID   | Name/Description                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
+| ID   | Name                              | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |------|-----------------------------------------------|------|-------------|-------------|------|----------|--------|-----------|----------|----------------|
 | 0010 | DUCT HEATERS, Electric, 480 V, 3 Ph.          |      |             |             |      |          |        |           |          |                |
 | 0020 | Finned tubular insert, 500 °F                 |      |             |             |      |          |        |           |          |                |
@@ -2570,7 +2569,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 #### 23 82 19.10 - Fan Coil Air Conditioning
 
-| ID   | Name/Description                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | FAN COIL AIR CONDITIONING                                |      |             |             |      |          |       |           |        |                |
 | 0030 | Fan coil AC, cabinet mounted, filters and controls       |      |             |             |      |          |       |           |        |                |
@@ -2591,7 +2590,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 23 82 19.20 - Heating and Ventilating Units
 
-| ID   | Name/Description                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+| ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010 | HEATING AND VENTILATING UNITS, Classroom units           |      |             |             |      |          |       |           |        |                |
 | 0020 | Includes filter, heating/cooling coils, standard controls|      |             |             |      |          |       |           |        |                |
@@ -2832,34 +2831,34 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## PEX Tubing Fittings
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
-| 7000  | PEX tubing fittings                                                  |        |              |             |      |          |         |           |         |                |
-| 7100  | Compression type                                                     |        |              |             |      |          |         |           |         |                |
-| 7116  | Coupling                                                             |        |              |             |      |          |         |           |         |                |
-| 7120  | 1/2" x 1/2"                                                          | 1 Stpi | 27           | .296        | Ea . | 7        | 21      |           | 28      | 38.50          |
-| 7124  | 3/4" x 3/4"                                                          | " \|   | 23           | .348        |      | 16.85    | 24.50   |           | 41.35   | 55             |
-| 7130  | Adapter                                                              |        |              |             |      |          |         |           |         |                |
-| 7132  | 1/2" x female sweat 1/2"                                             | 1 Stpi | 222          | .296        | Ea . | 4.54     | 21      |           | 25.54   | 36             |
-| 7134  | 1/2" x female sweat 3/4"                                             |        | 26           | .308        |      | 5.10     | 21.50   |           | 26.60   | 38             |
-| 7136  | 5/8" x female sweat 3/4"                                             | 0      | 24           | .333        | 4    | 7.30     | 23.50   |           | 30.80   | 43             |
-| 7140  | Elbow                                                                |        |              |             |      |          |         |           |         |                |
-| 7142  | 1/2" x female sweat 1/2"                                             | 1 Stpi | 222          | .296        | Ea . | 6.95     | 21      |           | 27.95   | 38.50          |
-| 7144  | 1/2" x female sweat 3/4"                                             |        | 26           | .308        | \|   | 8.10     | 21.50   |           | 29.60   | 41.50          |
-| 7146  | 5/8" x female sweat 3/4"                                             |        | 24           | .333        |      | 9.10     | 23.50   |           | 32.60   | 45             |
-| 7200  | Insert type                                                          |        |              |             |      |          |         |           |         |                |
-| 7206  | PEX x male NPT                                                       |        |              |             |      |          |         |           |         |                |
-| 7210  | 1/2" x 1/2"                                                          | 1Stpi  | 29           | .276        | Eg . | 3.23     | 19.40   |           | 22.63   | 32.50          |
-| 7220  | 3/4" x 3/4"                                                          |        | 27           | .296        |      | 4.76     | 21      |           | 25.76   | 36.50          |
-| 7230  | 1" x 1"                                                              |        | 26           | .308        | +    | 8.05     | 21.50   |           | 29.55   | 41.50          |
-| 7300  | PEX coupling                                                         |        |              |             |      |          |         |           |         |                |
-| 7310  | 1/2" x 1/2"                                                          | 1 Stpi | 30           | .267        | Ea . | 1.22     | 18.75   |           | 19.97   | 29.50          |
-| 7320  | 3/4" x 3/4"                                                          |        | 29           | .276        |      | 1.85     | 19.40   |           | 21.25   | 31             |
-| 7330  | 1" x 1"                                                              |        | 28           | .286        |      | 2.86     | 20      |           | 22.86   | 33             |
-| 7400  | PEX stainless crimp ring                                             |        |              |             |      |          |         |           |         |                |
-| 7410  | 1/2" x 1/2"                                                          | 1 Stpi | 86           | .093        | Ea . | .58      | 6.55    |           | 7.13    | 10.40          |
-| 7420  | 3/4" x 3/4"                                                          |        | 84           | .095        |      | .79      | 6.70    |           | 7.49    | 10.85          |
-| 7430  | 1" x 1"                                                              |        | 82           | .098        |      | 1.14     | 6.85    |           | 7.99    | 11.50          |
+| ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor   | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------|--------|--------------|-------------|-------|----------|---------|-----------|---------|----------------|
+| 7000  | PEX tubing fittings                    |        |              |             |       |          |         |           |         |                |
+| 7100  | Compression type                       |        |              |             |       |          |         |           |         |                |
+| 7116  | Coupling                               |        |              |             |       |          |         |           |         |                |
+| 7120  | 1/2" x 1/2"                            | 1 Stpi | 27           | .296        | Ea.   | 7        | 21      |           | 28      | 38.50          |
+| 7124  | 3/4" x 3/4"                            | "      | 23           | .348        |       | 16.85    | 24.50   |           | 41.35   | 55             |
+| 7130  | Adapter                                |        |              |             |       |          |         |           |         |                |
+| 7132  | 1/2" x female sweat 1/2"               | 1 Stpi | 222          | .296        | Ea.   | 4.54     | 21      |           | 25.54   | 36             |
+| 7134  | 1/2" x female sweat 3/4"               |        | 26           | .308        |       | 5.10     | 21.50   |           | 26.60   | 38             |
+| 7136  | 5/8" x female sweat 3/4"               | 0      | 24           | .333        | 4     | 7.30     | 23.50   |           | 30.80   | 43             |
+| 7140  | Elbow                                  |        |              |             |       |          |         |           |         |                |
+| 7142  | 1/2" x female sweat 1/2"               | 1 Stpi | 222          | .296        | Ea.   | 6.95     | 21      |           | 27.95   | 38.50          |
+| 7144  | 1/2" x female sweat 3/4"               |        | 26           | .308        |       | 8.10     | 21.50   |           | 29.60   | 41.50          |
+| 7146  | 5/8" x female sweat 3/4"               |        | 24           | .333        |       | 9.10     | 23.50   |           | 32.60   | 45             |
+| 7200  | Insert type                            |        |              |             |       |          |         |           |         |                |
+| 7206  | PEX x male NPT                         |        |              |             |       |          |         |           |         |                |
+| 7210  | 1/2" x 1/2"                            | 1 Stpi | 29           | .276        | Ea.   | 3.23     | 19.40   |           | 22.63   | 32.50          |
+| 7220  | 3/4" x 3/4"                            |        | 27           | .296        |       | 4.76     | 21      |           | 25.76   | 36.50          |
+| 7230  | 1" x 1"                                |        | 26           | .308        |       | 8.05     | 21.50   |           | 29.55   | 41.50          |
+| 7300  | PEX coupling                           |        |              |             |       |          |         |           |         |                |
+| 7310  | 1/2" x 1/2"                            | 1 Stpi | 30           | .267        | Ea.   | 1.22     | 18.75   |           | 19.97   | 29.50          |
+| 7320  | 3/4" x 3/4"                            |        | 29           | .276        |       | 1.85     | 19.40   |           | 21.25   | 31             |
+| 7330  | 1" x 1"                                |        | 28           | .286        |       | 2.86     | 20      |           | 22.86   | 33             |
+| 7400  | PEX stainless crimp ring               |        |              |             |       |          |         |           |         |                |
+| 7410  | 1/2" x 1/2"                            | 1 Stpi | 86           | .093        | Ea.   | .58      | 6.55    |           | 7.13    | 10.40          |
+| 7420  | 3/4" x 3/4"                            |        | 84           | .095        |       | .79      | 6.70    |           | 7.49    | 10.85          |
+| 7430  | 1" x 1"                                |        | 82           | .098        |       | 1.14     | 6.85    |           | 7.99    | 11.50          |
 
 # 23 83 33 - Electric Radiant Heaters
 

@@ -41,37 +41,35 @@
 
 ## 04 01 20.41 Unit Masonry Stabilization
 
-| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | UNIT MASONRY STABILIZATION |        |              |             |      |          |       |           |       |                |
-| 0100 | Structural repointing method |        |              |             |      |          |       |           |       |                |
-| 0110 | Cut /grind mortar joint | 1 Bric | 240          | .033        | LF   | 1        | 1.84  |           | 1.84  | 2.77           |
-| 0120 | Clean and mask joint  | 1 Bric | 2500         | .003        | LF   | .13      | .18   |           | .31   | .42            |
-| 0130 | Epoxy paste and 1/4" FRP rod |        | 240          | .033        | I    | 2.28     | 1.84  |           | 4.12  | 5.30           |
-| 0132 | 3/8" FRP rod          |        | 160          | 050         | |    | 3.40     | 2.76  |           | 6.16  | 7.90           |
-| 0140 | Remove masking        |        | 14400        | .001        |      |          | .03   |           | .03   | .05            |
-| 0300 | Structural fabric method |        |              |             |      |          |       |           |       |                |
-| 0310 | Primer                | 1 Bric | 600          | .013        | S.F. | 1.33     | .74   |           | 2.07  | 2.57           |
-| 0320 | Apply fillin/leveling poste |        | 720          | .011        |      | 1.01     | .61   |           | 1.62  | 2.03           |
-| 0330 | Epoxy, glass fiber fabric |        | 720          | .011        |      | 11.60    | .61   |           | 12.21 | 13.65          |
-| 0340 | Carbon fiber fabric   |        | 720          | .011        |      | 22       | .61   |           | 22.61 | 25              |
+| ID    | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-----------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | UNIT MASONRY STABILIZATION  |         |              |             |      |          |       |           |       |                |
+| 0100  | Structural repointing method|         |              |             |      |          |       |           |       |                |
+| 0110  | Cut/grind mortar joint      | 1 Bric  | 240          | 0.033       | LF   | 1.00     | 1.84  |           | 2.84  | 2.77           |
+| 0120  | Clean and mask joint        | 1 Bric  | 2500         | 0.003       | LF   | 0.13     | 0.18  |           | 0.31  | 0.42           |
+| 0130  | Epoxy paste and 1/4" FRP rod|         | 240          | 0.033       | LF   | 2.28     | 1.84  |           | 4.12  | 5.30           |
+| 0132  | 3/8" FRP rod                |         | 160          | 0.050       | LF   | 3.40     | 2.76  |           | 6.16  | 7.90           |
+| 0140  | Remove masking              |         | 14400        | 0.001       | LF   |          | 0.03  |           | 0.03  | 0.05           |
+| 0300  | Structural fabric method    |         |              |             |      |          |       |           |       |                |
+| 0310  | Primer                      | 1 Bric  | 600          | 0.013       | S.F. | 1.33     | 0.74  |           | 2.07  | 2.57           |
+| 0320  | Apply fill-in/leveling paste|         | 720          | 0.011       | S.F. | 1.01     | 0.61  |           | 1.62  | 2.03           |
+| 0330  | Epoxy, glass fiber fabric   |         | 720          | 0.011       | S.F. | 11.60    | 0.61  |           | 12.21 | 13.65          |
+| 0340  | Carbon fiber fabric         |         | 720          | 0.011       | S.F. | 22.00    | 0.61  |           | 22.61 | 25.00          |
 
-## 04 01 20.52 Cleaning Masonry
-
-| ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | CLEANING MASONRY    |        |              |             |      |          |       |           |       | 80             |
-| 0200 | By chemical, brush and rinse, new work, light construction dust | D -1   | 1000         | .016        | S.F. | .06      | .80   |           | .86   | 1.27           |
-| 0220 | Medium construction dust |        | 800          | .020        |      | .09      | 1     |           | 1.09  | 1.61           |
-| 0240 | Heavy construction dust, drips or stains |        | 600          | .027        |      | .12      | 1.34  |           | 1.46  | 2.14           |
-| 0260 | Low pressure wash and rinse, light restoration, light soil |        | 800          | 020         |      | .13      | 1     |           | 1.131 | 1.65           |
-| 0270 | Average soil, biological staining |        | 400.040      |      | I    | .19      | 2.01  |           | 2.20  | 3.22           |
-| 0280 | Heavy soil, biological and mineral staining, paint |        | 330          | 048         | |    | .26      | 2.43  |           | 2.69  | 3.93           |
-| 0300 | High pressure wash and rinse, heavy restoration, light soil |        | 600    | .027        |      | .10      | 1.34  |           | 1.44  | 2.12           |
-| 0310 | Average soil, biological staining |        | 400          | .040        |      | .15      | 2.01  |           | 2.16  | 3.17           |
-| 0320 | Heavy soil, biological and mine alstaining, paint |        | 250          | .064        |      | .20      | 3.21  |           | 3.41  | 5.05           |
-| 0400 | High pressure wash, water only, light soil | C-29   | 500          | .016        |      |          | .73   | .20       | .93   | 1.31           |
-| 0420 | Average soil, biological staining |        | 375          | .021        |      |          | .97   | .27       | 1.24  | 1.75           |
+| ID   | Name                                                         | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------|--------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010 | CLEANING MASONRY                                             |       |              |             |      |          |       |           |       | 80             |
+| 0200 | By chemical, brush and rinse, new work, light construction dust | D-1   | 1000         | .016        | S.F. | .06      | .80   |           | .86   | 1.27           |
+| 0220 | Medium construction dust                                     |       | 800          | .020        |      | .09      | 1.00  |           | 1.09  | 1.61           |
+| 0240 | Heavy construction dust, drips or stains                     |       | 600          | .027        |      | .12      | 1.34  |           | 1.46  | 2.14           |
+| 0260 | Low pressure wash and rinse, light restoration, light soil   |       | 800          | .020        |      | .13      | 1.00  |           | 1.13  | 1.65           |
+| 0270 | Average soil, biological staining                            |       | 400          | .040        |      | .19      | 2.01  |           | 2.20  | 3.22           |
+| 0280 | Heavy soil, biological and mineral staining, paint           |       | 330          | .048        |      | .26      | 2.43  |           | 2.69  | 3.93           |
+| 0300 | High pressure wash and rinse, heavy restoration, light soil  |       | 600          | .027        |      | .10      | 1.34  |           | 1.44  | 2.12           |
+| 0310 | Average soil, biological staining                            |       | 400          | .040        |      | .15      | 2.01  |           | 2.16  | 3.17           |
+| 0320 | Heavy soil, biological and mineral staining, paint           |       | 250          | .064        |      | .20      | 3.21  |           | 3.41  | 5.05           |
+| 0400 | High pressure wash, water only, light soil                   | C-29  | 500          | .016        |      |          | .73   | .20       | .93   | 1.31           |
+| 0420 | Average soil, biological staining                            |       | 375          | .021        |      |          | .97   | .27       | 1.24  | 1.75           |
 
 98 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -93,8 +91,8 @@
 | 1440  | Heavy soil, biological and mineral staining, paint                   |        | 1000         | 0.032       |      | 0.76     | 1.59  | 0.31      | 2.66  | 3.53           |
 | 1800  | For walnut shells, add                                               |        |              |             |      | 1.36     |       |           | 1.36  | 1.50           |
 | 1820  | For corn chips, add                                                  |        |              |             |      | 0.29     |       |           | 0.29  | 0.32           |
-| 2000  | Steam cleaning, light soil                                           | A-1H   | 750          | 0.011       |      |          | 0.49  | .=1       | 0.60  | 0.84           |
-| 2020  | Average soil, biological staining                                    | "      | 625          | 0.013       |      |          | 0.58  | 223       | 0.71  | 1.01           |
+| 2000  | Steam cleaning, light soil                                           | A-1H   | 750          | 0.011       |      |          | 0.49  | .1       | 0.60  | 0.84           |
+| 2020  | Average soil, biological staining                                    |        | 625          | 0.013       |      |          | 0.58  | .223       | 0.71  | 1.01           |
 | 2040  | Heavy soil, biological and mineral staining                          | A-1H   | 375          | 0.021       | S.F. |          | 0.97  | 0.21      | 1.18  | 1.68           |
 | 4000  | Add for masking doors and windows                                    | 1 Clab | 800          | 0.010       | "    | 0.07     | 0.46  |           | 0.53  | 0.76           |
 | 4200  | Add for pedestrian protection                                        |        |              |             | Job  |          |       |           | 10 %  | 10 %           |
@@ -177,23 +175,23 @@
 | ID    | Name                  | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-----------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 3020  | Soft old mortar       | 1 Clab  | 180          | .044        | LF   | 2223     |       |           | 2.03  | 3.02           |
-| 3040  | Hard mortar           | #       | 160          | .050        |      |          | 2.28  |           | 2.28  | 3.40           |
+| 3040  | Hard mortar           |        | 160          | .050        |      |          | 2.28  |           | 2.28  | 3.40           |
 
 ## 3100 To 12" wide
 
 | ID    | Name                  | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-----------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 3120  | Soft old mortar       | 1 Clab  | 160          | .050        | LF   | 2.28     |       |           | 2.28  | 3.40           |
-| 3140  | Hard mortar           | "       | 140.057      |             | "    | 2.61     |       |           | 2.611 | 3.88           |
+| 3140  | Hard mortar           |        | 140.057      |             | "    | 2.61     |       |           | 2.611 | 3.88           |
 
 ## 4000 Fireplace, brick, 30" x 24" opening
 
 | ID    | Name                  | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-----------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 4020  | Soft old mortar       | 1 Clab  | 2            | 4           | Ea.  | 182      |       | --        | 182   | 272            |
-| 4040  | Hard mortar           | [   ]   | 1.25         | 6.400       |      | 292      |       |           | 292   | 435            |
+| 4020  | Soft old mortar       | 1 Clab  | 2            | 4           | Ea.  | 182      |       |         | 182   | 272            |
+| 4040  | Hard mortar           |   | 1.25         | 6.400       |      | 292      |       |           | 292   | 435            |
 | 4100  | Stone, soft old mortar|         | 1.50         | 5.333       |      | 243      |       |           | 243   | 360            |
-| 4120  | Hard mortar           |         | 1            | 8           |      | 365      |       | *         | 365   | 545            |
+| 4120  | Hard mortar           |         | 1            | 8           |      | 365      |       |          | 365   | 545            |
 
 ## 5000 Veneers, brick, soft old mortar
 
@@ -207,7 +205,7 @@
 | 5140  | Stone, 4" thick       |         | 180.044      |             |      | 2.03     |       |           | 2.03  | 3.01           |
 | 5160  | 8" thick              | 1 Clab  | 175          | .046        | S.F. | 2.08     |       |           | 2.08  | 3.10           |
 | 5400  | Alternate pricing method, stone, 4" thick | | 60           | .133        | C.F. | 6.10     |       |           | 6.10  | 9.0            |
-| 5420  | 8" thick              |         | 85           | .094        | "    | 4.29     |       |           | 4.29  | 6.40           |
+| 5420  | 8" thick              |         | 85           | .094        |     | 4.29     |       |           | 4.29  | 6.40           |
 
 # 04 05 13 - Masonry Mortaring
 
@@ -278,7 +276,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 |------|-----------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | MASONRY RESTORATION MORTARING                             |        |              |             |      |          |       |           |       |                |
 | 0020 | Masonry restoration mix                                   |        |              |             | Lb.  | 545      |       |           | .52   | .57            |
-| 0050 | White                                                     |        |              |             | п    | .45      |       |           | .45   | .50            |
+| 0050 | White                                                     |        |              |             |      | .45      |       |           | .45   | .50            |
 
 ---
 
@@ -347,8 +345,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0550 | 3" space, 0.250 C.F./S.F.                                            |      | 1200         | .027        |      | 1.33     | 1.35  | .12       | 2.80  | 3.61           |
 | 0600 | 4" space, 0.333 C.F./S.F.                                            |      | 1150         | .028        |      | 1.77     | 1.41  | .12       | 3.30  | 4.18           |
 | 0700 | 6" space, 0.500 C.F./S.F.                                            |      | 800          | .040        |      | 2.65     | 2.02  | .17       | 4.84  | 66.15          |
-| 0800 | Door frames, 3' x 7' opening, 2.5 C.F. per opening                   |      | 60           | 533         | Opng | 13.25    | 27    | 2.31      | 42.56 | 57.50          |
-| 0850 | 6' x 7' opening, 3.5 C.F. per opening                                |      | 45           | .711        | "    | 18.60    | 36    | 3.08      | 57.68 | 78              |
+| 0800 | Door frames, 3' x 7' opening, 2.5 C.F. per opening                   |      | 60           | 533         |  | 13.25    | 27    | 2.31      | 42.56 | 57.50          |
+| 0850 | 6' x 7' opening, 3.5 C.F. per opening                                |      | 45           | .711        |     | 18.60    | 36    | 3.08      | 57.68 | 78              |
 | 2000 | Grout, C476, for bond beams, lintels and CMU cores                   | W    | 350          | .091        | C.F. | 5.30     | 4.62  | .40       | 10.32 | 13.20          |
 
 ---
@@ -362,7 +360,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0010 | ANCHOR BOLTS                                                        |        |              |             |      |          |       |           |       |                |
 | 0015 | Installed in fresh grout in CMU bond beams or filled cores, no templates|      |              |             |      |          |       |           |       |                |
 | 0020 | Hooked, with nut and washer, 1/2" diameter, 8" long                  | 1 Bric | 132          | .061        | Ea.  | 2.23     | 3.35  |           | 5.58  | 7.50           |
-| 0030 | 12" long                                                            | "      | 131          | .061        |      | 2.48     | 3.37  |           | 5.85  | 7.8244         |
+| 0030 | 12" long                                                            |       | 131          | .061        |      | 2.48     | 3.37  |           | 5.85  | 7.8244         |
 | 0040 | 5/8" diameter, 8" long                                              | 1 Bric | 129          | .062        | Ea.  | 3.06     | 3.43  |           | 6.49  | 8.50           |
 | 0050 | 12" long                                                            |        | 127.063      |             |      | 3.76     | 3.48  |           | 7.24  | 9.40           |
 | 0060 | 3/4" diameter, 8" long                                              |        | 127.063      |             |      | 3.76     | 3.48  |           | 7.24  | 9.40           |
@@ -415,10 +413,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 04 05 Common Work Results Common Masonry
 
 ## 04 05 19 - Masonry Anchorage and Reinforcing Results 19.26 Masonry Reinforcing Bars
-
-JoMasonrynforcing, regular truss, to 6" wide, mill std galvanized  
-12" wide  
-Cavity truss with drip section, to 6" wide
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|-------------|-------------|--------|----------|--------|-----------|--------|----------------|
@@ -487,11 +481,11 @@ Cavity truss with drip section, to 6" wide
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 0010 | BRICK VENEER MASONRY, T.L. lots, excl. scaff., grout & reinforcing R042110-20 | D 8  | 1.50        | 26.667      | M    | 1,150    | -1,375 |           | 2,525  | 3,325          |
+| 0010 | BRICK VENEER MASONRY, T.L. lots, excl. scaff., grout & reinforcing | D 8  | 1.50        | 26.667      | M    | 1,150    | -1,375 |           | 2,525  | 3,325          |
 | 0015 | Material costs incl. 3% brick and 25% mortar waste                   |      |             |             |      |          |        |           |        |                |
 | 0020 | Standard, select common, 4" x 2-2/3" x 8" (6.75/S.F.)                |      | 1.50        | 26.667      |      | 750      | 1,375  |           | 2,125  | 2,875          |
 | 0050 | Red, 4" x 2-2/3" x 8", running bond                                  |      | 1.50        | 26.667      |      | 750      | 1,375  |           | 2,125  | 2,875          |
-| 0100 | Full header every 6th course (7.88/S.F.) R042110-50                  |      | 1.45        | 27.586      |      | 750      | 1,400  |           | 2,150  | 2,950          |
+| 0100 | Full header every 6th course (7.88/S.F.)                   |      | 1.45        | 27.586      |      | 750      | 1,400  |           | 2,150  | 2,950          |
 | 0150 | English, full header every 2nd course (10.13/S.F.)                   |      | 1.40        | 28.571      |      | 750      | 1,450  |           | 2,200  | 3,025          |
 | 0200 | Flemish, alternate header every course (9.00/S.F.)                   |      | 1.40        | 28.571      |      | 750      | 1,450  |           | 2,200  | 3,025          |
 | 0250 | Flemish, al. header every 6th course (7.13/S.F.)                     | D 8  | 1.45        | 27.586      | M    | 750      | 1,400  |           | 2,150  | 2,950          |
@@ -506,12 +500,9 @@ For customer support on your
 
 # 00421 Clay Uni21Masonry
 
-## 04 Clay3 Brick MasonUnit4 21 13.13 BriMasonryer Masonry
+## 04 Clay3 Brick MasonUnit
 
-### Daily Labor-
-Crew Output Hours Unit
-
-### 2022 Bare Costs
+## 4 21 13.13 Brick Masonry
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -573,28 +564,17 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 04Clay13 Brick MasonUnit4 21 13.14 ThMasonryk Veneer
 
-### 0010 THIN BRICK VENEER
+### 0010 Thin Brick Veneer
 
-Daily Labor-  
-Crew Output Hours Unit  
-2022 Bare Costs  
-Total  
-Material  
-Labor  
-Equipment  
-Total  
-Ind O&P  
-0015  
-Material costs incl. 3% brick and 25% mortar waste  
-0
+#### 04 21 13 Brick Masonry
+
+#### 04 21 13.14 Thin Brick Veneer
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 04    | 21 13 Brick Masonry                                                  |      |              |             |      |          |       |           |        |                |
-| 04    | 21 13.14 Thin Brick Veneer                                           |      |              |             |      |          |       |           |        |                |
-| 0010  | THIN BRICK VENEER                                                    |      |              |             |      |          |       |           |        |                |
-| 0015  | Material costs incl.3 % brick and 25% mortar waste                   |      |              |             |      |          |       |           |        |                |
-| 0020  | On & incl. metal panel support sys, modular, 2-2/3" x 5/8" x 8", red | D-7  | 92           | .174        | S.E  | 14.05    | 8.35  |           | 22.40  | 27.50          |
+| 0010  | Thin Brick Veneer                                                    |      |              |             |      |          |       |           |        |                |
+| 0015  | Material costs incl. 3% brick and 25% mortar waste                   |      |              |             |      |          |       |           |        |                |
+| 0020  | On & incl. metal panel support sys, modular, 2-2/3" x 5/8" x 8", red | D-7  | 92           | .174        | S.F. | 14.05    | 8.35  |           | 22.40  | 27.50          |
 | 0100  | Closure, 4" x 5/8" x 8"                                              |      | 110          | .145        |      | 9.60     | 7     |           | 16.60  | 21             |
 | 0110  | Norman, 2-2/3" x 5/8" x 12"                                          |      | 110          | .145        |      | 9.95     | 7     |           | 16.95  | 21             |
 | 0120  | Utilit, 4" x 5/8" x 12"                                              |      | 125          | .128        |      | 9.30     | 6.15  |           | 15.45  | 19.15          |
@@ -609,8 +589,6 @@ Material costs incl. 3% brick and 25% mortar waste
 | 0250  | Super emperor, 8" x 3/4" x 16"                                       |      | 285          | .056        |      | 6.40     | 2.69  |           | 9.09   | 11             |
 | 0260  | For L shaped corners with 4" return, add                             |      |              |             | LF   | 10.10    |       |           | 10.10  | 11.10          |
 | 0270  | For embedment into pre-cast concrete panels, add                     |      |              |             | S.F. | 14.40    |       |           | 14.40  | 15.85          |
-
----
 
 ## 04 21 13.15 Chimney
 
@@ -630,7 +608,7 @@ Material costs incl. 3% brick and 25% mortar waste
 
 | ID    | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 0010  | COLUMNS, solid, excludes scaffolding, grout and reinforcing R042110-10|      |              |             |      |          |       |           |        |                |
+| 0010  | COLUMNS, solid, excludes scaffolding, grout and reinforcing |      |              |             |      |          |       |           |        |                |
 | 0050  | Brick, 8" x 8", 9 brick/ V.L.F.                                      | D-1  | 56           | .286        | V.LF.| 7.05     | 14.30 |           | 21.35  | 29.50          |
 | 0100  | 12" x 8", 13.5 brick/V.L.F.                                          |      | 37           | .432        |      | 10.55    | 21.50 |           | 32.05  | 44             |
 | 0200  | 12" x 12", 20 brick/ V.L.F.                                          |      | 25           | .640        |      | 15.60    | 32    |           | 47.60  | 65             |
@@ -670,11 +648,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 04 21 13.30 Oversized Brick Masonry
 
-Curtainwall/reinforced veneer, 6" x 4" x 16"  
-8" x 4" x 16"  
-10" x 4" x 16"  
-6" x 8" x 16"  
-8" x 8" x 16"  
 
 | ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -721,7 +694,7 @@ Curtainwall/reinforced veneer, 6" x 4" x 16"
 
 | ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | FACE BRICK Material Only, C216, T.L. lots R042110-20 |      |              |             |      |          |       |           |       |                |
+| 0010 | FACE BRICK Material Only, C216, T.L. lots  |      |              |             |      |          |       |           |       |                |
 | 0300 | Standard modular, 4" x 2-2/3" x 8"           |      |              |             |  M   | 635      |       |           | 635   | 695            |
 | 0450 | Economy, 4" x 4" x 8"                        |      |              |             |      | 920      |       |           | 920   | 1,000          |
 | 0510 | Economy, 4" x 4" x 12"                       |      |              |             |      | 1,450    |       |           | 1,450 | 1,600          |
@@ -861,11 +834,11 @@ Curtainwall/reinforced veneer, 6" x 4" x 16"
 
 | ID   | Name                                                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | AUTOCLAVE AERATED CONCRETE BLOCK, excl. scaffolding, grout & reinforcing | 45G50 D28 | 600 | .067 | S.F. | 3.09 | 3.41 | | 6.50 | 8.50 |
-| 0060 | Solid, 6" x 8" x 24"                                                 | G D 8 | 600.067      |             | S.F. | 5.15     | 3.41  |           | 8.56  | 10.75          |
-| 0070 | 8" x 8" x 24"                                                        | G     | 575          | .070        |      | 3.54     | 3.56  |           | 7.10  | 9.25           |
+| 0010 | AUTOCLAVE AERATED CONCRETE BLOCK, excl. scaffolding, grout & reinforcing |  D 8 | 600 | .067 | S.F. | 3.09 | 3.41 | | 6.50 | 8.50 |
+| 0060 | Solid, 6" x 8" x 24"                                                 | D 8 | 600.067      |             | S.F. | 5.15     | 3.41  |           | 8.56  | 10.75          |
+| 0070 | 8" x 8" x 24"                                                        |      | 575          | .070        |      | 3.54     | 3.56  |           | 7.10  | 9.25           |
 | 0080 | 10" x 8" x 24"                                                       |       | 575          | .070        |      | 4.25     | 3.56  |           | 7.81  | 10             |
-| 0090 | 12" x 8" x 24"                                                       | G     | 550          | .073        |      | 5.10     | 3.72  |           | 8.82  | 11.20          |
+| 0090 | 12" x 8" x 24"                                                       |      | 550          | .073        |      | 5.10     | 3.72  |           | 8.82  | 11.20          |
 
 ### 04 22 10.12 Chimney Block
 
@@ -910,9 +883,8 @@ Curtainwall/reinforced veneer, 6" x 4" x 16"
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 00422 Concrete22nit MasonrConcrete10 - Concrete Masonry Units
 
-## Unit2 10.16 Concrete Masonry, Bond Beam
+## 04 22 10.16 Concrete Masonry, Bond Beam
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1081,10 +1053,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0050  | Normal-weight, cut joints, horiz joint reinf, no vert reinf.         |      |              |             |      |          |       |           |       |                |
 | 0200  | Hollow, 8" x 16" x 6" thick                                          | D 8  | 455          | .088        | S.F. | 4.52     | 4.50  |           | 9.02  | 11.75          |
 | 0250  | 8" thick                                                             |      | 425          | .094        |      | 3.13     | 4.81  |           | 7.94  | 10.70          |
-| 0300  | 10" thick                                                            | 14   | 350          | .114        |      | 4.38     | 5.85  |           | 10.23 | 13.60          |
+| 0300  | 10" thick                                                            |    | 350          | .114        |      | 4.38     | 5.85  |           | 10.23 | 13.60          |
 | 0350  | 12" thick                                                            | D-9  | 300          | .160        |      | 5.05     | 8     |           | 13.05 | 17.60          |
 | 0500  | Solid, 8" x 16" block, 6" thick                                      | D-8  | 440          | .091        |      | 3.95     | 4.65  |           | 8.60  | 11.35          |
-| 0550  | 8" thick                                                             | "    | 415          | .096        |      | 4.21     | 4.93  |           | 9.14  | 12.05          |
+| 0550  | 8" thick                                                             |     | 415          | .096        |      | 4.21     | 4.93  |           | 9.14  | 12.05          |
 | 0600  | 12" thick                                                            | 0-9  | 350          | .137        |      | 4.20     | 6.85  |           | 11.05 | 14.90          |
 
 ---
@@ -1096,11 +1068,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0010  | CONCRETE BLOCK, HIGH STRENGTH                                        |      |              |             |      |          |       |           |       |                |
 | 0050  | Hollow, reinforced alternate courses, 8" x 16" units                 |      |              |             |      |          |       |           |       |                |
 | 0200  | 3500 psi, 4" thick                                                   | D-8  | 440          | .091        | S.F. | 2.50     | 4.65  |           | 7.15  | 9.75           |
-| 0250  | 6" thick                                                             | !    | 395          | .101        |      | 2.34     | 5.20  |           | 7.54  | 10.35          |
+| 0250  | 6" thick                                                             |     | 395          | .101        |      | 2.34     | 5.20  |           | 7.54  | 10.35          |
 | 0300  | 8" thick                                                             |      | 360          | 111         |      | 4.49     | 5.70  |           | 10.191| 13.50          |
 | 0350  | 12" thick                                                            | D 9  | 250          | .192        |      | 4.90     | 9.60  |           | 14.50 | 19.85          |
 | 0500  | 5000 psi, 4" thick                                                   | D-8  | 440          | .091        |      | 2.23     | 4.65  |           | 6.88  | 9.45           |
-| 0550  | 6" thick                                                             | |    | 395          | .101        |      | 3.06     | 5.20  |           | 8.26  | 11.15          |
+| 0550  | 6" thick                                                             |     | 395          | .101        |      | 3.06     | 5.20  |           | 8.26  | 11.15          |
 | 0600  | 8" thick                                                             |      | 360          | .111        |      | 4.13     | 5.70  |           | 9.83  | 13.10          |
 | 0650  | 12" thick                                                            | D 9  | 300          | .160        | -D   | 4.88     | 8     |           | 12.88 | 17.40          |
 | 1000  | For 75 % solid block, add                                            |      |              |             |      |          |       |           | 30 %  |                |
@@ -1118,7 +1090,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0300  | 12" thick                                                            |      | 220          | .073        |      | 3.90     | 3.65  |           | 7.55  | 9.75           |
 | 0350  | 16" thick                                                            |      | 185          | .086        |      | 6.05     | 4.34  |           | 10.39 | 13.15          |
 | 0400  | Including grout & reinforcing, 8" thick                              | D 4  | 245          | .131        |      | 8.85     | 6.60  | .57       | 16.02 | 20.50          |
-| 0450  | 12" thick                                                            | 1 ☐  | 220          | .145        |      | 10.10    | 7.35  | .63       | 18.08 | 23             |
+| 0450  | 12" thick                                                            |   | 220          | .145        |      | 10.10    | 7.35  | .63       | 18.08 | 23             |
 | 0500  | 16" thick                                                            |      | 185          | 173         |      | 12.55    | 8.75  | .75       | 22.05 | 27.50          |
 
 ---
@@ -1131,8 +1103,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0100  | Including grout and horizontal reinforcing                            |      |              |             |      |          |       |           |       |                |
 | 0200  | 8" x 8" x 8", 1 #4 bar                                               | D-4  | 300          | .107        | LF   | 5.10     | 5.40  | .46       | 10.96 | 14.20          |
 | 0250  | 2 #4 bars                                                            |      | 295          | .108        |      | 5.40     | 5.50  | .47       | 11.37 | 14.65          |
-| 0400  | 8" x 16" x 8", 1 #4 bar                                              | ] [  | 275          | .116        |      | 4.39     | 5.90  | .50       | 10.79 | 14.20          |
-| 0450  | 2 #4 bars                                                            | I [  | 270          | .119        |      | 4.72     | 61    | .51       | 11.23 | 14.75          |
+| 0400  | 8" x 16" x 8", 1 #4 bar                                              |   | 275          | .116        |      | 4.39     | 5.90  | .50       | 10.79 | 14.20          |
+| 0450  | 2 #4 bars                                                            |   | 270          | .119        |      | 4.72     | 61    | .51       | 11.23 | 14.75          |
 | 1000  | 12" x 8" x 8", 1 #4 bar                                              |      | 275          | .116        |      | 6.65     | 5.90  | .50       | 13.05 | 16.70          |
 | 1100  | 2 #4 bars                                                            |      | 270          | .119        |      | 7        | 61    | .51       | 13.51 | 17.25          |
 
@@ -1169,7 +1141,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|---------------|
-| 0010 | CONCRETE BLOCK, PARTITIONS, excludes scaffolding R042210-20 |      |              |             |      |          |       |           |        |               |
+| 0010 | CONCRETE BLOCK, PARTITIONS, excludes scaffolding  |      |              |             |      |          |       |           |        |               |
 | 0100 | Acoustical slotted block                     |      |              |             |      |          |       |           |        |               |
 | 0200 | 4" thick, type A-1                           | D-8  | 315          | .127        | S.F. | 6.90     | 6.50  |           | 13.40  | 17.35         |
 | 0210 | 8" thick                                     |      | 275          | .145        |      | 7.85     | 7.45  |           | 15.30  | 19.80         |
@@ -1267,7 +1239,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010 | GLAZED CONCRETE BLOCK (744                                           |      |              |             |      |          |       |           |       |                |
+| 0010 | GLAZED CONCRETE BLOCK 744                                           |      |              |             |      |          |       |           |       |                |
 | 0100 | Single face, 8" x 16" units, 2" thick                                | D-8  | 360          | .111        | S.F. | 12.80    | 5.70  |           | 18.50 | 222.50233333   |
 | 0200 | 4" thick                                                             |      | 345          | .116        |      | 13.15    | 5.95  |           | 19.10 | 23.50          |
 | 0250 | 6" thick                                                             |      | 330          | .12T        |      | 15.50    | 6.20  |           | 21.70 | 26.50          |
@@ -1296,64 +1268,57 @@ RSMeans call 800.448.8182
 
 For customer support on your Building Construction Costs with data,
 
-# 04042 Concrete Unit Masonry
-
-Concrete - Concrete Masonry Units
-
-0Unit 10.44 GlazedMasonryte Block  
-1600  
-1650  
-6" thick  
-8" thick  
-
 ## 04 23 Glass Unit Masonry
 
 ### 04 23 13 Vertical Glass Unit Masonry
 
 #### 04 23 13.10 Glass Block
 
-0010 GLASS BLOCK  
-Plain, 4" thick, under 1,000
+| ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 1600  | 6" thick                                  | D-8  | 265          | .151        | L.F. | 12.10    | 7.70  |           | 19.80 | 25             |
+| 1650  | 8" thick                                  |      | 245          | .163        |      | 12.65    | 8.35  |           | 21    | 26.50          |
+
+---
+
+#### 04 23 Glass Unit Masonry
+
+##### 04 23 13 Vertical Glass Unit Masonry
+
+###### 04 23 13.10 Glass Block
 
 | ID    | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 04 22 10 | Concrete Masonry Units                  |      |              |             |      |          |       |           |       |                |
-| 04 22 10.44 | Glazed Concrete Block                |      |              |             |      |          |       |           |       |                |
-| 1600  | 6" thick                                  | D-8  | 265          | .151        | L.F. | 12.10    | 7.70  |           | 19.80 | 25             |
-| 1650  | 8" thick                                  |      | 245          | .163        |      | 12.65    | 8.35  |           | 21    | 26.50          |
-| 04 23 | Glass Unit Masonry                        |      |              |             |      |          |       |           |       |                |
-| 04 23 13 | Vertical Glass Unit Masonry            |      |              |             |      |          |       |           |       |                |
-| 04 23 13.10 | Glass Block                         |      |              |             |      |          |       |           |       |                |
-| 0010  | GLASS BLOCK                              |      |              |             |      |          |       |           |       |                |
+| 0010  | GLASS BLOCK                               |      |              |             |      |          |       |           |       |                |
 | 0100  | Plain, 4" thick, under 1,000 S.F., 6" x 6"| D-8  | 115          | .348        | S.F. | 26.50    | 17.80 |           | 44.30 | 56             |
-| 0150  | 8" x 8"                                  |      | 160          | .250        |      | 24.50    | 12.80 |           | 37.30 | 45.50          |
-| 0160  | end block                                |      | 160          | .250        |      | 52       | 12.80 |           | 64.80 | 76             |
-| 0170  | 90 degree corner                         |      | 160          | .250        |      | 60.50    | 12.80 |           | 73.30 | 85.50          |
-| 0180  | 45 degree corner                         |      | 160          | .250        |      | 56       | 12.80 |           | 68.80 | 80.50          |
-| 0200  | 12" x 12"                                |      | 175          | .229        |      | 29       | 11.70 |           | 40.70 | 49             |
-| 02101 | 4" x 8"                                  |      | 160          | .250        |      | 26.50    | 12.80 |           | 39.30 | 48.50          |
-| 0220  | 6" x 8"                                  |      | 160          | .250        |      | 18.50    | 12.80 |           | 31.30 | 39.50          |
-| 0300  | 1,000 to 5,000 S.F., 6" x 6"             |      | 135          | .296        |      | 2262     | 15.15 |           | 41.15 | 51.50          |
-| 0350  | 8" x 8"                                  |      | 190          | .211        |      | 24       | 10.75 |           | 34.75 | 42             |
-| 0400  | 12" x 12"                                |      | 215          | .186        |      | 28       | 9.50  |           | 37.50 | 45.50          |
-| 0410  | 4" x 8"                                  |      | 215.186      |             |      | 26       | 9.50  |           | 35.50 | 43444          |
-| 04201 | 6" x 8"                                  |      | 215.186      |             |      | 18.10    | 9.50  |           | 27.60 |                |
-| 0500  | Over 5,000 S.F., 6" x 6"                 |      | 145          | .276        |      | 25.50    | 14.10 |           | 39.60 | 49             |
-| 0550  | 8" x 8"                                  |      | 215.186      |             |      | 23       | 9.50  |           | 32.50 | 40             |
-| 0600  | 12" x 12"                                |      | 240          | .167        |      | 27.50    | 8.55  |           | 36.05 |                |
-| 0610  | 4" x 8"                                  |      | 240          | .167        |      | 25.50    | 8.55  |           | 34.05 | 41             |
-| 0620  | 6" x 8"                                  |      | 240          | .167        |      | 17.55    | 8.55  |           | 26.10 | 32             |
-| 0700  | For solar reflective blocks, add          |      |              |             |      | 100 %    |       |           |       |                |
-| 1000  | Thinline, plain, 3-1/8" thick, under 1,000 S.F., 6" x 6" | D-8 | 115 | .348 | S.F. | 23.50 | 17.80 | | 41.30 | 52.50 |
-| 1050  | 8" x 8"                                  |      | 160          | 1.250       |      | 13.65    | 12.80 |           | 26.45 | 34             |
-| 1200  | Over 5,000 S.F., 6" x 6"                 |      | 145          | .276        |      | 37       | 14.10 |           | 51.10 | 61.50          |
-| 1250  | 8" x 8"                                  |      | 215.186      |             |      | 20.50    | 9.50  |           | 30    | 37             |
-| 1400  | For cleaning block after installation (both sides), add | | 1000 | .040 | | .21 | 2.05 | | 2.26 | 3.330 |
-| 4000  | Accessories                              |      |              |             |      |          |       |           |       |                |
-| 4100  | Anchors, 20 ga. galv, 1-3/4" wide x 24" long | | | | Eo. | 5.30 | | | 5.30 | 5.880 |
-| 4200  | Emulsion asphalt                         |      |              |             | Gal. | 66.50    |       |           | 66.50 | 73             |
-| 4300  | Expansion joint, fiberglass              |      |              |             | L.F. | .71      |       |           | .71   | .78            |
-| 4400  | Steel mesh, double galvanized            |      |              |             |      | .74      |       |           | .74   | .81            |
+| 0150  | 8" x 8"                                   |      | 160          | .250        |      | 24.50    | 12.80 |           | 37.30 | 45.50          |
+| 0160  | End block                                 |      | 160          | .250        |      | 52       | 12.80 |           | 64.80 | 76             |
+| 0170  | 90 degree corner                          |      | 160          | .250        |      | 60.50    | 12.80 |           | 73.30 | 85.50          |
+| 0180  | 45 degree corner                          |      | 160          | .250        |      | 56       | 12.80 |           | 68.80 | 80.50          |
+| 0200  | 12" x 12"                                 |      | 175          | .229        |      | 29       | 11.70 |           | 40.70 | 49             |
+| 0210  | 4" x 8"                                   |      | 160          | .250        |      | 26.50    | 12.80 |           | 39.30 | 48.50          |
+| 0220  | 6" x 8"                                   |      | 160          | .250        |      | 18.50    | 12.80 |           | 31.30 | 39.50          |
+| 0300  | 1,000 to 5,000 S.F., 6" x 6"              |      | 135          | .296        |      | 22.62    | 15.15 |           | 41.15 | 51.50          |
+| 0350  | 8" x 8"                                   |      | 190          | .211        |      | 24       | 10.75 |           | 34.75 | 42             |
+| 0400  | 12" x 12"                                 |      | 215          | .186        |      | 28       | 9.50  |           | 37.50 | 45.50          |
+| 0410  | 4" x 8"                                   |      | 215          | .186        |      | 26       | 9.50  |           | 35.50 | 43.44          |
+| 0420  | 6" x 8"                                   |      | 215          | .186        |      | 18.10    | 9.50  |           | 27.60 |                |
+| 0500  | Over 5,000 S.F., 6" x 6"                  |      | 145          | .276        |      | 25.50    | 14.10 |           | 39.60 | 49             |
+| 0550  | 8" x 8"                                   |      | 215          | .186        |      | 23       | 9.50  |           | 32.50 | 40             |
+| 0600  | 12" x 12"                                 |      | 240          | .167        |      | 27.50    | 8.55  |           | 36.05 |                |
+| 0610  | 4" x 8"                                   |      | 240          | .167        |      | 25.50    | 8.55  |           | 34.05 | 41             |
+| 0620  | 6" x 8"                                   |      | 240          | .167        |      | 17.55    | 8.55  |           | 26.10 | 32             |
+| 0700  | For solar reflective blocks, add           |      |              |             |      | 100%     |       |           |       |                |
+| 1000  | Thinline, plain, 3-1/8" thick, under 1,000 S.F., 6" x 6" | D-8 | 115 | .348 | S.F. | 23.50 | 17.80 |           | 41.30 | 52.50          |
+| 1050  | 8" x 8"                                   |      | 160          | 1.250       |      | 13.65    | 12.80 |           | 26.45 | 34             |
+| 1200  | Over 5,000 S.F., 6" x 6"                  |      | 145          | .276        |      | 37       | 14.10 |           | 51.10 | 61.50          |
+| 1250  | 8" x 8"                                   |      | 215          | .186        |      | 20.50    | 9.50  |           | 30    | 37             |
+| 1400  | For cleaning block after installation (both sides), add |      | 1000 | .040 |      | .21      | 2.05  |           | 2.26  | 3.33           |
+| 4000  | Accessories                               |      |              |             |      |          |       |           |       |                |
+| 4100  | Anchors, 20 ga. galv, 1-3/4" wide x 24" long |   |              |             | Ea.  | 5.30     |       |           | 5.30  | 5.88           |
+| 4200  | Emulsion asphalt                          |      |              |             | Gal. | 66.50    |       |           | 66.50 | 73             |
+| 4300  | Expansion joint, fiberglass               |      |              |             | L.F. | .71      |       |           | .71   | .78            |
+| 4400  | Steel mesh, double galvanized             |      |              |             |      | .74      |       |           | .74   | .81            |
 
 ## 04 24 Adobe Unit Masonry
 
@@ -1379,14 +1344,13 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 04 25 Unit Masonry Panels
 
-Unit 5 20 - Pre-Fab Masonry Masonry Panels  
-04 25 20.1 Panels k and Epoxy Mortar Panels
+## 04 25 20.1 Panels k and Epoxy Mortar Panels
 
 ## 04 25 20 - Pre-Fabricated Masonry Panels
+### 04 25 20.10 Brick and Epoxy Mortar Panels
 
 | ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 04 25 20.10 | Brick and Epoxy Mortar Panels      |      |              |             |      |          |       |           |       |                |
 | 0010 | BRICK AND EPOXY MORTAR PANELS            |      |              |             |      |          |       |           |       |                |
 | 0020 | Prefabricated brick & epoxy mortar, 4" thick, minimum | C-11 | 775 | .093 | S.F. | 8.45 | 5.70 | 3.08 | 17.23 | 21.50 |
 | 0100 | Maximum                                  | 11   | 500          | .144        |      | 9.95     | 8.85  | 4.77      | 23.57 | 29.50          |
@@ -1448,27 +1412,15 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 04 41 10.10 Rough Stone Wall
 
-0011 ROUGH STONE WALL, Dry  
-Dry laid (no mortar), under 18" thick  
-Random fieldstone, under 18" thick  
-Over 18" thick  
-0012  
-0100  
-0150  
-0500  
-Field stone veneer  
-0510  
-Valley stone ve
-
 ---
 
 | ID    | Name                                                                 | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|-----------|--------------|-------------|------|----------|--------|-----------|--------|----------------|
 | 0011  | ROUGH STONE WALL, Dry                                                |           |              |             |      |          |        |           |        |                |
-| 0012  | Dry laid (no mortar), under 18" thick                                | 555555G ཆDི-1 | 60           | .267        | C.F.| 14.15    | 13.35  |           | 27.50  | 35.50          |
+| 0012  | Dry laid (no mortar), under 18" thick                                | D-1 | 60           | .267        | C.F.| 14.15    | 13.35  |           | 27.50  | 35.50          |
 | 0100  | Random fieldstone, under 18" thick                                   | D-12      | 60           | .533        |      | 14.15    | 27     |           | 41.15  | 33392          |
-| 0150  | Over 18" thick                                                       | "         | 63           | .508        |      | 17       | 25.50  |           | 42.50  | 57             |
-| 0500  | Field stone veneer                                                   | ལྔ        | 120          | .333        | S.F. | 13.10    | 17.05  |           | 30.15  | 40             |
+| 0150  | Over 18" thick                                                       |          | 63           | .508        |      | 17       | 25.50  |           | 42.50  | 57             |
+| 0500  | Field stone veneer                                                   |         | 120          | .333        | S.F. | 13.10    | 17.05  |           | 30.15  | 40             |
 | 0510  | Valley stone veneer                                                  |           | 120          | .333        |      | 13.10    | 17.05  |           | 30.15  | 40             |
 | 0520  | River stone veneer                                                   |           | 120          | .333        | V    | 13.10    | 17.05  |           | 30.15  | 40             |
 | 0600  | Rubble stone walls, in mortar bed, up to 18" thick                   | D-11      | 75           | .320        | C.F. | 17.15    | 16.80  |           | 33.95  | £4             |
@@ -1768,8 +1720,6 @@ For customer support on your Building Construction Costs with
 
 # 04041 Flue Lin51 Masonry
 
-04 Flue0 - Clay FlueLinerng  
-04 51 10.10 Masonryining
 
 ## 04 51 10.10 Flue Lining
 
@@ -1902,21 +1852,16 @@ Construction Costs with RSMeans data, call 800.448.8182.
 
 For customer support on your Building
 
-# 00473 Manufactured Stone  
-## Manufactured20 - Simulated or Manufactured Stone  
-04 Stone.10 Simulated Stone Masonry  
-SIMULATED STONE
 
 ---
+## 04 73 20 Simulated or Manufactured Stone
 
-### 2022 Bare Costs
+### 04 73 20.10 Simulated Stone
 
-| ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 04   | 73                          | 20   | -           | Simulated or Manufactured Stone | | | | | | |
-| 04   | 73                          | 20.10| Simulated Stone | | | | | | | |
-| 0010 | SIMULATED STONE             |      |             |             |      |          |       |           |       |                |
-| 0100 | Insulated fiberglass panels, 5/8" ply backer | L 4  | 200         | .120        | S.F. | 1        | 10.10 | 6.45      | 16.55 | 21             |
+| ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|------|-------------------------------------------|------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 0010 | SIMULATED STONE                           |      |             |             |      |          |       |           |        |                |
+| 0100 | Insulated fiberglass panels, 5/8" ply backer | L 4  | 200         | .120        | S.F. | 1        | 10.10 | 6.45      | 16.55  | 21             |
 
 ---
 
