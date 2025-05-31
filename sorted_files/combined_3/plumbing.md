@@ -4,8 +4,6 @@
 
 ### 22 05 23.20 Valves, Bronze
 
-#### Daily Plumbing 2022 Bare Costs
-
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
 | 4850  | Globe, class 150, rising stem, threaded                              |        |              |             |      |          |        |           |          |                |
@@ -68,21 +66,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## 22 01 02 - Labor Adjustments
 
-### Daily Labor Maintenance 10 Boilers, General
-
-0010 BOILERS, GENERAL, Prices do not include flue piping, elec. wiring, gas or oil piping, boiler base, pad, or tankless unless noted  
-0020  
-0100 Boiler H..: 10 KW = 34 lb./steam/hr. = 33,475 BTU/hr.  
-0150 To convert SFR to BTU rating: Hot water, 150 x SFR;  
-0160 Forced hot water, 180 x SFR; steam, 240 x SFR  
-
----
-
-## Table
+## 22 01 02.10 Boilers, General 
 
 | ID    | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22 01 02.10 | Boilers, General |  |  |  |  |  |  |  |  |  |
 | 0010 | BOILERS, GENERAL, Prices do not include flue piping, elec. wiring, |  |  |  |  |  |  |  |  |  |
 | 0020 | gas or oil piping, boiler base, pad, or tankless unless noted |  |  |  |  |  |  |  |  |  |
 | 0100 | Boiler H..: 10 KW = 34 lb./steam/hr. = 33,475 BTU/hr. |  |  |  |  |  |  |  |  |  |
@@ -140,14 +127,14 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # Facility Water Distribution Piping
 
-## Distribution Pipe/Tube, Copper
+## 22 11 13.23 Distribution Pipe/Tube, Copper
 
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 4200 | 5" diameter  | Q-1  | 36          | .444        | L.F. | 180      | 28    |           | 208   | 240            |
 | 4220 | 6" diameter  | Q-2  | 42          | .571        |      | 270      | 37    |           | 307   | 355            |
 
-## Pipe, Steel
+## 22 11 13.44 Pipe, Steel
 
 | ID    | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|---------------------|-------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -163,11 +150,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0630  | 3" diameter         |       | 43          | .372        |      | 19.20    | 23.50 |           | 42.70 | 56             |
 | 0640  | 3-1/2" diameter     |       | 40          | .400        |      | 28.50    | 25    |           | 53.50 | 69             |
 | 0650  | 4" diameter         |       | 36          | .444        |      | 29       | 28    |           | 57    | 73             |
-
-## Galvanized Pipe
-
-| ID    | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|---------------------|-------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 1290  | Galvanized, 1/4" diameter | 1 Plum | 66 | 121 | LF | 10.95 | 8.45 |           | 19.40 | 24.50          |
 | 1300  | 3/8" diameter       |       | 65.123      |             |      | 14.40    | 8.60  |           | 23    | 28.50          |
 | 1310  | 1/2" diameter       |       | 63          | .127        |      | 3.19     | 8.85  |           | 12.04 | 16.70          |
@@ -180,12 +162,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1380  | 3" diameter         |       | 43          | .372        |      | 21.50    | 23.50 |           | 45    | 59             |
 | 1390  | 3-1/2" diameter     |       | 40          | .400        |      | 33.50    | 25    |           | 58.50 | 74.50          |
 | 1400  | 4" diameter         |       | 36          | .444        |      | 33.50    |       |           | 61.50 | 78.50          |
-
-## Welded, Sch. 40, on Yoke & Rollhanger Assemblies
-
-| ID    | Name                | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|---------------------|-------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 2040  | Black, 1" diameter  | Q-15  | 93          | .172        | LF   | 4.65     | 10.80 | .67       | 16.12 | 22             |
+| 2040  | Welded, Sch. 40, on Yoke & Rollhanger Assemblies Black, 1" diameter  | Q-15  | 93          | .172        | LF   | 4.65     | 10.80 | .67       | 16.12 | 22             |
 | 2070  | 2" diameter         |       | 61          | .262        | 1    | 7.85     | 16.50 | 1.02      | 25.37 | 34.50          |
 | 2090  | 3" diameter         |       | 43          | .372        |      | 16.15    | 23.50 | 1.44      | 41.09 | 54.50          |
 | 2110  | 4" diameter         |       | 37          | 432         |      | 22.50    | 27    | 1.68      | 51.18 | 67.50          |
@@ -201,160 +178,116 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 22 11 13.48 Pipe, Fittings and Valves, Steel, Grooved-Joint
 
-#### 0010 PIPE, FITTINGS AND VALVES, STEEL, GROOVED-JOINT
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PIPE, FITTINGS AND VALVES, STEEL, GROOVED-JOINT                      |        |             |             |      |          |        |           |         |                |
+| 0012  | Fittings are ductile iron. Steel fittings noted.                     |        |             |             |      |          |        |           |         |                |
+| 0020  | Pipe includes coupling & clevis type hanger assemblies, 10' OC        |        |             |             |      |          |        |           |         |                |
+| 1000  | Schedule 40, black                                                    |        |             |             |      |          |        |           |         |                |
+| 1040  | 3/4" diameter                                                         | 1 Plum | 71          | .113        | L.F. | 6.10     | 7.85   |           | 13.95   | 18.45          |
+| 1050  | 1" diameter                                                           |        | 63          | .127        |      | 5.65     | 8.85   |           | 14.50   | 19.40          |
+| 1060  | 1-1/4" diameter                                                       |        | 58          | .138        |      | 7.25     | 9.65   |           | 16.90   | 22.50          |
+| 1070  | 1-1/2" diameter                                                       |        | 51          | .157        |      | 8.15     | 10.95  |           | 19.10   | 25.50          |
+| 1080  | 2" diameter                                                           |        | 40          | .200        |      | 9.65     | 13.95  |           | 23.60   | 31.50          |
+| 1090  | 2-1/2" diameter                                                       | Q-1    | 57          | .281        |      | 15.30    | 17.65  |           | 32.95   | 43.50          |
+| 1100  | 3" diameter                                                           |        | 50          | .320        |      | 18.75    | 20.23  |           | 38.75   | 50.50          |
+| 1110  | 4" diameter                                                           |        | 45          | .356        |      | 26.50    | 22.50  |           | 49      | 63             |
+| 1120  | 5" diameter                                                           |        | 37          | .432        |      | 32       | 27     |           | 59      | 76             |
+| 1130  | 6" diameter                                                           | Q-2    | 42          | .571        |      | 36       | 37     |           | 73      | 95.50          |
+| 1800  | Galvanized                                                            |        |             |             |      |          |        |           |         |                |
+| 1840  | 3/4" diameter                                                         | 1 Plum | 71          | .113        | L.F. | 6.55     | 7.85   |           | 14.40   | 18.95          |
+| 1850  | 1" diameter                                                           |        | 63          | .127        |      | 6.55     | 8.85   |           | 15.40   | 20.50          |
+| 1860  | 1-1/4" diameter                                                       |        | 58          | .138        |      | 8.45     | 9.65   |           | 18.10   | 23.50          |
+| 1870  | 1-1/2" diameter                                                       |        | 51          | .157        |      | 9.55     | 10.95  |           | 20.50   | 27             |
+| 1880  | 2" diameter                                                           |        | 40          | .200        |      | 11.75    | 13.95  |           | 25.70   | 34             |
+| 1890  | 2-1/2" diameter                                                       | Q-1    | 57          | .281        |      | 17.40    | 17.65  |           | 35.05   | 45.50          |
+| 1900  | 3" diameter                                                           |        | 50          | .320        |      | 21.50    | 20     |           | 41.50   | 53.50          |
+| 1910  | 4" diameter                                                           |        | 45          | .356        |      | 30.50    | 22.50  |           | 53      | 67.50          |
+| 1920  | 5" diameter                                                           |        | 37          | .432        |      | 32       | 27     |           | 59      | 76             |
+| 1930  | 6" diameter                                                           | Q-2    | 42          | .571        |      | 42.50    | 37     |           | 79.50   | 102            |
+| 3990  | Fittings: coupling material required at joints not incl. in fitting price. |    |             |             |      |          |        |           |         |                |
+| 3994  | Add 1 selected coupling, material only, per joint for installed price. |     |             |             |      |          |        |           |         |                |
+| 4000  | Elbow, 90° or 45°, painted                                            |        |             |             |      |          |        |           |         |                |
+| 4030  | 3/4" diameter                                                         | 1 Plum | 222324322.160| Ea.  | 101      | 11.15  |           | 112.15  | 128            |
+| 4040  | 1" diameter                                                           |        | 50          | .160        |      | 54       | 11.15  |           | 65.15   | 76             |
+| 4050  | 1-1/4" diameter                                                       |        | 40          | .200        |      | 54       | 13.95  |           | 67.95   | 80.50          |
+| 4060  | 1-1/2" diameter                                                       |        |             | .242        |      | 54       | 16.90  |           | 70.90   | 84.50          |
+| 4070  | 2" diameter                                                           |        | 25          | .320        |      | 54       | 22.50  |           | 76.50   | 93             |
+| 4080  | 2-1/2" diameter                                                       | Q-1    | 40          | .400        | Ea.  | 54       | 25     |           | 79      | 97             |
+| 4090  | 3" diameter                                                           |        |             | .485        |      | 95       | 30.50  |           | 125.50  | 150            |
+| 4100  | 4" diameter                                                           |        | 25          | .640        |      | 103      | 40     |           | 143     | 173            |
+| 4110  | 5" diameter                                                           |        | 20          | .800        |      | 244      | 50.50  |           | 294.50  | 345            |
+| 4120  | 6" diameter                                                           | Q-2    | 25          | .960        |      | 287      | 62.50  |           | 349.50  | 410            |
+| 4250  | For galvanized elbows, add 26%                                        |        |             |             |      |          |        |           |         |                |
+| 4690  | Tee, painted                                                          |        |             |             |      |          |        |           |         |                |
+| 4700  | 3/4" diameter                                                         | 1 Plum | 338222222.211| Ea.  | 108      | 14.70  |           | 122.70  | 141            |
+| 4740  | 1" diameter                                                           |        |             | .242        |      | 83.50    | 16.90  |           | 100.40  | 117            |
+| 4750  | 1-1/4" diameter                                                       |        | 27          | .296        |      | 83.50    | 20.50  |           | 104     | 123            |
+| 4760  | 1-1/2" diameter                                                       |        |             | .364        |      | 83.50    | 25.50  |           | 109     | 130            |
+| 4770  | 2" diameter                                                           | F      | 17          | .471        |      | 83.50    | 33     |           | 116.50  | 141            |
+| 4780  | 2-1/2" diameter                                                       | Q-1    | 27          | .593        |      | 83.50    | 37     |           | 120.50  | 147            |
+| 4790  | 3" diameter                                                           |        |             | .727        |      | 114      | 45.50  |           | 159.50  | 193            |
+| 4800  | 4" diameter                                                           |        | 17          | .941        |      | 173      | 59     |           | 232     | 278            |
+| 4810  | 5" diameter                                                           |        | 13          | 1.231       |      | 400      | 77.50  |           | 477.50  | 555            |
+| 4820  | 6" diameter                                                           | 0-2    | 17          | 1.412       |      | 465      | 22     |           | 557     | 645            |
+| 4900  | For galvanized tees, add 24%                                          |        |             |             |      |          |        |           |         |                |
+| 4906  | Couplings, rigid style, painted                                       |        |             |             |      |          |        |           |         |                |
 
-- 0012 Fittings are ductile iron. Steel fittings noted.
-- 0020 Pipe includes coupling & clevis type hanger assemblies, 10' OC
-- 1000 Schedule 40, black
-
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1040 | 3/4" diameter                                                        | 1 Plum | 71          | .113        | L.F. | 6.10     | 7.85  |           | 13.95 | 18.45          |
-| 1050 | 1" diameter                                                          |        | 63          | .127        |      | 5.65     | 8.85  |           | 14.50 | 19.40          |
-| 1060 | 1-1/4" diameter                                                      |        | 58          | .138        |      | 7.25     | 9.65  |           | 16.90 | 22.50          |
-| 1070 | 1-1/2" diameter                                                      |        | 51          | .157        |      | 8.15     | 10.95 |           | 19.10 | 25.50          |
-| 1080 | 2" diameter                                                          |        | 40          | .200        |      | 9.65     | 13.95 |           | 23.60 | 31.50          |
-| 1090 | 2-1/2" diameter                                                      | Q-1    | 57          | .281        |      | 15.30    | 17.65 |           | 32.95 | 43.50          |
-| 1100 | 3" diameter                                                          |        | 50          | .320        |      | 18.75    | 2023  |           | 38.75 | 50.50          |
-| 1110 | 4" diameter                                                          |        | 45          | .356        |      | 26.50    | 22.50 |           | 49    | 63             |
-| 1120 | 5" diameter                                                          |        | 37          | .432        |      | 32       | 27    |           | 59    | 76             |
-| 1130 | 6" diameter                                                          | Q-2    | 42          | .571        |      | 36       | 37    |           | 73    | 95.50          |
-
-#### 1800 Galvanized
-
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1840 | 3/4" diameter                                                        | 1 Plum | 71          | .113        | L.F. | 6.55     | 7.85  |           | 14.40 | 18.95          |
-| 1850 | 1" diameter                                                          |        | 63          | .127        |      | 6.55     | 8.85  |           | 15.40 | 20.50          |
-| 1860 | 1-1/4" diameter                                                      |        | 58          | .138        |      | 8.45     | 9.65  |           | 18.10 | 23.50          |
-| 1870 | 1-1/2" diameter                                                      |        | 51          | .157        |      | 9.55     | 10.95 |           | 20.50 | 27             |
-| 1880 | 2" diameter                                                          |        | 40          | .200        |      | 11.75    | 13.95 |           | 25.70 | 34             |
-| 1890 | 2-1/2" diameter                                                      | Q-1    | 57          | .281        |      | 17.40    | 17.65 |           | 35.05 | 45.50          |
-| 1900 | 3" diameter                                                          |        | 50          | .320        |      | 21.50    | 20    |           | 41.50 | 53.50          |
-| 1910 | 4" diameter                                                          |        | 45          | .356        |      | 30.50    | 22.50 |           | 53    | 67.50          |
-| 1920 | 5" diameter                                                          |        | 37          | .432        |      | 32       | 27    |           | 59    | 76             |
-| 1930 | 6" diameter                                                          | Q-2    | 42          | .571        |      | 42.50    | 37    |           | 79.50 | 102            |
-
-- 3990 Fittings: coupling material required at joints not incl. in fitting price.
-- 3994 Add 1 selected coupling, material only, per joint for installed price.
-
-#### 4000 Elbow, 90° or 45°, painted
-
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 4030 | 3/4" diameter                                                        | 1 Plum | 222324322.160| Ea.  | 101      | 11.15 |           | 112.15 | 128            |
-| 4040 | 1" diameter                                                          |        | 50          | .160        |      | 54       | 11.15 |           | 65.15  | 76             |
-| 4050 | 1-1/4" diameter                                                      |        | 40          | .200        |      | 54       | 13.95 |           | 67.95  | 80.50          |
-| 4060 | 1-1/2" diameter                                                      |        |             | .242        |      | 54       | 16.90 |           | 70.90  | 84.50          |
-| 4070 | 2" diameter                                                          |        | 25          | .320        |      | 54       | 22.50 |           | 76.50  | 93             |
-| 4080 | 2-1/2" diameter                                                      | Q-1    | 40          | .400        | Ea.  | 54       | 25    |           | 79     | 97             |
-| 4090 | 3" diameter                                                          |        |             | .485        |      | 95       | 30.50 |           | 125.50 | 150            |
-| 4100 | 4" diameter                                                          |        | 25          | .640        |      | 103      | 40    |           | 143    | 173            |
-| 4110 | 5" diameter                                                          |        | 20          | .800        |      | 244      | 50.50 |           | 294.50 | 345            |
-| 4120 | 6" diameter                                                          | Q-2    | 25          | .960        |      | 287      | 62.50 |           | 349.50 | 410            |
-
-- 4250 For galvanized elbows, add 26%
-
-#### 4690 Tee, painted
-
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 4700 | 3/4" diameter                                                        | 1 Plum | 338222222.211| Ea.  | 108      | 14.70 |           | 122.70 | 141            |
-| 4740 | 1" diameter                                                          |        |             | .242        |      | 83.50    | 16.90 |           | 100.40 | 117            |
-| 4750 | 1-1/4" diameter                                                      |        | 27          | .296        |      | 83.50    | 20.50 |           | 104    | 123            |
-| 4760 | 1-1/2" diameter                                                      |        |             | .364        |      | 83.50    | 25.50 |           | 109    | 130            |
-| 4770 | 2" diameter                                                          | F      | 17          | .471        |      | 83.50    | 33    |           | 116.50 | 141            |
-| 4780 | 2-1/2" diameter                                                      | Q-1    | 27          | .593        |      | 83.50    | 37    |           | 120.50 | 147            |
-| 4790 | 3" diameter                                                          |        |             | .727        |      | 114      | 45.50 |           | 159.50 | 193            |
-| 1800 | 4" diameter                                                          |        | 17          | .941        |      | 173      | 59    |           | 232    | 278            |
-| 4810 | 5" diameter                                                          |        | 13          | 1.231       |      | 400      | 77.50 |           | 477.50 | 555            |
-| 4820 | 6" diameter                                                          | 0-2    | 17          | 1.412       |      | 465      | 22    |           | 557    | 645            |
-
-- 4900 For galvanized tees, add 24%
-- 4906 Couplings, rigid style, painted
 
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 22207 Plumbing07nsulation
-
-## Plumbing Piping Insulation
-
-### Insulation Piping Insulation
-
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 8445 | 3/4" iron pipe size         | JG55555 1 Asbe | 84          | .095        | LF   | .70      | 6     |           | 6.70  | 9.95           |
-| 8446 | 1" iron pipe size           | G       | 84          | .095        |      | 5.10     | 9     |           | 11.10 | 14.80          |
-| 8447 | 1-1/4" ironpipe size        | G       | 82          | .098        |      | 5.90     | 6.15  |           | 12.05 | 15.90          |
-| 8448 | 1-1/2" ironpipe size        | G       | 82          | .098        |      | 6.55     | 6.15  |           | 12.70 | 16.60          |
-| 8449 | 2" iron pipe size           | G       | 80          | .100        |      | 7.85     | 6.30  |           | 14.15 | 18.30          |
-| 8450 | 2-1/2" iron pipe size       |         | 80          | .100        |      | 7.90     | 6.30  |           | 14.20 | 18.35          |
-| 8456 | Rubber insulation tape, 1/8" x 2" x 30" | G |             |             | Ea   | 25       |       |           | 25    | 27.50          |
+## 22 07 19.10 Piping Insulation
+| ID    | Name                              | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|-----------------------------------|---------|-------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 8445  | 3/4" iron pipe size               | 1 Asbe  | 84          | .095        | LF   | .70      | 6     |           | 6.70   | 9.95           |
+| 8446  | 1" iron pipe size                 |         | 84          | .095        |      | 5.10     | 9     |           | 11.10  | 14.80          |
+| 8447  | 1-1/4" iron pipe size             |         | 82          | .098        |      | 5.90     | 6.15  |           | 12.05  | 15.90          |
+| 8448  | 1-1/2" iron pipe size             |         | 82          | .098        |      | 6.55     | 6.15  |           | 12.70  | 16.60          |
+| 8449  | 2" iron pipe size                 |         | 80          | .100        |      | 7.85     | 6.30  |           | 14.15  | 18.30          |
+| 8450  | 2-1/2" iron pipe size             |         | 80          | .100        |      | 7.90     | 6.30  |           | 14.20  | 18.35          |
+| 8456  | Rubber insulation tape, 1/8" x 2" x 30" |         |             |             | Ea   | 25       |       |           | 25     | 27.50          |
 
 ---
 
-## Facility Water Distribution
+## 22 11 13 Facility Water Distribution
 
-### STUP Facility Water Distribution Piping
+#### 22 11 13.23 Pipe, Brass
+| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
+|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|---------|----------------|
+| 1120 | 1/2" diameter               | 1 Plum  | 48          | .167        | LF   | 9.15     | 11.65 |           | 20.80   | 27.50          |
+| 1140 | 3/4" diameter               |         | 46          | .174        |      | 11.85    | 12.15 |           | 24      | 31             |
+| 1160 | 1" diameter                 |         | 43.186      |             |      | 6.40     | 13    |           | 19.40   | 26.50          |
+| 1180 | 1-1/4" diameter             | Q -1    | 72          | 222         |      | 19.35    | 13.95 |           | 33.30   | 42.50          |
+| 1200 | 1-1/2" diameter             | Q-1     | 65          | .246        | LF   | 25       | 15.45 |           | 40.45   | 50.50          |
+| 1220 | 2" diameter                 | "       | 53          | .302        |      | 31       | 18.95 |           | 49.95   | 62.50          |
+| 1100 | 1/4" diameter (Copper, Solder joints) | 1 Plum  | 84          | .095        | LF   | 6.75     | 6.65  |           | 13.40   | 17.30          |
+| 1200 | 1" diameter (Copper, Solder joints)   |         | 66          | .121        |      | 15.70    | 8.45  |           | 24.15   | 30             |
+| 1260 | 2" diameter (Copper, Solder joints)   |         | 40          | .200        |      | 39.50    | 13.95 |           | 53.45   | 64.50          |
+| 2100 | 1/4" diameter (Type I tubing)         | 1 Plum  | 88          | .091        | LF   | 3.01     | 6.35  |           | 9.36    | 12.75          |
+| 2120 | 3/8" diameter (Type I tubing)         |         | 84          | .095        |      | 3.85     | 6.65  |           | 10.50   | 14.15          |
+| 2140 | 1/2" diameter (Type I tubing)         |         | 81          | .099        |      | 4.42     | 6.90  |           | 11.32   | 15.15          |
+| 2160 | 5/8" diameter (Type I tubing)         |         | 79          | 101         |      | 5.90     | 7.05  |           | 12.95   | 17.05          |
+| 2180 | 3/4" diameter (Type I tubing)         |         | 76          | .105        |      | 6.45     | 7.35  |           | 13.80   | 18.05          |
+| 2200 | 1" diameter (Type I tubing)           |         | 68          | .118        |      | 8.35     | 8.20  |           | 16.55   | 21.50          |
+| 2220 | 1-1/4" diameter (Type I tubing)       |         | 58          | .138        |      | 11.45    | 9.65  |           | 21.10   | 27             |
+| 2240 | 1-1/2" diameter (Type I tubing)       |         | 52          | .154        |      | 14.75    | 10.75 |           | 25.50   | 32.50          |
+| 2260 | 2" diameter (Type I tubing)           |         | 42          | 1.190       |      | 22.50    | 13.30 |           | 35.80   | 45             |
+| 2280 | 2-1/2" diameter (Type I tubing)       | -1      | 62          | .258        |      | 35       | 16.20 |           | 51.20   | 62.50          |
+| 2300 | 3" diameter (Type I tubing)           |         | 56          | .286        |      | 47.50    | 17.95 |           | 65.45   | 79             |
+| 2320 | 3-1/2" diameter (Type I tubing)       |         | 43          | .372        |      | 69       | 23.50 |           | 92.50   | 111            |
+| 2340 | 4" diameter (Type I tubing)           |         | 39          | .410        |      | 80       | 26    | O         | 106     | 127            |
+| 2360 | 5" diameter (Type I tubing)           |         | 34          | .471        |      | 194      | 29.50 |           | 223.50  | 257            |
+| 2380 | 6" diameter (Type I tubing)           | Q-2     | 40          | .600        |      | 2វិធី    | 39    |           | 301     | 345            |
+| 2400 | 8" diameter (Type I tubing)           | "       | 36          | .667        |      | 410      | 43.50 |           | 453.50  | 515            |
+| 4100 | 1-1/4" diameter (Type DWV tubing)     | 1 Plum  | 60          | .133        | LE   | 13.85    | 9.30  |           | 23.15   | 292330         |
+| 4120 | 1-1/2" diameter (Type DWV tubing)     |         | 54          | .148        |      | 8.55     | 10.35 |           | 18.90   | 25             |
+| 4140 | 2" diameter (Type DWV tubing)         |         | 44          | .182        |      | 12.10    | 12.70 |           | 24.80   | 32.50          |
+| 4160 | 3" diameter (Type DWV tubing)         | -1      | 58          | .276        |      | 25.50    | 17.35 |           | 42.85   | 54             |
+| 4180 | 4" diameter (Type DWV tubing)         |         | 40          | .400        |      | 89.50    | 25    |           | 114.50  | 136            |
 
-#### Pipe, Brass
-
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1120 | 1/2" diameter               | 1 Plum  | 48          | .167        | LF   | 9.15     | 11.65 |           | 20.80 | 27.50          |
-| 1140 | 3/4" diameter               |         | 46          | .174        |      | 11.85    | 12.15 |           | 24    | 31             |
-| 1160 | 1" diameter                 |         | 43.186      |             |      | 6.40     | 13    |           | 19.40 | 26.50          |
-| 1180 | 1-1/4" diameter             | Q -1    | 72          | 222         |      | 19.35    | 13.95 |           | 33.30 | 42.50          |
-| 1200 | 1-1/2" diameter             | Q-1     | 65          | .246        | LF   | 25       | 15.45 |           | 40.45 | 50.50          |
-| 1220 | 2" diameter                 | "       | 53          | .302        |      | 31       | 18.95 |           | 49.95 | 62.50          |
-
----
-
-### Pipe/Tube, Copper
-
-#### PIPE / TUBE, COPPER, Solder joints
-
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1100 | 1/4" diameter               | 1 Plum  | 84          | .095        | LF   | 6.75     | 6.65  |           | 13.40 | 17.30          |
-| 1200 | 1" diameter                 |         | 66          | .121        |      | 15.70    | 8.45  |           | 24.15 | 30             |
-| 1260 | 2" diameter                 |         | 40          | .200        |      | 39.50    | 13.95 |           | 53.45 | 64.50          |
-
-#### Type I tubing, couplings & clevis hanger assemblies 10' OC
-
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 2100 | 1/4" diameter               | 1 Plum  | 88          | .091        | LF   | 3.01     | 6.35  |           | 9.36  | 12.75          |
-| 2120 | 3/8" diameter               |         | 84          | .095        |      | 3.85     | 6.65  |           | 10.50 | 14.15          |
-| 2140 | 1/2" diameter               |         | 81          | .099        |      | 4.42     | 6.90  |           | 11.32 | 15.15          |
-| 2160 | 5/8" diameter               |         | 79          | 101         |      | 5.90     | 7.05  |           | 12.95 | 17.05          |
-| 2180 | 3/4" diameter               |         | 76          | .105        |      | 6.45     | 7.35  |           | 13.80 | 18.05          |
-| 2200 | 1" diameter                 |         | 68          | .118        |      | 8.35     | 8.20  |           | 16.55 | 21.50          |
-| 2220 | 1-1/4" diameter             |         | 58          | .138        |      | 11.45    | 9.65  |           | 21.10 | 27             |
-| 2240 | 1-1/2" diameter             |         | 52          | .154        |      | 14.75    | 10.75 |           | 25.50 | 32.50          |
-| 2260 | 2" diameter                 |         | 42          | 1.190       |      | 22.50    | 13.30 |           | 35.80 | 45             |
-| 2280 | 2-1/2" diameter             | -1      | 62          | .258        |      | 35       | 16.20 |           | 51.20 | 62.50          |
-| 2300 | 3" diameter                 |         | 56          | .286        |      | 47.50    | 17.95 |           | 65.45 | 79             |
-| 2320 | 3-1/2" diameter             |         | 43          | .372        |      | 69       | 23.50 |           | 92.50 | 111            |
-| 2340 | 4" diameter                 |         | 39          | .410        |      | 80       | 26    | O         | 106   | 127            |
-| 2360 | 5" diameter                 |         | 34          | .471        |      | 194      | 29.50 |           | 223.50| 257            |
-| 2380 | 6" diameter                 | Q-2     | 40          | .600        |      | 2វិធី    | 39    |           | 301   | 345            |
-| 2400 | 8" diameter                 | "       | 36          | .667        |      | 410      | 43.50 |           | 453.50| 515            |
-
-For other than fullhard temper, add 21%  
-For silver solder, add 15%
-
-#### Type DWV tubing, couplings & clevis hanger assemblies 10' OC
-
-| ID   | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|---------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 4100 | 1-1/4" diameter             | 1 Plum  | 60          | .133        | LE   | 13.85    | 9.30  |           | 23.15 | 292330         |
-| 4120 | 1-1/2" diameter             |         | 54          | .148        |      | 8.55     | 10.35 |           | 18.90 | 25             |
-| 4140 | 2" diameter                 |         | 44          | .182        |      | 12.10    | 12.70 |           | 24.80 | 32.50          |
-| 4160 | 3" diameter                 | -1      | 58          | .276        |      | 25.50    | 17.35 |           | 42.85 | 54             |
-| 4180 | 4" diameter                 |         | 40          | .400        |      | 89.50    | 25    |           | 114.50| 136            |
+*For other than fullhard temper, add 21%. For silver solder, add 15%.*
 
 ---
 
@@ -362,13 +295,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 22 05 Common Work Results Commonumbing
 
-## 22 05 05 - Selective Worklition for PlumbiResults5 05.10 Plumbing Demolforon
+## 22 05 05 - Selective Worklition for PlumbiResults
+## 22 5 05.10 Plumbing Demolition
 
-### 0010 Plumbing DEMOLITION
 
 | ID         | Name                                             | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor      | Equipment | Total      | Total Incl O&P |
 |------------|--------------------------------------------------|--------|-------------|-------------|--------|----------|------------|-----------|------------|----------------|
-| R220105-10 |                                                  |        |             |             |        |          |            |           |            |                |
 | 1020       | Fixtures, including 10' piping                   |        |             |             |        |          |            |           |            |                |
 | 1100       | Bathtubs, cast iron                              | 1 Plum | 4           | 2           | Eo.    |          | 140        |           | 140        | 208            |
 | 1120       | Fiberglass                                       |        | 6           | 1.333       |        |          | 93REREGER2 |           | 93         | 139            |
@@ -447,81 +379,51 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 8842 | 1" NPT       | 1 Plum | 11          | .727        | Eo.  | 1,075    | 51    |           | 1,126 | 1,250          |
 | 8846 | 1-1/4" NPT   |        | 10          | 1.800       |      | 1,100    | 56    |           | 1,156 | 1,275          |
 
-## 22 05 23.60 Valves, Plastic
-
-### 0010 VALVES, PLASTIC
-
-#### 1100 Angle, PVC, threaded
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 1110 | 1/4"   | 1 Plum | 26          | .308        | Ea.  | 52       | 21.50  |           | 73.50  | 89             |
-| 1120 | 1/2"   |        | 26          | .308        |      | 74       | 21.50  |           | 95.50  | 114            |
-| 1130 | 3/4"   |        | 25          | 1.320       |      | 88       | 22.50  |           | 110.50 | 130            |
-| 1140 | 1"     |        | 23          | .348        |      | 107      | 24.50  |           | 131.50 | 153            |
-
-#### 1150 Ball, PVC, socket or threaded, true union
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|-------|----------------|
-| 1230 | 1/2"   | 1 Plum | 262227      | .308        | Ea.  | 39.50    | 21.50  |           | 61    | 75.50          |
-| 1240 | 3/4"   |        | 25          | .320        |      | 47       | 22.50  |           | 69.50 | 85             |
-| 1250 | 1"     |        | 23          | .348        |      | 56       | 24.50  |           | 80.50 | 97.50          |
-| 1260 | 1-1/4" |        | 21          | .381        |      | 88.50    | 26.50  |           | 115   | 137            |
-| 1270 | 1-1/2" |        | 20          | .400        |      | 88.50    | 28     |           | 116.50| 139            |
-| 1280 | 2"     |        | 17          | .471        |      | 141      | 33     |           | 174   | 204            |
-
-| ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1360 | For PVC, flanged, add       |      |             |             |      | 100 %    | 15 %  |           |       |                |
-
-#### 1650 CPVC, socket or threaded, single union
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 1700 | 1/2"   | 1 Plum | 22622       | .308        | Ea.  | 61.50    | 21.50  |           | 83     | 99.50          |
-| 1720 | 3/4"   |        | 25          | .320        |      | 77.50    | 22.50  |           | 100    | 119            |
-| 1730 | 1"     |        | 23          | .348        |      | 93       | 24.50  |           | 117.50 | 138            |
-| 1750 | 1-1/4" |        | 21          | .381        |      | 148      | 26.50  |           | 174.50 | 203            |
-| 1760 | 1-1/2" |        | 20          | .400        |      | 148      | 28     |           | 176    | 205            |
-
-| ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 1840 | For CPVC, flanged, add      |      |             |             |      | 65 %     | 15 %  |           |       |                |
-| 1880 | For true union, socket or threaded, add | |         |             |      | 50 %     | 5 %   |           |       |                |
-
-#### 2050 Polypropylene, threaded
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 2100 | 1/4"   | 1 Plum | 22622227    | .308        | Ea.  | 46       | 21.50  |           | 67.50  | 82.50          |
-| 2120 | 3/8"   |        | 26          | .308        |      | 47       | 21.50  |           | 68.50  | 84             |
-| 2130 | 1/2"   |        | 26          | .308        |      | 39.50    | 21.50  |           | 61     | 75.50          |
-| 2140 | 3/4"   |        | 25          | .320        |      | 48       | 22.50  |           | 70.50  | 86             |
-| 2150 | 1"     |        | 23          | .348        |      | 56       | 24.50  |           | 80.50  | 97.50          |
-| 2160 | 1-1/4" |        | 21          | .381        |      | 74       | 26.50  |           | 100.50 | 121            |
-| 2170 | 1-1/2" |        | 20          | .400        |      | 92       | 28     |           | 120    | 143            |
-| 2180 | 2"     |        | 17          | .471        |      | 123      | 33     |           | 156    | 185            |
-
-#### 4850 Foot valve, PVC, socket or threaded
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 4900 | 1/2"   | 1 Plum | 34222       | .235        | Ea.  | 64.50    | 16.40  |           | 80.90  | 95             |
-| 4930 | 3/4"   |        | 32          | .250        |      | 72.50    | 17.45  |           | 89.95  | 106            |
-| 4940 | 1"     |        | 28          | .286        |      | 95       | 19.95  |           | 114.95 | 134            |
-| 4950 | 1-1/4" |        | 27          | .296        |      | 187      | 20.50  |           | 207.50 | 236            |
-| 4960 | 1-1/2" |        | 26          | .308        |      | 182      | 21.50  |           | 203.50 | 233            |
-
-#### 6350 Y sediment strainer, PVC, socket or threaded
-
-| ID   | Name   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total  | Total Incl O&P |
-|------|--------|--------|-------------|-------------|------|----------|--------|-----------|--------|----------------|
-| 6400 | 1/2"   | 1 Plum | 26222       | .308        | Ea.  | 57       | 21.50  |           | 78.50  | 94.50          |
-| 6440 | 3/4"   |        |             | .333        |      | 60.50    | 23.50  |           | 84     | 101            |
-| 6450 | ן"     |        |             | .348        |      | 71.50    | 24.50  |           | 96     | 115            |
-| 6460 | 1-1/4" |        |             | .381        |      | 172      | 26.50  |           | 198.50 | 229            |
-| 6470 | 1-1/2" |        |             | .400        |      | 148      | 28     |           | 176    | 205            |
+| ID    | Name                                             | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|--------------------------------------------------|---------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | VALVES, PLASTIC                                  |         |             |             |      |          |        |           |         |                |
+| 1100  | Angle, PVC, threaded                             |         |             |             |      |          |        |           |         |                |
+| 1110  | 1/4"                                             | 1 Plum  | 26          | .308        | Ea.  | 52       | 21.50  |           | 73.50   | 89             |
+| 1120  | 1/2"                                             |         | 26          | .308        |      | 74       | 21.50  |           | 95.50   | 114            |
+| 1130  | 3/4"                                             |         | 25          | 1.320       |      | 88       | 22.50  |           | 110.50  | 130            |
+| 1140  | 1"                                               |         | 23          | .348        |      | 107      | 24.50  |           | 131.50  | 153            |
+| 1150  | Ball, PVC, socket or threaded, true union        |         |             |             |      |          |        |           |         |                |
+| 1230  | 1/2"                                             | 1 Plum  | 262227      | .308        | Ea.  | 39.50    | 21.50  |           | 61      | 75.50           |
+| 1240  | 3/4"                                             |         | 25          | .320        |      | 47       | 22.50  |           | 69.50   | 85             |
+| 1250  | 1"                                               |         | 23          | .348        |      | 56       | 24.50  |           | 80.50   | 97.50           |
+| 1260  | 1-1/4"                                           |         | 21          | .381        |      | 88.50    | 26.50  |           | 115     | 137            |
+| 1270  | 1-1/2"                                           |         | 20          | .400        |      | 88.50    | 28     |           | 116.50  | 139            |
+| 1280  | 2"                                               |         | 17          | .471        |      | 141      | 33     |           | 174     | 204            |
+| 1360  | For PVC, flanged, add                            |         |             |             |      | 100%     | 15%    |           |         |                |
+| 1650  | CPVC, socket or threaded, single union           |         |             |             |      |          |        |           |         |                |
+| 1700  | 1/2"                                             | 1 Plum  | 22622       | .308        | Ea.  | 61.50    | 21.50  |           | 83      | 99.50           |
+| 1720  | 3/4"                                             |         | 25          | .320        |      | 77.50    | 22.50  |           | 100     | 119            |
+| 1730  | 1"                                               |         | 23          | .348        |      | 93       | 24.50  |           | 117.50  | 138            |
+| 1750  | 1-1/4"                                           |         | 21          | .381        |      | 148      | 26.50  |           | 174.50  | 203            |
+| 1760  | 1-1/2"                                           |         | 20          | .400        |      | 148      | 28     |           | 176     | 205            |
+| 1840  | For CPVC, flanged, add                           |         |             |             |      | 65%      | 15%    |           |         |                |
+| 1880  | For true union, socket or threaded, add          |         |             |             |      | 50%      | 5%     |           |         |                |
+| 2050  | Polypropylene, threaded                          |         |             |             |      |          |        |           |         |                |
+| 2100  | 1/4"                                             | 1 Plum  | 22622227    | .308        | Ea.  | 46       | 21.50  |           | 67.50   | 82.50           |
+| 2120  | 3/8"                                             |         | 26          | .308        |      | 47       | 21.50  |           | 68.50   | 84             |
+| 2130  | 1/2"                                             |         | 26          | .308        |      | 39.50    | 21.50  |           | 61      | 75.50           |
+| 2140  | 3/4"                                             |         | 25          | .320        |      | 48       | 22.50  |           | 70.50   | 86             |
+| 2150  | 1"                                               |         | 23          | .348        |      | 56       | 24.50  |           | 80.50   | 97.50           |
+| 2160  | 1-1/4"                                           |         | 21          | .381        |      | 74       | 26.50  |           | 100.50  | 121            |
+| 2170  | 1-1/2"                                           |         | 20          | .400        |      | 92       | 28     |           | 120     | 143            |
+| 2180  | 2"                                               |         | 17          | .471        |      | 123      | 33     |           | 156     | 185            |
+| 4850  | Foot valve, PVC, socket or threaded              |         |             |             |      |          |        |           |         |                |
+| 4900  | 1/2"                                             | 1 Plum  | 34222       | .235        | Ea.  | 64.50    | 16.40  |           | 80.90   | 95             |
+| 4930  | 3/4"                                             |         | 32          | .250        |      | 72.50    | 17.45  |           | 89.95   | 106            |
+| 4940  | 1"                                               |         | 28          | .286        |      | 95       | 19.95  |           | 114.95  | 134            |
+| 4950  | 1-1/4"                                           |         | 27          | .296        |      | 187      | 20.50  |           | 207.50  | 236            |
+| 4960  | 1-1/2"                                           |         | 26          | .308        |      | 182      | 21.50  |           | 203.50  | 233            |
+| 6350  | Y sediment strainer, PVC, socket or threaded     |         |             |             |      |          |        |           |         |                |
+| 6400  | 1/2"                                             | 1 Plum  | 26222       | .308        | Ea.  | 57       | 21.50  |           | 78.50   | 94.50           |
+| 6440  | 3/4"                                             |         |             | .333        |      | 60.50    | 23.50  |           | 84      | 101            |
+| 6450  | 1"                                               |         |             | .348        |      | 71.50    | 24.50  |           | 96      | 115            |
+| 6460  | 1-1/4"                                           |         |             | .381        |      | 172      | 26.50  |           | 198.50  | 229            |
+| 6470  | 1-1/2"                                           |         |             | .400        |      | 148      | 28     |           | 176     | 205            |
 
 ---
 
@@ -529,7 +431,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 22 11 Facilit11Water DistrFacility  
 ## 22 11 13 Facility WaWateristribution Piping  
-DistributionPipe, Fittings and Valves, Steel, Grooved-Joint
+### 22 11 13.48 Pipe, Fittings and Valves, Steel, Grooved-Joint
 
 | ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -562,27 +464,27 @@ DistributionPipe, Fittings and Valves, Steel, Grooved-Joint
 
 ## 22 11 13.64 Pipe, Stainless Steel
 
-| ID    | Name                        | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
-|-------|-----------------------------|---------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 0010  | PIPE, STAINLESS STEEL       |         |              |             |      |          |       |           |         |                |
-| 3500  | Threaded, couplings and clevis hanger assemblies, 10' OC |         |              |             |      |          |       |           |         |                |
-| 3520  | Schedule 40, type 304       |         |              |             |      |          |       |           |         |                |
-| 3540  | 1/4" diameter               | 1 Plum  | 54           | 148         | LF   | 5.65     | 10.35 |           | 16      | 21.50          |
-| 3550  | 3/8" diameter               |         | 53.151       |             |      | 6.50     | 10.55 |           | 17.05   | 23             |
-| 3560  | 1/2" diameter               |         | 52           | .154        |      | 6.20     | 10.75 |           | 16.95   | 23             |
-| 3580  | 1" diameter                 | 1       | 45           | .178        | 1    | 14.65    | 12.40 |           | 27.05   | 34.50          |
-| 3610  | 2" diameter                 | Q-1     | 57           | .281        |      | 37       | 17.65 |           | 54.65   | 67.50          |
-| 3640  | 4" diameter                 | Q-2     | 51           | .471        |      | 94.50    | 30.50 |           | 1225    | 150            |
-| 3740  | For small quantities, add   |         |              |             |      | 10 %     |       |           |         |                |
-| 4250  | Schedule 40, type 316       |         |              |             |      |          |       |           |         |                |
-| 4290  | 1/4" diameter               | 1 Plum  | 54           | .148        | LF   | 12.65    | 10.35 |           | 23      | 29.50          |
-| 4300  | 3/8" diameter               |         | 53.151       |             | 1    | 13.80    | 10.55 |           | 24.35   | 31             |
-| 4310  | 1/2" diameter               |         | 52           | 154         | ||   | 16.05    | 10.75 |           | 26.80   | 33.50          |
-| 4320  | 3/4" diameter               |         | 51.157       |             |      | 18.70    | 10.95 |           | 29.65   | 37             |
-| 4330  | 1" diameter                 |         | 45           | 1.178       |      | 26.50    | 12.40 |           | 38.90   | 47.50          |
-| 4360  | 2" diameter                 | Q-1     | 57           | .281        |      | 55       | 17.65 |           | 72.65   | 87.50          |
-| 4390  | 4" diameter                 | 0-2     | 51           | .471        |      | 156      | 30.50 |           | 186:50  | 217            |
-| 4490  | For small quantities, add   |         |              |             |      | 10 %     |       |           |         |                |
+| ID    | Name                                                            | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | PIPE, STAINLESS STEEL                                           |         |              |             |      |          |        |           |         |                |
+| 3500  | Threaded, couplings and clevis hanger assemblies, 10' OC        |         |              |             |      |          |        |           |         |                |
+| 3520  | Schedule 40, type 304                                           |         |              |             |      |          |        |           |         |                |
+| 3540  | 1/4" diameter                                                   | 1 Plum  | 54           | .148        | LF   | 5.65     | 10.35  |           | 16      | 21.50          |
+| 3550  | 3/8" diameter                                                   |         | 53.151       |             |      | 6.50     | 10.55  |           | 17.05   | 23             |
+| 3560  | 1/2" diameter                                                   |         | 52           | .154        |      | 6.20     | 10.75  |           | 16.95   | 23             |
+| 3580  | 1" diameter                                                     | 1       | 45           | .178        | 1    | 14.65    | 12.40  |           | 27.05   | 34.50          |
+| 3610  | 2" diameter                                                     | Q-1     | 57           | .281        |      | 37       | 17.65  |           | 54.65   | 67.50          |
+| 3640  | 4" diameter                                                     | Q-2     | 51           | .471        |      | 94.50    | 30.50  |           | 122.5   | 150            |
+| 3740  | For small quantities, add                                       |         |              |             |      | 10%      |        |           |         |                |
+| 4250  | Schedule 40, type 316                                           |         |              |             |      |          |        |           |         |                |
+| 4290  | 1/4" diameter                                                   | 1 Plum  | 54           | .148        | LF   | 12.65    | 10.35  |           | 23      | 29.50          |
+| 4300  | 3/8" diameter                                                   |         | 53.151       |             | 1    | 13.80    | 10.55  |           | 24.35   | 31             |
+| 4310  | 1/2" diameter                                                   |         | 52           | .154        |      | 16.05    | 10.75  |           | 26.80   | 33.50          |
+| 4320  | 3/4" diameter                                                   |         | 51.157       |             |      | 18.70    | 10.95  |           | 29.65   | 37             |
+| 4330  | 1" diameter                                                     |         | 45           | 1.178       |      | 26.50    | 12.40  |           | 38.90   | 47.50          |
+| 4360  | 2" diameter                                                     | Q-1     | 57           | .281        |      | 55       | 17.65  |           | 72.65   | 87.50          |
+| 4390  | 4" diameter                                                     | 0-2     | 51           | .471        |      | 156      | 30.50  |           | 186.50  | 217            |
+| 4490  | For small quantities, add                                       |         |              |             |      | 10%      |        |           |         |                |
 
 ---
 
@@ -639,7 +541,7 @@ For
 | 0140 | 4" pipe size                                     |        | 6           | 1.333       |      | 650      | 93    |           | 743     | 855            |
 | 0980 | Round top, recessed for terrazzo                 |        |             |             |      |          |       |           |         |                |
 | 1000 | 2" pipe size                                     | 1 Plum | 9           | .889        | Ea.  | 7052     | 62    |           | 767     | 870            |
-| 1080 | 3" pipe size                                     |        | 6           | 1.333       |      | 755 i    | 93    |           | 848     | 970            |
+| 1080 | 3" pipe size                                     |        | 6           | 1.333       |      | 755     | 93    |           | 848     | 970            |
 | 1100 | 4" pipe size                                     |        | 4           | 2           |      | 900      | 140   |           | 1,040   | 1,200          |
 | 1120 | 5" pipe size                                     | Q -1   | 6           | 2.667       |      | 1,425    | 168   |           | 1,593   | 1,800          |
 
@@ -684,73 +586,75 @@ For
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------------------------------|--------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 22    | 11 13 - Facility Water Distribution Piping                           |        |              |             |       |          |        |           |         |                |
-| 22    | 11 13.74 Pipe, Plastic                                               |        |              |             |       |          |        |           |         |                |
-| 1900  | 1-1/2" diameter                                                      | 1 Plum | 36           | .222        | L.F.  | 8.95     | 15.50  |           | 24.451  | 33             |
-| 1910  | 2" diameter                                                          | 0-1    | 59           | .271        |       | 11.10    | 17.05  |           | 28.15   | 38             |
-| 1920  | 2-1/2" diameter                                                      |        | 56           | .286        |       | 16.70    | 17.95  |           | 34.65   | 45.50          |
-| 1930  | 3" diameter                                                          |        | 53           | .302        |       | 20.50    | 18.95  |           | 39.45   | 51.50          |
-| 1940  | 4" diameter                                                          |        | 48           | .333        |       | 14.60    | 222    |           | 35.60   | 47             |
-| 1950  | 1 5" diameter                                                        |        | 43           | .372        |       | 30       | 23.50  |           | 53.501  | 68             |
-| 1960  | 6" diameter                                                          |        | 39           | .410        |       | 31.50    |        |           | 57.50   | 73.50          |
-| 4100  | DWV type, schedule 40, couplings 10' OC, clevis hanger assy's, 3 per 10' |        |              |             |       |          |        |           |         |                |
-| 4210  | ABS, schedule 40, foam core type                                     |        |              |             |       |          |        |           |         |                |
-| 4212  | Plain end black                                                      |        |              |             |       |          |        |           |         |                |
-| 4214  | 1-1/2" diameter                                                      | 1 Plum | 39           | .205        | LF.   | 3.40     | 14.30  |           | 17.70   | 25             |
-| 4216  | 2" diameter                                                          | Q-162  |              | .258        |       | 4.02     | 16.20  |           | 20.22   | 28.50          |
-| 4218  | 3" diameter                                                          |        | 56           | .286        |       | 7.20     | 17.95  |           | 25.15   | 35             |
-| 4220  | 1 4" diameter                                                        |        | 51           | .314        |       | 10.45    | 19.70  |           | 30.15   | 41             |
-| 4222  | 6" diameter                                                          |        | 42           | .381        |       | 27.50    | 24     |           | 51.50   | 65.50          |
-| 4240  | To delete coupling & hangers, subtract                               |        |              |             |       |          |        |           |         |                |
-| 4244  | 1-1/2" diam. to 6" diam.                                             |        |              |             |       | 43%      | 48%    |           |         |                |
-| 4400  | PVC                                                                  |        |              |             |       |          |        |           |         |                |
-| 4410  | 1-1/4" diameter                                                      | 1 Plum | 42           | .190        | LF    | 5.95     | 13.30  |           | 19.25   | 26.50          |
-| 4420  | 1-1/2" diameter                                                      | 13     | 36           | .222        |       | 4.98     | 15.50  |           | 20.48   | 28.50          |
-| 4460  | 2" diameter                                                          | Q-1    | 59           | .271        |       | 6.25     | 17.05  |           | 23.30   | 32.50          |
-| 4470  | 3" diameter                                                          | |      | 53           | 1.302       |       | 8.30     | 18.95  |           | 27.25   | 37.50          |
-| 4480  | 4" diameter                                                          |        | 48           | .333        |       | 11.55    | 21     |           | 32.55   | 43.50          |
-| 4490  | 6" diameter                                                          |        | 39           | .410        | +     | 25.50    | 26     |           | 51.50   | 66.50          |
-| 5300  | CPVC, socket joint, couplings 10' OC, clevis hanger assemblies, 3 per 10' |        |              |             |       |          |        |           |         |                |
-| 5302  | Schedule 40                                                          |        |              |             |       |          |        |           |         |                |
-| 5304  | 1/2" diameter                                                        | 1 Plum | 54           | 148         | LF    | 6.25     | 10.35  |           | 16.60   | 222.50         |
-| 5305  | 3/4" diameter                                                        | 1      | 51           | .157        |       | 7.75     | 10.95  |           | 18.70   | 25             |
-| 5306  | 1" diameter                                                          |        | 46           | .174        |       | 11.85    | 12.15  |           | 24      | 31             |
-| 5307  | 1-1/4" diameter                                                      |        | 42           | .190        |       | 8.15     | 13.30  |           | 21.45   | 29             |
-| 5308  | 1-1/2" diameter                                                      |        | 36°          | .222        |       | 81       | 15.50  |           | 23.50   |                |
-| 5309  | 2" diameter                                                          | Q-T    | 59           | .271        |       | 19.75    | 17.05  |           | 36.80   | 47.50          |
-| 5310  | 2-1/2" diameter                                                      |        | 56           | .286        |       | 19.55    | 17.95  |           | 37.50   | 48.50          |
-| 5311  | 3" diameter                                                          |        | 53           | .302        |       | 34       | 18.95  |           | 52.95   | 65.50          |
-| 5360  | CPVC, threaded, couplings 10' OC, clevis hanger assemblies, 3 per 10'|        |              |             |       |          |        |           |         |                |
-| 5380  | Schedule 40                                                          |        |              |             |       |          |        |           |         |                |
-| 54601 | 1/2" diameter                                                        | 1 Plum | 54           | .148        | LF.   | 7.45     | 10.35  |           | 17.80   | 23.50          |
-| 5470  | 3/4" diameter                                                        |        | 51           | .157        |       | 9.85     | 10.95  |           | 20.80   | 27             |
-| 5480  | 1" diameter                                                          |        | 46           | 174         |       | 14       | 12.15  |           | 26.15   | 33.50          |
-| 5490  | 1-1/4" diameter                                                      |        | 42           | 190         |       | 9.85     | 13.30  |           | 23.15   | 30.50          |
-| 5500  | 1-1/2" diameter                                                      |        | 36           | .222        |       | 9.45     | 15.50  |           | 24.95   | 33.50          |
-| 5510  | 2" diameter                                                          | Q-1    | 59           | .271        |       | 21.50    | 17.05  |           | 38.55   | 49             |
-| 5520  | 2-1/2" diameter                                                      |        | 56           | .286        |       | 21.50    | 17.95  |           | 39.45   | 50.50          |
-| 5530  | 3" diameter                                                          |        | 53           | .302        |       | 36.50    | 18.95  |           | 55.45   | 68.50          |
-| 7280  | PEX, flexible, no couplings or hangers                               |        |              |             |       |          |        |           |         |                |
-| 7282  | Note: For labor costs add 25% to the couplings and fittings labor total. |        |              |             |       |          |        |           |         |                |
-| 7285  | For fittings see section 23 83 16.10 7000                            |        |              |             |       |          |        |           |         |                |
-| 7300  | Non-barrier type, hot/cold tubing rolls                              |        |              |             |       |          |        |           |         |                |
-| 7310  | 1/4" diameter x 100'                                                 |        |              |             | L.F.  | .70      |        |           | .70     | .77            |
-| 7350  | 3/8" diameter x 100'                                                 |        |              |             |       | .71      |        |           | .71     | .78            |
-| 7360  | 1/2" diameter x 100'                                                 |        |              |             |       | 1.04     |        |           | 1.04    | 1.14           |
-| 7370  | 1/2" diameter x 500'                                                 |        |              |             |       | .92      |        |           | .92     | 1.01           |
-| 7380  | 1/2" diameter x 1000'                                                |        |              |             |       | .80      |        |           | .80     | .88            |
+### 22 11 13 - Facility Water Distribution Piping
+
+### 22 11 13.74 Pipe, Plastic
+
+| ID     | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|--------|----------------------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
+| 1900   | 1-1/2" diameter                                                      | 1 Plum  | 36           | .222        | L.F.  | 8.95     | 15.50  |           | 24.45   | 33             |
+| 1910   | 2" diameter                                                          | 0-1     | 59           | .271        |       | 11.10    | 17.05  |           | 28.15   | 38             |
+| 1920   | 2-1/2" diameter                                                      |         | 56           | .286        |       | 16.70    | 17.95  |           | 34.65   | 45.50          |
+| 1930   | 3" diameter                                                          |         | 53           | .302        |       | 20.50    | 18.95  |           | 39.45   | 51.50          |
+| 1940   | 4" diameter                                                          |         | 48           | .333        |       | 14.60    | 222    |           | 35.60   | 47             |
+| 1950   | 1 5" diameter                                                        |         | 43           | .372        |       | 30       | 23.50  |           | 53.50   | 68             |
+| 1960   | 6" diameter                                                          |         | 39           | .410        |       | 31.50    |        |           | 57.50   | 73.50          |
+| 4100   | DWV type, schedule 40, couplings 10' OC, clevis hanger assy's, 3 per 10' |         |              |             |       |          |        |           |         |                |
+| 4210   | ABS, schedule 40, foam core type                                     |         |              |             |       |          |        |           |         |                |
+| 4212   | Plain end black                                                      |         |              |             |       |          |        |           |         |                |
+| 4214   | 1-1/2" diameter                                                      | 1 Plum  | 39           | .205        | LF.   | 3.40     | 14.30  |           | 17.70   | 25             |
+| 4216   | 2" diameter                                                          | Q-1     | 62           | .258        |       | 4.02     | 16.20  |           | 20.22   | 28.50          |
+| 4218   | 3" diameter                                                          |         | 56           | .286        |       | 7.20     | 17.95  |           | 25.15   | 35             |
+| 4220   | 1 4" diameter                                                        |         | 51           | .314        |       | 10.45    | 19.70  |           | 30.15   | 41             |
+| 4222   | 6" diameter                                                          |         | 42           | .381        |       | 27.50    | 24     |           | 51.50   | 65.50          |
+| 4240   | To delete coupling & hangers, subtract                               |         |              |             |       |          |        |           |         |                |
+| 4244   | 1-1/2" diam. to 6" diam.                                             |         |              |             |       | 43%      | 48%    |           |         |                |
+| 4400   | PVC                                                                  |         |              |             |       |          |        |           |         |                |
+| 4410   | 1-1/4" diameter                                                      | 1 Plum  | 42           | .190        | LF    | 5.95     | 13.30  |           | 19.25   | 26.50          |
+| 4420   | 1-1/2" diameter                                                      |         | 36           | .222        |       | 4.98     | 15.50  |           | 20.48   | 28.50          |
+| 4460   | 2" diameter                                                          | Q-1     | 59           | .271        |       | 6.25     | 17.05  |           | 23.30   | 32.50          |
+| 4470   | 3" diameter                                                          |         | 53           | 1.302       |       | 8.30     | 18.95  |           | 27.25   | 37.50          |
+| 4480   | 4" diameter                                                          |         | 48           | .333        |       | 11.55    | 21     |           | 32.55   | 43.50          |
+| 4490   | 6" diameter                                                          |         | 39           | .410        | +     | 25.50    | 26     |           | 51.50   | 66.50          |
+| 5300   | CPVC, socket joint, couplings 10' OC, clevis hanger assemblies, 3 per 10' |         |              |             |       |          |        |           |         |                |
+| 5302   | Schedule 40                                                          |         |              |             |       |          |        |           |         |                |
+| 5304   | 1/2" diameter                                                        | 1 Plum  | 54           | 148         | LF    | 6.25     | 10.35  |           | 16.60   | 222.50         |
+| 5305   | 3/4" diameter                                                        | 1       | 51           | .157        |       | 7.75     | 10.95  |           | 18.70   | 25             |
+| 5306   | 1" diameter                                                          |         | 46           | .174        |       | 11.85    | 12.15  |           | 24      | 31             |
+| 5307   | 1-1/4" diameter                                                      |         | 42           | .190        |       | 8.15     | 13.30  |           | 21.45   | 29             |
+| 5308   | 1-1/2" diameter                                                      |         | 36           | .222        |       | 81       | 15.50  |           | 23.50   |                |
+| 5309   | 2" diameter                                                          | Q-T     | 59           | .271        |       | 19.75    | 17.05  |           | 36.80   | 47.50          |
+| 5310   | 2-1/2" diameter                                                      |         | 56           | .286        |       | 19.55    | 17.95  |           | 37.50   | 48.50          |
+| 5311   | 3" diameter                                                          |         | 53           | .302        |       | 34       | 18.95  |           | 52.95   | 65.50          |
+| 5360   | CPVC, threaded, couplings 10' OC, clevis hanger assemblies, 3 per 10'|         |              |             |       |          |        |           |         |                |
+| 5380   | Schedule 40                                                          |         |              |             |       |          |        |           |         |                |
+| 54601  | 1/2" diameter                                                        | 1 Plum  | 54           | .148        | LF.   | 7.45     | 10.35  |           | 17.80   | 23.50          |
+| 5470   | 3/4" diameter                                                        |         | 51           | .157        |       | 9.85     | 10.95  |           | 20.80   | 27             |
+| 5480   | 1" diameter                                                          |         | 46           | 174         |       | 14       | 12.15  |           | 26.15   | 33.50          |
+| 5490   | 1-1/4" diameter                                                      |         | 42           | 190         |       | 9.85     | 13.30  |           | 23.15   | 30.50          |
+| 5500   | 1-1/2" diameter                                                      |         | 36           | .222        |       | 9.45     | 15.50  |           | 24.95   | 33.50          |
+| 5510   | 2" diameter                                                          | Q-1     | 59           | .271        |       | 21.50    | 17.05  |           | 38.55   | 49             |
+| 5520   | 2-1/2" diameter                                                      |         | 56           | .286        |       | 21.50    | 17.95  |           | 39.45   | 50.50          |
+| 5530   | 3" diameter                                                          |         | 53           | .302        |       | 36.50    | 18.95  |           | 55.45   | 68.50          |
+| 7280   | PEX, flexible, no couplings or hangers                               |         |              |             |       |          |        |           |         |                |
+| 7282   | Note: For labor costs add 25% to the couplings and fittings labor total. |         |              |             |       |          |        |           |         |                |
+| 7285   | For fittings see section 23 83 16.10 7000                            |         |              |             |       |          |        |           |         |                |
+| 7300   | Non-barrier type, hot/cold tubing rolls                              |         |              |             |       |          |        |           |         |                |
+| 7310   | 1/4" diameter x 100'                                                 |         |              |             | L.F.  | .70      |        |           | .70     | .77            |
+| 7350   | 3/8" diameter x 100'                                                 |         |              |             |       | .71      |        |           | .71     | .78            |
+| 7360   | 1/2" diameter x 100'                                                 |         |              |             |       | 1.04     |        |           | 1.04    | 1.14           |
+| 7370   | 1/2" diameter x 500'                                                 |         |              |             |       | .92      |        |           | .92     | 1.01           |
+| 7380   | 1/2" diameter x 1000'                                                |         |              |             |       | .80      |        |           | .80     | .88            |
 
 # 22 05 Common 05rk Results Commonumbing
 
-## 22 05 76 Facility DraWorke Piping CleanoutResults 76.20 Cleanout Tees
+## 22 05 76.20 Cleanout Tees
 
 | ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
 | 5130  | 6" pipe size                                                         | Q -1     | 24           | .667        | Ea   | 49.50    | 42     |           | 91.50   | 117            |
 | 5170  | Cleanout adapter fitting, 1-1/2" pipe size                           | 1 Plum   | 32           | .250        |      | 7.05     | 17.45  |           | 24.50   | 34             |
-| 5180  | 2" pipe size                                                         | - I      | 56           | .286        |      | 9.45     | 17.95  |           | 27.40   | 37.50           |
+| 5180  | 2" pipe size                                                         |    | 56           | .286        |      | 9.45     | 17.95  |           | 27.40   | 37.50           |
 | 5190  | 3" pipe size                                                         |          | 36           | .444        |      | 25.50    | 28     |           | 53.50   | 69.50           |
 | 5200  | 4" pipe size                                                         |          | 30           | .533        |      | 41.50    | 33.50  |           | 275     | 96              |
 | 5210  | 6" pipe size                                                         |          | 24           | .667        |      | 150      | 42     |           | 192     | 228             |
@@ -759,7 +663,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 22 07 Plumbing Insulation
 
-## 22 07 19 Plumbing Piping Insulation
+## 22 07 19.10 Plumbing Piping Insulation
 
 | ID    | Name                                                                 | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|----------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -767,43 +671,43 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 0110  | Insulation req'd .is based on the surface size / area to be covered  |          |              |             |      |          |        |           |         |                |
 | 0600  | Pipe covering (price copper tube one size less than IPS)             |          |              |             |      |          |        |           |         |                |
 | 6600  | Fiberglass, with all service jacket                                  |          |              |             |      |          |        |           |         |                |
-| 6840  | 1" wall, 1/2" iron pipe size                                         | 5G5555555Q -14 | 240     | .067        | LF   | 2.96     | 3.78   |           | 6.74    | 9.05            |
-| 6870  | 1" iron pipe size                                                    | G        | 220          | .073        |      | 2.32     | 4.13   |           | 6.45    | 8.85            |
-| 6900  | 2" iron pipe size                                                    | G        | 200          | .080        |      | 2.92     | 4.54   |           | 7.46    | 10.15           |
-| 6920  | 3" iron pipe size                                                    | G        | 180          | .089        |      | 3        | 5.05   |           | 8.05    | 11              |
-| 6940  | 4" iron pipe size                                                    | G        | 150          | .107        |      | 3.39     | 6.05   |           | 9.44    | 13              |
-| 7320  | 2" wall, 1/2" iron pipe size                                         | G        | 220          | .073        |      | 5.80     | 4.13   |           | 9.93    | 12.70           |
+| 6840  | 1" wall, 1/2" iron pipe size                                         | Q -14 | 240     | .067        | LF   | 2.96     | 3.78   |           | 6.74    | 9.05            |
+| 6870  | 1" iron pipe size                                                    |         | 220          | .073        |      | 2.32     | 4.13   |           | 6.45    | 8.85            |
+| 6900  | 2" iron pipe size                                                    |         | 200          | .080        |      | 2.92     | 4.54   |           | 7.46    | 10.15           |
+| 6920  | 3" iron pipe size                                                    |         | 180          | .089        |      | 3        | 5.05   |           | 8.05    | 11              |
+| 6940  | 4" iron pipe size                                                    |         | 150          | .107        |      | 3.39     | 6.05   |           | 9.44    | 13              |
+| 7320  | 2" wall, 1/2" iron pipe size                                         |         | 220          | .073        |      | 5.80     | 4.13   |           | 9.93    | 12.70           |
 | 7440  | 6" iron pipe size                                                    |          | 100          | 160         |      | 7.30     | 9.10   |           | 16.40   | 22              |
-| 7460  | 8" iron pipe size                                                    | G        | 80           | .200        |      | 21       | 11.35  |           | 32.35   | 40.50           |
-| 7480  | 10" iron pipe size                                                   | G        | 70           | .229        |      | 17.05    | 12.95  |           | 30      | 38.50           |
-| 7490  | 12" iron pipe size                                                   | G        | 65           | .246        |      | 28       | 13.95  |           | 41.95   | 52.50           |
+| 7460  | 8" iron pipe size                                                    |         | 80           | .200        |      | 21       | 11.35  |           | 32.35   | 40.50           |
+| 7480  | 10" iron pipe size                                                   |         | 70           | .229        |      | 17.05    | 12.95  |           | 30      | 38.50           |
+| 7490  | 12" iron pipe size                                                   |         | 65           | .246        |      | 28       | 13.95  |           | 41.95   | 52.50           |
 | 7800  | For fiberglass with standard canvas jacket, deduct                   |          |              |             |      |          |        |           |         |                |
 | 7802  | For fittings, add 3 L.F. for each fitting                            |          |              |             |      |          |        |           |         |                |
 | 7804  | plus 4 LF. for each flange of the fitting                            |          |              |             |      |          |        |           |         |                |
 | 7810  | Finishes                                                             |          |              |             |      |          |        |           |         |                |
-| 7812  | For .016" aluminum jacket, add                                       | 5G Q-14  | 200          | .080        | S.F  | 1.12     | 4.54   |           | 5.66    | 8.20            |
-| 7813  | For .010" stainless steel, add                                       | G 號     | 160          | .100        | "    | 3.29     | 5.70   |           | 8.99    | 12.30           |
-| 7879  | Rubber tubing, flexible closed cell foam                             | G555555515Asbe55555120 | .067 | LF . | .70 | 4.20 | | 4.90 | 7.20 |
+| 7812  | For .016" aluminum jacket, add                                       |  Q-14  | 200          | .080        | S.F  | 1.12     | 4.54   |           | 5.66    | 8.20            |
+| 7813  | For .010" stainless steel, add                                       |      | 160          | .100        | "    | 3.29     | 5.70   |           | 8.99    | 12.30           |
+| 7879  | Rubber tubing, flexible closed cell foam                             | 1 ASBE | .067 | LF . | .70 | 4.20 | | 4.90 | 7.20 |
 | 7880  | 3/8" wall, 1/4" iron pipe size                                       |          |              |             |      |          |        |           |         |                |
-| 7910  | 1/2" iron pipe size                                                  | G        | 115          | .070        |      | .87      | 4.39   |           | 5.26    | 7.65            |
-| 7920  | 3/4" iron pipe size                                                  | G        | 115          | .070        |      | .96      | 4.39   |           | 5.35    | 7.75            |
-| 7930  | 1" iron pipe size                                                    | G        | 110          | .073        |      | 1.09     | 4.59   |           | 5.68    | 8.20            |
-| 7950  | 1-1/2" iron pipe size                                                | G        | 110          | .073        |      | 1.53     | 4.59   |           | 6.12    | 8.70            |
-| 8100  | 1/2" wall, 1/4" iron pipe size                                       | G        | 90           | .089        |      | 1.14     | 5.60   |           | 6.74    | 9.80            |
-| 8130  | 1/2" iron pipe size                                                  | G        | 89           | .090        |      | 1.25     | 5.65   |           | 6.90    | 10.05           |
-| 8140  | 3/4" iron pipe size                                                  | G        | 89           | .090        |      | .22      | 5.65   |           | 5.87    | 8.90            |
-| 8150  | 1" iron pipe size                                                    | G        | 88           | .091        |      | 1.56     | 5.75   |           | 7.31    | 10.45           |
-| 8170  | 1-1/2" iron pipe size                                                | G        | 87           | .092        |      | 1.97     | 5.80   |           | 7.77    | 11              |
-| 8180  | 2" iron pipe size                                                    | G        | 86           | .093        |      | 2.52     | 5.85   |           | 8.37    | 11.70           |
-| 8200  | 3" iron pipe size                                                    | G        | 85           | .094        |      | 3.71     | 5.95   |           | 9.66    | 13.20           |
-| 8300  | 3/4" wall, 1/4" iron pipe size                                       | G        | 90           | .089        |      | .27      | 5.60   |           | 5.87    | 8.85            |
-| 8330  | 1/2" iron pipe size                                                  | G        | 89           | .090        |      | 1.90     | 5.65   |           | 7.55    | 10.75           |
-| 8340  | 3/4" iron pipe size                                                  | G        | 89           | .090        |      | 2.28     | 5.65   |           | 7.93    | 11.15           |
-| 8350  | 1" iron pipe size                                                    | G        | 88           | .091        |      | .46      | 5.75   |           | 6.21    | 9.25            |
-| 8370  | 1-1/2" iron pipe size                                                | G        | 87           | .092        |      | 4.21     | 5.80   |           | 10.01   | 13.50           |
-| 8380  | 2" iron pipe size                                                    | G        | 86           | .093        |      | 5.10     | 5.85   |           | 10.95   | 14.60           |
-| 8400  | 3" iron pipe size                                                    | G        | 85           | .094        |      | 5.05     | 5.95   |           | 11      | 14.65           |
-| 8444  | 1" wall, 1/2" iron pipe size                                         | G        | 86           | .093        |      | .57      | 5.85   |           | 6.42    | 9.60            |
+| 7910  | 1/2" iron pipe size                                                  |         | 115          | .070        |      | .87      | 4.39   |           | 5.26    | 7.65            |
+| 7920  | 3/4" iron pipe size                                                  |         | 115          | .070        |      | .96      | 4.39   |           | 5.35    | 7.75            |
+| 7930  | 1" iron pipe size                                                    |         | 110          | .073        |      | 1.09     | 4.59   |           | 5.68    | 8.20            |
+| 7950  | 1-1/2" iron pipe size                                                |         | 110          | .073        |      | 1.53     | 4.59   |           | 6.12    | 8.70            |
+| 8100  | 1/2" wall, 1/4" iron pipe size                                       |         | 90           | .089        |      | 1.14     | 5.60   |           | 6.74    | 9.80            |
+| 8130  | 1/2" iron pipe size                                                  |         | 89           | .090        |      | 1.25     | 5.65   |           | 6.90    | 10.05           |
+| 8140  | 3/4" iron pipe size                                                  |         | 89           | .090        |      | .22      | 5.65   |           | 5.87    | 8.90            |
+| 8150  | 1" iron pipe size                                                    |         | 88           | .091        |      | 1.56     | 5.75   |           | 7.31    | 10.45           |
+| 8170  | 1-1/2" iron pipe size                                                |         | 87           | .092        |      | 1.97     | 5.80   |           | 7.77    | 11              |
+| 8180  | 2" iron pipe size                                                    |         | 86           | .093        |      | 2.52     | 5.85   |           | 8.37    | 11.70           |
+| 8200  | 3" iron pipe size                                                    |         | 85           | .094        |      | 3.71     | 5.95   |           | 9.66    | 13.20           |
+| 8300  | 3/4" wall, 1/4" iron pipe size                                       |         | 90           | .089        |      | .27      | 5.60   |           | 5.87    | 8.85            |
+| 8330  | 1/2" iron pipe size                                                  |         | 89           | .090        |      | 1.90     | 5.65   |           | 7.55    | 10.75           |
+| 8340  | 3/4" iron pipe size                                                  |         | 89           | .090        |      | 2.28     | 5.65   |           | 7.93    | 11.15           |
+| 8350  | 1" iron pipe size                                                    |         | 88           | .091        |      | .46      | 5.75   |           | 6.21    | 9.25            |
+| 8370  | 1-1/2" iron pipe size                                                |         | 87           | .092        |      | 4.21     | 5.80   |           | 10.01   | 13.50           |
+| 8380  | 2" iron pipe size                                                    |         | 86           | .093        |      | 5.10     | 5.85   |           | 10.95   | 14.60           |
+| 8400  | 3" iron pipe size                                                    |         | 85           | .094        |      | 5.05     | 5.95   |           | 11      | 14.65           |
+| 8444  | 1" wall, 1/2" iron pipe size                                         |         | 86           | .093        |      | .57      | 5.85   |           | 6.42    | 9.60            |
 
 ---
 
@@ -815,11 +719,11 @@ For customer support on your
 
 ## 22 05 48 - Vibration WorkSeismic Controls Resultsmbing Piping and Equipfort
 
-### Daily LPlumbing 05 48.10 Seismic Bracing Supports
+### 22 05 48.10 Seismic Bracing Supports
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|--------|----------|--------|-----------|---------|----------------|
-| 0010 | SEISMIC BRACING SUPPORTS R133113-90                                  |        |              |             |        |          |        |           |         |                |
+| 0010 | SEISMIC BRACING SUPPORTS                                  |        |              |             |        |          |        |           |         |                |
 | 0020 | Clamps                                                               |        |              |             |        |          |        |           |         |                |
 | 0030 | C-clamp, for mounting on steel beam                                  |        |              |             |        |          |        |           |         |                |
 | 0040 | 3/8" threaded rod                                                    | 1 Skwk | 160          | .050        | Ea .   | 4.35     | 2.95   |           | 7.30    | 9.20           |
@@ -875,97 +779,71 @@ For customer support on your
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182. 501
 
 # 22 05 23 Common Work Results for Plumbing  
-## General-Duty Valves for Plumbing Piping
+## 22 05 23.20 Valves, Bronze
 
-| ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total    | Total Incl O&P |
-|-------|----------------------------------------|--------|-------------|-------------|------|----------|---------|-----------|----------|----------------|
-| 1102  | Soldered same price as threaded        |        |             |             |      |          |         |           |          |                |
-| 1110  | 2"                                     | 1 Plum | 11          | .727        | Ea . | 950      | 51      |           | 1,001    | 1,125          |
-| 1300  | Ball                                   |        |             |             |      |          |         |           |          |                |
-| 1398  | Threaded, 150 psi                      |        |             |             |      |          |         |           |          |                |
-| 1400  | 1/4"                                   | 1 Plum | 24          | .333        | Ea . | 19.55    | 23.50   |           | 43.05    | 56             |
-| 1430  | 3/8"                                   |        | 24          | .333        |      | 19.55    | 23.50   |           | 43.05    | 56             |
-| 1450  | 1/2"                                   |        | 22          | 1.364       |      | 19.55    | 25.50   |           | 45.05    | 59.50           |
-| 1460  | 3/4"                                   |        | 20          | .400        |      | 31       | 28      |           | 59       | 75.50           |
-| 1470  | ין                                     |        | 19          | .421        |      | 46.50    | 29.50   |           | 76       | 95.50           |
-| 1480  | 1-1/4"                                 |        | 15          | .533        |      | 54       | 37      |           | 91       | 115             |
-| 1490  | 1-1/2"                                 |        | 13          | .615        |      | 85.50    | 43      |           | 128.50   | 159             |
-| 1500  | 2"                                     |        | 11          | .727        |      | 131      | 51      |           | 182      | 220             |
-| 1522  | Solder the same price as threaded      |        |             |             |      |          |         |           |          |                |
-| 1750  | Check, swing, class 150, regrinding disc, threaded |        |             |             |      |          |         |           |          |                |
-| 1800  | 1/8"                                   | 1 Plum | 242222      | .333        | Ea . | 85.50    | 223.502 |           | 109      | 129             |
-| 1830  | 1/4"                                   |        | 24          | .333        |      | 89.50    | 23.50   |           | 113      | 133             |
-| 1840  | 3/8"                                   |        | 24          | .333        |      | 103      | 23.50   |           | 126.50   | 149             |
-| 1850  | 1/2"                                   |        | 24          | .333        |      | 86.50    | 23.50   |           | 110      | 130             |
-| 1860  | 3/4"                                   |        | 20          | .400        |      | 136      | 28      |           | 164      | 191             |
-| 1870  | ין                                     |        | 19          | .421        |      | 190      | 29.50   |           | 219.50   | 253             |
-| 1880  | 1-1/4"                                 |        | 15          | 533         |      | 265      | 37      |           | 302      | 345             |
-| 1890  | 1-1/2"                                 |        | 13.615      |             |      | 305      | 43      |           | 348      | 400             |
-| 1900  | 2"                                     |        | 11          | .727        |      | 445      | 51      |           | 496      | 565             |
-| 1910  | 2-1/2"                                 | Q -1   | 15          | 1.067       |      | 1,075    | 67      |           | 1,142    | 1,300           |
-| 2000  | For 200 lb., add                       |        |             |             |      | 5 %      | 10 %    |           |          |                |
-| 2040  | For 300 lb., add                       |        |             |             |      | 15 %     | 15 %    |           |          |                |
-| 2850  | Gate, N.R.S., soldered, 125 psi        |        |             |             |      |          |         |           |          |                |
-| 2900  | 3/8"                                   | 1 Plum | 24          | .333        | Ea . | 87       | 23.50   |           | 110.50   | 131             |
-| 2920  | 1/2"                                   |        | 24          | .333        |      | 87       | 23.50   |           | 110.50   | 131             |
-| 2940  | 3/4"                                   |        | 20          | 1.400       |      | 96.50    | 28      |           | 124.50   | 148             |
-| 2950  | 1"                                     |        | 19          | 1.421       |      | 139      | 29.50   |           | 168.50   | 196             |
-| 2960  | 1-1/4"                                 |        | 15          | .533        |      | 212      | 37      |           | 249      | 290             |
-| 2970  | 1-1/2"                                 |        | 13          | .615        |      | 236      | 43      |           | 279      | 325             |
-| 2980  | 2"                                     |        | 11          | .727        |      | 335      | 51      |           | 386      | 440             |
-| 2990  | 2-1/2"                                 | Q -1   | 15          | 1.067       |      | 870      | 67      |           | 937      | 1,050           |
-| 3000  | 3"                                     | "      | 13          | 1.231       | "    | 1,000    | 77.50   |           | 1,077.50 | 1,225           |
-| 3850  | Rising stem, soldered, 300 psi         |        |             |             |      |          |         |           |          |                |
-| 3950  | 1"                                     | 1 Plum | 19          | .421        | Eo . | 272      | 29.50   |           | 301.50   | 345             |
-| 3980  | 2"                                     | "      | 11.727      |             |      | 730      | 51      |           | 781      | 880             |
-| 4000  | 3"                                     | Q -1   | 13          | 1.231       | "    | 2,400    | 77.50   |           | 2,477.50 | 2,775           |
-| 4250  | Threaded, class 150                    |        |             |             |      |          |         |           |          |                |
-| 4310  | 1/4"                                   | 1 Plum | 24          | .333        | Ea . | 107      | 23.503456|           | 130.50   | 152             |
-| 4320  | 3/8"                                   |        | 24          | .333        |      | 107      | 23.50   |           | 130.50   | 152             |
-| 4330  | 1/2"                                   |        | 24          | 1.333       |      | 111      | 23.50   |           | 134.50   | 157             |
-| 4340  | 3/4"                                   |        | 20          | .400        |      | 129      | 28      |           | 157      | 184             |
-| 4350  | יין                                    |        | 19          | 1.421       |      | 146      | 29.50   |           | 175.50   | 205             |
-| 4360  | 1-1/4"                                 |        | 15          | .533        |      | 198      | 37      |           | 235      | 274             |
-| 4370  | 1-1/2"                                 |        | 13          | .615        |      | 251      |         |           | 294      | 340             |
-| 4380  | 2"                                     |        | 11          | .727        |      | 335      | 51      |           | 386      | 445             |
-| 4390  | 2-1/2"                                 | 0-1    | 15          | 1.067       |      | 785      | 67      |           | 852      | 965             |
-| 4400  | 3"                                     | !!     | 13          | 1.231       |      | 1,100    | 77.50   |           | 1,177.50 | 1,325           |
-| 4500  | For 300 psi, threaded, add             |        |             |             |      | 100 %    | 15 %    |           |          |                |
-| 4540  | For chain operated type, odd           |        |             |             |      | 15 %     |         |           |          |                |
+| ID    | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor    | Equipment | Total     | Total Incl O&P |
+|-------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|----------|-----------|-----------|----------------|
+| 1102  | Soldered, same price as threaded                          |        |             |             |      |          |          |           |           |                |
+| 1110  | 2"                                                        | 1 Plum | 11          | 0.727       | Ea.  | 950      | 51       |           | 1,001     | 1,125          |
+| 1300  | Ball                                                      |        |             |             |      |          |          |           |           |                |
+| 1398  | Threaded, 150 psi                                         |        |             |             |      |          |          |           |           |                |
+| 1400  | 1/4"                                                      | 1 Plum | 24          | 0.333       | Ea.  | 19.55    | 23.50    |           | 43.05     | 56             |
+| 1430  | 3/8"                                                      |        | 24          | 0.333       |      | 19.55    | 23.50    |           | 43.05     | 56             |
+| 1450  | 1/2"                                                      |        | 22          | 1.364       |      | 19.55    | 25.50    |           | 45.05     | 59.50           |
+| 1460  | 3/4"                                                      |        | 20          | 0.400       |      | 31       | 28       |           | 59        | 75.50           |
+| 1470  | 1"                                                        |        | 19          | 0.421       |      | 46.50    | 29.50    |           | 76        | 95.50           |
+| 1480  | 1-1/4"                                                    |        | 15          | 0.533       |      | 54       | 37       |           | 91        | 115             |
+| 1490  | 1-1/2"                                                    |        | 13          | 0.615       |      | 85.50    | 43       |           | 128.50    | 159             |
+| 1500  | 2"                                                        |        | 11          | 0.727       |      | 131      | 51       |           | 182       | 220             |
+| 1522  | Soldered, same price as threaded                          |        |             |             |      |          |          |           |           |                |
+| 1750  | Check, swing, class 150, regrinding disc, threaded        |        |             |             |      |          |          |           |           |                |
+| 1800  | 1/8"                                                      | 1 Plum | 24          | 0.333       | Ea.  | 85.50    | 23.50    |           | 109       | 129             |
+| 1830  | 1/4"                                                      |        | 24          | 0.333       |      | 89.50    | 23.50    |           | 113       | 133             |
+| 1840  | 3/8"                                                      |        | 24          | 0.333       |      | 103      | 23.50    |           | 126.50    | 149             |
+| 1850  | 1/2"                                                      |        | 24          | 0.333       |      | 86.50    | 23.50    |           | 110       | 130             |
+| 1860  | 3/4"                                                      |        | 20          | 0.400       |      | 136      | 28       |           | 164       | 191             |
+| 1870  | 1"                                                        |        | 19          | 0.421       |      | 190      | 29.50    |           | 219.50    | 253             |
+| 1880  | 1-1/4"                                                    |        | 15          | 0.533       |      | 265      | 37       |           | 302       | 345             |
+| 1890  | 1-1/2"                                                    |        | 13          | 0.615       |      | 305      | 43       |           | 348       | 400             |
+| 1900  | 2"                                                        |        | 11          | 0.727       |      | 445      | 51       |           | 496       | 565             |
+| 1910  | 2-1/2"                                                    | Q-1    | 15          | 1.067       |      | 1,075    | 67       |           | 1,142     | 1,300           |
+| 2000  | For 200 lb., add                                          |        |             |             |      | 5%       | 10%      |           |           |                |
+| 2040  | For 300 lb., add                                          |        |             |             |      | 15%      | 15%      |           |           |                |
+| 2850  | Gate, N.R.S., soldered, 125 psi                           |        |             |             |      |          |          |           |           |                |
+| 2900  | 3/8"                                                      | 1 Plum | 24          | 0.333       | Ea.  | 87       | 23.50    |           | 110.50    | 131             |
+| 2920  | 1/2"                                                      |        | 24          | 0.333       |      | 87       | 23.50    |           | 110.50    | 131             |
+| 2940  | 3/4"                                                      |        | 20          | 0.400       |      | 96.50    | 28       |           | 124.50    | 148             |
+| 2950  | 1"                                                        |        | 19          | 0.421       |      | 139      | 29.50    |           | 168.50    | 196             |
+| 2960  | 1-1/4"                                                    |        | 15          | 0.533       |      | 212      | 37       |           | 249       | 290             |
+| 2970  | 1-1/2"                                                    |        | 13          | 0.615       |      | 236      | 43       |           | 279       | 325             |
+| 2980  | 2"                                                        |        | 11          | 0.727       |      | 335      | 51       |           | 386       | 440             |
+| 2990  | 2-1/2"                                                    | Q-1    | 15          | 1.067       |      | 870      | 67       |           | 937       | 1,050           |
+| 3000  | 3"                                                        | Q-1    | 13          | 1.231       | Ea.  | 1,000    | 77.50    |           | 1,077.50  | 1,225           |
+| 3850  | Rising stem, soldered, 300 psi                            |        |             |             |      |          |          |           |           |                |
+| 3950  | 1"                                                        | 1 Plum | 19          | 0.421       | Ea.  | 272      | 29.50    |           | 301.50    | 345             |
+| 3980  | 2"                                                        | 1 Plum | 11          | 0.727       |      | 730      | 51       |           | 781       | 880             |
+| 4000  | 3"                                                        | Q-1    | 13          | 1.231       | Ea.  | 2,400    | 77.50    |           | 2,477.50  | 2,775           |
+| 4250  | Threaded, class 150                                       |        |             |             |      |          |          |           |           |                |
+| 4310  | 1/4"                                                      | 1 Plum | 24          | 0.333       | Ea.  | 107      | 23.50    |           | 130.50    | 152             |
+| 4320  | 3/8"                                                      |        | 24          | 0.333       |      | 107      | 23.50    |           | 130.50    | 152             |
+| 4330  | 1/2"                                                      |        | 24          | 0.333       |      | 111      | 23.50    |           | 134.50    | 157             |
+| 4340  | 3/4"                                                      |        | 20          | 0.400       |      | 129      | 28       |           | 157       | 184             |
+| 4350  | 1"                                                        |        | 19          | 0.421       |      | 146      | 29.50    |           | 175.50    | 205             |
+| 4360  | 1-1/4"                                                    |        | 15          | 0.533       |      | 198      | 37       |           | 235       | 274             |
+| 4370  | 1-1/2"                                                    |        | 13          | 0.615       |      | 251      | 43       |           | 294       | 340             |
+| 4380  | 2"                                                        |        | 11          | 0.727       |      | 335      | 51       |           | 386       | 445             |
+| 4390  | 2-1/2"                                                    | 0-1    | 15          | 1.067       |      | 785      | 67       |           | 852       | 965             |
+| 4400  | 3"                                                        |        | 13          | 1.231       |      | 1,100    | 77.50    |           | 1,177.50  | 1,325           |
+| 4500  | For 300 psi, threaded, add                                |        |             |             |      | 100%     | 15%      |           |           |                |
+| 4540  | For chain operated type, add                              |        |             |             |      | 15%      |          |           |           |                |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
+## 22 34 36- Commercial Gas Domestic Water Heaters
 
-# 22224 Fuel-Fire34Domestic WatFueleaters
-
-## 22 3- Firedommercial Gas DoDomesticater Heaters
-
----
-
-## 22 34 36.13 CWatercial, Atmos., Gas DHeaters Water Htrs.
-
----
-
-### Daily Labor-
-
-Crew | Output | Hours | Unit
-
----
-
-### 2022 Bare Costs
-
-Total | Material | Labor | Equipment | Total | Incl O&P
-
----
-
-6000  
-0010
-
----
+### 22 34 36.13 Commercial, Atmospheric, Gas Domestic Water Heaters
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 22 34 36- | Commercial Gas Domestic Water Heaters                                 |        |              |             |      |          |       |           |        |                |
-| 22 34 36.13 | Commercial, Atmos., Gas Domestic Water Htrs.                        |        |              |             |      |          |       |           |        |                |
 | 0010  | COMMERCIAL, ATMOSPHERIC, GAS DOMESTIC WATER HEATERS                       |        |              |             |      |          |       |           |        |                |
 | 6000  | Gas fired, flush jacket, std. controls, vent not incl.                    |        |              |             |      |          |       |           |        |                |
 | 6040  | 75 MBH input, 73 GPH                                                     | 1 Plum | 1.40         | 5.714       | Ea.  | 3,375    | 400   |           | 3,775  | 4,300          |
@@ -975,27 +853,39 @@ Total | Material | Labor | Equipment | Total | Incl O&P
 | 6200  | 250 MBH input, 245 GPH                                                   |        | .50          | 16          |      | 11,600   | 1,125 |           | 12,725 | 14,500         |
 | 6900  | For low water cutoff, add                                                |        | 81           | 1           |      | 370      | 70    |           | 440    | 510            |
 | 6960  | For bronze body hot water circulator, add                                |        | 4            | 2           |      | 2,100    | 140   |           | 2,240  | 2,500          |
-| 22 34 46- | Oil-Fired Domestic Water Heaters                                     |        |              |             |      |          |       |           |        |                |
-| 22 34 46.10 | Residential Oil-Fired Water Heaters                                |        |              |             |      |          |       |           |        |                |
+
+##  22 34 46 Oil-Fired Domestic Water Heaters
+##  22 34 46.10 Residential Oil-Fired Water Heaters
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010  | RESIDENTIAL OIL-FIRED WATER HEATERS                                      |        |              |             |      |          |       |           |        |                |
 | 3000  | Oil fired, glass lined tank, 5 yr., vent not included, 30 gallon         | 1 Plum | 2            | 4           | Ea. 1| 1,525    | 279   |           | 1,804  | 2,100          |
 | 3040  | 50 gallon                                                               |        | 1.80         | 4.444       |      | 1,375    | 310   |           | 1,685  | 2,000          |
 | 3060  | 70 gallon                                                               |        | 1.50         | 5.333       |      | 2,150    | 370   |           | 2,520  | 2,900          |
-| 22 34 46.20 | Commercial Oil-Fired Water Heaters                                 |        |              |             |      |          |       |           |        |                |
+
+## 22 34 46.20 Commercial Oil-Fired Water Heaters
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010  | COMMERCIAL OIL-FIRED WATER HEATERS                                       |        |              |             |      |          |       |           |        |                |
 | 8000  | Oil fired, glass lined, UL listed, std. controls, vent not incl.         |        |              |             |      |          |       |           |        |                |
-| 8060  | 140 gal., 140 MBH input, 134 GPH                                         | Q-1    | 2.13         | 7.512       | Ea.! | 22,700   | 470   |           | 23,170 | 25,600         |
+| 8060  | 140 gal., 140 MBH input, 134 GPH                                         | Q-1    | 2.13         | 7.512       | Ea. | 22,700   | 470   |           | 23,170 | 25,600         |
 | 8080  | 140 gal., 199 MBH input, 191 GPH                                         |        | 2            | 8           |      | 23,500   | 505   |           | 24,005 | 26,600         |
-| 8100  | 140 gal., 255 MBH input, 247 GPH                                         |        | 1.60         | 10          | I    | 24,100   | 630   |           | 24,730 | 27,500         |
+| 8100  | 140 gal., 255 MBH input, 247 GPH                                         |        | 1.60         | 10          |     | 24,100   | 630   |           | 24,730 | 27,500         |
 | 8160  | 140 gal., 540 MBH input, 519 GPH                                         |        | .96          | 16.667      |      | 32,000   | 1,050 |           | 33,050 | 36,800         |
 | 8180  | 140 gal.; 720 MBH input, 691 GPH                                         | +      | .92          | 17.391      |      | 32,600   | 1,100 |           | 33,700 | 37,500         |
 | 8280  | 201 gal., 1,250 MBH input, 1,200 GPH                                     | Q-2    | 1.22         | 19.672      |      | 50,500   | 1,275 |           | 51,775 | 57,500         |
 | 8300  | 201 gal., 1,500 MBH input, 1,441 GPH                                     | "      | 1.16         | 20.690      |      | 54,500   | 1,350 |           | 55,850 | 62,000         |
 | 8900  | For low water cutoff, add                                                | 1 Plum | 8            | 1           |      | 350      | 70    |           | 420    | 490            |
 | 8960  | For bronze body hot water circulator, add                                |        | 4            | 2           |      | 950      | 140   |           | 1,090  | 1,250          |
-| 22 35  | Domestic Water Heat Exchangers                                          |        |              |             |      |          |       |           |        |                |
-| 22 35 30- | Water Heating by Steam                                               |        |              |             |      |          |       |           |        |                |
-| 22 35 30.10 | Water Heating Transfer Package                                     |        |              |             |      |          |       |           |        |                |
+
+## 22 35   Domestic Water Heat Exchangers         
+## 22 35 30 Water Heating by Steam                
+## 22 35 30.10 Water Heating Transfer Package     
+
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
 | 0010  | WATER HEATING TRANSFER PACKAGE, Complete controls,                       |        |              |             |      |          |       |           |        |                |
 | 0020  | expansion tank, converter, air separator                                 |        |              |             |      |          |       |           |        |                |
 | 1000  | Hot water, 180 °F enter, 200 °F exit, 15 # steam                         |        |              |             |      |          |       |           |        |                |
@@ -1015,9 +905,6 @@ Total | Material | Labor | Equipment | Total | Incl O&P
 ## 22 11 19 - Domestic Water Piping Specialties
 
 ### 22 11 19.64 Hydrants
-
-For tapped drain port in box, add  
-Moderate
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1106,9 +993,8 @@ Moderate
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-No text was provided.
 
-# Sanitary Sewerage Pumps
+# 22 13 29.14 Sewage Ejector Pumps
 
 | ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|-----------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -1118,7 +1004,9 @@ No text was provided.
 | 0760 | 134 GPM, 1 HP, 2" discharge |      | 2.20         | 7.273       |      | 1,500    | 455   |           | 1,955  | 2,325          |
 | 0770 | 3" discharge                |      | 2            | 8           |      | 1,600    | 505   |           | 2,105  | 2,525          |
 
-# Storm Drainage Piping Specialties
+# 22 14 23 Storm Drainage Piping Specialties
+
+## 22 14 23.33 Backwater Valves
 
 | ID   | Name                                      | Crew | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total     | Total Incl O&P |
 |------|-------------------------------------------|------|--------------|-------------|------|----------|--------|-----------|-----------|----------------|
@@ -1128,7 +1016,7 @@ No text was provided.
 | 7300 | 4" pipe size                              | "    | 13           | 1.231       |      | 1,250    | 77.50  |           | 1,327.50  | 1,500          |
 | 7340 | 6" pipe size                              | - 2  | 17           | 1.412       |      | 2,750    | 92     |           | 2,842     | 3,150          |
 
-# Roof Drains
+# 22 14 26.13 Roof Drains
 
 | ID   | Name                        | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-----------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -1139,14 +1027,14 @@ No text was provided.
 | 3920 | 6" pipe size                |      | 10           | 1.600       | 11   | 1,000    | 101   |           | 1,101 | 1,250          |
 | 4640 | 2", 3" and 4" pipe size     | Q-1  | 14           | 1.143       | Ea.  | 700      | 72    |           | 772   | 875            |
 
-# Facility Area Drains
+# 22 14 26.16 Facility Area Drains
 
 | ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 5000 | 6" x 7" top, 2", 3" and 4" pipe size | Q-1  | 16           | 1           | Ea.  | 455      | 63    |           | 518   | 595            |
 | 5100 | 8" x 12" top, 5" and 6" pipe size    | "    | 14           | 1.143       |      | 880      | 72    |           | 952   | 1,075          |
 
-# Facility Trench Drains
+# 22 14 26.19 Facility Trench Drains
 
 | ID   | Name                                         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |------|----------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
@@ -1157,13 +1045,6 @@ No text was provided.
 | 6680 | Heavy duty iron grate                        |      | 130          | .145        |      | 133      | 9.15  |           | 142.15 | 160            |
 | 6770 | Heavy duty galvanized grate, 12" internal width | Q-T | 80           | .200        | LF.  | 181      | 12.55 |           | 193.55 | 218            |
 
-# 2022 Bare Costs | Labor | Equipment | Facility
-
-## Daily Labor-Crew Water Hours Unit Material Distribution
-
-00 Ea.  
-13,400  
-203  
 
 ## 22 11 Facility Water Distribution
 
@@ -1196,47 +1077,47 @@ No text was provided.
 
 #### 22 11 19.42 Backflow Preventers
 
-| ID   | Name                                 | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
-|------|--------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
-| 0010 | BACKFLOW PREVENTERS, Includes valves |       |              |             |      |          |       |           |          |                |
-| 0020 | and four test cocks, corrosion resistant, automatic operation | | | | | | | | | |
-| 4000 | Reduced pressure principle           |       |              |             |      |          |       |           |          |                |
-| 4100 | Threaded, bronze, valves are ball    |       |              |             |      |          |       |           |          |                |
-| 4120 | 3/4" pipe size                       | 1 Plum| 16           | .500        | Ea.  | 560      | 3548  |           | 595      | 665            |
-| 4140 | 1" pipe size                         |       |              | .571        |      | 595      | 40    |           | 635      | 715            |
-| 4150 | 1-1/4" pipe size                     |       | 12.667       |             |      | 1,450    | 46.50 |           | 1,496.50 | 1,675          |
-| 4160 | 1-1/2" pipe size                     |       | 10           | .800        |      | 1,200    | 56    |           | 1,256    | 1,400          |
-| 4180 | 2" pipe size                         |       | 7            | 1.143       |      | 1,925    | 80    |           | 2,005    | 2,225          |
-| 5000 | Flanged, bronze, valves are OS & Y   |       |              |             |      |          |       |           |          |                |
-| 5060 | 2-1/2" pipe size                     | Q 1   | 5            | 3.200       | Ea.  | 6,475    | 201   |           | 6,676    | 7,425          |
-| 5080 | 3" pipe size                         |       | 4.50         | 3.556       |      | 7,100    | 223   |           | 7,323    | 8,150          |
-| 5100 | 4" pipe size                         |       | 3            | 5.333       | \|   | 9,100    | 335   | \|        | 9,435    | 10,500         |
-| 5120 | 6" pipe size                         | -2    | 38           |             |      | 12,900   | 520   | \|        | 13,420   | 14,900         |
-| 5600 | Flanged, iron, valves are OS & Y     |       |              |             |      |          |       |           |          |                |
-| 5660 | 2-1/2" pipe size                     | Q-1   | 5            | 3.200       | Ea.  | 3,225    | 201   |           | 3,426    | 3,850          |
-| 5680 | 3" pipe size                         |       | 4.50         | 3.556       |      | 3,325    | 223   |           | 3,548    | 3,975          |
-| 5700 | 4" pipe size                         |       | 3            | 5.333       |      | 4,300    | 335   |           | 4,635    | 5,225          |
-| 5720 | 6" pipe size                         | Q-2   | 3            | 8           |      | 6,350    | 520   |           | 6,870    | 7,775          |
-| 5740 | 8" pipe size                         |       | 2            | 12          |      | 12,600   | 780   |           | 13,380   | 15,000         |
-| 5760 | 10" pipe size                        |       | 1            | 24          |      | 14,900   | 1,575 |           | 16,475   | 18,600         |
+| ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|-----------|----------------|
+| 0010  | BACKFLOW PREVENTERS, Includes valves                                 |        |              |             |      |          |        |           |           |                |
+| 0020  | and four test cocks, corrosion resistant, automatic operation        |        |              |             |      |          |        |           |           |                |
+| 4000  | Reduced pressure principle                                           |        |              |             |      |          |        |           |           |                |
+| 4100  | Threaded, bronze, valves are ball                                    |        |              |             |      |          |        |           |           |                |
+| 4120  | 3/4" pipe size                                                       | 1 Plum | 16           | .500        | Ea.  | 560      | 35.48  |           | 595       | 665            |
+| 4140  | 1" pipe size                                                         |        |              | .571        |      | 595      | 40     |           | 635       | 715            |
+| 4150  | 1-1/4" pipe size                                                     |        | 12.667       |             |      | 1,450    | 46.50  |           | 1,496.50  | 1,675          |
+| 4160  | 1-1/2" pipe size                                                     |        | 10           | .800        |      | 1,200    | 56     |           | 1,256     | 1,400          |
+| 4180  | 2" pipe size                                                         |        | 7            | 1.143       |      | 1,925    | 80     |           | 2,005     | 2,225          |
+| 5000  | Flanged, bronze, valves are OS & Y                                   |        |              |             |      |          |        |           |           |                |
+| 5060  | 2-1/2" pipe size                                                     | Q 1    | 5            | 3.200       | Ea.  | 6,475    | 201    |           | 6,676     | 7,425          |
+| 5080  | 3" pipe size                                                         |        | 4.50         | 3.556       |      | 7,100    | 223    |           | 7,323     | 8,150          |
+| 5100  | 4" pipe size                                                         |        | 3            | 5.333       |      | 9,100    | 335    |           | 9,435     | 10,500         |
+| 5120  | 6" pipe size                                                         | Q-2     | 3            | 8           |      | 12,900   | 520    |           | 13,420    | 14,900         |
+| 5600  | Flanged, iron, valves are OS & Y                                     |        |              |             |      |          |        |           |           |                |
+| 5660  | 2-1/2" pipe size                                                     | Q-1    | 5            | 3.200       | Ea.  | 3,225    | 201    |           | 3,426     | 3,850          |
+| 5680  | 3" pipe size                                                         |        | 4.50         | 3.556       |      | 3,325    | 223    |           | 3,548     | 3,975          |
+| 5700  | 4" pipe size                                                         |        | 3            | 5.333       |      | 4,300    | 335    |           | 4,635     | 5,225          |
+| 5720  | 6" pipe size                                                         | Q-2    | 3            | 8           |      | 6,350    | 520    |           | 6,870     | 7,775          |
+| 5740  | 8" pipe size                                                         |        | 2            | 12          |      | 12,600   | 780    |           | 13,380    | 15,000         |
+| 5760  | 10" pipe size                                                        |        | 1            | 24          |      | 14,900   | 1,575  |           | 16,475    | 18,600         |
 
 #### 22 11 19.50 Vacuum Breakers
 
-| ID   | Name                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total    | Total Incl O&P |
-|------|--------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|----------|----------------|
-| 0010 | VACUUM BREAKERS                      |        |              |             |      |          |       |           |          |                |
-| 0013 | See also backflow preventers Section 22 11 19.42 | | | | | | | | | |
-| 1000 | Anti siphon continuous pressure type |        |              |             |      |          |       |           |          |                |
-| 1010 | Max .150 psi -210 °F                 |        |              |             |      |          |       |           |          |                |
-| 10201| Bronze body                          |        |              |             |      |          |       |           |          |                |
-| 1030 | 1/2" size                            | 1 Stpi | 229531       | .333 \|     | Ea.  | 274      | 23.50 |           | 297.50   | 335            |
-| 1C40 | 3/4" size                            |        | 20           | .400        |      | 274      | 28    |           | 302      | 340            |
-| 1050 | 1" size                              |        |              | .421        |      | 280      | 29.50 |           | 309.50   | 355            |
-| 1060 | 1-1/4" size                          |        |              | .533        |      | 555      | 37.50 |           | 592.50   | 670            |
-| 1070 | 1-1/2" size                          |        |              | .615        |      | 675      | 43.50 |           | 718.50   | 805            |
-| 1080 | 2" size                              |        | 11           | .727        |      | 440      | 51    |           | 491      | 555            |
-| 1200 | Max .125 psi with atmospheric vent   |        |              |             |      |          |       |           |          |                |
-| 1210 | Brass, in-line construction          |        |              |             |      |          |       |           |          |                |
+| ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|---------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0010  | VACUUM BREAKERS                                  |        |              |             |      |          |        |           |         |                |
+| 0013  | See also backflow preventers Section 22 11 19.42 |        |              |             |      |          |        |           |         |                |
+| 1000  | Anti siphon continuous pressure type              |        |              |             |      |          |        |           |         |                |
+| 1010  | Max .150 psi -210 °F                             |        |              |             |      |          |        |           |         |                |
+| 1020  | Bronze body                                      |        |              |             |      |          |        |           |         |                |
+| 1030  | 1/2" size                                        | 1 Stpi | 22           | .333        | Ea.  | 274      | 23.50  |           | 297.50  | 335            |
+| 1040  | 3/4" size                                        |        | 20           | .400        |      | 274      | 28     |           | 302     | 340            |
+| 1050  | 1" size                                          |        |              | .421        |      | 280      | 29.50  |           | 309.50  | 355            |
+| 1060  | 1-1/4" size                                      |        |              | .533        |      | 555      | 37.50  |           | 592.50  | 670            |
+| 1070  | 1-1/2" size                                      |        |              | .615        |      | 675      | 43.50  |           | 718.50  | 805            |
+| 1080  | 2" size                                          |        | 11           | .727        |      | 440      | 51     |           | 491     | 555            |
+| 1200  | Max .125 psi with atmospheric vent               |        |              |             |      |          |        |           |         |                |
+| 1210  | Brass, in-line construction                      |        |              |             |      |          |        |           |         |                |
 
 ---
 
@@ -1244,20 +1125,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 22 41 Residential Plumbing Residential 41 23 - Residential Showers
 
-## 22 Plumbing Shower System Components
-
-### 32Fixtures34" x 54"
-
-4620  
-4630  
-4640  
-34" x 60"  
-5000  
-Built-in, head, arm, 2.5 GPM valve  
-5200  
-Head, arm, by-pass, integral stops, handles  
-
-## 22 41 36 - Residential Showers
+## 22 41 23.40 Residential Showers - Shower System Componenets
 
 | ID   | Name                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |------|-------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
@@ -1315,8 +1183,8 @@ Head, arm, by-pass, integral stops, handles
 | 2230  | Polished brass                                                       | "      | 6.66         | 1.201       | "    | 2941     | 84     |           | 378     | 450            |
 | 2260  | Single lever handle and pop up drain                                 |        |              |             |      |          |        |           |         |                |
 | 2280  | Satin nickel                                                         | 1 Plum | 6.66         | 1.201       | Ea . | 370      | 28432  |           | 454     | 530            |
-| 2290  | Polished chrome                                                      | !      | 6.66         | 1.201       |      | 262      | 84     |           | 346     | 415            |
-| 2810  | Automatic sensor and operator, with faucet head                      | G      | 6.15         | 1.301       |      | 615      | 91     |           | 706     | 810            |
+| 2290  | Polished chrome                                                      |       | 6.66         | 1.201       |      | 262      | 84     |           | 346     | 415            |
+| 2810  | Automatic sensor and operator, with faucet head                      |       | 6.15         | 1.301       |      | 615      | 91     |           | 706     | 810            |
 | 4000  | Shower by-pass valve with union                                      | 1 Plum | 18           | .444        | Ea . | 57       | 31     |           | 88      | 110            |
 | 4200  | Shower thermostatic mixing valve, concealed, with shower head trim kit| "      | 8            |             | "    | 375      | 70     |           | 445     | 520            |
 | 4220  | Shower pressure balancing mixing valve                               |        |              |             |      |          |        |           |         |                |
@@ -1336,83 +1204,37 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 22 42 39.30 Carriers and Supports
 
-#### Vertical, adjustable, caulk or thread
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 7440 | Single, 4" pipe size                                      | 1 Plum| 5.33         | 1.501       | Ea.  | 2,050    | 105   |           | 2,155 | 2,425          |
-| 7460 | 5" pipe size                                              |       | 5.33         | 1.501       |      | 1,800    | 105   |           | 1,905 | 2,150          |
-| 7480 | 6" pipe size                                              |       | 5            | 1.600       |      | 1,875    | 112   |           | 1,987 | 2,225          |
-| 7520 | Double, 4" pipe size                                      |       | 5            | 1.600       |      | 2,550    | 112   |           | 2,662 | 3,000          |
-| 7540 | 5" pipe size                                              |       | 5            | 1.600       |      | 2,325    | 112   |           | 2,437 | 2,750          |
-| 7560 | 6" pipe size                                              |       | 4            | 2           | ↓    | 2,575    | 140   |           | 2,715 | 3,025          |
-
-#### Vertical, adjustable, extended, caulk
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 7620 | Single, 4" pipe size                                      | 1 Plum| 5.33         | 1.501       | Ea.  | 1,225    | 105   |           | 1,330 | 1,500          |
-| 7640 | 5" pipe size                                              |       | 5.33         | 1.501       |      | 1,050    | 105   |           | 1,155 | 1,325          |
-| 7680 | 6" pipe size                                              |       | 5            | 1.600       |      | 2,050    | 112   |           | 2,162 | 2,425          |
-| 7720 | Double, 4" pipe size                                      |       | 5            | 1.600       |      | 2,325    | 112   |           | 2,437 | 2,725          |
-| 7740 | 5" pipe size                                              |       | 5            | 1.600       |      | 1,250    | 112   |           | 1,362 | 1,550          |
-| 7760 | 6" pipe size                                              |       | 4            | 2           |      | 1,375    | 140   |           | 1,515 | 1,700          |
-
-#### Water closet, blow out
-
-##### Vertical offset, caulk or thread
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 7820 | Single, 4" pipe size                                      | 1 Plum| 5.33         | 1.501       | Ea.  | 1,050    | 105   |           | 1,155 | 1,300          |
-| 7840 | Double, 4" pipe size                                      |       | 5            | 1.600       | "    | 1,800    | 112   |           | 1,912 | 2,150          |
-
-##### Vertical offset, extended, caulk
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 7900 | Single, 4" pipe size                                      | 1 Plum| 5.33         | 1.501       | Ea.  | 1,325    | 105   |           | 1,430 | 1,600          |
-| 7920 | Double, 4" pipe size                                      |       | 5            | 1.600       | "    | 2,075    | 112   |           | 2,187 | 2,450          |
-
-#### Vertical, for floor mounted back-outlet
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 7980 | Single, 4" thread, 2" vent                                | 1 Plum| 5.33         | 1.501       | Ea.  | 940      | 105   |           | 1,045 | 1,175          |
-| 8000 | Double, 4" thread, 2" vent                                |       | 6            | 1.333       | "    | 2,750    | 93    |           | 2,843 | 3,175          |
-
-#### Vertical, for floor mounted back-outlet, extended
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 8060 | Single, 4" caulk, 2" vent                                 | :1 Plum| 99          | 1.333       | Ea.  | 940      | 393   |           | 1,033 | 1,175          |
-| 8080 | Double, 4" caulk, 2" vent                                 | 2     |              | 1.333       | "    | 2,625    | 93    |           | 2,718 | 3,025          |
-
-#### Water closet, residential
-
-##### Vertical centerline, floor mount
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 8240 | Single, 3" caulk, 2" or 3" vent                           | 11 Plum| 6           | 1.333       | Ea.  | 840      | 93    |           | 933   | 1,075          |
-| 8260 | 4" caulk, 2" or 4" vent                                   |       | 6            | 1.333       |      | 1,175    | 93    |           | 1,268 | 1,450          |
-| 8280 | 3" copper sweat, 3" vent                                  |       | 6            | 1.333       | |    | 825      | 93    |           | 9181  | 1,050          |
-| 8300 | 4" copper sweat, 4" vent                                  |       | 6            | 1.333       |      | 1,000    | 93    |           | 1,093 | 1,250          |
-
-#### Vertical offset, floor mount
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 8420 | Single, 3" or 4" caulk, vent                              | 1 Plum| 4545         | 2           | Eo.  | 1,050    | 14242 |           | 1,190 | 1,350          |
-| 8440 | 3" or 4" copper sweat, vent                               |       |              | 1.600       |      | 1,050    | 112   |           | 1,162 | 1,325          |
-| 8460 | Double, 3" or 4" caulk, vent                              |       |              |             |      | 1,800    | 140   |           | 1,940 | 2,175          |
-| 8480 | 3" or 4" copper sweat, vent                               |       | 5            | 1.600       |      | 1,800    | 112   |           | 1,912 | 2,150          |
-
-#### Water cooler (electric), floor mounted
-
-| ID   | Name                                                      | Crew  | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|------|-----------------------------------------------------------|-------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 9100 | Plate type with bearing plate, single                     | 1 Plum| 6            | 1.333       | Ea.  | 800      | 93    |           | 893   | 1,025          |
+| ID    | Name                                                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|-------------------------------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
+| 7440  | Vertical, adjustable, caulk or thread, single, 4" pipe size                               | 1 Plum  | 5.33         | 1.501       | Ea.  | 2,050    | 105   |           | 2,155  | 2,425          |
+| 7460  | Vertical, adjustable, caulk or thread, single, 5" pipe size                               |         | 5.33         | 1.501       |      | 1,800    | 105   |           | 1,905  | 2,150          |
+| 7480  | Vertical, adjustable, caulk or thread, single, 6" pipe size                               |         | 5            | 1.600       |      | 1,875    | 112   |           | 1,987  | 2,225          |
+| 7520  | Vertical, adjustable, caulk or thread, double, 4" pipe size                               |         | 5            | 1.600       |      | 2,550    | 112   |           | 2,662  | 3,000          |
+| 7540  | Vertical, adjustable, caulk or thread, double, 5" pipe size                               |         | 5            | 1.600       |      | 2,325    | 112   |           | 2,437  | 2,750          |
+| 7560  | Vertical, adjustable, caulk or thread, double, 6" pipe size                               |         | 4            | 2           |      | 2,575    | 140   |           | 2,715  | 3,025          |
+| 7620  | Vertical, adjustable, extended, caulk, single, 4" pipe size                               | 1 Plum  | 5.33         | 1.501       | Ea.  | 1,225    | 105   |           | 1,330  | 1,500          |
+| 7640  | Vertical, adjustable, extended, caulk, single, 5" pipe size                               |         | 5.33         | 1.501       |      | 1,050    | 105   |           | 1,155  | 1,325          |
+| 7680  | Vertical, adjustable, extended, caulk, single, 6" pipe size                               |         | 5            | 1.600       |      | 2,050    | 112   |           | 2,162  | 2,425          |
+| 7720  | Vertical, adjustable, extended, caulk, double, 4" pipe size                               |         | 5            | 1.600       |      | 2,325    | 112   |           | 2,437  | 2,725          |
+| 7740  | Vertical, adjustable, extended, caulk, double, 5" pipe size                               |         | 5            | 1.600       |      | 1,250    | 112   |           | 1,362  | 1,550          |
+| 7760  | Vertical, adjustable, extended, caulk, double, 6" pipe size                               |         | 4            | 2           |      | 1,375    | 140   |           | 1,515  | 1,700          |
+| 7820  | Vertical offset, caulk or thread, single, 4" pipe size                                    | 1 Plum  | 5.33         | 1.501       | Ea.  | 1,050    | 105   |           | 1,155  | 1,300          |
+| 7840  | Vertical offset, caulk or thread, double, 4" pipe size                                    |         | 5            | 1.600       |      | 1,800    | 112   |           | 1,912  | 2,150          |
+| 7900  | Vertical offset, extended, caulk, single, 4" pipe size                                    | 1 Plum  | 5.33         | 1.501       | Ea.  | 1,325    | 105   |           | 1,430  | 1,600          |
+| 7920  | Vertical offset, extended, caulk, double, 4" pipe size                                    |         | 5            | 1.600       |      | 2,075    | 112   |           | 2,187  | 2,450          |
+| 7980  | Vertical, for floor mounted back-outlet, single, 4" thread, 2" vent                       | 1 Plum  | 5.33         | 1.501       | Ea.  | 940      | 105   |           | 1,045  | 1,175          |
+| 8000  | Vertical, for floor mounted back-outlet, double, 4" thread, 2" vent                       |         | 6            | 1.333       |      | 2,750    | 93    |           | 2,843  | 3,175          |
+| 8060  | Vertical, for floor mounted back-outlet, extended, single, 4" caulk, 2" vent              | 1 Plum  | 99           | 1.333       | Ea.  | 940      | 393   |           | 1,033  | 1,175          |
+| 8080  | Vertical, for floor mounted back-outlet, extended, double, 4" caulk, 2" vent              | 2       |              | 1.333       |      | 2,625    | 93    |           | 2,718  | 3,025          |
+| 8240  | Water closet, residential, vertical centerline, floor mount, single, 3" caulk, 2" or 3" vent | 11 Plum | 6            | 1.333       | Ea.  | 840      | 93    |           | 933    | 1,075          |
+| 8260  | Water closet, residential, vertical centerline, floor mount, 4" caulk, 2" or 4" vent       |         | 6            | 1.333       |      | 1,175    | 93    |           | 1,268  | 1,450          |
+| 8280  | Water closet, residential, vertical centerline, floor mount, 3" copper sweat, 3" vent      |         | 6            | 1.333       |      | 825      | 93    |           | 918    | 1,050          |
+| 8300  | Water closet, residential, vertical centerline, floor mount, 4" copper sweat, 4" vent      |         | 6            | 1.333       |      | 1,000    | 93    |           | 1,093  | 1,250          |
+| 8420  | Water closet, residential, vertical offset, floor mount, single, 3" or 4" caulk, vent      | 1 Plum  | 6            | 2           | Ea.  | 1,050    | 142   |           | 1,190  | 1,350          |
+| 8440  | Water closet, residential, vertical offset, floor mount, 3" or 4" copper sweat, vent       |         |              | 1.600       |      | 1,050    | 112   |           | 1,162  | 1,325          |
+| 8460  | Water closet, residential, vertical offset, floor mount, double, 3" or 4" caulk, vent      |         |              |             |      | 1,800    | 140   |           | 1,940  | 2,175          |
+| 8480  | Water closet, residential, vertical offset, floor mount, 3" or 4" copper sweat, vent       |         | 5            | 1.600       |      | 1,800    | 112   |           | 1,912  | 2,150          |
+| 9100  | Water cooler (electric), floor mounted, plate type with bearing plate, single               | 1 Plum  | 6            | 1.333       | Ea.  | 800      | 93    |           | 893    | 1,025          |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
@@ -1481,10 +1303,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010 | INSTANTANEOUS, TANKLESS, GAS WATER HEATERS                           |        |              |             |      |          |       |           |       |                |
-| 9410 | Natural gas / propane, 3.2 GPM                                       | 5GPlum | 2            | 4           | Ea . | 550      | 279   |           | 829   | 1,025          |
-| 9420 | 6.4 GPM                                                              | G      | 1.90         | 4.211       |      | 600      | 294   |           | 894   | 1,100          |
-| 9430 | 8.4 GPM                                                              | G      | 1.80         | 4.444       |      | 730      | 310   |           | 1,040 | 1,275          |
-| 9440 | 9.5 GPM                                                              | G      | 1.60         | 5           |      | 930      | 350   |           | 1,280 | 1,550          |
+| 9410 | Natural gas / propane, 3.2 GPM                                       | 1 Plum | 2            | 4           | Ea . | 550      | 279   |           | 829   | 1,025          |
+| 9420 | 6.4 GPM                                                              |       | 1.90         | 4.211       |      | 600      | 294   |           | 894   | 1,100          |
+| 9430 | 8.4 GPM                                                              |       | 1.80         | 4.444       |      | 730      | 310   |           | 1,040 | 1,275          |
+| 9440 | 9.5 GPM                                                              |       | 1.60         | 5           |      | 930      | 350   |           | 1,280 | 1,550          |
 
 ---
 
@@ -1506,24 +1328,12 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 22 225 Emergency Plumbing Fix Emergency 45 13 - Emergency Showers
+## 22 45 13 - Emergency Showers
 
-## 22 45 1 Plumbing Emergency Showers
-
-0010 EMERGENCY Fixtures, Rough-in not included  
-5000  
-5200  
-6000  
-6400  
-6600  
-Shower, single head, drench, ball valve, pull, freestanding  
-Horizontal or vertical supply  
-M
+### 22 45 13.10 Emergency Showers
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22   | 45 13 - Emergency Showers                                            |      |              |             |      |          |       |           |       |                |
-| 22   | 45 13.10 Emergency Showers                                           |      |              |             |      |          |       |           |       |                |
 | 0010 | EMERGENCY SHOWERS, Rough in not included                             |      |              |             |      |          |       |           |       |                |
 | 5000 | Shower, single head, drench, ball valve, pull, freestanding          | 4    | 4            | Ea.         | 430  | 251      |       | 681       | 850   |
 | 5200 | Horizontal or vertical supply                                        | 4    | 4            |             | 710  | 251      |       | 961       | 1,150 |
@@ -1533,9 +1343,10 @@ M
 
 ## 22 45 16 - Eyewash Equipment
 
+### 22 45 16.10 Eyewash Safety Equipment
+
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22   | 45 16.10 Eyewash Safety Equipment                                    |      |              |             |      |          |       |           |       |                |
 | 0010 | EYEWASH SAFETY EQUIPMENT, Rough-in not included                      |      |              |             |      |          |       |           |       |                |
 | 1000 | Eye wash fountain                                                    |      |              |             |      |          |       |           |       |                |
 | 1400 | Plastic bowl, pedestal mounted                                       | 0-1  | 4            | 4           | Ea.  | 565      | 251   |           | 816   | 995            |
@@ -1545,19 +1356,17 @@ M
 | 2200 | Unmounted                                                            |      |              |             | 315  | 251      |       | 566       | 720   |
 | 2400 | Wall mounted                                                         |      |              |             | 291  | 251      |       | 542       | 695   |
 
-## 22 45 19 - Self-Contained Eyewash Equipment
+## 22 45 19.10 Self-Contained Eyewash Safety Equipment
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22   | 45 19.10 Self-Contained Eyewash Safety Equipment                     |      |              |             |      |          |       |           |       |                |
 | 0010 | SELF-CONTAINED EYEWASH SAFETY EQUIPMENT                              |      |              |             |      |          |       |           |       |                |
 | 3000 | Eye wash, portable, self-contained                                   |      |              |             | Ea.  | 1,250    |       |           | 1,250 | 1,375          |
 
-## 22 45 26 - Eye / Face Wash Equipment
+## 22 45 26.10 Eye / Face Wash Safety Equipment
 
 | ID   | Name                                                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22   | 45 26.10 Eye / Face Wash Safety Equipment                            |      |              |             |      |          |       |           |       |                |
 | 0010 | EYE / FACE WASH SAFETY EQUIPMENT, Rough-in not included              |      |              |             |      |          |       |           |       |                |
 | 4000 | Eye and face wash, combination fountain                              |      |              |             |      |          |       |           |       |                |
 | 4200 | Stainless steel, pedestal mounted                                    | 0-1  | 4            | 4           | Ea.  | 2,025    | 251   |           | 2,276 | 2,600          |
@@ -1566,11 +1375,10 @@ M
 
 ## 22 47 Drinking Fountains and Water Coolers
 
-### 22 47 13 - Drinking Fountains
+### 22 47 13.10 Drinking Water Fountains
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22   | 47 13.10 Drinking Water Fountains                                    |        |              |             |      |          |       |           |       |                |
 | 0010 | DRINKING WATER FOUNTAINS, For connection to cold water supply        |        |              |             |      |          |       |           |       |                |
 | 1000 | Wall mounted, non-recessed                                           | 1 Plum | 4            | 22          | Eo.  | 1,375    | 140   |           | 1,515 | 1,700          |
 | 1400 | Bronze, with no back                                                 |        | 4            | 2           |      | 1,575    | 140   |           | 1,715 | 1,950          |
@@ -1625,7 +1433,7 @@ M
 | 1100 | Two piece, close coupled               | Q-1  | 5.30        | 3.019       | Eo.  | 199      | 190   |           | 389   | 500            |
 | 1102 | Economy                                |      | 5.30        | 3.019       |      | 114      | 190   |           | 304   | 410            |
 | 1110 | Two piece, close coupled, dual flush   |      | 5.30        | 3.019       |      | 284      | 190   |           | 474   | 595            |
-| 1140 | Two piece, close coupled, 1.28 gpf, ADA| G    | 5.30        | 3.019       |      | 276      | 190   |           | 466   | 590            |
+| 1140 | Two piece, close coupled, 1.28 gpf, ADA|     | 5.30        | 3.019       |      | 276      | 190   |           | 466   | 590            |
 | 1960 | For color, add                        |      |             |             |      | 30%      |       |           |       |                |
 | 1980 | For rough-in, supply, waste and vent   | Q-1  | 3.05        | 5.246       | Ea.  | 370      | 330   |           | 700   | 9000           |
 
@@ -1650,9 +1458,9 @@ M
 | 1960 | 17" x 22", single bowl                 |      | 6.40        | 2.500       |      | 465      | 157   |           | 622   | 745            |
 | 2600 | Steel, enameled, 20" x 17", single bowl|      | 5.80        | 2.759       |      | 172      | 173   |           | 345   | 445            |
 | 2660 | 19" round                              | Q-1  | 5.80        | 2.759       | Ea.  | 198      | 173   |           | 371   | 475            |
-| 2900 | Vitreous china, 20" x 16", single bow! |      | 5.40        | 2.963       |      | 248      | 186   |           | 434   | 550            |
+| 2900 | Vitreous china, 20" x 16", single bowl |      | 5.40        | 2.963       |      | 248      | 186   |           | 434   | 550            |
 | 2960 | 20" x 17", single bowl                 |      | 5.40        | 2.963       |      | 147      | 186   |           | 333   | 440            |
-| 3020 | 19" round, single bow!                 |      | 5.40        | 2.963       |      | 146      | 186   |           | 332   | 440            |
+| 3020 | 19" round, single bowl                 |      | 5.40        | 2.963       |      | 146      | 186   |           | 332   | 440            |
 | 3200 | 22" x 13", single bowl                 |      | 5.40        | 2.963       |      | 253      | 186   |           | 439   | 555            |
 | 3560 | For color, add                         |      |             |             |      | 50%      |       |           |       |                |
 | 3580 | Rough in, supply, waste and vent for all above lavatories | Q-1  | 2.30        | 6.957       | Ea.  | 590      | 435   |           | 1,025 | 1,300          |
@@ -1752,10 +1560,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 # 22 47 Fountains and Water Coolers  
 ## 22 47 13 - Drinking Water Fountains
 
-Stainless steel, satin finish, single bubbler  
-Vitreous china, single bubbler  
-For rough-in  
-
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 4600 | Stainless steel, satin finish, single bubbler                        | .1 Plum| 2            | Eo .        |      | 1,700    | 140   |           | 1,840 | 2,075          |
@@ -1814,28 +1618,27 @@ For rough-in
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # 22 11 Facility Water Distribution  
-## 22 11 19 - Domestic Water Piping Specialties  
 ### 22 11 19.50 Vacuum Breakers
 
-| ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
-|------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|----------|----------------|
-| 1220 | 1/4" size                                                            | 1 Stpi | 24           | .333        | Ea.  | 187      | 23.50  |           | 210.50   | 240            |
-| 1230 | 3/8" size                                                            |        | 24           | .333        |      | 187      | 23.50  |           | 210.50   | 240            |
-| 1260 | For polished chrome finish, add                                       |        |              |             |      | 13 %     |        |           |          |                |
-| 2000 | Anti-siphon, non-continuous pressure type                            |        |              |             |      |          |        |           |          |                |
-| 2010 | Hot or cold water 125 psi -210 °F                                    |        |              |             |      |          |        |           |          |                |
-| 2020 | Bronze body                                                          |        |              |             |      |          |        |           |          |                |
-| 2030 | 1/4" size                                                            | 1 Stpi | 24           | .333        | Ea.  | 114      | 23.50  |           | 137.50   | 160            |
-| 2040 | 3/8" size                                                            |        | 24           | .333        |      | 114      | 23.50  |           | 137.50   | 160            |
-| 2050 | 1/2" size                                                            |   |   | 24     | .333 |      | 128      | 23.50  |           | 151.50   | 176            |
-| 2060 | 3/4" size                                                            | [  | 20           | .400        |      | 153      | 28     |           | 181      | 210            |
-| 2070 | 1" size                                                              |        | 19           | .421        |      | 236      | 29.50  |           | 265.50   | 305            |
-| 2080 | 1-1/4" size                                                          |        | 15           | .533        |      | 415      | 37.50  |           | 452.50   | 510            |
-| 2090 | 1-1/2" size                                                          |        | 13           | .615        |      | 460      | 43.50  |           | 503.50   | 570            |
-| 2100 | 2" size                                                              |        | 11           | .727        |      | 755      | 51     |           | 806      | 905            |
-| 2110 | 2-1/2" size                                                          |        | 8            | 1           |      | 2,175    | 70.50  |           | 2,245.50 | 2,475          |
-| 2120 | 3" size                                                              |        | 6            | 1.333       |      | 2,875    | 94     |           | 2,969    | 3,325          |
-| 2150 | For polished chrome finish, add                                       |        |              |             |      | 50 %     |        |           |          |                |
+| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total     | Total Incl O&P |
+|-------|----------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|-----------|----------------|
+| 1220  | 1/4" size                                    | 1 Stpi | 24           | .333        | Ea.  | 187      | 23.50  |           | 210.50    | 240            |
+| 1230  | 3/8" size                                    |        | 24           | .333        |      | 187      | 23.50  |           | 210.50    | 240            |
+| 1260  | For polished chrome finish, add               |        |              |             |      | 13%      |        |           |           |                |
+| 2000  | Anti-siphon, non-continuous pressure type    |        |              |             |      |          |        |           |           |                |
+| 2010  | Hot or cold water 125 psi - 210°F            |        |              |             |      |          |        |           |           |                |
+| 2020  | Bronze body                                  |        |              |             |      |          |        |           |           |                |
+| 2030  | 1/4" size                                    | 1 Stpi | 24           | .333        | Ea.  | 114      | 23.50  |           | 137.50    | 160            |
+| 2040  | 3/8" size                                    |        | 24           | .333        |      | 114      | 23.50  |           | 137.50    | 160            |
+| 2050  | 1/2" size                                    |        | 24           | .333        |      | 128      | 23.50  |           | 151.50    | 176            |
+| 2060  | 3/4" size                                    |        | 20           | .400        |      | 153      | 28     |           | 181       | 210            |
+| 2070  | 1" size                                      |        | 19           | .421        |      | 236      | 29.50  |           | 265.50    | 305            |
+| 2080  | 1-1/4" size                                  |        | 15           | .533        |      | 415      | 37.50  |           | 452.50    | 510            |
+| 2090  | 1-1/2" size                                  |        | 13           | .615        |      | 460      | 43.50  |           | 503.50    | 570            |
+| 2100  | 2" size                                      |        | 11           | .727        |      | 755      | 51     |           | 806       | 905            |
+| 2110  | 2-1/2" size                                  |        | 8            | 1           |      | 2,175    | 70.50  |           | 2,245.50  | 2,475          |
+| 2120  | 3" size                                      |        | 6            | 1.333       |      | 2,875    | 94     |           | 2,969     | 3,325          |
+| 2150  | For polished chrome finish, add               |        |              |             |      | 50%      |        |           |           |                |
 
 ---
 
@@ -1889,37 +1692,26 @@ For customer support on your Building Construction Costs with RSMeans data, call
 Building Construction Costs with RSMeans data, call 800.448.8182.
 
 For customer support on your
+### 22 51 19 100 Swimming Pool Water Treatment Equipment
 
-# 22221 Swimming 51ol PlumbingSwimming
-
-## 22 51 19  
-100  
-Swimming Pool WatPoolreatment EquipmPlumbing1 19.50 Swimming Pool FiltraSystemsuipment
-
-### 0010 SWIMMING POOL FILTRATION EQUIPMENT
-
-#### Daily Labor-  
-2022 Bare Costs  
-Total  
-Crew Output Hours Unit Material Labor Equip
+### 22 51 19.50 Swimming Pool Filtration Equipment
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 22    | 51 19 100 Swimming Pool Water Treatment Equipment |        |             |             |      |          |        |           |         |                |
-| 22    | 51 19.50 Swimming Pool Filtration Equipment      |        |             |             |      |          |        |           |         |                |
 | 0010  | SWIMMING POOL FILTRATION EQUIPMENT               |        |             |             |      |          |        |           |         |                |
 | 0900  | Filter system, sand or diatomite type, incl.pump, 6,000 gal./hr. | 2 Plum | 1.80        | 8.889       | Total| 2,400    | 620    |           | 3,020   | 3,575          |
 | 1020  | Add for chlorination system, 800 S.F. pool       |        | 3           | 5.333       | Ea.  | 267      | 370    |           | 637     | 850            |
 | 1040  | 5,000 S.F. pool                                 |        | 3           | 5.333       | "    | 2,025    | 370    |           | 2,395   | 2,775          |
 
 ---
-
 ## 22 52 Fountain Plumbing Systems
+
+### 22 52 16 Fountain Pumps
+
+### 22 52 16.10 Fountain Water Pumps
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 22    | 52 16 Fountain Pumps                   |        |             |             |      |          |        |           |         |                |
-| 22    | 52 16.10 Fountain Water Pumps          |        |             |             |      |          |        |           |         |                |
 | 0010  | FOUNTAIN WATER PUMPS                   |        |             |             |      |          |        |           |         |                |
 | 0100  | Pump w/controls                        |        |             |             |      |          |        |           |         |                |
 | 0200  | Single phase, 100' cord, 1/2 HP pump   | 2 Skwk | 4.40        | 3.636       | Ea.  | 1,425    | 214    |           | 1,639   | 1,900          |
@@ -1934,12 +1726,12 @@ Crew Output Hours Unit Material Labor Equip
 | 2000  | DESIGN NOTE: Use two horsepower per surface acre. |        |             |             |      |          |        |           |         |                |
 
 ---
-
 ## 22 52 33 - Fountain Ancillary
+
+### 22 52 33.10 Fountain Miscellaneous
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total      | Total Incl O&P |
 |-------|----------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|------------|----------------|
-| 22    | 52 33.10 Fountain Miscellaneous        |        |             |             |      |          |        |           |            |                |
 | 0010  | FOUNTAIN MISCELLANEOUS                 |        |             |             |      |          |        |           |            |                |
 | 1300  | Lights w/mounting kits, 200 watt       | 2 Skwk | 18          | .889        | Ea.  | 1,225    | 52.50  |           | 1,277.50   | 1,425          |
 | 1400  | 300 watt                              |        | 18          | .889        |      | 1,400    | 52.50  |           | 1,452.50   | 1,625          |
@@ -1952,22 +1744,23 @@ Crew Output Hours Unit Material Labor Equip
 
 ### 22 66 53 - Laboratory Chemical -Waste and Vent Piping
 
+#### 22 66 53.30 Glass Pipe
+
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 22    | 66 53.30 Glass Pipe                    |        |             |             |      |          |        |           |         |                |
 | 0010  | GLASS PIPE, Borosilicate, couplings & clevis hanger assemblies, 10' OC |        |             |             |      |          |        |           |         |                |
 | 0020  | Drainage                               |        |             |             |      |          |        |           |         |                |
 | 1100  | 1-1/2" diameter                        | Q -1   | 52          | .308        | LF.  | 15       | 19.35  |           | 34.35   | 45.50          |
 | 1120  | 2" diameter                            |        | 44          | .364        |      | 19.60    | 23     |           | 42.60   | 55.50          |
 | 1140  | 3" diameter                            |        | 39          | .410        |      | 26       | 26     |           | 52      | 67.50          |
 | 1160  | 4" diameter                            | Q -1   | 30          | .533        | LF.  | 47       | 33.50  |           | 80.50   | 102            |
-| 1180  | 6" diameter                            |        | 26          | 1.615       | "    | 88.50    | 38.50  |           | 127     | 155            |
+| 1180  |" diameter                            |        | 26          | 1.615       | "    | 88.50    | 38.50  |           | 127     | 155            |
 
 ---
+### 22 66 53.60 Corrosion Resistant Pipe
 
 | ID    | Name                                   | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 22    | 66 53.60 Corrosion Resistant Pipe      |        |             |             |      |          |        |           |         |                |
 | 0010  | CORROSION RESISTANT PIPE, No couplings or hangers |        |             |             |      |          |        |           |         |                |
 | 0020  | Iron alloy, drain, mechanical joint    |        |             |             |      |          |        |           |         |                |
 | 1000  | 1-1/2" diameter                        | Q -1   | 7022        | .229        | L.F. | 93       | 14.35  |           | 107.35  | 2242           |
@@ -1984,7 +1777,7 @@ Crew Output Hours Unit Material Labor Equip
 
 # Facility Water Distribution Piping
 
-## Pipe, Plastic
+## 22 11 13.74 Facility Water Distribution Piping Pipe, Plastic
 
 | ID   | Name                                 | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------------------------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2008,9 +1801,9 @@ Crew Output Hours Unit Material Labor Equip
 | 7790 | 2" diameter                          |      |             |             |      | 11.75    |       |           | 11.75 | 12.95          |
 | 7796 | Most sizes available in red or blue  |      |             |             |      |          |       |           |       |                |
 
-# Domestic Water Piping Specialties
+# 
 
-## Flexible Connectors
+## 22 11 19.10 Domestic Water Piping Specialties Flexible Connectors
 
 | ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|-------|----------------|
@@ -2025,7 +1818,7 @@ Crew Output Hours Unit Material Labor Equip
 | 2100 | 12" long                                                  | 1 Plum | 36          | .222        | Ea.  | 10.25    | 15.50  |           | 25.75 | 34.50          |
 | 2260 | 24" long                                                  | 1 Plum | 34          | .235        | Eq.  | 15.25    | 16.40  |           | 31.65 | 41.50          |
 
-## Flexible Metal Hose
+## 22 11 19.14 Domestic Water Piping Specialties Flexible Metal Hose
 
 | ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total | Total Incl O&P |
 |------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|-------|----------------|
@@ -2037,7 +1830,7 @@ Crew Output Hours Unit Material Labor Equip
 | 0200 | 1-1/2" diameter x 18"                                     |        |             | .615        |      | 71       | 43.50  |           | 114.50| 143            |
 | 0220 | 2" diameter x 18"                                         |        | 11          | .727        |      | 119      | 51     |           | 170   | 208            |
 
-## Pressure Regulators
+## 22 11 19.26 Domestic Water Piping Specialties Pressure Regulators
 
 | ID   | Name                                                      | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total     | Total Incl O&P |
 |------|-----------------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|-----------|----------------|
@@ -2056,18 +1849,8 @@ Crew Output Hours Unit Material Labor Equip
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 22 13 FaFacilityanitary Sewerage
-
-## 22 Sanitarynitary Waste Piping SpecSewerage
-
-### 22 13 19.13 Sanitary Drains
-
-With polished bronze top  
-Heavy duty, with sediment bucket, Cl, 12" diam. loose grate  
-2", 3", 4", 5", and 6" pipe size  
-With polished
-
 ### 22 13 19 Sanitary Waste Piping Specialties
+### 22 13 19.13 Sanitary Drains
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2082,11 +1865,10 @@ With polished
 
 ---
 
-## 22 13 23 Sanitary Waste Interceptors
+## 22 13 23.10 Sanitary Waste Interceptors
 
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22 13 23.10 | Interceptors                                                    |        |              |             |      |          |       |           |       |                |
 | 0010  | INTERCEPTORS                                                         |        |              |             |      |          |       |           |       |                |
 | 0150  | Grease, fabricated steel, 4 GPM, 8 lb. fat capacity                  | 1 Plum |              | 2           | Ea.  | 1,850    | 140   |           | 1,990 | 2,225          |
 | 0200  | 7 GPM, 14 lb. fat capacity                                           |        | 4            | 2           |      | 2,475    | 140   |           | 2,615 | 2,925          |
@@ -2149,15 +1931,10 @@ With polished
 # 22 42 C Commercial Plumbing Fixtures
 
 ## 22 42 23 - Commercial Plumbing Showers
-
-Group Showers  
-Group, w/pressure balancing valve, rough-in and rigging not included  
-Column, 6 heads, no receptors, less partitions  
-With sta
+## 22 42 23.30 Group Showers
 
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22 42 23.30 | Group Showers | | | | | | | | | |
 | 0010 | GROUP SHOWERS | | | | | | | | | |
 | 6000 | Group, w/pressure balancing valve, rough-in and rigging not included | | | | | | | | | |
 | 6800 | Column, 6 heads, no receptors, less partitions | Q-1 | 31 | 5.333 | Ea. | 10,000 | 335 |  | 10,335 | 11,500 |
@@ -2171,10 +1948,10 @@ With sta
 ---
 
 ## 22 42 33 - Wash Fountains
+## 22 42 33.20 Commercial Wash Fountains
 
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22 42 33.20 | Commercial Wash Fountains | | | | | | | | | |
 | 0010 | COMMERCIAL WASH FOUNTAINS | | | | | | | | | |
 | 1900 | Group, foot control | | | | | | | | | |
 | 2000 | Precast terrazzo, circular, 36" diam, 5 or 6 persons | 222 | 3 | 8 | Ea. | 7,425 | 520 |  | 7,945 | 8,925 |
@@ -2197,11 +1974,11 @@ With sta
 
 ---
 
-## 22 42 39B - Commercial Faucets, Supplies, and Trim
+## 22 42 39 - Commercial Faucets, Supplies, and Trim
+## 22 42 39.10 Commercial Faucets, Supplies, and Trim Faucets and Fittings
 
 | ID   | Name         | Crew | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|--------------|------|-------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 22 42 39.10 | Faucets and Fittings | | | | | | | | | |
 | 0010 | FAUCETS AND FITTINGS | | | | | | | | | |
 | 0840 | Flush valves, with vacuum breaker | | | | | | | | | |
 | 0850 | Water closet | | | | | | | | | |
@@ -2219,8 +1996,8 @@ With sta
 | 0971 | Automatic flush sensor and operator for | | | | | | | | | |
 | 0972 | urinals or water closets, standard | Plum | 8 |  | Ea. | 580 | 70 |  | 650 | 745 |
 | 0980 | High efficiency water saving | | | | | | | | | |
-| 0984 | Water closets, 1.28 gpf | G 1 Plum | 8 |  | Ea. | 450 | 702 |  | 522 | 600 |
-| 0988 | Urinals, .5 gpf | G 1 Plum | 8 |  | Eo. | 450 | 70 |  | 520 | 600 |
+| 0984 | Water closets, 1.28 gpf |  1 Plum | 8 |  | Ea. | 450 | 702 |  | 522 | 600 |
+| 0988 | Urinals, .5 gpf |  1 Plum | 8 |  | Eo. | 450 | 70 |  | 520 | 600 |
 
 ---
 
@@ -2312,13 +2089,9 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# Se22-closing, c42ter set
-
-## 22 42 39.30 Carriers and Supports
-
-### 0010 CARRIERS AND SUPPORTS, For plumbing fixtures
 
 #### 22 42 39 - Commercial Faucets, Supplies, and Trim
+## 22 42 39.30 Commercial Faucets, Supplies, and Trim Carriers and Supports
 
 | ID   | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -2326,55 +2099,57 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 2800 | Self closing, center set                                             | 1 Plum | 10           | .800        | Ea . | 149      | 56    |           | 205   | 248            |
 | 2810 | Automatic sensor and operator, with faucet head                      |        | 6.15         | 1.301       |      | 615      | 91    |           | 706   | 810            |
 | 3000 | Service sink faucet, cast spout, pail hook, hose end                 |        | 14           | .571        |      | 76       | 40    |           | 116   | 143            |
-|      |                                                                      |        |              |             |      |          |       |           |       |                |
-| 22 42 39.30 | Carriers and Supports                                         |        |              |             |      |          |       |           |       |                |
-| 0010 | CARRIERS AND SUPPORTS, For plumbing fixtures                         |        |              |             |      |          |       |           |       |                |
-| 0500 | Drinking fountain, wall mounted                                      |        |              |             |      |          |       |           |       |                |
-| 0600 | Plate type with studs, top back plate                                | 1 Plum | 7            | 1.143       | Ea . | 73       | 802   |           | 153   | 200            |
-| 0700 | Top front and back plate                                             |        | 7            | 1.143       |      | ៩160     | 80    |           | 240 € | 294            |
-| 0800 | Top & bottom, front & back plates, w /bearing jacks                  |        | 7            | 1.143       |      | 186      | 80    |           | 266   | 325            |
-| 3000 | Lavatory, concealed arm                                              |        |              |             |      |          |       |           |       |                |
-| 3050 | Floor mounted, single                                                |        |              |             |      |          |       |           |       |                |
-| 3100 | High back fixture                                                    | Plum   | 6            | 1.333       | Ea . | 725      | 93    |           | 818   | 940            |
-| 3200 | Flot slab fixture                                                    |        | 6            | 1.333       |      | 850      | 93    |           | 943   | 1,075          |
-| 3220 | ADA compliant                                                        |        | 6            | 1.333       |      | 765      | 93    |           | 858   | 980            |
-| 3250 | Floor mounted, back to back                                          |        |              |             |      |          |       |           |       |                |
-| 3300 | High back fixtures                                                   | 1 Plum | 555          | 1.600       | Ea . | 1,025    | 112   |           | 1,137 | 1,325          |
-| 3400 | Flat slab fixtures                                                   |        | 5            | 1.600       |      | 1,275    | 112   |           | 1,387 | 1,575          |
-| 3430 | ADA compliant                                                        |        |              | 1.600       |      | 890      | 112   |           | 1,002 | 1,150          |
-| 3500 | Wall mounted, instud or masonry                                      | رك     |              |             |      |          |       |           |       |                |
-| 3600 | High back fixture                                                    | 1 Plum | 99           | 1.333       | Ea . | 430      | 93    |           | 523   | 615            |
-| 3700 | Flat slab fixture                                                    |        |              | 1.333       | "    | 550      | 93    |           | 643   | 745            |
-| 4600 | Sink, floor mounted                                                  |        |              |             |      |          |       |           |       |                |
-| 4650 | Exposed arm system                                                   |        |              |             |      |          |       |           |       |                |
-| 4700 | Single heavy fixture                                                 | 1 Plum | 55           | 1.600       | Ea . | 530      | 112   |           | 642   | 745            |
-| 4750 | Single heavy sink with slab                                          |        | 5            | 1.600       |      | 1,775    | 112   |           | 1,887 | 2,125          |
-| 4800 | Back to back, standard fixtures                                      |        | 555          | 1.600       |      | 850      | 112   |           | 962   | 1,100          |
-| 4850 | Back to back, heavy fixtures                                         |        |              | 1.600       |      | 1,450    | 112   |           | 1,562 | 1,775          |
-| 4900 | Back to back, heavy sink with slab                                   |        | 5            | 1.600       |      | 2,100    | 112   |           | 2,212 | 2,500          |
-| 4950 | Exposed offset arm system                                            |        |              |             |      |          |       |           |       |                |
-| 5000 | Single heavy deep fixture                                            | 1 Plum | 5            | 1.600       | Ea . | 1,150    | 122   |           | 1,262 | 1,450          |
-| 5100 | Plate type system                                                    |        |              |             |      |          |       |           |       |                |
-| 5200 | With bearing jacks, single fixture                                   | 1 Plum | 5            | 1.600       | Ea . | 1,675 .  | 112   |           | 1,787 | 2,025          |
-| 5300 | With exposed arms, single heavy fixture                              |        | 5            | 1.600       | |    | 1,150    | 112   |           | 1,262 | 1,450          |
-| 5400 | Wall mounted, exposed arms, single heavy fixture                     |        | 5            | 1.600       |      | 720      | 112   |           | 832   | 955            |
-| 6000 | Urinal, floor mounted, 2" or 3" coupling, blowout type               |        | 6            | 1.333       |      | 775      | 93    |           | 868   | 990            |
-| 6100 | With fixture or hanger bolts, blowout or washout                     |        | 6            | 1.333       |      | 550      | 93    |           | 643   | 750            |
-| 6200 | With bearing plate                                                   |        | 6            | 1.333       |      | 615      | 93    |           | 708   | 820            |
-| 6300 | Wall mounted, plate type system                                      |        | 6            | 1.333       |      | 550      | 93    |           | 643   | 750            |
-| 6980 | Water closet, siphon jet                                             |        |              |             |      |          |       |           |       |                |
-| 7000 | Horizontal, adjustable, caulk                                        |        |              |             |      |          |       |           |       |                |
-| 7040 | Single, 4" pipe size                                                 | Plum   | 5.33         | 1.501       | Ea . | 1,525    | 105   |           | 1,630 | 1,825          |
-| 7050 | 4" pipe size, ADA compliant                                          |        | 5.33         | 1.501       |      | 655      | 105   |           | 760   | 875            |
-| 7060 | 5" pipe size                                                         | رك     | 5.33         | 1.501       |      | 1,125    | 105   |           | 1,230 | 1,375          |
-| 7100 | Double, 4" pipe size                                                 |        | 5            | 1.600       |      | 2,850    | 112   |           | 2,962 | 3,325          |
-| 7110 | 4" pipe size, ADA compliant                                          |        | 5            | 1.600       |      | 1,100    | 112   |           | 1,212 | 1,375          |
-| 7120 | 5" pipe size                                                         |        | 5            | 1.600       |      | 1,625    | 112   |           | 1,737 | 1,975          |
-| 7160 | Horizontal, adjustable, extended, caulk                              |        |              |             |      |          |       |           |       |                |
-| 7180 | Single, 4" pipe size                                                 | 1 Plum | 5.33         | 1.501       | Ea . | 1,675    | 105   |           | 1,780 | 2,000          |
-| 7200 | 5" pipe size                                                         |        | 5.33         | 1.501       |      | 2,100    | 105   |           | 2,205 | 2,450          |
-| 7240 | Double, 4" pipe size                                                 |        | 5            | 1.600       |      | 2,775    | 112   |           | 2,887 | 3,225          |
-| 7260 | 5" pipe size                                                         |        | 5            | 1.600       |      | 2,900    | 112   |           | 3,012 | 3,375          |
+## 22 42 39.30 Commercial Faucets, Supplies, and Trim Carriers and Supports
+
+| ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor | Equipment | Total  | Total Incl O&P |
+|-------|----------------------------------------------------------------------|---------|--------------|-------------|-------|----------|-------|-----------|--------|----------------|
+| 0010  | Carriers and supports, for plumbing fixtures                         |         |              |             |       |          |       |           |        |                |
+| 0500  | Drinking fountain, wall mounted                                      |         |              |             |       |          |       |           |        |                |
+| 0600  | Plate type with studs, top back plate                                | 1 Plum  | 7            | 1.143       | Ea.   | 73       | 80    |           | 153    | 200            |
+| 0700  | Top front and back plate                                             |         | 7            | 1.143       |       | 160      | 80    |           | 240    | 294            |
+| 0800  | Top & bottom, front & back plates, with bearing jacks                |         | 7            | 1.143       |       | 186      | 80    |           | 266    | 325            |
+| 3000  | Lavatory, concealed arm                                              |         |              |             |       |          |       |           |        |                |
+| 3050  | Floor mounted, single                                                |         |              |             |       |          |       |           |        |                |
+| 3100  | High back fixture                                                    | Plum    | 6            | 1.333       | Ea.   | 725      | 93    |           | 818    | 940            |
+| 3200  | Flat slab fixture                                                    |         | 6            | 1.333       |       | 850      | 93    |           | 943    | 1,075          |
+| 3220  | ADA compliant                                                        |         | 6            | 1.333       |       | 765      | 93    |           | 858    | 980            |
+| 3250  | Floor mounted, back to back                                          |         |              |             |       |          |       |           |        |                |
+| 3300  | High back fixtures                                                   | 1 Plum  | 5            | 1.600       | Ea.   | 1,025    | 112   |           | 1,137  | 1,325          |
+| 3400  | Flat slab fixtures                                                   |         | 5            | 1.600       |       | 1,275    | 112   |           | 1,387  | 1,575          |
+| 3430  | ADA compliant                                                        |         | 5            | 1.600       |       | 890      | 112   |           | 1,002  | 1,150          |
+| 3500  | Wall mounted, in-stud or masonry                                     |         |              |             |       |          |       |           |        |                |
+| 3600  | High back fixture                                                    | 1 Plum  | 9            | 1.333       | Ea.   | 430      | 93    |           | 523    | 615            |
+| 3700  | Flat slab fixture                                                    |         | 9            | 1.333       | Ea.   | 550      | 93    |           | 643    | 745            |
+| 4600  | Sink, floor mounted                                                  |         |              |             |       |          |       |           |        |                |
+| 4650  | Exposed arm system                                                   |         |              |             |       |          |       |           |        |                |
+| 4700  | Single heavy fixture                                                 | 1 Plum  | 5            | 1.600       | Ea.   | 530      | 112   |           | 642    | 745            |
+| 4750  | Single heavy sink with slab                                          |         | 5            | 1.600       |       | 1,775    | 112   |           | 1,887  | 2,125          |
+| 4800  | Back to back, standard fixtures                                      |         | 5            | 1.600       |       | 850      | 112   |           | 962    | 1,100          |
+| 4850  | Back to back, heavy fixtures                                         |         | 5            | 1.600       |       | 1,450    | 112   |           | 1,562  | 1,775          |
+| 4900  | Back to back, heavy sink with slab                                   |         | 5            | 1.600       |       | 2,100    | 112   |           | 2,212  | 2,500          |
+| 4950  | Exposed offset arm system                                            |         |              |             |       |          |       |           |        |                |
+| 5000  | Single heavy deep fixture                                            | 1 Plum  | 5            | 1.600       | Ea.   | 1,150    | 122   |           | 1,262  | 1,450          |
+| 5100  | Plate type system                                                    |         |              |             |       |          |       |           |        |                |
+| 5200  | With bearing jacks, single fixture                                   | 1 Plum  | 5            | 1.600       | Ea.   | 1,675    | 112   |           | 1,787  | 2,025          |
+| 5300  | With exposed arms, single heavy fixture                              |         | 5            | 1.600       | Ea.   | 1,150    | 112   |           | 1,262  | 1,450          |
+| 5400  | Wall mounted, exposed arms, single heavy fixture                     |         | 5            | 1.600       | Ea.   | 720      | 112   |           | 832    | 955            |
+| 6000  | Urinal, floor mounted, 2" or 3" coupling, blowout type               |         | 6            | 1.333       |       | 775      | 93    |           | 868    | 990            |
+| 6100  | With fixture or hanger bolts, blowout or washout                     |         | 6            | 1.333       |       | 550      | 93    |           | 643    | 750            |
+| 6200  | With bearing plate                                                   |         | 6            | 1.333       |       | 615      | 93    |           | 708    | 820            |
+| 6300  | Wall mounted, plate type system                                      |         | 6            | 1.333       |       | 550      | 93    |           | 643    | 750            |
+| 6980  | Water closet, siphon jet                                             |         |              |             |       |          |       |           |        |                |
+| 7000  | Horizontal, adjustable, caulk                                        |         |              |             |       |          |       |           |        |                |
+| 7040  | Single, 4" pipe size                                                 | Plum    | 5.33         | 1.501       | Ea.   | 1,525    | 105   |           | 1,630  | 1,825          |
+| 7050  | 4" pipe size, ADA compliant                                          |         | 5.33         | 1.501       |       | 655      | 105   |           | 760    | 875            |
+| 7060  | 5" pipe size                                                         |         | 5.33         | 1.501       |       | 1,125    | 105   |           | 1,230  | 1,375          |
+| 7100  | Double, 4" pipe size                                                 |         | 5            | 1.600       |       | 2,850    | 112   |           | 2,962  | 3,325          |
+| 7110  | 4" pipe size, ADA compliant                                          |         | 5            | 1.600       |       | 1,100    | 112   |           | 1,212  | 1,375          |
+| 7120  | 5" pipe size                                                         |         | 5            | 1.600       |       | 1,625    | 112   |           | 1,737  | 1,975          |
+| 7160  | Horizontal, adjustable, extended, caulk                              |         |              |             |       |          |       |           |        |                |
+| 7180  | Single, 4" pipe size                                                 | 1 Plum  | 5.33         | 1.501       | Ea.   | 1,675    | 105   |           | 1,780  | 2,000          |
+| 7200  | 5" pipe size                                                         |         | 5.33         | 1.501       |       | 2,100    | 105   |           | 2,205  | 2,450          |
+| 7240  | Double, 4" pipe size                                                 |         | 5            | 1.600       |       | 2,775    | 112   |           | 2,887  | 3,225          |
+| 7260  | 5" pipe size                                                         |         | 5            | 1.600       |       | 2,900    | 112   |           | 3,012  | 3,375          |
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
