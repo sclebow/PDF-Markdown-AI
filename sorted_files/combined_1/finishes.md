@@ -1644,27 +1644,27 @@ For customer support on your Building Construction Costs with RSMeans data, call
 ### 09 51 23 - Acoustical Tile Ceilings  
 #### 09 51 23.10 Suspended Acoustic Ceiling Tiles
 
-| ID    | Name                                             | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|--------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 0010  | SUSPENDED ACOUSTIC CEILING TILES, not including  |        |              |             |      |          |       |           |       |                |
-| 0100  | suspension system                                |        |              |             |      |          |       |           |       |                |
-| 1110  | Mineral fiber tile, lay in, 2' x 2' or 2' x 4', 5/8" thick, fine texture | 1 Carp | 625 | .013 | S.F | 2.25 | .72 | | 2.97 | 32333435633 |
-| 1115  | Rough textured                                   | [      | 625          | .013        |      | 1.17     | .72   |           | 1.89  | 2.             |
-| 1125  | 3/4" thick, fine textured                        | 1600   |              | .013   |||   | 2.16     | .75   |           | 2.91  | 3.             |
-| 1130  | Rough textured                                   |        | 600          | .013   |    | 2.07     | .75   |           | 2.82  | 3.             |
-| 1135  | Fissured                                         |        | 600.013      |             |      | 2.28     | .75   |           | 3.03  | 3.             |
-| 1150  | Tegular, 5/8" thick, fine textured               |        | 470          | .017        |      | 2.55     | .96   |           | 3.51  |                |
-| 1155  | Rough textured                                   |        | 470          | .017        |      | 1.92     | .96   |           | 2.88  | 3.             |
-| 1165  | 3/4" thick, fine textured                        |        | 450          | .018        |      | 4.26     | 1     |           | 5.26  | 6.             |
-| 1170  | Rough textured                                   |        | 450          | .018        |      | 1.42     | 1     |           | 2.42  | 3.             |
-| 1175  | Fissured                                         |        | 450          | .018        |      | 1.77     |       |           | 2.77  |                |
-| 1185  | For plastic film face, add                       |        |              |             |      | .76      |       |           | .76   |                |
-| 1190  | For fire rating, add                             |        |              |             |      | .55      |       |           | .55   |                |
-| 3720  | Mineral fiber, 24" x 24" or 48", reveal edge, painted, 5/8" thick | 11 Carp : | 600 | 013 | | 1.55 | .75 | | 2.30 | 28.23 |
-| 3740  | 3/4" thick                                       |        | 575          | .014        |      | 1.77     | .78   |           | 2.55  | 3.             |
-| 5020  | 66-78% recycled content, 3/4" thick              | 55G    | 600          | .013        |      | 6.90     | .75   |           | 7.65  | 8.             |
-| 5040  | Mylar, 42% recycled content, 3/4" thick          | G      | 600          | .013        |      | 4.85     | .75   |           | 5.60  | 6.             |
-| 6000  | Remove & install new ceiling tiles, min fiber, 2' x 2' or 2' x 4', 5/8" thk. |        | 335 | .024 | | 2.25 | 1.34 | | 3.59 | 4. |
+| ID    | Name                                                                                                   | Crew     | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|-------|--------------------------------------------------------------------------------------------------------|----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
+| 0010  | SUSPENDED ACOUSTIC CEILING TILES, not including                                                        |          |              |             |      |          |       |           |       |                |
+| 0100  | Suspension system                                                                                      |          |              |             |      |          |       |           |       |                |
+| 1110  | Mineral fiber tile, lay-in, 2' x 2' or 2' x 4', 5/8" thick, fine texture                              | 1 Carp   | 625          | .013        | S.F. | 2.25     | .72   |           | 2.97  | 3.23           |
+| 1115  | Rough textured                                                                                         |          | 625          | .013        |      | 1.17     | .72   |           | 1.89  | 2.00           |
+| 1125  | 3/4" thick, fine textured                                                                              |          | 600          | .013        |      | 2.16     | .75   |           | 2.91  | 3.00           |
+| 1130  | Rough textured                                                                                         |          | 600          | .013        |      | 2.07     | .75   |           | 2.82  | 3.00           |
+| 1135  | Fissured                                                                                               |          | 600          | .013        |      | 2.28     | .75   |           | 3.03  | 3.00           |
+| 1150  | Tegular, 5/8" thick, fine textured                                                                    |          | 470          | .017        |      | 2.55     | .96   |           | 3.51  |                |
+| 1155  | Rough textured                                                                                         |          | 470          | .017        |      | 1.92     | .96   |           | 2.88  | 3.00           |
+| 1165  | 3/4" thick, fine textured                                                                              |          | 450          | .018        |      | 4.26     | 1.00  |           | 5.26  | 6.00           |
+| 1170  | Rough textured                                                                                         |          | 450          | .018        |      | 1.42     | 1.00  |           | 2.42  | 3.00           |
+| 1175  | Fissured                                                                                               |          | 450          | .018        |      | 1.77     | 1.00  |           | 2.77  |                |
+| 1185  | For plastic film face, add                                                                             |          |              |             |      | .76      |       |           | .76   |                |
+| 1190  | For fire rating, add                                                                                   |          |              |             |      | .55      |       |           | .55   |                |
+| 3720  | Mineral fiber, 24" x 24" or 48", reveal edge, painted, 5/8" thick                                     | 1 Carp   | 600          | .013        |      | 1.55     | .75   |           | 2.30  | 2.82           |
+| 3740  | 3/4" thick                                                                                             |          | 575          | .014        |      | 1.77     | .78   |           | 2.55  | 3.00           |
+| 5020  | 66-78% recycled content, 3/4" thick                                                                    | 1 Carp   | 600          | .013        |      | 6.90     | .75   |           | 7.65  | 8.00           |
+| 5040  | Mylar, 42% recycled content, 3/4" thick                                                                | 1 Carp   | 600          | .013        |      | 4.85     | .75   |           | 5.60  | 6.00           |
+| 6000  | Remove & install new ceiling tiles, min fiber, 2' x 2' or 2' x 4', 5/8" thick                          |          | 335          | .024        |      | 2.25     | 1.34  |           | 3.59  | 4.00           |
 
 ---
 
@@ -3264,7 +3264,7 @@ Total
 | 0170  | Finish coat, latex                                |         | 20           | .400        |      | 12.60    | 19.10  |           | 31.70   | 42.50          |
 | 0180  | Primer & 1 coat latex                             |         | 11           | .727        |      | 18.40    | 35     |           | 53.40   | 71.50          |
 | 0190  | Primer & 2 coats latex                            |         | 8            |             |      | 30.50    | 48     |           | 78.50   | 105            |
-| 0200  | Doors, French, both sides, 10-15 lite, incl. frame & trim |   |              |             |      |          |        |           |         |                |
+| 0200  | Doors, French, both sides, 10-15 lite, incl. frame & trim   |              |             |      |          |        |           |         |                |
 | 0210  | Roll & brush, primer                              | 1 Pord  | 6            | 1.333       | Ea.  | 2.68     | 63.50  |           | 66.18   | 97.50          |
 | 0220  | Finish coat, latex                                |         |              | 1.333       |      | 6        | 63.50  |           | 69.50   | 101            |
 | 0230  | Primer & 1 coat latex                             |         |              | 2.667       |      | 8.70     | 127    |           | 135.70  | 199            |
@@ -3846,9 +3846,9 @@ Panel do
 
 | ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |-------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
-| 0010  | DOORS & WINDOWS, INTERIOR LATEX                           | R099100-10 |              |             |      |          |         |           |         |                |
+| 0010  | DOORS & WINDOWS, INTERIOR LATEX                           |           |           |               |   |           |           |           |       |               |
 | 0100  | Doors, flush, both sides, incl. frame & trim              |         |              |             |      |          |         |           |         |                |
-| 0110  | Roll & brush, primer                                      | R099100-20 | 1 Pord      | 2215221     | .800 | Ea .     | 4.44    | 38        |         | 42.44   | 61             |
+| 0110  | Roll & brush, primer                                      |  1 Pord | 15           | .800        | Ea.      | 4.44    | 38        |         | 42.44   | 61             |
 | 0120  | Finish coat, latex                                        |         | 10           | .800        |      | 2.58     | 38      |           | 40.58   | 59             |
 | 0130  | Primer & coat latex                                       |         | 7            | 1.143       |      | 7        | 54.50   |           | 61.50   | 88             |
 | 0140  | Primer & 2 coats latex                                    |         | 5            | 1.600       |      | 9.45     | 76.50   |           | 85.95   | 123            |
@@ -3857,12 +3857,12 @@ Panel do
 | 0180  | Primer & 1 coat latex                                     |         |              | .727        |      | 7.40     | 35      |           | 42.40   | 59             |
 | 0190  | Primer & 2 coats latex                                    |         | 8            |             |      | 10       | 48      |           | 58      | 82             |
 | 0200  | Doors, French, both sides, 10-15 lit, incl. frame & trim  |         |              |             |      |          |         |           |         |                |
-| 0210  | Roll & brush, primer                                      | 1 Pord  | 6            | 1.333       | Ea . | 2.22     | 63.50   |           | 65.72   | 97             |
+| 0210  | Roll & brush, primer                                      | 1 Pord  | 6            | 1.333       | Ea.  | 2.22     | 63.50   |           | 65.72   | 97             |
 | 0220  | Finish coat, latex                                        |         | 6            | 1.333       |      | 1.29     | 63.50   |           | 64.79   | 96             |
 | 0230  | Primer & 1 coat latex                                     |         | 3            | 2.667       |      | 3.51     | 127     |           | 130.51  | 193            |
 | 0240  | Primer & 2 coats latex                                    |         | 2            | 4           |      | 4.72     | 191     |           | 195.72  | 288            |
 | 0260  | Doors, louvered, both sides, incl. frame & trim           |         |              |             |      |          |         |           |         |                |
-| 0270  | Roll & brush, primer                                      | 1 Pord  | 7            | 1.143       | Ea . | 4.44     | 54.50   |           | 58.94   | 86             |
+| 0270  | Roll & brush, primer                                      | 1 Pord  | 7            | 1.143       | Ea.  | 4.44     | 54.50   |           | 58.94   | 86             |
 | 0280  | Finish coat, latex                                        |         | 7            | 1.143       |      | 2.58     | 54.50   |           | 57.08   | 84             |
 | 0290  | Primer & 1 coat, latex                                    |         | 4            | 2           |      | 6.75     | 95.50   |           | 102.25  | 149            |
 | 0300  | Primer & 2 coats, latex                                   |         | 3            | 2.667       |      | 9.60     | 127     |           | 136.60  | 200            |
@@ -3871,7 +3871,7 @@ Panel do
 | 0340  | Primer & 1 coat, latex                                    |         |              | .727        |      | 7.40     | 35      |           | 42.40   | 59             |
 | 0350  | Primer & 2 coats, latex                                   |         |              |             |      | 10.15    | 48      |           | 58.15   | 82             |
 | 0360  | Doors, panel, both sides, incl. frame & trim              |         |              |             |      |          |         |           |         |                |
-| 0370  | Roll & brush, primer                                      | 1 Pord  | 9            | 1.333       | Ea . | 4.68     | 63.50   |           | 68.18   | 99             |
+| 0370  | Roll & brush, primer                                      | 1 Pord  | 9            | 1.333       | Ea.  | 4.68     | 63.50   |           | 68.18   | 99             |
 | 0380  | Finish coat, latex                                        |         | 6            | 1.333       |      | 2.58     | 63.50   |           | 66.08   | 97             |
 | 0390  | Primer & 1 coat, latex                                    |         | 3            | 2.667       |      | 7        | 127     |           | 134     | 197            |
 | 0400  | Primer & 2 coats, latex                                   |         | 2.50         | 3.200       |      | 9.60     | 153     |           | 162.60  | 238            |
@@ -5815,7 +5815,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 | ID   | Name                                      | Crew      | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------|-------------------------------------------|-----------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 2200 | Cork til, standard finish, 1/8" thick     | 555555GG  | 1 Tilf       | 315         | .025 | S.F.     | 3.51 | 1.35      |       | 4.86  | 57668a6        |
+| 2200 | Cork til, standard finish, 1/8" thick     | 1 Tilf    | 315          | .025        | S.F. | 3.51     | 1.35  |           |       | 4.86           |
 | 2250 | 3/16" thick                               |           | 315          | .025        |      | 5.10     | 1.35  |           | 6.45  |                |
 | 2300 | 5/16" thick                               |           | 315          | .025        |      | 4.49     | 1.35  |           | 5.84  |                |
 | 2350 | 1/2" thick                                |           | 315          | .025        |      | 4.12     | 1.35  |           | 5.47  |                |
@@ -7808,7 +7808,7 @@ Panel do
 |-------|-----------------------------------------------------------|---------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
 | 0010  | DOORS & WINDOWS, INTERIOR LATEX                           | R099100-10 |              |             |      |          |         |           |         |                |
 | 0100  | Doors, flush, both sides, incl. frame & trim              |         |              |             |      |          |         |           |         |                |
-| 0110  | Roll & brush, primer                                      | R099100-20 | 1 Pord      | 2215221     | .800 | Ea .     | 4.44    | 38        |         | 42.44   | 61             |
+| 0110  | Roll & brush, primer                                      | R099100-20 | 1 Pord      | 2215221     | .800 | Ea .     | 4.44    | 38      | 42.44   | 61             |
 | 0120  | Finish coat, latex                                        |         | 10           | .800        |      | 2.58     | 38      |           | 40.58   | 59             |
 | 0130  | Primer & coat latex                                       |         | 7            | 1.143       |      | 7        | 54.50   |           | 61.50   | 88             |
 | 0140  | Primer & 2 coats latex                                    |         | 5            | 1.600       |      | 9.45     | 76.50   |           | 85.95   | 123            |
