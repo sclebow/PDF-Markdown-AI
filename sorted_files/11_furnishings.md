@@ -1,40 +1,22 @@
-# 12 52 Seating
-
-## 12 52 23 - OSeatingeating
-
-### 12 52 23.13 Office Chairs
-
-2320  
-Maximum
-
-# 12 54 Hospitality Furniture
-
-## 12 54 13 BMONE Hotel and Motel Furniture
-
-### 12 54 13.10 Hotel Furniture
-
-0010 HOTEL FURNITURE  
-0020  
-0200  
-Standard quality set, minimum  
-Maximum
-
-## 12 54 16 Restaurant Furniture
-
----
+# 12 52 23.13| Office Chairs            
 
 | ID         | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |------------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 12 52 23.13| Office Chairs                                                        |         |              |             |      |          |       |           |       |                |
 | 2320       | Maximum                                                              |         |              |             | Ea.  | 74.50    |       |           | 74.50 | 82             |
-| 12 54      | Hospitality Furniture                                                |         |              |             |      |          |       |           |       |                |
-| 12 54 13   | BMONE Hotel and Motel Furniture                                      |         |              |             |      |          |       |           |       |                |
-| 12 54 13.10| Hotel Furniture                                                      |         |              |             |      |          |       |           |       |                |
+
+## 12 54      | Hospitality Furniture           
+## 12 54 13   | BMONE Hotel and Motel Furniture  
+## 12 54 13.10| Hotel Furniture                 
+| ID         | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010       | HOTEL FURNITURE                                                      |         |              |             |      |          |       |           |       |                |
 | 0020       | Standard quality set, minimum                                        |         |              |             |Room  | 2,675    |       |           |2,675  |2,925           |
 | 0200       | Maximum                                                              |         |              |             | "    | 8,500    |       |           |8,500  |9,350           |
-| 12 54 16   | Restaurant Furniture                                                 |         |              |             |      |          |       |           |       |                |
-| 12 54 16.10| Tables, Folding                                                      |         |              |             |      |          |       |           |       |                |
+
+# 12 54 16   | Restaurant Furniture  
+# 12 54 16.10| Tables, Folding       
+| ID         | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010       | TABLES, FOLDING Laminated plastictops                                |         |              |             |      |          |       |           |       |                |
 | 1000       | Tubular steel legs with glides                                       |         |              |             |      |          |       |           |       |                |
 | 1020       | 18" x 60", minimum                                                   |         |              |             | Ea.  | 157      |       |           |157    |172             |
@@ -43,7 +25,9 @@ Maximum
 | 1860       | Maximum                                                              |         |              |             |      |2,925     |       |           |2,925  |3,200           |
 | 2000       | Round, wood stained, plywood top, 60" diameter, minimum              |         |              |             | Ea.  | 125      |       |           |125    |137             |
 | 2020       | Maximum                                                              |         |              |             |      | 400      |       |           |400    |445             |
-| 12 54 16.20| Furniture, Restaurant                                                |         |              |             |      |          |       |           |       |                |
+# 12 54 16.20| Furniture, Restaurant       
+| ID         | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010       | FURNITURE, RESTAURANT                                                |         |              |             |      |          |       |           |       |                |
 | 0020       | Bars, buil-in, front bar                                             |1 Carp   | 5            | 1.600       | LF   | 320      | 905   |           |410    |490             |
 | 0200       | Back bar                                                             | "       | 5            | 1.600       | "    | 234      | 90    |           |324    |390             |
@@ -52,7 +36,9 @@ Maximum
 | 2020       | Maximum                                                              |         |              |             |      | 132      |       |           |132    |146             |
 | 2600       | Upholstered seat & back, arms, minimum                               |         |              |             |      | 182      |       |           |182    |200             |
 | 2620       | Maximum                                                              |         |              |             |      | 555      |       |           |555    |610             |
-| 12 54 16.70| Booths                                                               |         |              |             |      |          |       |           |       |                |
+# 12 54 16.70| Booths           
+| ID         | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
+|------------|----------------------------------------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
 | 0010       | BOOTHS                                                               |         |              |             |      |          |       |           |       |                |
 | 1000       | Banquet, upholstered seat and back, custom                           |         |              |             |      |          |       |           |       |                |
 | 1500       | Straight, minimum                                                    |2 Carp   | 40           | .400        | LF   | 225      |22.50  |           |247.50 |281             |
@@ -155,7 +141,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# Window Blinds
+# 12 21 13.13 Metal Vertical Louver Blinds
 
 | ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|-------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
@@ -165,7 +151,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1800  | 4" aluminum slats, minimum                |        | 460         | .017        |        | 10.05    | .98   |           | 11.03  | 12.50          |
 | 1900  | Maximum                                   |        | 400         | .0201       |        | 19       | 1.13  |           | 20.13  | 22.50          |
 
-# Curtains and Drapes
+# 12 22 16.10 Drapery Hardware
 
 | ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|-------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
@@ -194,7 +180,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 5000  | Stationary rods, first 2'                 |        |             |             |        | 8.20     |       |           | 8.20   | 9              |
 | 5020  | Each additional foot, add                 |        |             |             | LE     | 5.10     |       |           | 5.10   | 5.60           |
 
-# Blast Curtains
+# 12 22 16.20 Blast Curtains
 
 | ID    | Name                                      | Crew   | Daily Output | Labor-Hours | Unit   | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|-------------------------------------------|--------|-------------|-------------|--------|----------|-------|-----------|--------|----------------|
@@ -426,14 +412,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# 12125 Common Wo05 Results foCommonishings
-
-## 12 05 05 Selective DWorkition for FurnishResults 05 05.10 Selective Dforlition, InFurnishings0 SELECTIVE DEMOLITION, INTERIORS
+# 12 05 05 Selective Demolition for Furnishings 
+# 12 05 05.10 Selective Demolition, Interiors   
 
 | ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|-----------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
-| 12 05 05 | Selective Demolition for Furnishings                   |         |              |             |       |          |        |           |         |                |
-| 12 05 05.10 | Selective Demolition, Interiors                     |         |              |             |       |          |        |           |         |                |
 | 0010  | SELECTIVE DEMOLITION, INTERIORS                           |         |              |             |       |          |        |           |         |                |
 | 1100  | Casework, wood base cabinets                              | 2 Clab  | 24           | .667        | LF    |          | 30.50  |           | 30.50   | 45.50          |
 | 1200  | Countertop                                                |         | 96           | .167        |       | 7.60     |        |           | 7.60    | 11.30          |
@@ -458,12 +441,16 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 6400  | Booth, restaurant                                         | 2 Clab  | 80           | .200        | LF    | 9.10     |        |           | 9.10    | 13.60          |
 | 7400  | Office systems, furniture, cubicle                        | "       | 3000         | .005        | S.F.  | .24      | .241   |           |         | 36             |
 | 12 21 | Window Blinds                                             |         |              |             |       |          |        |           |         |                |
-| 12 21 13 | Horizontal Louver Blinds                               |         |              |             |       |          |        |           |         |                |
-| 12 21 13.13 | Metal Horizontal Louver Blinds                      |         |              |             |       |          |        |           |         |                |
+# 12 21 13 | Horizontal Louver Blinds           
+# 12 21 13.13 | Metal Horizontal Louver Blinds  
+| ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
 | 0010  | METAL HORIZONTAL LOUVER BLINDS                            |         |              |             |       |          |        |           |         |                |
 | 0020  | Horizontal, 1" aluminum slats, solid color, stock         | 1 Carp  | 590          | .014        | S.E   | 5.25     | .76    |           | 6.01    | 6.95           |
 | 0250  | 2" aluminum slats, solid color, stock                     |         | 590          | .014        |       | 6.70     | .76    |           | 7.46    | 8.55           |
-| 12 21 13.33 | Vinyl Horizontal Louver Blinds                      |         |              |             |       |          |        |           |         |                |
+# 12 21 13.33 | Vinyl Horizontal Louver Blinds  
+| ID    | Name                                                      | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|-----------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|---------|----------------|
 | 0010  | VINYL HORIZONTAL LOUVER BLINDS                            |         |              |             |       |          |        |           |         |                |
 | 0100  | 2" composite, 48" wide, 48" high                          | 1 Carp  | 222222222.26722 | Ea.    | 119      | 15     |           | 134     | 154            |
 | 0120  | 72" high                                                  |         | 29           | .276        |       | 161      | 15.55  |           | 176.55  | 200            |
@@ -485,7 +472,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 # 12 35 Specialty Casework - Healthcare Casework
 
-## 12 Casework Hospital Casework
+## 12 35 70.13 Casework Hospital Casework
 
 | ID    | Name                                                                 | Crew    | Daily Output | Labor-Hours | Unit  | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |-------|----------------------------------------------------------------------|---------|--------------|-------------|-------|----------|--------|-----------|----------|----------------|
@@ -567,10 +554,6 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ### 12 36 33.10 Ceramic Tile Countertops
 
-#### 0010 CERAMIC TILE COUNTERTOPS
-
-2300  
-Ceramic tile mosaic
 
 | ID    | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -582,7 +565,6 @@ Ceramic tile mosaic
 
 ### 12 36 40.10 Natural Stone Countertops
 
-#### 0010 NATURAL STONE COUNTERTOPS
 
 | ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
 |-------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
@@ -596,8 +578,6 @@ Ceramic tile mosaic
 
 ### 12 36 53.10 Laboratory Countertops and Sinks
 
-#### 0010 LABORATORY COUNTERTOPS AND SINKS
-
 | ID    | Name                                                                 | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------------------------------|--------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
 | 0020  | Countertops, epoxy resin, not incl. base cabinets, acid proof, min.  | 2 Carp | 82           | .195        | S.F. | 97       | 11     |           | 108     | 123            |
@@ -610,62 +590,46 @@ Ceramic tile mosaic
 
 ### 12 36 61.16 Solid Surface Countertops
 
-#### 0010 SOLID SURFACE COUNTERTOPS, Acrylic polymer
-
-##### 0020 Pricing for orders of 100 LF. or greater
-
-| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 0100  | 25" wide, solid colors                       | 2 Carp | 222222222.571| LF          | 58.50| 32      |       | 90.50     | 113     |
-| 0200  | Patterned colors                             |        | 28           | .571        |      | 74.50   | 32    |           | 106.50  | 130            |
-| 0300  | Premium patterned colors                     |        | 28           | .571        |      | 99      | 32    |           | 131     | 157            |
-| 0400  | With silicone attached 4" backsplash, solid colors |    | 27           | .593        |      | 68.50   | 33.50 |           | 102     | 125            |
-| 0500  | Patterned colors                             |        | 27           | .593        |      | 87      | 33.50 |           | 120.50  | 145            |
-| 0600  | Premium patterned colors                     |        | 27           | .593        |      | 108     | 33.50 |           | 141.50  | 169            |
-| 0700  | With hard seam attached 4" backsplash, solid colors |  | 23           | .696        |      | 68.50   | 39    |           | 107.50  | 134            |
-| 0800  | Patterned colors                             |        | 23           | .696        |      | 87      | 39    |           | 126     | 154            |
-| 0900  | Premium patterned colors                     |        | 23           | .696        |      | 108     | 39    |           | 147     | 178            |
-
-##### 1000 Pricing for order of 51-99 LF.
-
-| ID    | Name                                         | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
-| 1100  | 25" wide, solid colors                       | 12 Corp.| 242222222.667| L.F.        | 67   | 37.50   |        | 104.50    | 130     |
-| 1200  | Patterned colors                             |         | 24           | .667        |      | 85.50   | 37.50  |           | 123      | 150            |
-| 1300  | Premium patterned colors                     |         | 24           | .667        |      | 114     | 37.50  |           | 151.50   | 181            |
-| 1400  | With silicone attached 4" backsplash, solid colors |    | 23           | .696        |      | 79      | 39     |           | 118      | 145            |
-| 1500  | Patterned colors                             |         | 23           | .696        |      | 100     | 39     |           | 139      | 169            |
-| 1600  | Premium patterned colors                     |         | 23           | .696        |      | 125     | 39     |           | 164      | 196            |
-| 1700  | With hard seam attached 4" backsplash, solid colors |  | 20           | .800        |      | 79      | 45     |           | 124      | 154            |
-| 1800  | Patterned colors                             |         | 20           | .800        |      | 100     | 45     |           | 145      | 177            |
-| 1900  | Premium patterned colors                     |         | 20           | 800         |      | 125     | 45     |           | 170      | 204            |
-
-##### 2000 Pricing for order of 1-50 L.F.
-
-| ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
-|-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
-| 2100  | 25" wide, solid colors                       | 2 Carp | 22227        | .800        | LF   | 79       | 4544  |           | 124     | 154            |
-| 2200  | Patterned colors                             | 1      | 20           | .800        |      | 100      | 45    |           | 145     | 177            |
-| 2300  | Premium patterned colors                     |        | 20           | .800        |      | 134      | 45    |           | 179     | 214            |
-| 2400  | With silicone attached 4" backsplash, solid colors |   | 19           | .842        |      | 92.50    | 47.50 |           | 140     | 173            |
-| 2500  | Patterned colors                             |        | 19           | .842        |      | 117      | 47.50 |           | 164.50  | 200            |
-| 2600  | Premium patterned colors                     | a9     | .842         |             |      | 146      | 47.50 |           | 193.50  | 232            |
-| 2700  | With hard seam attached 4" backsplash, solid colors | | 15           | 1.067       |      | 92.50    | 60    |           | 152.50  | 192            |
-| 2800  | Patterned colors                             |        | 15           | 1.067       |      | 117      | 60    |           | 177     | 219            |
-| 2900  | Premium patterned colors                     |        | 15           | 1.067       |      | 146      | 60    |           | 206     | 251            |
-
-##### 3000 Sinks, pricing for order of 100 or greater units
-
-| ID    | Name                                                        | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total | Total Incl O&P |
-|-------|-------------------------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|-------|----------------|
-| 3100  | Single bowl, hard seamed, solid colors, 13" x 17"           | 1 Carp | 3            | 2.667       | Ea.  | 420      | 150   |           | 570   | 690            |
-| 3200  | 10" x 15"                                                   |        | 7            | 1.143       |      | 195      | 64.50 |           | 259.50| 310            |
+| ID    | Name                                              | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total   | Total Incl O&P |
+|-------|---------------------------------------------------|---------|--------------|-------------|------|----------|--------|-----------|---------|----------------|
+| 0100  | 25" wide, solid colors                            | 2 Carp  | 28| LF          | 58.50| 32       |        | 90.50     | 113     |                |
+| 0200  | Patterned colors                                  |         | 28           | .571        |      | 74.50    | 32     |           | 106.50  | 130            |
+| 0300  | Premium patterned colors                          |         | 28           | .571        |      | 99       | 32     |           | 131     | 157            |
+| 0400  | With silicone attached 4" backsplash, solid colors|         | 27           | .593        |      | 68.50    | 33.50  |           | 102     | 125            |
+| 0500  | Patterned colors                                  |         | 27           | .593        |      | 87       | 33.50  |           | 120.50  | 145            |
+| 0600  | Premium patterned colors                          |         | 27           | .593        |      | 108      | 33.50  |           | 141.50  | 169            |
+| 0700  | With hard seam attached 4" backsplash, solid colors|        | 23           | .696        |      | 68.50    | 39     |           | 107.50  | 134            |
+| 0800  | Patterned colors                                  |         | 23           | .696        |      | 87       | 39     |           | 126     | 154            |
+| 0900  | Premium patterned colors                          |         | 23           | .696        |      | 108      | 39     |           | 147     | 178            |
+| 1000  | Pricing for order of 51-99 LF.                    |         |              |             |      |          |        |           |         |                |
+| 1100  | 25" wide, solid colors                            | 2 Corp | 24| LF          | 67   | 37.50    |        | 104.50    | 130     |                |
+| 1200  | Patterned colors                                  |         | 24           | .667        |      | 85.50    | 37.50  |           | 123     | 150            |
+| 1300  | Premium patterned colors                          |         | 24           | .667        |      | 114      | 37.50  |           | 151.50  | 181            |
+| 1400  | With silicone attached 4" backsplash, solid colors|         | 23           | .696        |      | 79       | 39     |           | 118     | 145            |
+| 1500  | Patterned colors                                  |         | 23           | .696        |      | 100      | 39     |           | 139     | 169            |
+| 1600  | Premium patterned colors                          |         | 23           | .696        |      | 125      | 39     |           | 164     | 196            |
+| 1700  | With hard seam attached 4" backsplash, solid colors|        | 20           | .800        |      | 79       | 45     |           | 124     | 154            |
+| 1800  | Patterned colors                                  |         | 20           | .800        |      | 100      | 45     |           | 145     | 177            |
+| 1900  | Premium patterned colors                          |         | 20           | .800        |      | 125      | 45     |           | 170     | 204            |
+| 2000  | Pricing for order of 1-50 LF.                     |         |              |             |      |          |        |           |         |                |
+| 2100  | 25" wide, solid colors                            | 2 Carp  | 20        | .800        | LF   | 79       | 45     |           | 124     | 154            |
+| 2200  | Patterned colors                                  | 1      | 20           | .800        |      | 100      | 45     |           | 145     | 177            |
+| 2300  | Premium patterned colors                          |         | 20           | .800        |      | 134      | 45     |           | 179     | 214            |
+| 2400  | With silicone attached 4" backsplash, solid colors|         | 19           | .842        |      | 92.50    | 47.50  |           | 140     | 173            |
+| 2500  | Patterned colors                                  |         | 19           | .842        |      | 117      | 47.50  |           | 164.50  | 200            |
+| 2600  | Premium patterned colors                          |         | 19           | .842        |      | 146      | 47.50  |           | 193.50  | 232            |
+| 2700  | With hard seam attached 4" backsplash, solid colors|        | 15           | 1.067       |      | 92.50    | 60     |           | 152.50  | 192            |
+| 2800  | Patterned colors                                  |         | 15           | 1.067       |      | 117      | 60     |           | 177     | 219            |
+| 2900  | Premium patterned colors                          |         | 15           | 1.067       |      | 146      | 60     |           | 206     | 251            |
+| 3000  | Sinks, pricing for order of 100 or greater units  |         |              |             |      |          |        |           |         |                |
+| 3100  | Single bowl, hard seamed, solid colors, 13" x 17" | 1 Carp  | 3            | 2.667       | Ea.  | 420      | 150    |           | 570     | 690            |
+| 3200  | 10" x 15"                                        |         | 7            | 1.143       |      | 195      | 64.50  |           | 259.50  | 310            |
 
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
-# Window Shades
+# 12 24 13.10 Roller Window Shades
 
 | ID    | Name                                   | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -677,13 +641,13 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 2040  | 72" x 72"                              |         | 19           | .421        |      | 450      | 23.50 |           | 473.50  | 530            |
 | 6011  | Solar screening, fiberglass             | G       | 85           | .094        | S.F. | 8.90     | 5.30  |           | 14.20   | 17.70          |
 
-# Manufactured Wood Casework
+# 12 32 23.10 Manufactured Wood Casework, Stock Units
 
 | ID    | Name                                   | Crew    | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------|---------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
 | 0400  | Builtin drawer units, pine, 18" deep, 32" high, unfinished, Minimum | 2 Carp  | 53           | .302        | LF   | 139      | 17    |           | 156     | 179            |
 | 0500  | Builtin drawer units, pine, 18" deep, 32" high, unfinished, Maximum | "       | 40           | .400        |      | 164      | 22.50 |           | 186.50  | 215            |
-| 0800  | Kitchen base cabinets, hardwood, not incl. counter tops, 24" deep, 35" high, prefinished, One top drawer, one door below, 12" wide | 12 Carp | 24.80        | .645        | Ea.  | 390      | 36.50 |           | 426.50  | 480            |
+| 0800  | Kitchen base cabinets, hardwood, not incl. counter tops, 24" deep, 35" high, prefinished, One top drawer, one door below, 12" wide | 2 Carp | 24.80        | .645        | Ea.  | 390      | 36.50 |           | 426.50  | 480            |
 | 0840  | 18" wide                                | 1       | 23.30        | .687        |      | 415      | 38.50 |           | 453.50  | 515            |
 | 0880  | 24" wide                                |         | 22.30        | .717        |      | 470      | 40.50 |           | 510.50  | 575            |
 | 1000  | Four drawers, 12" wide                  |         | 24.80        | .645        |      | 735      | 36.50 |           | 771.50  | 865            |
@@ -717,13 +681,8 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 7500  | Oven cabinets, 84" high, 24" deep, 27" wide |         | 8            | 2           |      | 1,050    | 113   |           | 1,163   | 1,325          |
 | 7750  | Valance board trim                      |         | 396          | .040        | LF.  | 24.50    | 2.27  |           | 26.77   | 30.50           |
 
-# 11235 Special35 Casework
+## 12 35 50.13 Specialty Educational/Library Casework
 
-## Specialty Educational/Library Casework
-
-### 0010 EDUCATIONAL CASEWORK
-
-School, 24" deep, metal, 84" high units
 
 | ID   | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor   | Equipment | Total   | Total Incl O&P |
 |------|---------------------|--------|--------------|-------------|------|----------|---------|-----------|---------|----------------|
@@ -801,15 +760,11 @@ School, 24" deep, metal, 84" high units
 ---
 
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
-
-# Furnishings - Clocks, Waste Receptacles, Rugs and Mats
-
-## Clocks
+# 12 46 19 Clocks        
+# 12 46 19.50 Wall Clocks
 
 | ID    | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 12 46 19 | Clocks           |        |              |             |      |          |       |           |        |                |
-| 12 46 19.50 | Wall Clocks   |        |              |             |      |          |       |           |        |                |
 | 0010  | WALL CLOCKS         |        |              |             |      |          |       |           |        |                |
 | 0080  | 12" diameter, single face | 1 Elec | 8            |             | Eq.  | 143      | 66    |           | 209    | 256            |
 | 0100  | Double face         | -      | 6.20         | 1.290       | "    | 143      | 85.50 |           | 228.50 | 285            |
@@ -818,10 +773,11 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ## Waste Receptacles
 
+# 12 46 33 Waste Receptacles 
+# 12 46 33.13 Trash Receptacles 
+
 | ID    | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 12 46 33 | Waste Receptacles |        |              |             |      |          |       |           |        |                |
-| 12 46 33.13 | Trash Receptacles |    |              |             |      |          |       |           |        |                |
 | 0010  | TRASH RECEPTACLES   |        |              |             |      |          |       |           |        |                |
 | 4000  | Trash receptacle, metal |    |              |             |      |          |       |           |        |                |
 | 4020  | 8" diameter, 15" high | 1 Clab | 60         | .133        | Eg.  | 55.50    | 66=== |           | 61.60  | 70.50          |
@@ -836,13 +792,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 
 ---
 
-## Rugs and Mats
+# 12 48 13.13 | Entrance Floor Mats |      |            |             |      |          |       |           |        |                |
 
 | ID    | Name                | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total  | Total Incl O&P |
 |-------|---------------------|--------|--------------|-------------|------|----------|-------|-----------|--------|----------------|
-| 12 48 | Rugs and Mats       |        |              |             |      |          |       |           |        |                |
-| 12 48 13- | Entrance Floor Mats and Frames | |        |             |      |          |       |           |        |                |
-| 12 48 13.13 | Entrance Floor Mats |      |            |             |      |          |       |           |        |                |
 | 0010  | ENTRANCE FLOOR MATS |        |              |             |      |          |       |           |        |                |
 | 0020  | Recessed, black rubber, 3/8" thick, solid | 1 Clab | 155 | .052 | S.F. | حب      | 2.35  |           | 5.35   | 6.80           |
 | 0050  | % Perforated        |        | 155          | .052        |      | 25.50    | 2.35  |           | 27.85  | 31.50          |
@@ -867,7 +820,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 3000  | Hospital tacky mats, package of 30 with frame | |        |             | Ea.  | 763      |        |           | 76     | 83.50          |
 | 3010  | 4 packages of 30    |        |              |             | ="   | 75       |       |           | 75     | 82.50          |
 
-# Stadium and Arena Bench Seating
+# 12 63 13.13 Bleachers
 
 | ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |-------|---------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|----------|----------------|
@@ -882,7 +835,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 4000  | Maximum                                           |        | 250         | .064        |      | 1,475    | 4.24   |           | 1,479.24 | 1,625          |
 | 5000  | Benches, folding, in wall, 14' table, 2 benches   | L-4    | 2           | 12          | Set  | 2,500    | 645    |           | 3,145    | 3,725          |
 
-# Pews and Benches
+# 12 67 13.13 Pews and Benches
 
 | ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |-------|---------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|----------|----------------|
@@ -891,7 +844,7 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1550  | Maximum                                           |        | 15          | .533        | !    | 650      | 30     |           | 680      | 760            |
 | 1570  | For kneeler, add                                 |        |             |             |      | 20.50    |        |           | 20.50    | 22.50           |
 
-# Interior Planters and Artificial Plants
+# 12 92 33.10 Interior Planters and Artificial Plants
 
 | ID    | Name                                              | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor  | Equipment | Total    | Total Incl O&P |
 |-------|---------------------------------------------------|--------|-------------|-------------|------|----------|--------|-----------|----------|----------------|
@@ -974,7 +927,7 @@ For customer support on your 455
 
 ## Library Furniture
 
-### Library Furnishings
+### 12 56 51.10 Library Furnishings
 
 | ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -991,7 +944,7 @@ For customer support on your 455
 
 ---
 
-# Healthcare Furniture
+# 12 56 70.10 Healthcare Furniture
 
 | ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -1015,7 +968,7 @@ For customer support on your 455
 
 ## Upholstered Audience Seating
 
-### Auditorium Chairs
+### 12 61 13.13 Auditorium Chairs
 
 | ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -1025,7 +978,7 @@ For customer support on your 455
 | 2450  | For tablet arms, odd                        |        |              |             |      | 93.50    |       |           | 93.50   | 103            |
 | 2500  | For fire retardancy, CATB-133, add           |        |              |             |      | 31.50    |       |           | 31.50   | 34.50          |
 
-## Lecture Hall Seating
+## 12 61 13.62 Lecture Hall Seating
 
 | ID    | Name                                         | Crew   | Daily Output | Labor-Hours | Unit | Material | Labor | Equipment | Total   | Total Incl O&P |
 |-------|----------------------------------------------|--------|--------------|-------------|------|----------|-------|-----------|---------|----------------|
@@ -1038,10 +991,10 @@ For customer support on your 455
 For customer support on your Building Construction Costs with RSMeans data, call 800.448.8182.
 
 # Interior Shutters
+# 12 23 13.10 Wood Interior Shutters     
 
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor      | Equipment | Total   | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|------------|-----------|---------|----------------|
-| 12 23 13.10 | Wood Interior Shutters                  |         |              |             |        |          |            |           |         |                |
 | 0010  | WOOD INTERIOR SHUTTERS, louvered           |         |              |             |        |          |            |           |         |                |
 | 0200  | Two panel, 27" wide, 36" high              | 1 Carp  | 5555         | 1.600       | Set    | 212      | 902222222  |           | 302     | 370            |
 | 0300  | 33" wide, 36" high                         |         | 5            | 1.600       |        | 274      | 90         |           | 364     | 435            |
@@ -1054,10 +1007,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 1460  | 36" x 96"                                  |         | 2.667        |             |        | 715      | 150        |           | 865     | 1,000          |
 
 # Wood Panels
+## 12 23 13.13 Wood Panels    
 
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor      | Equipment | Total   | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|------------|-----------|---------|----------------|
-| 12 23 13.13 | Wood Panels                             |         |              |             |        |          |            |           |         |                |
 | 0010  | WOOD PANELS                                |         |              |             |        |          |            |           |         |                |
 | 3000  | Wood folding panels with movable louvers, 7" x 20" each | 1 Carp  | 17           | .471        | Pr     | 93.50    | 26.50      |           | 1220    | 143            |
 | 3300  | 8" x 28" each                              |         | 17           | .471        |        | 93.50    | 26.50      |           | 120     | 143            |
@@ -1079,10 +1032,10 @@ For customer support on your Building Construction Costs with RSMeans data, call
 | 6500  | For custom built hardwood blinds, add       |         |              |             |        | 42 %     |            |           |         |                |
 
 # Window Shades
+# 12 24 13.10 Window Shades    
 
 | ID    | Name                                      | Crew    | Daily Output | Labor-Hours | Unit   | Material | Labor      | Equipment | Total   | Total Incl O&P |
 |-------|-------------------------------------------|---------|--------------|-------------|--------|----------|------------|-----------|---------|----------------|
-| 12 24 13.10 | Shades                                   |         |              |             |        |          |            |           |         |                |
 | 0010  | SHADES                                    |         |              |             |        |          |            |           |         |                |
 | 0020  | Basswood, rol-up, stain finish, 3/8" slats | 1 Carp  | 300          | .027        | S.F    | 25       | 1.50       |           | 26.50   | 29.50           |
 | 0200  | 7/8" slats                                 |         | 300          | .027        |        | 61       | 1.50       |           | 62.50   | 69.50           |
