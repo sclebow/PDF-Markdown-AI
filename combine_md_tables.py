@@ -123,11 +123,13 @@ def streamlit_main():
     uploaded_files = st.file_uploader("Choose Markdown file(s)", type=["md"], accept_multiple_files=True)
     output_dir = st.text_input("Output directory (absolute path)", value=os.getcwd())
     process_button = st.button("Process Markdown File(s)")
+    export_individual = st.checkbox("Export individual CSVs for each file (named after each markdown file)")
 
     if uploaded_files and output_dir and process_button:
         all_dataframes = []
         header_mismatch = False
         mismatch_details = []
+        individual_file_tables = {}
         for uploaded_file in uploaded_files:
             content = uploaded_file.read().decode("utf-8")
             filename = uploaded_file.name
@@ -207,6 +209,8 @@ def streamlit_main():
             for df in extracted_dataframes:
                 cleaned_dfs.append(clean_dataframe(df))
             all_dataframes.extend(cleaned_dfs)
+            if export_individual:
+                individual_file_tables[filename] = cleaned_dfs
         if not all_dataframes:
             st.error("No tables found in the uploaded markdown files.")
             return
@@ -215,6 +219,27 @@ def streamlit_main():
             st.write("Details:")
             for detail in mismatch_details:
                 st.write(detail)
+            return
+        if export_individual:
+            for fname, dfs in individual_file_tables.items():
+                if not dfs:
+                    continue
+                combined_df = pd.DataFrame()
+                for df in dfs:
+                    if combined_df.empty:
+                        combined_df = df
+                    else:
+                        combined_df = pd.concat([combined_df, df], ignore_index=True, sort=False)
+                combined_df.reset_index(drop=True, inplace=True)
+                base, _ = os.path.splitext(fname)
+                output_file = os.path.join(output_dir, f"{base}.csv")
+                try:
+                    combined_df.to_csv(output_file, index=False, encoding='utf-8')
+                    st.success(f"Saved CSV for {fname} to {output_file}")
+                    with open(output_file, "rb") as f:
+                        st.download_button(f"Download CSV for {fname}", f, file_name=os.path.basename(output_file), mime="text/csv")
+                except Exception as e:
+                    st.error(f"Failed to save CSV for {fname}: {e}")
             return
         combined_df = pd.DataFrame()
         for i, df in enumerate(all_dataframes):
